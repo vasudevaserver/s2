@@ -1,0 +1,45 @@
+#+TITLE: Divine enterprise songbook, part 1
+#+AUTHOR: Sri Chinmoy 
+#+LANGUAGE: bn, en
+
+
+* Index
+
+  :PROPERTIES:
+  :BOOK-NUMBER: 1310
+  :AUTHOR: Sri Chinmoy
+  :ORIGINAL-EDITION:
+  :YEAR: 1999
+  :PUBLISHER:
+  :CITE-KEY: DES-1
+  :GENRE: song
+  :END:
+
+
+* Editor's note   
+
+  :PROPERTIES:
+  :GENRE: note
+  :CITE-KEY: 
+  :END:
+
+This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
+
+
+
+* Editor's note   :noexport: 
+
+  :PROPERTIES:
+  :GENRE: note
+  :CITE-KEY: DES:1e1
+  :END:
+
+
+55 songs for enterprises
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# End:
