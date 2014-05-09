@@ -26,4 +26,13 @@
   :KEYWORDS:
   :END:
 
-This book is currently empty, we will be adding content shortly.
+/This book is currently empty, we will be adding content shortly./
+
+
+
+#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# coding: unix
+# End:
