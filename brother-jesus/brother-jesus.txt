@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR-e4
   :KEYWORDS:
+  :CITE-KEY: BRJR:1
   :END:
 
 
@@ -47,8 +47,8 @@ Written on \\
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:1
   :KEYWORDS:
+  :CITE-KEY: BRJR:2
   :END:
 
 
@@ -84,8 +84,8 @@ Never!"
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:2
   :KEYWORDS:
+  :CITE-KEY: BRJR:3
   :END:
 
 
@@ -107,8 +107,8 @@ Eternity's ignorance-feast."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:3
   :KEYWORDS:
+  :CITE-KEY: BRJR:4
   :END:
 
 
@@ -139,8 +139,8 @@ That succeeded only in crucifying me?"
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:4
   :KEYWORDS:
+  :CITE-KEY: BRJR:5
   :END:
 
 
@@ -166,8 +166,8 @@ Action-feast."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:5
   :KEYWORDS:
+  :CITE-KEY: BRJR:6
   :END:
 
 
@@ -190,8 +190,8 @@ Don't give up."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:6
   :KEYWORDS:
+  :CITE-KEY: BRJR:7
   :END:
 
 
@@ -215,8 +215,8 @@ Are growing within me unerringly.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:7
   :KEYWORDS:
+  :CITE-KEY: BRJR:8
   :END:
 
 
@@ -241,8 +241,8 @@ A flood of nectar-bliss "
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:8
   :KEYWORDS:
+  :CITE-KEY: BRJR:9
   :END:
 
 
@@ -285,8 +285,8 @@ Why? Why? Why?
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:9
   :KEYWORDS:
+  :CITE-KEY: BRJR:10
   :END:
 
 
@@ -309,8 +309,8 @@ Inferiority-pride."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:10
   :KEYWORDS:
+  :CITE-KEY: BRJR:11
   :END:
 
 
@@ -345,8 +345,8 @@ By illumining-consciousness-light.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:11
   :KEYWORDS:
+  :CITE-KEY: BRJR:12
   :END:
 
 
@@ -368,8 +368,8 @@ Of stupidity-sea?"
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:12
   :KEYWORDS:
+  :CITE-KEY: BRJR:13
   :END:
 
 
@@ -395,8 +395,8 @@ Will suffer Eternity's endless delay."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:13
   :KEYWORDS:
+  :CITE-KEY: BRJR:14
   :END:
 
 
@@ -421,8 +421,8 @@ On earth."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:14
   :KEYWORDS:
+  :CITE-KEY: BRJR:15
   :END:
 
 
@@ -456,8 +456,8 @@ In Heaven."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:15
   :KEYWORDS:
+  :CITE-KEY: BRJR:16
   :END:
 
 
@@ -494,8 +494,8 @@ Poorer me, brother Jesus.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:16
   :KEYWORDS:
+  :CITE-KEY: BRJR:17
   :END:
 
 
@@ -520,8 +520,8 @@ Our eternally wise Father.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:17
   :KEYWORDS:
+  :CITE-KEY: BRJR:18
   :END:
 
 
@@ -559,8 +559,8 @@ With our unlucky Mother.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:18
   :KEYWORDS:
+  :CITE-KEY: BRJR:19
   :END:
 
 
@@ -583,8 +583,8 @@ Christianity knows how to envelop."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:19
   :KEYWORDS:
+  :CITE-KEY: BRJR:20
   :END:
 
 
@@ -607,8 +607,8 @@ The New Testament knew."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:20
   :KEYWORDS:
+  :CITE-KEY: BRJR:21
   :END:
 
 
@@ -635,8 +635,8 @@ His divine Justice-Weapon."
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: BRJR:21
   :KEYWORDS:
+  :CITE-KEY: BRJR:22
   :END:
 
 
@@ -664,8 +664,8 @@ And hydrogen bomb."
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: BRJR-e3
   :KEYWORDS:
+  :CITE-KEY: BRJR:23e1
   :END:
 
 
@@ -675,6 +675,7 @@ And hydrogen bomb."
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:23
   :END:
 
 
@@ -691,6 +692,7 @@ Jesus smiles. The world becomes.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:24
   :END:
 
 
@@ -705,6 +707,7 @@ The world wanted. Jesus gave. In addition, he became.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:25
   :END:
 
 
@@ -719,6 +722,7 @@ Jesus did not have the chance to tell the world the unavoidable necessity of the
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:26
   :END:
 
 
@@ -733,6 +737,7 @@ His Divine Death was not only an answer, but The Answer.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:27
   :END:
 
 
@@ -747,6 +752,7 @@ Humanity suffered worse than Defeat in not receiving the Son.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:28
   :END:
 
 
@@ -761,6 +767,7 @@ The world had. Jesus accepted.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:29
   :END:
 
 
@@ -775,6 +782,7 @@ The world did. It veiled itself.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:30
   :END:
 
 
@@ -789,6 +797,7 @@ Humanity cried through Jesus' eyes.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:31
   :END:
 
 
@@ -809,6 +818,7 @@ And she within herself shelters his Father's entire creation.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:32
   :END:
 
 
@@ -821,6 +831,7 @@ Sensuality cannot live in Purity. But Purity can live in sensuality. Mary's Puri
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:33
   :END:
 
 
@@ -833,6 +844,7 @@ Human impurity knows only how to cry out. Mary's divine Purity certainly listens
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:34
   :END:
 
 
@@ -847,6 +859,7 @@ Jesus' soul showed the Heavens how to descend.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:35
   :END:
 
 
@@ -865,6 +878,7 @@ He prayed for this blessing: "Father, forgive them, for they know not what they 
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:36
   :END:
 
 
@@ -881,6 +895,7 @@ Catholicism wants to see God through His implicit Faith.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:37
   :END:
 
 
@@ -895,6 +910,7 @@ Protestantism feels that Christ gradually Became.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:38
   :END:
 
 
@@ -907,14 +923,15 @@ Who is our peerless friend ? One who consciously or unconsciously helps us to fu
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:39
   :END:
 
 
 Jesus knew it. 'Friend,' he addressed Judas. The significance of Judas' kiss Heaven knew, but the earth has yet to know.
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: BRJR-e4
   :KEYWORDS:
+  :CITE-KEY: BRJR:40e1
   :END:
 
 
@@ -931,6 +948,7 @@ Jesus knew it. 'Friend,' he addressed Judas. The significance of Judas' kiss Hea
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:40
   :END:
 
 
@@ -945,6 +963,7 @@ The Christ became the Truth. Hence the Truth lives and breathes on earth.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:41
   :END:
 
 
@@ -961,6 +980,7 @@ Greatest was his sacrifice.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:42
   :END:
 
 
@@ -975,6 +995,7 @@ The inner Christ is the history.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:43
   :END:
 
 
@@ -989,6 +1010,7 @@ Divine glorification greeted the ascending Christ.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:44
   :END:
 
 
@@ -1003,6 +1025,7 @@ The Divine Christ represented the success of Truth.
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:45
   :END:
 
 
@@ -1015,6 +1038,7 @@ In Baptism the Christ realised the Truth for the second time. In His crucifixion
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:46
   :END:
 
 
@@ -1027,6 +1051,7 @@ Three fleeting years between His Baptism and His Crucifixion. But during this st
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:47
   :END:
 
 
@@ -1041,6 +1066,7 @@ What do we learn from this? God is not bound by His cosmic Laws. But He is the e
   :PROPERTIES:
   :GENRE: poem
   :KEYWORDS:
+  :CITE-KEY: BRJR:48
   :END:
 
 
@@ -1052,8 +1078,8 @@ It is not under the branches, but at the foot of the tree that one gets full pro
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: BRJR-e5
   :KEYWORDS:
+  :CITE-KEY: BRJR:49e1
   :END:
 
 
@@ -1344,8 +1370,8 @@ Where has He gone?
 
   :PROPERTIES:
   :GENRE: preface
-  :CITE-KEY: BRJR-e1
   :KEYWORDS:
+  :CITE-KEY: BRJR:49e2
   :END:
 
 

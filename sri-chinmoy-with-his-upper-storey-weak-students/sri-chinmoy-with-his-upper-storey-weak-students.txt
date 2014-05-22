@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: SCUS:1e1
   :END:
 
 
@@ -36,8 +36,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: SCUS-e1
   :KEYWORDS:
+  :CITE-KEY: SCUS:1e2
   :END:
 
 
@@ -46,8 +46,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:1
   :KEYWORDS:
+  :CITE-KEY: SCUS:1
   :END:
 
 
@@ -67,8 +67,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:2
   :KEYWORDS:
+  :CITE-KEY: SCUS:2
   :END:
 
 
@@ -86,8 +86,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:3
   :KEYWORDS:
+  :CITE-KEY: SCUS:3
   :END:
 
 
@@ -105,8 +105,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:4
   :KEYWORDS:
+  :CITE-KEY: SCUS:4
   :END:
 
 
@@ -120,8 +120,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:5
   :KEYWORDS:
+  :CITE-KEY: SCUS:5
   :END:
 
 
@@ -135,8 +135,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:6
   :KEYWORDS:
+  :CITE-KEY: SCUS:6
   :END:
 
 
@@ -166,8 +166,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:7
   :KEYWORDS:
+  :CITE-KEY: SCUS:7
   :END:
 
 
@@ -185,8 +185,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:8
   :KEYWORDS:
+  :CITE-KEY: SCUS:8
   :END:
 
 
@@ -208,8 +208,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:9
   :KEYWORDS:
+  :CITE-KEY: SCUS:9
   :END:
 
 
@@ -231,8 +231,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:10
   :KEYWORDS:
+  :CITE-KEY: SCUS:10
   :END:
 
 
@@ -254,8 +254,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:11
   :KEYWORDS:
+  :CITE-KEY: SCUS:11
   :END:
 
 
@@ -269,8 +269,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:12
   :KEYWORDS:
+  :CITE-KEY: SCUS:12
   :END:
 
 
@@ -284,8 +284,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:13
   :KEYWORDS:
+  :CITE-KEY: SCUS:13
   :END:
 
 
@@ -299,8 +299,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:14
   :KEYWORDS:
+  :CITE-KEY: SCUS:14
   :END:
 
 
@@ -314,8 +314,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:15
   :KEYWORDS:
+  :CITE-KEY: SCUS:15
   :END:
 
 
@@ -335,8 +335,8 @@
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: SCUS:16
   :KEYWORDS:
+  :CITE-KEY: SCUS:16
   :END:
 
 

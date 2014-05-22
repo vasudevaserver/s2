@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:1
   :KEYWORDS:
+  :CITE-KEY: DIM:1
   :END:
 
 
@@ -33,8 +33,8 @@
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e1
   :KEYWORDS:
+  :CITE-KEY: DIM:2e1
   :END:
 
 
@@ -82,8 +82,8 @@ ANGEL
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:2
   :KEYWORDS:
+  :CITE-KEY: DIM:2
   :END:
 
 
@@ -92,8 +92,8 @@ ANGEL
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:3
   :KEYWORDS:
+  :CITE-KEY: DIM:3
   :END:
 
 
@@ -125,8 +125,8 @@ ROHINI: Master, I shall do my best to make a most delicious meal for you. If you
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:4
   :KEYWORDS:
+  :CITE-KEY: DIM:4
   :END:
 
 
@@ -172,8 +172,8 @@ NEIGHBOURS: Take us there.
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:5
   :KEYWORDS:
+  :CITE-KEY: DIM:5
   :END:
 
 
@@ -207,8 +207,8 @@ SECOND NEIGHBOUR: I would have called the police and had him arrested! But this 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:6
   :KEYWORDS:
+  :CITE-KEY: DIM:6
   :END:
 
 
@@ -272,8 +272,8 @@ KAVIR: Oh Father, where was I? I seemed to be in another world. I saw my mother 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:7
   :KEYWORDS:
+  :CITE-KEY: DIM:7
   :END:
 
 
@@ -311,8 +311,8 @@ FIRST POLICEMAN: You are both under arrest. Let’s go.
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:8
   :KEYWORDS:
+  :CITE-KEY: DIM:8
   :END:
 
 
@@ -330,8 +330,8 @@ ROHINI: Do not call him a rascal, my child. He is our Master. He knows the kind 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:9
   :KEYWORDS:
+  :CITE-KEY: DIM:9
   :END:
 
 
@@ -349,8 +349,8 @@ RATAN: Call me a fool, say anything you want against me, but please don’t crit
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:10
   :KEYWORDS:
+  :CITE-KEY: DIM:10
   :END:
 
 
@@ -370,8 +370,8 @@ DAYAL: No, no, Mother Rohini. Master, last night I had a dream. My parents came 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:11
   :KEYWORDS:
+  :CITE-KEY: DIM:11
   :END:
 
 
@@ -430,8 +430,8 @@ ANGEL: The moment I touch your head, you will be illumined. Then wake your Maste
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:12
   :KEYWORDS:
+  :CITE-KEY: DIM:12
   :END:
 
 
@@ -440,8 +440,8 @@ ANGEL: The moment I touch your head, you will be illumined. Then wake your Maste
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e2
   :KEYWORDS:
+  :CITE-KEY: DIM:13e1
   :END:
 
 
@@ -455,8 +455,8 @@ KATYAYANI, MAITREYI, HIS WIVES
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:13
   :KEYWORDS:
+  :CITE-KEY: DIM:13
   :END:
 
 
@@ -465,8 +465,8 @@ KATYAYANI, MAITREYI, HIS WIVES
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:14
   :KEYWORDS:
+  :CITE-KEY: DIM:14
   :END:
 
 
@@ -584,8 +584,8 @@ YAGNYAVALKYA: Maitreyi, dearer than my life, to you I offer my heart’s eternal
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:15
   :KEYWORDS:
+  :CITE-KEY: DIM:15
   :END:
 
 
@@ -594,8 +594,8 @@ YAGNYAVALKYA: Maitreyi, dearer than my life, to you I offer my heart’s eternal
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e3
   :KEYWORDS:
+  :CITE-KEY: DIM:16e1
   :END:
 
 
@@ -617,8 +617,8 @@ YAMARAJ, THE KING OF DEATH
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:16
   :KEYWORDS:
+  :CITE-KEY: DIM:16
   :END:
 
 
@@ -627,8 +627,8 @@ YAMARAJ, THE KING OF DEATH
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:17
   :KEYWORDS:
+  :CITE-KEY: DIM:17
   :END:
 
 
@@ -710,8 +710,8 @@ SAVITRI: Bless me, O sage. Satyavan, Satyavan! He is my heart’s light; he is m
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:18
   :KEYWORDS:
+  :CITE-KEY: DIM:18
   :END:
 
 
@@ -729,8 +729,8 @@ DYUMATSEN: I know, I know. You and Satyavan will do everything for me. I live on
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:19
   :KEYWORDS:
+  :CITE-KEY: DIM:19
   :END:
 
 
@@ -754,8 +754,8 @@ SATYAVAN: Savitri, is there anything on earth that I would not do for you? My bo
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:20
   :KEYWORDS:
+  :CITE-KEY: DIM:20
   :END:
 
 
@@ -843,8 +843,8 @@ SAVITRI: I will tell you all about it, O Satyavan, O Lord of my life. Let us go 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:21
   :KEYWORDS:
+  :CITE-KEY: DIM:21
   :END:
 
 
@@ -853,8 +853,8 @@ SAVITRI: I will tell you all about it, O Satyavan, O Lord of my life. Let us go 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e4
   :KEYWORDS:
+  :CITE-KEY: DIM:22e1
   :END:
 
 
@@ -872,8 +872,8 @@ ANGEL
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:22
   :KEYWORDS:
+  :CITE-KEY: DIM:22
   :END:
 
 
@@ -882,8 +882,8 @@ ANGEL
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:23
   :KEYWORDS:
+  :CITE-KEY: DIM:23
   :END:
 
 
@@ -919,8 +919,8 @@ WIFE: I also want to tell you, my son, that if you are fond of Kali, you must no
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:24
   :KEYWORDS:
+  :CITE-KEY: DIM:24
   :END:
 
 
@@ -964,8 +964,8 @@ ANGEL: It was your son’s prayer that we heard. Your son has always been suffer
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:25
   :KEYWORDS:
+  :CITE-KEY: DIM:25
   :END:
 
 
@@ -974,8 +974,8 @@ ANGEL: It was your son’s prayer that we heard. Your son has always been suffer
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e5
   :KEYWORDS:
+  :CITE-KEY: DIM:26e1
   :END:
 
 
@@ -1003,8 +1003,8 @@ FOUR DANCING GIRLS
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:26
   :KEYWORDS:
+  :CITE-KEY: DIM:26
   :END:
 
 
@@ -1013,8 +1013,8 @@ FOUR DANCING GIRLS
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:27
   :KEYWORDS:
+  :CITE-KEY: DIM:27
   :END:
 
 
@@ -1140,8 +1140,8 @@ SUNDA: We must, without fail, we must.
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:28
   :KEYWORDS:
+  :CITE-KEY: DIM:28
   :END:
 
 
@@ -1175,8 +1175,8 @@ O Brahma, do appear before us. Do make us immortal like Indra. Everything we hav
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:29
   :KEYWORDS:
+  :CITE-KEY: DIM:29
   :END:
 
 
@@ -1256,8 +1256,8 @@ SUNDA: And we easily can.
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:30
   :KEYWORDS:
+  :CITE-KEY: DIM:30
   :END:
 
 
@@ -1316,8 +1316,8 @@ THE FOUR SAINTS /(together bowing down to Brahma)/: We are sure that Tilottama�
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:31
   :KEYWORDS:
+  :CITE-KEY: DIM:31
   :END:
 
 
@@ -1365,8 +1365,8 @@ INDRA: Tilottama, you have saved me. You have saved my divine pride. You have sa
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:32
   :KEYWORDS:
+  :CITE-KEY: DIM:32
   :END:
 
 
@@ -1375,8 +1375,8 @@ INDRA: Tilottama, you have saved me. You have saved my divine pride. You have sa
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DIM-e6
   :KEYWORDS:
+  :CITE-KEY: DIM:33e1
   :END:
 
 
@@ -1396,8 +1396,8 @@ TWO WIVES OF GANAPATI
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:33
   :KEYWORDS:
+  :CITE-KEY: DIM:33
   :END:
 
 
@@ -1406,8 +1406,8 @@ TWO WIVES OF GANAPATI
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:34
   :KEYWORDS:
+  :CITE-KEY: DIM:34
   :END:
 
 
@@ -1473,8 +1473,8 @@ GANAPATI /(very happy)/: Oh, Mother! They will help you, so you won’t have to 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:35
   :KEYWORDS:
+  :CITE-KEY: DIM:35
   :END:
 
 
@@ -1506,8 +1506,8 @@ KUMARA: Unbelievable! Unthinkable! My parents, my own parents have deceived me! 
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DIM:36
   :KEYWORDS:
+  :CITE-KEY: DIM:36
   :END:
 
 

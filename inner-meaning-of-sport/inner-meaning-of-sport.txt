@@ -22,7 +22,7 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
+  :CITE-KEY: IMS:1e1
   :END:
 
 
@@ -32,7 +32,7 @@
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:1e2
   :END:
 
 
@@ -44,7 +44,7 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: IMS:1
   :END:
 
 
@@ -62,7 +62,7 @@ Today's chaotic world cannot forever remain chaotic. World harmony, world peace 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:2e1
   :END:
 
 
@@ -74,7 +74,7 @@ Today's chaotic world cannot forever remain chaotic. World harmony, world peace 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: IMS:2
   :END:
 
 
@@ -93,7 +93,7 @@ At the beginning of our journey's start, millions and millions of years ago, we 
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
+  :CITE-KEY: IMS:3e1
   :END:
 
 
@@ -103,7 +103,7 @@ At the beginning of our journey's start, millions and millions of years ago, we 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:3e2
   :END:
 
 
@@ -115,7 +115,7 @@ At the beginning of our journey's start, millions and millions of years ago, we 
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:3
   :END:
 
 
@@ -133,7 +133,7 @@ Similarly, if we go to a spiritual person and see him praying and meditating, th
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:4
   :END:
 
 
@@ -145,7 +145,7 @@ Similarly, if we go to a spiritual person and see him praying and meditating, th
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:5e1
   :END:
 
 
@@ -157,7 +157,7 @@ Similarly, if we go to a spiritual person and see him praying and meditating, th
 
   :PROPERTIES:
   :GENRE: tribute
-  :CITE-KEY:
+  :CITE-KEY: IMS:5
   :END:
 
 
@@ -187,7 +187,7 @@ Finally, I salute you, Sudhahota, my Sudhahota, my students' Sudhahota, unity's 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:6e1
   :END:
 
 
@@ -199,7 +199,7 @@ Finally, I salute you, Sudhahota, my Sudhahota, my students' Sudhahota, unity's 
 
   :PROPERTIES:
   :GENRE: tribute
-  :CITE-KEY:
+  :CITE-KEY: IMS:6
   :END:
 
 
@@ -215,7 +215,7 @@ In the inner world, I am not comparing him with gold medals. I am comparing him 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:7e1
   :END:
 
 
@@ -227,7 +227,7 @@ In the inner world, I am not comparing him with gold medals. I am comparing him 
 
   :PROPERTIES:
   :GENRE: meeting
-  :CITE-KEY:
+  :CITE-KEY: IMS:7
   :END:
 
 
@@ -302,7 +302,7 @@ Mahavikram is a coach and I am playing his role. I was also once upon a time a c
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:8e1
   :END:
 
 
@@ -314,7 +314,7 @@ Mahavikram is a coach and I am playing his role. I was also once upon a time a c
 
   :PROPERTIES:
   :GENRE: meeting
-  :CITE-KEY:
+  :CITE-KEY: IMS:8
   :END:
 
 
@@ -349,7 +349,7 @@ I have always been very spiritual. I went to church —- I would not say a lot, 
 
   :PROPERTIES:
   :GENRE: meeting
-  :CITE-KEY:
+  :CITE-KEY: IMS:9
   :END:
 
 
@@ -449,7 +449,7 @@ Here did you have a good experience with your New Zealand students?
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:10e1
   :END:
 
 
@@ -461,7 +461,7 @@ Here did you have a good experience with your New Zealand students?
 
   :PROPERTIES:
   :GENRE: meeting
-  :CITE-KEY:
+  :CITE-KEY: IMS:10
   :END:
 
 
@@ -540,7 +540,7 @@ This is my speech. This is my inner feeling about you. I am echoing and re-echoi
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:11e1
   :END:
 
 
@@ -552,7 +552,7 @@ This is my speech. This is my inner feeling about you. I am echoing and re-echoi
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:11e2
   :END:
 
 
@@ -564,7 +564,7 @@ This is my speech. This is my inner feeling about you. I am echoing and re-echoi
 
   :PROPERTIES:
   :GENRE: meeting
-  :CITE-KEY:
+  :CITE-KEY: IMS:11
   :END:
 
 
@@ -587,7 +587,7 @@ So our philosophy, like yours, is never to give up, never to give up. After such
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:12e1
   :END:
 
 
@@ -599,7 +599,7 @@ So our philosophy, like yours, is never to give up, never to give up. After such
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: IMS:12
   :END:
 
 
@@ -624,6 +624,7 @@ Part III - Reflections
 
   :PROPERTIES:
   :GENRE: section
+  :CITE-KEY: IMS:13e1
   :END:
 
 
@@ -632,7 +633,7 @@ Part III - Reflections
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:13e2
   :END:
 
 
@@ -644,7 +645,7 @@ Part III - Reflections
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:13
   :END:
 
 
@@ -674,7 +675,7 @@ The goal is constantly going high, higher, highest. Whatever we achieve can be t
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:14e1
   :END:
 
 
@@ -686,7 +687,7 @@ The goal is constantly going high, higher, highest. Whatever we achieve can be t
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:14
   :END:
 
 
@@ -742,7 +743,7 @@ My own mind cannot believe what the divine Grace is doing in and through me. Whe
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:15e1
   :END:
 
 
@@ -754,7 +755,7 @@ My own mind cannot believe what the divine Grace is doing in and through me. Whe
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:15
   :END:
 
 
@@ -840,7 +841,7 @@ When people in the weightlifting world see a 55-year-old man who does not have g
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:16e1
   :END:
 
 
@@ -852,7 +853,7 @@ When people in the weightlifting world see a 55-year-old man who does not have g
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:16
   :END:
 
 
@@ -872,7 +873,7 @@ I received help because I am a seeker. I got help from the universal Force, from
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:17
   :END:
 
 
@@ -887,7 +888,7 @@ When it comes to my wrist, I am not affected in the same way. Here I have made n
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:18
   :END:
 
 
@@ -901,7 +902,7 @@ I have some critics also. They have said that I am not lifting 300 and 400 pound
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:19
   :END:
 
 
@@ -914,7 +915,7 @@ I have some critics also. They have said that I am not lifting 300 and 400 pound
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:20
   :END:
 
 
@@ -946,7 +947,7 @@ So often it happens that people lose their highest meditation. Even if the other
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:21
   :END:
 
 
@@ -968,7 +969,7 @@ Whenever you show aggression or anger, immediately your inner strength goes away
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:22e1
   :END:
 
 
@@ -980,7 +981,7 @@ Whenever you show aggression or anger, immediately your inner strength goes away
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:22
   :END:
 
 
@@ -1002,7 +1003,7 @@ Try to be one with the Will of our Lord Supreme and try to manifest His divine W
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:23e1
   :END:
 
 
@@ -1014,7 +1015,7 @@ Try to be one with the Will of our Lord Supreme and try to manifest His divine W
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:23
   :END:
 
 
@@ -1038,7 +1039,7 @@ Before you lift up metal plates, you remember that they are going to fall down. 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:24e1
   :END:
 
 
@@ -1050,7 +1051,7 @@ Before you lift up metal plates, you remember that they are going to fall down. 
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:24
   :END:
 
 
@@ -1068,7 +1069,7 @@ You can call it nature's excitement. Nature is participating or threatening. I t
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:25e1
   :END:
 
 
@@ -1080,7 +1081,7 @@ You can call it nature's excitement. Nature is participating or threatening. I t
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:25
   :END:
 
 
@@ -1102,7 +1103,7 @@ The spiritual world and the medical world go together so we can become better in
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:26e1
   :END:
 
 
@@ -1114,7 +1115,7 @@ The spiritual world and the medical world go together so we can become better in
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:26
   :END:
 
 
@@ -1130,7 +1131,7 @@ And then the goal itself is also transcending. There was a time when my goal was
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY:
+  :CITE-KEY: IMS:27
   :END:
 
 
@@ -1142,7 +1143,7 @@ And then the goal itself is also transcending. There was a time when my goal was
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:28e1
   :END:
 
 
@@ -1154,7 +1155,7 @@ And then the goal itself is also transcending. There was a time when my goal was
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:28
   :END:
 
 
@@ -1166,7 +1167,7 @@ These long distance races remind me of our Eternity's race. Along Eternity's Sho
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:29e1
   :END:
 
 
@@ -1178,7 +1179,7 @@ These long distance races remind me of our Eternity's race. Along Eternity's Sho
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:29
   :END:
 
 
@@ -1200,7 +1201,7 @@ This is a tangible way for me to be associated with the flight of the aeroplanes
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:30e1
   :END:
 
 
@@ -1212,7 +1213,7 @@ This is a tangible way for me to be associated with the flight of the aeroplanes
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:30
   :END:
 
 
@@ -1225,7 +1226,7 @@ strength that will be able to give us peace. Inner strength is nothing other tha
 
   :PROPERTIES:
   :GENRE: qa, interview
-  :CITE-KEY:
+  :CITE-KEY: IMS:31
   :END:
 
 
@@ -1247,7 +1248,7 @@ But I do not advise anybody to follow my diet. It applies to me but medical scie
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:32e1
   :END:
 
 
@@ -1259,7 +1260,7 @@ But I do not advise anybody to follow my diet. It applies to me but medical scie
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:32
   :END:
 
 
@@ -1275,7 +1276,7 @@ Some people are of the opinion that I am doing this weightlifting on the strengt
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:33e1
   :END:
 
 
@@ -1287,7 +1288,7 @@ Some people are of the opinion that I am doing this weightlifting on the strengt
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: IMS:33
   :END:
 
 
@@ -1315,7 +1316,7 @@ There should be a balance, balance, balance.
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:34e1
   :END:
 
 
@@ -1327,7 +1328,7 @@ There should be a balance, balance, balance.
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:34
   :END:
 
 
@@ -1355,7 +1356,7 @@ In the decathlon, my worst event was the 1500 metres. But in all the other event
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:35e1
   :END:
 
 
@@ -1367,7 +1368,7 @@ In the decathlon, my worst event was the 1500 metres. But in all the other event
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:35
   :END:
 
 
@@ -1390,7 +1391,7 @@ Only my two poor knees are not my friends. Otherwise, the rest of my body is my 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:36e1
   :END:
 
 
@@ -1402,7 +1403,7 @@ Only my two poor knees are not my friends. Otherwise, the rest of my body is my 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
+  :CITE-KEY: IMS:36
   :END:
 
 
@@ -1422,7 +1423,7 @@ So once more I am begging you, please pay utmost attention to the physical aspec
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:37e1
   :END:
 
 
@@ -1434,7 +1435,7 @@ So once more I am begging you, please pay utmost attention to the physical aspec
 
   :PROPERTIES:
   :GENRE: anecdote-autobiography
-  :CITE-KEY:
+  :CITE-KEY: IMS:37
   :END:
 
 
@@ -1484,7 +1485,7 @@ Aspiration-life is all up to us. It is between ourselves and God. If we sincerel
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:38e1
   :END:
 
 
@@ -1496,7 +1497,7 @@ Aspiration-life is all up to us. It is between ourselves and God. If we sincerel
 
   :PROPERTIES:
   :GENRE: remark
-  :CITE-KEY:
+  :CITE-KEY: IMS:38
   :END:
 
 
@@ -1509,7 +1510,7 @@ And I thank you deeply, my dear newscasters, because it is you who bring me to t
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY:
+  :CITE-KEY: IMS:39e1
   :END:
 
 

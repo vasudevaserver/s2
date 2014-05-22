@@ -24,8 +24,8 @@
   :PROPERTIES:
   :SUBTITLE: A Play
   :GENRE: play
-  :CITE-KEY: DBBF:1
   :KEYWORDS:
+  :CITE-KEY: DBBF:1
   :END:
 
 
@@ -42,8 +42,8 @@
   :PROPERTIES:
   :SUBTITLE: (in Order Of Appearance)
   :GENRE: note
-  :CITE-KEY: DBBF-e1
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e1
   :END:
 
 
@@ -69,8 +69,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e2
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e2
   :END:
 
 
@@ -116,8 +116,8 @@ Where am I? Where is my Motherland? O my Mother India, I do not mind in the leas
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e3
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e3
   :END:
 
 
@@ -201,8 +201,8 @@ Where am I? Where is my Motherland? O my Mother India, I do not mind in the leas
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e4
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e4
   :END:
 
 
@@ -284,8 +284,8 @@ THE END
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e5
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e5
   :END:
 
 
@@ -313,8 +313,8 @@ THE END
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e6
   :KEYWORDS:
+  :CITE-KEY: DBBF:2e6
   :END:
 
 
@@ -324,8 +324,8 @@ THE END
   :PROPERTIES:
   :SUBTITLE: A Poem In Bengali
   :GENRE: poem
-  :CITE-KEY: DBBF:2
   :KEYWORDS:
+  :CITE-KEY: DBBF:2
   :END:
 
 
@@ -369,8 +369,8 @@ Tomarei bhalobese
   :PROPERTIES:
   :SUBTITLE: An essay
   :GENRE: note
-  :CITE-KEY: DBBF-e7
   :KEYWORDS:
+  :CITE-KEY: DBBF:3e1
   :END:
 
 
@@ -382,8 +382,8 @@ Tomarei bhalobese
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: DBBF:3
   :KEYWORDS:
+  :CITE-KEY: DBBF:3
   :END:
 
 
@@ -462,8 +462,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e8
   :KEYWORDS:
+  :CITE-KEY: DBBF:4e1
   :END:
 
 
@@ -472,8 +472,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DBBF-e9
   :KEYWORDS:
+  :CITE-KEY: DBBF:4e2
   :END:
 
 
@@ -485,8 +485,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DBBF:4
   :KEYWORDS:
+  :CITE-KEY: DBBF:4
   :END:
 
 
@@ -495,8 +495,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DBBF:5
   :KEYWORDS:
+  :CITE-KEY: DBBF:5
   :END:
 
 
@@ -516,8 +516,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DBBF:6
   :KEYWORDS:
+  :CITE-KEY: DBBF:6
   :END:
 
 
@@ -539,8 +539,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DBBF:7
   :KEYWORDS:
+  :CITE-KEY: DBBF:7
   :END:
 
 
@@ -549,8 +549,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: play
-  :CITE-KEY: DBBF:8
   :KEYWORDS:
+  :CITE-KEY: DBBF:8
   :END:
 
 
@@ -602,8 +602,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e10
   :KEYWORDS:
+  :CITE-KEY: DBBF:9e1
   :END:
 
 
@@ -612,8 +612,8 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:9
   :KEYWORDS:
+  :CITE-KEY: DBBF:9
   :END:
 
 
@@ -643,8 +643,8 @@ This great man was Chitta Ranjan Das. He was known as the most beloved friend of
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:10
   :KEYWORDS:
+  :CITE-KEY: DBBF:10
   :END:
 
 
@@ -668,8 +668,8 @@ This young barrister's name was Chitta Ranjan Das.
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:11
   :KEYWORDS:
+  :CITE-KEY: DBBF:11
   :END:
 
 
@@ -701,8 +701,8 @@ The junior clerk replied, "He has already spent a full hour with you! Now he is 
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:12
   :KEYWORDS:
+  :CITE-KEY: DBBF:12
   :END:
 
 
@@ -718,8 +718,8 @@ When I was twenty-five years old I wrote about this incident in an essay devoted
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:13
   :KEYWORDS:
+  :CITE-KEY: DBBF:13
   :END:
 
 
@@ -735,8 +735,8 @@ The eminent scientist, P.C. Ray, said to them, "Here I see a real king and a rea
 
   :PROPERTIES:
   :GENRE: story
-  :CITE-KEY: DBBF:14
   :KEYWORDS:
+  :CITE-KEY: DBBF:14
   :END:
 
 
@@ -756,8 +756,8 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: DBBF-e11
   :KEYWORDS:
+  :CITE-KEY: DBBF:15e1
   :END:
 
 
@@ -769,8 +769,8 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e12
   :KEYWORDS:
+  :CITE-KEY: DBBF:15e2
   :END:
 
 
@@ -779,8 +779,8 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: DBBF:15
   :KEYWORDS:
+  :CITE-KEY: DBBF:15
   :END:
 
 
@@ -799,8 +799,8 @@ Hope-multiplication.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: DBBF:16
   :KEYWORDS:
+  :CITE-KEY: DBBF:16
   :END:
 
 
@@ -826,8 +826,8 @@ Nothing short of absurdity.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: DBBF:17
   :KEYWORDS:
+  :CITE-KEY: DBBF:17
   :END:
 
 
@@ -855,8 +855,8 @@ Banger ullas
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: DBBF:18
   :KEYWORDS:
+  :CITE-KEY: DBBF:18
   :END:
 
 
@@ -884,8 +884,8 @@ In the heart of Bengal.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: DBBF-e13
   :KEYWORDS:
+  :CITE-KEY: DBBF:19e1
   :END:
 
 

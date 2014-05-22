@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: preface
-  :CITE-KEY: PTPT-e1
   :KEYWORDS:
+  :CITE-KEY: PTPT:1e1
   :END:
 
 
@@ -38,8 +38,8 @@ In this book I have soulfully ventured to write about my hero-poets and hero-phi
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: PTPT-e2
   :KEYWORDS:
+  :CITE-KEY: PTPT:1e2
   :END:
 
 
@@ -48,8 +48,8 @@ In this book I have soulfully ventured to write about my hero-poets and hero-phi
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:1
   :KEYWORDS:
+  :CITE-KEY: PTPT:1
   :END:
 
 
@@ -76,8 +76,8 @@ Ever she breathes in thy sea of enormous pride.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:2
   :KEYWORDS:
+  :CITE-KEY: PTPT:2
   :END:
 
 
@@ -114,8 +114,8 @@ With thee thy high manhood.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:3
   :KEYWORDS:
+  :CITE-KEY: PTPT:3
   :END:
 
 
@@ -152,8 +152,8 @@ With sombre ceaseless pain.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:4
   :KEYWORDS:
+  :CITE-KEY: PTPT:4
   :END:
 
 
@@ -182,8 +182,8 @@ With you, Aristotle; and now reigns a huge regret.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:5
   :KEYWORDS:
+  :CITE-KEY: PTPT:5
   :END:
 
 
@@ -212,8 +212,8 @@ He plays his game.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: PTPT-e3
   :KEYWORDS:
+  :CITE-KEY: PTPT:6e1
   :END:
 
 
@@ -226,8 +226,8 @@ He plays his game.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:6
   :KEYWORDS:
+  :CITE-KEY: PTPT:6
   :END:
 
 
@@ -264,8 +264,8 @@ In you alone we mark.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: PTPT-e4
   :KEYWORDS:
+  :CITE-KEY: PTPT:7e1
   :END:
 
 
@@ -278,8 +278,8 @@ In you alone we mark.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:7
   :KEYWORDS:
+  :CITE-KEY: PTPT:7
   :END:
 
 
@@ -308,8 +308,8 @@ In him we see.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:8
   :KEYWORDS:
+  :CITE-KEY: PTPT:8
   :END:
 
 
@@ -338,8 +338,8 @@ And yours was the life that suffered a giant blow.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:9
   :KEYWORDS:
+  :CITE-KEY: PTPT:9
   :END:
 
 
@@ -383,8 +383,8 @@ New York
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:10
   :KEYWORDS:
+  :CITE-KEY: PTPT:10
   :END:
 
 
@@ -421,8 +421,8 @@ Remained, the world to feed.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: PTPT:11
   :KEYWORDS:
+  :CITE-KEY: PTPT:11
   :END:
 
 
@@ -453,8 +453,8 @@ Keats' "Endymion" is, no doubt, a grand success with its wonderful vividness and
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:12
   :KEYWORDS:
+  :CITE-KEY: PTPT:12
   :END:
 
 
@@ -482,8 +482,8 @@ United Nations, New York
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: PTPT-e5
   :KEYWORDS:
+  :CITE-KEY: PTPT:13e1
   :END:
 
 
@@ -492,8 +492,8 @@ United Nations, New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:13
   :KEYWORDS:
+  :CITE-KEY: PTPT:13
   :END:
 
 
@@ -545,8 +545,8 @@ Written in Pondicherry, India and published in /Mother India,/ 1963
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:14
   :KEYWORDS:
+  :CITE-KEY: PTPT:14
   :END:
 
 
@@ -646,8 +646,8 @@ Written in Pondicherry, India, 1962
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:15
   :KEYWORDS:
+  :CITE-KEY: PTPT:15
   :END:
 
 
@@ -689,8 +689,8 @@ New York
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:16
   :KEYWORDS:
+  :CITE-KEY: PTPT:16
   :END:
 
 
@@ -722,8 +722,8 @@ Hanover, New Hampshire
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: PTPT-e6
   :KEYWORDS:
+  :CITE-KEY: PTPT:17e1
   :END:
 
 
@@ -732,8 +732,8 @@ Hanover, New Hampshire
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:17
   :KEYWORDS:
+  :CITE-KEY: PTPT:17
   :END:
 
 
@@ -749,8 +749,8 @@ What is a friend? The beauty and fragrance of interdependence.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:18
   :KEYWORDS:
+  :CITE-KEY: PTPT:18
   :END:
 
 
@@ -766,8 +766,8 @@ My mind obeys God from fear. My heart obeys God from love. I obey God from my in
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:19
   :KEYWORDS:
+  :CITE-KEY: PTPT:19
   :END:
 
 
@@ -783,8 +783,8 @@ Or of frustration and palsy of the spirit.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:20
   :KEYWORDS:
+  :CITE-KEY: PTPT:20
   :END:
 
 
@@ -800,8 +800,8 @@ The firm conviction of the United Nations is the confident flight of sublime tho
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:21
   :KEYWORDS:
+  :CITE-KEY: PTPT:21
   :END:
 
 
@@ -817,8 +817,8 @@ Belief is the complete liberty of the mind. Belief is the full independence of t
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:22
   :KEYWORDS:
+  :CITE-KEY: PTPT:22
   :END:
 
 
@@ -838,8 +838,8 @@ Our mind thinks that this is absolutely true. Our heart feels that this is unden
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:23
   :KEYWORDS:
+  :CITE-KEY: PTPT:23
   :END:
 
 
@@ -891,8 +891,8 @@ Here at this point I would like to invoke the soul of MARCUS AURELIUS:
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:24
   :KEYWORDS:
+  :CITE-KEY: PTPT:24
   :END:
 
 
@@ -910,8 +910,8 @@ What happens when we save time? Opportunity knocks at the door of possibility, a
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:25
   :KEYWORDS:
+  :CITE-KEY: PTPT:25
   :END:
 
 
@@ -927,8 +927,8 @@ A spiritual man not only finds opportunities, but also constantly creates more a
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:26
   :KEYWORDS:
+  :CITE-KEY: PTPT:26
   :END:
 
 
@@ -944,8 +944,8 @@ And a body self-dedicated to the Divine's work is a lovely Palace for the soul.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:27
   :KEYWORDS:
+  :CITE-KEY: PTPT:27
   :END:
 
 
@@ -961,8 +961,8 @@ And self-subordination to the Self makes a perfect man.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:28
   :KEYWORDS:
+  :CITE-KEY: PTPT:28
   :END:
 
 
@@ -978,8 +978,8 @@ No knowledge is knowledge that does not reveal the Source of all knowledge. And 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:29
   :KEYWORDS:
+  :CITE-KEY: PTPT:29
   :END:
 
 
@@ -995,8 +995,8 @@ I venture to say that if I can be in charge of myself, then God will put me in c
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:30
   :KEYWORDS:
+  :CITE-KEY: PTPT:30
   :END:
 
 
@@ -1018,8 +1018,8 @@ Love so beautifully idealised can be materialised if it springs from its highest
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:31
   :KEYWORDS:
+  :CITE-KEY: PTPT:31
   :END:
 
 
@@ -1041,8 +1041,8 @@ Wrath is a weakness worth getting over. Again, it cannot disturb the inner equil
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:32
   :KEYWORDS:
+  :CITE-KEY: PTPT:32
   :END:
 
 
@@ -1060,8 +1060,8 @@ This is true, absolutely true. We must always tell the truth with a divine inten
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:33
   :KEYWORDS:
+  :CITE-KEY: PTPT:33
   :END:
 
 
@@ -1081,8 +1081,8 @@ And in the heart's loving nest.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:34
   :KEYWORDS:
+  :CITE-KEY: PTPT:34
   :END:
 
 
@@ -1098,8 +1098,8 @@ True, absolutely true. Also, something more to add: God is God-appointment, God 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:35
   :KEYWORDS:
+  :CITE-KEY: PTPT:35
   :END:
 
 
@@ -1115,8 +1115,8 @@ And love in India is self-dedication.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:36
   :KEYWORDS:
+  :CITE-KEY: PTPT:36
   :END:
 
 
@@ -1153,8 +1153,8 @@ To reach the acme of their Freedom-Goal."
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:37
   :KEYWORDS:
+  :CITE-KEY: PTPT:37
   :END:
 
 
@@ -1180,8 +1180,8 @@ Manifestation is in your hands."
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:38
   :KEYWORDS:
+  :CITE-KEY: PTPT:38
   :END:
 
 
@@ -1197,8 +1197,8 @@ What Bouvée says is undeniably true. Our body's food is the product of the eart
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:39
   :KEYWORDS:
+  :CITE-KEY: PTPT:39
   :END:
 
 
@@ -1216,8 +1216,8 @@ Man is bound to the finite, but he cannot be bound by the finite. Man has surren
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:40
   :KEYWORDS:
+  :CITE-KEY: PTPT:40
   :END:
 
 
@@ -1235,8 +1235,8 @@ Better than best is to remain unaffected by the shocks of the world.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:41
   :KEYWORDS:
+  :CITE-KEY: PTPT:41
   :END:
 
 
@@ -1252,8 +1252,8 @@ He who doubts most fractures all his limbs most.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:42
   :KEYWORDS:
+  :CITE-KEY: PTPT:42
   :END:
 
 
@@ -1271,8 +1271,8 @@ To nurse an inward hell and escape the penalty is to ask for too much.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:43
   :KEYWORDS:
+  :CITE-KEY: PTPT:43
   :END:
 
 
@@ -1288,8 +1288,8 @@ All the greater glory to the Source which has given the fame!
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:44
   :KEYWORDS:
+  :CITE-KEY: PTPT:44
   :END:
 
 
@@ -1307,8 +1307,8 @@ Each man is a miracle. Each individual is an epic. As ill-luck would have it, we
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:45
   :KEYWORDS:
+  :CITE-KEY: PTPT:45
   :END:
 
 
@@ -1324,8 +1324,8 @@ Lovingly and devotedly, something to add: man the God was made of streaming tear
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:46
   :KEYWORDS:
+  :CITE-KEY: PTPT:46
   :END:
 
 
@@ -1341,8 +1341,8 @@ A spiritual person has found his work. His work is dedicated action. Indeed, he 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:47
   :KEYWORDS:
+  :CITE-KEY: PTPT:47
   :END:
 
 
@@ -1358,8 +1358,8 @@ Had we been able to share this lofty truth of Cicero's, there would not have exi
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:48
   :KEYWORDS:
+  :CITE-KEY: PTPT:48
   :END:
 
 
@@ -1373,8 +1373,8 @@ The mysterious slogan "Art for Art's sake" expressed by VICTOR COUSIN is, howeve
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:49
   :KEYWORDS:
+  :CITE-KEY: PTPT:49
   :END:
 
 
@@ -1390,8 +1390,8 @@ If we are sincere seekers of the ultimate Truth, then our journey begins with su
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:50
   :KEYWORDS:
+  :CITE-KEY: PTPT:50
   :END:
 
 
@@ -1405,8 +1405,8 @@ Many writers have seen the signature of God all-where in nature. Perhaps I am al
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:51
   :KEYWORDS:
+  :CITE-KEY: PTPT:51
   :END:
 
 
@@ -1432,8 +1432,8 @@ How to live.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:52
   :KEYWORDS:
+  :CITE-KEY: PTPT:52
   :END:
 
 
@@ -1479,8 +1479,8 @@ Which never went away?"
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:53
   :KEYWORDS:
+  :CITE-KEY: PTPT:53
   :END:
 
 
@@ -1514,8 +1514,8 @@ Like the sun during an eclipse, the light of many world-illumining individuals i
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:54
   :KEYWORDS:
+  :CITE-KEY: PTPT:54
   :END:
 
 
@@ -1538,8 +1538,8 @@ In the world of my Perfection-sky."
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:55
   :KEYWORDS:
+  :CITE-KEY: PTPT:55
   :END:
 
 
@@ -1555,8 +1555,8 @@ This is what we are apt to observe in the outer life. Strangely enough, we can d
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:56
   :KEYWORDS:
+  :CITE-KEY: PTPT:56
   :END:
 
 
@@ -1581,8 +1581,8 @@ Growing into my evening smiles?"
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:57
   :KEYWORDS:
+  :CITE-KEY: PTPT:57
   :END:
 
 
@@ -1604,8 +1604,8 @@ It is a sorrowful fact that if an individual stands noticeably higher than the r
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:58
   :KEYWORDS:
+  :CITE-KEY: PTPT:58
   :END:
 
 
@@ -1621,8 +1621,8 @@ From the spiritual point of view, what do we learn from this soulful message? We
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:59
   :KEYWORDS:
+  :CITE-KEY: PTPT:59
   :END:
 
 
@@ -1638,8 +1638,8 @@ Oh, that our education system could live up to this minimum!
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:60
   :KEYWORDS:
+  :CITE-KEY: PTPT:60
   :END:
 
 
@@ -1655,8 +1655,8 @@ And what is needed to have ideas worked out through those brains and arms is a o
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:61
   :KEYWORDS:
+  :CITE-KEY: PTPT:61
   :END:
 
 
@@ -1672,8 +1672,8 @@ This is true. A really great man has not to depend on outer opportunities. He ha
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:62
   :KEYWORDS:
+  :CITE-KEY: PTPT:62
   :END:
 
 
@@ -1689,8 +1689,8 @@ Verily, the whole of Bengal, as ill luck would have it, misunderstood Rabindrana
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:63
   :KEYWORDS:
+  :CITE-KEY: PTPT:63
   :END:
 
 
@@ -1710,8 +1710,8 @@ America's most illumined philosopher-thinker, RALPH WALDO EMERSON, justifies bio
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:64
   :KEYWORDS:
+  :CITE-KEY: PTPT:64
   :END:
 
 
@@ -1729,8 +1729,8 @@ Imitation is not for a seeker. "Imitation is suicide," so do we learn from EMERS
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:65
   :KEYWORDS:
+  :CITE-KEY: PTPT:65
   :END:
 
 
@@ -1752,8 +1752,8 @@ We can definitely say that this centre is man's soul.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:66
   :KEYWORDS:
+  :CITE-KEY: PTPT:66
   :END:
 
 
@@ -1769,8 +1769,8 @@ Alas, pleasant living is all that the world cares for, and not the qualities ass
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:67
   :KEYWORDS:
+  :CITE-KEY: PTPT:67
   :END:
 
 
@@ -1786,8 +1786,8 @@ Poor me, in my case, Heaven is dying to help me, but my stupidity is preventing 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:68
   :KEYWORDS:
+  :CITE-KEY: PTPT:68
   :END:
 
 
@@ -1803,8 +1803,8 @@ Indeed, to God the needy in all human beings, with no exception.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:69
   :KEYWORDS:
+  :CITE-KEY: PTPT:69
   :END:
 
 
@@ -1820,8 +1820,8 @@ But in the case of the United Nations, it is totally otherwise. The United Natio
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:70
   :KEYWORDS:
+  :CITE-KEY: PTPT:70
   :END:
 
 
@@ -1839,8 +1839,8 @@ When she said Immortality, she did not mean the prolongation of her physical exi
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:71
   :KEYWORDS:
+  :CITE-KEY: PTPT:71
   :END:
 
 
@@ -1870,8 +1870,8 @@ Simply because I don't write to you."
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:72
   :KEYWORDS:
+  :CITE-KEY: PTPT:72
   :END:
 
 
@@ -1893,8 +1893,8 @@ Is the gratitude-heart-road.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:73
   :KEYWORDS:
+  :CITE-KEY: PTPT:73
   :END:
 
 
@@ -1912,8 +1912,8 @@ May the world realise this truth!
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:74
   :KEYWORDS:
+  :CITE-KEY: PTPT:74
   :END:
 
 
@@ -1929,8 +1929,8 @@ Infinite is the thirst for the Infinite.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:75
   :KEYWORDS:
+  :CITE-KEY: PTPT:75
   :END:
 
 
@@ -1948,8 +1948,8 @@ The immortal Indian scientist, Jagadish Chandra Bose, sees eye-to-eye with the m
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:76
   :KEYWORDS:
+  :CITE-KEY: PTPT:76
   :END:
 
 
@@ -1965,8 +1965,8 @@ We may read into this noble truth the upward march of the human soul from its pr
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:77
   :KEYWORDS:
+  :CITE-KEY: PTPT:77
   :END:
 
 
@@ -1984,8 +1984,8 @@ Life's duty, performed with a spontaneous flow of self-offering to humanity unde
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:78
   :KEYWORDS:
+  :CITE-KEY: PTPT:78
   :END:
 
 
@@ -2004,8 +2004,8 @@ of God-Nature-creation.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:79
   :KEYWORDS:
+  :CITE-KEY: PTPT:79
   :END:
 
 
@@ -2021,8 +2021,8 @@ In the realm of spirituality, this truth was fully manifested in the life of Swa
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:80
   :KEYWORDS:
+  :CITE-KEY: PTPT:80
   :END:
 
 
@@ -2038,8 +2038,8 @@ In the spiritual world, next to meditation is music, the breath of music. Medita
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:81
   :KEYWORDS:
+  :CITE-KEY: PTPT:81
   :END:
 
 
@@ -2055,8 +2055,8 @@ What Huxley has said is absolutely right. Ignorance is not something permanent a
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:82
   :KEYWORDS:
+  :CITE-KEY: PTPT:82
   :END:
 
 
@@ -2072,8 +2072,8 @@ But if a man listens to the dictates of his soul and is able to do what his soul
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:83
   :KEYWORDS:
+  :CITE-KEY: PTPT:83
   :END:
 
 
@@ -2089,8 +2089,8 @@ Now, what is something that outlasts life? Before I answer this question, I wish
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:84
   :KEYWORDS:
+  :CITE-KEY: PTPT:84
   :END:
 
 
@@ -2106,8 +2106,8 @@ Yes, and why worth living? Because life was given to man to manifest the divine 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:85
   :KEYWORDS:
+  :CITE-KEY: PTPT:85
   :END:
 
 
@@ -2131,8 +2131,8 @@ Improve your faith a little more in the God-aspiration and God-dedication of hum
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:86
   :KEYWORDS:
+  :CITE-KEY: PTPT:86
   :END:
 
 
@@ -2158,8 +2158,8 @@ Poetry and truth are inextricably linked. The Sanskrit word for poet is /kavi. K
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:87
   :KEYWORDS:
+  :CITE-KEY: PTPT:87
   :END:
 
 
@@ -2189,8 +2189,8 @@ Sorrow helps us immensely. It is apt to humble our pride. It chastens us. It ope
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:88
   :KEYWORDS:
+  :CITE-KEY: PTPT:88
   :END:
 
 
@@ -2206,8 +2206,8 @@ Because our great origin is both Truth and Beauty.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:89
   :KEYWORDS:
+  :CITE-KEY: PTPT:89
   :END:
 
 
@@ -2231,8 +2231,8 @@ Because it is the reflection of the All-Beautiful.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:90
   :KEYWORDS:
+  :CITE-KEY: PTPT:90
   :END:
 
 
@@ -2244,8 +2244,8 @@ KEATS' address to art, "Thou foster-child of Silence and slow Time," is but half
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:91
   :KEYWORDS:
+  :CITE-KEY: PTPT:91
   :END:
 
 
@@ -2261,8 +2261,8 @@ A man of faith is also a man of divine humility. The farther he advances spiritu
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:92
   :KEYWORDS:
+  :CITE-KEY: PTPT:92
   :END:
 
 
@@ -2282,8 +2282,8 @@ Tagore, too, utterly denied this statement. His fruitful life was a mission of i
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:93
   :KEYWORDS:
+  :CITE-KEY: PTPT:93
   :END:
 
 
@@ -2305,8 +2305,8 @@ Again and again we shall have to come back into the world. We have to work for G
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:94
   :KEYWORDS:
+  :CITE-KEY: PTPT:94
   :END:
 
 
@@ -2332,8 +2332,8 @@ I use English to manifest God's glowing Authenticity.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:95
   :KEYWORDS:
+  :CITE-KEY: PTPT:95
   :END:
 
 
@@ -2349,8 +2349,8 @@ Adversity reminds men of their crying heart-beauty and, at the same time, of the
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:96
   :KEYWORDS:
+  :CITE-KEY: PTPT:96
   :END:
 
 
@@ -2366,8 +2366,8 @@ How very true! And this recognition posits the question of the greater sources o
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:97
   :KEYWORDS:
+  :CITE-KEY: PTPT:97
   :END:
 
 
@@ -2387,8 +2387,8 @@ Hence says the Seer-Poet:
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:98
   :KEYWORDS:
+  :CITE-KEY: PTPT:98
   :END:
 
 
@@ -2406,8 +2406,8 @@ Rather, life, the great gift of God, is a splendid field for self-realisation.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:99
   :KEYWORDS:
+  :CITE-KEY: PTPT:99
   :END:
 
 
@@ -2425,8 +2425,8 @@ This is true only when our fate is determined by the ego's extremely limited dic
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:100
   :KEYWORDS:
+  :CITE-KEY: PTPT:100
   :END:
 
 
@@ -2444,8 +2444,8 @@ The more we can make a child happy, the more we can expect good of him. It is bu
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:101
   :KEYWORDS:
+  :CITE-KEY: PTPT:101
   :END:
 
 
@@ -2461,8 +2461,8 @@ That is the sign of a great spirit perverted.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:102
   :KEYWORDS:
+  :CITE-KEY: PTPT:102
   :END:
 
 
@@ -2480,8 +2480,8 @@ Weakness is an implied denial of one's true self.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:103
   :KEYWORDS:
+  :CITE-KEY: PTPT:103
   :END:
 
 
@@ -2497,8 +2497,8 @@ And wherefrom does weakness spring? It springs from man's self-chosen separation
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:104
   :KEYWORDS:
+  :CITE-KEY: PTPT:104
   :END:
 
 
@@ -2526,8 +2526,8 @@ On the contrary, we can say in unmistakable terms that the world is beautiful be
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:105
   :KEYWORDS:
+  :CITE-KEY: PTPT:105
   :END:
 
 
@@ -2553,8 +2553,8 @@ At this point we can recollect the message of PLATO, who said, "Through obedienc
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:106
   :KEYWORDS:
+  :CITE-KEY: PTPT:106
   :END:
 
 
@@ -2570,8 +2570,8 @@ Our lower self is the formidable wall of separation from our higher or divine Se
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:107
   :KEYWORDS:
+  :CITE-KEY: PTPT:107
   :END:
 
 
@@ -2587,8 +2587,8 @@ The simile implies that our consciousness is hardly a whit better than that of t
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:108
   :KEYWORDS:
+  :CITE-KEY: PTPT:108
   :END:
 
 
@@ -2604,8 +2604,8 @@ When our physical consciousness lives in the doubting, suspecting and unaspiring
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:109
   :KEYWORDS:
+  :CITE-KEY: PTPT:109
   :END:
 
 
@@ -2631,8 +2631,8 @@ Delight: Delight is the name of God's permanent Home.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:110
   :KEYWORDS:
+  :CITE-KEY: PTPT:110
   :END:
 
 
@@ -2658,8 +2658,8 @@ Is needed on earth."
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:111
   :KEYWORDS:
+  :CITE-KEY: PTPT:111
   :END:
 
 
@@ -2675,8 +2675,8 @@ Conscience and passion need not contradict each other if man aspires to offer hi
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:112
   :KEYWORDS:
+  :CITE-KEY: PTPT:112
   :END:
 
 
@@ -2692,8 +2692,8 @@ A question mark cannot be applicable to our life of desire and aspiration. Human
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:113
   :KEYWORDS:
+  :CITE-KEY: PTPT:113
   :END:
 
 
@@ -2709,8 +2709,8 @@ Santayana is perfectly right when he says that mysticism is not a religion. In m
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:114
   :KEYWORDS:
+  :CITE-KEY: PTPT:114
   :END:
 
 
@@ -2726,8 +2726,8 @@ The Upanishadic seers felt no necessity to go to any spiritual centre, no necess
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:115
   :KEYWORDS:
+  :CITE-KEY: PTPT:115
   :END:
 
 
@@ -2749,8 +2749,8 @@ When we live in the gross and unaspiring physical, each hour is a deplorable los
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:116
   :KEYWORDS:
+  :CITE-KEY: PTPT:116
   :END:
 
 
@@ -2766,8 +2766,8 @@ True in a limited context, never an absolute truth.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:117
   :KEYWORDS:
+  :CITE-KEY: PTPT:117
   :END:
 
 
@@ -2783,8 +2783,8 @@ And silence can tell even more than brevity.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:118
   :KEYWORDS:
+  :CITE-KEY: PTPT:118
   :END:
 
 
@@ -2800,8 +2800,8 @@ Desire means anxiety. This anxiety finds satisfaction only when it is able to fu
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:119
   :KEYWORDS:
+  :CITE-KEY: PTPT:119
   :END:
 
 
@@ -2813,8 +2813,8 @@ GEORGE BERNARD SHAW has warned us, "Beware of the man whose God is in the skies.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:120
   :KEYWORDS:
+  :CITE-KEY: PTPT:120
   :END:
 
 
@@ -2830,8 +2830,8 @@ The Shelleys of the future will hear sweetest songs inspired by all-blissful tho
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:121
   :KEYWORDS:
+  :CITE-KEY: PTPT:121
   :END:
 
 
@@ -2857,8 +2857,8 @@ Truth to tell, when our humility becomes its genuine self, it becomes an open ve
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:122
   :KEYWORDS:
+  :CITE-KEY: PTPT:122
   :END:
 
 
@@ -2876,8 +2876,8 @@ I wish to tell about an incident in the life of SOCRATES. Once Socrates and a ho
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:123
   :KEYWORDS:
+  :CITE-KEY: PTPT:123
   :END:
 
 
@@ -2893,8 +2893,8 @@ We try to kill time. But what actually happens is that time ultimately kills us,
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:124
   :KEYWORDS:
+  :CITE-KEY: PTPT:124
   :END:
 
 
@@ -2910,8 +2910,8 @@ Spencer referred to the struggle to survive in the material life. But how to be 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:125
   :KEYWORDS:
+  :CITE-KEY: PTPT:125
   :END:
 
 
@@ -2927,8 +2927,8 @@ The creation, as a manifestation of the Omnipresence, can nowhere have a vacuum.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:126
   :KEYWORDS:
+  :CITE-KEY: PTPT:126
   :END:
 
 
@@ -2944,8 +2944,8 @@ Man transformed will be a divinised Godhead.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:127
   :KEYWORDS:
+  :CITE-KEY: PTPT:127
   :END:
 
 
@@ -2961,8 +2961,8 @@ When I cry for God the Creator, He comes to me as God the creation as well. He f
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:128
   :KEYWORDS:
+  :CITE-KEY: PTPT:128
   :END:
 
 
@@ -2978,8 +2978,8 @@ All atheists are incomplete God-preparations, and all incomplete God-preparation
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:129
   :KEYWORDS:
+  :CITE-KEY: PTPT:129
   :END:
 
 
@@ -3003,8 +3003,8 @@ Needless to say, a true aspirant in his inner life does not long for death. He d
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:130
   :KEYWORDS:
+  :CITE-KEY: PTPT:130
   :END:
 
 
@@ -3022,8 +3022,8 @@ Let us look forward to the New World that is manifesting in the old-to the New W
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:131
   :KEYWORDS:
+  :CITE-KEY: PTPT:131
   :END:
 
 
@@ -3041,8 +3041,8 @@ True, perhaps, on the human plane. But true love is Love divine that knows no lo
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:132
   :KEYWORDS:
+  :CITE-KEY: PTPT:132
   :END:
 
 
@@ -3084,8 +3084,8 @@ Undoubtedly they do.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:133
   :KEYWORDS:
+  :CITE-KEY: PTPT:133
   :END:
 
 
@@ -3119,8 +3119,8 @@ Mockery.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:134
   :KEYWORDS:
+  :CITE-KEY: PTPT:134
   :END:
 
 
@@ -3136,8 +3136,8 @@ An architect who shapes his own life hangs not on his pedigree. His descendants 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:135
   :KEYWORDS:
+  :CITE-KEY: PTPT:135
   :END:
 
 
@@ -3153,8 +3153,8 @@ Hence the necessity of more and more revealing books-books that can reveal the y
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:136
   :KEYWORDS:
+  :CITE-KEY: PTPT:136
   :END:
 
 
@@ -3170,8 +3170,8 @@ Nature is a flow of harmony that infallibly unites the within and the without, t
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:137
   :KEYWORDS:
+  :CITE-KEY: PTPT:137
   :END:
 
 
@@ -3187,8 +3187,8 @@ Voltaire, O mighty controversy-confusion-mind, your mind's Himalayan bravery and
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:138
   :KEYWORDS:
+  :CITE-KEY: PTPT:138
   :END:
 
 
@@ -3204,8 +3204,8 @@ God did exist before, but we did not have the vision-eye to see Him. God does ex
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:139
   :KEYWORDS:
+  :CITE-KEY: PTPT:139
   :END:
 
 
@@ -3223,8 +3223,8 @@ My heart of dedication echoes and re-echoes with Whitman's throbbing utterance. 
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:140
   :KEYWORDS:
+  :CITE-KEY: PTPT:140
   :END:
 
 
@@ -3248,8 +3248,8 @@ Lo and behold, WALT WHITMAN is powerfully knocking at our heart's door: "If anyt
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:141
   :KEYWORDS:
+  :CITE-KEY: PTPT:141
   :END:
 
 
@@ -3267,8 +3267,8 @@ The true seer-eye of the poet foresaw the possibility that is now on the point o
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:142
   :KEYWORDS:
+  :CITE-KEY: PTPT:142
   :END:
 
 
@@ -3296,8 +3296,8 @@ Wilde says something else, and this is quite significant: "I can resist everythi
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:143
   :KEYWORDS:
+  :CITE-KEY: PTPT:143
   :END:
 
 
@@ -3340,8 +3340,8 @@ Time houses Truth. Sri Krishna tells the Truth, the Truth eternal, about Himself
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:144
   :KEYWORDS:
+  :CITE-KEY: PTPT:144
   :END:
 
 
@@ -3359,8 +3359,8 @@ And it may well be added: Minds that have little to perceive have nothing to con
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:145
   :KEYWORDS:
+  :CITE-KEY: PTPT:145
   :END:
 
 
@@ -3378,8 +3378,8 @@ As a portion of the Infinite, the soul can have depth, height and breadth withou
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:146
   :KEYWORDS:
+  :CITE-KEY: PTPT:146
   :END:
 
 
@@ -3425,8 +3425,8 @@ Here the poet carries us into the mystery of the soul's eternal journey and remi
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: PTPT:147
   :KEYWORDS:
+  :CITE-KEY: PTPT:147
   :END:
 
 

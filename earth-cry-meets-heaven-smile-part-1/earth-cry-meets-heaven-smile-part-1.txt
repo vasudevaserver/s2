@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e1
   :KEYWORDS:
+  :CITE-KEY: ECMH:1e1
   :END:
 
 
@@ -33,8 +33,8 @@
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e2
   :KEYWORDS:
+  :CITE-KEY: ECMH:1e2
   :END:
 
 
@@ -46,8 +46,8 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:1
   :KEYWORDS:
+  :CITE-KEY: ECMH:1
   :END:
 
 
@@ -59,8 +59,8 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:2
   :KEYWORDS:
+  :CITE-KEY: ECMH:2
   :END:
 
 
@@ -72,8 +72,8 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:3
   :KEYWORDS:
+  :CITE-KEY: ECMH:3
   :END:
 
 
@@ -85,8 +85,8 @@
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:4
   :KEYWORDS:
+  :CITE-KEY: ECMH:4
   :END:
 
 
@@ -100,8 +100,8 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:5
   :KEYWORDS:
+  :CITE-KEY: ECMH:5
   :END:
 
 
@@ -113,8 +113,8 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:6
   :KEYWORDS:
+  :CITE-KEY: ECMH:6
   :END:
 
 
@@ -126,8 +126,8 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:7
   :KEYWORDS:
+  :CITE-KEY: ECMH:7
   :END:
 
 
@@ -139,8 +139,8 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:8
   :KEYWORDS:
+  :CITE-KEY: ECMH:8
   :END:
 
 
@@ -154,8 +154,8 @@ To come back to your question, we all know that the present-day world is more aw
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:9
   :KEYWORDS:
+  :CITE-KEY: ECMH:9
   :END:
 
 
@@ -167,8 +167,8 @@ To come back to your question, we all know that the present-day world is more aw
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:10
   :KEYWORDS:
+  :CITE-KEY: ECMH:10
   :END:
 
 
@@ -180,8 +180,8 @@ To come back to your question, we all know that the present-day world is more aw
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e3
   :KEYWORDS:
+  :CITE-KEY: ECMH:11e1
   :END:
 
 
@@ -197,8 +197,8 @@ To come back to your question, we all know that the present-day world is more aw
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:11
   :KEYWORDS:
+  :CITE-KEY: ECMH:11
   :END:
 
 
@@ -220,8 +220,8 @@ To come back to your question, Shankara’s very short earthly existence was sur
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e4
   :KEYWORDS:
+  :CITE-KEY: ECMH:12e1
   :END:
 
 
@@ -230,8 +230,8 @@ To come back to your question, Shankara’s very short earthly existence was sur
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e5
   :KEYWORDS:
+  :CITE-KEY: ECMH:12e2
   :END:
 
 
@@ -243,8 +243,8 @@ To come back to your question, Shankara’s very short earthly existence was sur
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:12
   :KEYWORDS:
+  :CITE-KEY: ECMH:12
   :END:
 
 
@@ -300,8 +300,8 @@ Here in the West, your material development need not stand as a barrier. On the 
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e6
   :KEYWORDS:
+  :CITE-KEY: ECMH:13e1
   :END:
 
 
@@ -310,8 +310,8 @@ Here in the West, your material development need not stand as a barrier. On the 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:13
   :KEYWORDS:
+  :CITE-KEY: ECMH:13
   :END:
 
 
@@ -327,8 +327,8 @@ You have got a Guru, Agni, so your problem is over, and your aspiration is most 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:14
   :KEYWORDS:
+  :CITE-KEY: ECMH:14
   :END:
 
 
@@ -344,8 +344,8 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e7
   :KEYWORDS:
+  :CITE-KEY: ECMH:15e1
   :END:
 
 
@@ -354,8 +354,8 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e8
   :KEYWORDS:
+  :CITE-KEY: ECMH:15e2
   :END:
 
 
@@ -367,8 +367,8 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:15
   :KEYWORDS:
+  :CITE-KEY: ECMH:15
   :END:
 
 
@@ -386,8 +386,8 @@ When you live the spiritual life, you live in Eternity. This Eternity does not p
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:16
   :KEYWORDS:
+  :CITE-KEY: ECMH:16
   :END:
 
 
@@ -403,8 +403,8 @@ I am sure, Gauri, that you know that there are only one hundred eight Upanishads
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:17
   :KEYWORDS:
+  :CITE-KEY: ECMH:17
   :END:
 
 
@@ -418,8 +418,8 @@ Nachiketa’s father, Vajasravasa, said, “Thee I give to Death.” But the Kin
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:18
   :KEYWORDS:
+  :CITE-KEY: ECMH:18
   :END:
 
 
@@ -437,8 +437,8 @@ Something more I wish to add. The soul is not compelled. The human father says t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:19
   :KEYWORDS:
+  :CITE-KEY: ECMH:19
   :END:
 
 
@@ -450,8 +450,8 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e9
   :KEYWORDS:
+  :CITE-KEY: ECMH:20e1
   :END:
 
 
@@ -460,8 +460,8 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e10
   :KEYWORDS:
+  :CITE-KEY: ECMH:20e2
   :END:
 
 
@@ -473,8 +473,8 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:20
   :KEYWORDS:
+  :CITE-KEY: ECMH:20
   :END:
 
 
@@ -510,8 +510,8 @@ The firmament of India still resounds with this soul-stirring chant of the Vedic
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:21
   :KEYWORDS:
+  :CITE-KEY: ECMH:21
   :END:
 
 
@@ -525,8 +525,8 @@ By prayer, we enter into the Kingdom of God, by concentration we can also enter 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:22
   :KEYWORDS:
+  :CITE-KEY: ECMH:22
   :END:
 
 
@@ -542,8 +542,8 @@ Experience shows and tells us what we will eventually become, the possessor of G
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:23
   :KEYWORDS:
+  :CITE-KEY: ECMH:23
   :END:
 
 
@@ -561,8 +561,8 @@ I have to grow and God has to flow. I grow as a human being into His highest Con
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:24
   :KEYWORDS:
+  :CITE-KEY: ECMH:24
   :END:
 
 
@@ -584,8 +584,8 @@ But, in answer to your question, once the soul has come into human incarnation, 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:25
   :KEYWORDS:
+  :CITE-KEY: ECMH:25
   :END:
 
 
@@ -605,8 +605,8 @@ So to come back to the question, it depends on the individual, where he stands. 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:26
   :KEYWORDS:
+  :CITE-KEY: ECMH:26
   :END:
 
 
@@ -620,8 +620,8 @@ So to come back to the question, it depends on the individual, where he stands. 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:27
   :KEYWORDS:
+  :CITE-KEY: ECMH:27
   :END:
 
 
@@ -637,8 +637,8 @@ So to come back to the question, it depends on the individual, where he stands. 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:28
   :KEYWORDS:
+  :CITE-KEY: ECMH:28
   :END:
 
 
@@ -654,8 +654,8 @@ So to come back to the question, it depends on the individual, where he stands. 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:29
   :KEYWORDS:
+  :CITE-KEY: ECMH:29
   :END:
 
 
@@ -673,8 +673,8 @@ Right now I am here in Puerto Rico. I know that New York exists and that I have 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:30
   :KEYWORDS:
+  :CITE-KEY: ECMH:30
   :END:
 
 
@@ -686,8 +686,8 @@ Right now I am here in Puerto Rico. I know that New York exists and that I have 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:31
   :KEYWORDS:
+  :CITE-KEY: ECMH:31
   :END:
 
 
@@ -707,8 +707,8 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:32
   :KEYWORDS:
+  :CITE-KEY: ECMH:32
   :END:
 
 
@@ -720,8 +720,8 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:33
   :KEYWORDS:
+  :CITE-KEY: ECMH:33
   :END:
 
 
@@ -733,8 +733,8 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:34
   :KEYWORDS:
+  :CITE-KEY: ECMH:34
   :END:
 
 
@@ -746,8 +746,8 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:35
   :KEYWORDS:
+  :CITE-KEY: ECMH:35
   :END:
 
 
@@ -765,8 +765,8 @@ On earth we can make either a short distance call or a long-distance call to any
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:36
   :KEYWORDS:
+  :CITE-KEY: ECMH:36
   :END:
 
 
@@ -784,8 +784,8 @@ First of all you have to face the world, live in the world in order to establish
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:37
   :KEYWORDS:
+  :CITE-KEY: ECMH:37
   :END:
 
 
@@ -803,8 +803,8 @@ To come back to your question, no man can come closer to God by taking drugs or 
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: ECMH:38
   :KEYWORDS:
+  :CITE-KEY: ECMH:38
   :END:
 
 
@@ -824,8 +824,8 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e11
   :KEYWORDS:
+  :CITE-KEY: ECMH:39e1
   :END:
 
 
@@ -834,8 +834,8 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e12
   :KEYWORDS:
+  :CITE-KEY: ECMH:39e2
   :END:
 
 
@@ -847,8 +847,8 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:39
   :KEYWORDS:
+  :CITE-KEY: ECMH:39
   :END:
 
 
@@ -868,8 +868,8 @@ On the one hand, when the soul leaves the body, the body cannot function; the bo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:40
   :KEYWORDS:
+  :CITE-KEY: ECMH:40
   :END:
 
 
@@ -883,8 +883,8 @@ Yoga is not something unnatural; it is something absolutely natural, it is somet
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:41
   :KEYWORDS:
+  :CITE-KEY: ECMH:41
   :END:
 
 
@@ -898,8 +898,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:42
   :KEYWORDS:
+  :CITE-KEY: ECMH:42
   :END:
 
 
@@ -911,8 +911,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:43
   :KEYWORDS:
+  :CITE-KEY: ECMH:43
   :END:
 
 
@@ -924,8 +924,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:44
   :KEYWORDS:
+  :CITE-KEY: ECMH:44
   :END:
 
 
@@ -937,8 +937,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e13
   :KEYWORDS:
+  :CITE-KEY: ECMH:45e1
   :END:
 
 
@@ -947,8 +947,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e14
   :KEYWORDS:
+  :CITE-KEY: ECMH:45e2
   :END:
 
 
@@ -960,8 +960,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:45
   :KEYWORDS:
+  :CITE-KEY: ECMH:45
   :END:
 
 
@@ -973,8 +973,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:46
   :KEYWORDS:
+  :CITE-KEY: ECMH:46
   :END:
 
 
@@ -986,8 +986,8 @@ One should try to aspire in one’s day-to-day life to combine both the material
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:47
   :KEYWORDS:
+  :CITE-KEY: ECMH:47
   :END:
 
 
@@ -1001,8 +1001,8 @@ During my talk, I was in a very high consciousness. Hence my soul got the opport
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:48
   :KEYWORDS:
+  :CITE-KEY: ECMH:48
   :END:
 
 
@@ -1014,8 +1014,8 @@ During my talk, I was in a very high consciousness. Hence my soul got the opport
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:49
   :KEYWORDS:
+  :CITE-KEY: ECMH:49
   :END:
 
 
@@ -1029,8 +1029,8 @@ When the inner being compels us to concentrate, we concentrate. There is no hard
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:50
   :KEYWORDS:
+  :CITE-KEY: ECMH:50
   :END:
 
 
@@ -1058,8 +1058,8 @@ This is what we call reincarnation from the Hindu spiritual point of view.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:51
   :KEYWORDS:
+  :CITE-KEY: ECMH:51
   :END:
 
 
@@ -1073,8 +1073,8 @@ So if you want to know what meditation is, I wish to say that meditation is that
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:52
   :KEYWORDS:
+  :CITE-KEY: ECMH:52
   :END:
 
 
@@ -1086,8 +1086,8 @@ So if you want to know what meditation is, I wish to say that meditation is that
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:53
   :KEYWORDS:
+  :CITE-KEY: ECMH:53
   :END:
 
 
@@ -1099,8 +1099,8 @@ So if you want to know what meditation is, I wish to say that meditation is that
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:54
   :KEYWORDS:
+  :CITE-KEY: ECMH:54
   :END:
 
 
@@ -1112,8 +1112,8 @@ So if you want to know what meditation is, I wish to say that meditation is that
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:55
   :KEYWORDS:
+  :CITE-KEY: ECMH:55
   :END:
 
 
@@ -1127,8 +1127,8 @@ What I want from my students is this inner cry. A child cries for his mother’s
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:56
   :KEYWORDS:
+  :CITE-KEY: ECMH:56
   :END:
 
 
@@ -1144,8 +1144,8 @@ Now did his unusual achievement help the audience in any way in their aspiration
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e15
   :KEYWORDS:
+  :CITE-KEY: ECMH:57e1
   :END:
 
 
@@ -1154,8 +1154,8 @@ Now did his unusual achievement help the audience in any way in their aspiration
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e16
   :KEYWORDS:
+  :CITE-KEY: ECMH:57e2
   :END:
 
 
@@ -1167,8 +1167,8 @@ Now did his unusual achievement help the audience in any way in their aspiration
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:57
   :KEYWORDS:
+  :CITE-KEY: ECMH:57
   :END:
 
 
@@ -1182,8 +1182,8 @@ But again, if you ask me whether by becoming a strict vegetarian you can realise
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:58
   :KEYWORDS:
+  :CITE-KEY: ECMH:58
   :END:
 
 
@@ -1197,8 +1197,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:59
   :KEYWORDS:
+  :CITE-KEY: ECMH:59
   :END:
 
 
@@ -1210,8 +1210,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:60
   :KEYWORDS:
+  :CITE-KEY: ECMH:60
   :END:
 
 
@@ -1223,8 +1223,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:61
   :KEYWORDS:
+  :CITE-KEY: ECMH:61
   :END:
 
 
@@ -1236,8 +1236,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e17
   :KEYWORDS:
+  :CITE-KEY: ECMH:62e1
   :END:
 
 
@@ -1246,8 +1246,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e18
   :KEYWORDS:
+  :CITE-KEY: ECMH:62e2
   :END:
 
 
@@ -1259,8 +1259,8 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:62
   :KEYWORDS:
+  :CITE-KEY: ECMH:62
   :END:
 
 
@@ -1278,8 +1278,8 @@ But one has to be wise in his spiritual search. He has to know that God comes fi
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:63
   :KEYWORDS:
+  :CITE-KEY: ECMH:63
   :END:
 
 
@@ -1297,8 +1297,8 @@ Now to come back to your question, if one says that one has to be a vegetarian i
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:64
   :KEYWORDS:
+  :CITE-KEY: ECMH:64
   :END:
 
 
@@ -1310,8 +1310,8 @@ Now to come back to your question, if one says that one has to be a vegetarian i
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:65
   :KEYWORDS:
+  :CITE-KEY: ECMH:65
   :END:
 
 
@@ -1331,8 +1331,8 @@ So to come back to your question, the need for a teacher. It is absurd to feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:66
   :KEYWORDS:
+  :CITE-KEY: ECMH:66
   :END:
 
 
@@ -1346,8 +1346,8 @@ In our yoga, the yoga of acceptance, we do not actually destroy anything; we tra
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:67
   :KEYWORDS:
+  :CITE-KEY: ECMH:67
   :END:
 
 
@@ -1359,8 +1359,8 @@ In our yoga, the yoga of acceptance, we do not actually destroy anything; we tra
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:68
   :KEYWORDS:
+  :CITE-KEY: ECMH:68
   :END:
 
 
@@ -1374,8 +1374,8 @@ So please launch into the spiritual path, learn the ABC of the inner life. For t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:69
   :KEYWORDS:
+  :CITE-KEY: ECMH:69
   :END:
 
 
@@ -1389,8 +1389,8 @@ Here I wish to say something. A woman spiritual Master once was asked by her dis
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: ECMH-e19
   :KEYWORDS:
+  :CITE-KEY: ECMH:70e1
   :END:
 
 
@@ -1402,8 +1402,8 @@ Here I wish to say something. A woman spiritual Master once was asked by her dis
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:70
   :KEYWORDS:
+  :CITE-KEY: ECMH:70
   :END:
 
 
@@ -1417,8 +1417,8 @@ You are God’s creation; so is humanity. Humanity is only an expression of your
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:71
   :KEYWORDS:
+  :CITE-KEY: ECMH:71
   :END:
 
 
@@ -1430,8 +1430,8 @@ You are God’s creation; so is humanity. Humanity is only an expression of your
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:72
   :KEYWORDS:
+  :CITE-KEY: ECMH:72
   :END:
 
 
@@ -1445,8 +1445,8 @@ Now you want to know how you can consciously give pure love to others. You can c
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:73
   :KEYWORDS:
+  :CITE-KEY: ECMH:73
   :END:
 
 
@@ -1458,8 +1458,8 @@ Now you want to know how you can consciously give pure love to others. You can c
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:74
   :KEYWORDS:
+  :CITE-KEY: ECMH:74
   :END:
 
 
@@ -1471,8 +1471,8 @@ Now you want to know how you can consciously give pure love to others. You can c
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:75
   :KEYWORDS:
+  :CITE-KEY: ECMH:75
   :END:
 
 
@@ -1486,8 +1486,8 @@ Anything that concerns this divine being or pertains to it is described as “ps
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:76
   :KEYWORDS:
+  :CITE-KEY: ECMH:76
   :END:
 
 
@@ -1499,8 +1499,8 @@ Anything that concerns this divine being or pertains to it is described as “ps
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:77
   :KEYWORDS:
+  :CITE-KEY: ECMH:77
   :END:
 
 
@@ -1512,8 +1512,8 @@ Anything that concerns this divine being or pertains to it is described as “ps
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:78
   :KEYWORDS:
+  :CITE-KEY: ECMH:78
   :END:
 
 
@@ -1525,8 +1525,8 @@ Anything that concerns this divine being or pertains to it is described as “ps
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:79
   :KEYWORDS:
+  :CITE-KEY: ECMH:79
   :END:
 
 
@@ -1540,8 +1540,8 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:80
   :KEYWORDS:
+  :CITE-KEY: ECMH:80
   :END:
 
 
@@ -1553,8 +1553,8 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:81
   :KEYWORDS:
+  :CITE-KEY: ECMH:81
   :END:
 
 
@@ -1566,8 +1566,8 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:82
   :KEYWORDS:
+  :CITE-KEY: ECMH:82
   :END:
 
 
@@ -1581,8 +1581,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: note
-  :CITE-KEY: ECMH-e20
   :KEYWORDS:
+  :CITE-KEY: ECMH:83e1
   :END:
 
 
@@ -1594,8 +1594,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:83
   :KEYWORDS:
+  :CITE-KEY: ECMH:83
   :END:
 
 
@@ -1607,8 +1607,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:84
   :KEYWORDS:
+  :CITE-KEY: ECMH:84
   :END:
 
 
@@ -1620,8 +1620,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:85
   :KEYWORDS:
+  :CITE-KEY: ECMH:85
   :END:
 
 
@@ -1633,8 +1633,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:86
   :KEYWORDS:
+  :CITE-KEY: ECMH:86
   :END:
 
 
@@ -1646,8 +1646,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:87
   :KEYWORDS:
+  :CITE-KEY: ECMH:87
   :END:
 
 
@@ -1659,8 +1659,8 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:88
   :KEYWORDS:
+  :CITE-KEY: ECMH:88
   :END:
 
 
@@ -1674,8 +1674,8 @@ During your meditation and prayer, at times what you feel is the uncertain drive
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:89
   :KEYWORDS:
+  :CITE-KEY: ECMH:89
   :END:
 
 
@@ -1687,8 +1687,8 @@ During your meditation and prayer, at times what you feel is the uncertain drive
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:90
   :KEYWORDS:
+  :CITE-KEY: ECMH:90
   :END:
 
 
@@ -1702,8 +1702,8 @@ There is one positive way of knowing that one’s vital and physical being have 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:91
   :KEYWORDS:
+  :CITE-KEY: ECMH:91
   :END:
 
 
@@ -1715,8 +1715,8 @@ There is one positive way of knowing that one’s vital and physical being have 
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:92
   :KEYWORDS:
+  :CITE-KEY: ECMH:92
   :END:
 
 
@@ -1732,8 +1732,8 @@ You want to know how you can overcome this invisible obstacle. I wish to tell yo
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: ECMH:93
   :KEYWORDS:
+  :CITE-KEY: ECMH:93
   :END:
 
 

@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e1
   :KEYWORDS:
+  :CITE-KEY: MSDS:1e1
   :END:
 
 
@@ -33,8 +33,8 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:1
   :KEYWORDS:
+  :CITE-KEY: MSDS:1
   :END:
 
 
@@ -56,8 +56,8 @@ O disciple, do you know the most foolish customer on earth? He is your Guru and 
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:2
   :KEYWORDS:
+  :CITE-KEY: MSDS:2
   :END:
 
 
@@ -85,8 +85,8 @@ He who treasures you
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:3
   :KEYWORDS:
+  :CITE-KEY: MSDS:3
   :END:
 
 
@@ -108,8 +108,8 @@ The other opens your soul
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:4
   :KEYWORDS:
+  :CITE-KEY: MSDS:4
   :END:
 
 
@@ -181,8 +181,8 @@ How can the Guru fulfil the Supreme? The Guru plays his part by taking the ignor
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:5
   :KEYWORDS:
+  :CITE-KEY: MSDS:5
   :END:
 
 
@@ -194,8 +194,8 @@ The Guru is not the body. The Guru is the revelation and manifestation of a divi
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:6
   :KEYWORDS:
+  :CITE-KEY: MSDS:6
   :END:
 
 
@@ -213,8 +213,8 @@ Mountain-climbing task.
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:7
   :KEYWORDS:
+  :CITE-KEY: MSDS:7
   :END:
 
 
@@ -226,8 +226,8 @@ Did you receive any help in learning the alphabet? Did you require a teacher to 
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:8
   :KEYWORDS:
+  :CITE-KEY: MSDS:8
   :END:
 
 
@@ -239,8 +239,8 @@ The Guru and the disciple must test each other sweetly, seriously and perfectly 
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:9
   :KEYWORDS:
+  :CITE-KEY: MSDS:9
   :END:
 
 
@@ -252,8 +252,8 @@ What does the acceptance of a disciple by a Guru mean? It means that the Guru wi
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:10
   :KEYWORDS:
+  :CITE-KEY: MSDS:10
   :END:
 
 
@@ -265,8 +265,8 @@ The supreme initiation is when the Master says to the disciple, "Take what I hav
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e2
   :KEYWORDS:
+  :CITE-KEY: MSDS:11e1
   :END:
 
 
@@ -275,8 +275,8 @@ The supreme initiation is when the Master says to the disciple, "Take what I hav
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:11
   :KEYWORDS:
+  :CITE-KEY: MSDS:11
   :END:
 
 
@@ -350,8 +350,8 @@ There is no seeker on earth who will remain without a teacher if he is desperate
 
   :PROPERTIES:
   :GENRE: aphorism
-  :CITE-KEY: TIMD:12
   :KEYWORDS:
+  :CITE-KEY: MSDS:12
   :END:
 
 
@@ -363,8 +363,8 @@ There is a great difference between knowing the teacher and knowing his teaching
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:13
   :KEYWORDS:
+  :CITE-KEY: MSDS:13
   :END:
 
 
@@ -381,8 +381,8 @@ A seeker's aspiring soul needs the right God.
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:14
   :KEYWORDS:
+  :CITE-KEY: MSDS:14
   :END:
 
 
@@ -401,8 +401,8 @@ And also definitely help you
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:15
   :KEYWORDS:
+  :CITE-KEY: MSDS:15
   :END:
 
 
@@ -422,8 +422,8 @@ Of the spiritual teachers
 
   :PROPERTIES:
   :GENRE: poem
-  :CITE-KEY: TIMD:16
   :KEYWORDS:
+  :CITE-KEY: MSDS:16
   :END:
 
 
@@ -444,8 +444,8 @@ With his Eternity's Compassion-Eye.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e3
   :KEYWORDS:
+  :CITE-KEY: MSDS:17e1
   :END:
 
 
@@ -454,8 +454,8 @@ With his Eternity's Compassion-Eye.
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:17
   :KEYWORDS:
+  :CITE-KEY: MSDS:17
   :END:
 
 
@@ -510,6 +510,7 @@ When the world is crying for inner food, if we have the capacity, we have to fee
   :GENRE:poem:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:18
   :END:
 
 
@@ -528,6 +529,7 @@ Into the earthly human affairs.
   :GENRE:poem:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:19
   :END:
 
 
@@ -548,6 +550,7 @@ He is meditating
   :GENRE:aphorism:
   :CITE_KEY:TIMD20:
   :KEYWORDS:
+  :CITE-KEY: MSDS:20
   :END:
 
 
@@ -561,6 +564,7 @@ A real Guru is the selfless, dedicated and eternal beggar who begs omnipotence a
   :GENRE:aphorism:
   :CITE_KEY:TIMD21:
   :KEYWORDS:
+  :CITE-KEY: MSDS:21
   :END:
 
 
@@ -574,6 +578,7 @@ The Guru is the spiritual magnet constantly pulling the disciple towards the inf
   :GENRE:aphorism:
   :CITE_KEY:TIMD22:
   :KEYWORDS:
+  :CITE-KEY: MSDS:22
   :END:
 
 
@@ -586,6 +591,7 @@ He alone is the divine leader who has the capacity to implant inspiration in the
   :PROPERTIES:
   :GENRE: poem:
   :KEYWORDS:
+  :CITE-KEY: MSDS:23
   :END:
 
 
@@ -609,8 +615,8 @@ With the joy and delight
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e4
   :KEYWORDS:
+  :CITE-KEY: MSDS:24e1
   :END:
 
 
@@ -619,8 +625,8 @@ With the joy and delight
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:18
   :KEYWORDS:
+  :CITE-KEY: MSDS:24
   :END:
 
 
@@ -663,6 +669,7 @@ An insincere disciple feels that the Master can be won by outer flattery. But th
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:25
   :END:
 
 
@@ -683,6 +690,7 @@ Don't delay; come with me to see Him."
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:26
   :END:
 
 
@@ -702,6 +710,7 @@ And whose heart is forgiveness.
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:27
   :END:
 
 
@@ -720,6 +729,7 @@ If he accepts you as a disciple
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:28
   :END:
 
 
@@ -739,6 +749,7 @@ He is as careful with everybody's heart
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:29
   :END:
 
 
@@ -765,6 +776,7 @@ It is the shortest way
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:30
   :END:
 
 
@@ -778,8 +790,8 @@ There is no better way for a disciple to serve his Guru than to listen to his ad
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e4
   :KEYWORDS:
+  :CITE-KEY: MSDS:31e1
   :END:
 
 
@@ -788,8 +800,8 @@ There is no better way for a disciple to serve his Guru than to listen to his ad
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: TIMD:18
   :KEYWORDS:
+  :CITE-KEY: MSDS:31
   :END:
 
 
@@ -884,6 +896,7 @@ Each aspirant has to make an inner promise to obey the Will of the Supreme -- at
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:32
   :END:
 
 
@@ -908,6 +921,7 @@ Eternity's cry.
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:33
   :END:
 
 
@@ -920,6 +934,7 @@ Realisation can be achieved by God's Grace, the Guru's grace and the seeker's as
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:34
   :END:
 
 
@@ -938,6 +953,7 @@ To help you cross the turbulent life-river
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:35
   :END:
 
 
@@ -957,6 +973,7 @@ Then you and your Master will sing together
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:36
   :END:
 
 
@@ -978,6 +995,7 @@ The world has only to accept them.
   :GENRE: aphorism:
   :CITE_KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:37
   :END:
 
 
@@ -995,8 +1013,8 @@ And the guide is waiting for you.
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: TIMD-e2
   :KEYWORDS:
+  :CITE-KEY: MSDS:38e1
   :END:
 
 
@@ -1007,8 +1025,8 @@ And the guide is waiting for you.
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:38
   :END:
 
 There was once a seeker. For many years he had been looking for a Master, a Guru. Unfortunately he had not found one. He had been to many spiritual groups, but the teachers that he met were not to his taste. So he was still looking, looking for a spiritual Master. One day while he was walking along the street, he saw a spiritual Master with a few disciples. They were sitting on a lawn, a beautiful lawn, and some of the disciples were watering the grass.
@@ -1042,8 +1060,8 @@ Then the Master slowly walked away.
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:39
   :END:
 
 
@@ -1100,8 +1118,8 @@ The fourth seeker bowed and said, "Master, I shall not waste a second. I shall g
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:40
   :END:
 
 
@@ -1136,8 +1154,8 @@ The Master immediately said, “My promise. Yes, I have made a promise to you pe
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:41
   :END:
 
 
@@ -1184,8 +1202,8 @@ The disciple said, "But Master, even when I expect the highest Goal from God -- 
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:42
   :END:
 
 
@@ -1229,8 +1247,8 @@ The Guru said, "Look, if you think that the Guru is the body, then the Guru is n
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:43
   :END:
 
 
@@ -1355,8 +1373,8 @@ MASTER (/to the first disciple/): By recognising your stupidity, your ignorance,
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:44e1
   :END:
 
 
@@ -1366,8 +1384,8 @@ MASTER (/to the first disciple/): By recognising your stupidity, your ignorance,
 
   :PROPERTIES:
   :GENRE:
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: MSDS:44
   :END:
 
 

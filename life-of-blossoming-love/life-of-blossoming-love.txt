@@ -24,8 +24,8 @@
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: LBL-e1
   :KEYWORDS:
+  :CITE-KEY: LBL:1e1
   :END:
 
 
@@ -35,8 +35,8 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: LBL:1
   :KEYWORDS:
+  :CITE-KEY: LBL:1
   :END:
 
 
@@ -62,8 +62,8 @@ Stony Brook New York \\
 
   :PROPERTIES:
   :GENRE: note, section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: LBL:2e1
   :END:
 
 
@@ -75,8 +75,8 @@ On 26 October 1977, Sri Chinmoy visited with Don Francisco Matos Paoli at the po
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:3
   :KEYWORDS:
+  :CITE-KEY: LBL:2
   :END:
 
 
@@ -100,8 +100,8 @@ This is your house. This house is protecting you. At the same time, if you do no
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:4
   :KEYWORDS:
+  :CITE-KEY: LBL:3
   :END:
 
 
@@ -135,8 +135,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:5
   :KEYWORDS:
+  :CITE-KEY: LBL:4
   :END:
 
 
@@ -170,8 +170,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:6
   :KEYWORDS:
+  :CITE-KEY: LBL:5
   :END:
 
 
@@ -197,8 +197,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:7
   :KEYWORDS:
+  :CITE-KEY: LBL:6
   :END:
 
 
@@ -224,8 +224,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:8
   :KEYWORDS:
+  :CITE-KEY: LBL:7
   :END:
 
 
@@ -251,8 +251,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:9
   :KEYWORDS:
+  :CITE-KEY: LBL:8
   :END:
 
 
@@ -270,8 +270,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: interview
-  :CITE-KEY: LBL:10
   :KEYWORDS:
+  :CITE-KEY: LBL:9
   :END:
 
 
@@ -285,8 +285,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: LBL:10e1
   :END:
 
 
@@ -294,8 +294,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:11
   :KEYWORDS:
+  :CITE-KEY: LBL:10
   :END:
 
 
@@ -307,8 +307,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:12
   :KEYWORDS:
+  :CITE-KEY: LBL:11
   :END:
 
 
@@ -320,8 +320,8 @@ Politics deals with earth-bound reality, but mysticism deals with Heaven-free Re
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:13
   :KEYWORDS:
+  :CITE-KEY: LBL:12
   :END:
 
 
@@ -341,8 +341,8 @@ When the light of the supermind actually touches the earth plane, it changes its
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:14
   :KEYWORDS:
+  :CITE-KEY: LBL:13
   :END:
 
 
@@ -354,8 +354,8 @@ When the light of the supermind actually touches the earth plane, it changes its
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:15
   :KEYWORDS:
+  :CITE-KEY: LBL:14
   :END:
 
 
@@ -375,8 +375,8 @@ Here I am telling you the absolute truth. Otherwise, people will be under the im
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:16
   :KEYWORDS:
+  :CITE-KEY: LBL:15
   :END:
 
 
@@ -392,8 +392,8 @@ This is all the pure imagination of the artist. In India we have a set of sacred
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:17
   :KEYWORDS:
+  :CITE-KEY: LBL:16
   :END:
 
 
@@ -411,8 +411,8 @@ We call AUM the soundless sound although with our ordinary ears we may hear this
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:18
   :KEYWORDS:
+  :CITE-KEY: LBL:17
   :END:
 
 
@@ -424,8 +424,8 @@ We call AUM the soundless sound although with our ordinary ears we may hear this
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:19
   :KEYWORDS:
+  :CITE-KEY: LBL:18
   :END:
 
 
@@ -439,8 +439,8 @@ When one is pronouncing the Supreme's Name, one has to know what the purpose is.
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:20
   :KEYWORDS:
+  :CITE-KEY: LBL:19
   :END:
 
 
@@ -454,8 +454,8 @@ You have to know whether that man is basically good or not. If he is basically g
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:21
   :KEYWORDS:
+  :CITE-KEY: LBL:20
   :END:
 
 
@@ -467,8 +467,8 @@ You have to know whether that man is basically good or not. If he is basically g
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:22
   :KEYWORDS:
+  :CITE-KEY: LBL:21
   :END:
 
 
@@ -482,8 +482,8 @@ The Supreme has been feeding and nurturing His present creation for so many year
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:23
   :KEYWORDS:
+  :CITE-KEY: LBL:22
   :END:
 
 
@@ -497,8 +497,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:24
   :KEYWORDS:
+  :CITE-KEY: LBL:23
   :END:
 
 
@@ -510,8 +510,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:25
   :KEYWORDS:
+  :CITE-KEY: LBL:24
   :END:
 
 
@@ -523,8 +523,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:26
   :KEYWORDS:
+  :CITE-KEY: LBL:25
   :END:
 
 
@@ -536,8 +536,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:27
   :KEYWORDS:
+  :CITE-KEY: LBL:26
   :END:
 
 
@@ -549,8 +549,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:28
   :KEYWORDS:
+  :CITE-KEY: LBL:27
   :END:
 
 
@@ -562,8 +562,8 @@ If you become like me, then after one hour of sleep you can make yourself feel t
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:29
   :KEYWORDS:
+  :CITE-KEY: LBL:28
   :END:
 
 
@@ -579,8 +579,8 @@ So attachment is very bad if you think of your Master only on the physical plane
 
   :PROPERTIES:
   :GENRE: qa
-  :CITE-KEY: LBL:30
   :KEYWORDS:
+  :CITE-KEY: LBL:29
   :END:
 
 

@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY:
   :KEYWORDS:
+  :CITE-KEY: GNS:1
   :END:
 
 
@@ -205,8 +205,8 @@ November 23, 1972
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:1
   :KEYWORDS:
+  :CITE-KEY: GNS:2
   :END:
 
 
@@ -222,8 +222,8 @@ WE BELIEVE
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:2
   :KEYWORDS:
+  :CITE-KEY: GNS:3
   :END:
 
 
@@ -280,8 +280,8 @@ July 15, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:3
   :KEYWORDS:
+  :CITE-KEY: GNS:4
   :END:
 
 
@@ -359,8 +359,8 @@ November 26, 1968
 
   :PROPERTIES:
   :GENRE: section
-  :CITE-KEY: GNS-e1
   :KEYWORDS:
+  :CITE-KEY: GNS:5e1
   :END:
 
 
@@ -369,8 +369,8 @@ November 26, 1968
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:4
   :KEYWORDS:
+  :CITE-KEY: GNS:5
   :END:
 
 
@@ -396,8 +396,8 @@ May 12, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:5
   :KEYWORDS:
+  :CITE-KEY: GNS:6
   :END:
 
 
@@ -423,8 +423,8 @@ May 19, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:6
   :KEYWORDS:
+  :CITE-KEY: GNS:7
   :END:
 
 
@@ -450,8 +450,8 @@ May 26, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:7
   :KEYWORDS:
+  :CITE-KEY: GNS:8
   :END:
 
 
@@ -483,8 +483,8 @@ June 2, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:8
   :KEYWORDS:
+  :CITE-KEY: GNS:9
   :END:
 
 
@@ -504,8 +504,8 @@ June 9, 1970
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:9
   :KEYWORDS:
+  :CITE-KEY: GNS:10
   :END:
 
 
@@ -537,8 +537,8 @@ February 12, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:10
   :KEYWORDS:
+  :CITE-KEY: GNS:11
   :END:
 
 
@@ -582,8 +582,8 @@ New York March 4, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:11
   :KEYWORDS:
+  :CITE-KEY: GNS:12
   :END:
 
 
@@ -633,8 +633,8 @@ April 1, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:12
   :KEYWORDS:
+  :CITE-KEY: GNS:13
   :END:
 
 
@@ -675,8 +675,8 @@ August 5, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:13
   :KEYWORDS:
+  :CITE-KEY: GNS:14
   :END:
 
 
@@ -742,8 +742,8 @@ May 13, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:14
   :KEYWORDS:
+  :CITE-KEY: GNS:15
   :END:
 
 
@@ -776,8 +776,8 @@ June 4, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:15
   :KEYWORDS:
+  :CITE-KEY: GNS:16
   :END:
 
 
@@ -840,8 +840,8 @@ July 1, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:16
   :KEYWORDS:
+  :CITE-KEY: GNS:17
   :END:
 
 
@@ -898,8 +898,8 @@ November 4, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:17
   :KEYWORDS:
+  :CITE-KEY: GNS:18
   :END:
 
 
@@ -936,8 +936,8 @@ New York October 7, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:18
   :KEYWORDS:
+  :CITE-KEY: GNS:19
   :END:
 
 
@@ -976,8 +976,8 @@ December 2, 1971
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:19
   :KEYWORDS:
+  :CITE-KEY: GNS:20
   :END:
 
 
@@ -1025,8 +1025,8 @@ January 4, 19 72
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:20
   :KEYWORDS:
+  :CITE-KEY: GNS:21
   :END:
 
 
@@ -1078,8 +1078,8 @@ February 3, 1972
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:21
   :KEYWORDS:
+  :CITE-KEY: GNS:22
   :END:
 
 
@@ -1123,8 +1123,8 @@ March 2, 19 72
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:22
   :KEYWORDS:
+  :CITE-KEY: GNS:23
   :END:
 
 
@@ -1164,8 +1164,8 @@ May 10, 1972
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:23
   :KEYWORDS:
+  :CITE-KEY: GNS:24
   :END:
 
 
@@ -1235,8 +1235,8 @@ June 1, 1972
 
   :PROPERTIES:
   :GENRE: discourse
-  :CITE-KEY: GNS:24
   :KEYWORDS:
+  :CITE-KEY: GNS:25
   :END:
 
 
@@ -1282,8 +1282,8 @@ October 2, 1972
 
   :PROPERTIES:
   :GENRE: prayers
-  :CITE-KEY: GNS:25
   :KEYWORDS:
+  :CITE-KEY: GNS:26
   :END:
 
 
@@ -1292,8 +1292,8 @@ October 2, 1972
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:26
   :KEYWORDS:
+  :CITE-KEY: GNS:27
   :END:
 
 
@@ -1327,8 +1327,8 @@ The presence of oneness is the glorious beginning of man's perfect Perfection.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:27
   :KEYWORDS:
+  :CITE-KEY: GNS:28
   :END:
 
 
@@ -1352,8 +1352,8 @@ God is the Child of my breathless meditation.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:28
   :KEYWORDS:
+  :CITE-KEY: GNS:29
   :END:
 
 
@@ -1372,8 +1372,8 @@ I quote God because He alone instantly knows.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:29
   :KEYWORDS:
+  :CITE-KEY: GNS:30
   :END:
 
 
@@ -1391,8 +1391,8 @@ A conscious self-dedicated oneness with mankind for mankind can alone make the a
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:30
   :KEYWORDS:
+  :CITE-KEY: GNS:31
   :END:
 
 
@@ -1412,8 +1412,8 @@ The universal oneness is our God-Realisation without, embodied, revealed and man
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:31
   :KEYWORDS:
+  :CITE-KEY: GNS:32
   :END:
 
 
@@ -1431,8 +1431,8 @@ The universal oneness is the Son of Immortality. This is what we learn from God'
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:32
   :KEYWORDS:
+  :CITE-KEY: GNS:33
   :END:
 
 
@@ -1454,8 +1454,8 @@ God's eternal Concern fulfils man the evolving soul and God the Transcendental S
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:33
   :KEYWORDS:
+  :CITE-KEY: GNS:34
   :END:
 
 
@@ -1475,8 +1475,8 @@ I hesitate to speak to the world because I think the world is a stranger to me.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:34
   :KEYWORDS:
+  :CITE-KEY: GNS:35
   :END:
 
 
@@ -1496,8 +1496,8 @@ When a seeker meditates on God, he feels his inner divinity and sees his outer r
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:35
   :KEYWORDS:
+  :CITE-KEY: GNS:36
   :END:
 
 
@@ -1519,8 +1519,8 @@ God demands my life. How can I deny Him His eternal Right?
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:36
   :KEYWORDS:
+  :CITE-KEY: GNS:37
   :END:
 
 
@@ -1546,8 +1546,8 @@ The soul loves the fulfilling God.
 
   :PROPERTIES:
   :GENRE: prayer
-  :CITE-KEY: GNS:37
   :KEYWORDS:
+  :CITE-KEY: GNS:38
   :END:
 
 
