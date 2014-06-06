@@ -23,8 +23,8 @@
 
   :PROPERTIES:
   :GENRE: note
+  :CITE-KEY: WDNI-e1
   :KEYWORDS:
-  :CITE-KEY: WDNI:1e1
   :END:
 
 
@@ -52,20 +52,20 @@ I found the book to be personally helpful. In an age when stress is real and it 
 
 Monsignor Thomas J. Hartman\\
 Director of Radio and Television\\
-Diocese of Rockville Center, New York\\
+Diocese of Rockville Center, New York
 
 
 
 * Preface
 
   :PROPERTIES:
-  :GENRE:
+  :GENRE: preface
+  :CITE-KEY:
   :KEYWORDS:
-  :CITE-KEY: WDNI:1
   :END:
   
   
-This book is the result of a remarkable collaboration between the Reverend Don Antonio Tarzia, General Director of the Italian publishing firm Edizioni Paoline; writer and journalist Venanzio Ciampa of Italy’s RAI national television; and Indian spiritual Master Sri Chinmoy.
+This book is the result of a remarkable collaboration between Don Antonio Tarzia, General Director of the Italian publishing firm Edizioni Paoline; writer and journalist Venanzio Ciampa of Italy’s RAI national television; and Indian spiritual Master Sri Chinmoy.
 
 Sri Chinmoy met with these two men in New York and Rome, where several magazine articles and television specials about Sri Chinmoy’s life and activities were being completed. The first television documentary, aired nationwide in Italy on 23 July 1989, featured a probing interview with Sri Chinmoy at the United Nations, footage of Pope John Paul II receiving Sri Chinmoy in Vatican City and a testimonial to the astonishing power of Sri Chinmoy’s meditation by champion weightlifter Bill Pearl.
 
@@ -77,16 +77,16 @@ The subject matter is wide-ranging, punctuated with rare autobiographical elemen
 
 
 
-* I. Spiritual principles
+* Part I - Spiritual principles
 
   :PROPERTIES:
   :GENRE: discourse
+  :CITE-KEY: WDNI:1
   :KEYWORDS:
-  :CITE-KEY: WDNI:2
   :END:
 
 
-/Perfection has to be the goal of each and every individual -- perfection in the inner life and perfection of the outer life -- for it is in perfection that satisfaction abides. Perfection is both humanity’s hope and Divinity’s promise./
+Perfection has to be the goal of each and every individual -- perfection in the inner life and perfection of the outer life -- for it is in perfection that satisfaction abides. Perfection is both humanity’s hope and Divinity’s promise.
 
 
 
@@ -94,8 +94,8 @@ The subject matter is wide-ranging, punctuated with rare autobiographical elemen
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:2
   :KEYWORDS:
-  :CITE-KEY: WDNI:3
   :END:
 
 
@@ -111,8 +111,8 @@ After discovering God’s Will, if we are still in our highest consciousness, we
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:3
   :KEYWORDS:
-  :CITE-KEY: WDNI:4
   :END:
 
 
@@ -128,8 +128,8 @@ Although light is the most needed spiritual quality of all, unfortunately it is 
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:4
   :KEYWORDS:
-  :CITE-KEY: WDNI:5
   :END:
 
 
@@ -145,8 +145,8 @@ God the Creator is progressing in and through God the creation, and vice versa. 
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:5
   :KEYWORDS:
-  :CITE-KEY: WDNI:6
   :END:
 
 
@@ -160,8 +160,8 @@ My disciples do learn from me to bring to the fore their inner capacities, and m
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:6
   :KEYWORDS:
-  :CITE-KEY: WDNI:7
   :END:
 
 
@@ -177,16 +177,16 @@ For everyone, the body is the only means by which the spirit can manifest itself
 
 
 
-* II. Global consciousness
+* Part II - Global consciousness
 
   :PROPERTIES:
   :GENRE: discourse
+  :CITE-KEY: WDNI:7
   :KEYWORDS:
-  :CITE-KEY: WDNI:8
   :END:
 
 
-/What we need is a life of balance -- neither to wallow in the pleasures of wealth nor to lead a life of asceticism, but to embrace a life of simplicity and a heart of purity. Indeed, this is the only way that this world of ours can be supremely happy and divinely perfect./
+What we need is a life of balance -- neither to wallow in the pleasures of wealth nor to lead a life of asceticism, but to embrace a life of simplicity and a heart of purity. Indeed, this is the only way that this world of ours can be supremely happy and divinely perfect.
 
 
 
@@ -194,8 +194,8 @@ For everyone, the body is the only means by which the spirit can manifest itself
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:8
   :KEYWORDS:
-  :CITE-KEY: WDNI:9
   :END:
 
 
@@ -211,8 +211,8 @@ God inspires heads of countries and all of us to do the right thing. But inspira
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:9
   :KEYWORDS:
-  :CITE-KEY: WDNI:10
   :END:
 
 
@@ -228,8 +228,8 @@ The One is part of the many, and the many are part of the One. Similarly, the in
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:10
   :KEYWORDS:
-  :CITE-KEY: WDNI:11
   :END:
 
 Definitely society embodies spirituality in the purest sense of the term. Spirituality is not asceticism. Spirituality is not self-abnegation. True spirituality means the acceptance and transformation of life so that perfect perfection can dawn in the core of humanity. Through meditation and spiritual discipline, definitely one can become spiritual irrespective of one’s social role or religious beliefs.
@@ -241,8 +241,8 @@ Definitely society embodies spirituality in the purest sense of the term. Spirit
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:11
   :KEYWORDS:
-  :CITE-KEY: WDNI:12
   :END:
 
 
@@ -258,8 +258,8 @@ What we need is a life of balance -- neither to wallow in the pleasures of wealt
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:12
   :KEYWORDS:
-  :CITE-KEY: WDNI:13
   :END:
 
 
@@ -271,16 +271,14 @@ Similarly, both men and women have the same right to claim God as their very own
 
 
 
-* Will Man Survive The Impending Ecological Disasters?...
+* Will mankind survive the impending ecological disasters? How can our modern technological society be taught to respect our home, the planet Earth?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:13
   :KEYWORDS:
-  :CITE-KEY: WDNI:14
   :END:
 
-
-/Will man survive the impending ecological disasters? How can our modern technological society be taught to respect our home, the planet Earth?/
 
 Mankind will survive everything precisely because God will not allow His perfection-manifestation on earth to be a failure. But it is very difficult to impress upon others the necessity of respecting and preserving our Mother-Earth. If we try to play the role of enforcers, we will not be successful. Nobody wants to learn anything by outer force. Everybody has to be taught through inner persuasion and outer example.
 
@@ -292,16 +290,14 @@ In this sense, each seeker has a special role to play in the protection of our s
 
 
 
-* God Is All Love And Goodness....
+* God is all Love and Goodness. Will He allow mankind, in its arrogance and greed, to destroy the world?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:14
   :KEYWORDS:
-  :CITE-KEY: WDNI:15
   :END:
 
-
-/God is all Love and Goodness. Will He allow mankind, in its arrogance and greed, to destroy the world?/
 
 Precisely because He is all Love and all Goodness, God will never allow mankind to destroy this beautiful world of His. Sleeplessly He tells us to claim His world as our own, and to serve Him in this world by increasing the purity and divinity of our lives.
 
@@ -311,12 +307,12 @@ We must remember that the Creator is always more powerful than His creation. The
 
 
 
-* III. Religion
+* Part III - Religion
 
   :PROPERTIES:
   :GENRE: discourse
+  :CITE-KEY: WDNI:15
   :KEYWORDS:
-  :CITE-KEY: WDNI:16
   :END:
 
 
@@ -324,16 +320,14 @@ If we live in our oneness-heart, we will feel the essence of all religions which
 
 
 
-* Why Do The Different Religions Of The...
+* Why do the different religions of the world often depict God in many different ways and ascribe to His Will such diverse opinions on fundamental world issues?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:16
   :KEYWORDS:
-  :CITE-KEY: WDNI:17
   :END:
 
-
-/Why do the different religions of the world often depict God in many different ways and ascribe to His Will such diverse opinions on fundamental world issues?/
 
 Let us take all religions as members of one family. In a family there are many members, and each one is entitled to have a different opinion. But they do know that they all belong to the same family. True religion is like a life-tree; it has many branches with countless flowers, fruits and leaves. When we deal with different parts of the life-tree, we see diverse opinions on world issues.
 
@@ -341,16 +335,14 @@ Each individual seeker views the Creator and the creation according to his own a
 
 
 
-* You Have Written: “Sri Krishna Meditated And...
+* You have written: “Sri Krishna meditated and became God the divine Light. Christ meditated and became God the divine Compassion. God wants us to meditate to become God the divine Life.” Why do you not also include Abraham, Moses and Mohammed here?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:17
   :KEYWORDS:
-  :CITE-KEY: WDNI:18
   :END:
 
-
-/You have written: “Sri Krishna meditated and became God the divine Light. Christ meditated and became God the divine Compassion. God wants us to meditate to become God the divine Life.” Why do you not also include Abraham, Moses and Mohammed here?/
 
 Indeed, Abraham, Moses and Mohammed were also God’s representatives on earth. God’s conscious servants are like a family with many members. Suppose there is a family with ten members, who are all endowed with exceptional musical talents. You happen to be one of the brothers, and you give preference to some of your brothers and sisters over others because of your own inner feelings. You are in no way saying that the ones you prefer are the only musicians in the family, whereas the others are not musicians at all. You are just more fond of some of your brothers and sisters than of others. Another person will give more importance to different members of the family. It is only that I like or love this person more, while you may like or love somebody else more. Each of us has our own inner feelings and preference.
 
@@ -360,16 +352,14 @@ Needless to say, all four are definitely God-realised souls. The one who has rea
 
 
 
-* You Are Originally From A Very Old...
+* You are originally from a very old and classical religion, which has been tested through the centuries. What do you think of the new religions that appear frequently in the United States, which stress social-life activities?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:18
   :KEYWORDS:
-  :CITE-KEY: WDNI:19
   :END:
 
-
-/You are originally from a very old and classical religion, which has been tested through the centuries. What do you think of the new religions that appear frequently in the United States, which stress social-life activities?/
 
 You are right that my Hindu religion has been mercilessly tested throughout the centuries. Because of Hinduism’s vastness-heart and tolerance-life, it has survived and will continue to survive all inner and outer challenges. Hinduism encompasses many philosophies and beliefs. It is all-embracing in its love, and it gives importance to all the spiritual figures of the world. Hinduism embodies certain eternal ideals, and it sees a true harmony in the teachings of all religions. To some extent, it is more like a self-disciplined spiritual culture than a religion.
 
@@ -377,16 +367,14 @@ I am not well acquainted with the new religions that deal with social-life activ
 
 
 
-* Your Disciples Have Come To You From...
+* Your disciples have come to you from many different religions -- Christianity, Judaism, Hinduism, Buddhism, Islam and others. You do not ask them to leave their religions when they join your spiritual path. Is this because you believe there is one God, and that every religion calls Him in their own language? Are all religions ways to provide us with the experience of God, independent of the historical appearance of the religion’s message?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:19
   :KEYWORDS:
-  :CITE-KEY: WDNI:20
   :END:
 
-
-/Your disciples have come to you from many different religions -- Christianity, Judaism, Hinduism, Buddhism, Islam and others. You do not ask them to leave their religions when they join your spiritual path. Is this because you believe there is one God, and that every religion calls Him in their own language? Are all religions ways to provide us with the experience of God, independent of the historical appearance of the religion’s message?/
 
 It is true that I do not ask my disciples to leave their religions. To me, religions are like houses. Everyone has to live in a house. But if they want to study in a particular school, they can go outside their house. In the spiritual school they have the same teacher, and they all study the same lesson. What is the lesson they study? Love of God. And love of God is the essence of all religions.
 
@@ -398,16 +386,14 @@ I also believe that all religions are ways to provide us with the experience of 
 
 
 
-* What Has To Prevail In Religion -- Reason, Or...
+* What has to prevail in religion -- reason, or the sentiment of the heart? How can we identify a true religion?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:20
   :KEYWORDS:
-  :CITE-KEY: WDNI:21
   :END:
 
-
-/What has to prevail in religion -- reason, or the sentiment of the heart? How can we identify a true religion?/
 
 In religion, the feeling of oneness-heart has to prevail, and nothing else. Religion is not a matter of reason. If we live in our oneness-heart, we will feel the essence of all religions, which is love of God. But if we live in the mind, we will only try to separate one religion from another and see how their ideologies differ. It is the heart that can have a true intuitive understanding of the height and breadth of all religions. It is the heart that sees and feels the inner harmony and oneness of all religions.
 
@@ -415,20 +401,18 @@ True religion has a universal quality. It does not find fault with other religio
 
 
 
-* What Is Your Opinion Of Those Religious...
-
+* What is your opinion of those religious sects which fight with other sects in the Name of God?
+ 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:21
   :KEYWORDS:
-  :CITE-KEY: WDNI:22
   :END:
 
 
-/What is your opinion of those religious sects which fight with other sects in the Name of God?/
-
 I feel very sad when religious sects quarrel and fight in the Name of God. If they really love God, they will not kill others in His Name. Love means oneness. If we have oneness, how can we fight? We fight only because we do not feel love for others, because we have not yet transformed our ignorance into oneness-reality.
 
-In our own being there are many members -- the body, vital, mind, heart and soul -- and we claim all of them as our own, very own. The body, too, has so many parts, but when we want to achieve something, all the parts work together. In exactly the same way, when we want to do something good for mankind, then all the religions can and should work together. All the world’s faiths which differ in appearance but in essence are one -- must work together.
+In our own being there are many members -- the body, vital, mind, heart and soul -- and we claim all of them as our own, very own. The body, too, has so many parts, but when we want to achieve something, all the parts work together. In exactly the same way, when we want to do something good for mankind, then all the religions can and should work together. All the world’s faiths -- which differ in appearance but in essence are one -- must work together.
 
 Since we all have the same Source, we all have the same ultimate destination. No matter which path we take, eventually we will arrive at the same destination. Since “all roads lead to Rome,” and we are all heading ultimately to the same Source, it is ridiculous to fight against others who are following different roads. Some people may choose a very short and direct road, while others may take a longer route. Some may want to fly while others are content to walk, but the destination is the same.
 
@@ -436,12 +420,12 @@ When all religions work together, they can achieve something great and good for 
 
 
 
-* IV. Christ And Christianity
+* Part IV - Christ and Christianity
 
   :PROPERTIES:
   :GENRE: discourse
+  :CITE-KEY: WDNI:22
   :KEYWORDS:
-  :CITE-KEY: WDNI:23
   :END:
 
 
@@ -449,16 +433,14 @@ The teachings of the Saviour Christ have guided, uplifted and illumined humanity
 
 
 
-* Do You Recognise Jesus Christ As A...
+* Do you recognise Jesus Christ as a prophet, as the Son of God or as a friend of mankind, historically engaged in raising its social and spiritual level?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:23
   :KEYWORDS:
-  :CITE-KEY: WDNI:24
   :END:
 
-
-/Do you recognise Jesus Christ as a prophet, as the Son of God or as a friend of mankind, historically engaged in raising its social and spiritual level?/
 
 I recognise Jesus Christ not only as an unparalleled prophet and the beloved Son of God but also as a supreme oneness-friend of mankind. What he did, what he is doing and what he will be doing is far beyond the domains of history, society and certain levels of spirituality.
 
@@ -470,16 +452,14 @@ As the true oneness-friend of mankind, Jesus Christ flooded the earth-consciousn
 
 
 
-* In The New Testament Jesus Says, “Because...
+* In the New Testament Jesus says, “Because you have seen me, you have believed. Blessed are they that have not seen and yet have believed.” Here we see faith in tradition; the Gospel was told to us, and we believe in it. But then we are called upon to believe in something higher: that we can actually experience God. Everyone has to achieve this within himself in his own way. Do you believe in this individual approach to God?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:24
   :KEYWORDS:
-  :CITE-KEY: WDNI:25
   :END:
 
-
-/In the New Testament Jesus says, “Because you have seen me, you have believed. Blessed are they that have not seen and yet have believed.” Here we see faith in tradition; the Gospel was told to us, and we believe in it. But then we are called upon to believe in something higher: that we can actually experience God. Everyone has to achieve this within himself in his own way. Do you believe in this individual approach to God?/
 
 The Saviour’s lofty utterance is at once beautiful, illumining and fulfilling. To be blessed means to be more in tune with God’s Compassion, Light and Will.
 
@@ -487,39 +467,35 @@ Let us say somebody comes to me and tells me that he has been to a garden that h
 
 But if my friend tells me about the garden, and I say, “No, I can’t believe anything from him,” then it is only when I go there myself and see that what he says is true that I will get the joy that I deserve. But if I had believed him when he first told me about the garden, my total amount of joy would have been greater. His own joy, which he was so eager to share with me, would have entered into me and been added to the joy I got myself when I went personally to the garden. Then naturally I would have been happier.
 
-I do believe in an individual approach to God. Each sincere approach ultimately leads to the goal. When we come to the Vatican to be blessed by the Holy Father, I may come by boat, you may come by plane, a third person may come by car and a fourth person may come on foot. Each one has used his own means to reach the goal, but the destination, which is flooded with infinite Light and delight, is the same. Therefore, I give value to each and every individual approach, since all ultimately lead to the destination.
+I do believe in an individual approach to God. Each sincere approach ultimately leads to the goal. When we come to the Vatican to be blessed by the Holy Father, I may come by boat, you may come by plane, a third person may come by car and a fourth person may come on foot. Each one has used his own means to reach the goal, but the destination, which is flooded with infinite Light and Delight, is the same. Therefore, I give value to each and every individual approach, since all ultimately lead to the destination.
 
 
 
-* What Is The Path Of The Heart?...
+* What is the path of the heart? Is it love, peace, devotion, sentiment, meditation and religious practice? What more?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:25
   :KEYWORDS:
-  :CITE-KEY: WDNI:26
   :END:
 
-
-/What is the path of the heart? Is it love, peace, devotion, sentiment, meditation and religious practice? What more?/
 
 To me the path of the heart means divine love, divine devotion and divine surrender. Human love means to bind and be bound. Human devotion is nothing other than attachment. Human surrender is like the forced surrender of a slave to the master. But divine love means to love God in the way God wants to be loved. Divine devotion means to serve God in the way God wants us to serve. Divine surrender means to make our will completely one with His Will.
 
 We want to love God unconditionally in order to please Him in His own Way. We want to devote ourselves to God unconditionally in order to please Him in His own Way. We want to surrender our earth-bound will to His Heaven-free Will unconditionally in order to please Him and fulfil Him in His own Way. Everything has to be unconditional. This is the path of the heart.
 
-The supreme message of the Saviour we have to apply to our everyday life: “Let Thy Will be done.” When we love God, devote ourselves to God and surrender to Him unconditionally, our finite ‘self’ grows into the Infinite in exactly the same way that a drop enters the ocean and becomes the ocean itself. When we become one with the infinite, and claim it as our very own, then we can truthfully say that we ourselves are infinite.
+The supreme message of the Saviour we have to apply to our everyday life: “Let Thy Will be done.” When we love God, devote ourselves to God and surrender to Him unconditionally, our finite ‘self’ grows into the Infinite in exactly the same way that a drop enters the ocean and becomes the ocean itself. When we become one with the Infinite, and claim it as our very own, then we can truthfully say that we ourselves /are/ infinite.
 
 
 
-* Which Is The Most Beautiful Prayer: The...
+* Which is the most beautiful prayer: the prayer of praise and beseeching, where man sees God as omnipotent, or the prayer of acceptance -- "Thy Will be done"?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:26
   :KEYWORDS:
-  :CITE-KEY: WDNI:27
   :END:
 
-
-/Which is the most beautiful prayer: the prayer of praise and beseeching, where man sees God as omnipotent, or the prayer of acceptance -- "Thy Will be done"?/
 
 The prayer “Let Thy Will be done” is infinitely more beautiful, infinitely more illumining and infinitely more fulfilling than a prayer of praise and beseeching.
 
@@ -531,16 +507,14 @@ When we humbly offer our earth-bound will to God’s Heaven-free Will, we feel t
 
 
 
-* We Are Supposed To Become Like God....
+* We are supposed to become like God. “You shall be like God,” the Bible says. And the New Testament states, “Be perfect like your Father in Heaven.” You have also written, “The Supreme will be satisfied with me only when I become like Him, another God, because He wants me to become His companion, not His slave.” How much of a metaphor are these sayings, and how far can they be taken word for word?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:27
   :KEYWORDS:
-  :CITE-KEY: WDNI:28
   :END:
 
-
-/We are supposed to become like God. “You shall be like God,” the Bible says. And the New Testament states, “Be perfect like your Father in Heaven.” You have also written, “The Supreme will be satisfied with me only when I become like Him, another God, because He wants me to become His companion, not His slave.” How much of a metaphor are these sayings, and how far can they be taken word for word?/
 
 It entirely depends on the development of the individual. These are extremely lofty spiritual goals. The Christ said, “I and my Father are one.” Is there any sincere truth-seeker and God-lover who will disagree with his illumining realisation? But if an ordinary person who does not pray and meditate or lead a spiritual life says this, nobody will take him seriously. A thief can tell me not to steal, but will I be inspired by his words? But if a saint or a great spiritual Master tells me not to steal, it is entirely different. When a spiritual Master asks me to do something, he is consciously putting a force behind his words so that I will succeed. He not only inspires me but also helps me inwardly to succeed.
 
@@ -550,37 +524,35 @@ I am very grateful that you have read my writings. My philosophy is founded upon
 
 
 
-* What Does The Pope Represent To You...
+* What does the Pope represent to you personally? You have met with Pope Paul Vl. Did you have any significant inner experiences? What did you talk about?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:28
   :KEYWORDS:
-  :CITE-KEY: WDNI:29
   :END:
 
 
-/What does the Pope represent to you personally? You have met with Pope Paul Vl. Did you have any significant inner experiences? What did you talk about?/
+To me, the Pope is a supreme leader of humanity. He is the elder brother of awakened and unawakened mankind. He is the representative of the Saviour Christ on earth. In my first meeting with Pope Paul VI, I told him that I saw in him “the most benevolent Father of the Catholic world, the Master-leader of the Christian world and the Champion-lover of humanity.” This is in essence what the role of the Pope represents to me. 
 
-To me, the Pope is a supreme leader of humanity. He is the elder brother of awakened and unawakened mankind. He is the representative of the Saviour Christ on earth. In my first meeting with Pope Paul VI, I told him that I saw in him “the most benevolent Father of the Catholic world, the Master-leader of the Christian world and the Champion-lover of humanity.” This is in essence what the role of the Pope represents to me. I was fortunate and blessed to be able to meet with Pope Paul VI three times. Each time I met with him, I had significant inner experiences. When I looked at his eyes, I saw an illumination-sky, and when I entered into his heart, I felt a compassion-ocean. It is very rare to find an illumined mind and a compassionate heart together, but in one frame Pope Paul VI definitely embodied both compassion and illumination in boundless measure. I also discovered in him a soul’s smile which was truly psychic, yet touched with a subtle sadness. He had the capacity to quickly penetrate the human heart and dispel the sufferings of human life.
+I was fortunate and blessed to be able to meet with Pope Paul VI three times. Each time I met with him, I had significant inner experiences. When I looked at his eyes, I saw an illumination-sky, and when I entered into his heart, I felt a compassion-ocean. It is very rare to find an illumined mind and a compassionate heart together, but in one frame Pope Paul VI definitely embodied both compassion and illumination in boundless measure. I also discovered in him a soul’s smile which was truly psychic, yet touched with a subtle sadness. He had the capacity to quickly penetrate the human heart and dispel the sufferings of human life.
 
 I remember so vividly the first time I met with His Holiness in a private audience. At one point he said, “This meeting of ours has been most essential.” He also told me, “I admire your philosophy -- the Hindu life and the Christian life shall go together. Your message and my message are the same.” Later, I was deeply moved when the Pope said, “When we leave this world, you and I will meet together.” And the Holy Father was all kindness in presenting me with the Papal medallion.
 
-The second time we met, I was fortunate enough to be in the front row when the Pope was holding a public audience. He was not physically well and had to be carried on a chair to the podium. After his talk, he came over to me, and again he was extremely compassionate. He told me that he had read and enjoyed the books that I had given him during our first meeting, and he appreciated my activities and selfless service at the United Nations. As you know, I have been leading meditations for delegates and staff there since 1970. The pope told me, “I am truly proud of your service to the United Nations. You are an Indian I am also proud of your country.”
+The second time we met, I was fortunate enough to be in the front row when the Pope was holding a public audience. He was not physically well and had to be carried on a chair to the podium. After his talk, he came over to me, and again he was extremely compassionate. He told me that he had read and enjoyed the books that I had given him during our first meeting, and he appreciated my activities and selfless service at the United Nations. As you know, I have been leading meditations for delegates and staff there since 1970. The pope told me, “I am truly proud of your service to the United Nations. You are an Indian. I am also proud of your country.”
 
 The third time we met, His Holiness granted me another private audience. This time I presented him with a book I had written about him, and he was very happy and pleased with it. When he looked through the book and saw the picture of U Thant and myself, he asked if I bring down new inspiration and aspiration from above when I conduct meditations at the United Nations. I answered, “Holy Father, I do try to bring down all the divine qualities with my prayers and meditations.” Again, he was full of kindness and compassion.
 
 
 
-* Please Express Your Views Of The Catholic...
+* Please express your views of the Catholic Church as an institution as well as your views of its dogmas and moral laws, its fight for the freedom of mankind and its work for the growth of mankind.
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:29
   :KEYWORDS:
-  :CITE-KEY: WDNI:30
   :END:
 
-
-/Please express your views of the Catholic Church as an institution as well as your views of its dogmas and moral laws, its fight for the freedom of mankind and its work for the growth of mankind./
 
 I have great admiration for the Catholic Church, in the same way that I appreciate our Hindu temples in India. To me, the Church embodies inspiration, aspiration and devotion in the purest sense of the terms. To me, each Catholic church, like a Hindu temple, is a heart-garden flooded with purity and divinity. It carries humanity's aspiration to the highest and brings down God's Compassion to humanity. You can say that the Church is the golden bridge between man's aspiration-cry and God's Satisfaction-Smile.
 
@@ -588,16 +560,14 @@ So I do not look upon the Catholic Church as merely an institution with various 
 
 
 
-* What Does Sin Mean To You?...
+* What does sin mean to you? How can man liberate himself from sin? Does your spiritual philosophy incorporate the Christian concept of redemption?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:30
   :KEYWORDS:
-  :CITE-KEY: WDNI:31
   :END:
 
-
-/What does sin mean to you? How can man liberate himself from sin? Does you spiritual philosophy incorporate the Christian concept of redemption?/
 
 To me, sin is a kind of imperfection or ignorance. It is not necessarily something very bad, ugly or untouchable. In the process of evolution we are aiming at perfection, but right now most of us are still wallowing in the pleasures of ignorance and self-indulgence. Each self-indulgent action of ours is a manifestation of our present ignorance. As long as we remain in ignorance, we will do things wrong, we will commit sins. But we must not feel that we are completely lost or covered in darkness. We are just progressing from less light to more light, and ultimately to liberation from ignorance-imperfection-sin.
 
@@ -607,16 +577,14 @@ In a very broad sense my philosophy does include the concept of redemption, but 
 
 
 
-* Are We Ourselves Meditating In The Heart,...
+* Are we ourselves meditating in the heart, or is God meditating through us? Are we like a vessel that God fills with His Consciousness and Knowledge, which then becomes ours? Does this bring us to union with God? Christian mystics describe an ‘empty’ state that God can fill with His Love, making His Home in our consciousness. Is this similar to what you are saying?
 
   :PROPERTIES:
   :GENRE: qa
+  :CITE-KEY: WDNI:31
   :KEYWORDS:
-  :CITE-KEY: WDNI:32
   :END:
 
-
-/Are we ourselves meditating in the heart, or is God meditating through us? Are we like a vessel that God fills with His Consciousness and Knowledge, which then becomes ours? Does this bring us to union with God? Christian mystics describe an ‘empty’ state that God can fill with His Love, making His Home in our consciousness. Is this similar to what you are saying?/
 
 When we are not highly developed, we think that we are meditating in the heart. But once we are more developed, we feel that it is God who is meditating in and through us.
 
