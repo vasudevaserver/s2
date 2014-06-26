@@ -19,17 +19,16 @@
 
 
 
-* Editor's note
+* Part I
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:551e1
   :END:
 
-
-/Sri Chinmoy answered the following questions in December 1997 at the Nassau Beach Hotel in the Bahamas./
-
+  [FN:part-1]
+  
 
 
 * Question: Guru, sometimes it seems that, for our Centres to grow, we need a massive increase in effort. Out of 300 seekers, perhaps one will wish to join our path. We have to reach many more seekers every month.
@@ -240,17 +239,16 @@ On the Christmas trip we have the opportunity to get joy, and also the soul of e
 
 
 
-* Editor's note
+* Part II
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:559e1
   :END:
 
-
-/Sri Chinmoy answered the following questions in December 1997 at Lake Atitlán, Guatemala./
-
+  [FN:part-2]
+  
 
 
 * Question: Could you please explain the meaning of one of the poems you have just written:
@@ -387,9 +385,18 @@ When it is a matter of accepting an Avatar, most human beings are making a serio
 
 
 
+* Notes 
 
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: SCA: 564e1
+  :END:
+  
 
+[FN:part-1] SCA 551-558. Sri Chinmoy answered these questions in December 1997 at the Nassau Beach Hotel in the Bahamas.
 
+[FN:part-2] SCA 559-563. Sri Chinmoy answered these questions in December 1997 at Lake Atitlán, Guatemala.
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
