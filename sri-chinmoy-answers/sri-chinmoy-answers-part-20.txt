@@ -19,16 +19,15 @@
 
 
 
-* Editor's note
+* Part I
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:683e1
   :END:
 
-
-/Following are excerpts from an interview with the newspaper/ Novy Cas, /which took place in Bratislava, Slovakia, on 11 November 1993./
+  [FN:part-1]
 
 
 
@@ -105,16 +104,15 @@ Your President is a man of sincerity, a man of integrity, a man of determination
 
 
 
-* Editor's note
+* Part II
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:688e1
   :END:
 
-
-/Sri Chinmoy gave the following talk to the disciples who were gathered in Bratislava, Slovakia, on 23 November 1993./
+  [FN:part-2]
 
 
 
@@ -157,16 +155,15 @@ Also, please establish friendships with the disciples from Centres in other coun
 
 
 
-* Editor's note
+* Part III
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:689e1
   :END:
 
-
-/Sri Chinmoy answered the following questions on 4 April 1994 at PS 86 in Jamaica, New York./
+  [FN:part-3]
 
 
 
@@ -320,16 +317,15 @@ Doubt is nothing but darkness in ourselves that enjoys seeing darkness in others
 
 
 
-* Editor's note
+* Part IV
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:699e1
   :END:
 
-
-/Sri Chinmoy answered the following questions on 2 September 1994 at Aspiration-Ground in Jamaica, New York./
+  [FN:part-4]
 
 
 
@@ -487,16 +483,15 @@ We are all God’s creation. God the Creator is responsible for God the creation
 
 
 
-* Editor's note
+* Part V
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:709e1
   :END:
 
-
-/Sri Chinmoy answered the following questions asked by the staff of Annam Brahma Restaurant on the occasion of their 21st anniversary, 16 March 1995./
+  [FN:part-5]
 
 
 
@@ -727,16 +722,15 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 
 
 
-* Editor's note
+* Part VI
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:726e1
   :END:
 
-
-/Following are excerpts from an interview with Mr. John Cairns and Ms. Nix Picasso, the two researchers who had collaborated with Mother Teresa on her book/, A Simple Path. /The interview took place at the United Nations on 14 July 1995./
+  [FN:part-6]
 
 
 
@@ -838,16 +832,16 @@ What the world has been passing through for the last fifty or one hundred years 
 
 
 
-* Editor's note
+* Part VII
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:732e1
   :END:
 
+  [FN:part-7]
 
-/Sri Chinmoy answered the following questions asked by members of the children singers at Aspiration- Ground, in Jamaica, New York, on 11 August 1995./
 
 
 * Question: Why is this year so full of hostile forces?
@@ -946,9 +940,28 @@ Of course, the supreme philosophy is to be detached. Detachment is very good, bu
 
 
 
+  * Notes 
 
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: SCA: 
+  :END:
+  
 
+[FN:part-1] SCA  Excerpts from an interview with the newspaper "Novy Cas", which took place in Bratislava, Slovakia, on 11 November 1993.
 
+[FN:part-2] SCA  Sri Chinmoy gave this talk to the disciples who were gathered in Bratislava, Slovakia, on 23 November 1993.
+
+[FN:part-3] SCA  Sri Chinmoy answered these questions on 4 April 1994 at PS 86 in Jamaica, New York.
+
+[FN:part-4] SCA  Sri Chinmoy answered these questions on 2 September 1994 at Aspiration-Ground in Jamaica, New York.
+
+[FN:part-5] SCA  Sri Chinmoy answered questions asked by the staff of Annam Brahma Restaurant on the occasion of their 21st anniversary, 16 March 1995.
+
+[FN:part-6] SCA  Excerpts from an interview with Mr. John Cairns and Ms. Nix Picasso, the two researchers who had collaborated with Mother Teresa on her book, "A Simple Path". The interview took place at the United Nations on 14 July 1995.
+
+[FN:part-7] SCA  Sri Chinmoy answered questions asked by members of the children singers at Aspiration-Ground, in Jamaica, New York, on 11 August 1995.
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
