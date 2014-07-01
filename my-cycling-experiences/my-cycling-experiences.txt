@@ -7,13 +7,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1567
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2007
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MCEL
-  :GENRE: anecdote-autobiography, experience
+  :book-number: 1567
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2007
+  :publisher: Agni Press
+  :cite-key: MCEL
+  :genre: anecdote-autobiography, experience
   :END:
 
 
@@ -21,8 +21,8 @@
 * Part I: My Chittagong life
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:1e1
+  :genre: section
+  :cite-key: MCEL:1e1
   :END:
 
 
@@ -30,8 +30,8 @@
 * Longing for a bicycle of my own
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:1
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:1
   :END:
 
 
@@ -60,8 +60,8 @@ This is how my brother Chitta played a trick on me. I did not find out that he h
 * Riding with the bank messenger
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:2
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:2
   :END:
 
 
@@ -80,8 +80,8 @@ Phani was very short and fat. One of his legs was a little shorter than the othe
 * A dispute over two banks
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:3
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:3
   :END:
 
 
@@ -100,8 +100,8 @@ After that day, I believed my father and I was so proud that our bank had more m
 * Tumbling off the bicycle together
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:4
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:4
   :END:
 
 
@@ -122,8 +122,8 @@ This was the aunt who adopted my sister Ahana. She and her husband did not have 
 * Secret adventures with the messenger
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:5
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:5
   :END:
 
 
@@ -148,8 +148,8 @@ My mother belonged to the world of worries, whereas, my father belonged to the w
 * Part II: My Pondicherry life
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:6e1
+  :genre: section
+  :cite-key: MCEL:6e1
   :END:
 
 
@@ -157,8 +157,8 @@ My mother belonged to the world of worries, whereas, my father belonged to the w
 * Bicycling at last!
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:6
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:6
   :END:
 
 
@@ -179,8 +179,8 @@ In those days in India, we used to think that two types of bicycle were the best
 * The Mother keeps her promise
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:7
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:7
   :END:
 
 
@@ -225,8 +225,8 @@ After that incident, Babaji started coming to Lahiri Mahashoy only when he wante
 * The big hole in the road
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:8
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:8
   :END:
 
 
@@ -239,8 +239,8 @@ What did I see there inside that big hole? I saw a wide circle of light and insi
 * The faulty brake
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:9
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:9
   :END:
 
 
@@ -255,8 +255,8 @@ Did you have any experience like that? I am sure there are people in my boat!
 * Sri Aurobindo's protection-power
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:10
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:10
   :END:
 
 
@@ -283,8 +283,8 @@ In the case of my cycling accidents, protection came from Above. I had protectio
 * Divine protection
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:11
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:11
   :END:
 
 
@@ -297,8 +297,8 @@ Speaking of protection, there was a very striking incident in the life of Dilip 
 * Delivering the Mother's blessing-eggs
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:12
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:12
   :END:
 
 
@@ -313,8 +313,8 @@ After I left the Ashram, She discontinued giving the eggs.
 * My self-appointed task
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:13
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:13
   :END:
 
 
@@ -325,8 +325,8 @@ Every day, regularly, between one o'clock and half past one in the afternoon, I 
 * Cycling versus running
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:14
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:14
   :END:
 
 
@@ -337,8 +337,8 @@ I did a great deal of bicycling when I lived in India in my youth. For at least 
 * Part III: My American life
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:15e1
+  :genre: section
+  :cite-key: MCEL:15e1
   :END:
 
 
@@ -346,8 +346,8 @@ I did a great deal of bicycling when I lived in India in my youth. For at least 
 * Unbearable cramps
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:15
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:15
   :END:
 
 
@@ -360,8 +360,8 @@ During the race, at that very place, I was attacked by unbearable cramps. I left
 * The troublesome bridge
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:16
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:16
   :END:
 
 
@@ -372,8 +372,8 @@ When we used to cycle round the lake at Flushing Meadow Park on our five-mile co
 * Charoibeti runs to save me
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:17
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:17
   :END:
 
 
@@ -388,8 +388,8 @@ Afterwards Charoibeti said that she had gone to the park with the hope of seeing
 * What old age can do
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MCEL:18
+  :genre: anecdote-autobiography
+  :cite-key: MCEL:18
   :END:
 
 
@@ -400,8 +400,8 @@ When I was a little child, how I used to cry because I had to ride a tricycle! I
 * Constant progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: MCEL:19
+  :genre: discourse
+  :cite-key: MCEL:19
   :END:
 
 
@@ -412,8 +412,8 @@ While you are praying or meditating, imagine that you have a bicycle inside you.
 * The significance of cycling
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY: MCEL:20
+  :genre: discourse
+  :cite-key: MCEL:20
   :END:
 
 
@@ -428,8 +428,8 @@ In the process of evolution, our life-process, our life-energy -â€” everythingâ€
 * Part IV: Six cycling songs
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:21e1
+  :genre: section
+  :cite-key: MCEL:21e1
   :END:
 
 
@@ -437,8 +437,8 @@ In the process of evolution, our life-process, our life-energy -â€” everythingâ€
 * Cycle marathon relay
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:21
+  :genre: poem
+  :cite-key: MCEL:21
   :END:
 
 
@@ -459,8 +459,8 @@ Oneness-height's progress-play.
 * Cycling
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:22
+  :genre: poem
+  :cite-key: MCEL:22
   :END:
 
 
@@ -481,8 +481,8 @@ Are proud of our giant role.
 * The Empire State cycle relay
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:23
+  :genre: poem
+  :cite-key: MCEL:23
   :END:
 
 
@@ -501,8 +501,8 @@ Exciting, inspiring, illumining earth-play!
 * I bicycle at speed high
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:24
+  :genre: poem
+  :cite-key: MCEL:24
   :END:
 
 
@@ -523,8 +523,8 @@ Treasure me as their oneness-friend.
 * I bicycle with my Heavenly friend
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:25
+  :genre: poem
+  :cite-key: MCEL:25
   :END:
 
 
@@ -545,8 +545,8 @@ Supreme God-Joy our only need.
 * O come and watch
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MCEL:26
+  :genre: poem
+  :cite-key: MCEL:26
   :END:
 
 
@@ -567,8 +567,8 @@ Opens for the world Heaven's Ecstasy-Gate.
 * 24-Hour Pepsi-Cola Bicycle Marathons
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:27e1
+  :genre: section
+  :cite-key: MCEL:27e1
   :END:
 
 
@@ -576,8 +576,8 @@ Opens for the world Heaven's Ecstasy-Gate.
 * Remark before the 1977 24-Hour Pepsi-Cola Bicycle Marathon
 
   :PROPERTIES:
-  :GENRE: utterance
-  :CITE-KEY: MCEL:27
+  :genre: utterance
+  :cite-key: MCEL:27
   :END:
 
 
@@ -587,8 +587,8 @@ The Pepsi-Cola marathon is the devoted self-giving and astounding capacity of th
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MCEL:28e1
+  :genre: note
+  :cite-key: MCEL:28e1
   :END:
 
 The 24-Hour Pepsi-Cola Bicycle Marathon in Central Park was held over the Memorial Day weekend in May 1977. More than 9,000 cyclists entered. From the Sri Chinmoy Marathon Team 135 cyclists participated.
@@ -602,8 +602,8 @@ In the last half hour of the marathon, Sri Chinmoy led the entire team in a vict
 * Talk on eve of 1978 24-Hour Pepsi-Cola Bicycle Marathon
 
   :PROPERTIES:
-  :GENRE: utterance
-  :CITE-KEY: MCEL:28
+  :genre: utterance
+  :cite-key: MCEL:28
   :END:
 
 
@@ -615,8 +615,8 @@ Here you are showing in boundless measure your physical capacity, your persevera
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MCEL:29e1
+  :genre: note
+  :cite-key: MCEL:29e1
   :END:
 
 
@@ -631,8 +631,8 @@ The team won the prizes for best riding team (logging a total of 38,605 miles), 
 * 1979 24-Hour Pepsi-Cola Bicycle Marathon
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MCEL:29e2
+  :genre: note
+  :cite-key: MCEL:29e2
   :END:
 
 
@@ -651,8 +651,8 @@ But the days of cycling were not quite over. On June 21st, Sri Chinmoy's student
 * Notes
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MCEL:29e3
+  :genre: section
+  :cite-key: MCEL:29e3
   :END:
 
 
@@ -661,8 +661,8 @@ But the days of cycling were not quite over. On June 21st, Sri Chinmoy's student
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MCEL:29e4
+  :genre: note
+  :cite-key: MCEL:29e4
   :END:
 
 

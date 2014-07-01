@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0782
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1990
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SS-1
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0782
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1990
+  :publisher: Agni Press
+  :cite-key: SS-1
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:1
+  :genre: poem
+  :keywords:
+  :cite-key: SS:1
   :END:
 
 
@@ -41,9 +41,9 @@ Is my fruitful life-progress.
 * Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:2
+  :genre: poem
+  :keywords:
+  :cite-key: SS:2
   :END:
 
 
@@ -60,9 +60,9 @@ Lo, you are now God's secret Treasure.
 * Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:3
+  :genre: poem
+  :keywords:
+  :cite-key: SS:3
   :END:
 
 
@@ -82,9 +82,9 @@ Oneness-Chain.
 * Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:4
+  :genre: poem
+  :keywords:
+  :cite-key: SS:4
   :END:
 
 
@@ -102,9 +102,9 @@ shore.
 * Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:5
+  :genre: poem
+  :keywords:
+  :cite-key: SS:5
   :END:
 
 
@@ -121,9 +121,9 @@ Never enjoys ignorance-ride.
 * Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:6
+  :genre: poem
+  :keywords:
+  :cite-key: SS:6
   :END:
 
 
@@ -140,9 +140,9 @@ Each life is the failure-cry of a helplessness-sea.
 * Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:7
+  :genre: poem
+  :keywords:
+  :cite-key: SS:7
   :END:
 
 
@@ -159,9 +159,9 @@ My heart is daily fed by God's Concern-Mail.
 * Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:8
+  :genre: poem
+  :keywords:
+  :cite-key: SS:8
   :END:
 
 
@@ -178,9 +178,9 @@ In God's Vision-Reality-Race.
 * Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:9
+  :genre: poem
+  :keywords:
+  :cite-key: SS:9
   :END:
 
 
@@ -197,9 +197,9 @@ My mind loves the modern message:
 * Ten
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:10
+  :genre: poem
+  :keywords:
+  :cite-key: SS:10
   :END:
 
 
@@ -216,9 +216,9 @@ A new life to the long-deceased earth-flower.
 * Eleven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:11
+  :genre: poem
+  :keywords:
+  :cite-key: SS:11
   :END:
 
 
@@ -235,9 +235,9 @@ My soul's birthless, deathless certitude.
 * Twelve
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:12
+  :genre: poem
+  :keywords:
+  :cite-key: SS:12
   :END:
 
 
@@ -254,9 +254,9 @@ Are doomed to eternal sleep.
 * Thirteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:13
+  :genre: poem
+  :keywords:
+  :cite-key: SS:13
   :END:
 
 
@@ -273,9 +273,9 @@ With the trance-bound oneness-all.
 * Fourteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:14
+  :genre: poem
+  :keywords:
+  :cite-key: SS:14
   :END:
 
 
@@ -292,9 +292,9 @@ For God I take, for God I give.
 * Fifteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:15
+  :genre: poem
+  :keywords:
+  :cite-key: SS:15
   :END:
 
 
@@ -318,9 +318,9 @@ is still hoping.
 * Sixteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:16
+  :genre: poem
+  :keywords:
+  :cite-key: SS:16
   :END:
 
 
@@ -337,9 +337,9 @@ My Lord, my life has done so much for You.
 * Seventeen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:17
+  :genre: poem
+  :keywords:
+  :cite-key: SS:17
   :END:
 
 
@@ -357,9 +357,9 @@ Delay not, God's Grace-Eye employ.
 * Eighteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:18
+  :genre: poem
+  :keywords:
+  :cite-key: SS:18
   :END:
 
 
@@ -376,9 +376,9 @@ I am dying to play.
 * Nineteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:19
+  :genre: poem
+  :keywords:
+  :cite-key: SS:19
   :END:
 
 
@@ -395,9 +395,9 @@ Wake up and be the vastness-oneness-sage.
 * Twenty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:20
+  :genre: poem
+  :keywords:
+  :cite-key: SS:20
   :END:
 
 
@@ -414,9 +414,9 @@ Am I not still in a bondage-net?
 * Twenty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:21
+  :genre: poem
+  :keywords:
+  :cite-key: SS:21
   :END:
 
 
@@ -433,9 +433,9 @@ Impossible to be their greatest clown.
 * Twenty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:22
+  :genre: poem
+  :keywords:
+  :cite-key: SS:22
   :END:
 
 
@@ -452,9 +452,9 @@ Desire's hunger-breath I ruthlessly fine.
 * Twenty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:23
+  :genre: poem
+  :keywords:
+  :cite-key: SS:23
   :END:
 
 
@@ -471,9 +471,9 @@ Just make me Your Perfection-Grace.
 * Twenty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:24
+  :genre: poem
+  :keywords:
+  :cite-key: SS:24
   :END:
 
 
@@ -490,9 +490,9 @@ Inside your heart-garden ever sing?
 * Twenty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:25
+  :genre: poem
+  :keywords:
+  :cite-key: SS:25
   :END:
 
 
@@ -509,9 +509,9 @@ And hoist my Pilot's Victory-Banner high.
 * Twenty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:26
+  :genre: poem
+  :keywords:
+  :cite-key: SS:26
   :END:
 
 
@@ -530,9 +530,9 @@ will never fail.
 * Twenty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:27
+  :genre: poem
+  :keywords:
+  :cite-key: SS:27
   :END:
 
 
@@ -549,9 +549,9 @@ My Haven-Shore.
 * Twenty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:28
+  :genre: poem
+  :keywords:
+  :cite-key: SS:28
   :END:
 
 
@@ -568,9 +568,9 @@ From His Perfection-Fire.
 * Twenty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:29
+  :genre: poem
+  :keywords:
+  :cite-key: SS:29
   :END:
 
 
@@ -587,9 +587,9 @@ His Oneness-Lion-Dream.
 * Thirty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:30
+  :genre: poem
+  :keywords:
+  :cite-key: SS:30
   :END:
 
 
@@ -606,9 +606,9 @@ My life-journey's perfection-flight.
 * Thirty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:31
+  :genre: poem
+  :keywords:
+  :cite-key: SS:31
   :END:
 
 
@@ -625,9 +625,9 @@ To His Compassion-Height.
 * Thirty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:32
+  :genre: poem
+  :keywords:
+  :cite-key: SS:32
   :END:
 
 
@@ -644,9 +644,9 @@ I see the ignorance-shunned day.
 * Thirty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:33
+  :genre: poem
+  :keywords:
+  :cite-key: SS:33
   :END:
 
 
@@ -663,9 +663,9 @@ Within, without, God's Victory-Cheers.
 * Thirty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:34
+  :genre: poem
+  :keywords:
+  :cite-key: SS:34
   :END:
 
 
@@ -684,9 +684,9 @@ permanent arrest."
 * Thirty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:35
+  :genre: poem
+  :keywords:
+  :cite-key: SS:35
   :END:
 
 
@@ -703,9 +703,9 @@ Mine is the life for God's supernal Crown.
 * Thirty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:36
+  :genre: poem
+  :keywords:
+  :cite-key: SS:36
   :END:
 
 
@@ -723,9 +723,9 @@ No sombre death, no ruthless destruction.
 * Thirty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:37
+  :genre: poem
+  :keywords:
+  :cite-key: SS:37
   :END:
 
 
@@ -742,9 +742,9 @@ In my Pilot's Satisfaction-Welkin high.
 * Thirty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:38
+  :genre: poem
+  :keywords:
+  :cite-key: SS:38
   :END:
 
 
@@ -763,9 +763,9 @@ Oneness-Fulness-Delight.
 * Thirty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:39
+  :genre: poem
+  :keywords:
+  :cite-key: SS:39
   :END:
 
 
@@ -782,9 +782,9 @@ Have covered the body of ignorance-night.
 * Forty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:40
+  :genre: poem
+  :keywords:
+  :cite-key: SS:40
   :END:
 
 
@@ -802,9 +802,9 @@ To Your Perfection's Satisfaction-Race?
 * Forty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:41
+  :genre: poem
+  :keywords:
+  :cite-key: SS:41
   :END:
 
 
@@ -823,9 +823,9 @@ fondness-dove.
 * Forty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:42
+  :genre: poem
+  :keywords:
+  :cite-key: SS:42
   :END:
 
 
@@ -842,9 +842,9 @@ Is His Oneness-Embrace.
 * Forty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:43
+  :genre: poem
+  :keywords:
+  :cite-key: SS:43
   :END:
 
 
@@ -861,9 +861,9 @@ Where is your life's expanding thrill?
 * Forty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:44
+  :genre: poem
+  :keywords:
+  :cite-key: SS:44
   :END:
 
 
@@ -880,9 +880,9 @@ A playmate in me He will surely find.
 * Forty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:45
+  :genre: poem
+  :keywords:
+  :cite-key: SS:45
   :END:
 
 
@@ -899,9 +899,9 @@ God knows I am His Oneness-Scheme.
 * Forty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:46
+  :genre: poem
+  :keywords:
+  :cite-key: SS:46
   :END:
 
 
@@ -919,9 +919,9 @@ My green-white life shall fly.
 * Forty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:47
+  :genre: poem
+  :keywords:
+  :cite-key: SS:47
   :END:
 
 
@@ -938,9 +938,9 @@ Only one line in the child's entire life-book:
 * Forty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:48
+  :genre: poem
+  :keywords:
+  :cite-key: SS:48
   :END:
 
 
@@ -957,9 +957,9 @@ For God's God-Victory-Day.
 * Forty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:49
+  :genre: poem
+  :keywords:
+  :cite-key: SS:49
   :END:
 
 
@@ -976,9 +976,9 @@ For all, your promise-skies.
 * Fifty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:50
+  :genre: poem
+  :keywords:
+  :cite-key: SS:50
   :END:
 
 
@@ -995,9 +995,9 @@ To be God's earth-transforming ray.
 * Fifty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:51
+  :genre: poem
+  :keywords:
+  :cite-key: SS:51
   :END:
 
 
@@ -1014,9 +1014,9 @@ I drink deep freedom's silence-mirth.
 * Fifty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:52
+  :genre: poem
+  :keywords:
+  :cite-key: SS:52
   :END:
 
 
@@ -1037,9 +1037,9 @@ nectar-drinking Game.
 * Fifty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:53
+  :genre: poem
+  :keywords:
+  :cite-key: SS:53
   :END:
 
 
@@ -1056,9 +1056,9 @@ Of a transformed fate.
 * Fifty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:54
+  :genre: poem
+  :keywords:
+  :cite-key: SS:54
   :END:
 
 
@@ -1075,9 +1075,9 @@ That smashes death's death-dart?
 * Fifty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:55
+  :genre: poem
+  :keywords:
+  :cite-key: SS:55
   :END:
 
 
@@ -1094,9 +1094,9 @@ Is my self-transcendence-height.
 * Fifty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:56
+  :genre: poem
+  :keywords:
+  :cite-key: SS:56
   :END:
 
 
@@ -1113,9 +1113,9 @@ The end of division-night.
 * Fifty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:57
+  :genre: poem
+  :keywords:
+  :cite-key: SS:57
   :END:
 
 
@@ -1132,9 +1132,9 @@ My heart's climbing aspiration-song.
 * Fifty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:58
+  :genre: poem
+  :keywords:
+  :cite-key: SS:58
   :END:
 
 
@@ -1151,9 +1151,9 @@ That is ever doomed to lethargy-blight.
 * Fifty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:59
+  :genre: poem
+  :keywords:
+  :cite-key: SS:59
   :END:
 
 
@@ -1170,9 +1170,9 @@ Dare to outwit the stark desire-devil.
 * Sixty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:60
+  :genre: poem
+  :keywords:
+  :cite-key: SS:60
   :END:
 
 
@@ -1189,9 +1189,9 @@ To rise above the mad elephant-world-fair.
 * Sixty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:61
+  :genre: poem
+  :keywords:
+  :cite-key: SS:61
   :END:
 
 
@@ -1208,9 +1208,9 @@ I need for you my soul's deathless purity.
 * Sixty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:62
+  :genre: poem
+  :keywords:
+  :cite-key: SS:62
   :END:
 
 
@@ -1227,9 +1227,9 @@ For I am God's Compassion-Tide.
 * Sixty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:63
+  :genre: poem
+  :keywords:
+  :cite-key: SS:63
   :END:
 
 
@@ -1246,9 +1246,9 @@ At once my Beloved feeds.
 * Sixty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:64
+  :genre: poem
+  :keywords:
+  :cite-key: SS:64
   :END:
 
 
@@ -1265,9 +1265,9 @@ With your division-knife?
 * Sixty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:65
+  :genre: poem
+  :keywords:
+  :cite-key: SS:65
   :END:
 
 
@@ -1284,9 +1284,9 @@ Shortens the breath of ignorance-night.
 * Sixty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:66
+  :genre: poem
+  :keywords:
+  :cite-key: SS:66
   :END:
 
 
@@ -1303,9 +1303,9 @@ In you your divinity's gold.
 * Sixty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:67
+  :genre: poem
+  :keywords:
+  :cite-key: SS:67
   :END:
 
 
@@ -1322,9 +1322,9 @@ My Master's faithful dog.
 * Sixty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:68
+  :genre: poem
+  :keywords:
+  :cite-key: SS:68
   :END:
 
 
@@ -1345,9 +1345,9 @@ In me shall ever be seen.
 * Sixty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:69
+  :genre: poem
+  :keywords:
+  :cite-key: SS:69
   :END:
 
 
@@ -1364,9 +1364,9 @@ I need is my Lord's Silence-Voice.
 * Seventy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:70
+  :genre: poem
+  :keywords:
+  :cite-key: SS:70
   :END:
 
 
@@ -1383,9 +1383,9 @@ Behold, my higher progress-flight.
 * Seventy-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:71
+  :genre: poem
+  :keywords:
+  :cite-key: SS:71
   :END:
 
 
@@ -1402,9 +1402,9 @@ I now admire my soul's effulgence.
 * Seventy-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:72
+  :genre: poem
+  :keywords:
+  :cite-key: SS:72
   :END:
 
 
@@ -1427,9 +1427,9 @@ From God's fond Embrace.
 * Seventy-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:73
+  :genre: poem
+  :keywords:
+  :cite-key: SS:73
   :END:
 
 
@@ -1446,9 +1446,9 @@ Who can dare to defile?
 * Seventy-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:74
+  :genre: poem
+  :keywords:
+  :cite-key: SS:74
   :END:
 
 
@@ -1465,9 +1465,9 @@ With your tomorrow's vision-hope.
 * Seventy-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:75
+  :genre: poem
+  :keywords:
+  :cite-key: SS:75
   :END:
 
 
@@ -1484,9 +1484,9 @@ The old world's passion-scorch.
 * Seventy-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:76
+  :genre: poem
+  :keywords:
+  :cite-key: SS:76
   :END:
 
 
@@ -1503,9 +1503,9 @@ The long depression-rope.
 * Seventy-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:77
+  :genre: poem
+  :keywords:
+  :cite-key: SS:77
   :END:
 
 
@@ -1522,9 +1522,9 @@ My life shall become a flaming spire.
 * Seventy-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:78
+  :genre: poem
+  :keywords:
+  :cite-key: SS:78
   :END:
 
 
@@ -1541,9 +1541,9 @@ And outer life are not bridged by ruth?
 * Seventy-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:79
+  :genre: poem
+  :keywords:
+  :cite-key: SS:79
   :END:
 
 
@@ -1560,9 +1560,9 @@ Dauntless destruction-shout.
 * Eighty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:80
+  :genre: poem
+  :keywords:
+  :cite-key: SS:80
   :END:
 
 
@@ -1579,9 +1579,9 @@ On earthly praise?
 * Eighty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:81
+  :genre: poem
+  :keywords:
+  :cite-key: SS:81
   :END:
 
 
@@ -1598,9 +1598,9 @@ The feast of God's Love-Necessities.
 * Eighty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:82
+  :genre: poem
+  :keywords:
+  :cite-key: SS:82
   :END:
 
 
@@ -1617,9 +1617,9 @@ From vast ecstasy-skies?
 * Eighty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:83
+  :genre: poem
+  :keywords:
+  :cite-key: SS:83
   :END:
 
 
@@ -1636,9 +1636,9 @@ My proud, self-styled darkness-play.
 * Eighty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:84
+  :genre: poem
+  :keywords:
+  :cite-key: SS:84
   :END:
 
 
@@ -1655,9 +1655,9 @@ With Your Oneness-Love-Cord.
 * Eighty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:85
+  :genre: poem
+  :keywords:
+  :cite-key: SS:85
   :END:
 
 
@@ -1674,9 +1674,9 @@ My heart in gratitude-tears.
 * Eighty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:86
+  :genre: poem
+  :keywords:
+  :cite-key: SS:86
   :END:
 
 
@@ -1693,9 +1693,9 @@ My forgotten Heaven-Height.
 * Eighty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:87
+  :genre: poem
+  :keywords:
+  :cite-key: SS:87
   :END:
 
 
@@ -1712,9 +1712,9 @@ Oneness-Fulness-Embrace.
 * Eighty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:88
+  :genre: poem
+  :keywords:
+  :cite-key: SS:88
   :END:
 
 
@@ -1731,9 +1731,9 @@ At once plus breathlessly.
 * Eighty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:89
+  :genre: poem
+  :keywords:
+  :cite-key: SS:89
   :END:
 
 
@@ -1750,9 +1750,9 @@ Ignorance-seeds have failed to sprout.
 * Ninety
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:90
+  :genre: poem
+  :keywords:
+  :cite-key: SS:90
   :END:
 
 
@@ -1769,9 +1769,9 @@ By stark doubt's strangling rope.
 * Ninety-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:91
+  :genre: poem
+  :keywords:
+  :cite-key: SS:91
   :END:
 
 
@@ -1788,9 +1788,9 @@ Shall smash the world's ignorance-knife.
 * Ninety-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:92
+  :genre: poem
+  :keywords:
+  :cite-key: SS:92
   :END:
 
 
@@ -1807,9 +1807,9 @@ Ah, nowhere I find.
 * Ninety-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:93
+  :genre: poem
+  :keywords:
+  :cite-key: SS:93
   :END:
 
 
@@ -1826,9 +1826,9 @@ Has touched my orphan hunger-core.
 * Ninety-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:94
+  :genre: poem
+  :keywords:
+  :cite-key: SS:94
   :END:
 
 
@@ -1845,9 +1845,9 @@ God the immortal Knower.
 * Ninety-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:95
+  :genre: poem
+  :keywords:
+  :cite-key: SS:95
   :END:
 
 
@@ -1864,9 +1864,9 @@ Sun-Oneness-Dream.
 * Ninety-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:96
+  :genre: poem
+  :keywords:
+  :cite-key: SS:96
   :END:
 
 
@@ -1883,9 +1883,9 @@ Your heart to play.
 * Ninety-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:97
+  :genre: poem
+  :keywords:
+  :cite-key: SS:97
   :END:
 
 
@@ -1902,9 +1902,9 @@ No song of doubt, no song of fear.
 * Ninety-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:98
+  :genre: poem
+  :keywords:
+  :cite-key: SS:98
   :END:
 
 
@@ -1921,9 +1921,9 @@ Your heart-vast Victory-Delight.
 * Ninety-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:99
+  :genre: poem
+  :keywords:
+  :cite-key: SS:99
   :END:
 
 
@@ -1940,9 +1940,9 @@ Be not afraid to smash death-dart!
 * One Hundred
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:100
+  :genre: poem
+  :keywords:
+  :cite-key: SS:100
   :END:
 
 
@@ -1959,9 +1959,9 @@ I want no empty question "Why?"
 * One Hundred And One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:101
+  :genre: poem
+  :keywords:
+  :cite-key: SS:101
   :END:
 
 
@@ -1978,9 +1978,9 @@ To tempt my breath and bind.
 * One Hundred And Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:102
+  :genre: poem
+  :keywords:
+  :cite-key: SS:102
   :END:
 
 
@@ -1997,9 +1997,9 @@ In His Heart's Love-Garden-Play.
 * One Hundred And Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:103
+  :genre: poem
+  :keywords:
+  :cite-key: SS:103
   :END:
 
 
@@ -2016,9 +2016,9 @@ A oneness-life my heart has designed.
 * One Hundred And Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:104
+  :genre: poem
+  :keywords:
+  :cite-key: SS:104
   :END:
 
 
@@ -2035,9 +2035,9 @@ My mind's abysmal night.
 * One Hundred And Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:105
+  :genre: poem
+  :keywords:
+  :cite-key: SS:105
   :END:
 
 
@@ -2054,9 +2054,9 @@ Yet God grants you His Eye's Compassion-Bread.
 * One Hundred And Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:106
+  :genre: poem
+  :keywords:
+  :cite-key: SS:106
   :END:
 
 
@@ -2073,9 +2073,9 @@ His Ecstasy-Gold.
 * One Hundred And Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:107
+  :genre: poem
+  :keywords:
+  :cite-key: SS:107
   :END:
 
 
@@ -2092,9 +2092,9 @@ In oneness and fulness-sky.
 * One Hundred And Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:108
+  :genre: poem
+  :keywords:
+  :cite-key: SS:108
   :END:
 
 
@@ -2111,9 +2111,9 @@ My oneness-life, my oneness-death.
 * One Hundred And Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:109
+  :genre: poem
+  :keywords:
+  :cite-key: SS:109
   :END:
 
 
@@ -2130,9 +2130,9 @@ Nowhere with you shall go.
 * One Hundred And Ten
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:110
+  :genre: poem
+  :keywords:
+  :cite-key: SS:110
   :END:
 
 
@@ -2149,9 +2149,9 @@ Ready to start our oneness-play.
 * One Hundred And Eleven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:111
+  :genre: poem
+  :keywords:
+  :cite-key: SS:111
   :END:
 
 
@@ -2168,9 +2168,9 @@ Sail?
 * One Hundred And Twelve
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:112
+  :genre: poem
+  :keywords:
+  :cite-key: SS:112
   :END:
 
 
@@ -2187,9 +2187,9 @@ Is like depending on Heaven-touches.
 * One Hundred And Thirteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:113
+  :genre: poem
+  :keywords:
+  :cite-key: SS:113
   :END:
 
 
@@ -2206,9 +2206,9 @@ Life is only a costly fun.
 * One Hundred And Fourteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:114
+  :genre: poem
+  :keywords:
+  :cite-key: SS:114
   :END:
 
 
@@ -2225,9 +2225,9 @@ Soulless ignorance-night.
 * One Hundred And Fifteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:115
+  :genre: poem
+  :keywords:
+  :cite-key: SS:115
   :END:
 
 
@@ -2244,9 +2244,9 @@ Within, without, the dance of death.
 * One Hundred And Sixteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:116
+  :genre: poem
+  :keywords:
+  :cite-key: SS:116
   :END:
 
 
@@ -2263,9 +2263,9 @@ Completely free, no cost.
 * One Hundred And Seventeen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:117
+  :genre: poem
+  :keywords:
+  :cite-key: SS:117
   :END:
 
 
@@ -2282,9 +2282,9 @@ His own Perfection-Height.
 * One Hundred And Eighteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:118
+  :genre: poem
+  :keywords:
+  :cite-key: SS:118
   :END:
 
 
@@ -2301,9 +2301,9 @@ To smash the pride of death!
 * One Hundred And Nineteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:119
+  :genre: poem
+  :keywords:
+  :cite-key: SS:119
   :END:
 
 
@@ -2320,9 +2320,9 @@ Smiling, my faith You feed.
 * One Hundred And Twenty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:120
+  :genre: poem
+  :keywords:
+  :cite-key: SS:120
   :END:
 
 
@@ -2339,9 +2339,9 @@ My body knows how to lag.
 * One Hundred And Twenty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:121
+  :genre: poem
+  :keywords:
+  :cite-key: SS:121
   :END:
 
 
@@ -2358,9 +2358,9 @@ Is my soul's silence-height.
 * One Hundred And Twenty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:122
+  :genre: poem
+  :keywords:
+  :cite-key: SS:122
   :END:
 
 
@@ -2377,9 +2377,9 @@ None can mar my God-way.
 * One Hundred And Twenty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:123
+  :genre: poem
+  :keywords:
+  :cite-key: SS:123
   :END:
 
 
@@ -2396,9 +2396,9 @@ To start and reach perfection-date!
 * One Hundred And Twenty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:124
+  :genre: poem
+  :keywords:
+  :cite-key: SS:124
   :END:
 
 
@@ -2415,9 +2415,9 @@ Who will fell my life's bondage-tree?
 * One Hundred And Twenty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:125
+  :genre: poem
+  :keywords:
+  :cite-key: SS:125
   :END:
 
 
@@ -2434,9 +2434,9 @@ The body's indolence.
 * One Hundred And Twenty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:126
+  :genre: poem
+  :keywords:
+  :cite-key: SS:126
   :END:
 
 
@@ -2455,9 +2455,9 @@ His doubt-friends he will fire.
 * One Hundred And Twenty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:127
+  :genre: poem
+  :keywords:
+  :cite-key: SS:127
   :END:
 
 
@@ -2474,9 +2474,9 @@ Pleases God immediately.
 * One Hundred And Twenty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:128
+  :genre: poem
+  :keywords:
+  :cite-key: SS:128
   :END:
 
 
@@ -2495,9 +2495,9 @@ But expectation.
 * One Hundred And Twenty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:129
+  :genre: poem
+  :keywords:
+  :cite-key: SS:129
   :END:
 
 
@@ -2514,9 +2514,9 @@ The world's ignorance-knife?
 * One Hundred And Thirty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:130
+  :genre: poem
+  :keywords:
+  :cite-key: SS:130
   :END:
 
 
@@ -2533,9 +2533,9 @@ Than self-perfection.
 * One Hundred And Thirty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:131
+  :genre: poem
+  :keywords:
+  :cite-key: SS:131
   :END:
 
 
@@ -2552,9 +2552,9 @@ My earth-bound bondage-chain.
 * One Hundred And Thirty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:132
+  :genre: poem
+  :keywords:
+  :cite-key: SS:132
   :END:
 
 
@@ -2571,9 +2571,9 @@ Breathless delight.
 * One Hundred And Thirty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:133
+  :genre: poem
+  :keywords:
+  :cite-key: SS:133
   :END:
 
 
@@ -2594,9 +2594,9 @@ How to receive.
 * One Hundred And Thirty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:134
+  :genre: poem
+  :keywords:
+  :cite-key: SS:134
   :END:
 
 
@@ -2613,9 +2613,9 @@ My heart of gold.
 * One Hundred And Thirty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:135
+  :genre: poem
+  :keywords:
+  :cite-key: SS:135
   :END:
 
 
@@ -2632,9 +2632,9 @@ If not a ceaseless hunger-fame?
 * One Hundred And Thirty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:136
+  :genre: poem
+  :keywords:
+  :cite-key: SS:136
   :END:
 
 
@@ -2651,9 +2651,9 @@ Is a nectar-service-dance.
 * One Hundred And Thirty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:137
+  :genre: poem
+  :keywords:
+  :cite-key: SS:137
   :END:
 
 
@@ -2670,9 +2670,9 @@ With their ecstasy-days.
 * One Hundred And Thirty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:138
+  :genre: poem
+  :keywords:
+  :cite-key: SS:138
   :END:
 
 
@@ -2689,9 +2689,9 @@ The fulfilment-goal.
 * One Hundred And Thirty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:139
+  :genre: poem
+  :keywords:
+  :cite-key: SS:139
   :END:
 
 
@@ -2708,9 +2708,9 @@ Its blind tears.
 * One Hundred And Forty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:140
+  :genre: poem
+  :keywords:
+  :cite-key: SS:140
   :END:
 
 
@@ -2729,9 +2729,9 @@ Separation.
 * One Hundred And Forty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:141
+  :genre: poem
+  :keywords:
+  :cite-key: SS:141
   :END:
 
 
@@ -2750,9 +2750,9 @@ In His Ecstasy.
 * One Hundred And Forty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:142
+  :genre: poem
+  :keywords:
+  :cite-key: SS:142
   :END:
 
 
@@ -2769,9 +2769,9 @@ Receives, breathlessly receives.
 * One Hundred And Forty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:143
+  :genre: poem
+  :keywords:
+  :cite-key: SS:143
   :END:
 
 
@@ -2790,9 +2790,9 @@ Indeed, a frustrated fool.
 * One Hundred And Forty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:144
+  :genre: poem
+  :keywords:
+  :cite-key: SS:144
   :END:
 
 
@@ -2809,9 +2809,9 @@ To feel Your Heart's measureless Length.
 * One Hundred And Forty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:145
+  :genre: poem
+  :keywords:
+  :cite-key: SS:145
   :END:
 
 
@@ -2828,9 +2828,9 @@ Soulless death-voice.
 * One Hundred And Forty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:146
+  :genre: poem
+  :keywords:
+  :cite-key: SS:146
   :END:
 
 
@@ -2847,9 +2847,9 @@ Of destruction-doom.
 * One Hundred And Forty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:147
+  :genre: poem
+  :keywords:
+  :cite-key: SS:147
   :END:
 
 
@@ -2866,9 +2866,9 @@ Your own heart's huge cover.
 * One Hundred And Forty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:148
+  :genre: poem
+  :keywords:
+  :cite-key: SS:148
   :END:
 
 
@@ -2885,9 +2885,9 @@ Your high soul's illumination.
 * One Hundred And Forty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:149
+  :genre: poem
+  :keywords:
+  :cite-key: SS:149
   :END:
 
 
@@ -2904,9 +2904,9 @@ His soul's Everest-height.
 * One Hundred And Fifty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:150
+  :genre: poem
+  :keywords:
+  :cite-key: SS:150
   :END:
 
 
@@ -2923,9 +2923,9 @@ With his heart's grand renunciation.
 * One Hundred And Fifty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:151
+  :genre: poem
+  :keywords:
+  :cite-key: SS:151
   :END:
 
 
@@ -2942,9 +2942,9 @@ Am I ready for God-realisation?
 * One Hundred And Fifty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:152
+  :genre: poem
+  :keywords:
+  :cite-key: SS:152
   :END:
 
 
@@ -2961,9 +2961,9 @@ From the perfection-shore.
 * One Hundred And Fifty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:153
+  :genre: poem
+  :keywords:
+  :cite-key: SS:153
   :END:
 
 
@@ -2980,9 +2980,9 @@ Completely dead.
 * One Hundred And Fifty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:154
+  :genre: poem
+  :keywords:
+  :cite-key: SS:154
   :END:
 
 
@@ -2999,9 +2999,9 @@ Grows humility-grass.
 * One Hundred And Fifty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:155
+  :genre: poem
+  :keywords:
+  :cite-key: SS:155
   :END:
 
 
@@ -3018,9 +3018,9 @@ Beautifully.
 * One Hundred And Fifty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:156
+  :genre: poem
+  :keywords:
+  :cite-key: SS:156
   :END:
 
 
@@ -3037,9 +3037,9 @@ The ignorance-night of impurity.
 * One Hundred And Fifty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:157
+  :genre: poem
+  :keywords:
+  :cite-key: SS:157
   :END:
 
 
@@ -3056,9 +3056,9 @@ With ignorance-dart.
 * One Hundred And Fifty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:158
+  :genre: poem
+  :keywords:
+  :cite-key: SS:158
   :END:
 
 
@@ -3075,9 +3075,9 @@ God's Perfection-Proposal?
 * One Hundred And Fifty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:159
+  :genre: poem
+  :keywords:
+  :cite-key: SS:159
   :END:
 
 
@@ -3094,9 +3094,9 @@ Will dig your grave.
 * One Hundred And Sixty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:160
+  :genre: poem
+  :keywords:
+  :cite-key: SS:160
   :END:
 
 
@@ -3113,9 +3113,9 @@ My life shall play.
 * One Hundred And Sixty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:161
+  :genre: poem
+  :keywords:
+  :cite-key: SS:161
   :END:
 
 
@@ -3132,9 +3132,9 @@ Your feeble breath.
 * One Hundred And Sixty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:162
+  :genre: poem
+  :keywords:
+  :cite-key: SS:162
   :END:
 
 
@@ -3151,9 +3151,9 @@ A heart of gold.
 * One Hundred And Sixty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:163
+  :genre: poem
+  :keywords:
+  :cite-key: SS:163
   :END:
 
 
@@ -3168,9 +3168,9 @@ Enjoys God's Cosmic Play.
 * One Hundred And Sixty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:164
+  :genre: poem
+  :keywords:
+  :cite-key: SS:164
   :END:
 
 
@@ -3185,9 +3185,9 @@ Perfect in silence-sound.
 * One Hundred And Sixty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:165
+  :genre: poem
+  :keywords:
+  :cite-key: SS:165
   :END:
 
 
@@ -3204,9 +3204,9 @@ Self-giving flame.
 * One Hundred And Sixty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:166
+  :genre: poem
+  :keywords:
+  :cite-key: SS:166
   :END:
 
 
@@ -3223,9 +3223,9 @@ You will remain my only choice.
 * One Hundred And Sixty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:167
+  :genre: poem
+  :keywords:
+  :cite-key: SS:167
   :END:
 
 
@@ -3242,9 +3242,9 @@ Alone my heart shall play.
 * One Hundred And Sixty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:168
+  :genre: poem
+  :keywords:
+  :cite-key: SS:168
   :END:
 
 
@@ -3261,9 +3261,9 @@ Blue-gold goal.
 * One Hundred And Sixty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:169
+  :genre: poem
+  :keywords:
+  :cite-key: SS:169
   :END:
 
 
@@ -3280,9 +3280,9 @@ And perfection-shore.
 * One Hundred And Seventy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:170
+  :genre: poem
+  :keywords:
+  :cite-key: SS:170
   :END:
 
 
@@ -3299,9 +3299,9 @@ No more my sombre dole.
 * One Hundred And Seventy-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:171
+  :genre: poem
+  :keywords:
+  :cite-key: SS:171
   :END:
 
 
@@ -3316,9 +3316,9 @@ When will you open my soul's golden gate?
 * One Hundred And Seventy-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:172
+  :genre: poem
+  :keywords:
+  :cite-key: SS:172
   :END:
 
 
@@ -3335,9 +3335,9 @@ Devouring you today.
 * One Hundred And Seventy-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:173
+  :genre: poem
+  :keywords:
+  :cite-key: SS:173
   :END:
 
 
@@ -3354,9 +3354,9 @@ Because my life is not sure.
 * One Hundred And Seventy-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:174
+  :genre: poem
+  :keywords:
+  :cite-key: SS:174
   :END:
 
 
@@ -3373,9 +3373,9 @@ The beauty of a new creation's birth.
 * One Hundred And Seventy-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:175
+  :genre: poem
+  :keywords:
+  :cite-key: SS:175
   :END:
 
 
@@ -3392,9 +3392,9 @@ Richly.
 * One Hundred And Seventy-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:176
+  :genre: poem
+  :keywords:
+  :cite-key: SS:176
   :END:
 
 
@@ -3411,9 +3411,9 @@ Paves the road to Eternity.
 * One Hundred And Seventy-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:177
+  :genre: poem
+  :keywords:
+  :cite-key: SS:177
   :END:
 
 
@@ -3430,9 +3430,9 @@ And deathless Compassion.
 * One Hundred And Seventy-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:178
+  :genre: poem
+  :keywords:
+  :cite-key: SS:178
   :END:
 
 
@@ -3449,9 +3449,9 @@ No rest for you, no rest.
 * One Hundred And Seventy-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:179
+  :genre: poem
+  :keywords:
+  :cite-key: SS:179
   :END:
 
 
@@ -3468,9 +3468,9 @@ Hearing your heart's soulful stories?
 * One Hundred And Eighty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:180
+  :genre: poem
+  :keywords:
+  :cite-key: SS:180
   :END:
 
 
@@ -3487,9 +3487,9 @@ From life's battlefield have you retired?
 * One Hundred And Eighty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:181
+  :genre: poem
+  :keywords:
+  :cite-key: SS:181
   :END:
 
 
@@ -3506,9 +3506,9 @@ Our oneness-sky.
 * One Hundred And Eighty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SS:182
+  :genre: poem
+  :keywords:
+  :cite-key: SS:182
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 3006
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1971
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SISA
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 3006
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1971
+  :publisher: Agni Press
+  :cite-key: SISA
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Sympathy Is Still Alive
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SISA:1
+  :genre: story
+  :keywords:
+  :cite-key: SISA:1
   :END:
 
 

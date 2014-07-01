@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 980
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1994
-  :PUBLISHER:
-  :CITE-KEY: CNEFS-2
-  :GENRE: song
+  :book-number: 980
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1994
+  :publisher:
+  :cite-key: CNEFS-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNEFS:22e1
+  :genre: note
+  :cite-key: CNEFS:22e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNEFS:22e2
+  :genre: note
+  :cite-key: CNEFS:22e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Absolution: Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:22
+  :cite-key: CNEFS:22
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Absolution.
 * Amity: Friendship
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:23
+  :cite-key: CNEFS:23
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ Amity: friendship.
 * Colossal: Huge
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:24
+  :cite-key: CNEFS:24
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Colossal.
 * Fortitude: Strength
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:25
+  :cite-key: CNEFS:25
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ Fortitude: strength.
 * Immaculate: Spotless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:26
+  :cite-key: CNEFS:26
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Immaculate.
 * Indolent: Lazy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:27
+  :cite-key: CNEFS:27
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Indolent.
 * Ineffable: Unspeakable
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:28
+  :cite-key: CNEFS:28
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Ineffable.
 * Infallible: Unerring
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:29
+  :cite-key: CNEFS:29
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Infallible.
 * Mendacity: Falsehood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:30
+  :cite-key: CNEFS:30
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Mendacity.
 * Mendicant: Beggar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:31
+  :cite-key: CNEFS:31
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ Mendicant.
 * Obdurate: Stubborn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:32
+  :cite-key: CNEFS:32
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Obdurate.
 * Opulent: Rich
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:33
+  :cite-key: CNEFS:33
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Opulent.
 * Foment: Arouse
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-03-1990
-  :CITE-KEY: CNEFS:34
+  :cite-key: CNEFS:34
   :END:
 
 #+BEGIN_VERSE
@@ -259,10 +259,10 @@ Foment: arouse.
 * Covert: Secret
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:35
+  :cite-key: CNEFS:35
   :END:
 
 #+BEGIN_VERSE
@@ -275,10 +275,10 @@ Covert: secret.
 * Crass: Unrefined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:36
+  :cite-key: CNEFS:36
   :END:
 
 #+BEGIN_VERSE
@@ -291,10 +291,10 @@ Crass: unrefined.
 * Dissenter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:37
+  :cite-key: CNEFS:37
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ One who disagrees.
 * Flout: Defy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:38
+  :cite-key: CNEFS:38
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ Flout: defy
 * Moribund: Dying
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:39
+  :cite-key: CNEFS:39
   :END:
 
 #+BEGIN_VERSE
@@ -340,10 +340,10 @@ Moribund: dying.
 * Oracular: Prophetic
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:40
+  :cite-key: CNEFS:40
   :END:
 
 #+BEGIN_VERSE
@@ -356,10 +356,10 @@ Oracular: prophetic.
 * Skittish: Nervous
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:41
+  :cite-key: CNEFS:41
   :END:
 
 #+BEGIN_VERSE
@@ -372,10 +372,10 @@ Skittish: nervous.
 * Benediction: Blessing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:42
+  :cite-key: CNEFS:42
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Benediction.
 * Pristine: Original
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:43
+  :cite-key: CNEFS:43
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Pristine.
 * Retrograde: Going Backward
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-03-1990
-  :CITE-KEY: CNEFS:44
+  :cite-key: CNEFS:44
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Retrograde: going backward.
 * Terminus: Boundary
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:45
+  :cite-key: CNEFS:45
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ Terminus.
 * Valedictory: Farewell
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1987
-  :CITE-KEY: CNEFS:46
+  :cite-key: CNEFS:46
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ My heart’s valedictory message-cry to earth
 * Veracity: Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1987
-  :CITE-KEY: CNEFS:47
+  :cite-key: CNEFS:47
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ Veracity.
 * Vilify: Slander
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1987
-  :CITE-KEY: CNEFS:48
+  :cite-key: CNEFS:48
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ Mountain-achievements.
 * Volition: Choice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1987
-  :CITE-KEY: CNEFS:49
+  :cite-key: CNEFS:49
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Is of my own volition.
 * Vying: Contending
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-07-1987
-  :CITE-KEY: CNEFS:50
+  :cite-key: CNEFS:50
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ For God’s extra Compassion-Light.
 * Wane: Fade
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:51
+  :cite-key: CNEFS:51
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ Will wane.
 * Wary: Cautious
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:52
+  :cite-key: CNEFS:52
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ Your loving faith.
 * Welkin: Sky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:53
+  :cite-key: CNEFS:53
   :END:
 
 #+BEGIN_VERSE
@@ -586,10 +586,10 @@ Live in your heart-welkin to be ever happy.
 * Welter: Wallow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:54
+  :cite-key: CNEFS:54
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ How long will you welter in ignorance-mire?
 * Whit: Smallest Fragment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:55
+  :cite-key: CNEFS:55
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ How can God cherish you?
 * Winsome: Agreeable
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-04-1987
-  :CITE-KEY: CNEFS:56
+  :cite-key: CNEFS:56
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Are all for you.
 * Wizen: Wither
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1987
-  :CITE-KEY: CNEFS:57
+  :cite-key: CNEFS:57
   :END:
 
 #+BEGIN_VERSE
@@ -659,10 +659,10 @@ Doubt-heat wizens devotion-plants.
 * Wont: Regular Habit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-04-1987
-  :CITE-KEY: CNEFS:58
+  :cite-key: CNEFS:58
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ Every morning and every evening.
 * Wreak: Inflict
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1987
-  :CITE-KEY: CNEFS:59
+  :cite-key: CNEFS:59
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Wreak not your wild anger on me.
 * Xenophile: Fondness for the Foreign Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-04-1987
-  :CITE-KEY: CNEFS:60
+  :cite-key: CNEFS:60
   :END:
 
 #+BEGIN_VERSE
@@ -715,10 +715,10 @@ I am more than a xenophile.
 * Zenith: Highest Point
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-04-1987
-  :CITE-KEY: CNEFS:61
+  :cite-key: CNEFS:61
   :END:
 
 #+BEGIN_VERSE
@@ -733,10 +733,10 @@ My Lord tells me I am another God.
 * Zephyr: Gentle Breeze
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-04-1987
-  :CITE-KEY: CNEFS:62
+  :cite-key: CNEFS:62
   :END:
 
 #+BEGIN_VERSE

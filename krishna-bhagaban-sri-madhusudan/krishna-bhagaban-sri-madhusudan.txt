@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1269
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1999
-  :PUBLISHER:
-  :CITE-KEY: KBSM
-  :GENRE: song
+  :book-number: 1269
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1999
+  :publisher:
+  :cite-key: KBSM
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KBSM:1e1
+  :genre: note
+  :cite-key: KBSM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KBSM:1e2
+  :genre: note
+  :cite-key: KBSM:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * K.B.S.M. Taba Kripa Taba Khama Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1999
-  :CITE-KEY: KBSM:1
+  :cite-key: KBSM:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Taba kripa taba khama mama prayojan
 * K.B.S.M. Neharinu Taba Sudha Nartan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:2
+  :cite-key: KBSM:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Neharinu taba sudha nartan
 * K.B.S.M. Niye Jao Mor Hiyar Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:3
+  :cite-key: KBSM:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Niye jao mor hiyar bedan
 * K.B.S.M. Amulya Ratan Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:4
+  :cite-key: KBSM:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Amulya ratan tomar charan
 * K.B.S.M. Kothai Radhika Kotha Brindaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:5
+  :cite-key: KBSM:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Kothai radhika kotha brindaban
 * K.B.S.M. Dekha Dao More Ei Nibedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:6
+  :cite-key: KBSM:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Dekha dao more ei nibedan
 * K.B.S.M. Keno Raho Tumi Ati Sugopan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:7
+  :cite-key: KBSM:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Keno raho tumi ati sugopan
 * K.B.S.M. Tomar Nayane Dhara Jagaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:8
+  :cite-key: KBSM:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Tomar nayane dhara jagaran
 * K.B.S.M. Tumi Je Tomar Jyotir Nandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:9
+  :cite-key: KBSM:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Tumi je tomar jyotir nandan
 * K.B.S.M. Dharar Bandhan Karogo Khandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:10
+  :cite-key: KBSM:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Dharar bandhan karogo khandan
 * K.B.S.M. Oi Dake More Tomar Syandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:11
+  :cite-key: KBSM:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Oi dake more tomar syandan
 * Bhaktaprabhu Bhaktadas Pramodan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:12
+  :cite-key: KBSM:12
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Bhaktaprabhu bhaktadas pramodan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:13
+  :cite-key: KBSM:13
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Of Your devotees to give them delight.
 * K.B.S.M. Uray Tomar Bijoy Ketan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:14
+  :cite-key: KBSM:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Uray tomar bijoy ketan
 * K.B.S.M. Tumi Sabakar Ananda Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:15
+  :cite-key: KBSM:15
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ Tumi sabakar ananda swapan
 * K.B.S.M. Abichar Adharmer Binashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:16
+  :cite-key: KBSM:16
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ Abichar adharmer binashan
 * K.B.S.M. Asimer Anander Niketan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:17
+  :cite-key: KBSM:17
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Asimer anander niketan
 * K.B.S.M. Niye Jao Mor Shato Pralobhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:18
+  :cite-key: KBSM:18
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Niye jao mor shato pralobhan
 * K.B.S.M. Tumi Shudhu Mor Ashar Deepan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:19
+  :cite-key: KBSM:19
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Tumi shudhu mor ashar dipan
 * K.B.S.M. Amiya Nayan Amiya Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:20
+  :cite-key: KBSM:20
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Amiya nayan amiya charan
 * K.B.S.M. Nahi Rakho Karo Garba Ashphalan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:21
+  :cite-key: KBSM:21
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Nahi rakho karo garba ashphalan
 * K.B.S.M. Ashubha Nashan Shubher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:22
+  :cite-key: KBSM:22
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Ashubha nashan shubher bardhan
 * K.B.S.M. Arjuner Gurudev Sanatan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:23
+  :cite-key: KBSM:23
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Arjuner gurudev sanatan
 * K.B.S.M. Ma Kunti Devi Premashru Ratan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:24
+  :cite-key: KBSM:24
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ Ma Kunti Devi premashru ratan
 * K.B.S.M. Sachchidananda Je Tomar Sharan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:25
+  :cite-key: KBSM:25
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ Sachchidananda je tomar sharan
 * K.B.S.M. Kripa Karo More Ati Abajan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:26
+  :cite-key: KBSM:26
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Kripa karo more ati abajan
 * K.B.S.M. E Jiban Taba Khama Arohan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:27
+  :cite-key: KBSM:27
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ E jiban taba khama arohan
 * K.B.S.M. Chahi Ami Prabhu Hiya Unmochan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:28
+  :cite-key: KBSM:28
   :END:
 
 #+BEGIN_VERSE
@@ -516,10 +516,10 @@ Chahi ami prabhu hiya unmochan
 * K.B.S.M. Gopider Anander Prashphutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:29
+  :cite-key: KBSM:29
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ Gopider anander prashphutan
 * K.B.S.M. Swarger Suhas Martyer Krandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1999
-  :CITE-KEY: KBSM:30
+  :cite-key: KBSM:30
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ Swarger suhas martyer krandan
 * K.B.S.M. Taba Dhyan Ami Kari Adhyayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:31
+  :cite-key: KBSM:31
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ Taba dhyan ami kari adhyayan
 * K.B.S.M. Bhakti Bhare Kari Tomar Archan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:32
+  :cite-key: KBSM:32
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ Bhakti bhare kari tomar archan
 * K.B.S.M. Tomar Charan Amar Sadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:33
+  :cite-key: KBSM:33
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ Tomar charan amar sadhan
 * K.B.S.M. Mor Asaktir Hok Binashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:34
+  :cite-key: KBSM:34
   :END:
 
 #+BEGIN_VERSE
@@ -618,10 +618,10 @@ Mor asaktir hok binashan
 * K.B.S.M. Amar Deepan Tomar Pujan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:35
+  :cite-key: KBSM:35
   :END:
 
 #+BEGIN_VERSE
@@ -635,10 +635,10 @@ Amar Dipan tomar pujan
 * K.B.S.M. Amar Moher Bandhan Nashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:36
+  :cite-key: KBSM:36
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ Amar moher bandhan nashan
 * K.B.S.M. Tumije Tomar Amiya Bachan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:37
+  :cite-key: KBSM:37
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ Tumije tomar amiya bachan
 * K.B.S.M. Taba Nam Japi Dyulok Gaman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:38
+  :cite-key: KBSM:38
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ Taba nam japi dyulok gaman
 * K.B.S.M. Taba Aradhane Dyulok Bhraman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:39
+  :cite-key: KBSM:39
   :END:
 
 #+BEGIN_VERSE
@@ -703,10 +703,10 @@ Taba aradhane dyulok bhraman
 * K.B.S.M. Karuna Hriday Bishal Lochan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:40
+  :cite-key: KBSM:40
   :END:
 
 #+BEGIN_VERSE
@@ -720,10 +720,10 @@ Karuna hriday bishal lochan
 * K.B.S.M. Amar Swapan Tomar Bhajan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:41
+  :cite-key: KBSM:41
   :END:
 
 #+BEGIN_VERSE
@@ -737,10 +737,10 @@ Amar swapan tomar bhajan
 * K.B.S.M. Minati Pranati Karogo Grahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:42
+  :cite-key: KBSM:42
   :END:
 
 #+BEGIN_VERSE
@@ -754,10 +754,10 @@ Minati pranati karogo grahan
 * K.B.S.M. Nutan Jiban Taba Parashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:43
+  :cite-key: KBSM:43
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ Nutan jiban taba parashan
 * K.B.S.M. Tomare Tushibo Ei Mor Pan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:44
+  :cite-key: KBSM:44
   :END:
 
 #+BEGIN_VERSE
@@ -788,10 +788,10 @@ Tomare tushibo ei mor pan
 * K.B.S.M. Rahi Jena Taba Dhyane Nimagan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:45
+  :cite-key: KBSM:45
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ Rahi jena taba dhyane nimagan
 * K.B.S.M. Nahi Jena Kari Mane Bicharan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:46
+  :cite-key: KBSM:46
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Nahi jena kari mane bicharan
 * K.B.S.M. Toma Sathe Chahi Kathopa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:47
+  :cite-key: KBSM:47
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ Toma sathe chahi kathopa kathan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:48
+  :cite-key: KBSM:48
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ I am begging to converse with You.
 * K.B.S.M. Daya Khama Karo Patita Paban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:49
+  :cite-key: KBSM:49
   :END:
 
 #+BEGIN_VERSE
@@ -871,10 +871,10 @@ Daya khama karo patita paban
 * K.B.S.M. Namo Narayana Namo Narayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:50
+  :cite-key: KBSM:50
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Namo narayana namo narayan
 * K.B.S.M. Karo Prabhu Mor Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:51
+  :cite-key: KBSM:51
   :END:
 
 #+BEGIN_VERSE
@@ -905,10 +905,10 @@ Karo prabhu mor bandhan morchhan
 * K.B.S.M. Jalao Hridaye Mor Hutashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:52
+  :cite-key: KBSM:52
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +922,10 @@ Jalao hridaye mor hutashan
 * K.B.S.M. Tomar Charane Amar Bhuvan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:53
+  :cite-key: KBSM:53
   :END:
 
 #+BEGIN_VERSE
@@ -939,10 +939,10 @@ Tomar charane amar bhuvan
 * K.B.S.M. Tumi Je Tomar Lila Niketan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:54
+  :cite-key: KBSM:54
   :END:
 
 #+BEGIN_VERSE
@@ -956,10 +956,10 @@ Tumi je tomar lila niketan
 * Krishna Bhagavan Sri Madhusudan Ranjana Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1999
-  :CITE-KEY: KBSM:55
+  :cite-key: KBSM:55
   :END:
 
 #+BEGIN_VERSE

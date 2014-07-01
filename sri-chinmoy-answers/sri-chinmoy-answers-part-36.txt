@@ -8,14 +8,14 @@
 
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1489
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2004
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-36
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1489
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2004
+  :publisher: Agni Press
+  :cite-key: SCA-36
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,8 +23,8 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1138e1
+  :genre: note
+  :cite-key: SCA:1138e1
   :END:
 
 
@@ -35,8 +35,8 @@
 * /Question:/ If you knew how things would turn out, would you still have accepted me as a disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1138
+  :genre: qa
+  :cite-key: SCA:1138
   :END:
 
 
@@ -59,8 +59,8 @@ Those who cherish misery are definitely delaying my outer progress, which depend
 * /Question:/ I am feeling the presence of my family today, even though they are not here physically. Is it my imagination, or are they blessing me on my birthday?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1139
+  :genre: qa
+  :cite-key: SCA:1139
   :END:
 
 
@@ -77,8 +77,8 @@ If I say nice things about you because you have done something good, immediately
 * /Question:/ Which of the two do you enjoy most: humour or rumour?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1140
+  :genre: qa
+  :cite-key: SCA:1140
   :END:
 
 
@@ -89,8 +89,8 @@ If I say nice things about you because you have done something good, immediately
 * /Question:/ Why do we have to forgive and forget. Is forgiveness by itself not enough?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1141
+  :genre: qa
+  :cite-key: SCA:1141
   :END:
 
 
@@ -103,8 +103,8 @@ Without forgetfulness, forgiveness is no forgiveness. If we forgive someone, the
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1142e1
+  :genre: note
+  :cite-key: SCA:1142e1
   :END:
 
 
@@ -115,8 +115,8 @@ Without forgetfulness, forgiveness is no forgiveness. If we forgive someone, the
 * /Question:/ When you paint, you often say that you are following a streak of light. When you compose songs, do you also see something and follow it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1142
+  :genre: qa
+  :cite-key: SCA:1142
   :END:
 
 
@@ -129,8 +129,8 @@ When I set the tune on the harmonium, sometimes I do get inspiration. But someti
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1143e1
+  :genre: note
+  :cite-key: SCA:1143e1
   :END:
 
 
@@ -140,9 +140,9 @@ When I set the tune on the harmonium, sometimes I do get inspiration. But someti
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:1143
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:1143
   :END:
 
 I shall remember this day, not only as long as I live on earth, but also when I am on the other shore of the life-river. To all those who have over one hundred books, I offer my unprecedented love. To those who have over two hundred books, I offer my unprecedented pride. And to those who have three hundred books, I offer my unprecedented love, unprecedented pride and unprecedented gratitude.
@@ -160,8 +160,8 @@ My dear children, you have truly pleased me in my own way. Forgive me for saying
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1144e1
+  :genre: note
+  :cite-key: SCA:1144e1
   :END:
 
 
@@ -170,9 +170,9 @@ My dear children, you have truly pleased me in my own way. Forgive me for saying
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:1144
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:1144
   :END:
 
 Goethe was not only a great poet but also a universal figure. He has contributed to humanity in many fields of life —- science, art and all kinds of culture. His contribution to the world was in many aspects and not only one aspect. He was not only for Germany but for the entire world. Goethe's universal spirit is blessing all those who aspire for one world.
@@ -181,8 +181,8 @@ Goethe was not only a great poet but also a universal figure. He has contributed
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1145e1
+  :genre: note
+  :cite-key: SCA:1145e1
   :END:
 
 
@@ -193,8 +193,8 @@ Goethe was not only a great poet but also a universal figure. He has contributed
 * /Question:/ As I understand it, the goal of the spiritual life is to be conscious of one's Master at every moment. How can I approach that goal?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1145
+  :genre: qa
+  :cite-key: SCA:1145
   :END:
 
 
@@ -223,8 +223,8 @@ God wants to manifest Himself here on this little earth-planet. There are other 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1146e1
+  :genre: note
+  :cite-key: SCA:1146e1
   :END:
 
 
@@ -234,9 +234,9 @@ God wants to manifest Himself here on this little earth-planet. There are other 
 * 3.
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: SCA:1146
+  :genre: epistle
+  :keywords:
+  :cite-key: SCA:1146
   :END:
 
 Quite recently you have lost your dearest son. I, too, have lost my dearest sister two months ago, and last year I lost my dearest brother. So you and I are sailing in the same boat.
@@ -276,8 +276,8 @@ Life is Eternity's Road. Each human being is a traveller on Eternity's Road. Dea
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1147e1
+  :genre: note
+  :cite-key: SCA:1147e1
   :END:
 
 
@@ -288,8 +288,8 @@ Life is Eternity's Road. Each human being is a traveller on Eternity's Road. Dea
 * Absent-mindedness
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1147
+  :genre: qa
+  :cite-key: SCA:1147
   :END:
 
 
@@ -326,8 +326,8 @@ Yours,
 * Anger
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1148
+  :genre: qa
+  :cite-key: SCA:1148
   :END:
 
 
@@ -360,8 +360,8 @@ Anger: just put a "d" before anger and it becomes danger. I do not want you to p
 * Common sense
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1149
+  :genre: qa
+  :cite-key: SCA:1149
   :END:
 
 
@@ -419,8 +419,8 @@ However, in defence of man, I wish to say that man thinks of changing the world 
 * Nervousness
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1150
+  :genre: qa
+  :cite-key: SCA:1150
   :END:
 
 
@@ -464,8 +464,8 @@ Your nervousness-devouring
 * Humour
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1151
+  :genre: qa
+  :cite-key: SCA:1151
   :END:
 
 
@@ -542,8 +542,8 @@ Finally, I want to tell you that no spiritual man has ever denied the existence 
 * Children
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1152
+  :genre: qa
+  :cite-key: SCA:1152
   :END:
 
 
@@ -564,8 +564,8 @@ You have written to me that your daughter constantly asks you for money, while y
 * Instructive jokes
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1153
+  :genre: qa
+  :cite-key: SCA:1153
   :END:
 
 
@@ -591,8 +591,8 @@ I am mighty happy that God has saved you. I am truly happy that you two will wor
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCA:1154e1
+  :genre: note
+  :cite-key: SCA:1154e1
   :END:
 
 
@@ -603,8 +603,8 @@ I am mighty happy that God has saved you. I am truly happy that you two will wor
 * /Interviewer:/ Is there one thing that has inspired you to do all these small drawings of birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1154
+  :genre: qa
+  :cite-key: SCA:1154
   :END:
 
 
@@ -623,8 +623,8 @@ If we buy a cage and put a bird inside it, the bird is limited. But if we releas
 * /Interviewer:/ By sharing these birds with the public, are you trying to inspire people with that message?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1155
+  :genre: qa
+  :cite-key: SCA:1155
   :END:
 
 
@@ -643,8 +643,8 @@ In exactly the same way, we human beings move from one place to another, appreci
 * /Interviewer:/ So does it make you happy to see people looking at your exhibit and walking through it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1156
+  :genre: qa
+  :cite-key: SCA:1156
   :END:
 
 
@@ -655,8 +655,8 @@ In exactly the same way, we human beings move from one place to another, appreci
 * /Interviewer:/ It is very peaceful here, despite the fact that it is in the middle of New York City!
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1157
+  :genre: qa
+  :cite-key: SCA:1157
   :END:
 
 
@@ -669,8 +669,8 @@ So when people look at my drawings and find peace, this helps to bring forward t
 * /Interviewer:/ When I came up, you were just sitting and drawing. Is this how most of these were done, just sitting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1158
+  :genre: qa
+  :cite-key: SCA:1158
   :END:
 
 
@@ -696,8 +696,8 @@ These birds represent unity in multiplicity. Here we have 70,000 birds. Each bir
 * /Interviewer:/ Do you have any sense of what your next project will be when this is over?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1159
+  :genre: qa
+  :cite-key: SCA:1159
   :END:
 
 
@@ -713,8 +713,8 @@ These birds represent unity in multiplicity. Here we have 70,000 birds. Each bir
 * /Interviewer:/ I understand you will be giving a concert in Chicago on September 18th.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1160
+  :genre: qa
+  :cite-key: SCA:1160
   :END:
 
 
@@ -729,8 +729,8 @@ I wish to thank you for your most sincere questions. May I know your name please
 * /Interviewer:/ Tricia Curry -— from Patricia.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: SCA:1161
+  :genre: qa
+  :cite-key: SCA:1161
   :END:
 
 

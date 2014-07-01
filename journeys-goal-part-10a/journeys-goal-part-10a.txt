@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 434
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-10A
-  :GENRE: song
+  :book-number: 434
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-10A
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:102e1
+  :genre: note
+  :cite-key: JGS:102e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:102e2
+  :genre: note
+  :cite-key: JGS:102e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jahnabi Bege Enke Jai Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:102
+  :cite-key: JGS:102
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Rupantarer chhabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:103
+  :cite-key: JGS:103
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ I have been working on my transformation-picture.
 * Usha Bala Elo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:104
+  :cite-key: JGS:104
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Hridaya gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:105
+  :cite-key: JGS:105
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ In the very depths of my aspiration-heart.
 * Tumi Esechho Esechho Badhar Dwar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:106
+  :cite-key: JGS:106
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Tumi bhengechho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:107
+  :cite-key: JGS:107
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ Smashing asunder the obstruction-door.
 * Jibane Marane Ashar Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:108
+  :cite-key: JGS:108
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Phutibo gopane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:109
+  :cite-key: JGS:109
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ In the hearts of life and death.
 * Jiban Amar Mor Bidhatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:110
+  :cite-key: JGS:110
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ Kripar pathar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:111
+  :cite-key: JGS:111
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Of my Beloved Supreme.
 * Ektu Hasi Bhangbe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:112
+  :cite-key: JGS:112
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ Khudra hiyar timir nishi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:113
+  :cite-key: JGS:113
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Of my little heart.
 * Ananda Bhola Nirvana Dola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:114
+  :cite-key: JGS:114
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Tunga ala chinmoy bhela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: JGS:115
+  :cite-key: JGS:115
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ Is spreading pinnacle-light.
 * Eso Ananda Alokananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:116
+  :cite-key: JGS:116
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Khudhita hridaya majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:117
+  :cite-key: JGS:117
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Do descend into my hungry heart’s
 * Chanchala Man Dure Rakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:118
+  :cite-key: JGS:118
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ Chanchala mor man
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:119
+  :cite-key: JGS:119
   :END:
 
 #+BEGIN_VERSE
@@ -349,10 +349,10 @@ Always I keep it aside.
 * Taruner Asha Purna Haibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:120
+  :cite-key: JGS:120
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ E katha janabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-10-1977
-  :CITE-KEY: JGS:121
+  :cite-key: JGS:121
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ Will, without fail, be fulfilled.
 * Jharna Kala Dodula Dodula
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-11-1977
-  :CITE-KEY: JGS:122
+  :cite-key: JGS:122
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Dodula dodula purna purna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-11-1977
-  :CITE-KEY: JGS:123
+  :cite-key: JGS:123
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Of the Reality infinite.
 * Turjya Surjya Dhurjya Pujya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:124
+  :cite-key: JGS:124
   :END:
 
 #+BEGIN_VERSE
@@ -434,10 +434,10 @@ Jago jago jago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:125
+  :cite-key: JGS:125
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ In me, awake.
 * Shibire Khunji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:126
+  :cite-key: JGS:126
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Mandire puji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:127
+  :cite-key: JGS:127
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ At the hallowed shrine of life’s temples.
 * Jatri Amara Manena Ratri Manina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:128
+  :cite-key: JGS:128
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Asimer pathe jatri amara satya trishita jatri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:129
+  :cite-key: JGS:129
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ And endless road of life.
 * Asha Hara Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:130
+  :cite-key: JGS:130
   :END:
 
 #+BEGIN_VERSE
@@ -541,10 +541,10 @@ Manera banera benu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:131
+  :cite-key: JGS:131
   :END:
 
 #+BEGIN_VERSE
@@ -558,10 +558,10 @@ Is empty of hope today.
 * Antare Bahire Swarge Martye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:132
+  :cite-key: JGS:132
   :END:
 
 #+BEGIN_VERSE
@@ -574,10 +574,10 @@ Tumi shudhu sathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:133
+  :cite-key: JGS:133
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ And my body-existence-strife.
 * Sanga Halo Jiban Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:134
+  :cite-key: JGS:134
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ Maran dilo dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:135
+  :cite-key: JGS:135
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ And irrevocably arrived.
 * Premik Ami Khunji Ekaki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:136
+  :cite-key: JGS:136
   :END:
 
 #+BEGIN_VERSE
@@ -644,10 +644,10 @@ Hriday tale amare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-10-1977
-  :CITE-KEY: JGS:137
+  :cite-key: JGS:137
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ I have been searching for my reality’s self-form.
 * Balo Tumi Amai Prabhu Bhalobaso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:138
+  :cite-key: JGS:138
   :END:
 
 #+BEGIN_VERSE
@@ -677,10 +677,10 @@ Balo tumi amai prabhu bhalobaso
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:139
+  :cite-key: JGS:139
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ That You are all love for me.
 * Bhalo Lage Jiban Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:140
+  :cite-key: JGS:140
   :END:
 
 #+BEGIN_VERSE
@@ -709,10 +709,10 @@ Bhalo lage jiban maran bhalo lage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:141
+  :cite-key: JGS:141
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Soulfully, without a second, I love.
 * Supreme (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:142
+  :cite-key: JGS:142
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Supreme
 * Agni Vina Prane Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:143
+  :cite-key: JGS:143
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Agni vina prane baje taito nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:144
+  :cite-key: JGS:144
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Therefore, I dance here, there and all-where.
 * Badala Nabhe Madala Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:145
+  :cite-key: JGS:145
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Pagal halo hiya hiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:146
+  :cite-key: JGS:146
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ And the charming kettledrum of the blue-vast sky.
 * Jiban Nadi Sukaye Jai Kena Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:147
+  :cite-key: JGS:147
   :END:
 
 #+BEGIN_VERSE
@@ -825,10 +825,10 @@ Jiban nadi shukhaye jai kena janina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: JGS:148
+  :cite-key: JGS:148
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ I know not why dryness has assailed its existence-light.
 * Chalar Pathe Chalbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:149
+  :cite-key: JGS:149
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ Ashar sathe nachbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:150
+  :cite-key: JGS:150
   :END:
 
 #+BEGIN_VERSE
@@ -875,10 +875,10 @@ I shall dance eternally with hope.
 * Nil Akasher Ami Nil Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:151
+  :cite-key: JGS:151
   :END:
 
 #+BEGIN_VERSE
@@ -890,10 +890,10 @@ Nil akasher ami nil pakhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:152
+  :cite-key: JGS:152
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ I am the blue bird of the blue welkin.
 * Supreme (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:153
+  :cite-key: JGS:153
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ Supreme
 * Akutir Prem Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:154
+  :cite-key: JGS:154
   :END:
 
 #+BEGIN_VERSE
@@ -939,10 +939,10 @@ Bhakatir madhu pan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:155
+  :cite-key: JGS:155
   :END:
 
 #+BEGIN_VERSE
@@ -957,10 +957,10 @@ Are inseparably one.
 * Kandite Parina Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:156
+  :cite-key: JGS:156
   :END:
 
 #+BEGIN_VERSE
@@ -973,10 +973,10 @@ Hasite parina ar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:157
+  :cite-key: JGS:157
   :END:
 
 #+BEGIN_VERSE
@@ -990,10 +990,10 @@ No more am I inspired to smile.
 * Dhular Majhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:158
+  :cite-key: JGS:158
   :END:
 
 #+BEGIN_VERSE
@@ -1006,10 +1006,10 @@ Lukabo amar shir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:159
+  :cite-key: JGS:159
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ I shall hide my haughty head.
 * Japibo Japer Mala Dibanishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:160
+  :cite-key: JGS:160
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ Mala dibanishi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:161
+  :cite-key: JGS:161
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ And one sleepless heart.
 * Debatar Mandire Ami Nachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:162
+  :cite-key: JGS:162
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ Debatar mandire ami nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:163
+  :cite-key: JGS:163
   :END:
 
 #+BEGIN_VERSE
@@ -1090,10 +1090,10 @@ Of the cosmic gods.
 * Ami Habo Nishiter Aratir Shikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:164
+  :cite-key: JGS:164
   :END:
 
 #+BEGIN_VERSE
@@ -1105,10 +1105,10 @@ Ami habo nishiter aratir shikha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:165
+  :cite-key: JGS:165
   :END:
 
 #+BEGIN_VERSE
@@ -1122,10 +1122,10 @@ Of sleepless night.
 * Premer Prasade Bandi Amar Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:166
+  :cite-key: JGS:166
   :END:
 
 #+BEGIN_VERSE
@@ -1137,10 +1137,10 @@ Premer prasade bandhi amar hiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:167
+  :cite-key: JGS:167
   :END:
 
 #+BEGIN_VERSE
@@ -1154,10 +1154,10 @@ And place it in Your Love-inundated Palace.
 * Arati Ghanta Bajabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:168
+  :cite-key: JGS:168
   :END:
 
 #+BEGIN_VERSE
@@ -1170,10 +1170,10 @@ Bidhata bajabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:169
+  :cite-key: JGS:169
   :END:
 
 #+BEGIN_VERSE
@@ -1188,10 +1188,10 @@ O my Lord Supreme.
 * Pushpa Rathe Pradip Mala Jwale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:170
+  :cite-key: JGS:170
   :END:
 
 #+BEGIN_VERSE
@@ -1203,10 +1203,10 @@ Pushpa rathe pradip mala jwale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:171
+  :cite-key: JGS:171
   :END:
 
 #+BEGIN_VERSE
@@ -1220,10 +1220,10 @@ In the chariot of flower-beauty and flower-purity.
 * Abar Asibo Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:172
+  :cite-key: JGS:172
   :END:
 
 #+BEGIN_VERSE
@@ -1236,10 +1236,10 @@ Jananir sneha nire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:173
+  :cite-key: JGS:173
   :END:
 
 #+BEGIN_VERSE
@@ -1253,10 +1253,10 @@ Of my Mother dear and Mother sweet.
 * Sandhya Batase Nachi Sandhya Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:174
+  :cite-key: JGS:174
   :END:
 
 #+BEGIN_VERSE
@@ -1269,10 +1269,10 @@ Sandhya akashe uri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:175
+  :cite-key: JGS:175
   :END:
 
 #+BEGIN_VERSE
@@ -1287,10 +1287,10 @@ I fly in the evening sky.
 * Tomar Amar Majhkhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:176
+  :cite-key: JGS:176
   :END:
 
 #+BEGIN_VERSE
@@ -1303,10 +1303,10 @@ Dharai ke aj ke jane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:177
+  :cite-key: JGS:177
   :END:
 
 #+BEGIN_VERSE
@@ -1321,10 +1321,10 @@ And what abides between us today.
 * Ami Kandi Ami Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:178
+  :cite-key: JGS:178
   :END:
 
 #+BEGIN_VERSE
@@ -1336,10 +1336,10 @@ Ami kandi ami hasi palir ghare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:179
+  :cite-key: JGS:179
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ For inside me are affection-flooded hamlets.
 * Bhakti Amar Shakti Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:180
+  :cite-key: JGS:180
   :END:
 
 #+BEGIN_VERSE
@@ -1369,10 +1369,10 @@ Shakti habe mukti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:181
+  :cite-key: JGS:181
   :END:
 
 #+BEGIN_VERSE
@@ -1386,10 +1386,10 @@ My power-life will become my liberation-soul.
 * Sanga Halo Kanna Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:182
+  :cite-key: JGS:182
   :END:
 
 #+BEGIN_VERSE
@@ -1402,10 +1402,10 @@ Tomar pada tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:183
+  :cite-key: JGS:183
   :END:
 
 #+BEGIN_VERSE
@@ -1420,10 +1420,10 @@ Have completed their respective roles.
 * Chaowar Asha Bhalobasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:184
+  :cite-key: JGS:184
   :END:
 
 #+BEGIN_VERSE
@@ -1436,10 +1436,10 @@ Bhalobasa bhalobasa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:185
+  :cite-key: JGS:185
   :END:
 
 #+BEGIN_VERSE
@@ -1453,10 +1453,10 @@ A life of hope is all love.
 * Dure Dure Bahu Dure Tomar Pabo Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:186
+  :cite-key: JGS:186
   :END:
 
 #+BEGIN_VERSE
@@ -1469,10 +1469,10 @@ Tomar pabo dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:187
+  :cite-key: JGS:187
   :END:
 
 #+BEGIN_VERSE
@@ -1487,10 +1487,10 @@ And in the world beyond.
 * Nimesh Hara Nayan Khudha Jage Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:188
+  :cite-key: JGS:188
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ Nimesh hara nayan khudha jage aji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:189
+  :cite-key: JGS:189
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ In me awakens the sleepless vision-hunger today.
 * Bajna Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:190
+  :cite-key: JGS:190
   :END:
 
 #+BEGIN_VERSE
@@ -1534,10 +1534,10 @@ Asha hiyar gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:191
+  :cite-key: JGS:191
   :END:
 
 #+BEGIN_VERSE
@@ -1551,10 +1551,10 @@ In the inmost recesses of my hope-heart.
 * Nirab Aji Hriday Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:192
+  :cite-key: JGS:192
   :END:
 
 #+BEGIN_VERSE
@@ -1567,10 +1567,10 @@ Tomar parashe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:193
+  :cite-key: JGS:193
   :END:
 
 #+BEGIN_VERSE
@@ -1584,10 +1584,10 @@ In the very depth of my heart.
 * Alor Swapan Nandana Ban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:194
+  :cite-key: JGS:194
   :END:
 
 #+BEGIN_VERSE
@@ -1600,10 +1600,10 @@ Amare dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:195
+  :cite-key: JGS:195
   :END:
 
 #+BEGIN_VERSE
@@ -1618,10 +1618,10 @@ Are beckoning me.
 * Ashru Amar Jharena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:196
+  :cite-key: JGS:196
   :END:
 
 #+BEGIN_VERSE
@@ -1634,10 +1634,10 @@ Khama karo prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:197
+  :cite-key: JGS:197
   :END:
 
 #+BEGIN_VERSE
@@ -1651,10 +1651,10 @@ I have failed to shed tears while longing for You.
 * Tomar Paye Amar Amire Sanpibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:198
+  :cite-key: JGS:198
   :END:
 
 #+BEGIN_VERSE
@@ -1666,10 +1666,10 @@ Tomar paye amar amire sanpibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-10-1977
-  :CITE-KEY: JGS:199
+  :cite-key: JGS:199
   :END:
 
 #+BEGIN_VERSE

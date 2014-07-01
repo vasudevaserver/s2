@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0945
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: VVK
-  :GENRE: poem, discourse, story
-  :KEYWORDS:
+  :book-number: 0945
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: VVK
+  :genre: poem, discourse, story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Swami Vivekananda, Calcutta, 1897
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:1
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:1
   :END:
 
 
@@ -60,9 +60,9 @@
 * The Disciple And The Master
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: VVK:2e1
+  :genre: section
+  :keywords:
+  :cite-key: VVK:2e1
   :END:
 
 
@@ -70,9 +70,9 @@
 * Vivekananda The Wonder-Warrior
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:2
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:2
   :END:
 
 
@@ -119,9 +119,9 @@ Nowhere else had this truth been proved so wonderfully as it was in the life of 
 * Vivekananda And His Master
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:3
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:3
   :END:
 
 
@@ -156,9 +156,9 @@ Sweetness and happiness are rarely found in carrying out earthly duties. No huma
 * Ramakrishna: Soul Of The East
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:4
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:4
   :END:
 
 
@@ -209,9 +209,9 @@ Sri Ramakrishna, to thee we offer our deepest homage. Our hearts feel that what 
 * The Child Of Kali
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:5
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:5
   :END:
 
 
@@ -267,9 +267,9 @@ He made bold to declare so on the strength of his supreme identification with hi
 * Two Mothers And A Son: Bhuvaneshwari, Sarada Devi, And Naren
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:6
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:6
   :END:
 
 
@@ -334,9 +334,9 @@ It is left to history alone to bear witness to these profoundly pathetic and sup
 * Vivekananda Speaks About Christ
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:7
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:7
   :END:
 
 
@@ -369,9 +369,9 @@ Christ’s body is Christianity. Christianity embodies humility. Vivekananda’s
 * Vivekananda And America
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:8
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:8
   :END:
 
 
@@ -404,9 +404,9 @@ It is indeed only when we live in this truth that we can bask in the glorious Su
 * Vivekananda And England
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:9
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:9
   :END:
 
 
@@ -453,9 +453,9 @@ The disciple of Sri Ramakrishna was a live spring of spiritual force. No hyperbo
 * Vivekananda In Pondicherry
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:10
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:10
   :END:
 
 
@@ -478,9 +478,9 @@ Few could really feel and appreciate his stupendous sacrifice for his Motherland
 * A Spiritual Giant And A Seer-Poet
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:11
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:11
   :END:
 
 
@@ -501,9 +501,9 @@ Verily, Vivekananda and Tagore were pilgrims to Infinity’s Shore, where the fi
 * The Spiritual Daughter Of Swami Vivekananda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VVK:12
+  :genre: discourse
+  :keywords:
+  :cite-key: VVK:12
   :END:
 
 
@@ -562,9 +562,9 @@ Napoleon’s dictionary did not house the word ‘impossibility’. and hers had
 * Poems
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: VVK:13e1
+  :genre: section
+  :keywords:
+  :cite-key: VVK:13e1
   :END:
 
 
@@ -576,9 +576,9 @@ Napoleon’s dictionary did not house the word ‘impossibility’. and hers had
 * The Following 39 Poems And Aphorisms Were...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: VVK:13e2
+  :genre: note
+  :keywords:
+  :cite-key: VVK:13e2
   :END:
 
 
@@ -591,9 +591,9 @@ Napoleon’s dictionary did not house the word ‘impossibility’. and hers had
 * 1. God’s Proud Possession Was...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:13
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:13
   :END:
 
 
@@ -613,9 +613,9 @@ Vivekananda’s modern dynamism-life.
 * 2. Sri Ramakrishna’s Proud Possession Was...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:14
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:14
   :END:
 
 
@@ -633,9 +633,9 @@ Naren.
 * 3. Mother India’s Proud Possession Was...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:15
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:15
   :END:
 
 
@@ -651,9 +651,9 @@ Vivekananda’s India-transformation-determination-fire.
 * 4. Vivekananda’s Proud Possession Was...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:16
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:16
   :END:
 
 
@@ -669,9 +669,9 @@ India’s oneness-heart-acceptance-delight.
 * 5. Chicago’s World Parliament Of Religions...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:17
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:17
   :END:
 
 
@@ -689,9 +689,9 @@ An Indian monk’s soul-dream-fragrance.
 * 6. Vivekananda Spoke Not Of...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:18
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:18
   :END:
 
 
@@ -711,9 +711,9 @@ Oneness-world-family-heart-home.
 * 7. Indeed, Vivekananda’s Was The World...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:19
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:19
   :END:
 
 
@@ -731,9 +731,9 @@ Self-giving-foundation.
 * 8. Stark Poverty Ruthlessly Tortured...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:20
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:20
   :END:
 
 
@@ -757,9 +757,9 @@ Embraced his heart-life-breath.
 * 9. Vivekananda Rocked And Drowned...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:21
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:21
   :END:
 
 
@@ -781,9 +781,9 @@ And God-fulness.
 * 10. Vivekananda’s Volcano-Eyes...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:22
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:22
   :END:
 
 
@@ -805,9 +805,9 @@ The illumination of ignorance-night.
 * 11. Vivekananda The Indomitable Spirit...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:23
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:23
   :END:
 
 
@@ -827,9 +827,9 @@ The beauty of Divinity’s strength.
 * 12. Vivekananda Told The World...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:24
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:24
   :END:
 
 
@@ -851,9 +851,9 @@ A new smiling face.
 * 13. What Did Vivekananda’s...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:25
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:25
   :END:
 
 
@@ -879,9 +879,9 @@ Enjoy the confidence-sunburst of your heart!”
 * 14. Vivekananda, The Clarion Call, Reverberates...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:26
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:26
   :END:
 
 
@@ -915,9 +915,9 @@ And the fulness of your inner progress.”
 * 15. When God Struck The Hour Of Vivekananda,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:27
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:27
   :END:
 
 
@@ -945,9 +945,9 @@ Of the world.
 * 16. To The Budding Spirituality-Seeker Vivekananda Said:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:28
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:28
   :END:
 
 
@@ -977,9 +977,9 @@ Infinity’s happiness will be all yours.”
 * 17. To Vivekananda Sri Ramakrishna Gave...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:29
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:29
   :END:
 
 
@@ -997,9 +997,9 @@ And his Soul’s realisation-fountain-smile.
 * 18. God The Creator...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:30
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:30
   :END:
 
 
@@ -1029,9 +1029,9 @@ Than approaching God the Creator first.
 * 19. Vivekananda Did Not Belong To The School...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:31
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:31
   :END:
 
 
@@ -1045,9 +1045,9 @@ Vivekananda did not belong to the school of thought that advises its students to
 * 20. Mischievous Were His Limbs;...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:32
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:32
   :END:
 
 
@@ -1069,9 +1069,9 @@ This was Vivekananda’s childhood.
 * 21. In Vivekananda’s School Days He Knew What...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:33
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:33
   :END:
 
 
@@ -1085,9 +1085,9 @@ In Vivekananda’s school days he knew what he was /not/ going to be in his late
 * 22. The Young Naren Loved And Admired God-Lovers...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:34
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:34
   :END:
 
 
@@ -1101,9 +1101,9 @@ The young Naren loved and admired God-lovers and wanted to become one himself. T
 * 23. O Chicago’s World Parliament Of Religions!...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:35
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:35
   :END:
 
 
@@ -1131,9 +1131,9 @@ Became your Golden Shore.
 * 24. Vivekananda Wanted Us To Pay No Heed...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:36
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:36
   :END:
 
 
@@ -1153,9 +1153,9 @@ In our heart-discovered virtues.
 * 25. Vivekananda Wanted Us...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:37
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:37
   :END:
 
 
@@ -1191,9 +1191,9 @@ Of our soul.
 * 26. Vivekananda Was Proud Of...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:38
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:38
   :END:
 
 
@@ -1219,9 +1219,9 @@ And singing and dancing with tomorrow’s visions.
 * 27. Vivekananda Realised Both God The Creator...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:39
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:39
   :END:
 
 
@@ -1253,9 +1253,9 @@ In the same breath.
 * 28. Vivekananda Told The World Not To Crave...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:40
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:40
   :END:
 
 
@@ -1269,9 +1269,9 @@ Vivekananda told the world not to crave a happy life, but to long for a spacious
 * 29. Vivekananda Warned Us...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:41
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:41
   :END:
 
 
@@ -1291,9 +1291,9 @@ The heart-union-religion-lovers.
 * 30. Vivekananda Wanted Us To Blow...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:42
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:42
   :END:
 
 
@@ -1311,9 +1311,9 @@ And not enjoy whisper-whimper-religion.
 * 31. Vivekananda’s Was Not The Highway...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:43
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:43
   :END:
 
 
@@ -1333,9 +1333,9 @@ Of religion-expansion-promotion.
 * 32. According To Vivekananda, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:44
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:44
   :END:
 
 
@@ -1357,9 +1357,9 @@ Division-destruction-freedom.
 * 33. “O Human Mind, ” Vivekananda Voiced Forth,...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:45
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:45
   :END:
 
 
@@ -1383,9 +1383,9 @@ And in the illumining sea of God-faith?”
 * 34. Two Stoic Commands Vivekananda Made:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:46
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:46
   :END:
 
 
@@ -1403,9 +1403,9 @@ Open the heart of assertion!”
 * 35. Vivekananda Became....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:47
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:47
   :END:
 
 
@@ -1425,9 +1425,9 @@ In the World Parliament of Religions.
 * 36. Vivekananda Became....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:48
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:48
   :END:
 
 
@@ -1445,9 +1445,9 @@ In the oneness-religion-freedom-heartbeats.
 * 37. God-Worshippers Worshipping...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:49
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:49
   :END:
 
 
@@ -1473,9 +1473,9 @@ He saw nowhere to be found.
 * 38. Vivekananda Wanted...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:50
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:50
   :END:
 
 
@@ -1495,9 +1495,9 @@ Mankind’s heart-love-prayers.
 * 39. The Religion-Mongers Admired Vivekananda, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VVK:51
+  :genre: poem
+  :keywords:
+  :cite-key: VVK:51
   :END:
 
 
@@ -1517,9 +1517,9 @@ The world-telephone-communicator.
 * Stories
 
   :PROPERTIES:
-  :GENRE: stories
-  :KEYWORDS:
-  :CITE-KEY: VVK:52
+  :genre: stories
+  :keywords:
+  :cite-key: VVK:52
   :END:
 
 
@@ -1527,9 +1527,9 @@ The world-telephone-communicator.
 * The Child Narendranath
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: VVK:53
+  :genre: story
+  :keywords:
+  :cite-key: VVK:53
   :END:
 
 
@@ -1562,9 +1562,9 @@ His mother’s heart was full of joy and delight. She embraced her son and shed 
 * God Comes First In My Life
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: VVK:54
+  :genre: story
+  :keywords:
+  :cite-key: VVK:54
   :END:
 
 
@@ -1587,9 +1587,9 @@ We practise kundalini yoga in order to get power of one kind or another. But if 
 * Swami Vivekananda Smokes With An Untouchable
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: VVK:55
+  :genre: story
+  :keywords:
+  :cite-key: VVK:55
   :END:
 
 
@@ -1614,9 +1614,9 @@ The old man fearfully and, at the same time, happily gave the hookah to Swami Vi
 * The Sannyasin In America
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: VVK:56
+  :genre: story
+  :keywords:
+  :cite-key: VVK:56
   :END:
 
 

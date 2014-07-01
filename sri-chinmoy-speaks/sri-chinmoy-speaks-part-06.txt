@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0278
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-6
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0278
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-6
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCS:138e1
+  :genre: note
+  :keywords:
+  :cite-key: SCS:138e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Part I - New Year's Message
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:138e2
+  :genre: section
+  :keywords:
+  :cite-key: SCS:138e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * Commentary on the New Year's Message 1976
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:138
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:138
   :END:
 
 
@@ -70,9 +70,9 @@ Now I wish each of you to stand up for a second and tell what you would like to 
 * Question: Does this New Year's Message apply to the world at large, or primarily to your disciples?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:139
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:139
   :END:
 
 
@@ -85,9 +85,9 @@ Unfortunately, we do not pay enough attention to the new year which takes place 
 * Question: Usually I think of self-doubt as the human quality and self-indulgence as the animal quality in us.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:140
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:140
   :END:
 
 
@@ -102,9 +102,9 @@ So doubt is the animal in us because it is total destruction. If we doubt oursel
 * Question: When I see myself cherishing indulgence and I start doubting my sincerity, what should I do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:141
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:141
   :END:
 
 
@@ -115,9 +115,9 @@ So doubt is the animal in us because it is total destruction. If we doubt oursel
 * Question: What are the forms of self-indulgence that we must transform?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:142
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:142
   :END:
 
 
@@ -128,9 +128,9 @@ So doubt is the animal in us because it is total destruction. If we doubt oursel
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:143
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:143
   :END:
 
 
@@ -151,9 +151,9 @@ This year has been a year of achievement. At the same time, we have seen the so-
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:144
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:144
   :END:
 
 
@@ -172,9 +172,9 @@ So let us be very divine and careful. We have not yet been assailed by the destr
 * Part II - Talks
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:145e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:145e1
   :END:
 
 
@@ -182,9 +182,9 @@ So let us be very divine and careful. We have not yet been assailed by the destr
 * Receptivity and assimilation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:145
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:145
   :END:
 
 
@@ -213,9 +213,9 @@ In the past, when we used to hold meditations in Manhattan, right after meditati
 * Meditation experiences
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:146
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:146
   :END:
 
 
@@ -232,9 +232,9 @@ If a particular person doesn't receive, the highest consciousness that has been 
 * Part III - Questions and answers on meditation
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:147e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:147e1
   :END:
 
 
@@ -242,9 +242,9 @@ If a particular person doesn't receive, the highest consciousness that has been 
 * Question: How do you meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:147
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:147
   :END:
 
 
@@ -257,9 +257,9 @@ So I tell my disciples outwardly that they should offer their thoughts and ideas
 * Question: Can we feel the experience that you have offered our souls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:148
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:148
   :END:
 
 
@@ -270,9 +270,9 @@ So I tell my disciples outwardly that they should offer their thoughts and ideas
 * Question: If I want to do /japa/, should I chant your name, or 'Aum' or 'Supreme'?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:149
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:149
   :END:
 
 
@@ -283,9 +283,9 @@ So I tell my disciples outwardly that they should offer their thoughts and ideas
 * Question: You said the Invocation is our mantra and our realisation. If I want to do /japa/ by singing the Invocation, how many repetitions should I do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:150
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:150
   :END:
 
 
@@ -296,9 +296,9 @@ So I tell my disciples outwardly that they should offer their thoughts and ideas
 * Question: Guru, I sometimes say the Gayatri Mantra even though I am your disciple. Am I doing the right thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:151
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:151
   :END:
 
 
@@ -313,9 +313,9 @@ I would be very happy if you could learn the tune that I have set to the Gayatri
 * Question: When I'm trying to offer gratitude while I'm meditating and I'm not feeling sincere, should I keep trying or should I stop?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:152
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:152
   :END:
 
 
@@ -326,9 +326,9 @@ I would be very happy if you could learn the tune that I have set to the Gayatri
 * Question: To attain joy, should we always meditate the same way as we do in the Centre?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:153
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:153
   :END:
 
 
@@ -339,9 +339,9 @@ I would be very happy if you could learn the tune that I have set to the Gayatri
 * Part IV - Questions and answers on discipleship
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:154e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:154e1
   :END:
 
 
@@ -349,9 +349,9 @@ I would be very happy if you could learn the tune that I have set to the Gayatri
 * Question: How can I become your disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:154
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:154
   :END:
 
 
@@ -362,9 +362,9 @@ I would be very happy if you could learn the tune that I have set to the Gayatri
 * Question: If someone wants to become your disciple, is it necessary for you to see the person's picture or actually see the person in the physical?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:155
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:155
   :END:
 
 
@@ -377,9 +377,9 @@ The reason I ask seekers to send in a picture is for the human aspect. If they t
 * Question: If somebody were to be awakened in the middle of the night and hear a clear voice say, "Come to me. /I/ am your Teacher," how would he interpret it? Is this a kind of initiation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:156
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:156
   :END:
 
 
@@ -396,9 +396,9 @@ I have three or four disciples whose Guru passed away three or four years ago. T
 * Question: What is the essential quality which a seeker needs in order to enter into your path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:157
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:157
   :END:
 
 
@@ -411,9 +411,9 @@ There are many paths and many Masters, but each path has a special quality of it
 * Question: I find it very difficult to be a student and your disciple at the same time. Sometimes I become very tense over my studies.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:158
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:158
   :END:
 
 
@@ -424,9 +424,9 @@ There are many paths and many Masters, but each path has a special quality of it
 * Question: My friend is not a disciple. She has begun to meditate on your picture and she feels great fear.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:159
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:159
   :END:
 
 
@@ -439,9 +439,9 @@ If one can obliterate the past and be ready to enter into the new, the ever-new,
 * Question: You use the word 'seeker'. When does the seeker cease seeking and become a disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:160
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:160
   :END:
 
 
@@ -456,9 +456,9 @@ Each teacher has a specific way of bringing the disciple's soul to the fore. Eac
 * Question: I showed my grandmother your picture, but she is getting very old and senile, and I don't know if she received anything.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:161
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:161
   :END:
 
 
@@ -469,9 +469,9 @@ Each teacher has a specific way of bringing the disciple's soul to the fore. Eac
 * Question: I believe very much in the emancipation of religion, but I'm Roman Catholic and I just wonder about serving two Masters. Can I also become your disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:162
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:162
   :END:
 
 
@@ -488,9 +488,9 @@ When we follow a path, we do not encourage any seeker to look down on religion. 
 * Question: Before I was a disciple I was studying Tarot and the Kabbalah. Does it conflict with our path if I continue to do so?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:163
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:163
   :END:
 
 
@@ -501,9 +501,9 @@ When we follow a path, we do not encourage any seeker to look down on religion. 
 * Question: If someone is always away from the spiritual Centre, what is the best way to keep up with the other disciples?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:164
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:164
   :END:
 
 
@@ -514,9 +514,9 @@ When we follow a path, we do not encourage any seeker to look down on religion. 
 * Question: Since entering the spiritual life, I feel I don't want to spend time with my old friends. But I feel sad about not seeing them so often.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:165
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:165
   :END:
 
 
@@ -529,9 +529,9 @@ Those people have many friends of their own standard, so do not feel sorry; do n
 * Part V -- Informal talks
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:166e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:166e1
   :END:
 
 
@@ -539,9 +539,9 @@ Those people have many friends of their own standard, so do not feel sorry; do n
 * The Master's fragrance
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:166
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:166
   :END:
 
 
@@ -558,9 +558,9 @@ So when our consciousness is a little high, we receive when the spiritual Master
 * The power of thought
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:167
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:167
   :END:
 
 
@@ -577,9 +577,9 @@ When someone's enemies are already inside him, he has to fight very hard. If the
 * Sincerity and obedience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:168
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:168
   :END:
 
 
@@ -594,9 +594,9 @@ If you are a little afraid of me, then tomorrow you will have a little obedience
 * Cherishing something unconsciously
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:169
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:169
   :END:
 
 
@@ -613,9 +613,9 @@ Enter into the game and see; maybe somebody will teach you how to play. Enter in
 * Telling secrets to the master
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:170
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:170
   :END:
 
 

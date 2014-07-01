@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0919
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCUS
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 0919
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: SCUS
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCUS:1e1
+  :genre: note
+  :keywords:
+  :cite-key: SCUS:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Sri Chinmoy With His Upper-Storey-Weak Students
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCUS:1e2
+  :genre: section
+  :keywords:
+  :cite-key: SCUS:1e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * Miguel
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:1
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:1
   :END:
 
 
@@ -66,9 +66,9 @@
 * Sal
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:2
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:2
   :END:
 
 
@@ -85,9 +85,9 @@
 * Max
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:3
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:3
   :END:
 
 
@@ -104,9 +104,9 @@
 * Horst
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:4
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:4
   :END:
 
 
@@ -119,9 +119,9 @@
 * Bob
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:5
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:5
   :END:
 
 
@@ -134,9 +134,9 @@
 * William
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:6
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:6
   :END:
 
 
@@ -165,9 +165,9 @@
 * William
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:7
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:7
   :END:
 
 
@@ -184,9 +184,9 @@
 * Casey
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:8
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:8
   :END:
 
 
@@ -207,9 +207,9 @@
 * Alan
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:9
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:9
   :END:
 
 
@@ -230,9 +230,9 @@
 * Phyllis
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:10
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:10
   :END:
 
 
@@ -253,9 +253,9 @@
 * Phyllis
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:11
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:11
   :END:
 
 
@@ -268,9 +268,9 @@
 * Teresa
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:12
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:12
   :END:
 
 
@@ -283,9 +283,9 @@
 * Karen
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:13
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:13
   :END:
 
 
@@ -298,9 +298,9 @@
 * Yuri
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:14
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:14
   :END:
 
 
@@ -313,9 +313,9 @@
 * Steve
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:15
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:15
   :END:
 
 
@@ -334,9 +334,9 @@
 * Bernie
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SCUS:16
+  :genre: story
+  :keywords:
+  :cite-key: SCUS:16
   :END:
 
 

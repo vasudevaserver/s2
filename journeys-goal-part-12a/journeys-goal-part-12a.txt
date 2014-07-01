@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 438
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-12A
-  :GENRE: song
+  :book-number: 438
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-12A
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:412e1
+  :genre: note
+  :cite-key: JGS:412e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:412e2
+  :genre: note
+  :cite-key: JGS:412e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bela Chale Jai Ai.. Ar Deri Noy Samai Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:412
+  :cite-key: JGS:412
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Bhiti anibar kanna apar
 * Charan Tale Asan Pele Kichui Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:413
+  :cite-key: JGS:413
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ Ar kabhu ma kandbona
 * Charidike Moher Abaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:414
+  :cite-key: JGS:414
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Nahi shuni ashar giti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:415
+  :cite-key: JGS:415
   :END:
 
 #+BEGIN_VERSE
@@ -118,10 +118,10 @@ I hear not the song of hope.
 * Dak Diyecho Tomar Kache Jaini Hat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:416
+  :cite-key: JGS:416
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Tumi achho tomar khamar abhai
 * Egiye Chal Egiye Chal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:417
+  :cite-key: JGS:417
   :END:
 
 #+BEGIN_VERSE
@@ -155,10 +155,10 @@ Egiye chal kiser bhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:418
+  :cite-key: JGS:418
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Let us march on!
 * Jatri Sabe Amai Chere Gela Chali Cheye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:419
+  :cite-key: JGS:419
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Ami habo prabhur khama kripar dhara
 * Jiban Amar Dhanya Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:420
+  :cite-key: JGS:420
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Asbe amar pane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:421
+  :cite-key: JGS:421
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ With His Eternity’s Compassion-Flow.
 * Jiban Amar Purna Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:422
+  :cite-key: JGS:422
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Trishito e prane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:423
+  :cite-key: JGS:423
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Inside my thirsty heart.
 * Kato Katha Shunechi Ei Kane Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:424
+  :cite-key: JGS:424
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Bhitar bahir taito amar kalo
 * Kemane Ta Bali Ki Dekhechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:425
+  :cite-key: JGS:425
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ More chhali chhali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:426
+  :cite-key: JGS:426
   :END:
 
 #+BEGIN_VERSE
@@ -336,10 +336,10 @@ Playing cleverly deception-game.
 * Kon Debata Khule Dilo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:427
+  :cite-key: JGS:427
   :END:
 
 #+BEGIN_VERSE
@@ -354,10 +354,10 @@ Ami sabakar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:428
+  :cite-key: JGS:428
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Are claiming me as their own.
 * Maha Shunye Sabe Mishe Maha Shunya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:429
+  :cite-key: JGS:429
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Dharbe duhat abasheshe
 * Mundamalir Lagi Amar Ganthe Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:430
+  :cite-key: JGS:430
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Amar mathar pahar ahankar
 * Nai Samasya Nai Samadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:431
+  :cite-key: JGS:431
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Dilo more aji karunar har
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:432
+  :cite-key: JGS:432
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ With the garland of Compassion.
 * Pran Ki Chahe Janena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:433
+  :cite-key: JGS:433
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Tomar khama magena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:434
+  :cite-key: JGS:434
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Your Forgiveness-Light.
 * Praner Thakur Tomar Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:435
+  :cite-key: JGS:435
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ Bhugo karma phal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:436
+  :cite-key: JGS:436
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Of Your Action-Deeds?
 * Sabar Prane Sugopane Thako
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:437
+  :cite-key: JGS:437
   :END:
 
 #+BEGIN_VERSE
@@ -549,10 +549,10 @@ Manab hiyai asim khudha rakho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:438
+  :cite-key: JGS:438
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ In the depth of all human hearts.
 * Shanti Shanti Karli Katha Shanti Peli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:439
+  :cite-key: JGS:439
   :END:
 
 #+BEGIN_VERSE
@@ -593,10 +593,10 @@ Tomar hiyar dware
 * Sindhu Jeman Ar Kichu Noi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:440
+  :cite-key: JGS:440
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ Shudhu kathar chhal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:441
+  :cite-key: JGS:441
   :END:
 
 #+BEGIN_VERSE
@@ -633,10 +633,10 @@ Man’s thought-trickeries.
 * Ami Ankhi Druta Gati Uri Akashe Ami Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:442
+  :cite-key: JGS:442
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Ami hiya animeshe bhasi batase
 * Ami Thaki Epare Tumi Thako Opare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:443
+  :cite-key: JGS:443
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ Taito hiyai premer bal
 * Ase Kebal Parer Truti Kane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:444
+  :cite-key: JGS:444
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Kurup hasi jage amar prane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:445
+  :cite-key: JGS:445
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Inside my sealed heart.
 * Asha Moye Dakle Kena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:446
+  :cite-key: JGS:446
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Supta hiya bandhbe tomai ghumer ghore
 * Ashar Sathe Asha Haye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:447
+  :cite-key: JGS:447
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ Asimatar gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:448
+  :cite-key: JGS:448
   :END:
 
 #+BEGIN_VERSE
@@ -766,10 +766,10 @@ Infinity’s Song.
 * Bhalobasi Dharanire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:449
+  :cite-key: JGS:449
   :END:
 
 #+BEGIN_VERSE
@@ -786,10 +786,10 @@ Anbo ami asim sudha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:450
+  :cite-key: JGS:450
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Infinity’s Nectar-Delight.
 * Charan Tale Asan Pele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:451
+  :cite-key: JGS:451
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Moher deshe dhukbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:452
+  :cite-key: JGS:452
   :END:
 
 #+BEGIN_VERSE
@@ -845,10 +845,10 @@ And never enter into the attachment-world.
 * Charte Habe Charte Habe Malin Ahankar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:453
+  :cite-key: JGS:453
   :END:
 
 #+BEGIN_VERSE
@@ -864,10 +864,10 @@ Thakte habe nirab guhai mukh dekhano bhar
 * Dakchhe More Anurage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:454
+  :cite-key: JGS:454
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ Bhitar bahir premer bati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:455
+  :cite-key: JGS:455
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +903,10 @@ Have grown into love-flame-lights.
 * Ghuri Deshe Deshe Kandi Animeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:456
+  :cite-key: JGS:456
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +922,10 @@ Sukampan
 * Je Utheche Uthar Sheshe Sthan Peyeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:457
+  :cite-key: JGS:457
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ Timir gabhir moher deshe
 * Jiban Nadi Kon Pathe Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:458
+  :cite-key: JGS:458
   :END:
 
 #+BEGIN_VERSE
@@ -961,10 +961,10 @@ Ke jane ke jane go ke jane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:459
+  :cite-key: JGS:459
   :END:
 
 #+BEGIN_VERSE
@@ -985,10 +985,10 @@ Who knows, Oh, who knows?
 * Karo Bhalo Dekhena Mor Ankhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:460
+  :cite-key: JGS:460
   :END:
 
 #+BEGIN_VERSE
@@ -1001,10 +1001,10 @@ Base bhalo mithya maya phanki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:461
+  :cite-key: JGS:461
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ Deception-volcano.
 * Ke Habe Mor Pather Sathi Prabhat Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:462
+  :cite-key: JGS:462
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Samukhe mor ashar pathar
 * Kena Hetha Ami Esechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:463
+  :cite-key: JGS:463
   :END:
 
 #+BEGIN_VERSE
@@ -1061,10 +1061,10 @@ Kena kena kena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:464
+  :cite-key: JGS:464
   :END:
 
 #+BEGIN_VERSE
@@ -1084,10 +1084,10 @@ Why? Why? Why?
 * Kothai Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:465
+  :cite-key: JGS:465
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ Bhengechhe amar agyan bhiti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:466
+  :cite-key: JGS:466
   :END:
 
 #+BEGIN_VERSE
@@ -1129,10 +1129,10 @@ Of my ignorance-night.
 * Manase Abar Samasya Jame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:467
+  :cite-key: JGS:467
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Maran nachan bhitare bahire prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:468
+  :cite-key: JGS:468
   :END:
 
 #+BEGIN_VERSE
@@ -1169,10 +1169,10 @@ O my Lord Supreme.
 * Nai Je Kathi Nai Je Kathi Shudhu Dekhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:469
+  :cite-key: JGS:469
   :END:
 
 #+BEGIN_VERSE
@@ -1190,10 +1190,10 @@ Dilo more jyotir dhara
 * Shata Kusum Jhare Pare Lakka Kusum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:470
+  :cite-key: JGS:470
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ Hajar urmi uthe
 * Achhe Bedan Achhe Rog Shok
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:471
+  :cite-key: JGS:471
   :END:
 
 #+BEGIN_VERSE
@@ -1228,10 +1228,10 @@ Anke prabhur param chhabi
 * Ami Kebal Ami Kebal Taito Kothao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:472
+  :cite-key: JGS:472
   :END:
 
 #+BEGIN_VERSE
@@ -1247,10 +1247,10 @@ Dibanishi dekhte nahi pai
 * Anek Diyechho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:473
+  :cite-key: JGS:473
   :END:
 
 #+BEGIN_VERSE
@@ -1266,10 +1266,10 @@ Ogo ananda pratima
 * Asha Diye Kachhe Dako
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:474
+  :cite-key: JGS:474
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ Raho dure param sudha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:475
+  :cite-key: JGS:475
   :END:
 
 #+BEGIN_VERSE
@@ -1309,10 +1309,10 @@ Immortality’s Nectar Supreme.
 * Asha Tarir Pichhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:476
+  :cite-key: JGS:476
   :END:
 
 #+BEGIN_VERSE
@@ -1327,10 +1327,10 @@ Pabi ki hai phire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:477
+  :cite-key: JGS:477
   :END:
 
 #+BEGIN_VERSE
@@ -1348,10 +1348,10 @@ My long-lost Nectar-Peace?
 * Bane Bane Kusum Phute Kanpe Nabin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:478
+  :cite-key: JGS:478
   :END:
 
 #+BEGIN_VERSE
@@ -1367,10 +1367,10 @@ Garbito mor matha
 * Pathe Pathe Shunya Chokhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:479
+  :cite-key: JGS:479
   :END:
 
 #+BEGIN_VERSE
@@ -1385,10 +1385,10 @@ Chahe aj kahare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:480
+  :cite-key: JGS:480
   :END:
 
 #+BEGIN_VERSE
@@ -1404,10 +1404,10 @@ For whom my heart is pining?
 * Praner Thakur Praner Thakur Dekhbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:481
+  :cite-key: JGS:481
   :END:
 
 #+BEGIN_VERSE
@@ -1423,10 +1423,10 @@ Hajar pahar phanki
 * Prashna Trishal Mane Jage Taito Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:482
+  :cite-key: JGS:482
   :END:
 
 #+BEGIN_VERSE
@@ -1442,10 +1442,10 @@ Rakhbo satye purobhage
 * Sabar Sheshe Sabar Niche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:483
+  :cite-key: JGS:483
   :END:
 
 #+BEGIN_VERSE
@@ -1460,10 +1460,10 @@ Nahi jena hari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:484
+  :cite-key: JGS:484
   :END:
 
 #+BEGIN_VERSE
@@ -1480,10 +1480,10 @@ I do not lose.
 * Tomare Ami Cheyechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:485
+  :cite-key: JGS:485
   :END:
 
 #+BEGIN_VERSE
@@ -1498,10 +1498,10 @@ Man diye hai hridayer chhalechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:486
+  :cite-key: JGS:486
   :END:
 
 #+BEGIN_VERSE
@@ -1520,10 +1520,10 @@ My heart-life.
 * Bahir Haite Antar Mukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:487
+  :cite-key: JGS:487
   :END:
 
 #+BEGIN_VERSE
@@ -1538,10 +1538,10 @@ Diyechho kripar dan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1980
-  :CITE-KEY: JGS:488
+  :cite-key: JGS:488
   :END:
 
 #+BEGIN_VERSE

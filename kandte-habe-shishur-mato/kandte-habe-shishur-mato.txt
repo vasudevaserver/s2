@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1115
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1996
-  :PUBLISHER:
-  :CITE-KEY: KHSM
-  :GENRE: song
+  :book-number: 1115
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1996
+  :publisher:
+  :cite-key: KHSM
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KHSM:1e1
+  :genre: note
+  :cite-key: KHSM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KHSM:1e2
+  :genre: note
+  :cite-key: KHSM:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Akashe Batase Shuni
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:1
+  :cite-key: KHSM:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Tripta hayeche amar hridaya khani
 * Nirabata Sathe Khelite Chahigo Nirabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:2
+  :cite-key: KHSM:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Sangsaya mane rakhibo sudure ami dibarate
 * Shunte Habe Bishwa Mayer Bishesh Adesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:3
+  :cite-key: KHSM:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Chaho jadi asimatar mukti bishesh
 * Kandte Habe Shishur Mato Pratikhane Ta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:4
+  :cite-key: KHSM:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Ta na hale bhugte habe achetane
 * Chutte Habe Dibanishi Alor Sandhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:5
+  :cite-key: KHSM:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Phutte habe prati bhore hiya bagane
 * Nirabe Janabo Hriday Gabhire Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:6
+  :cite-key: KHSM:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Puma karogo asahai mama minati
 * Chahi Ami Chintar Samapan Magi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:7
+  :cite-key: KHSM:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Magi ami nirabata udayan
 * Jabo Ami Jabo Ami Hiya Pure Tushbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:8
+  :cite-key: KHSM:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Tushbo ami prabhure mor ganer sure
 * Chitta Aji Nritya Kare Bhatir Bajare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:9
+  :cite-key: KHSM:9
   :END:
 
 #+BEGIN_VERSE
@@ -193,10 +193,10 @@ Paran bhare dekhbo sethai bishwa rajare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1995
-  :CITE-KEY: KHSM:10
+  :cite-key: KHSM:10
   :END:
 
 #+BEGIN_VERSE
@@ -210,10 +210,10 @@ I shall unreservedly see the King of creation.
 * Jatoi Daki Tatoi Tripti Pai Agyanata Chere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:11
+  :cite-key: KHSM:11
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Agyanata chere amai jai
 * Ami Amar Barai Piradayi Amar Sakal Trutir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:12
+  :cite-key: KHSM:12
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Amar sakal trutir tara dayi
 * Nahi Jani Hai Keno Thaki Mora Basanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:13
+  :cite-key: KHSM:13
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Santar katite paribona kabhu ananda parabare
 * Pushpa Sama Phutbe Hiya Tomar Pada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:14
+  :cite-key: KHSM:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Tushbo ami pratikhane atmahutir bale
 * Bhakati Dao Bhakati Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:15
+  :cite-key: KHSM:15
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Bhul kareo tomai chere na jai jeno kabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:16
+  :cite-key: KHSM:16
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Devotion to satisfy You.
 * Tumi Amai Balo Mago Karte Tomar Kaj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:17
+  :cite-key: KHSM:17
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Tomar karma karte keno pai je ami laj
 * Asat Pathe Chale Jara Asat Pathe Keman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:18
+  :cite-key: KHSM:18
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Keman kare charbe tara jyotir rathe
 * Ami Asahai Chira Asahai Ei Kotha Bhebe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:19
+  :cite-key: KHSM:19
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Jagiya uthite chahigo janani tomar charan smari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:20
+  :cite-key: KHSM:20
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Helpless, always helpless...
 * Sakaler Sathe Hasiya Kheliya Jahara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:21
+  :cite-key: KHSM:21
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ Karunamoyer karuna tader baran karibe
 * Amar Hiyar Bishalata Parabar Hao Go Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:22
+  :cite-key: KHSM:22
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Hao go ajike dharar ashrudhar
 * Jara Amai Bhalobase Sathe Jara Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:23
+  :cite-key: KHSM:23
   :END:
 
 #+BEGIN_VERSE
@@ -428,10 +428,10 @@ Saphal habe jiban tader atmadaner bale
 * Dak Eseche Dak Eseche Amar Desher Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:24
+  :cite-key: KHSM:24
   :END:
 
 #+BEGIN_VERSE
@@ -445,10 +445,10 @@ Pather shato bandar bandhan dure phele rakh
 * Chinta Bihin Maner Lagi Kande Jara Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:25
+  :cite-key: KHSM:25
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ Pabe tara pabe tara alor dhara
 * Ogo Mor Hridayer Gabhirata Pabe Tumi Ek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:26
+  :cite-key: KHSM:26
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Pabe tumi ek din saphalata
 * Keno Kari Deri Hai Keno Kari Deri Bajate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:27
+  :cite-key: KHSM:27
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Bajate mayer chira bijoyer bheri
 * Bahan Kare Hiya Amar Shathek Juger Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:28
+  :cite-key: KHSM:28
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Asha majhe phute amar bibhur bhalobasa
 * Daki Tomai Nirabata Tomai Daki Tumi Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:29
+  :cite-key: KHSM:29
   :END:
 
 #+BEGIN_VERSE
@@ -530,10 +530,10 @@ Tumi kebal dao na kabhu more phanki
 * Ami Habo Hiya Pure Kebal Hasi Shunbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:30
+  :cite-key: KHSM:30
   :END:
 
 #+BEGIN_VERSE
@@ -547,10 +547,10 @@ Shunbo sethai kanurayer bijoy banshi
 * Supti Amai Jaina Chere Kabhu Taito Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:31
+  :cite-key: KHSM:31
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Taito dure bahu dure prabhu
 * Dak Eseche Kothai Jabo Janina Chalar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:32
+  :cite-key: KHSM:32
   :END:
 
 #+BEGIN_VERSE
@@ -581,10 +581,10 @@ Chalar pathe jeno mora thamina
 * Bhabi Kebal Dibanishi Amar Katha Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1995
-  :CITE-KEY: KHSM:33
+  :cite-key: KHSM:33
   :END:
 
 #+BEGIN_VERSE
@@ -598,10 +598,10 @@ Taito prane pratikhane asim byetha
 * Shyama.. Tumi Amar Ma Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:34
+  :cite-key: KHSM:34
   :END:
 
 #+BEGIN_VERSE
@@ -615,10 +615,10 @@ Tumi amar ma ma
 * Tomar Lagiya Sabare Tyejechi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:35
+  :cite-key: KHSM:35
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Kotha tumi ogo balo
 * Heribo Amare Tomar Nayane Heribo Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:36
+  :cite-key: KHSM:36
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Dharibo tomare dharibo
 * Heri Tomar Alor Nachan Ek Halo Mor Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:37
+  :cite-key: KHSM:37
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ Ek halo mor maran bachan
 * Amar Hiyar Jyotir Kole Rabi Shashi Dole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:38
+  :cite-key: KHSM:38
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Rabi shashi dole dole
 * Oi Je Birat Nil Gagane Urte Chahi Prati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:39
+  :cite-key: KHSM:39
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Urte chahi pratikhane
 * Hiya Bale Ati Bhalo Man Bale Tumi Kalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:40
+  :cite-key: KHSM:40
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Man bale tumi kurupa
 * Dibas Rati Bhikkha Kari Basana Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:41
+  :cite-key: KHSM:41
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Bhagna hiyai dharbo tomar charan tari
 * Man Je Bale Tumi Elo Keshi Hiya Bale Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:42
+  :cite-key: KHSM:42
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Hiya bale tumi dhabal shashi
 * Bholar Mato Habo Ami Atma Bhola Chitta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1995
-  :CITE-KEY: KHSM:43
+  :cite-key: KHSM:43
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Chitta amar animeshe rakhbo khola
 * Base Achi Tomar Dekha Pete Kende Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:44
+  :cite-key: KHSM:44
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Kende mari tomar sathe khete
 * Aro Kache Ese Dhara Dao More Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:45
+  :cite-key: KHSM:45
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Chahina thakite tomare bhuliya kabhu
 * Tomar Katha Shunte Nahi Chai Tabu Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:46
+  :cite-key: KHSM:46
   :END:
 
 #+BEGIN_VERSE
@@ -825,10 +825,10 @@ Tabu tomar sneha pete chai
 * Mayer Katha Balte Barai Bhalo Lage Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:47
+  :cite-key: KHSM:47
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ Mayer puja kari barai anurage
 * Tomai Janate Hiyar Pranati Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:48
+  :cite-key: KHSM:48
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Dao more prabhu ashesh shakati
 * Dayamoyi Eso Mago Dayamoyi Kripa Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:49
+  :cite-key: KHSM:49
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ Krip karo hate chahi atmajoyi
 * Tomar Ruper Jyotir Dhara Dekhe Halem
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:50
+  :cite-key: KHSM:50
   :END:
 
 #+BEGIN_VERSE
@@ -893,10 +893,10 @@ Dekhe halem atma hara
 * Taba Amrita Charaner Dhuli Nilam Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:51
+  :cite-key: KHSM:51
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ Nilam ajike shiro pare tuli
 * Chahina Chahina E Bishal Bhabe Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:52
+  :cite-key: KHSM:52
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +929,10 @@ Sakal chaowa paowa
 * Jegechi Aj Nabin Asha Niye Dhanya Halem
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:53
+  :cite-key: KHSM:53
   :END:
 
 #+BEGIN_VERSE
@@ -946,10 +946,10 @@ Dhanya halem nijere aji diye
 * Maner Hajar Bhoja Niye Ghure Berai Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:54
+  :cite-key: KHSM:54
   :END:
 
 #+BEGIN_VERSE
@@ -963,10 +963,10 @@ Mago tomar kripar plaban chaigo chai
 * Kalushita Man Aji Baro Bhari Dekha Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:55
+  :cite-key: KHSM:55
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Dekha dao ogo bhaba kandari
 * Charan Duti Dao Go Mago Charan Duti Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:56
+  :cite-key: KHSM:56
   :END:
 
 #+BEGIN_VERSE
@@ -997,10 +997,10 @@ Ar katokal karbo balo chuto chuti
 * Ogo Jogi Maha Jogi Bhola Tomar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:57
+  :cite-key: KHSM:57
   :END:
 
 #+BEGIN_VERSE
@@ -1014,10 +1014,10 @@ Tomar lagi hriday aji khola
 * Nil Gagane Heri Alo Nachan Churna Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:58
+  :cite-key: KHSM:58
   :END:
 
 #+BEGIN_VERSE
@@ -1031,10 +1031,10 @@ Churna halo maner sakal bandhan
 * Haste Gele Kandi Kebal Kandi Khulte Gele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:59
+  :cite-key: KHSM:59
   :END:
 
 #+BEGIN_VERSE
@@ -1048,10 +1048,10 @@ Khulte gele bandhi kebal bandhi
 * Jete Habe Jete Habe Dure Bahu Dure Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:60
+  :cite-key: KHSM:60
   :END:
 
 #+BEGIN_VERSE
@@ -1065,10 +1065,10 @@ Phire ese sajaite mor hiya pure
 * Bhitare Bahire Atmatyager Brato Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:61
+  :cite-key: KHSM:61
   :END:
 
 #+BEGIN_VERSE
@@ -1082,10 +1082,10 @@ Purna haibe jibaner manoratho
 * Praner Katha Balte Chahi Kintu Kahare Se
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:62
+  :cite-key: KHSM:62
   :END:
 
 #+BEGIN_VERSE
@@ -1099,10 +1099,10 @@ Se je dure bahu dure bhabi jahare
 * Shanti Lagi Kandi Jakhan Pai Ashanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1995
-  :CITE-KEY: KHSM:63
+  :cite-key: KHSM:63
   :END:
 
 #+BEGIN_VERSE

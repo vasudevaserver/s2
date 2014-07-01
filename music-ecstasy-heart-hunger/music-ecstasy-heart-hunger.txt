@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0973
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MEHH
-  :GENRE: poem, discourse
-  :KEYWORDS:
+  :book-number: 0973
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: MEHH
+  :genre: poem, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Johann Sebastian Bach
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:1
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:1
   :END:
 
 
@@ -56,9 +56,9 @@ The immortal utterance of music-sovereign Bach runs:
 * Johann Sebastian Bach
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:2
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:2
   :END:
 
 
@@ -77,9 +77,9 @@ He speaks through a village organist:
 * Johann Sebastian Bach
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:3
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:3
   :END:
 
 
@@ -102,9 +102,9 @@ To follow devotedly in his footsteps.
 * Leonard Bernstein
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:4
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:4
   :END:
 
 
@@ -136,9 +136,9 @@ In you is superbly genuine.
 * Ludwig Van Beethoven
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:5
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:5
   :END:
 
 
@@ -168,9 +168,9 @@ This world of ours and its heart are absolutely at one with the admirer-mourner-
 * Ludwig Van Beethoven
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:6
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:6
   :END:
 
 
@@ -203,9 +203,9 @@ O critic in Eduard Hanslick, we are not ready to hear from you what you have to 
 * Franz Peter Schubert
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MEHH:7
+  :genre: poem
+  :keywords:
+  :cite-key: MEHH:7
   :END:
 
 
@@ -240,9 +240,9 @@ To be treasured eternally by earth.
 * Franz Peter Schubert
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:8
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:8
   :END:
 
 
@@ -261,9 +261,9 @@ Indeed, your suffering-life is the world's tragedy-experience.
 * Franz Peter Schubert
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:9
   :END:
 
 
@@ -282,9 +282,9 @@ Schubert, in the firmament of heart-music, you are beauty's power and power's si
 * George Frederic Handel
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:10
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:10
   :END:
 
 
@@ -305,9 +305,9 @@ As the vital thrill is apt to lower the consciousness of human beings, even so t
 * George Frederic Handel
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:11
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:11
   :END:
 
 
@@ -322,9 +322,9 @@ God the Doer chooses His choicest instrument to reveal Him and manifest Him on e
 * Wolfgang Amadeus Mozart
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:12
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:12
   :END:
 
 
@@ -337,9 +337,9 @@ As Mozart writes to his father, "I pay no attention whatever to anybody's praise
 * Wolfgang Amadeus Mozart
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:13
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:13
   :END:
 
 
@@ -352,9 +352,9 @@ About the 15-year-old Mozart, Johann Adolf Hasse states, "This boy will cause us
 * Richard Wagner
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:14
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:14
   :END:
 
 
@@ -389,9 +389,9 @@ You are not only a musician of lofty heights, but a human being who could brook 
 * Richard Wagner
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:15
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:15
   :END:
 
 
@@ -406,9 +406,9 @@ Indeed, what Wagner writes is sublimely instructive and unmistakably inspiring.
 * Johannes Brahms
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:16
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:16
   :END:
 
 
@@ -423,9 +423,9 @@ Another man added, "Too much beer and beard."
 * Johannes Brahms
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:17
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:17
   :END:
 
 
@@ -436,9 +436,9 @@ To acknowledge one's imperfection is a sign of greatness. And to ask for pardon 
 * Frederic Chopin
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:18
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:18
   :END:
 
 
@@ -455,9 +455,9 @@ Chopin, your appreciations of Bach and Beethoven are at once extremely illuminin
 * Frederic Chopin
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:19
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:19
   :END:
 
 
@@ -478,9 +478,9 @@ My heart soulfully and readily agrees with Miss Gladkowska: "Remember! Never for
 * Franz Liszt
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:20
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:20
   :END:
 
 
@@ -501,9 +501,9 @@ Robert Schumann comments: "He must be heard -- and also seen; for if he played b
 * Claude Debussy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:21
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:21
   :END:
 
 
@@ -522,9 +522,9 @@ Self-detachment is of supreme importance. When we have self-detachment, we can e
 * Claude Debussy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:22
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:22
   :END:
 
 
@@ -537,9 +537,9 @@ I am sure there will be many who gladly and devotedly will sail in your Debussy-
 * Peter Ilyich Tchaikovsky
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:23
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:23
   :END:
 
 
@@ -558,9 +558,9 @@ One does not have to be a musician of the highest order in order to see eye-to-e
 * Robert Schumann
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MEHH:24
+  :genre: aphorism
+  :keywords:
+  :cite-key: MEHH:24
   :END:
 
 
@@ -585,9 +585,9 @@ Is supremely good.
 * Gioacchino Rossini
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:25
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:25
   :END:
 
 
@@ -606,9 +606,9 @@ The supreme musician in Rossini has practically the same message:
 * Joseph Haydn
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:26
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:26
   :END:
 
 
@@ -621,9 +621,9 @@ Speaking to a child violinist, Haydn states: "No need to be scared of /me,/  my 
 * Joseph Haydn
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MEHH:27
+  :genre: discourse
+  :keywords:
+  :cite-key: MEHH:27
   :END:
 
 
@@ -642,9 +642,9 @@ Your soulful humility is proudly blessed by the highest Heights. At a performanc
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MEHH:28e1
+  :genre: note
+  :keywords:
+  :cite-key: MEHH:28e1
   :END:
 
 

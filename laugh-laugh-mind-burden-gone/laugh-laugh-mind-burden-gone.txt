@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0809
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1991
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LLMB
-  :GENRE: joke
-  :KEYWORDS:
+  :book-number: 0809
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1991
+  :publisher: Agni Press
+  :cite-key: LLMB
+  :genre: joke
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:1
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:1
   :END:
 
 
@@ -38,9 +38,9 @@ Do you know that this morning I went to a mind reader?
 * 2.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:2
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:2
   :END:
 
 
@@ -53,9 +53,9 @@ Doctor, please tell me when I should take the aspirin -- before I get the headac
 * 3.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:3
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:3
   :END:
 
 
@@ -68,9 +68,9 @@ You silly dentist! You have pulled out the wrong tooth!
 * 4.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:4
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:4
   :END:
 
 
@@ -83,9 +83,9 @@ Twenty dollars! Is it not too much to pull out a tiny tooth from my little child
 * 5.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:5
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:5
   :END:
 
 
@@ -98,9 +98,9 @@ I have changed my mind completely.
 * 6.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:6
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:6
   :END:
 
 
@@ -113,9 +113,9 @@ By this time you should have realised that I have a big heart!
 * 7.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:7
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:7
   :END:
 
 
@@ -128,9 +128,9 @@ I don't believe everything that I hear.
 * 8.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:8
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:8
   :END:
 
 
@@ -143,9 +143,9 @@ Can you tell me who composed, "O, Say Can You See?"
 * 9.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:9
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:9
   :END:
 
 
@@ -158,9 +158,9 @@ You have been promising and promising to me that one of these days you will come
 * 10.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:10
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:10
   :END:
 
 
@@ -173,9 +173,9 @@ Master, what shall I do for my dream to come true?
 * 11.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:11
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:11
   :END:
 
 
@@ -188,9 +188,9 @@ Why should I? He is enjoying seeing one of the members of his own family.
 * 12.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:12
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:12
   :END:
 
 
@@ -203,9 +203,9 @@ Why did you kill your poor wife?
 * 13.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:13
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:13
   :END:
 
 
@@ -218,9 +218,9 @@ When was the father of America born?
 * 14.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:14
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:14
   :END:
 
 
@@ -233,9 +233,9 @@ How is it that you do not know that Columbus found America?
 * 15.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:15
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:15
   :END:
 
 
@@ -252,9 +252,9 @@ Which book do you like best?
 * 16.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:16
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:16
   :END:
 
 
@@ -267,9 +267,9 @@ What is the speciality of Washington, D.C.?
 * 17.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:17
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:17
   :END:
 
 
@@ -282,9 +282,9 @@ Why do you like marriage so much and not divorce at all?
 * 18.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:18
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:18
   :END:
 
 
@@ -299,9 +299,9 @@ Because they are always found in beds and nowhere else.
 * 19.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:19
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:19
   :END:
 
 
@@ -316,9 +316,9 @@ Because you have a veiled mouth and an unveiled heart.
 * 20.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:20
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:20
   :END:
 
 
@@ -331,9 +331,9 @@ Can you give me Lincoln's Gettysburg Address?
 * 21.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:21
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:21
   :END:
 
 
@@ -348,9 +348,9 @@ Alas, I lost three precious weeks!
 * 22.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:22
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:22
   :END:
 
 
@@ -363,9 +363,9 @@ How can anybody prove that I have taken too many calories?
 * 23.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:23
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:23
   :END:
 
 
@@ -378,9 +378,9 @@ Why are you collecting all old, useless magazines?
 * 24.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:24
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:24
   :END:
 
 
@@ -397,9 +397,9 @@ Alas, my barber is the worst possible haircutter.
 * 26.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:25
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:25
   :END:
 
 
@@ -416,9 +416,9 @@ Can you send me a spoon?
 * 27.
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: LLMB:26
+  :genre: joke
+  :keywords:
+  :cite-key: LLMB:26
   :END:
 
 

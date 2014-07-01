@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 898
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: MHSS
-  :GENRE: song
+  :book-number: 898
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: MHSS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MHSS:1e1
+  :genre: note
+  :cite-key: MHSS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MHSS:1e2
+  :genre: note
+  :cite-key: MHSS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * O My Mind, Why Do You Smash?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:1
+  :cite-key: MHSS:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ My heart’s sweet dreams?
 * I Shall Serve My God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:2
+  :cite-key: MHSS:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Who cares?
 * Time Spent Seeking and Searching
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:3
+  :cite-key: MHSS:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Can never be lost.
 * O Silence-Rainbow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:4
+  :cite-key: MHSS:4
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ Perfection-promise.
 * No Matter What the World Thinks
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:5
+  :cite-key: MHSS:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Will be flooded with peace.
 * God the Creator and God the Creation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:6
+  :cite-key: MHSS:6
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ We must take them as one.
 * God’s Heart Gathers Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:7
+  :cite-key: MHSS:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ Lovingly and proudly.
 * Every Day God Introduces Himself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:8
+  :cite-key: MHSS:8
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ To each and every human being on earth.
 * If You Forget to Forgive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:9
+  :cite-key: MHSS:9
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ You will never be able to thrive.
 * O My Heart’s Silence-Shore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:10
+  :cite-key: MHSS:10
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ You are my Lord’s Satisfaction-Delight.
 * I Do Not Have to Prove God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:11
+  :cite-key: MHSS:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ That I am for God only.
 * O World-Seekers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:12
+  :cite-key: MHSS:12
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ In my heart’s silence-room.
 * My Lord’s Vision-Sunrise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1992
-  :CITE-KEY: MHSS:13
+  :cite-key: MHSS:13
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Is my Lord’s Vision-Sunrise.
 * Akashe Batase Shunibo Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:14
+  :cite-key: MHSS:14
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Param prabhur maha bijayer gan
 * Ami Amar Oi Dekh Oi Shon Toder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:15
+  :cite-key: MHSS:15
   :END:
 
 #+BEGIN_VERSE
@@ -302,10 +302,10 @@ Ami amar oi dekh oi shon toder nirbashan
 * Nahi Jani Hai Kena Rakhi Khule Birat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:16
+  :cite-key: MHSS:16
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ Nahi jani hai kena rakhi khule birat basana duar
 * Moher Sathe Mitali Kare Thakte Chahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:17
+  :cite-key: MHSS:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Paran mama taito eta jatana jatana
 * Agyanatar Habe Samapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:18
+  :cite-key: MHSS:18
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Ei aji kare pan amar mukta man
 * Jagite Jahara Chahena Tader Sange
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:19
+  :cite-key: MHSS:19
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ Sange rayechi je ami ghumiye
 * Man Je Amar Shunena Mor Katha Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:20
+  :cite-key: MHSS:20
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ Nahi chahe kabhu nirabata
 * Swapan Madhur Swapan Madhur Barai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:21
+  :cite-key: MHSS:21
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Barai nithur barai nithur bastavata
 * Jete Chao Chale Tabe Jao Chale Anande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:22
+  :cite-key: MHSS:22
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ Anande rabe ei asha rakhi
 * Bedana Giti Geye Geye Chetanar Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:23
+  :cite-key: MHSS:23
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Bedana giti geye geye chetanar aj maran
 * Ghumer Deshe Thakte Chahi Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:24
+  :cite-key: MHSS:24
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ Ghumer deshe thakte chahi shanti sudha lagi
 * Kripa Madhumoy Kripa Premamoy Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:25
+  :cite-key: MHSS:25
   :END:
 
 #+BEGIN_VERSE
@@ -468,10 +468,10 @@ Kripa madhumoy kripa premamoy kripar baridhi charidhar
 * Kripa Barishan Kripa Barishan Chahi Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:26
+  :cite-key: MHSS:26
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Chahi aji ami naba jagaran
 * Taba Jaya Giti Gahi Jena Ami Ghume
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:27
+  :cite-key: MHSS:27
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Madhur swapane jibane marane
 * Kothai Shanti.. Bhitare Bahire Samukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:28
+  :cite-key: MHSS:28
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ Bhitare bahire samukhe pichane kebal maner bhranti
 * Hiyar Deshe Ghure Berai Param Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:29
+  :cite-key: MHSS:29
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ Hiyar deshe ghure berai param prabhur charan dekha lagi
 * Naba Janamer Lagi Paramanande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:30
+  :cite-key: MHSS:30
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Naba janamer lagi paramanande puratane aji dilam bidai
 * Nahi Jani Kahar Sathe Balbo Katha Kahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:31
+  :cite-key: MHSS:31
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Kahar sathe chalbo jiban pathe
 * Bedan Diye Dhara Gara Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:32
+  :cite-key: MHSS:32
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ Bedan diye dhara gara keman kare karinu hai bishwas
 * Dure Dure Bahu Dure Jete Habe Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:33
+  :cite-key: MHSS:33
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ Kripa mayir khamar charan lagi
 * Ashar Sathe Chalte Giye Hiya Pela Barai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:34
+  :cite-key: MHSS:34
   :END:
 
 #+BEGIN_VERSE
@@ -617,10 +617,10 @@ Ashar sathe chalte giye hiya pela barai byatha
 * Ashanti Mane Kemane Hasibo Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1992
-  :CITE-KEY: MHSS:35
+  :cite-key: MHSS:35
   :END:
 
 #+BEGIN_VERSE

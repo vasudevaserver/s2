@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1114
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1996
-  :PUBLISHER:
-  :CITE-KEY: HPKJ
-  :GENRE: song
+  :book-number: 1114
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1996
+  :publisher:
+  :cite-key: HPKJ
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: HPKJ:1e1
+  :genre: note
+  :cite-key: HPKJ:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: HPKJ:1e2
+  :genre: note
+  :cite-key: HPKJ:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Thami Keno Tomar Katha Balte Thami Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:1
+  :cite-key: HPKJ:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Thami keno tomar pathe chalte
 * Thami Keno Tomai Ami Pujte Thami Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:2
+  :cite-key: HPKJ:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Thami keno tomai ami tushte
 * Benche Achi Kebal Asha Niye Shanti Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:3
+  :cite-key: HPKJ:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Shanti pabo amire mor diye
 * Tomar Amal Jugal Charan Dharechi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:4
+  :cite-key: HPKJ:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Tomar lagiya tomare tushite perechi
 * Shikhte Habe Pran Gabhire Kandte Shikhte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:5
+  :cite-key: HPKJ:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Shikhte habe basanare bandhte
 * Dure Dure Bahu Dure Maner Rati Hayechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:6
+  :cite-key: HPKJ:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Hayechi aj prabhur paye hiyar bati
 * Chander Deshe Ghure Berai Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:7
+  :cite-key: HPKJ:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Phuti ami puta hiyai gopane
 * Tomar Lagi Hayechi Aj Hiyar Khudha Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:8
+  :cite-key: HPKJ:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Pabo jani tomar asim amal sudha
 * Sabar Sathe Chalte Pare Jara Tara Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:9
+  :cite-key: HPKJ:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Tara kabhu hay na disha hara
 * Jatri Ami Asimatar Jatri Ei Tuku Nai Maya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:10
+  :cite-key: HPKJ:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Ei tuku nai maya moher ratri
 * Bahu Din Pare Hiyar Gahane Utechi Jagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:11
+  :cite-key: HPKJ:11
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Bahu din pare hiyar gahane utechi jagiya ajike Pranati janai aji bare bare hiya 
 * Bhalobasi Tomar Nayan Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:12
+  :cite-key: HPKJ:12
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Bhalobasi tomar kripa madhur swapan
 * Purna Hate Nahi Chahi Amar Kono Chaowa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:13
+  :cite-key: HPKJ:13
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Habo ami samarpaner mukta haowa
 * Jabar Dine Kandbona Go Kandbona Dharar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:14
+  :cite-key: HPKJ:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Dharar mayay amar prane bandhbona
 * Shanti Kebal Maner Bhranti Jara Bale Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:15
+  :cite-key: HPKJ:15
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ Pabena thai bishwa mayer charan tale
 * Gopane Kandi Gopane Hasi Gopane Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:16
+  :cite-key: HPKJ:16
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ Anek dure rakhi je ami dharar kalarab
 * Kothai Amai Niye Jabe Jante Nahi Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:17
+  :cite-key: HPKJ:17
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Dhanya ami prabhu tomar bijoy giti gahi
 * Ashar Deshe Ghure Berai Ashar Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:18
+  :cite-key: HPKJ:18
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Purna habe sabar prane bhalobese
 * Khudra Chaowa Mahat Chaowa Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:19
+  :cite-key: HPKJ:19
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Khudra chaowa mahat chaowa chahina ar chahina Kandi kebal bijoy giti keno tomar 
 * Ogo Amar Jiban Tarir Neye Dhanya Halem
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:20
+  :cite-key: HPKJ:20
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Dhanya halem tomar giti geye
 * Khama Diye Toiri Tumi Khama Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:21
+  :cite-key: HPKJ:21
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Kothati ei jenechi aj ogo manorama
 * Age Chal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:22
+  :cite-key: HPKJ:22
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Bahudure phele rakh manaser chhal
 * Jedike Takai Sedike Kebal Chira Nabiner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:23
+  :cite-key: HPKJ:23
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Asha pradanibe amar hiyare mukta gabhir basa
 * Nirab Basa Nirab Bhasha Rakhbo Sabiy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:24
+  :cite-key: HPKJ:24
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Nirab basa nirab bhasha rakhbo sabiy nirab Nirabatar majhe amar phute hiyar saur
 * Ar Katokal Thakbe Ghumer Ghore Utho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:25
+  :cite-key: HPKJ:25
   :END:
 
 #+BEGIN_VERSE
@@ -463,10 +463,10 @@ Utho jege nabin juger bhore
 * Urdhe Heri Asimatar Desh Nimne Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1995
-  :CITE-KEY: HPKJ:26
+  :cite-key: HPKJ:26
   :END:
 
 #+BEGIN_VERSE
@@ -480,10 +480,10 @@ Nimne kebal ruddha dharar klesh
 * Asim Pathe Chalbo Ami Asimatar Giti Geye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:27
+  :cite-key: HPKJ:27
   :END:
 
 #+BEGIN_VERSE
@@ -497,10 +497,10 @@ Eso eso ogo amar hiya nadir kheya niye
 * Tumi Kache Ati Kache Keno Bhule Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:28
+  :cite-key: HPKJ:28
   :END:
 
 #+BEGIN_VERSE
@@ -514,10 +514,10 @@ Tomai pete bhakti ami keno nahi chai
 * Bedana Sagare Santar Katite Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:29
+  :cite-key: HPKJ:29
   :END:
 
 #+BEGIN_VERSE
@@ -530,10 +530,10 @@ Bedana sagare santar katite chahina amije chahina Tomare tushite taba jaya giti 
 * Chinta Srote Bhese Je Hai Amar Chapala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:30
+  :cite-key: HPKJ:30
   :END:
 
 #+BEGIN_VERSE
@@ -547,10 +547,10 @@ Taito ami hiya pure kandi anukkhan
 * Jiban Amar Purna Habe Tomar Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:31
+  :cite-key: HPKJ:31
   :END:
 
 #+BEGIN_VERSE
@@ -563,10 +563,10 @@ Jiban amar purna habe tomar kripar charan tale Tushbo tomai dibanishi kritagyata
 * Kamana Basana Charite Chahina Kamana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:32
+  :cite-key: HPKJ:32
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Tushta nayane kadapi hasona
 * Supti Ebar Jabe Chale Jabe Chale Rakhbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:33
+  :cite-key: HPKJ:33
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ Rakhbo amai mago tomar charan tale
 * Bhalo Lage Tomar Aghat Tomar Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:34
+  :cite-key: HPKJ:34
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ Taito chali dibanishi tomar pichu pichu
 * Sakal Saje Chahi Tomai Pujte Barai Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:35
+  :cite-key: HPKJ:35
   :END:
 
 #+BEGIN_VERSE
@@ -633,10 +633,10 @@ Barai bhalo lage tomai khunjte
 * Ke Peyeche Bhakti Bina Shakti Ke Peyeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:36
+  :cite-key: HPKJ:36
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Ke peyeche spriha bina mukti
 * Keman Kare Shanti Pabo Keman Kare Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:37
+  :cite-key: HPKJ:37
   :END:
 
 #+BEGIN_VERSE
@@ -667,10 +667,10 @@ Paran mama tomai jadi kabhu nahi chai
 * Janani Amar Shudhu Ei Nibedan Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:38
+  :cite-key: HPKJ:38
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ Jeno sada magi tomar karuna dhan
 * Akash Pathe Ure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:39
+  :cite-key: HPKJ:39
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Tushbo ami tomai prabhu ei je amar brato
 * Phire Phire Asbo Ami Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:40
+  :cite-key: HPKJ:40
   :END:
 
 #+BEGIN_VERSE
@@ -718,10 +718,10 @@ Tomar joyer gaibo giti tomar khama bale
 * Kusum Sama Prati Dibas Tomar Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:41
+  :cite-key: HPKJ:41
   :END:
 
 #+BEGIN_VERSE
@@ -735,10 +735,10 @@ Chira tare moher bandhan tutbo ebar tutbo
 * Esechi Dharai Tomar Ashish Bale Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:42
+  :cite-key: HPKJ:42
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ Jiban sampinu tomar charana tale
 * Hiyar Pradip Ke Jalabe Jante Chahi Dhanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:43
+  :cite-key: HPKJ:43
   :END:
 
 #+BEGIN_VERSE
@@ -769,10 +769,10 @@ Dhanya habo kahar bijoy giti gahi
 * Prabhur Adesh Sanjhe Bhore Manina Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:44
+  :cite-key: HPKJ:44
   :END:
 
 #+BEGIN_VERSE
@@ -786,10 +786,10 @@ Hiya kusum phutbe kabe janina
 * Hiyar Jale Pujte Habe Chokher Jale Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:45
+  :cite-key: HPKJ:45
   :END:
 
 #+BEGIN_VERSE
@@ -802,10 +802,10 @@ Ei kothati nitya jeno mane amar rahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:46
+  :cite-key: HPKJ:46
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ And not with the tears of my eyes.
 * Hate Chahi Bhakti Arghya Dhup Pete Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:47
+  :cite-key: HPKJ:47
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ Pete chahi ami amar deshe rup
 * Sabar Majhare Ekatar Bani Shunibo Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:48
+  :cite-key: HPKJ:48
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ Sabar majhare ekatar bani shunibo ajike shunibo Ati druta bege badhar bandhan ha
 * Bedanai Bhara Bhitar Bahir Mor Charidike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:49
+  :cite-key: HPKJ:49
   :END:
 
 #+BEGIN_VERSE
@@ -871,10 +871,10 @@ Charidike heri shudhu andhiyar ghor
 * Ashar Duar Rakhte Habe Khule Tomai Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:50
+  :cite-key: HPKJ:50
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Tomai jeno na jai kabhu bhule
 * Tomar Karuna Labhiyachi Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:51
+  :cite-key: HPKJ:51
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Agyanatare chari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1995
-  :CITE-KEY: HPKJ:52
+  :cite-key: HPKJ:52
   :END:
 
 #+BEGIN_VERSE
@@ -925,10 +925,10 @@ Leaving aside ignorance.
 * Jethai Jabo Sethai Pabo Bishwa Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:53
+  :cite-key: HPKJ:53
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ Jethai jabo sethai pabo bishwa mayer kripar hasi Nabin ushai uthbo jege maner ma
 * Samukhe Pechane Sabare Tushite Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:54
+  :cite-key: HPKJ:54
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Jadi chaho tumi paramananda bhabe
 * Mago Amar Tomai Jadi Nahi Basi Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:55
+  :cite-key: HPKJ:55
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ Jani jani jabena je maner praner kalo
 * Piradayi Bhitar Bahir Maner Andhakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:56
+  :cite-key: HPKJ:56
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Bhagna hiyai daki tomai prabhu barebar
 * Khulite Chahina Hridaya Duar Taito Marame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:57
+  :cite-key: HPKJ:57
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ Khulite chahina hridaya duar taito marame byetha Kemane labhibo prabhu darashan 
 * Phutbe Habe Phutte Habe Phuler Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:58
+  :cite-key: HPKJ:58
   :END:
 
 #+BEGIN_VERSE
@@ -1025,10 +1025,10 @@ Dharar kalyan magi kebal abirato
 * Cheyechi Man Cheyechi Dhan Cheyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:59
+  :cite-key: HPKJ:59
   :END:
 
 #+BEGIN_VERSE
@@ -1041,10 +1041,10 @@ Cheyechi man cheyechi dhan cheyechi kato kichu Kabhu je hai nahi chuti jyotir pi
 * Shunya Hate Chalbo Pathe Shunya Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:60
+  :cite-key: HPKJ:60
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ Thakte habe atmatyagi dibas rate
 * Bhulte Habe Parer Truti Bhulte Habe Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:61
+  :cite-key: HPKJ:61
   :END:
 
 #+BEGIN_VERSE
@@ -1075,10 +1075,10 @@ Sakal paran tushte tomai bhishal bhabe
 * Sabar Sathe Chalte Habe Jyotir Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1995
-  :CITE-KEY: HPKJ:62
+  :cite-key: HPKJ:62
   :END:
 
 #+BEGIN_VERSE

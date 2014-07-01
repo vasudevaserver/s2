@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 359
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1978
-  :PUBLISHER:
-  :CITE-KEY: ISLD-6
-  :GENRE: song
+  :book-number: 359
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1978
+  :publisher:
+  :cite-key: ISLD-6
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:511e1
+  :genre: note
+  :cite-key: ISLD:511e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:511e2
+  :genre: note
+  :cite-key: ISLD:511e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ke Tumi Karunamoy Jahar Charane Deb
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:511
+  :cite-key: ISLD:511
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Sab shak tap dukhra bhoy
 * Ogo Bhakat Hriday Ranjan Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:512
+  :cite-key: ISLD:512
   :END:
 
 #+BEGIN_VERSE
@@ -82,10 +82,10 @@ Amiya karuna dane
 * Eso Sakha Eso Prabhu Eso Mor Hridayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:513
+  :cite-key: ISLD:513
   :END:
 
 #+BEGIN_VERSE
@@ -104,10 +104,10 @@ Tumi maha parabar
 * Kebal Pather Parichoy Apan Keha Noy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:514
+  :cite-key: ISLD:514
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Apan shudhu hari dayamoy
 * Jadi Dakar Mato Pari Dakte Tabe Ki Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:515
+  :cite-key: ISLD:515
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +149,10 @@ Amar janam halo kandte
 * Jetha Thako Dure Kache Hiya Jena Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:516
+  :cite-key: ISLD:516
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Hiya anginai
 * Amar Apan Tabu Jena Se Amar Noy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:517
+  :cite-key: ISLD:517
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Ei jibane gaibo prabhur nitya joy
 * Atit Je Sab Shudhu Bhalo Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:518
+  :cite-key: ISLD:518
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ Kalke kebal chali
 * Atiter Dan Gare Tule Mor Mane Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:519
+  :cite-key: ISLD:519
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Sahasra badha achire dali
 * Ore Kripan Tor Jiban Kebal Apabyoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:520
+  :cite-key: ISLD:520
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ Bhagbatir asha swapan nahi rabe akkoy
 * Jedin Ami E Jagate Asi Kahar Mukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:521
+  :cite-key: ISLD:521
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ Jedin habo pitar sathe jukta
 * Jatri Chale.. Jatri Manena Bhoy Manena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:522
+  :cite-key: ISLD:522
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Surjya o savitri
 * Jyotirmayi Mayer Sathe Karte Chahi Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:523
+  :cite-key: ISLD:523
   :END:
 
 #+BEGIN_VERSE
@@ -309,10 +309,10 @@ Bhase amar jiban bhela
 * Jagater Dhan Man Je Kareche Dan Kichui
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:524
+  :cite-key: ISLD:524
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Chira mangalomoy
 * Ami Sakal Jiber Bishwa Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:525
+  :cite-key: ISLD:525
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Bishwa prabhur asa
 * Britha Puja Apasana Dan O Dharma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:526
+  :cite-key: ISLD:526
   :END:
 
 #+BEGIN_VERSE
@@ -372,10 +372,10 @@ Bhakti ele purna habe taba aradhana
 * Mandir Jar Sudur Nilima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:527
+  :cite-key: ISLD:527
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Jibane amar tar madhurima
 * Mishe Phula Dale Pare Rabo Ami Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:528
+  :cite-key: ISLD:528
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Na chari jiban marane
 * Ektu Aloker Ankhir Paloke Paye Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:529
+  :cite-key: ISLD:529
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Hridaye tomare dharite
 * Bhalobasa Jadi Na Pai Khati Nai Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:530
+  :cite-key: ISLD:530
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Andhakare duhath dharo
 * Kato Bhag Mor Kato Dike Dhai Toma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:531
+  :cite-key: ISLD:531
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Kripa kare prabhu balogo amai
 * Bhebe Dekhre Mor Man Tor Ek Pashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:532
+  :cite-key: ISLD:532
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ Tanahale tor marma dahan
 * Jiban Tarani Rakhibena Ar Nij Hate Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:533
+  :cite-key: ISLD:533
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Jiban tarani
 * Bhasao Ebar Bhakti Srote Ogo Ja Dukar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:534
+  :cite-key: ISLD:534
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Karo rupantar
 * Chalo Ebar Chali Mora Mayer Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:535
+  :cite-key: ISLD:535
   :END:
 
 #+BEGIN_VERSE
@@ -579,10 +579,10 @@ Sei dak shune keu ki kare dhare rakhe
 * Jibane Amar Jatoi Pulak Peyechi Dibas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:536
+  :cite-key: ISLD:536
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Madhu ashru par
 * Ami Jare Bhabe Jib Jib Noi Seto Shib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:537
+  :cite-key: ISLD:537
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Mahader ashroy
 * Ami Asha Mayer Chele Jiban Kate Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:538
+  :cite-key: ISLD:538
   :END:
 
 #+BEGIN_VERSE
@@ -644,10 +644,10 @@ Nai je kothao bhiti kalo
 * Kotha Jin Kotha Jib Shudhu Shib Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:539
+  :cite-key: ISLD:539
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ Nahe micha abhinoy
 * He Mor Atit Esona Esona Phire Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:540
+  :cite-key: ISLD:540
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ Sanga bihin dur asimer jatri
 * Jagate Asiya Maya Moha Ghore Andha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:541
+  :cite-key: ISLD:541
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Jagate asiya
 * Aro Dure Aro Dure Dur Asimer Anta Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:542
+  :cite-key: ISLD:542
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Bishwa bijoy gahi
 * Gahi Ati Manaber Joy Deba Manaber Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:543
+  :cite-key: ISLD:543
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ Hok abyudoy
 * Ami Jabo Ami Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:544
+  :cite-key: ISLD:544
   :END:
 
 #+BEGIN_VERSE
@@ -772,10 +772,10 @@ Tomai ami pabo
 * Ami Tomare Bhalobasi Tai Peyechi Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:545
+  :cite-key: ISLD:545
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ Tai peyechi andhar rashi rashi
 * Tumi Na Balile Kemane Balibo Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:546
+  :cite-key: ISLD:546
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ Dakhbo tarani naibo tani
 * Prabhu Tumi Jare Tula Rupe Gune Sarba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:547
+  :cite-key: ISLD:547
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ Tariy bhagye nitya juthe
 * Prabhu Tumi Jare Phela Karane Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:548
+  :cite-key: ISLD:548
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Tahar pichhe chhute
 * Sabe Gela Eke Eke Chale Parapar Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:549
+  :cite-key: ISLD:549
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ Charidike maya ar mohe karagar
 * Taba Preme Kabe Habo Loy Ogo Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:550
+  :cite-key: ISLD:550
   :END:
 
 #+BEGIN_VERSE
@@ -900,10 +900,10 @@ Sei rup naba parichoy
 * Sakha Dekha Pai Ar Nahi Pai Jena Rahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:551
+  :cite-key: ISLD:551
   :END:
 
 #+BEGIN_VERSE
@@ -920,10 +920,10 @@ Taba paye nahi pele thai
 * Tomar Sathe Khelte Asi Tomar Dekha Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:552
+  :cite-key: ISLD:552
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ Amar prane bhugbo durbhog dur
 * Srishti Tomar Tumi Karo Parane Poshan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:553
+  :cite-key: ISLD:553
   :END:
 
 #+BEGIN_VERSE
@@ -961,10 +961,10 @@ E jiban nahi rabe alik swapan
 * Tomari Name Phute Je Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:554
+  :cite-key: ISLD:554
   :END:
 
 #+BEGIN_VERSE
@@ -982,10 +982,10 @@ Ami je ar kichu janina
 * Prabhu Toma Lagi Dibanishi Jagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:555
+  :cite-key: ISLD:555
   :END:
 
 #+BEGIN_VERSE
@@ -1001,10 +1001,10 @@ Tomar parashe praner harashe haibe jiban kala
 * Puta Premer Eman Jadu Jane Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:556
+  :cite-key: ISLD:556
   :END:
 
 #+BEGIN_VERSE
@@ -1022,10 +1022,10 @@ Gara amai sarbo tyagi pagla sadhu
 * Praner Thakur Krishna Amar Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:557
+  :cite-key: ISLD:557
   :END:
 
 #+BEGIN_VERSE
@@ -1045,10 +1045,10 @@ Krishna pade loy
 * Teman Kare Kand Dekhire Man Je Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:558
+  :cite-key: ISLD:558
   :END:
 
 #+BEGIN_VERSE
@@ -1070,10 +1070,10 @@ Jishur karechen rodan
 * Bale Chile Prabhu Tumi Hetha Asiya Kole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:559
+  :cite-key: ISLD:559
   :END:
 
 #+BEGIN_VERSE
@@ -1091,10 +1091,10 @@ Amar ki hai katbe jiban srote bhasiya
 * Prabhu Sei Prem Jena E Jibane Ekbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: ISLD:560
+  :cite-key: ISLD:560
   :END:
 
 #+BEGIN_VERSE

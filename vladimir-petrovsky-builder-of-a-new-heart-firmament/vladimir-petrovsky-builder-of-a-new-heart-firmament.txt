@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1221
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1998
-  :PUBLISHER: Agni Press
-  :CITE-KEY: VPBH
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1221
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1998
+  :publisher: Agni Press
+  :cite-key: VPBH
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Dedication
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: VPBH:1e1
+  :genre: note
+  :keywords:
+  :cite-key: VPBH:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ I humbly dedicate this volume of 65 poems to my most esteemed Brother-Friend, Mr
 * Mr....
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: VPBH:1e2
+  :genre: note
+  :keywords:
+  :cite-key: VPBH:1e2
   :END:
 
 
@@ -68,9 +68,9 @@ Mr. Petrovsky was born on 29 April 1933 in Volgograd, Russia.
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:1
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:1
   :END:
 
 
@@ -90,9 +90,9 @@ No more mind-gloom! No more life-doom!
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:2
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:2
   :END:
 
 
@@ -110,9 +110,9 @@ By God's Miracle-Showers.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:3
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:3
   :END:
 
 
@@ -130,9 +130,9 @@ By God's Affection-Fountain.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:4
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:4
   :END:
 
 
@@ -152,9 +152,9 @@ Than it expected.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:5
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:5
   :END:
 
 
@@ -180,9 +180,9 @@ With my gratitude-heart-tears.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:6
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:6
   :END:
 
 
@@ -208,9 +208,9 @@ Is love.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:7
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:7
   :END:
 
 
@@ -234,9 +234,9 @@ Dreamful at night.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:8
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:8
   :END:
 
 
@@ -258,9 +258,9 @@ In My Eternity's Heart-Home."
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:9
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:9
   :END:
 
 
@@ -280,9 +280,9 @@ Our gratitude-heart-tears.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:10
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:10
   :END:
 
 
@@ -302,9 +302,9 @@ Of God's Compassion-Kingdom.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:11
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:11
   :END:
 
 
@@ -322,9 +322,9 @@ When it took any rest.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:12
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:12
   :END:
 
 
@@ -346,9 +346,9 @@ Of my desire-life.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:13
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:13
   :END:
 
 
@@ -372,9 +372,9 @@ From our Lord Supreme.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:14
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:14
   :END:
 
 
@@ -398,9 +398,9 @@ Of our God-manifestation.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:15
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:15
   :END:
 
 
@@ -424,9 +424,9 @@ Of my life.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:16
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:16
   :END:
 
 
@@ -446,9 +446,9 @@ To my illumination-soul.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:17
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:17
   :END:
 
 
@@ -472,9 +472,9 @@ Are inseparable friends.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:18
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:18
   :END:
 
 
@@ -492,9 +492,9 @@ Its peerless surrender.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:19
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:19
   :END:
 
 
@@ -512,9 +512,9 @@ Its helpless submission.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:20
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:20
   :END:
 
 
@@ -532,9 +532,9 @@ Nectar-delight-fountain.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:21
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:21
   :END:
 
 
@@ -556,9 +556,9 @@ Nectar-delight-fountain.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:22
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:22
   :END:
 
 
@@ -576,9 +576,9 @@ Forgives me.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:23
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:23
   :END:
 
 
@@ -596,9 +596,9 @@ Perfects me.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:24
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:24
   :END:
 
 
@@ -620,9 +620,9 @@ Is a new victory.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:25
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:25
   :END:
 
 
@@ -642,9 +642,9 @@ For the God-realised souls.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:26
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:26
   :END:
 
 
@@ -662,9 +662,9 @@ Comes to inspire me.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:27
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:27
   :END:
 
 
@@ -682,9 +682,9 @@ Comes to energise me.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:28
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:28
   :END:
 
 
@@ -702,9 +702,9 @@ Comes to congratulate me.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:29
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:29
   :END:
 
 
@@ -722,9 +722,9 @@ Comes to cradle me.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:30
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:30
   :END:
 
 
@@ -750,9 +750,9 @@ Next time."
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:31
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:31
   :END:
 
 
@@ -774,9 +774,9 @@ To each other.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:32
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:32
   :END:
 
 
@@ -796,9 +796,9 @@ In his God-searching mind.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:33
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:33
   :END:
 
 
@@ -822,9 +822,9 @@ The rest of my journey.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:34
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:34
   :END:
 
 
@@ -848,9 +848,9 @@ Of a new world-dawn.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:35
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:35
   :END:
 
 
@@ -874,9 +874,9 @@ My dedication-life-fragrance.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:36
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:36
   :END:
 
 
@@ -898,9 +898,9 @@ Know no limits.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:37
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:37
   :END:
 
 
@@ -918,9 +918,9 @@ A fleeting beauty.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:38
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:38
   :END:
 
 
@@ -938,9 +938,9 @@ An ever-blossoming lustre.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:39
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:39
   :END:
 
 
@@ -958,9 +958,9 @@ The outer world.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:40
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:40
   :END:
 
 
@@ -982,9 +982,9 @@ The inner world.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:41
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:41
   :END:
 
 
@@ -1008,9 +1008,9 @@ God-Manifestation-Banner.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:42
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:42
   :END:
 
 
@@ -1030,9 +1030,9 @@ To welcome you.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:43
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:43
   :END:
 
 
@@ -1056,9 +1056,9 @@ Our greatness-mind.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:44
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:44
   :END:
 
 
@@ -1076,9 +1076,9 @@ An unwilling mind's doorbell.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:45
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:45
   :END:
 
 
@@ -1100,9 +1100,9 @@ Enslaving freedom.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:46
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:46
   :END:
 
 
@@ -1122,9 +1122,9 @@ God breathlessly treasures.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:47
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:47
   :END:
 
 
@@ -1142,9 +1142,9 @@ Has its own breath.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:48
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:48
   :END:
 
 
@@ -1164,9 +1164,9 @@ And vote only for God.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:49
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:49
   :END:
 
 
@@ -1186,9 +1186,9 @@ Is all-where.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:50
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:50
   :END:
 
 
@@ -1208,9 +1208,9 @@ Ends.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:51
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:51
   :END:
 
 
@@ -1230,9 +1230,9 @@ Your aspiration-heart.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:52
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:52
   :END:
 
 
@@ -1252,9 +1252,9 @@ Now leave me alone!
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:53
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:53
   :END:
 
 
@@ -1274,9 +1274,9 @@ Our permanent friendship.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:54
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:54
   :END:
 
 
@@ -1298,9 +1298,9 @@ And disheartening words.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:55
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:55
   :END:
 
 
@@ -1322,9 +1322,9 @@ His world-immortalising Heart.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:56
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:56
   :END:
 
 
@@ -1346,9 +1346,9 @@ In God's own Way?"
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:57
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:57
   :END:
 
 
@@ -1370,9 +1370,9 @@ My crying heart to join.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:58
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:58
   :END:
 
 
@@ -1396,9 +1396,9 @@ Our God-listening ears.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:59
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:59
   :END:
 
 
@@ -1424,9 +1424,9 @@ Of the self-advertisement-committee.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:60
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:60
   :END:
 
 
@@ -1444,9 +1444,9 @@ For You to take me back?
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:61
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:61
   :END:
 
 
@@ -1466,9 +1466,9 @@ With Your Presence?
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:62
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:62
   :END:
 
 
@@ -1488,9 +1488,9 @@ My bleeding heart?
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:63
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:63
   :END:
 
 
@@ -1514,9 +1514,9 @@ Once again?
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:64
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:64
   :END:
 
 
@@ -1538,9 +1538,9 @@ A turned-over leaf?
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: VPBH:65
+  :genre: poem
+  :keywords:
+  :cite-key: VPBH:65
   :END:
 
 

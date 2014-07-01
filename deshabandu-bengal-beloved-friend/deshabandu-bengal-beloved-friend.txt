@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1346
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2000
-  :PUBLISHER: Agni Press
-  :CITE-KEY: DBBF
-  :GENRE: play, poem, discourse
-  :KEYWORDS:
+  :book-number: 1346
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2000
+  :publisher: Agni Press
+  :cite-key: DBBF
+  :genre: play, poem, discourse
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 
   :PROPERTIES:
   :SUBTITLE: A Play
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:1
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:1
   :END:
 
 
@@ -41,9 +41,9 @@
 
   :PROPERTIES:
   :SUBTITLE: (in Order Of Appearance)
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e1
+  :genre: note
+  :keywords:
+  :cite-key: DBBF:2e1
   :END:
 
 
@@ -68,9 +68,9 @@
 * Scene one
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e2
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:2e2
   :END:
 
 
@@ -115,9 +115,9 @@ Where am I? Where is my Motherland? O my Mother India, I do not mind in the leas
 * Scene two
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e3
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:2e3
   :END:
 
 
@@ -200,9 +200,9 @@ Where am I? Where is my Motherland? O my Mother India, I do not mind in the leas
 * Scene three
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e4
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:2e4
   :END:
 
 
@@ -283,9 +283,9 @@ THE END
 * Glossary
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e5
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:2e5
   :END:
 
 
@@ -312,9 +312,9 @@ THE END
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2e6
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:2e6
   :END:
 
 
@@ -323,9 +323,9 @@ THE END
 
   :PROPERTIES:
   :SUBTITLE: A Poem In Bengali
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DBBF:2
+  :genre: poem
+  :keywords:
+  :cite-key: DBBF:2
   :END:
 
 
@@ -368,9 +368,9 @@ Tomarei bhalobese
 
   :PROPERTIES:
   :SUBTITLE: An essay
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DBBF:3e1
+  :genre: note
+  :keywords:
+  :cite-key: DBBF:3e1
   :END:
 
 
@@ -381,9 +381,9 @@ Tomarei bhalobese
 * Chitta Ranjan Das
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DBBF:3
+  :genre: discourse
+  :keywords:
+  :cite-key: DBBF:3
   :END:
 
 
@@ -461,9 +461,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:4e1
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:4e1
   :END:
 
 
@@ -471,9 +471,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Three dramatic scenes from /The Descent of the Blue/
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DBBF:4e2
+  :genre: note
+  :keywords:
+  :cite-key: DBBF:4e2
   :END:
 
 
@@ -484,9 +484,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Act VII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:4
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:4
   :END:
 
 
@@ -494,9 +494,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Scene 10
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:5
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:5
   :END:
 
 
@@ -515,9 +515,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Scene 11
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:6
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:6
   :END:
 
 
@@ -538,9 +538,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Act XI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:7
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:7
   :END:
 
 
@@ -548,9 +548,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DBBF:8
+  :genre: play
+  :keywords:
+  :cite-key: DBBF:8
   :END:
 
 
@@ -601,9 +601,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:9e1
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:9e1
   :END:
 
 
@@ -611,9 +611,9 @@ Bengal suffered a tremendous blow. Deshabandhu was a man of fifty-five when Deat
 * Six stories about /Chitta Ranjan Das: A larger than the largest heart/
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:9
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:9
   :END:
 
 
@@ -642,9 +642,9 @@ This great man was Chitta Ranjan Das. He was known as the most beloved friend of
 * The kind-hearted barrister
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:10
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:10
   :END:
 
 
@@ -667,9 +667,9 @@ This young barrister's name was Chitta Ranjan Das.
 * Chitta Ranjan incognito
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:11
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:11
   :END:
 
 
@@ -700,9 +700,9 @@ The junior clerk replied, "He has already spent a full hour with you! Now he is 
 * To clear his father's name
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:12
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:12
   :END:
 
 
@@ -717,9 +717,9 @@ When I was twenty-five years old I wrote about this incident in an essay devoted
 * A real king and queen
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:13
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:13
   :END:
 
 
@@ -734,9 +734,9 @@ The eminent scientist, P.C. Ray, said to them, "Here I see a real king and a rea
 * God alone knows who is deserving
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: DBBF:14
+  :genre: story
+  :keywords:
+  :cite-key: DBBF:14
   :END:
 
 
@@ -755,9 +755,9 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 * Chitta Ranjan and Subhas Chandra:
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DBBF:15e1
+  :genre: note
+  :keywords:
+  :cite-key: DBBF:15e1
   :END:
 
 
@@ -768,9 +768,9 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 * Part VI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:15e2
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:15e2
   :END:
 
 
@@ -778,9 +778,9 @@ Just at that moment, one of his assistants came up to C. R. Das with a telegram.
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DBBF:15
+  :genre: poem
+  :keywords:
+  :cite-key: DBBF:15
   :END:
 
 
@@ -798,9 +798,9 @@ Hope-multiplication.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: DBBF:16
+  :genre: aphorism
+  :keywords:
+  :cite-key: DBBF:16
   :END:
 
 
@@ -825,9 +825,9 @@ Nothing short of absurdity.
 * Deshabandhu Chitta Ranjan
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DBBF:17
+  :genre: poem
+  :keywords:
+  :cite-key: DBBF:17
   :END:
 
 
@@ -854,9 +854,9 @@ Banger ullas
 * Bengal's beloved friend
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: DBBF:18
+  :genre: poem
+  :keywords:
+  :cite-key: DBBF:18
   :END:
 
 
@@ -883,9 +883,9 @@ In the heart of Bengal.
 * About the author
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DBBF:19e1
+  :genre: section
+  :keywords:
+  :cite-key: DBBF:19e1
   :END:
 
 

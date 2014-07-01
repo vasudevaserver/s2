@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1180
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: GPC
-  :GENRE: song
+  :book-number: 1180
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: GPC
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GPC:1e1
+  :genre: note
+  :cite-key: GPC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GPC:1e2
+  :genre: note
+  :cite-key: GPC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * A Oneness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:1
+  :cite-key: GPC:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ A fulness-life.
 * Be Pure Within
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:2
+  :cite-key: GPC:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ By God’s Fondness-Heart.
 * Concentration Is the Lightning-Speed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:3
+  :cite-key: GPC:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Of my third eye.
 * Danger! Danger!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:4
+  :cite-key: GPC:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ At my mind’s door.
 * Eagerness Is Victory’s Harbinger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:5
+  :cite-key: GPC:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Victory’s harbinger.
 * Fear Expedites
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:6
+  :cite-key: GPC:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ Everybody’s death-journey.
 * God the Creator Earns Within
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:7
+  :cite-key: GPC:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ God the Creation spends without.
 * Humility Is Wisdom-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:8
+  :cite-key: GPC:8
   :END:
 
 #+BEGIN_VERSE
@@ -183,10 +183,10 @@ Par excellence.
 * I Was Born to Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:9
+  :cite-key: GPC:9
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ God’s Perfection-choice.
 * Joy, Tell Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:10
+  :cite-key: GPC:10
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ On earth or in Heaven?
 * Kindness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:11
+  :cite-key: GPC:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ You are my oneness-fulness-journey’s start.
 * Love God Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:12
+  :cite-key: GPC:12
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ To be perfect.
 * Man’s Gratitude-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:13
+  :cite-key: GPC:13
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ I know not where they live.
 * God the Dreamer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:14
+  :cite-key: GPC:14
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ And man the lover.
 * Oneness Never Competes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: GPC:15
+  :cite-key: GPC:15
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Oneness only completes.
 * Eternity’s Self-Transcendence-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GPC:16
+  :cite-key: GPC:16
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ Self-transcendence-song.
 * Endless Questions
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: GPC:17
+  :cite-key: GPC:17
   :END:
 
 #+BEGIN_VERSE
@@ -341,10 +341,10 @@ Only one answer: God is my Eternity’s All.
 * Remember, My Heart, Remember
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: GPC:18
+  :cite-key: GPC:18
   :END:
 
 #+BEGIN_VERSE
@@ -358,10 +358,10 @@ Only God’s Love is all you need.
 * Surrender, Surrender
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: GPC:19
+  :cite-key: GPC:19
   :END:
 
 #+BEGIN_VERSE
@@ -376,10 +376,10 @@ Your secret Admirer.
 * Take Me and Bless Me, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: GPC:20
+  :cite-key: GPC:20
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ At Your Forgiveness-Feet.
 * Under Your Compassion-Protection
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: GPC:21
+  :cite-key: GPC:21
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ My Lord, I live.
 * My Heart’s Sweeping Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: GPC:22
+  :cite-key: GPC:22
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ Over my mind.
 * War No More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: GPC:23
+  :cite-key: GPC:23
   :END:
 
 #+BEGIN_VERSE
@@ -447,10 +447,10 @@ I see within, I see without.
 * Xanthippe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: GPC:24
+  :cite-key: GPC:24
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ You were an easy victim to anger.
 * Yule Days Arrive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: GPC:25
+  :cite-key: GPC:25
   :END:
 
 #+BEGIN_VERSE
@@ -483,10 +483,10 @@ Like the child of Mary.
 * Zero
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: GPC:26
+  :cite-key: GPC:26
   :END:
 
 #+BEGIN_VERSE

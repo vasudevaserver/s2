@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1233
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1998
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SMHS-1
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1233
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1998
+  :publisher: Agni Press
+  :cite-key: SMHS-1
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * This Series Of Rhyming Poems Was Commenced...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SMHS:1e1
+  :genre: note
+  :keywords:
+  :cite-key: SMHS:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ This series of rhyming poems was commenced on Sunday, 14 June 1998 in New York. 
 * 1 Sail...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:1
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:1
   :END:
 
 
@@ -55,9 +55,9 @@ To clasp our Lord's Nectar-Mail.
 * 2 Choice Hour...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:2
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:2
   :END:
 
 
@@ -77,9 +77,9 @@ At my sweet Lord's choice Hour!
 * 3 Rainbow-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:3
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:3
   :END:
 
 
@@ -99,9 +99,9 @@ A rainbow-dream.
 * 4 Perfection-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:4
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:4
   :END:
 
 
@@ -121,9 +121,9 @@ Perfection-dream.
 * 5 God-Climbing Fire...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:5
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:5
   :END:
 
 
@@ -143,9 +143,9 @@ The face and body of mire.
 * 6 Impurity-Insecurity...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:6
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:6
   :END:
 
 
@@ -165,9 +165,9 @@ Empty of insecurity-cries.
 * 7 The Right To Choose...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:7
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:7
   :END:
 
 
@@ -187,9 +187,9 @@ Him I have the right to choose.
 * 8 My Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:8
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:8
   :END:
 
 
@@ -209,9 +209,9 @@ Of my Lord Supreme.
 * 9 Mind-Tears Versus Heart-Smiles...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:9
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:9
   :END:
 
 
@@ -231,9 +231,9 @@ Keep me sailing.
 * 10 My Gratitude-Heart...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:10
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:10
   :END:
 
 
@@ -253,9 +253,9 @@ My mind's ego-pride-dart.
 * 11 Ecstasy's Endless Road...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:11
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:11
   :END:
 
 
@@ -275,9 +275,9 @@ Is ready to pave.
 * 12 Negativity-Mind...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:12
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:12
   :END:
 
 
@@ -297,9 +297,9 @@ Corner of my heart I find.
 * 13 Silence...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:13
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:13
   :END:
 
 
@@ -323,9 +323,9 @@ And flood all-where His Birth.
 * 14 Heart-Smile...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:14
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:14
   :END:
 
 
@@ -345,9 +345,9 @@ Heart-Smile to be.
 * 15 Halt...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:15
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:15
   :END:
 
 
@@ -367,9 +367,9 @@ To halt the pride of death.
 * 16 Emptiness...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:16
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:16
   :END:
 
 
@@ -389,9 +389,9 @@ And I together play!
 * 17 My Paintings...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:17
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:17
   :END:
 
 
@@ -411,9 +411,9 @@ I share near and far.
 * 18 My Poetry...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:18
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:18
   :END:
 
 
@@ -433,9 +433,9 @@ And joys-my journey's course.
 * 19 My Music...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:19
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:19
   :END:
 
 
@@ -455,9 +455,9 @@ To clasp ecstasy's drive.
 * 20 My Sports-Life...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:20
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:20
   :END:
 
 
@@ -477,9 +477,9 @@ Transcendence-together lead.
 * 21 My Tennis...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:21
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:21
   :END:
 
 
@@ -499,9 +499,9 @@ To be my Lord's choicest dove.
 * 22 My Prayer...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:22
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:22
   :END:
 
 
@@ -521,9 +521,9 @@ Wide without, sempiternally.
 * 23 My Meditation...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:23
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:23
   :END:
 
 
@@ -543,9 +543,9 @@ To fulfil all-where His express Choice.
 * 24 My Aspiration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:24
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:24
   :END:
 
 
@@ -565,9 +565,9 @@ In prayer-tears I can tie.
 * 25 My Dedication...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:25
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:25
   :END:
 
 
@@ -587,9 +587,9 @@ In God's hallowed Heart-Room.
 * 26 My Dear, Sweet Lord...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:26
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:26
   :END:
 
 
@@ -611,9 +611,9 @@ Without Your Heart's Forgiveness-Sky?
 * 27 Forward And Backward...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:27
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:27
   :END:
 
 
@@ -633,9 +633,9 @@ To garner my disgrace.
 * 28 Soothsayers And Truth-Prayers...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:28
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:28
   :END:
 
 
@@ -655,9 +655,9 @@ Nowhere truth-prayers.
 * 29 Smiles And Miles...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:29
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:29
   :END:
 
 
@@ -677,9 +677,9 @@ Enjoys expanding miles.
 * 30 Liberation-Shore...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:30
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:30
   :END:
 
 
@@ -699,9 +699,9 @@ Until you have clasped the Supreme Lord's Heart-Door.
 * 31 Fast Forward...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:31
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:31
   :END:
 
 
@@ -721,9 +721,9 @@ Desire from God His Peace-Award.
 * 32 Ignorance-Life-Tree...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:32
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:32
   :END:
 
 
@@ -743,9 +743,9 @@ Our venomed ignorance-life-tree.
 * 33 Detachment-Songs...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:33
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:33
   :END:
 
 
@@ -769,9 +769,9 @@ From world-ovation.
 * 34 Soul Divine And Life Human...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:34
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:34
   :END:
 
 
@@ -793,9 +793,9 @@ Pitifully cries and cries and cries.
 * 35 Complains And Contains...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:35
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:35
   :END:
 
 
@@ -815,9 +815,9 @@ My Lord's Fondness contains.
 * 36 What Else?...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:36
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:36
   :END:
 
 
@@ -837,9 +837,9 @@ If not exhilarating?
 * 37 Two Thirsty Eyes...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:37
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:37
   :END:
 
 
@@ -859,9 +859,9 @@ Two thirsty eyes.
 * 38 His Nectar-Rays...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:38
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:38
   :END:
 
 
@@ -881,9 +881,9 @@ Oh, where are His Nectar-Rays?
 * 39 The All-Devouring Night...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:39
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:39
   :END:
 
 
@@ -905,9 +905,9 @@ The all-devouring Night.
 * 40 Mind-Mart...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:40
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:40
   :END:
 
 
@@ -927,9 +927,9 @@ Far above mankind's wild confusion-mind-mart.
 * 41 Until You Claim Me...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:41
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:41
   :END:
 
 
@@ -949,9 +949,9 @@ My breath and I shall moan.
 * 42 My Heart-Nest...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:42
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:42
   :END:
 
 
@@ -971,9 +971,9 @@ My sleepless, tear-flooded heart-nest.
 * 43 Indifference-Absence...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:43
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:43
   :END:
 
 
@@ -996,9 +996,9 @@ Ceaseless we pant, we sigh.
 * 44 I Have Exiled...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:44
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:44
   :END:
 
 
@@ -1018,9 +1018,9 @@ My brooding self-doubts and fears.
 * 45 Your Dream-Boat...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:45
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:45
   :END:
 
 
@@ -1040,9 +1040,9 @@ Succeed I must-and never fail!
 * 46 Your Abandoned Child...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:46
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:46
   :END:
 
 
@@ -1064,9 +1064,9 @@ Your bewildered, abandoned child?
 * 47 God's Right-Hand Man...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:47
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:47
   :END:
 
 
@@ -1086,9 +1086,9 @@ Is a God's masterpiece-plan.
 * 48 Torture Me Not...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:48
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:48
   :END:
 
 
@@ -1110,9 +1110,9 @@ My Lord's Oneness-Heart-Play?
 * 49 Easy Solution...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:49
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:49
   :END:
 
 
@@ -1132,9 +1132,9 @@ But be a true man of action.
 * 50 My Lord Expects...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:50
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:50
   :END:
 
 
@@ -1154,9 +1154,9 @@ Of commotion.
 * 51 My Heart-Intimacy...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:51
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:51
   :END:
 
 
@@ -1176,9 +1176,9 @@ My surrender-heart-intimacy.
 * 52 Intricate And Intimate...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:52
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:52
   :END:
 
 
@@ -1198,9 +1198,9 @@ Makes everybody intimate.
 * 53 A New Way...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:53
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:53
   :END:
 
 
@@ -1220,9 +1220,9 @@ Every day.
 * 54 Who Cares?...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:54
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:54
   :END:
 
 
@@ -1242,9 +1242,9 @@ If He gives me not an iota of peace!
 * 55 Below, Above...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:55
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:55
   :END:
 
 
@@ -1264,9 +1264,9 @@ Below, above.
 * 56 Silence-Seas...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:56
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:56
   :END:
 
 
@@ -1286,9 +1286,9 @@ Your heart's silence-seas?
 * 57 Why Am I?...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:57
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:57
   :END:
 
 
@@ -1308,9 +1308,9 @@ Jungle-mind-impurity."
 * 58 My Sincerity-Mind...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:58
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:58
   :END:
 
 
@@ -1330,9 +1330,9 @@ Needs to be taught.
 * 59 Invitation...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:59
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:59
   :END:
 
 
@@ -1352,9 +1352,9 @@ From everywhere, near and far.
 * 60 Perfection-Hand...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:60
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:60
   :END:
 
 
@@ -1374,9 +1374,9 @@ World-Perfection-Hand.
 * 61 Cry And Sigh...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:61
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:61
   :END:
 
 
@@ -1396,9 +1396,9 @@ Even to cry and sigh?
 * 62 Compassion-Eye...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:62
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:62
   :END:
 
 
@@ -1418,9 +1418,9 @@ The domain of ignorance-night.
 * 63 An Ageless Child...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:63
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:63
   :END:
 
 
@@ -1440,9 +1440,9 @@ The world's heavy burden.
 * 64 The Sunshine-Love...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:64
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:64
   :END:
 
 
@@ -1462,9 +1462,9 @@ My life and I ever bask.
 * 65 Infinity Expands...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:65
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:65
   :END:
 
 
@@ -1488,9 +1488,9 @@ Everything disbands.
 * 66 Popularity...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:66
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:66
   :END:
 
 
@@ -1510,9 +1510,9 @@ Perpetually to feed.
 * 67 Fulfilment-Command...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:67
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:67
   :END:
 
 
@@ -1532,9 +1532,9 @@ With no expectation-demand.
 * 68 Golden Shore...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:68
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:68
   :END:
 
 
@@ -1554,9 +1554,9 @@ To the Golden Shore.
 * 69 God Claimed...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:69
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:69
   :END:
 
 
@@ -1576,9 +1576,9 @@ My heart God claimed.
 * 70 Paradise...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SMHS:70
+  :genre: poem
+  :keywords:
+  :cite-key: SMHS:70
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1099
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1995
-  :PUBLISHER: Agni Press
-  :CITE-KEY: AEHG
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1099
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1995
+  :publisher: Agni Press
+  :cite-key: AEHG
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: AEHG:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: AEHG:1e1
   :END:
 
 /The questions in this book were asked by children between the ages of six and ninety-nine./
@@ -34,9 +34,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:1
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:1
   :END:
 
 
@@ -56,9 +56,9 @@ Ashrita Furman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:2
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:2
   :END:
 
 
@@ -80,9 +80,9 @@ Chidananda Burke
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:3
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:3
   :END:
 
 
@@ -104,9 +104,9 @@ Sagar Levin
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:4
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:4
   :END:
 
 
@@ -130,9 +130,9 @@ Hiyamallar Shalom
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:5
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:5
   :END:
 
 
@@ -152,9 +152,9 @@ Dhrubha Hein
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:6
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:6
   :END:
 
 
@@ -175,9 +175,9 @@ Unmesh
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:7
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:7
   :END:
 
 
@@ -196,9 +196,9 @@ Ranjit Swanson
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:8
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:8
   :END:
 
 
@@ -220,9 +220,9 @@ Agraha Levlne
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:9
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:9
   :END:
 
 
@@ -243,9 +243,9 @@ Abedan Solomon
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:10
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:10
   :END:
 
 
@@ -268,9 +268,9 @@ Databir Watters
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:11
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:11
   :END:
 
 
@@ -291,9 +291,9 @@ Chirantan Serlin
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:12
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:12
   :END:
 
 
@@ -313,9 +313,9 @@ I just want to be a constant dreamer like You.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:13
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:13
   :END:
 
 
@@ -334,9 +334,9 @@ Kalyan Farrington
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:14
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:14
   :END:
 
 
@@ -357,9 +357,9 @@ Kalatit Baker
 * My Lord Supreme...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:15
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:15
   :END:
 
 
@@ -382,9 +382,9 @@ Rupantar La Russo
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:16
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:16
   :END:
 
 
@@ -403,9 +403,9 @@ Mahiyan Savage
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:17
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:17
   :END:
 
 
@@ -425,9 +425,9 @@ Sunil Davidson
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:18
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:18
   :END:
 
 
@@ -448,9 +448,9 @@ Boiragi Podell
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:19
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:19
   :END:
 
 
@@ -470,9 +470,9 @@ Savyasachi Brown
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:20
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:20
   :END:
 
 
@@ -494,9 +494,9 @@ Shambhu Vineberg
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:21
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:21
   :END:
 
 
@@ -515,9 +515,9 @@ Prabesh Liske
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:22
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:22
   :END:
 
 
@@ -538,9 +538,9 @@ Sudheya Rosenberg
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:23
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:23
   :END:
 
 
@@ -559,9 +559,9 @@ Bipin Larkin
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:24
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:24
   :END:
 
 
@@ -581,9 +581,9 @@ Pujari Schaeffer
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:25
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:25
   :END:
 
 
@@ -605,9 +605,9 @@ Kanan Roberts
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:26
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:26
   :END:
 
 
@@ -628,9 +628,9 @@ Maral Siegel
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:27
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:27
   :END:
 
 
@@ -653,9 +653,9 @@ I shall fully understand.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:28
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:28
   :END:
 
 
@@ -675,9 +675,9 @@ Ketan Tamm
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:29
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:29
   :END:
 
 
@@ -698,9 +698,9 @@ Kripalu Baertsch
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:30
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:30
   :END:
 
 
@@ -719,9 +719,9 @@ Nayak Polissar
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:31
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:31
   :END:
 
 
@@ -741,9 +741,9 @@ Narada Walden
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:32
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:32
   :END:
 
 
@@ -765,9 +765,9 @@ Premik Tubbs
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:33
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:33
   :END:
 
 
@@ -788,9 +788,9 @@ Pravin Mimms
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:34
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:34
   :END:
 
 
@@ -820,9 +820,9 @@ Sudhahota Carl Lewis
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:35
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:35
   :END:
 
 
@@ -844,9 +844,9 @@ Surashri Paradis
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:36
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:36
   :END:
 
 
@@ -867,9 +867,9 @@ Bishwas Polissar
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:37
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:37
   :END:
 
 
@@ -889,9 +889,9 @@ Durdam Rocherolle
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:38
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:38
   :END:
 
 
@@ -914,9 +914,9 @@ Gangadhar Rocherolle
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:39
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:39
   :END:
 
 
@@ -940,9 +940,9 @@ Sandhani Fitch
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:40
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:40
   :END:
 
 
@@ -964,9 +964,9 @@ Astika Mason
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:41
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:41
   :END:
 
 
@@ -985,9 +985,9 @@ Pulak Viscardi
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:42
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:42
   :END:
 
 
@@ -1008,9 +1008,9 @@ Bhima Hogan
 * My Lord Supreme....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:43
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:43
   :END:
 
 
@@ -1031,9 +1031,9 @@ Pradhan Balter
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:44
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:44
   :END:
 
 
@@ -1054,9 +1054,9 @@ Aparajita Fishman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:45
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:45
   :END:
 
 
@@ -1076,9 +1076,9 @@ is past correction.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:46
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:46
   :END:
 
 
@@ -1097,9 +1097,9 @@ Golapendu Ng
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:47
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:47
   :END:
 
 
@@ -1119,9 +1119,9 @@ Mokshagun Clarence Clemons
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:48
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:48
   :END:
 
 
@@ -1140,9 +1140,9 @@ Aushadi
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:49
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:49
   :END:
 
 
@@ -1162,9 +1162,9 @@ Abakash Konopiaty
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:50
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:50
   :END:
 
 
@@ -1184,9 +1184,9 @@ Nirvik Coleman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:51
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:51
   :END:
 
 
@@ -1205,9 +1205,9 @@ Sahishnu Szczesiul
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:52
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:52
   :END:
 
 
@@ -1227,9 +1227,9 @@ Venu Riggio
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:53
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:53
   :END:
 
 
@@ -1250,9 +1250,9 @@ Tejiyan Hogan
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:54
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:54
   :END:
 
 
@@ -1273,9 +1273,9 @@ Saral Opera
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:55
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:55
   :END:
 
 
@@ -1294,9 +1294,9 @@ Sanatan Curchack
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:56
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:56
   :END:
 
 
@@ -1314,9 +1314,9 @@ Padamrita Bradshaw
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:57
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:57
   :END:
 
 
@@ -1341,9 +1341,9 @@ Nripal Petersen
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:58
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:58
   :END:
 
 
@@ -1360,9 +1360,9 @@ My Lord, can we somehow strike a balance?
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:59
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:59
   :END:
 
 
@@ -1385,9 +1385,9 @@ Dhanu Alaimo
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:60
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:60
   :END:
 
 
@@ -1408,9 +1408,9 @@ Bhashwar Hart
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:61
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:61
   :END:
 
 
@@ -1433,9 +1433,9 @@ Arpan DeAngelo
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:62
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:62
   :END:
 
 
@@ -1459,9 +1459,9 @@ Nachiketa Acebo
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:63
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:63
   :END:
 
 
@@ -1484,9 +1484,9 @@ Mohan Peck
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:64
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:64
   :END:
 
 
@@ -1507,9 +1507,9 @@ Dharmaja Acterman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:65
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:65
   :END:
 
 
@@ -1528,9 +1528,9 @@ Himangshu Kozachek
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:66
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:66
   :END:
 
 
@@ -1550,9 +1550,9 @@ Jigisha Enquist
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:67
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:67
   :END:
 
 
@@ -1573,9 +1573,9 @@ Dhurjati Mueller
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:68
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:68
   :END:
 
 
@@ -1597,9 +1597,9 @@ Tyagambar Ramos
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:69
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:69
   :END:
 
 
@@ -1622,9 +1622,9 @@ Jeevan Kracht
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:70
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:70
   :END:
 
 
@@ -1647,9 +1647,9 @@ Shikhar Boyd
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:71
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:71
   :END:
 
 
@@ -1672,9 +1672,9 @@ Jagrata Minardi
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:72
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:72
   :END:
 
 
@@ -1696,9 +1696,9 @@ Manorath Morrison
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:73
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:73
   :END:
 
 
@@ -1718,9 +1718,9 @@ Santaru Stephens
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:74
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:74
   :END:
 
 
@@ -1739,9 +1739,9 @@ Rodan St. James
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:75
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:75
   :END:
 
 
@@ -1762,9 +1762,9 @@ Atmatyagi Kutt
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:76
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:76
   :END:
 
 
@@ -1785,9 +1785,9 @@ Subas Schlipstein
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:77
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:77
   :END:
 
 
@@ -1807,9 +1807,9 @@ Chalanta O'Connell
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:78
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:78
   :END:
 
 
@@ -1833,9 +1833,9 @@ Ranganath Carnahan
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:79
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:79
   :END:
 
 
@@ -1855,9 +1855,9 @@ that You do not care for sleep at all?
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:80
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:80
   :END:
 
 
@@ -1872,9 +1872,9 @@ Why is it that my inner sun sleeps and sleeps and sleeps? Is it because I am so 
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:81
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:81
   :END:
 
 
@@ -1895,9 +1895,9 @@ Kandari Hart
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:82
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:82
   :END:
 
 
@@ -1917,9 +1917,9 @@ Kulan Walden
 * My Lord Supreme....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:83
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:83
   :END:
 
 
@@ -1941,9 +1941,9 @@ Ganapati Coleman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:84
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:84
   :END:
 
 
@@ -1967,9 +1967,9 @@ Shraddha Howard
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:85
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:85
   :END:
 
 
@@ -1989,9 +1989,9 @@ Arohan Agdern
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:86
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:86
   :END:
 
 
@@ -2016,9 +2016,9 @@ Papaha Gosline
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:87
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:87
   :END:
 
 
@@ -2042,9 +2042,9 @@ Premananda Childs
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:88
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:88
   :END:
 
 
@@ -2067,9 +2067,9 @@ Pratap Bushek
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:89
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:89
   :END:
 
 
@@ -2089,9 +2089,9 @@ Sphulinga McManus
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:90
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:90
   :END:
 
 
@@ -2114,9 +2114,9 @@ Charlie Rebich
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:91
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:91
   :END:
 
 
@@ -2136,9 +2136,9 @@ Urdhacheta O'Brien
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:92
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:92
   :END:
 
 
@@ -2158,9 +2158,9 @@ Voirabh Kahn
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:93
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:93
   :END:
 
 
@@ -2176,9 +2176,9 @@ as dull as they are here on earth?
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:94
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:94
   :END:
 
 
@@ -2198,9 +2198,9 @@ Sudip Ramos
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:95
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:95
   :END:
 
 
@@ -2220,9 +2220,9 @@ Grahan Zimmerrnan
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:96
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:96
   :END:
 
 
@@ -2244,9 +2244,9 @@ Amayik Duckles
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:97
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:97
   :END:
 
 
@@ -2269,9 +2269,9 @@ Randolph Scott-McLaughlin
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:98
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:98
   :END:
 
 
@@ -2292,9 +2292,9 @@ Khipra Nichols
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:99
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:99
   :END:
 
 
@@ -2313,9 +2313,9 @@ Noivedya Brower
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:100
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:100
   :END:
 
 
@@ -2337,9 +2337,9 @@ Chris Lupinacci
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:101
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:101
   :END:
 
 
@@ -2362,9 +2362,9 @@ Trishatur La Galia
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:102
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:102
   :END:
 
 
@@ -2388,9 +2388,9 @@ Bhakta Susco
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:103
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:103
   :END:
 
 
@@ -2413,9 +2413,9 @@ Sumantra Brisson
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:104
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:104
   :END:
 
 
@@ -2438,9 +2438,9 @@ Subhakara Csenge
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:105
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:105
   :END:
 
 
@@ -2460,9 +2460,9 @@ Shashanka Menard
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:106
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:106
   :END:
 
 
@@ -2482,9 +2482,9 @@ Gochar Mursinna
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:107
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:107
   :END:
 
 
@@ -2505,9 +2505,9 @@ Bichakshan Hodding
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:108
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:108
   :END:
 
 
@@ -2524,9 +2524,9 @@ Peter Benedict
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:109
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:109
   :END:
 
 
@@ -2543,9 +2543,9 @@ Durjaya Pliske
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:110
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:110
   :END:
 
 
@@ -2564,9 +2564,9 @@ Vajra Henderson
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:111
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:111
   :END:
 
 
@@ -2583,9 +2583,9 @@ Pantha Shapiro
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:112
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:112
   :END:
 
 
@@ -2602,9 +2602,9 @@ Sakshat Flowers
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:113
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:113
   :END:
 
 
@@ -2621,9 +2621,9 @@ Sujantra McKeever
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:114
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:114
   :END:
 
 
@@ -2642,9 +2642,9 @@ Gaurob Zimmerman
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:115
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:115
   :END:
 
 
@@ -2663,9 +2663,9 @@ Nibir Cole
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:116
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:116
   :END:
 
 
@@ -2682,9 +2682,9 @@ Ken Kresge
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AEHG:117
+  :genre: poem
+  :keywords:
+  :cite-key: AEHG:117
   :END:
 
 

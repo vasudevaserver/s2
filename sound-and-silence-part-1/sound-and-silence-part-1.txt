@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0498
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1982
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SNSL-1
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0498
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1982
+  :publisher: Agni Press
+  :cite-key: SNSL-1
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: SNSL:1e1
+ :genre: note
+ :keywords:
+ :cite-key: SNSL:1e1
  :END:
 
 /The talks in this book are part of a series that Sri Chinmoy delivered in the spring of 1981 at 14 universities in California and on the East Coast. The series covered all of the Ivy League universities, many of the Seven Sister colleges, the University of California at Berkeley and Stanford University./
@@ -34,9 +34,9 @@
 * Perfection
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:1
   :END:
 
 
@@ -69,9 +69,9 @@ If the body sincerely tries, if the vital dynamically strives, if the mind despe
 * Transcendence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:2
   :END:
 
 
@@ -102,9 +102,9 @@ If I cannot transcend myself, it is no disgrace. But if I do not want to transce
 * Concentration-art
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:3
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:3
   :END:
 
 
@@ -137,9 +137,9 @@ Concentration-art, meditation-art and contemplation-art. Concentration-art pierc
 * Compassion
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:4
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:4
   :END:
 
 
@@ -178,9 +178,9 @@ God’s unconditional Compassion grants humanity hope and grants divinity promis
 * The Vision-dawn
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:5
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:5
   :END:
 
 
@@ -219,9 +219,9 @@ O Vision-Dawn, here we are all seekers, seekers of infinite Light and Truth. As 
 * Contemplation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:6
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:6
   :END:
 
 
@@ -282,9 +282,9 @@ Contemplation is for the seeker. Contemplation is for the knower. Contemplation 
 * Liberation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SNSL:7
+  :genre: discourse
+  :keywords:
+  :cite-key: SNSL:7
   :END:
 
 
@@ -323,9 +323,9 @@ Each individual seeker needs liberation. For liberation, what he needs first is 
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SNSL:8e1
+  :genre: section
+  :keywords:
+  :cite-key: SNSL:8e1
   :END:
 
 
@@ -333,9 +333,9 @@ Each individual seeker needs liberation. For liberation, what he needs first is 
 * Question: I need Aspiration. How can I get it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:8
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:8
   :END:
 
 
@@ -352,9 +352,9 @@ If you give me something, and immediately I appreciate it and appreciate you, th
 * Question: What is the best way to keep extraneous thoughts out of your mind when you are trying to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:9
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:9
   :END:
 
 
@@ -369,9 +369,9 @@ So, in the beginning it is best for us not to allow any thoughts to enter our mi
 * Question: Would it be best for me to take the Kriya Yoga classes that have been offered to me by the woman whose picture I showed you? Is that in my best interest?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:10
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:10
   :END:
 
 
@@ -386,9 +386,9 @@ Trying to assess this teacher or to judge me is simply a waste of your own preci
 * Question: Sri Chinmoy, why is it that I feel more divinity in a flower than in a piece of wood? Isn’t divinity in everything?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:11
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:11
   :END:
 
 
@@ -405,9 +405,9 @@ Again, today God may want you to appreciate His Beauty aspect, tomorrow He may w
 * Question: What is the difference between concentration, meditation and contemplation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:12
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:12
   :END:
 
 
@@ -426,9 +426,9 @@ During meditation a softness, sweetness and one-pointed adoration will come forw
 * Question: In concentration we must concentrate on something small and in meditation we must concentrate on something large?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:13
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:13
   :END:
 
 
@@ -439,9 +439,9 @@ During meditation a softness, sweetness and one-pointed adoration will come forw
 * Question: Is evil simply the absence of God’s Presence, or is it an actual force?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:14
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:14
   :END:
 
 
@@ -458,9 +458,9 @@ The little forces and big forces that we call destructive we have to throw into 
 * Question: Can you speak about the doubting mind? Is it something we have to crucify?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:15
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:15
   :END:
 
 
@@ -477,9 +477,9 @@ God has sent us here to do some special work for Him. Everything that we have an
 * Question: What is the difference between aspiration and desire?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:16
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:16
   :END:
 
 
@@ -500,9 +500,9 @@ Desire binds us; aspiration liberates us. Desire wants to lord it over others. A
 * Question: How can we be more attached to pleasing God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:17
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:17
   :END:
 
 
@@ -521,9 +521,9 @@ If we have a sincere, genuine inner cry, then all our problems will be solved. B
 * Question: I'm trying to have faith in all that you are saying. But if it is true, why don’t I feel light and peace inside me?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SNSL:18
+  :genre: qa
+  :keywords:
+  :cite-key: SNSL:18
   :END:
 
 

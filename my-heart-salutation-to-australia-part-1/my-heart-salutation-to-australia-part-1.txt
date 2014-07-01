@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0268
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MHSA-1
-  :GENRE: poem, discourse, qa
-  :KEYWORDS:
+  :book-number: 0268
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: MHSA-1
+  :genre: poem, discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Salutation To The Soul Of Australia
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MHSA:1
+  :genre: poem
+  :keywords:
+  :cite-key: MHSA:1
   :END:
 
 
@@ -78,9 +78,9 @@ universal treasure.
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:2
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:2
   :END:
 
 
@@ -121,9 +121,9 @@ Here we are all seekers. We have made an outer promise and an inner promise. Our
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MHSA:3e1
+  :genre: section
+  :keywords:
+  :cite-key: MHSA:3e1
   :END:
 
 
@@ -131,9 +131,9 @@ Here we are all seekers. We have made an outer promise and an inner promise. Our
 * Question: I Come From Auroville And I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:3
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:3
   :END:
 
 
@@ -146,9 +146,9 @@ Here we are all seekers. We have made an outer promise and an inner promise. Our
 * Question: Are You A Christian?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:4
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:4
   :END:
 
 
@@ -163,9 +163,9 @@ Again, if we enter into the mental world, then there is conflict between this di
 * Question: How Can We Transform Surrender From...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:5
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:5
   :END:
 
 
@@ -182,9 +182,9 @@ Forced surrender the slave will make to the master. But in spiritual surrender w
 * Question: Does The Practice Of Kriya Yoga...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:6
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:6
   :END:
 
 
@@ -197,9 +197,9 @@ Forced surrender the slave will make to the master. But in spiritual surrender w
 * Question: Sir, There Seems To Be Inside...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:7
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:7
   :END:
 
 
@@ -216,9 +216,9 @@ Both the rooms belong to you, but you have been staying in the dark room which i
 * Question: I Feel As Though My Being...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:8
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:8
   :END:
 
 
@@ -231,9 +231,9 @@ Both the rooms belong to you, but you have been staying in the dark room which i
 * Philosophy, Spirituality And Yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:9
   :END:
 
 
@@ -270,9 +270,9 @@ But eventually there comes a time when the seeker realises that imagination and 
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MHSA:10e1
+  :genre: section
+  :keywords:
+  :cite-key: MHSA:10e1
   :END:
 
 
@@ -280,9 +280,9 @@ But eventually there comes a time when the seeker realises that imagination and 
 * Dear Seekers, Dear Sisters And Brothers, I...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:10
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:10
   :END:
 
 
@@ -295,9 +295,9 @@ If you have any spiritual questions, I will take them as a golden opportunity to
 * Question: Which Would Come First: Realisation Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:11
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:11
   :END:
 
 
@@ -316,9 +316,9 @@ If somebody has no Master and he wants to discover the Truth all by himself, let
 * Question: There Are Many Spiritual Masters In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:12
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:12
   :END:
 
 
@@ -333,9 +333,9 @@ There are many teachers. But one teacher you will find who gives you immediate j
 * Question: Does Not The Desire For Satisfaction...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:13
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:13
   :END:
 
 
@@ -350,9 +350,9 @@ When we walk along the path of aspiration, we will be satisfied not by getting P
 * Question: Why Do You Need A Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:14
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:14
   :END:
 
 
@@ -373,9 +373,9 @@ Inside aspiration is realisation. Inside aspiration is revelation. Inside aspira
 * Question: Do You See Australia Playing A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:15
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:15
   :END:
 
 
@@ -388,9 +388,9 @@ Inside aspiration is realisation. Inside aspiration is revelation. Inside aspira
 * Question: How Can We All Manifest Love...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:16
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:16
   :END:
 
 
@@ -417,9 +417,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Meeting With The Lord Mayor Of Perth
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MHSA:17
+  :genre: meeting
+  :keywords:
+  :cite-key: MHSA:17
   :END:
 
 
@@ -427,9 +427,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Responsibility
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:18
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:18
   :END:
 
 
@@ -440,9 +440,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Service At The U.n.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:19
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:19
   :END:
 
 
@@ -457,9 +457,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Humility
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:20
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:20
   :END:
 
 
@@ -478,9 +478,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * A Lover Of God And Truth
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:21
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:21
   :END:
 
 
@@ -493,9 +493,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Dedication
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MHSA:22e1
+  :genre: note
+  :keywords:
+  :cite-key: MHSA:22e1
   :END:
 
 
@@ -506,9 +506,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Meeting With Ian Cairns
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MHSA:22e2
+  :genre: note
+  :keywords:
+  :cite-key: MHSA:22e2
   :END:
 
 
@@ -519,9 +519,9 @@ I am extremely grateful to all the seekers here. As I said before, I feel perfec
 * Concentration And Meditation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:22
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:22
   :END:
 
 
@@ -540,9 +540,9 @@ How do you meditate? You meditate with an inner cry. There should be an inner cr
 * Benefits Of Meditation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:23
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:23
   :END:
 
 
@@ -575,9 +575,9 @@ So we don't have to give up our religion, only we have to study at our inner sch
 * Having A Teacher
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:24
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:24
   :END:
 
 
@@ -596,9 +596,9 @@ So we don't have to give up our religion, only we have to study at our inner sch
 * Rose Bush For World Peace
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MHSA:25e1
+  :genre: section
+  :keywords:
+  :cite-key: MHSA:25e1
   :END:
 
 
@@ -609,9 +609,9 @@ So we don't have to give up our religion, only we have to study at our inner sch
 * Rose Bush For World Peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:25
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:25
   :END:
 
 
@@ -632,9 +632,9 @@ I'm quite sure a large number of people, sir, will have a look at this. Question
 * Aspiration And Realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:26
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:26
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0192
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGS-1
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0192
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: MGS-1
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Meditation-World
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MGS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:1
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:1
   :END:
 
 
@@ -60,9 +60,9 @@ This is the ultimate way of meditation.
 * Question: How Do I Begin Meditation?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:2
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:2
   :END:
 
 
@@ -83,9 +83,9 @@ I always recommend that one should practise concentration; otherwise, meditation
 * Question: When We Are Learning To Meditate,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:3
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:3
   :END:
 
 
@@ -102,9 +102,9 @@ If you have meditated for a number of years and feel that you are not a beginner
 * Question: I Would Like To Know What...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:4
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:4
   :END:
 
 
@@ -123,9 +123,9 @@ When one has reached God, when one has God, the path ends. At that time we do no
 * Question: In Order To Practise Meditation With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:5
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:5
   :END:
 
 
@@ -138,9 +138,9 @@ When one has reached God, when one has God, the path ends. At that time we do no
 * Question: How Should I Do Meditation If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:6
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:6
   :END:
 
 
@@ -159,9 +159,9 @@ Regularity is necessary. Although we are regular, we may not give first importan
 * Question: I Have Never Been To Your...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:7
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:7
   :END:
 
 
@@ -180,9 +180,9 @@ You are a beginner, but you don't have to be doomed to disappointment. Your sinc
 * Question: Is It Good For One To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:8
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:8
   :END:
 
 
@@ -197,9 +197,9 @@ If you see that a thief or some other culprit is sitting beside you, then automa
 * Question: I Attend The Meditation Here At...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:9
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:9
   :END:
 
 
@@ -212,9 +212,9 @@ If you see that a thief or some other culprit is sitting beside you, then automa
 * Question: Why Do We Have To Meditate...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:10
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:10
   :END:
 
 
@@ -227,9 +227,9 @@ If you see that a thief or some other culprit is sitting beside you, then automa
 * Question: I Have Recently Become Your Disciple....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:11
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:11
   :END:
 
 
@@ -242,9 +242,9 @@ If you see that a thief or some other culprit is sitting beside you, then automa
 * Question: Why Should Someone Meditating Alone In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:12
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:12
   :END:
 
 
@@ -257,9 +257,9 @@ If you see that a thief or some other culprit is sitting beside you, then automa
 * Question: Why Is It Necessary To Have...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:13
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:13
   :END:
 
 
@@ -274,9 +274,9 @@ Flowers, incense and washing before meditation also help us to have purity. The 
 * Question: Should A Person Be Alone When...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:14
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:14
   :END:
 
 
@@ -291,9 +291,9 @@ What we need is transformation. We have to accept the world as it is now. If we 
 * Question: Can We Meditate While Lying Down?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:15
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:15
   :END:
 
 
@@ -306,9 +306,9 @@ What we need is transformation. We have to accept the world as it is now. If we 
 * Question: I Don't Seem To Feel Comfortable...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:16
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:16
   :END:
 
 
@@ -321,9 +321,9 @@ What we need is transformation. We have to accept the world as it is now. If we 
 * Question: Is The Lotus Position The Most...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:17
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:17
   :END:
 
 
@@ -336,9 +336,9 @@ What we need is transformation. We have to accept the world as it is now. If we 
 * Question: I Read A Book About Concentration...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:18
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:18
   :END:
 
 
@@ -351,9 +351,9 @@ What we need is transformation. We have to accept the world as it is now. If we 
 * Question: I Wonder If You Could Tell...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:19
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:19
   :END:
 
 
@@ -368,9 +368,9 @@ If you want spiritual discipline, then you have to know how to concentrate. Conc
 * Question: To Start Meditation, Do You Discipline...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:20
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:20
   :END:
 
 
@@ -385,9 +385,9 @@ God is all Love and Joy. The most effective way to please God and to become one 
 * Question: How Do You Go About Emptying...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:21
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:21
   :END:
 
 
@@ -400,9 +400,9 @@ God is all Love and Joy. The most effective way to please God and to become one 
 * Question: How Do You Do It?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:22
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:22
   :END:
 
 
@@ -415,9 +415,9 @@ God is all Love and Joy. The most effective way to please God and to become one 
 * Question: Can We Do Our Meditation Without...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:23
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:23
   :END:
 
 
@@ -432,9 +432,9 @@ You have to welcome only good thoughts, divine thoughts. These are your true fri
 * Question: I Am A Musician And I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:24
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:24
   :END:
 
 
@@ -453,9 +453,9 @@ First you try to focus your attention on a particular object, then you enter int
 * Question: To Be One's Witness Is The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:25
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:25
   :END:
 
 
@@ -476,9 +476,9 @@ First you try to focus your attention on a particular object, then you enter int
 * Question: I'd Like To Develop Better Concentration...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:26
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:26
   :END:
 
 
@@ -495,9 +495,9 @@ Next I would like you to focus your attention on a picture. You can look at my p
 * Question: How Do You Apply That Way...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:27
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:27
   :END:
 
 
@@ -510,9 +510,9 @@ Next I would like you to focus your attention on a picture. You can look at my p
 * Question: I Would Like You To Teach...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:28
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:28
   :END:
 
 
@@ -529,9 +529,9 @@ The difficulty is that unless and until you are commanded by the inner being, or
 * Question: How Can We Meditate Better Each...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:29
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:29
   :END:
 
 
@@ -546,9 +546,9 @@ If you want to make your meditation better, you have to feel a need, a divine ne
 * Question: Is Meditation Our Duty?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:30
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:30
   :END:
 
 
@@ -561,9 +561,9 @@ If you want to make your meditation better, you have to feel a need, a divine ne
 * Question: What Do You Mean When You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:31
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:31
   :END:
 
 
@@ -576,9 +576,9 @@ If you want to make your meditation better, you have to feel a need, a divine ne
 * Question: What Happens If After Meditating For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:32
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:32
   :END:
 
 
@@ -593,9 +593,9 @@ So always be on the alert and run as fast as you can towards your Goal. Do not s
 * Question: Do You Pray Sometimes?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:33
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:33
   :END:
 
 
@@ -608,9 +608,9 @@ So always be on the alert and run as fast as you can towards your Goal. Do not s
 * Question: Is There A Method Whereby If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:34
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:34
   :END:
 
 
@@ -623,9 +623,9 @@ So always be on the alert and run as fast as you can towards your Goal. Do not s
 * Question: Do You Feel Pain While You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGS:35
+  :genre: qa
+  :keywords:
+  :cite-key: MGS:35
   :END:
 
 

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 718
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1987
-  :PUBLISHER:
-  :CITE-KEY: SVRS
-  :GENRE: song
+  :book-number: 718
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1987
+  :publisher:
+  :cite-key: SVRS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SVRS:1e1
+  :genre: note
+  :cite-key: SVRS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SVRS:1e2
+  :genre: note
+  :cite-key: SVRS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Mangal Hok Mangalmoy Mangal Sabakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1984
-  :CITE-KEY: SVRS:1
+  :cite-key: SVRS:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Jani taha anibar
 * Jaya Jaya Bhagaban Simahin Sumahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1984
-  :CITE-KEY: SVRS:2
+  :cite-key: SVRS:2
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ Nahi habo hayran
 * Amar Kichu Na Thakile Nahi Thakuk
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1984
-  :CITE-KEY: SVRS:3
+  :cite-key: SVRS:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Barek hiyai tomar ankhir parash laguk
 * Ar Sab Jai Jak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1984
-  :CITE-KEY: SVRS:4
+  :cite-key: SVRS:4
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Nitya dhare thak
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-12-1984
-  :CITE-KEY: SVRS:5
+  :cite-key: SVRS:5
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ For your very existence-life.
 * Jago Antare Chira Sundara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1984
-  :CITE-KEY: SVRS:6
+  :cite-key: SVRS:6
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ Nitya nirantara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1984
-  :CITE-KEY: SVRS:7
+  :cite-key: SVRS:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Do steer my life-boat sleeplessly and breathlessly.
 * Dukkha Seto Sukher Apar Nam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1984
-  :CITE-KEY: SVRS:8
+  :cite-key: SVRS:8
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Lakya amar nityananda dham
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1984
-  :CITE-KEY: SVRS:9
+  :cite-key: SVRS:9
   :END:
 
 #+BEGIN_VERSE
@@ -203,10 +203,10 @@ My goal is Eternity’s Delight-clime.
 * Kanna Hasi Man Apaman Seto Abhinoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:10
+  :cite-key: SVRS:10
   :END:
 
 #+BEGIN_VERSE
@@ -220,10 +220,10 @@ Atma chira asim amar nityanandamoy
 * Kisher Moha Bhore Sanjhe Tane Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:11
+  :cite-key: SVRS:11
   :END:
 
 #+BEGIN_VERSE
@@ -237,10 +237,10 @@ Keno amai nahi harai tomar jaya gane
 * Ami Tomar Pagla Chhele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:12
+  :cite-key: SVRS:12
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Thai je pabo charan tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:13
+  :cite-key: SVRS:13
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ I shall definitely get my seat at Your Feet.
 * Shudhu Abhinoy Sakaler Prane Sundar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:14
+  :cite-key: SVRS:14
   :END:
 
 #+BEGIN_VERSE
@@ -293,10 +293,10 @@ Shudhu britha akaran
 * Ogo Arup Dekhao Tomar Bishwarup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:15
+  :cite-key: SVRS:15
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Jwaliye dao antare mor spriha dhup
 * Chaowa Paowa Rakhbo Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:16
+  :cite-key: SVRS:16
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Pran gabhire bandhbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:17
+  :cite-key: SVRS:17
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ I shall worship You, My Lord,
 * Dekhi Jena Sabar Chokhe Tomar Dyuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:18
+  :cite-key: SVRS:18
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Tomai jena daki
 * Bidhata Tomai Karechhe Baran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:19
+  :cite-key: SVRS:19
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ Ami heya abhajan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:20
+  :cite-key: SVRS:20
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Because God has not accepted me.
 * Namer Kangal Na Jena Hoi Na Chahi Bad
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1984
-  :CITE-KEY: SVRS:21
+  :cite-key: SVRS:21
   :END:
 
 #+BEGIN_VERSE
@@ -425,10 +425,10 @@ Maha prabhur nam
 * Janma Mrityu Hasi Kanna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:22
+  :cite-key: SVRS:22
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Satya sathi sudhamoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:23
+  :cite-key: SVRS:23
   :END:
 
 #+BEGIN_VERSE
@@ -464,10 +464,10 @@ Bliss-flooded truth-companion.
 * Krishna Krishna Mantra Japi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:24
+  :cite-key: SVRS:24
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Bishwa pita Sri Krishna amai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:25
+  :cite-key: SVRS:25
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ O Krishna, Lord of the Universe.
 * Ki Sundaro Nitya Mukta Nilambara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:26
+  :cite-key: SVRS:26
   :END:
 
 #+BEGIN_VERSE
@@ -520,10 +520,10 @@ Man pran dehe eso neme tumi he sundaro
 * Ami O Amar Sab Bidhatar Parichoy Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:27
+  :cite-key: SVRS:27
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Parichoy mama dharai amar
 * Ghumer Deshe Swapan Deshe Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:28
+  :cite-key: SVRS:28
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Chali mora prashanti purir uddeshe
 * Karina Ash Hoina Hatash Chitte Ullas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:29
+  :cite-key: SVRS:29
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Chitte ullas nitya ullas
 * Ami Chinmoy Mangalamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:30
+  :cite-key: SVRS:30
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ Parama abhyudoy
 * Ekla Bujhi Ami Shudhu Dukher Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:31
+  :cite-key: SVRS:31
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Kato shato shato
 * Ar Katokal Hese Khele Britha Amar Dibas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:32
+  :cite-key: SVRS:32
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Kabe amar kanna pabe
 * Age Amar Guni Gyani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:33
+  :cite-key: SVRS:33
   :END:
 
 #+BEGIN_VERSE
@@ -647,10 +647,10 @@ Param pitar sandhane
 * Kalpana Mor Kalpana Maner Alpana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:34
+  :cite-key: SVRS:34
   :END:
 
 #+BEGIN_VERSE
@@ -664,10 +664,10 @@ Karisna ar jalpana nai je bedana
 * Kiter Prane Tomai Heri Kari Namaskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:35
+  :cite-key: SVRS:35
   :END:
 
 #+BEGIN_VERSE
@@ -681,10 +681,10 @@ Tumi amar prane je pran ami je tomar
 * Kothai Maran Kothai Maran Atma Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:36
+  :cite-key: SVRS:36
   :END:
 
 #+BEGIN_VERSE
@@ -700,10 +700,10 @@ Atma chhare deha abaran
 * Alo Chira Madhumoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:37
+  :cite-key: SVRS:37
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Agyana moha kalo
 * Ami Chinmoy Nahi Mrinmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:38
+  :cite-key: SVRS:38
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ Sama bhabe basi bhalo
 * Kato Ki Bale Karena Kichu Taito Loke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:39
+  :cite-key: SVRS:39
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Base prabhu charan tale
 * Nitya Jena Rahi Ami Amar Amar Atmai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:40
+  :cite-key: SVRS:40
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Shanti jale hiya jena nijere harai
 * Param Pita Chhoto Seje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:41
+  :cite-key: SVRS:41
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Bhaye mari pachhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:42
+  :cite-key: SVRS:42
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ When I see Your Universal Form.
 * Charidike Eto Andhar Ami Kothai Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:43
+  :cite-key: SVRS:43
   :END:
 
 #+BEGIN_VERSE
@@ -831,10 +831,10 @@ Raibona ar maner nishai
 * Abhoy Charan Nilam Sharan Karechhi Sabare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:44
+  :cite-key: SVRS:44
   :END:
 
 #+BEGIN_VERSE
@@ -848,10 +848,10 @@ Karechhi sabare apanar jan
 * Ananda Hate Ese Anande Jabo Sheshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:45
+  :cite-key: SVRS:45
   :END:
 
 #+BEGIN_VERSE
@@ -867,10 +867,10 @@ Michha maya abhinay
 * Pakhi Ure Jai Akashe Hiya Neche Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:46
+  :cite-key: SVRS:46
   :END:
 
 #+BEGIN_VERSE
@@ -886,10 +886,10 @@ Nahi keha more hatashe
 * Parajoy To Sathe Ane Jayer Nimantran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:47
+  :cite-key: SVRS:47
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +903,10 @@ Egiye chalo urbe prabhur bijay ketan
 * Kusum Jeman Miliye Dei Apan Gandha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:48
+  :cite-key: SVRS:48
   :END:
 
 #+BEGIN_VERSE
@@ -920,10 +920,10 @@ Ami hate mor bilate chai dibyananda
 * Hrid Kamale Bajai Banshi Shyam Oi Shuni
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:49
+  :cite-key: SVRS:49
   :END:
 
 #+BEGIN_VERSE
@@ -937,10 +937,10 @@ Oi shuni oi dake amar nam
 * Ke Bale Karuna Name Akaran Na Karile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:50
+  :cite-key: SVRS:50
   :END:
 
 #+BEGIN_VERSE
@@ -956,10 +956,10 @@ Byartha haibe sakal sadhan
 * Man Apamane Jar Samagyan Jege Uthe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:51
+  :cite-key: SVRS:51
   :END:
 
 #+BEGIN_VERSE
@@ -973,10 +973,10 @@ Jege uthe sei prane bhagaban
 * Dukkha Dainya Shok Rog Kena Sada Eto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:52
+  :cite-key: SVRS:52
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ He param janak amar
 * Laho Laho More Ogo Rashamoy Laho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:53
+  :cite-key: SVRS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ Ras kariyachhi sanchoy
 * Shunya Theke Ese Sabe Shunye Mishe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:54
+  :cite-key: SVRS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Balo tumi kothai
 * Bhikkha Kari Taje Amar Param Pitar Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1984
-  :CITE-KEY: SVRS:55
+  :cite-key: SVRS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Se dan niye hriday amar mahanande nache
 * Japi Tomar Madhur Nam Diyechi Dub
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:56
+  :cite-key: SVRS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1066,10 +1066,10 @@ Bahu juger tibra bedanai
 * Binash Jakhan Habei Habe Moder Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:57
+  :cite-key: SVRS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1085,10 +1085,10 @@ Kari atma pradan
 * Nahi Daki Toma Hiya Ghare Tabu Sada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:58
+  :cite-key: SVRS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1102,10 +1102,10 @@ Tabu sada thako hat dhare
 * Ek Bhul Jadi Nahi Kari Duibar Sei Bhule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:59
+  :cite-key: SVRS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1119,10 +1119,10 @@ Sei bhule nahi kichhu anushochanar
 * Jiban Sheshe Maran Hese Karbe Sabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:60
+  :cite-key: SVRS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1136,10 +1136,10 @@ Manre amar jatui ekhan bhabis kebal apan
 * Dakar Mato Bhakti Bhare Dakle Anurage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:61
+  :cite-key: SVRS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1155,10 +1155,10 @@ Chalbe purobhage
 * Jato Din Jai Kaj Bere Jai Kajer Anta Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:62
+  :cite-key: SVRS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1174,10 +1174,10 @@ Santar katite chai
 * Ja Ache Sab Biliye Dao Prabhur Sebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:63
+  :cite-key: SVRS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1193,10 +1193,10 @@ Bishwa pitar bare
 * Dhaner Maner Kangal Nahi Bhakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:64
+  :cite-key: SVRS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Nitya tomai smari
 * Ma Abhaya Niye Ja Ma Mor Bhoy Tor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:65
+  :cite-key: SVRS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Tor lagi ma karbo bishwa jay
 * Mane Ache Kato Phanki Jani Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:66
+  :cite-key: SVRS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1246,10 +1246,10 @@ Maha munir charan tale rakhbo mata khani
 * Bhibhur Bani Gane Prakash Pai Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:67
+  :cite-key: SVRS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Hiya bihag taito gan gai
 * Parash Pathar Parash Karo Prane Dhanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:68
+  :cite-key: SVRS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1280,10 +1280,10 @@ Dhanya habo tomar bijay gane
 * Sumati Kariya Dan Sarba Jiber Mangala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1984
-  :CITE-KEY: SVRS:69
+  :cite-key: SVRS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1300,10 +1300,10 @@ Jaya jaya bhagaban
 * Phuler Mala Ma Tor Gale Ke Dila Bal Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:70
+  :cite-key: SVRS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1318,10 +1318,10 @@ Eman bhagya kar chhila
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1984
-  :CITE-KEY: SVRS:71
+  :cite-key: SVRS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1337,10 +1337,10 @@ Who was so fortunate?
 * Praner Thakur Ami Tomar Hater Putul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1984
-  :CITE-KEY: SVRS:72
+  :cite-key: SVRS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Kabhu hasi kabhu nachi na kare bhul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-12-1984
-  :CITE-KEY: SVRS:73
+  :cite-key: SVRS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1372,10 +1372,10 @@ I never make any mistake.
 * Saral Hasi Nitya Madhur Hasi Bhalobasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:74
+  :cite-key: SVRS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1391,10 +1391,10 @@ Ghana timir nashi
 * Pratarana Ane Maha Abanati Atma Jatana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:75
+  :cite-key: SVRS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1410,10 +1410,10 @@ Satya sadhana
 * Peyechi Aj Bishwa Prabhu Barabhoy Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:76
+  :cite-key: SVRS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1427,10 +1427,10 @@ Habo ami ebar jani mrityunjay
 * Swapne Ami Ure Chali Kon Ajana Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: SVRS:77
+  :cite-key: SVRS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1444,10 +1444,10 @@ Kato katha balchhi mago tomai hese hese
 * Bela Jaina Ami Marina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:78
+  :cite-key: SVRS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1462,10 +1462,10 @@ Karo parane bhalobasina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-12-1984
-  :CITE-KEY: SVRS:79
+  :cite-key: SVRS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ I love no heart.
 * Pralobhan Niye Ase Apaman Kotha Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:80
+  :cite-key: SVRS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ Kotha mor hiya nath bhagaban
 * Phul Phute Uthe Niralai Jhare Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1984
-  :CITE-KEY: SVRS:81
+  :cite-key: SVRS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1521,10 +1521,10 @@ Thai pade bidai belai
 * Toke Ami Balbo Mapor Kon Mukhe Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: SVRS:82
+  :cite-key: SVRS:82
   :END:
 
 #+BEGIN_VERSE

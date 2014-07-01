@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1178
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: KABC
-  :GENRE: song
+  :book-number: 1178
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: KABC
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KABC:1e1
+  :genre: note
+  :cite-key: KABC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KABC:1e2
+  :genre: note
+  :cite-key: KABC:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Na Thakile Pabitrata Hiyai Rabe Daridrata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:1
+  :cite-key: KABC:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Hiyai rabe daridrata
 * Balo Balo Kothai Gele Tomar Kripa Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:2
+  :cite-key: KABC:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ Badhar prachir churna kare sethai ami jabo
 * Asha Devi Asche Pire Dhire Dhire Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:3
+  :cite-key: KABC:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Dhire dhire pran gabhire
 * Tumi Tomar Kripar Bal Ami Amar Chokher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:4
+  :cite-key: KABC:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Ami amar chokher jal
 * Phutte Habe Phutte Moher Bandhan Tutte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:5
+  :cite-key: KABC:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Phutte habe phutte moher bandhan tutte
 * Shunte Chahi Amar Katha Nahe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:6
+  :cite-key: KABC:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Nahe amar bachalata
 * Rahi Tomar Pada Tale Tomar Asim Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:7
+  :cite-key: KABC:7
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Tomar asim kripa amare
 * Sabar Sathe Chalbo Ami Sabar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:8
+  :cite-key: KABC:8
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Gaibo prabhur jaya giti dibarate
 * Phutte Chahi Nil Akashe Rabi Shashir Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:9
+  :cite-key: KABC:9
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Kandi jena tomar paye thakte abirata
 * Shunyata Nahe Shunyata Taje Paramer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:10
+  :cite-key: KABC:10
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ Shunyata nahe shunyata taje paramer purnata
 * Hiyar Chokhe Dekhbo Ami Sabare Pale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:11
+  :cite-key: KABC:11
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ Pale pale tushbo mago tomare
 * Namer Kangal Nahi Hate Chahi Ar Laho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:12
+  :cite-key: KABC:12
   :END:
 
 #+BEGIN_VERSE
@@ -242,10 +242,10 @@ Laho laho mor hiyar ashrudhar
 * Pujbo Tomai Tushbo Tomai Tomar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:13
+  :cite-key: KABC:13
   :END:
 
 #+BEGIN_VERSE
@@ -259,10 +259,10 @@ Amire mor samarpibo nidrajagi
 * Bahan Kare Tomar Premer Bani Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:14
+  :cite-key: KABC:14
   :END:
 
 #+BEGIN_VERSE
@@ -276,10 +276,10 @@ Sabar prane tomar kole tani
 * Phutte Chahi Bishalatar Akashe Urte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:15
+  :cite-key: KABC:15
   :END:
 
 #+BEGIN_VERSE
@@ -293,10 +293,10 @@ Urte chahi swadhinatar batase
 * Haste Chahi Oi Je Sudur Akashe Urte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:16
+  :cite-key: KABC:16
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Nahi chahi hethai ami batase
 * Kandte Chahi Tomar Lagi Anukkhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:17
+  :cite-key: KABC:17
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ Purna karo dhanya karo amar pan
 * Na Thakile Hiyai Khudha Keman Kare Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:18
+  :cite-key: KABC:18
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ Keman kare pabo sudha
 * Shishur Mato Kandte Chahi Paran Khule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:19
+  :cite-key: KABC:19
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Dakbo tomai sakal kichu giye bhule
 * Prabhu Atma Tyager Brato Karto Palan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:20
+  :cite-key: KABC:20
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Karbo palan abirato
 * Ashar Duar Khuliya Rekhechi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:21
+  :cite-key: KABC:21
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Tomar charane amare petechi
 * Nata Shire Bhakti Bhare Tomai Jena Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:22
+  :cite-key: KABC:22
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ Bhul kareo kabhu tomai dibona ma phanki
 * Swapane Kandi Swapane Hasi Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:23
+  :cite-key: KABC:23
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ Phutte chahi bastabatar tapane
 * Chinta Sagar Bhitar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:24
+  :cite-key: KABC:24
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Paina dekha hiyar hasir
 * Eso Eso Ogo Prananath Tomar Lagi Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:25
+  :cite-key: KABC:25
   :END:
 
 #+BEGIN_VERSE
@@ -463,10 +463,10 @@ Tomar lagi kari ashrupat
 * Shunbona Ar Bahir Desher Dak Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:26
+  :cite-key: KABC:26
   :END:
 
 #+BEGIN_VERSE
@@ -480,10 +480,10 @@ Karbo binash agyanatar hank
 * Khudra Ami Mahat Ami Hate Chahi Tushte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:27
+  :cite-key: KABC:27
   :END:
 
 #+BEGIN_VERSE
@@ -497,10 +497,10 @@ Tushte chahi tomar bijoy giti gahi
 * Shanti... Tumi Ki Mor Maner Bhranti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:28
+  :cite-key: KABC:28
   :END:
 
 #+BEGIN_VERSE
@@ -514,10 +514,10 @@ Tumi ki mor maner bhranti
 * Dhanya Habo Tomar Paye Pele Thai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:29
+  :cite-key: KABC:29
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Amar trutir jani ami simanai
 * Khudra Amire Bhulite Chahibo Bhulite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:30
+  :cite-key: KABC:30
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +548,10 @@ Mahat amite amar hiyare khulite
 * Jara Nahi Bhalobase Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:31
+  :cite-key: KABC:31
   :END:
 
 #+BEGIN_VERSE
@@ -565,10 +565,10 @@ Dibarati chahi ami tader maran
 * Jani Jani Aji Ami Patha Bhranta Tabu Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:32
+  :cite-key: KABC:32
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Tabu jena khunji tomai abishranta
 * Manas Amar Dhulabali Hiya Amar Pujar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:33
+  :cite-key: KABC:33
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ Hiya amar pujar thali
 * Chahi Chahi Tomar Ashish Bani Magi Magi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:34
+  :cite-key: KABC:34
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ Magi magi tomar charan khani
 * Ami Hate Chahi Taba Kripa Nandan Nashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:35
+  :cite-key: KABC:35
   :END:
 
 #+BEGIN_VERSE
@@ -633,10 +633,10 @@ Nashi mor basanar dhrira bandhan
 * Dao More Ankhi Subimal Niye Jao Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:36
+  :cite-key: KABC:36
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Niye jao pran achapal
 * Ke Bale Go Jiban Swapan Ke Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:37
+  :cite-key: KABC:37
   :END:
 
 #+BEGIN_VERSE
@@ -667,10 +667,10 @@ Bastabatar puta hiya kamale
 * Karona Chinta Karona Chinta Man Dakibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:38
+  :cite-key: KABC:38
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ Dakibe tomare hiyar brindaban
 * Kamana Kanan Amar Hiyar Gabhire Phutbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:39
+  :cite-key: KABC:39
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Phutbo ami rabir sama achire
 * Jiban Amar Habe Medur Maran Amar Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:40
+  :cite-key: KABC:40
   :END:
 
 #+BEGIN_VERSE
@@ -718,10 +718,10 @@ Maran amar habe madhur
 * Gete Gete Tomar Bijoy Mala Maner Andhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:41
+  :cite-key: KABC:41
   :END:
 
 #+BEGIN_VERSE
@@ -735,10 +735,10 @@ Maner andhar pathti karbo ala
 * Dibanishi Kena Mora Kari Kola Kol Kena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:42
+  :cite-key: KABC:42
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ Kena bhalobasi mora maner chhalachhal
 * Shudhu Ekbar Peye Taba Darashan Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:43
+  :cite-key: KABC:43
   :END:
 
 #+BEGIN_VERSE
@@ -769,10 +769,10 @@ Ajike prabhate jurabe amar man
 * Swapan Hara Bale Ami Aji Sarbahara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:44
+  :cite-key: KABC:44
   :END:
 
 #+BEGIN_VERSE
@@ -786,10 +786,10 @@ Dibarati sathi amar kebal ashrudhara
 * Kripamoyi Basumati Sudhamoyi Basumati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:45
+  :cite-key: KABC:45
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ Dhanya habo tomar paye janai nati
 * Maner Trisha Hiyar Khudha Ke Karibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:46
+  :cite-key: KABC:46
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Chinta jatil haran
 * Pakhir Gane Pran Jurabo Pakhir Gane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:47
+  :cite-key: KABC:47
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ Prabhur asha karbo puran atmagyane
 * Maner Sathe Karbo Larai Mane Sathe Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:48
+  :cite-key: KABC:48
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ Hiyar jayer gaibo giti dibarate
 * Saral Prane Karbo Tomar Chitta Joy Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:49
+  :cite-key: KABC:49
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ Amar sakal chaowa paowar habe khoy
 * Karo Shasan Karo Aghat Dekhte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:50
+  :cite-key: KABC:50
   :END:
 
 #+BEGIN_VERSE
@@ -890,10 +890,10 @@ Dekhte chahi hiyar prabhat
 * Bhitar Bahir Bedan Giti Ar Kotokal Gaibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:51
+  :cite-key: KABC:51
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Hasir deshe jyotir deshe jaibo ami jaibo
 * Ananda Dhwani Shunite Chahibo Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:52
+  :cite-key: KABC:52
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Gabhir rater nirabata kole ogo hiya mani
 * Kandi Kebal Sada Nam Ar Jasher Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:53
+  :cite-key: KABC:53
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ Urdha loker jyotir dekha nahi magi
 * Aso Tumi Dharare Kole Lilar Chhale Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:54
+  :cite-key: KABC:54
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Mukti prabhu pete chahi charan tale
 * Maner Duar Khule Rakhi Hiyar Duar Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:55
+  :cite-key: KABC:55
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ Dibanishi ashesh jatan taito amai dahe
 * Hridaye Ohutibe Hase Jadi Andhar Manere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:56
+  :cite-key: KABC:56
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Jadi andhar manere nashi
 * Hiyar Katha Balbo Jahare Jiban Amar Dibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:57
+  :cite-key: KABC:57
   :END:
 
 #+BEGIN_VERSE
@@ -1009,10 +1009,10 @@ Jiban amar dibo tahare
 * Gaibo Giti Anibar Samarpiya Ashrudhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-05-1995
-  :CITE-KEY: KABC:58
+  :cite-key: KABC:58
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0352
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: EA-1
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0352
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: EA-1
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: EA:1e1
+  :genre: note
+  :keywords:
+  :cite-key: EA:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * I pray, I meditate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:1
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:1
   :END:
 
 
@@ -92,9 +92,9 @@ Asbury Park, New Jersey
 * Gratitude
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:2
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:2
   :END:
 
 
@@ -120,9 +120,9 @@ Jamaica, New York \\
 * I do not know
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:3
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:3
   :END:
 
 
@@ -144,9 +144,9 @@ Jamaica, New York \\
 * Dream
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:4
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:4
   :END:
 
 
@@ -172,9 +172,9 @@ Long Island, New York \\
 * Security
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:5
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:5
   :END:
 
 
@@ -206,9 +206,9 @@ Long Island. New York \\
 * Theoretical surrender and practical surrender
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:6
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:6
   :END:
 
 
@@ -232,9 +232,9 @@ Jamaica, New York \\
 * Satisfaction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:7
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:7
   :END:
 
 
@@ -264,9 +264,9 @@ Jamaica, New York \\
 * Compassion-Height and Justice-Light
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:8
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:8
   :END:
 
 
@@ -296,9 +296,9 @@ Jamaica, New York \\
 * My desire
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:9
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:9
   :END:
 
 
@@ -318,9 +318,9 @@ Jamaica, New York \\
 * The shortcut, the shorter cut, the shortest cut
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:10
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:10
   :END:
 
 
@@ -348,9 +348,9 @@ Jamaica, New York \\
 * Happiness and unhappiness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:11
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:11
   :END:
 
 
@@ -374,9 +374,9 @@ Hollis, New York \\
 * Human reality and divine reality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:12
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:12
   :END:
 
 
@@ -400,9 +400,9 @@ Jamaica, New York \\
 * I am grateful
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:13
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:13
   :END:
 
 
@@ -428,9 +428,9 @@ Flushing, New York \\
 * Austerity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:14
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:14
   :END:
 
 
@@ -456,9 +456,9 @@ Jamaica, New York \\
 * Smile, love and claim
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:15
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:15
   :END:
 
 
@@ -486,9 +486,9 @@ Caldwell, New Jersey \\
 * Imagination
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:16
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:16
   :END:
 
 
@@ -528,9 +528,9 @@ Jamaica, New York \\
 * My lifelong friends
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:17
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:17
   :END:
 
 
@@ -558,9 +558,9 @@ United Nations, New York \\
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:18
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:18
   :END:
 
 
@@ -598,9 +598,9 @@ Purchase, New York \\
 * Realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:19
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:19
   :END:
 
 
@@ -636,9 +636,9 @@ Jamaica, New York \\
 * A fleeting life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:20
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:20
   :END:
 
 
@@ -662,9 +662,9 @@ Bronx, New York \\
 * I wish to be free
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:21
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:21
   :END:
 
 
@@ -686,9 +686,9 @@ Norwalk, Connecticut \\
 * Experience and realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:22
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:22
   :END:
 
 
@@ -714,9 +714,9 @@ New Rochelle, New York \\
 * I am a born prayer
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:23
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:23
   :END:
 
 
@@ -750,9 +750,9 @@ Jamaica, New York \\
 * You are spiritual
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:24
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:24
   :END:
 
 
@@ -778,9 +778,9 @@ Jamaica, New York \\
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EA:25
+  :genre: discourse
+  :keywords:
+  :cite-key: EA:25
   :END:
 
 

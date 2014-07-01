@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2000
-  :PUBLISHER:
-  :CITE-KEY: OTLP-2
-  :GENRE: song
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2000
+  :publisher:
+  :cite-key: OTLP-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: OTLP:87e1
+  :genre: note
+  :cite-key: OTLP:87e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: OTLP:87e2
+  :genre: note
+  :cite-key: OTLP:87e2
   :END:
 
 
@@ -41,10 +41,10 @@ One Thousand Lotus Petals, Part 2
 * Kanur Lagiya Ganthinu E Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:87
+  :cite-key: OTLP:87
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Rupantarer sona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:88
+  :cite-key: OTLP:88
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Transformation-gold.
 * Ke Jabi Go Nadir Opar Ai Go Ai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:89
+  :cite-key: OTLP:89
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Bela jai jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:90
+  :cite-key: OTLP:90
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ The time is passing by.
 * Akashe Amar Batase Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:91
+  :cite-key: OTLP:91
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Hanibo nashibo nimeshe ajike dharanir ghana bedana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:92
+  :cite-key: OTLP:92
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ The world’s intense sufferings.
 * Hiya Tatini Bahiya Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:93
+  :cite-key: OTLP:93
   :END:
 
 #+BEGIN_VERSE
@@ -183,10 +183,10 @@ Keha je sangi nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:94
+  :cite-key: OTLP:94
   :END:
 
 #+BEGIN_VERSE
@@ -207,10 +207,10 @@ No one else is my companion.
 * Gagane Phutilo Chand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:95
+  :cite-key: OTLP:95
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Shutibra anurage
 * Kata Gan Ami Geyechi Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: OTLP:96
+  :cite-key: OTLP:96
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Subishal ei bhaba parabare ami je bhasiya jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: OTLP:97
+  :cite-key: OTLP:97
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ In the vast life-ocean, I am floating all alone.
 * Nayan Nehare Bishwa Bhuban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:98
+  :cite-key: OTLP:98
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ Satya tapasa gyani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:99
+  :cite-key: OTLP:99
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Under his perfect control.
 * Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:100
+  :cite-key: OTLP:100
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Ta je tuchchha michhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:101
+  :cite-key: OTLP:101
   :END:
 
 #+BEGIN_VERSE
@@ -355,10 +355,10 @@ And utterly false.
 * Jishur Swapna Sarga Rajya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:102
+  :cite-key: OTLP:102
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Ajike abhyudoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: OTLP:103
+  :cite-key: OTLP:103
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Of new illumination and new perfection.
 * Nai Nai Nai Ami Ar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: OTLP:104
+  :cite-key: OTLP:104
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Seo je harai kaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: OTLP:105
+  :cite-key: OTLP:105
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ In a golden lightning spark.
 * Madhurata Jetha Nai Ami Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: OTLP:106
+  :cite-key: OTLP:106
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Madhu dhyane kare tanmoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: OTLP:107
+  :cite-key: OTLP:107
   :END:
 
 #+BEGIN_VERSE
@@ -480,10 +480,10 @@ In sweet, ambrosial meditation.
 * Shunya Bakke Biraje Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: OTLP:108
+  :cite-key: OTLP:108
   :END:
 
 #+BEGIN_VERSE
@@ -498,10 +498,10 @@ Purna ghoshichhe srashta bijoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: OTLP:109
+  :cite-key: OTLP:109
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Of the Absolute Supreme.
 * Ke Uthila More Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-04-1976
-  :CITE-KEY: OTLP:110
+  :cite-key: OTLP:110
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ Puta analas ankhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-04-1976
-  :CITE-KEY: OTLP:111
+  :cite-key: OTLP:111
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Where purity reigns supreme.
 * Jishu Jishu Nam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: OTLP:112
+  :cite-key: OTLP:112
   :END:
 
 #+BEGIN_VERSE
@@ -580,10 +580,10 @@ Pitar dharar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: OTLP:113
+  :cite-key: OTLP:113
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ And humanity's Father.
 * Mishe Phula Dale Pare Rabo Ami Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: OTLP:114
+  :cite-key: OTLP:114
   :END:
 
 #+BEGIN_VERSE
@@ -631,10 +631,10 @@ Na chari jiban marane
 * Hao Aguan Hao Aguan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:115
+  :cite-key: OTLP:115
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ Chira sathi ananta abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:116
+  :cite-key: OTLP:116
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ In His birthless and deathless Expedition.
 * Jago Jharna Jago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:117
+  :cite-key: OTLP:117
   :END:
 
 #+BEGIN_VERSE
@@ -688,10 +688,10 @@ Kebal alor banya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:118
+  :cite-key: OTLP:118
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ All-where the flood of Light.
 * Naba Naba Rupe Naba Naba Bhabe Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:119
+  :cite-key: OTLP:119
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Mor tanu prana man
 * Kato Usha Elo Kato Usha Gelo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:120
+  :cite-key: OTLP:120
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ Nahi khule hiya dor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:121
+  :cite-key: OTLP:121
   :END:
 
 #+BEGIN_VERSE
@@ -763,10 +763,10 @@ Has not come to an end.
 * Madhavi Latar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: OTLP:122
+  :cite-key: OTLP:122
   :END:
 
 #+BEGIN_VERSE
@@ -781,10 +781,10 @@ Nachi aji ami maha ullase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: OTLP:123
+  :cite-key: OTLP:123
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ Today I dance in ecstasy supreme.
 * Ami Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:124
+  :cite-key: OTLP:124
   :END:
 
 #+BEGIN_VERSE
@@ -830,10 +830,10 @@ blind singer Krishna Chandra Dey]
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:125
+  :cite-key: OTLP:125
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ Encircling fast my earth-bound life.
 * Jibaner Sheshe Maraner Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1982
-  :CITE-KEY: OTLP:126
+  :cite-key: OTLP:126
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Bahudure phele rakhibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-09-1982
-  :CITE-KEY: OTLP:127
+  :cite-key: OTLP:127
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Into a far-off land.
 * Kalpana Mor Kalpana Maner Alpana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: OTLP:128
+  :cite-key: OTLP:128
   :END:
 
 #+BEGIN_VERSE
@@ -919,10 +919,10 @@ Karisna ar jalpana nai je bedana
 * Ki Sundaro Nitya Mukta Nilambara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: OTLP:129
+  :cite-key: OTLP:129
   :END:
 
 #+BEGIN_VERSE
@@ -936,10 +936,10 @@ Man pran dehe eso neme tumi he sundaro
 * Khama Karo Khama Karo Dharo Mor Hat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-03-1987
-  :CITE-KEY: OTLP:130
+  :cite-key: OTLP:130
   :END:
 
 #+BEGIN_VERSE
@@ -953,10 +953,10 @@ Dharo mor hat dharo
 * Ke Jai.. Amare Bale Jai Keno Ami Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-04-1987
-  :CITE-KEY: OTLP:131
+  :cite-key: OTLP:131
   :END:
 
 #+BEGIN_VERSE
@@ -970,10 +970,10 @@ Kena ami kandi dibanishi hiya anginai
 * Kali Ma Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1992
-  :CITE-KEY: OTLP:132
+  :cite-key: OTLP:132
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ Tumije tomar karuna apar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1992
-  :CITE-KEY: OTLP:133
+  :cite-key: OTLP:133
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ You are your Compassion infinite.
 * Jiban Amar Maran Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1994
-  :CITE-KEY: OTLP:134
+  :cite-key: OTLP:134
   :END:
 
 #+BEGIN_VERSE
@@ -1021,10 +1021,10 @@ Paramanande gahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-12-1994
-  :CITE-KEY: OTLP:135
+  :cite-key: OTLP:135
   :END:
 
 #+BEGIN_VERSE
@@ -1041,10 +1041,10 @@ My Lord’s Victory in the heart of humanity.
 * Jante Habe Balte Habe Amar Guru Jagat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-1995
-  :CITE-KEY: OTLP:136
+  :cite-key: OTLP:136
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Dibya jiban halo suru
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 25-01-1995
-  :CITE-KEY: OTLP:137
+  :cite-key: OTLP:137
   :END:
 
 #+BEGIN_VERSE
@@ -1080,10 +1080,10 @@ And my Guru is the Supreme.
 * Kare Rakhi Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1997
-  :CITE-KEY: OTLP:138
+  :cite-key: OTLP:138
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ Param pitare manina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1997
-  :CITE-KEY: OTLP:139
+  :cite-key: OTLP:139
   :END:
 
 #+BEGIN_VERSE
@@ -1118,10 +1118,10 @@ My Father Lord Supreme.
 * Jegechi Aj Nabin Ushar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1997
-  :CITE-KEY: OTLP:140
+  :cite-key: OTLP:140
   :END:
 
 #+BEGIN_VERSE
@@ -1136,10 +1136,10 @@ Bishwa make
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1997
-  :CITE-KEY: OTLP:141
+  :cite-key: OTLP:141
   :END:
 
 #+BEGIN_VERSE
@@ -1156,10 +1156,10 @@ The World-Mother as my own,
 * He Param Pita Charan Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1998
-  :CITE-KEY: OTLP:142
+  :cite-key: OTLP:142
   :END:
 
 #+BEGIN_VERSE
@@ -1174,10 +1174,10 @@ Paramananda pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1998
-  :CITE-KEY: OTLP:143
+  :cite-key: OTLP:143
   :END:
 
 #+BEGIN_VERSE
@@ -1194,10 +1194,10 @@ I shall receive Bliss Supreme.
 * Sab Habe Thik Thak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: OTLP:144
+  :cite-key: OTLP:144
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Ore boka jetha jabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1998
-  :CITE-KEY: OTLP:145
+  :cite-key: OTLP:145
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ Peace will come and stand before you.
 * Eso Ananda Pranavananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: OTLP:146
+  :cite-key: OTLP:146
   :END:
 
 #+BEGIN_VERSE
@@ -1250,10 +1250,10 @@ Dhara adharar raj
 * Mahima Tomar Ke Bujite Pare Tumi Maha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:147
+  :cite-key: OTLP:147
   :END:
 
 #+BEGIN_VERSE
@@ -1269,10 +1269,10 @@ Shudhu kripa sudha tomar saman
 * Jyotirmayi Mayer Sathe Jyoti Niye Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:148
+  :cite-key: OTLP:148
   :END:
 
 #+BEGIN_VERSE
@@ -1288,10 +1288,10 @@ Amar jiban bhela
 * Minati Janabo Pranati Ante Ei Asha Niye Rabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:149
+  :cite-key: OTLP:149
   :END:
 
 #+BEGIN_VERSE
@@ -1307,10 +1307,10 @@ Kari jena anubhaba
 * Krishna Prabhu Jeyona Chhariya Amare Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:150
+  :cite-key: OTLP:150
   :END:
 
 #+BEGIN_VERSE
@@ -1323,10 +1323,10 @@ Jeyona chhariya amare kabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:151
+  :cite-key: OTLP:151
   :END:
 
 #+BEGIN_VERSE
@@ -1340,10 +1340,10 @@ Lord, do not go away leaving me.
 * Namo.. Buddha Deber Karuna Moitri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:152
+  :cite-key: OTLP:152
   :END:
 
 #+BEGIN_VERSE
@@ -1359,10 +1359,10 @@ Chira achapal sthir
 * Je Besechhe Bhalo Ei Dharanire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:153
+  :cite-key: OTLP:153
   :END:
 
 #+BEGIN_VERSE
@@ -1381,10 +1381,10 @@ Prabhur charane giye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:154
+  :cite-key: OTLP:154
   :END:
 
 #+BEGIN_VERSE
@@ -1405,10 +1405,10 @@ He will go and stand at the Feet
 * Ekti Katha Ekti Sur Eki Jhankar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:155
+  :cite-key: OTLP:155
   :END:
 
 #+BEGIN_VERSE
@@ -1431,10 +1431,10 @@ Prane amar rekhona ar ektu andhar kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:156
+  :cite-key: OTLP:156
   :END:
 
 #+BEGIN_VERSE
@@ -1467,10 +1467,10 @@ In me, I pray, keep not an iota of gloom.
 * Na Pari Tomai Bahite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:157
+  :cite-key: OTLP:157
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ Pari shudhu hai bandhite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:158
+  :cite-key: OTLP:158
   :END:
 
 #+BEGIN_VERSE
@@ -1504,10 +1504,10 @@ Alas, only bind You I can.
 * Supreme.. Guru Brahma Guru Vishnu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: None
-  :CITE-KEY: OTLP:159
+  :cite-key: OTLP:159
   :END:
 
 #+BEGIN_VERSE
@@ -1523,10 +1523,10 @@ Tasmai sri gurabe namah
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OTLP:160
+  :cite-key: OTLP:160
   :END:
 
 #+BEGIN_VERSE
@@ -1543,10 +1543,10 @@ I bow to that Guru.
 * Priyatam Ase Bahiya Bahiya Ajike Sonar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: OTLP:161
+  :cite-key: OTLP:161
   :END:
 
 #+BEGIN_VERSE
@@ -1562,10 +1562,10 @@ Trishita paran hari
 * Srashta Amar Jagater Jyoti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: OTLP:162
+  :cite-key: OTLP:162
   :END:
 
 #+BEGIN_VERSE
@@ -1584,10 +1584,10 @@ Haiya apana hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: OTLP:163
+  :cite-key: OTLP:163
   :END:
 
 #+BEGIN_VERSE
@@ -1609,10 +1609,10 @@ In the sea of Infinity’s Light.
 * Tomare Rakhibo Hridaye Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: OTLP:164
+  :cite-key: OTLP:164
   :END:
 
 #+BEGIN_VERSE
@@ -1627,10 +1627,10 @@ Tomare rakhibo ashru nayane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-05-1977
-  :CITE-KEY: OTLP:165
+  :cite-key: OTLP:165
   :END:
 
 #+BEGIN_VERSE
@@ -1650,10 +1650,10 @@ In the tear-flood of my eyes I shall keep You.
 * Badala Nabhe Madala Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-10-1977
-  :CITE-KEY: OTLP:166
+  :cite-key: OTLP:166
   :END:
 
 #+BEGIN_VERSE
@@ -1667,10 +1667,10 @@ Pagal halo hiya hiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-10-1977
-  :CITE-KEY: OTLP:167
+  :cite-key: OTLP:167
   :END:
 
 #+BEGIN_VERSE
@@ -1686,10 +1686,10 @@ And the charming kettledrum of the blue-vast sky.
 * Jiban Amar Tomar Charane Rakhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-08-1994
-  :CITE-KEY: OTLP:168
+  :cite-key: OTLP:168
   :END:
 
 #+BEGIN_VERSE
@@ -1702,10 +1702,10 @@ Maran amar tomar anke patibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-08-1994
-  :CITE-KEY: OTLP:169
+  :cite-key: OTLP:169
   :END:
 
 #+BEGIN_VERSE
@@ -1719,10 +1719,10 @@ My death I shall place in Your Lap.
 * He Shiva Shankara Namami Shankara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: None
-  :CITE-KEY: OTLP:170
+  :cite-key: OTLP:170
   :END:
 
 #+BEGIN_VERSE
@@ -1739,10 +1739,10 @@ Shiva Shankara Shambhu
 * Jibane Chahina Marane Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1987
-  :CITE-KEY: OTLP:171
+  :cite-key: OTLP:171
   :END:
 
 #+BEGIN_VERSE
@@ -1757,10 +1757,10 @@ Taba pada tale rahite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1987
-  :CITE-KEY: OTLP:172
+  :cite-key: OTLP:172
   :END:
 
 #+BEGIN_VERSE

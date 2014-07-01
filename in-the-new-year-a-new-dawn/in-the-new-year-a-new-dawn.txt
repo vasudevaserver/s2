@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 949
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: NYND
-  :GENRE: song
+  :book-number: 949
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: NYND
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NYND:1e1
+  :genre: note
+  :cite-key: NYND:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NYND:1e2
+  :genre: note
+  :cite-key: NYND:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Amar Hiyar Ashar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:1
+  :cite-key: NYND:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Tumi ar rekhechi ajike
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:2
+  :cite-key: NYND:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Open today.
 * Into the World I Came, Not to Satisfy Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:3
+  :cite-key: NYND:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ But to worship You.
 * Hiyar Pakhi Sathe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:4
+  :cite-key: NYND:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ Urte chahi asim akashe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:5
+  :cite-key: NYND:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ In Infinity’s sky.
 * In the New Year, a New Dawn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:6
+  :cite-key: NYND:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Is beckoning me.
 * In the New Year I Do Not Want Liberation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:7
+  :cite-key: NYND:7
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ I want only devotion.
 * I Shall Worship
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:8
+  :cite-key: NYND:8
   :END:
 
 #+BEGIN_VERSE
@@ -176,10 +176,10 @@ In this New Year.
 * In the New Year Only Rose and Lotus
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:9
+  :cite-key: NYND:9
   :END:
 
 #+BEGIN_VERSE
@@ -193,10 +193,10 @@ Only rose and lotus will be my friends.
 * Hundreds of Hope-Doors
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:10
+  :cite-key: NYND:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ In this New Year.
 * Inside a Vastness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:11
+  :cite-key: NYND:11
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ In this New Year.
 * Nutan Barashe Nutan Ahana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:12
+  :cite-key: NYND:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Hat chhani diye dakiche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:13
+  :cite-key: NYND:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Is beckoning me.
 * Nutan Barashe Mukti Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:14
+  :cite-key: NYND:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Chahi je kebal bhakati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:15
+  :cite-key: NYND:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ I want only devotion.
 * Nutan Barashe Sandeha Chore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:16
+  :cite-key: NYND:16
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ Bahu jore ami hanibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:17
+  :cite-key: NYND:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ In the New Year.
 * O Doubt-Thief
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:18
+  :cite-key: NYND:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ In the New Year.
 * Nutan Barashe Dibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:19
+  :cite-key: NYND:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Chahibona kichu pratidane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:20
+  :cite-key: NYND:20
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ In this New Year.
 * I Shall Give and Give
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:21
+  :cite-key: NYND:21
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ In this New Year.
 * Nutan Barashe Choitya Purushe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:22
+  :cite-key: NYND:22
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Priti bhara chite dakibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:23
+  :cite-key: NYND:23
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ I shall invoke my psychic being.
 * With a Loving Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:24
+  :cite-key: NYND:24
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ I shall invoke my psychic being.
 * Nutan Barashe Priyatame Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:25
+  :cite-key: NYND:25
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Pujibo tushibo ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:26
+  :cite-key: NYND:26
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ In this New Year.
 * Nutan Barashe Usha Devi Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:27
+  :cite-key: NYND:27
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Ajanar deshe jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:28
+  :cite-key: NYND:28
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ In this New Year.
 * With the Goddess Dawn in Her Chariot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:29
+  :cite-key: NYND:29
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ In this New Year.
 * Nutan Barashe Ami Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:30
+  :cite-key: NYND:30
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Mor hiyar surabhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:31
+  :cite-key: NYND:31
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ In this New Year.
 * I Shall Become My Heart’s Fragrance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:32
+  :cite-key: NYND:32
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ In this New Year.
 * Nutan Barashe Golap Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:33
+  :cite-key: NYND:33
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ Habe mor shudhu sathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:34
+  :cite-key: NYND:34
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ Will be my friends.
 * Nutan Barashe Khuliya Rakhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:35
+  :cite-key: NYND:35
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Sathek ashar duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:36
+  :cite-key: NYND:36
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ In this New Year.
 * Nutan Barashe Ramdhanu Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:37
+  :cite-key: NYND:37
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Gahibo nachibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:38
+  :cite-key: NYND:38
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ In the New Year.
 * With a Rainbow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:39
+  :cite-key: NYND:39
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ In the New Year.
 * Nutan Barashe Nashibo Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:40
+  :cite-key: NYND:40
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Ahamika arati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:41
+  :cite-key: NYND:41
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ In this New Year.
 * O My Pride-Foe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:42
+  :cite-key: NYND:42
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ In this New Year.
 * Nutan Barashe Bishalata Bukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:43
+  :cite-key: NYND:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Harabo amar amire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1991
-  :CITE-KEY: NYND:44
+  :cite-key: NYND:44
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ In this New Year.
 * I Have Kept My Heart-Door Open
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:45
+  :cite-key: NYND:45
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ Open today.
 * Tomare Pujite Esechi Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:46
+  :cite-key: NYND:46
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ Amare tushite nahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:47
+  :cite-key: NYND:47
   :END:
 
 #+BEGIN_VERSE
@@ -845,10 +845,10 @@ But to worship You.
 * I Long to Fly with My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: NYND:48
+  :cite-key: NYND:48
   :END:
 
 #+BEGIN_VERSE

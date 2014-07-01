@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0129
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGSL
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0129
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: MGSL
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:1
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGSL:2e1
+  :genre: note
+  :keywords:
+  :cite-key: MGSL:2e1
   :END:
 
 
@@ -63,9 +63,9 @@ ASURA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:2
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:2
   :END:
 
 
@@ -138,9 +138,9 @@ MATSYENDRANATH: I am giving you these japa beads. I have sanctified them, and th
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:3
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:3
   :END:
 
 
@@ -189,9 +189,9 @@ Now that I have conquered this undivine force with my spiritual power, I shall t
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:4
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:4
   :END:
 
 
@@ -208,9 +208,9 @@ MATSYENDRANATH: You are absolutely right, my son. These are not your mere spirit
 * Act II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:5
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:5
   :END:
 
 
@@ -218,9 +218,9 @@ MATSYENDRANATH: You are absolutely right, my son. These are not your mere spirit
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGSL:6e1
+  :genre: note
+  :keywords:
+  :cite-key: MGSL:6e1
   :END:
 
 
@@ -253,9 +253,9 @@ STRONG MEN
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:6
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:6
   :END:
 
 
@@ -298,9 +298,9 @@ SECOND CITIZEN: And I tell you, the lion in me will not eat grass like the sheep
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:7
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:7
   :END:
 
 
@@ -335,9 +335,9 @@ MATSYENDRANATH: Yes, you stay, with my permission. Let us see what happens.
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:8
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:8
   :END:
 
 
@@ -345,9 +345,9 @@ MATSYENDRANATH: Yes, you stay, with my permission. Let us see what happens.
 * 9.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:9
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:9
   :END:
 
 
@@ -384,9 +384,9 @@ JEWELLER: That's the man. He has stabbed me.
 * Scene IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:10
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:10
   :END:
 
 
@@ -394,9 +394,9 @@ JEWELLER: That's the man. He has stabbed me.
 * 11.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:11
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:11
   :END:
 
 
@@ -423,9 +423,9 @@ KING: No, bring everyone. Bring all the men of his size, and I will make a selec
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:12
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:12
   :END:
 
 
@@ -433,9 +433,9 @@ KING: No, bring everyone. Bring all the men of his size, and I will make a selec
 * 13.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:13
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:13
   :END:
 
 
@@ -452,9 +452,9 @@ GORAKSHANATH: Master, I am at your feet. You are also strong. They may catch you
 * Scene VI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:14
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:14
   :END:
 
 
@@ -462,9 +462,9 @@ GORAKSHANATH: Master, I am at your feet. You are also strong. They may catch you
 * 15.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:15
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:15
   :END:
 
 
@@ -537,9 +537,9 @@ KING: Don't worry. Once I am in Heaven I will bring you there to join me. It is 
 * Scene VII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:16
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:16
   :END:
 
 
@@ -547,9 +547,9 @@ KING: Don't worry. Once I am in Heaven I will bring you there to join me. It is 
 * 17.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:17
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:17
   :END:
 
 
@@ -564,9 +564,9 @@ CROWD: The King is dead.
 * Scene VIII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:18
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:18
   :END:
 
 
@@ -574,9 +574,9 @@ CROWD: The King is dead.
 * 19.
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:19
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:19
   :END:
 
 
@@ -608,9 +608,9 @@ Taba alodhan mama niketan
 * Act III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:20
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:20
   :END:
 
 
@@ -618,9 +618,9 @@ Taba alodhan mama niketan
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGSL:21e1
+  :genre: note
+  :keywords:
+  :cite-key: MGSL:21e1
   :END:
 
 
@@ -641,9 +641,9 @@ DISCIPLES
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:21
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:21
   :END:
 
 
@@ -678,9 +678,9 @@ GORAKSHANATH: /[to himself]/ O Master, where are you now? I must speak to you ab
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:22
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:22
   :END:
 
 
@@ -719,9 +719,9 @@ GORAKSHANATH: I shall use my occult power and take you away from here.
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:23
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:23
   :END:
 
 
@@ -740,9 +740,9 @@ MATSYENDRANATH: I had to do all this just for you, for your perfection. You have
 * Act IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:24
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:24
   :END:
 
 
@@ -750,9 +750,9 @@ MATSYENDRANATH: I had to do all this just for you, for your perfection. You have
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGSL:25e1
+  :genre: note
+  :keywords:
+  :cite-key: MGSL:25e1
   :END:
 
 
@@ -779,9 +779,9 @@ KING
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:25
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:25
   :END:
 
 
@@ -810,9 +810,9 @@ Although I shall not see you outwardly, please do not forget me. I shall come ba
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:26
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:26
   :END:
 
 
@@ -839,9 +839,9 @@ GORAKSHANATH: /[furious]/ I shall curse you if you don't tell me instantly where
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:27
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:27
   :END:
 
 
@@ -876,9 +876,9 @@ MATSYENDRANATH: My son, you are wrong. Your soul knew that they deserved punishm
 * Act V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:28
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:28
   :END:
 
 
@@ -886,9 +886,9 @@ MATSYENDRANATH: My son, you are wrong. Your soul knew that they deserved punishm
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGSL:29e1
+  :genre: note
+  :keywords:
+  :cite-key: MGSL:29e1
   :END:
 
 
@@ -907,9 +907,9 @@ MATSYENDRANATH
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGSL:29
+  :genre: play
+  :keywords:
+  :cite-key: MGSL:29
   :END:
 
 

@@ -8,14 +8,14 @@
 
 
   :PROPERTIES
-  :BOOK-NUMBER: 1457
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2003
-  :PUBLISHER: Agni Press
-  :CITE-KEY: STBG
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1457
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2003
+  :publisher: Agni Press
+  :cite-key: STBG
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -24,8 +24,8 @@
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -43,8 +43,8 @@ A million times!
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -61,8 +61,8 @@ A billion times!
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -81,8 +81,8 @@ To have joy in His smiling Heart-Garden.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -101,8 +101,8 @@ Becomes mine.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -119,8 +119,8 @@ And strengthens the heart.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -139,8 +139,8 @@ By God’s Compassion-flooded Heart.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -160,8 +160,8 @@ And fruit-nourishment,
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -177,8 +177,8 @@ To the blackness of our mind.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -195,8 +195,8 @@ To the whiteness of our heart.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -213,8 +213,8 @@ To disappear.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -230,8 +230,8 @@ How to dictate me.
 * 12.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -246,8 +246,8 @@ How to elevate me.
 * 13.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -265,8 +265,8 @@ When we look into life,
 * 14.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -281,8 +281,8 @@ Blightens the mind.
 * 15.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -298,8 +298,8 @@ Lightens the mind.
 * 16.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -315,8 +315,8 @@ But transformation.
 * 17.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -333,8 +333,8 @@ God’s golden Crown.
 * 18.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -349,8 +349,8 @@ To see beauty.
 * 19.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -367,8 +367,8 @@ To become Beauty,
 * 20.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -383,8 +383,8 @@ Does not last.
 * 21.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -400,8 +400,8 @@ Forever lasts.
 * 22.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -417,8 +417,8 @@ We want to know what life has
 * 23.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -434,8 +434,8 @@ Works to live.
 * 24.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -452,8 +452,8 @@ God’s Work.
 * 25.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -471,8 +471,8 @@ The inhuman in us.
 * 26.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -488,8 +488,8 @@ Life-retirement.
 * 27.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -506,8 +506,8 @@ How to create fear.
 * 28.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -522,8 +522,8 @@ How to blossom cheer.
 * 29.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -541,8 +541,8 @@ The Lord of time.
 * 30.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -557,8 +557,8 @@ For the mind-malady.
 * 31.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -574,8 +574,8 @@ For the life-comedy.
 * 32.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -590,8 +590,8 @@ Friendship sails.
 * 33.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -608,8 +608,8 @@ And not ahead of us.
 * 34.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -625,8 +625,8 @@ Happiness guaranteed!
 * 35.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -643,8 +643,8 @@ The most difficult exercise
 * 36.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -660,8 +660,8 @@ God is all yours.
 * 37.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -678,8 +678,8 @@ At God’s Feet.
 * 38.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -694,8 +694,8 @@ Descends unconditionally.
 * 39.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -711,8 +711,8 @@ Ascends swiftly.
 * 40.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -728,8 +728,8 @@ The strongest power.
 * 41.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -746,8 +746,8 @@ By thinking of them.
 * 42.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -764,8 +764,8 @@ At the Feet of God.
 * 43.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -782,8 +782,8 @@ I must be responsible
 * 44.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -799,8 +799,8 @@ What You have.
 * 45.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -817,8 +817,8 @@ And my all.
 * 46.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -834,8 +834,8 @@ And acquaintances.
 * 47.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -852,8 +852,8 @@ And nobody else.
 * 48.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -868,8 +868,8 @@ Not on borrowed time.
 * 49.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -886,8 +886,8 @@ His hallowed Eternity.
 * 50.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -902,8 +902,8 @@ Aspiration says:
 * 51.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -919,8 +919,8 @@ Dedication says:
 * 52.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -935,8 +935,8 @@ Surrender says:
 * 53.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -951,8 +951,8 @@ An outer fruit.
 * 54.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -968,8 +968,8 @@ An inner seed.
 * 55.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -985,8 +985,8 @@ The outer world.
 * 56.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -998,8 +998,8 @@ Of the inner world.
 * 57.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1016,8 +1016,8 @@ The prisoner of my love.
 * 58.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1034,8 +1034,8 @@ Is the same God who asks me
 * 59.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1052,8 +1052,8 @@ Of disappointments.
 * 60.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1069,8 +1069,8 @@ God-appointment.
 * 61.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1086,8 +1086,8 @@ Is not darkness.
 * 62.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1102,8 +1102,8 @@ Is God-oneness.
 * 63.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1120,8 +1120,8 @@ To go my way.
 * 64.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1138,8 +1138,8 @@ God’s Way.
 * 65.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1155,8 +1155,8 @@ The masked God-Face.
 * 66.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1173,8 +1173,8 @@ Than my God-starvation-heart.
 * 67.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1190,8 +1190,8 @@ Dollar-power.
 * 68.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1206,8 +1206,8 @@ God-Shower.
 * 69.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1223,8 +1223,8 @@ To my heart-emptiness.
 * 70.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1239,8 +1239,8 @@ To my mind-loneliness.
 * 71.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1256,8 +1256,8 @@ The mind’s constant question:
 * 72.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1272,8 +1272,8 @@ The heart’s immediate answer:
 * 73.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1290,8 +1290,8 @@ He cried for my perfection.
 * 74.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1307,8 +1307,8 @@ I am crying for God’s Satisfaction.
 * 75.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1326,8 +1326,8 @@ Only for each other.
 * 76.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1343,8 +1343,8 @@ I feel that God is for me.
 * 77.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1362,8 +1362,8 @@ That I am all for God.
 * 78.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1379,8 +1379,8 @@ Is the life-seed.
 * 79.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1395,8 +1395,8 @@ Is the life-plant.
 * 80.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1415,8 +1415,8 @@ Fruit-nourishment-satisfaction.
 * 81.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1431,8 +1431,8 @@ Has no extension.
 * 82.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1450,8 +1450,8 @@ Will He count my tears.
 * 83.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1467,8 +1467,8 @@ An unborn reality.
 * 84.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1484,8 +1484,8 @@ Is not the humiliation
 * 85.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1501,8 +1501,8 @@ Is the self-annihilation
 * 86.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1519,8 +1519,8 @@ For humanity’s smiles.
 * 87.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1536,8 +1536,8 @@ Cloud-lover.
 * 88.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1554,8 +1554,8 @@ Star-enjoyer.
 * 89.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1571,8 +1571,8 @@ Self-examination.
 * 90.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1589,8 +1589,8 @@ God-invocation.
 * 91.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1606,8 +1606,8 @@ Be true to yourself!”
 * 92.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1624,8 +1624,8 @@ If not, sooner than at once
 * 93.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1642,8 +1642,8 @@ A soul-plus will.
 * 94.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1659,8 +1659,8 @@ I let things happen
 * 95.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1677,8 +1677,8 @@ I make things happen
 * 96.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1694,8 +1694,8 @@ Extremely dangerous.
 * 97.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1712,8 +1712,8 @@ Supremely precious.
 * 98.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1730,8 +1730,8 @@ My full God-aspiration.
 * 99.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1750,8 +1750,8 @@ Is to love the world.
 * 100.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1767,8 +1767,8 @@ Of a new heart.
 * 101.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1785,8 +1785,8 @@ Of a new life.
 * 102.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1802,8 +1802,8 @@ My illumination-task.
 * 103.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1821,8 +1821,8 @@ In the battlefield of life.
 * 104.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1838,8 +1838,8 @@ Towards God’s Palace.
 * 105.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1856,8 +1856,8 @@ Towards my heart-temple.
 * 106.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1873,8 +1873,8 @@ Is the ultimate victory.
 * 107.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1891,8 +1891,8 @@ But how many are willing
 * 108.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1908,8 +1908,8 @@ You know how to talk.
 * 109.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1925,8 +1925,8 @@ You know how to listen.
 * 110.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1942,8 +1942,8 @@ That means your silence-sound
 * 111.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1958,8 +1958,8 @@ Cannot near God.
 * 112.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1977,8 +1977,8 @@ Cannot remain unnoticed.
 * 113.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -1995,8 +1995,8 @@ Can become the world.
 * 114.
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -2014,8 +2014,8 @@ To being a supremacy-hunger.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 
@@ -2033,8 +2033,8 @@ Makes homes.
 
 
   :PROPERTIES
-  :GENRE: poem
-  :CITE-KEY:
+  :genre: poem
+  :cite-key:
   :END:
 
 

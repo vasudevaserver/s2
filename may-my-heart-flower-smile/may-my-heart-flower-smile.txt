@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 855
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1992
-  :PUBLISHER:
-  :CITE-KEY: MMHF
-  :GENRE: song
+  :book-number: 855
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1992
+  :publisher:
+  :cite-key: MMHF
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MMHF:1e1
+  :genre: note
+  :cite-key: MMHF:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MMHF:1e2
+  :genre: note
+  :cite-key: MMHF:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * May My Heart-Flower-Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:1
+  :cite-key: MMHF:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Never fade away.
 * May I Never Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:2
+  :cite-key: MMHF:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ A lifeless lethargy-life.
 * My Sadness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:3
+  :cite-key: MMHF:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Live at the Feet of my Lord Supreme.
 * May I Never Be Assailed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:4
+  :cite-key: MMHF:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ By the despair-night.
 * May Each and Every Breath of My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:5
+  :cite-key: MMHF:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Serve for world harmony.
 * May I Never Shoot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:6
+  :cite-key: MMHF:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ At my Lord Supreme.
 * May I Keep a Strict Watch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:7
+  :cite-key: MMHF:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ On my thinking and suspecting mind.
 * May I Become a Lifelong Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:8
+  :cite-key: MMHF:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Of my heart’s inner voice.
 * My Enthusiasm-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:9
+  :cite-key: MMHF:9
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ Always remain a running river.
 * May I Never See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:10
+  :cite-key: MMHF:10
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ The face of anger-hurricane.
 * May I Never Be Exiled
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:11
+  :cite-key: MMHF:11
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ From my Lord’s Compassion-Eye.
 * May My Heart’s Faith-Tower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:12
+  :cite-key: MMHF:12
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ Never crumble.
 * May My Heart’s Peace Torch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1992
-  :CITE-KEY: MMHF:13
+  :cite-key: MMHF:13
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Never flicker.
 * May I Not Cover My Heart-Garden
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:14
+  :cite-key: MMHF:14
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ With my mind-jungle.
 * May I Not Live Any More in Anxiety
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:15
+  :cite-key: MMHF:15
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ In anxiety-cave.
 * Willingness-“YES”
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:16
+  :cite-key: MMHF:16
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ To You, my Lord, always.
 * May I Give All-Importance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:17
+  :cite-key: MMHF:17
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Only to my God-budding-life.
 * My Soul-Summer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:18
+  :cite-key: MMHF:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Marry my heart-winter-tears.
 * May I Never Lament
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:19
+  :cite-key: MMHF:19
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ The departure of my past experiences.
 * May I Believe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:20
+  :cite-key: MMHF:20
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Is my heritage.
 * May I Appreciate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:21
+  :cite-key: MMHF:21
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Daily God-search.
 * May I Every Day Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:22
+  :cite-key: MMHF:22
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Far beyond my desire-life.
 * My God-Surrender-Examination
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:23
+  :cite-key: MMHF:23
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Pass my God-surrender-examination.
 * May My Heart’s God-Telephone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:24
+  :cite-key: MMHF:24
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Never be disconnected.
 * May I Cling to My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:25
+  :cite-key: MMHF:25
   :END:
 
 #+BEGIN_VERSE
@@ -468,10 +468,10 @@ In God’s own Way.
 * My Earthly Freedom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:26
+  :cite-key: MMHF:26
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Is my heavenly death.
 * May I Not Allow My Doubt-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:27
+  :cite-key: MMHF:27
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ To speak ill of my faith-heart.
 * May I Have a Heart That Forgives
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:28
+  :cite-key: MMHF:28
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ Forgives and forgives.
 * May My Heart Offer Happiness-Flowers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:29
+  :cite-key: MMHF:29
   :END:
 
 #+BEGIN_VERSE
@@ -536,10 +536,10 @@ To each and every human being.
 * May I Have an Aspiration-Pull-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:30
+  :cite-key: MMHF:30
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ May I have a dedication-push-life.
 * May My Vital Never Pretend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-07-1992
-  :CITE-KEY: MMHF:31
+  :cite-key: MMHF:31
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +570,10 @@ May my mind never offend.
 * May Each Thought of My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:32
+  :cite-key: MMHF:32
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ The Eye of my Lord Supreme.
 * May My Aspiration-Heart Never Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:33
+  :cite-key: MMHF:33
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Under any attack.
 * May I Realise Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:34
+  :cite-key: MMHF:34
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ The frailty of human ambition-heights.
 * An Unconditional Surrender-Specialist
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:35
+  :cite-key: MMHF:35
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ An unconditional surrender-specialist.
 * May My Heart-Life Over Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:36
+  :cite-key: MMHF:36
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ My mind’s head.
 * May I Sing Day and Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:37
+  :cite-key: MMHF:37
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Selflessness and oneness-songs.
 * Satisfaction-Excellence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:38
+  :cite-key: MMHF:38
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ My Lord’s Satisfaction-Excellence.
 * May I Never Be Unwilling and Unready
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:39
+  :cite-key: MMHF:39
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ For my Absolute Lord Supreme.
 * May They Never Starve
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:40
+  :cite-key: MMHF:40
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Never starve.
 * May I Never Surrender
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-07-1992
-  :CITE-KEY: MMHF:41
+  :cite-key: MMHF:41
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ To ignorance-pressure and blows.
 * Fear’s Prison
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:42
+  :cite-key: MMHF:42
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Fear’s prison.
 * May I Not Cherish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:43
+  :cite-key: MMHF:43
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ Fragile and brittle hopes.
 * May I Daily Try
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:44
+  :cite-key: MMHF:44
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ My vital-temptation-tiger.
 * May All My-Vital-Attachment-Links
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:45
+  :cite-key: MMHF:45
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Be snapped.
 * From Insincerity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:46
+  :cite-key: MMHF:46
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Insecurity comes into existence.
 * May I Know?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:47
+  :cite-key: MMHF:47
   :END:
 
 #+BEGIN_VERSE
@@ -845,10 +845,10 @@ And not frighten me?
 * May I Not Accuse God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:48
+  :cite-key: MMHF:48
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Of my binding and blinding faults.
 * May I Never Be Caught
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:49
+  :cite-key: MMHF:49
   :END:
 
 #+BEGIN_VERSE
@@ -879,10 +879,10 @@ By frustration-fetters.
 * May My Heart Be Never Too Old
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:50
+  :cite-key: MMHF:50
   :END:
 
 #+BEGIN_VERSE
@@ -896,10 +896,10 @@ Too old to learn.
 * May I Prayerfully Wait
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:51
+  :cite-key: MMHF:51
   :END:
 
 #+BEGIN_VERSE
@@ -913,10 +913,10 @@ For God’s Choice Hour.
 * May I Daily Feed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:52
+  :cite-key: MMHF:52
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ My heart’s aspiration-child.
 * May My Reality-Life Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-07-1992
-  :CITE-KEY: MMHF:53
+  :cite-key: MMHF:53
   :END:
 
 #+BEGIN_VERSE
@@ -947,10 +947,10 @@ As pure as my Dreamland-heart.
 * May My Soul Dream On
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:54
+  :cite-key: MMHF:54
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ Until its dreams come perfectly true.
 * May My Soul’s Dance Be Heaven’s Gift (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:55
+  :cite-key: MMHF:55
   :END:
 
 #+BEGIN_VERSE
@@ -981,10 +981,10 @@ Heaven’s gift to earth.
 * May My Heart’s Song Be Earth’s Gift
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:56
+  :cite-key: MMHF:56
   :END:
 
 #+BEGIN_VERSE
@@ -998,10 +998,10 @@ Be earth’s gift to Heaven.
 * May I Not Receive the Old Age
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:57
+  :cite-key: MMHF:57
   :END:
 
 #+BEGIN_VERSE
@@ -1015,10 +1015,10 @@ When it arrives.
 * May I Not Be a Fool (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:58
+  :cite-key: MMHF:58
   :END:
 
 #+BEGIN_VERSE
@@ -1032,10 +1032,10 @@ Morning meditation-invitation.
 * May I Not Be A Fool to Spring Ever
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:59
+  :cite-key: MMHF:59
   :END:
 
 #+BEGIN_VERSE
@@ -1049,10 +1049,10 @@ A surprise on God.
 * Your Private Phone Number
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:60
+  :cite-key: MMHF:60
   :END:
 
 #+BEGIN_VERSE
@@ -1066,10 +1066,10 @@ Your private phone number.
 * Your Home Address
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: MMHF:61
+  :cite-key: MMHF:61
   :END:
 
 #+BEGIN_VERSE

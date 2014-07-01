@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0800
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1991
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CMC
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0800
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1991
+  :publisher: Agni Press
+  :cite-key: CMC
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:12
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:12
   :END:
 
 
@@ -45,9 +45,9 @@ is oneness
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:13
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:13
   :END:
 
 
@@ -68,9 +68,9 @@ is sun-bliss.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:14
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:14
   :END:
 
 
@@ -94,9 +94,9 @@ the thought-mind.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:15
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:15
   :END:
 
 
@@ -120,9 +120,9 @@ the inner journey.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:16
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:16
   :END:
 
 
@@ -146,9 +146,9 @@ God's blissful Breath.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:17
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:17
   :END:
 
 
@@ -169,9 +169,9 @@ is inseparable.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:18
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:18
   :END:
 
 
@@ -195,9 +195,9 @@ the beautiful world.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:19
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:19
   :END:
 
 
@@ -221,9 +221,9 @@ the world-life.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CMC:20
+  :genre: poem
+  :keywords:
+  :cite-key: CMC:20
   :END:
 
 

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 948
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: SCM
-  :GENRE: song
+  :book-number: 948
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: SCM
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCM:1e1
+  :genre: note
+  :cite-key: SCM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SCM:1e2
+  :genre: note
+  :cite-key: SCM:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Truth Is in All (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:1
+  :cite-key: SCM:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ But love is all.
 * To Serve and Never Be Tired
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:2
+  :cite-key: SCM:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ Is love.
 * Be Happy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:3
+  :cite-key: SCM:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ You will be what you like best.
 * I Acquire Peace (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:4
+  :cite-key: SCM:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ But from world-servitude.
 * Each Human Being
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:5
+  :cite-key: SCM:5
   :END:
 
 #+BEGIN_VERSE
@@ -128,10 +128,10 @@ To improve the standard of mankind.
 * Nature’s Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:6
+  :cite-key: SCM:6
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ And as pure as possible.
 * The More We See the Divine Qualities
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:7
+  :cite-key: SCM:7
   :END:
 
 #+BEGIN_VERSE
@@ -164,10 +164,10 @@ The sooner we will establish world peace.
 * It Is Only Through Inner Peace (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:8
+  :cite-key: SCM:8
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ That we can have true outer freedom.
 * Peace Begins When Expectation Ends (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:9
+  :cite-key: SCM:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Peace begins when expectation ends.
 * No Thirst for Gain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:10
+  :cite-key: SCM:10
   :END:
 
 #+BEGIN_VERSE
@@ -215,10 +215,10 @@ Lo! Peace is yours.
 * Peace Does Not Mean Seclusion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:11
+  :cite-key: SCM:11
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Peace means the perfection
 * As There Can Be No War
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: SCM:12
+  :cite-key: SCM:12
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Without the peace-lovers.
 * Man Invents War from Without
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:13
+  :cite-key: SCM:13
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Man discovers peace from within.
 * I Do Not Give Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:14
+  :cite-key: SCM:14
   :END:
 
 #+BEGIN_VERSE
@@ -287,10 +287,10 @@ That is irrevocably unchangeable.
 * Every Day You Should Try to Set
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:15
+  :cite-key: SCM:15
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ In your unconditional self-giving.
 * Poor Is He
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:16
+  :cite-key: SCM:16
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ Poorest is he who does not want to hear people
 * Peace Is God’s Constant Race
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:17
+  :cite-key: SCM:17
   :END:
 
 #+BEGIN_VERSE
@@ -341,10 +341,10 @@ War is man's immediate disgrace.
 * Peace We Can Get
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:18
+  :cite-key: SCM:18
   :END:
 
 #+BEGIN_VERSE
@@ -358,10 +358,10 @@ Only from the heart of oneness.
 * A Moment’s Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:19
+  :cite-key: SCM:19
   :END:
 
 #+BEGIN_VERSE
@@ -376,10 +376,10 @@ Can and shall save the world.
 * The Fulness of Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:20
+  :cite-key: SCM:20
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ To humanity’s patience-mountain.
 * Claim Not Recognition
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:21
+  :cite-key: SCM:21
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ But long for perfection.
 * Silence Calls Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-07-1993
-  :CITE-KEY: SCM:22
+  :cite-key: SCM:22
   :END:
 
 #+BEGIN_VERSE

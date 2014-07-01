@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1305
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1999
-  :PUBLISHER:
-  :CITE-KEY: AKTA
-  :GENRE: song
+  :book-number: 1305
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1999
+  :publisher:
+  :cite-key: AKTA
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AKTA:1e1
+  :genre: note
+  :cite-key: AKTA:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AKTA:1e2
+  :genre: note
+  :cite-key: AKTA:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Amare Karogo Tomar Apan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:1
+  :cite-key: AKTA:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Amare karogo tomar apan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:2
+  :cite-key: AKTA:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ O, make me Your own.
 * Oh, Make Me Your Own
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:3
+  :cite-key: AKTA:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Oh, make me Your own.
 * Tomar Swapan Amar Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:4
+  :cite-key: AKTA:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Amar jiban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:5
+  :cite-key: AKTA:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ My life is Your Dream.
 * My Life Is Your Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:6
+  :cite-key: AKTA:6
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ My life is Your Dream.
 * Tomar Charane Amar Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:7
+  :cite-key: AKTA:7
   :END:
 
 #+BEGIN_VERSE
@@ -152,10 +152,10 @@ Tomar charane amar maran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:8
+  :cite-key: AKTA:8
   :END:
 
 #+BEGIN_VERSE
@@ -168,10 +168,10 @@ My death is at Your Feet.
 * My Death Is at Your Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:9
+  :cite-key: AKTA:9
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ My death is at Your Feet.
 * Jeyona Bhuliya Mukti Amare Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:10
+  :cite-key: AKTA:10
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ Jeyona bhuliya mukti amare dite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:11
+  :cite-key: AKTA:11
   :END:
 
 #+BEGIN_VERSE
@@ -215,10 +215,10 @@ Forget not to give me liberation.
 * Forget Not to Give Me Liberation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:12
+  :cite-key: AKTA:12
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Forget not to give me liberation.
 * Taba Sudha Nam Jape Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:13
+  :cite-key: AKTA:13
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Mama hiya abiram
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:14
+  :cite-key: AKTA:14
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Your Nectar-Name sleeplessly.
 * May My Heart Repeat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:15
+  :cite-key: AKTA:15
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Sleeplessly.
 * Jao Dure Chale Ahamika Ghor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:16
+  :cite-key: AKTA:16
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Jao dure chale ahamika ghor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:17
+  :cite-key: AKTA:17
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Go away, O dark pride.
 * Go Away
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:18
+  :cite-key: AKTA:18
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Go away, O dark pride!
 * Satar Kati Satar Kati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:19
+  :cite-key: AKTA:19
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Shanti sagare pratiti bhore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:20
+  :cite-key: AKTA:20
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ I swim and swim in the river of peace every day.
 * I Swim and Swim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:21
+  :cite-key: AKTA:21
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Every day.
 * Asimer Khudha Dao Go Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:22
+  :cite-key: AKTA:22
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Tomare tushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:23
+  :cite-key: AKTA:23
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ To satisfy You.
 * Give Me Infinity’s Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:24
+  :cite-key: AKTA:24
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ To satisfy You.
 * Chahi Kebal Tomar Sebai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:25
+  :cite-key: AKTA:25
   :END:
 
 #+BEGIN_VERSE
@@ -445,10 +445,10 @@ Jiban katate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:26
+  :cite-key: AKTA:26
   :END:
 
 #+BEGIN_VERSE
@@ -461,10 +461,10 @@ I long to spend my life only serving You.
 * I Long to Spend My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:27
+  :cite-key: AKTA:27
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ Only serving You.
 * Amar Ananda Dheu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:28
+  :cite-key: AKTA:28
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ Amar ananda dheu tomar khama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:29
+  :cite-key: AKTA:29
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ Your Forgiveness is my ecstasy-wave.
 * Your Forgiveness Is My Ecstasy-Wave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:30
+  :cite-key: AKTA:30
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Your Forgiveness is my ecstasy-wave.
 * Taba Khama Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:31
+  :cite-key: AKTA:31
   :END:
 
 #+BEGIN_VERSE
@@ -541,10 +541,10 @@ E dharani ache benche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:32
+  :cite-key: AKTA:32
   :END:
 
 #+BEGIN_VERSE
@@ -558,10 +558,10 @@ In Your Forgiveness-Heart.
 * This World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:33
+  :cite-key: AKTA:33
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ In Your Forgiveness-Heart.
 * Shanti Gabhire Banchite Chahigo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:34
+  :cite-key: AKTA:34
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Shanti gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:35
+  :cite-key: AKTA:35
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ In the depths of peace I long to live.
 * In the Depths of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:36
+  :cite-key: AKTA:36
   :END:
 
 #+BEGIN_VERSE
@@ -624,10 +624,10 @@ I long to live.
 * Asha Nadi Tumi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:37
+  :cite-key: AKTA:37
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ Nidra bihin sathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:38
+  :cite-key: AKTA:38
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ You are my sleepless companion.
 * Hope-River
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:39
+  :cite-key: AKTA:39
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ you are my sleepless companion.
 * Spriha Shikha Jago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:40
+  :cite-key: AKTA:40
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Abar jago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:41
+  :cite-key: AKTA:41
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Once more awake.
 * Aspiration-Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:42
+  :cite-key: AKTA:42
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ Once more awake.
 * Puta Usha Dake Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:43
+  :cite-key: AKTA:43
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Dekhte savitare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:44
+  :cite-key: AKTA:44
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ To have a glimpse of the rising sun
 * Purity-Dawn Is Beckoning Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:45
+  :cite-key: AKTA:45
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ To have a glimpse of the rising sun.
 * Tripti Chahina Dipti Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:46
+  :cite-key: AKTA:46
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Chahina dipti chahi taba khama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:47
+  :cite-key: AKTA:47
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Light I want not; I want Your Forgiveness.
 * Satisfaction I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1999
-  :CITE-KEY: AKTA:48
+  :cite-key: AKTA:48
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ I want Your Forgiveness.
 * Usha Debi Elo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:49
+  :cite-key: AKTA:49
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ Usha debi elo hridaya kamale phutate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:50
+  :cite-key: AKTA:50
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ To awaken my heart-lotus.
 * The Goddess Dawn Has Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:51
+  :cite-key: AKTA:51
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ To awaken my heart-lotus.
 * Usha Deva Bala Eseche Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:52
+  :cite-key: AKTA:52
   :END:
 
 #+BEGIN_VERSE
@@ -892,10 +892,10 @@ Amar jiban pantha karite ala
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:53
+  :cite-key: AKTA:53
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ To illumine my life-road.
 * The Daughter-Goddess Dawn Has Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:54
+  :cite-key: AKTA:54
   :END:
 
 #+BEGIN_VERSE
@@ -926,10 +926,10 @@ To illumine my life-road.
 * Gopane Ese Hridaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:55
+  :cite-key: AKTA:55
   :END:
 
 #+BEGIN_VERSE
@@ -942,10 +942,10 @@ Mama gopane raho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:56
+  :cite-key: AKTA:56
   :END:
 
 #+BEGIN_VERSE
@@ -959,10 +959,10 @@ Secretly You stay.
 * Secretly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:57
+  :cite-key: AKTA:57
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ Secretly You stay.
 * Sanjher Tara Sanjher Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:58
+  :cite-key: AKTA:58
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Tumi amar hiyar hasir fuara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:59
+  :cite-key: AKTA:59
   :END:
 
 #+BEGIN_VERSE
@@ -1009,10 +1009,10 @@ You are my fountain-heart-smile.
 * O Evening Star, O Evening-Star
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:60
+  :cite-key: AKTA:60
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ You are my fountain-heart-smile.
 * Eso Eso Ogo Majhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:61
+  :cite-key: AKTA:61
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Tomar sonar tari beye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:62
+  :cite-key: AKTA:62
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Sailing Your Golden Boat.
 * O My Boatman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:63
+  :cite-key: AKTA:63
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ Sailing Your Golden Boat.
 * Deba Muhurta Eso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:64
+  :cite-key: AKTA:64
   :END:
 
 #+BEGIN_VERSE
@@ -1092,10 +1092,10 @@ Jagao amar supta hiyar rabire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:65
+  :cite-key: AKTA:65
   :END:
 
 #+BEGIN_VERSE
@@ -1109,10 +1109,10 @@ Come and awaken my heart’s sleeping sun.
 * O God-Moment, Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:66
+  :cite-key: AKTA:66
   :END:
 
 #+BEGIN_VERSE
@@ -1127,10 +1127,10 @@ My heart’s sleeping sun.
 * Ashru Sagare Dube Jao Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:67
+  :cite-key: AKTA:67
   :END:
 
 #+BEGIN_VERSE
@@ -1143,10 +1143,10 @@ Bhoye bhoye jabe asi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:68
+  :cite-key: AKTA:68
   :END:
 
 #+BEGIN_VERSE
@@ -1160,10 +1160,10 @@ When I fearfully come to You.
 * You Dive into the Sea of Sorrows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:69
+  :cite-key: AKTA:69
   :END:
 
 #+BEGIN_VERSE
@@ -1177,10 +1177,10 @@ When I fearfully come to You.
 * Ganer Deshe Hese Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:70
+  :cite-key: AKTA:70
   :END:
 
 #+BEGIN_VERSE
@@ -1193,10 +1193,10 @@ Gan geye jai ganer rajer samukhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:71
+  :cite-key: AKTA:71
   :END:
 
 #+BEGIN_VERSE
@@ -1211,10 +1211,10 @@ Before the King of songs.
 * Smiling, I Sing And Sing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:72
+  :cite-key: AKTA:72
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Before the King of Songs.
 * Pujite Tomai Diyecho Khamata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:73
+  :cite-key: AKTA:73
   :END:
 
 #+BEGIN_VERSE
@@ -1245,10 +1245,10 @@ Tushite ebar dao go
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:74
+  :cite-key: AKTA:74
   :END:
 
 #+BEGIN_VERSE
@@ -1262,10 +1262,10 @@ Now do give me the capacity to satisfy You.
 * You Have Given Me the Capacity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:75
+  :cite-key: AKTA:75
   :END:
 
 #+BEGIN_VERSE
@@ -1281,10 +1281,10 @@ The capacity to satisfy You.
 * Tomar Asim Khamar Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:76
+  :cite-key: AKTA:76
   :END:
 
 #+BEGIN_VERSE
@@ -1297,10 +1297,10 @@ Jiban amar benche ache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:77
+  :cite-key: AKTA:77
   :END:
 
 #+BEGIN_VERSE
@@ -1315,10 +1315,10 @@ Forgiveness-power.
 * My Life Is Still Alive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:78
+  :cite-key: AKTA:78
   :END:
 
 #+BEGIN_VERSE
@@ -1333,10 +1333,10 @@ Forgiveness-Power.
 * Nayan Mudile Dekha Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:79
+  :cite-key: AKTA:79
   :END:
 
 #+BEGIN_VERSE
@@ -1350,10 +1350,10 @@ Keno prabhu keno
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:80
+  :cite-key: AKTA:80
   :END:
 
 #+BEGIN_VERSE
@@ -1370,10 +1370,10 @@ Why, my Lord, why?
 * When I Close My Eyes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:81
+  :cite-key: AKTA:81
   :END:
 
 #+BEGIN_VERSE
@@ -1390,10 +1390,10 @@ Why, my Lord, why?
 * Baroi Madhur Kalpana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:82
+  :cite-key: AKTA:82
   :END:
 
 #+BEGIN_VERSE
@@ -1407,10 +1407,10 @@ Ei kathati jante perechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:83
+  :cite-key: AKTA:83
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ This I have known all along.
 * Sweet, Very Sweet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:84
+  :cite-key: AKTA:84
   :END:
 
 #+BEGIN_VERSE
@@ -1443,10 +1443,10 @@ This I have known all along.
 * Balo Balo Amai Bhalobaso Ki (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:85
+  :cite-key: AKTA:85
   :END:
 
 #+BEGIN_VERSE
@@ -1459,10 +1459,10 @@ Balo ogo param pita
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:86
+  :cite-key: AKTA:86
   :END:
 
 #+BEGIN_VERSE
@@ -1476,10 +1476,10 @@ Do You really love me?
 * Tell Me, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1999
-  :CITE-KEY: AKTA:87
+  :cite-key: AKTA:87
   :END:
 
 #+BEGIN_VERSE
@@ -1493,10 +1493,10 @@ Do You really love me?
 * Balo Balo Amai Bhalobaso Ki (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-01-1999
-  :CITE-KEY: AKTA:88
+  :cite-key: AKTA:88
   :END:
 
 #+BEGIN_VERSE
@@ -1509,10 +1509,10 @@ Ogo amar param pita
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-01-1999
-  :CITE-KEY: AKTA:89
+  :cite-key: AKTA:89
   :END:
 
 #+BEGIN_VERSE
@@ -1527,10 +1527,10 @@ Do You really love me?
 * Tell Me, Tell Me, My Lord Father Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1999
-  :CITE-KEY: AKTA:90
+  :cite-key: AKTA:90
   :END:
 
 #+BEGIN_VERSE
@@ -1544,10 +1544,10 @@ Do You really love me?
 * Jago Jago Rabi Shashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-1999
-  :CITE-KEY: AKTA:91
+  :cite-key: AKTA:91
   :END:
 
 #+BEGIN_VERSE
@@ -1560,10 +1560,10 @@ Jago amar hiya pure muchhao ashru dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-01-1999
-  :CITE-KEY: AKTA:92
+  :cite-key: AKTA:92
   :END:
 
 #+BEGIN_VERSE
@@ -1577,10 +1577,10 @@ Awake in my heart-citadel and wipe the flow of my tears.
 * Awake, Awake, O Sun, O Moon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-1999
-  :CITE-KEY: AKTA:93
+  :cite-key: AKTA:93
   :END:
 
 #+BEGIN_VERSE

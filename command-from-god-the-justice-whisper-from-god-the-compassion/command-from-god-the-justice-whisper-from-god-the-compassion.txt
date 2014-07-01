@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1002
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CGJ
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1002
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: CGJ
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:1
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:1
   :END:
 
 
@@ -46,9 +46,9 @@ And sprint and sprint!"
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:2
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:2
   :END:
 
 
@@ -65,9 +65,9 @@ I am.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:3
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:3
   :END:
 
 
@@ -84,9 +84,9 @@ I am.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:4
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:4
   :END:
 
 
@@ -103,9 +103,9 @@ I am.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:5
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:5
   :END:
 
 
@@ -122,9 +122,9 @@ I am.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:6
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:6
   :END:
 
 
@@ -141,9 +141,9 @@ I am.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:7
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:7
   :END:
 
 
@@ -160,9 +160,9 @@ Nurtures me.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:8
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:8
   :END:
 
 
@@ -179,9 +179,9 @@ I am.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:9
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:9
   :END:
 
 
@@ -198,9 +198,9 @@ I lovingly and cheerfully carry.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:10
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:10
   :END:
 
 
@@ -217,9 +217,9 @@ Is my mind's sole occupation.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:11
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:11
   :END:
 
 
@@ -238,9 +238,9 @@ I am.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:12
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:12
   :END:
 
 
@@ -259,9 +259,9 @@ I am.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:13
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:13
   :END:
 
 
@@ -280,9 +280,9 @@ How I can please Him.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:14
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:14
   :END:
 
 
@@ -301,9 +301,9 @@ Enlightens my heart.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:15
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:15
   :END:
 
 
@@ -322,9 +322,9 @@ To be His one-pointed coordinator.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:16
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:16
   :END:
 
 
@@ -345,9 +345,9 @@ Self-givingly.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:17
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:17
   :END:
 
 
@@ -366,9 +366,9 @@ I am.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:18
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:18
   :END:
 
 
@@ -387,9 +387,9 @@ My pure oneness-fulfilment.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:19
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:19
   :END:
 
 
@@ -411,9 +411,9 @@ In His Cosmic Game.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:20
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:20
   :END:
 
 
@@ -434,9 +434,9 @@ Heart-Smiles.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:21
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:21
   :END:
 
 
@@ -458,9 +458,9 @@ To warn and perfect me.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:22
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:22
   :END:
 
 
@@ -482,9 +482,9 @@ Only if I can manifest Him.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:23
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:23
   :END:
 
 
@@ -503,9 +503,9 @@ God's Vision-blossoming Cosmos.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:24
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:24
   :END:
 
 
@@ -524,9 +524,9 @@ To offer Him my sacred heart.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:25
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:25
   :END:
 
 
@@ -545,9 +545,9 @@ Immortality-heart.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:26
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:26
   :END:
 
 
@@ -566,9 +566,9 @@ For God-dissatisfaction.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:27
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:27
   :END:
 
 
@@ -587,9 +587,9 @@ My self-dedication-life.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:28
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:28
   :END:
 
 
@@ -608,9 +608,9 @@ My surrender-step.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:29
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:29
   :END:
 
 
@@ -631,9 +631,9 @@ Climbing flames.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:30
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:30
   :END:
 
 
@@ -652,9 +652,9 @@ Is feeding God's Eye.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:31
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:31
   :END:
 
 
@@ -676,9 +676,9 @@ And are flying together.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:32
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:32
   :END:
 
 
@@ -697,9 +697,9 @@ My heart-fragrance.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:33
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:33
   :END:
 
 
@@ -718,9 +718,9 @@ God's Compassion-Heart.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:34
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:34
   :END:
 
 
@@ -746,9 +746,9 @@ Everywhere.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:35
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:35
   :END:
 
 
@@ -769,9 +769,9 @@ Disappoint me.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:36
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:36
   :END:
 
 
@@ -792,9 +792,9 @@ From His Reality-Shore.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:37
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:37
   :END:
 
 
@@ -813,9 +813,9 @@ My gratitude-message-delight.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:38
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:38
   :END:
 
 
@@ -834,9 +834,9 @@ To treasure its divinity.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:39
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:39
   :END:
 
 
@@ -855,9 +855,9 @@ I am.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:40
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:40
   :END:
 
 
@@ -874,9 +874,9 @@ God's Necessity.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:41
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:41
   :END:
 
 
@@ -895,9 +895,9 @@ My volcano-eyes.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:42
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:42
   :END:
 
 
@@ -914,9 +914,9 @@ My heart.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:43
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:43
   :END:
 
 
@@ -933,9 +933,9 @@ I am.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:44
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:44
   :END:
 
 
@@ -954,9 +954,9 @@ World-perfection-lessons.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:45
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:45
   :END:
 
 
@@ -974,9 +974,9 @@ And at the destination as well.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:46
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:46
   :END:
 
 
@@ -993,9 +993,9 @@ Your outer world is.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:47
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:47
   :END:
 
 
@@ -1014,9 +1014,9 @@ You are.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:48
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:48
   :END:
 
 
@@ -1033,9 +1033,9 @@ My soul and my heart enjoy.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:49
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:49
   :END:
 
 
@@ -1052,9 +1052,9 @@ In the sky of silence-freedom.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:50
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:50
   :END:
 
 
@@ -1073,9 +1073,9 @@ Aspiration-heart.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:51
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:51
   :END:
 
 
@@ -1094,9 +1094,9 @@ Peace-ecstasy.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: CGJ:52
+  :genre: poem
+  :keywords:
+  :cite-key: CGJ:52
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1069
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1995
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-2
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1069
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1995
+  :publisher: Agni Press
+  :cite-key: SCA-2
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:32e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:32e1
   :END:
   
   [fn:part-1]
@@ -32,9 +32,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:32
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:32
   :END:
 
 
@@ -74,9 +74,9 @@ I am so happy to learn that this magazine will touch many parts of the world, an
 * Question: Our paper is called /Hinduism Today/, which you so beautifully rendered into song. There is one question we ask everybody when we start. We ask, "Are you a Hindu?"
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:33
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:33
   :END:
 
 
@@ -96,9 +96,9 @@ Again, we have to know that Hinduism is not a man-made religion that binds and b
 * Question: One of the things that you talk about a lot in your writings is self-transcendence. We were talking to Ashrita about his breaking the brick-carrying world record, which was certainly an example of self-transcendence. He said that after he had walked around the track with a nine-pound brick for forty miles, he was on the verge of collapsing. Then you came and your presence and a few things you said put him into a state of self-transcendence. What do you do? How can you catalyse a person, or how can a person catalyse himself to transcend what he believes are his normal limitations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:34
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:34
   :END:
 
 
@@ -127,9 +127,9 @@ In the spiritual life also, we are always trying to transcend and go beyond. If 
 * Question: I understand you spent time at Sri Aurobindo's Ashram. I was very impressed that all the members of the Ashram are celibate at all ages. Even married, they practise /brahmacharya/, or continence. I've noticed that many of your devotees don't have children. I'm wondering how you instruct them or inspire them or talk about this area of /brahmacharya/ in marriage.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:35
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:35
   :END:
 
 
@@ -210,9 +210,9 @@ All of us need and want freedom. This is not the freedom of a Caesar or a Napole
 * /Editor:/ We'd like to ask you to offer your advice to the average person or to someone who is just beginning to acquaint himself with meditation as to how he can make it a more integral part of his life.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:36
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:36
   :END:
 
 
@@ -235,9 +235,9 @@ When we see that there is not even an iota of thought trying to enter, when we h
 * Question: We're interested in hearing a little more about what made you decide to come to the West.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:37
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:37
   :END:
 
 
@@ -260,9 +260,9 @@ When I was born, my whole world was my father and mother. Then, when I grew a li
 * Question: You have gathered around you in Jamaica, Queens a very special group of souls. One thing always impresses us: every one of your students that we meet is completely committed to the spiritual life. It's a wonderful change from some of the semi-seriousness that we see in other groups. How do you see that little enclave of aspiring seekers gathered near you? They're out on their own, but also nearby, although not in your ashram or home. I don't think there's another group like it.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:38
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:38
   :END:
 
 
@@ -279,9 +279,9 @@ I always tell my students to see the positive aspect of life, not the negative a
 * Question: Do your students have the opportunity to come to you privately at home?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:39
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:39
   :END:
 
 
@@ -304,9 +304,9 @@ Just two weeks ago the parents of five of my disciples died, and the disciples c
 * Question: Why is it that you so seldom give talks these days?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:40
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:40
   :END:
 
 
@@ -317,9 +317,9 @@ Just two weeks ago the parents of five of my disciples died, and the disciples c
 * /Editor:/ At the World Parliament of Religions in Chicago, your silence spoke louder than all the other speakers.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:41
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:41
   :END:
 
 
@@ -344,9 +344,9 @@ If your aspiration is stronger than mine, so what? If I have one drop of aspirat
 * Question: Do you think that the kind of extended family that is found in India, in which fathers, mothers, aunts and uncles all live together, could create a more stable society in the West?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:42
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:42
   :END:
 
 
@@ -366,9 +366,9 @@ We have the body, vital, mind, heart and soul. If today I renounce my body, if t
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:43e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:43e1
   :END:
   
   [fn:part-2]
@@ -377,9 +377,9 @@ We have the body, vital, mind, heart and soul. If today I renounce my body, if t
 * /Interviewer:/ Sri Chinmoy, what message are you trying to spread around the world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:43
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:43
   :END:
 
 
@@ -390,9 +390,9 @@ We have the body, vital, mind, heart and soul. If today I renounce my body, if t
 * /Interviewer:/ When you talk about peace, are you talking about having no wars, or individual peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:44
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:44
   :END:
 
 
@@ -411,9 +411,9 @@ My prayerful message to the world is this: let us first have individual peace, a
 * /Interviewer:/ When meeting with world leaders, what do you speak about?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:45
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:45
   :END:
 
 
@@ -430,9 +430,9 @@ My prayerful message to the world is this: let us first have individual peace, a
 * /Interviewer:/ Do you think of anything in particular while meditating?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:46
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:46
   :END:
 
 
@@ -449,9 +449,9 @@ My prayerful message to the world is this: let us first have individual peace, a
 * /Interviewer:/ What about sports? What does it have to do with your mission?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:47
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:47
   :END:
 
 
@@ -462,9 +462,9 @@ My prayerful message to the world is this: let us first have individual peace, a
 * /Interviewer:/ What about the competitive element in sports? Isn't that another form of showing supremacy?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:48
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:48
   :END:
   
   
@@ -478,9 +478,9 @@ When I compete only with myself, I always get tremendous joy. Yesterday I had on
 * /Interviewer:/ What do you think of the Olympic Games?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:49
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:49
   :END:
 
 
@@ -500,9 +500,9 @@ Regardless of who wins on the sports ground, each one should try to excel in his
 * /Interviewer:/ What roles do your students play in your mission?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:50
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:50
   :END:
 
 
@@ -515,9 +515,9 @@ Regardless of who wins on the sports ground, each one should try to excel in his
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:51e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:51e1
   :END:
   
   [fn:part-3]
@@ -525,9 +525,9 @@ Regardless of who wins on the sports ground, each one should try to excel in his
 * /Mr. Inoue:/ Where does your energy come from?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:51
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:51
   :END:
 
 
@@ -550,9 +550,9 @@ When seekers and God-lovers speak about peace, it comes from their feeling of on
 * /Mr. Inoue:/ You have just spoken about the importance of prayer and meditation. I am wondering if there are also other things in our everyday life that are important and which we should be attentive to.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:52
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:52
   :END:
 
 
@@ -566,9 +566,9 @@ In a family, if the parents give something only to one child and not to all the 
 * /Mr. Inoue:/ I understand that you place great importance on taking care of the physical body. Would you please tell me why you do this?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:53
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:53
   :END:
 
 
@@ -582,9 +582,9 @@ I am trying to become good, better, best -- not in order to defeat you, but in o
 * /Mr. Inoue:/ Lastly, Sri Chinmoy, what do you feel is the most natural or best way to live? I used to work in the agricultural field, but now I am having to co-ordinate projects in the office. I feel sad since I think that perhaps the pure life is to be out in the field working agriculturally.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:54
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:54
   :END:
   
   
@@ -604,9 +604,9 @@ Everything that you are asked to do, you have to do cheerfully. Then you will be
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:55e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:55e1
   :END:
 
 

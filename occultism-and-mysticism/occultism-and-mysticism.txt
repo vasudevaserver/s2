@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0320
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: OM
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0320
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: OM
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Occultism And Mysticism
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: OM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: OM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: Can We Learn Much About Occultism...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:1
+  :genre: qa
+  :keywords:
+  :cite-key: OM:1
   :END:
 
 
@@ -51,9 +51,9 @@ I wish my dedicated disciples who are interested in occultism to bear in mind th
 * Question: What Kind Of Occultism Do Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:2
+  :genre: qa
+  :keywords:
+  :cite-key: OM:2
   :END:
 
 
@@ -66,9 +66,9 @@ I wish my dedicated disciples who are interested in occultism to bear in mind th
 * Question: What Is The Difference Between An...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:3
+  :genre: qa
+  :keywords:
+  :cite-key: OM:3
   :END:
 
 
@@ -81,9 +81,9 @@ I wish my dedicated disciples who are interested in occultism to bear in mind th
 * Question: A Lot Of Times You Say...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:4
+  :genre: qa
+  :keywords:
+  :cite-key: OM:4
   :END:
 
 
@@ -96,9 +96,9 @@ I wish my dedicated disciples who are interested in occultism to bear in mind th
 * Question: Does It Look Like Anything ?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:5
+  :genre: qa
+  :keywords:
+  :cite-key: OM:5
   :END:
 
 
@@ -113,9 +113,9 @@ A lump of sugar can take any form: it can look like a mountain or it can be very
 * Question: Where Do The Different Kinds Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:6
+  :genre: qa
+  :keywords:
+  :cite-key: OM:6
   :END:
 
 
@@ -128,9 +128,9 @@ A lump of sugar can take any form: it can look like a mountain or it can be very
 * Questio: What Should We Do If We...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:7
+  :genre: qa
+  :keywords:
+  :cite-key: OM:7
   :END:
 
 
@@ -143,9 +143,9 @@ A lump of sugar can take any form: it can look like a mountain or it can be very
 * Question: Could You Tell Us What Mysticism...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:8
+  :genre: qa
+  :keywords:
+  :cite-key: OM:8
   :END:
 
 
@@ -164,9 +164,9 @@ He wants to go to the essence, to the Source, faster than any human being dares 
 * The Unseen World
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: OM:9e1
+  :genre: section
+  :keywords:
+  :cite-key: OM:9e1
   :END:
 
 
@@ -174,9 +174,9 @@ He wants to go to the essence, to the Source, faster than any human being dares 
 * Question: Does God Like Magic?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:9
+  :genre: qa
+  :keywords:
+  :cite-key: OM:9
   :END:
 
 
@@ -191,9 +191,9 @@ The outer being has no inner vision; it is blind. That is why we can't see God's
 * Question: How Do You Feel About People...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:10
+  :genre: qa
+  :keywords:
+  :cite-key: OM:10
   :END:
 
 
@@ -208,9 +208,9 @@ So if somebody is interested in automatic writing, mediums and trances, you have
 * Question: Astronomers Have This Big Controversy About...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:11
+  :genre: qa
+  :keywords:
+  :cite-key: OM:11
   :END:
 
 
@@ -227,9 +227,9 @@ One universe we form with our preconceived mental ideas, but it has nothing to d
 * Question: What Will Happen When The Physical...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:12
+  :genre: qa
+  :keywords:
+  :cite-key: OM:12
   :END:
 
 
@@ -250,9 +250,9 @@ God is wise; that is why He does not count. Counting means you are binding- bind
 * Question: Are The Influences Of The Planets...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:13
+  :genre: qa
+  :keywords:
+  :cite-key: OM:13
   :END:
 
 
@@ -269,9 +269,9 @@ I have done this many times for the most ordinary, unaspiring disciples. It was 
 * Question: Do The Planets And Stars Have...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:14
+  :genre: qa
+  :keywords:
+  :cite-key: OM:14
   :END:
 
 
@@ -284,9 +284,9 @@ I have done this many times for the most ordinary, unaspiring disciples. It was 
 * Question: Now That People Are Becoming More...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:15
+  :genre: qa
+  :keywords:
+  :cite-key: OM:15
   :END:
 
 
@@ -299,9 +299,9 @@ I have done this many times for the most ordinary, unaspiring disciples. It was 
 * The Spiritual Science Of The Body
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: OM:16e1
+  :genre: section
+  :keywords:
+  :cite-key: OM:16e1
   :END:
 
 
@@ -309,9 +309,9 @@ I have done this many times for the most ordinary, unaspiring disciples. It was 
 * Question: What Is The Third Eye?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:16
+  :genre: qa
+  :keywords:
+  :cite-key: OM:16
   :END:
 
 
@@ -330,9 +330,9 @@ The third eye may remain fast asleep. All those here are seekers. In some cases 
 * Question: I Feel That The Supreme Has...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:17
+  :genre: qa
+  :keywords:
+  :cite-key: OM:17
   :END:
 
 
@@ -345,9 +345,9 @@ The third eye may remain fast asleep. All those here are seekers. In some cases 
 * Question: Please Tell Me If The Third...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:18
+  :genre: qa
+  :keywords:
+  :cite-key: OM:18
   :END:
 
 
@@ -360,9 +360,9 @@ The third eye may remain fast asleep. All those here are seekers. In some cases 
 * Question: How Can We See The Subtle...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:19
+  :genre: qa
+  :keywords:
+  :cite-key: OM:19
   :END:
 
 
@@ -375,9 +375,9 @@ The third eye may remain fast asleep. All those here are seekers. In some cases 
 * Question: If We Chant Somebody's Name, Especially...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:20
+  :genre: qa
+  :keywords:
+  :cite-key: OM:20
   :END:
 
 
@@ -392,9 +392,9 @@ When I make my fervent request to you, as your spiritual leader, to repeat the S
 * Question: Some Books Say It Makes A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:21
+  :genre: qa
+  :keywords:
+  :cite-key: OM:21
   :END:
 
 
@@ -413,9 +413,9 @@ Some people do not know how to breathe properly. Another problem some people hav
 * Question: At What Stage Of The Development...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:22
+  :genre: qa
+  :keywords:
+  :cite-key: OM:22
   :END:
 
 
@@ -428,9 +428,9 @@ Some people do not know how to breathe properly. Another problem some people hav
 * Question: Which Of The Seven Chakras Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:23
+  :genre: qa
+  :keywords:
+  :cite-key: OM:23
   :END:
 
 
@@ -445,9 +445,9 @@ According to Zen Buddhism, the navel chakra should be opened first; but accordin
 * Fate And Evil Forces
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: OM:24e1
+  :genre: section
+  :keywords:
+  :cite-key: OM:24e1
   :END:
 
 
@@ -455,9 +455,9 @@ According to Zen Buddhism, the navel chakra should be opened first; but accordin
 * Question: Are Accidents Caused By Evil Forces,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:24
+  :genre: qa
+  :keywords:
+  :cite-key: OM:24
   :END:
 
 
@@ -470,9 +470,9 @@ According to Zen Buddhism, the navel chakra should be opened first; but accordin
 * Question: If An Airplane Is Going To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:25
+  :genre: qa
+  :keywords:
+  :cite-key: OM:25
   :END:
 
 
@@ -485,9 +485,9 @@ According to Zen Buddhism, the navel chakra should be opened first; but accordin
 * Question: But Suppose There Were A Hundred...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:26
+  :genre: qa
+  :keywords:
+  :cite-key: OM:26
   :END:
 
 
@@ -502,9 +502,9 @@ This may be the case, but again, some evil forces can attack. It may not be thei
 * Question: What Can The Passengers Do To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:27
+  :genre: qa
+  :keywords:
+  :cite-key: OM:27
   :END:
 
 
@@ -519,9 +519,9 @@ Again, gratitude is a form of prayer, a form of protection. If we offer gratitud
 * Question: Is It Possible For An Airplane...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:28
+  :genre: qa
+  :keywords:
+  :cite-key: OM:28
   :END:
 
 
@@ -542,9 +542,9 @@ So sometimes the hostile forces can take away our concentration. Sometimes the f
 * Question: Once I Had A Misunderstanding With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:29
+  :genre: qa
+  :keywords:
+  :cite-key: OM:29
   :END:
 
 
@@ -557,9 +557,9 @@ So sometimes the hostile forces can take away our concentration. Sometimes the f
 * Question: Suppose I Did Something Wrong To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:30
+  :genre: qa
+  :keywords:
+  :cite-key: OM:30
   :END:
 
 
@@ -572,9 +572,9 @@ So sometimes the hostile forces can take away our concentration. Sometimes the f
 * Question: I Have Been Told That A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:31
+  :genre: qa
+  :keywords:
+  :cite-key: OM:31
   :END:
 
 
@@ -591,9 +591,9 @@ Do not try to guide your own life. The main mistake in your life is that you hav
 * Question: Do We Sometimes Become Hostile Forces?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:32
+  :genre: qa
+  :keywords:
+  :cite-key: OM:32
   :END:
 
 
@@ -606,9 +606,9 @@ Do not try to guide your own life. The main mistake in your life is that you hav
 * Question: I Was Talking To A Person...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:33
+  :genre: qa
+  :keywords:
+  :cite-key: OM:33
   :END:
 
 
@@ -623,9 +623,9 @@ If the person is very, very close to you, then you are obliged to some extent to
 * Question: Sometimes When I Talk To Someone,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:34
+  :genre: qa
+  :keywords:
+  :cite-key: OM:34
   :END:
 
 
@@ -638,9 +638,9 @@ If the person is very, very close to you, then you are obliged to some extent to
 * Question: Is It Possible To Do That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:35
+  :genre: qa
+  :keywords:
+  :cite-key: OM:35
   :END:
 
 
@@ -653,9 +653,9 @@ If the person is very, very close to you, then you are obliged to some extent to
 * Question: Sometimes You Ask Us If A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:36
+  :genre: qa
+  :keywords:
+  :cite-key: OM:36
   :END:
 
 
@@ -670,9 +670,9 @@ So immediately you will be able to tell. If the person is hiding, if he has done
 * Question: A Few Months Ago I Had...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:37
+  :genre: qa
+  :keywords:
+  :cite-key: OM:37
   :END:
 
 
@@ -689,9 +689,9 @@ It is like this. A father gives a child a dollar. Immediately, the child comes t
 * Question: I Have A Feeling Of Pressure...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:38
+  :genre: qa
+  :keywords:
+  :cite-key: OM:38
   :END:
 
 
@@ -706,9 +706,9 @@ Sometimes it also happens that this particular centre, the thousand-petalled lot
 * Question: I Saw A White Glow Behind...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:39
+  :genre: qa
+  :keywords:
+  :cite-key: OM:39
   :END:
 
 
@@ -721,9 +721,9 @@ Sometimes it also happens that this particular centre, the thousand-petalled lot
 * Question: Sir, I Have Read About Astral...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:40
+  :genre: qa
+  :keywords:
+  :cite-key: OM:40
   :END:
 
 
@@ -738,9 +738,9 @@ There is a special Yoga called Kundalini Yoga that deals with the six major cent
 * Question: Do You Achieve This Through Meditation?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:41
+  :genre: qa
+  :keywords:
+  :cite-key: OM:41
   :END:
 
 
@@ -755,9 +755,9 @@ Meditation is certainly the answer. If we cry for material objects and many othe
 * Question: Could You Please Speak About The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:42
+  :genre: qa
+  :keywords:
+  :cite-key: OM:42
   :END:
 
 
@@ -772,9 +772,9 @@ Blue is my colour as well. It represents my inner realisation of the Highest, Ab
 * Question: Is Your House Affected By Your...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: OM:43
+  :genre: qa
+  :keywords:
+  :cite-key: OM:43
   :END:
 
 

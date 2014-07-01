@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0011
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MF
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0011
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: MF
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1. The Absolute
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:1
+  :genre: poem
+  :keywords:
+  :cite-key: MF:1
   :END:
 
 
@@ -59,9 +59,9 @@ My cosmic play is done.
 * 2. Sweet, Sweeter, Sweetest
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:2
+  :genre: poem
+  :keywords:
+  :cite-key: MF:2
   :END:
 
 
@@ -84,9 +84,9 @@ Him I have realised as the Enjoyer Supreme.
 * 3. My Name, My Age, My Home
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:3
+  :genre: poem
+  :keywords:
+  :cite-key: MF:3
   :END:
 
 
@@ -112,9 +112,9 @@ At last I know my home.
 * 4. O Love Me More
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:4
+  :genre: poem
+  :keywords:
+  :cite-key: MF:4
   :END:
 
 
@@ -141,9 +141,9 @@ My Goal is crying, my promise strong.
 * 5. Another Day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:5
+  :genre: poem
+  :keywords:
+  :cite-key: MF:5
   :END:
 
 
@@ -182,9 +182,9 @@ Within, without, below, above.
 * 6. Apocalypse
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:6
+  :genre: poem
+  :keywords:
+  :cite-key: MF:6
   :END:
 
 
@@ -213,9 +213,9 @@ And freely enjoy the world's unshadowed fun.
 * 7. I Am A Thief
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:7
+  :genre: poem
+  :keywords:
+  :cite-key: MF:7
   :END:
 
 
@@ -238,9 +238,9 @@ With the Nectar of His shadowless Ray.
 * 8. I Am A Fool
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:8
+  :genre: poem
+  :keywords:
+  :cite-key: MF:8
   :END:
 
 
@@ -263,9 +263,9 @@ Yet I am a fool, they say.
 * 9. I Am An Idiot
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:9
+  :genre: poem
+  :keywords:
+  :cite-key: MF:9
   :END:
 
 
@@ -288,9 +288,9 @@ To human death His Soul He'd give.
 * 10. Immortality
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:10
+  :genre: poem
+  :keywords:
+  :cite-key: MF:10
   :END:
 
 
@@ -325,9 +325,9 @@ In birth-chains now shines Immortality.
 * 11. A Little
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:11
+  :genre: poem
+  :keywords:
+  :cite-key: MF:11
   :END:
 
 
@@ -356,9 +356,9 @@ O let my longings in Thee abide.
 * 12. Struggle's Gloom
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:12
+  :genre: poem
+  :keywords:
+  :cite-key: MF:12
   :END:
 
 
@@ -391,9 +391,9 @@ Naked I move in night's ignorance deep and dire.
 * 13. The Supreme
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:13
+  :genre: poem
+  :keywords:
+  :cite-key: MF:13
   :END:
 
 
@@ -416,9 +416,9 @@ Father, I Am.
 * 14. The Supreme
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:14
+  :genre: poem
+  :keywords:
+  :cite-key: MF:14
   :END:
 
 
@@ -443,9 +443,9 @@ Your DREAM.
 * 15. Between Nothingness And Eternity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:15
+  :genre: poem
+  :keywords:
+  :cite-key: MF:15
   :END:
 
 
@@ -489,9 +489,9 @@ And Eternity.
 * 16. The World-Lord
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:16
+  :genre: poem
+  :keywords:
+  :cite-key: MF:16
   :END:
 
 
@@ -518,9 +518,9 @@ You are the love of the World-Lord.
 * 17. Revealing Soul And Fulfilling Goal
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:17
+  :genre: poem
+  :keywords:
+  :cite-key: MF:17
   :END:
 
 
@@ -549,9 +549,9 @@ Soul, You are My Vision's fulfilling Goal."
 * 18. Ever And Never
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:18
+  :genre: poem
+  :keywords:
+  :cite-key: MF:18
   :END:
 
 
@@ -586,9 +586,9 @@ With you the world, else I shall moan."
 * 19. Never To Meet Again
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:19
+  :genre: poem
+  :keywords:
+  :cite-key: MF:19
   :END:
 
 
@@ -623,9 +623,9 @@ Never to meet again.
 * 20. Before The End Of Day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:20
+  :genre: poem
+  :keywords:
+  :cite-key: MF:20
   :END:
 
 
@@ -642,9 +642,9 @@ And touch my Spirit's range.
 * 21. Before The End Of Night
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:21
+  :genre: poem
+  :keywords:
+  :cite-key: MF:21
   :END:
 
 
@@ -661,9 +661,9 @@ In me my Supreme, my Power.
 * 22. Transformation-Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:22
+  :genre: poem
+  :keywords:
+  :cite-key: MF:22
   :END:
 
 
@@ -687,9 +687,9 @@ And Eternity's Transformation-Light.
 * 23. The Hero Marches Along
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:23
+  :genre: poem
+  :keywords:
+  :cite-key: MF:23
   :END:
 
 
@@ -711,9 +711,9 @@ of the Lord Supreme.
 * 24. The Mother Supreme
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:24
+  :genre: poem
+  :keywords:
+  :cite-key: MF:24
   :END:
 
 
@@ -736,9 +736,9 @@ She paves the way to a life evergreen.
 * 25. O Light Of The Supreme!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:25
+  :genre: poem
+  :keywords:
+  :cite-key: MF:25
   :END:
 
 
@@ -769,9 +769,9 @@ O Light of the Supreme!
 * 26. Hope
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:26
+  :genre: poem
+  :keywords:
+  :cite-key: MF:26
   :END:
 
 
@@ -806,9 +806,9 @@ Plunge in the Nectar-Sea.
 * 27. Never The Same Again
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:27
+  :genre: poem
+  :keywords:
+  :cite-key: MF:27
   :END:
 
 
@@ -834,9 +834,9 @@ Never the same again.
 * 28. Ever The Same Again
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:28
+  :genre: poem
+  :keywords:
+  :cite-key: MF:28
   :END:
 
 
@@ -862,9 +862,9 @@ Ever the same again.
 * 29. O Bird Of Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:29
+  :genre: poem
+  :keywords:
+  :cite-key: MF:29
   :END:
 
 
@@ -900,9 +900,9 @@ In me, I pray, keep not an iota of gloom.
 * 30. Arise! Awake!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:30
+  :genre: poem
+  :keywords:
+  :cite-key: MF:30
   :END:
 
 
@@ -932,9 +932,9 @@ And free mankind from its ignorance-sleep.
 * 31. An Open Invitation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:31
+  :genre: poem
+  :keywords:
+  :cite-key: MF:31
   :END:
 
 
@@ -957,9 +957,9 @@ The promised Land is for all.
 * 32. Fear
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:32
+  :genre: poem
+  :keywords:
+  :cite-key: MF:32
   :END:
 
 
@@ -1000,9 +1000,9 @@ Shameless and bare.
 * 33. Four Eyes
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:33
+  :genre: poem
+  :keywords:
+  :cite-key: MF:33
   :END:
 
 
@@ -1029,9 +1029,9 @@ In all-giving eyes.
 * 34. God's Absence And God's Presence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:34
+  :genre: poem
+  :keywords:
+  :cite-key: MF:34
   :END:
 
 
@@ -1054,9 +1054,9 @@ And Death, a weeping child-helpless, bare.
 * 4. In The Forest Of My Inner Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:35
+  :genre: poem
+  :keywords:
+  :cite-key: MF:35
   :END:
 
 
@@ -1090,9 +1090,9 @@ Just once before me appear.
 * 36. I Came
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:36
+  :genre: poem
+  :keywords:
+  :cite-key: MF:36
   :END:
 
 
@@ -1109,9 +1109,9 @@ I came, I came, my existence came.
 * 37. I Lost
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:37
+  :genre: poem
+  :keywords:
+  :cite-key: MF:37
   :END:
 
 
@@ -1128,9 +1128,9 @@ I lost my All when hope I chased.
 * 38. Leave Me Alone
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:38
+  :genre: poem
+  :keywords:
+  :cite-key: MF:38
   :END:
 
 
@@ -1159,9 +1159,9 @@ My life of cries has found its role.
 * 39. My Krishna Is Not Black
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:39
+  :genre: poem
+  :keywords:
+  :cite-key: MF:39
   :END:
 
 
@@ -1193,9 +1193,9 @@ With the world at large.
 * 40. My Life
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:40
+  :genre: poem
+  :keywords:
+  :cite-key: MF:40
   :END:
 
 
@@ -1212,9 +1212,9 @@ My life shall end with Divinity's height.
 * 41. My Sky And My Soul
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:41
+  :genre: poem
+  :keywords:
+  :cite-key: MF:41
   :END:
 
 
@@ -1235,9 +1235,9 @@ Yet I have a soul, I have a soul.
 * 42. My Task
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:42
+  :genre: poem
+  :keywords:
+  :cite-key: MF:42
   :END:
 
 
@@ -1260,9 +1260,9 @@ Victory all-where when surrender sure."
 * 43. Marriage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:43
+  :genre: poem
+  :keywords:
+  :cite-key: MF:43
   :END:
 
 
@@ -1291,9 +1291,9 @@ His Vision's due.
 * 44. My God Is Still Alive
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:44
+  :genre: poem
+  :keywords:
+  :cite-key: MF:44
   :END:
 
 
@@ -1319,9 +1319,9 @@ Ever God and I will live.
 * 45. One Truth
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:45
+  :genre: poem
+  :keywords:
+  :cite-key: MF:45
   :END:
 
 
@@ -1348,9 +1348,9 @@ His Heart and Face.
 * 46. Our Meeting Place
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:46
+  :genre: poem
+  :keywords:
+  :cite-key: MF:46
   :END:
 
 
@@ -1367,9 +1367,9 @@ I know my bleeding core, our meeting place.
 * 47. Revelation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:47
+  :genre: poem
+  :keywords:
+  :cite-key: MF:47
   :END:
 
 
@@ -1398,9 +1398,9 @@ The Supreme and I are one; all we outlast.
 * 48. The Boat Of Time Sails On
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:48
+  :genre: poem
+  :keywords:
+  :cite-key: MF:48
   :END:
 
 
@@ -1429,9 +1429,9 @@ Alas, the Boat of Time sails on.
 * 49. There Was A Time
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:49
+  :genre: poem
+  :keywords:
+  :cite-key: MF:49
   :END:
 
 
@@ -1448,9 +1448,9 @@ And yet my Captain commands: "Go on, go on!"
 * 50. When
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:50
+  :genre: poem
+  :keywords:
+  :cite-key: MF:50
   :END:
 
 
@@ -1473,9 +1473,9 @@ My world became my Father's Height.
 * 51. Where
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:51
+  :genre: poem
+  :keywords:
+  :cite-key: MF:51
   :END:
 
 
@@ -1498,9 +1498,9 @@ I became my Father's master Race.
 * 52. Where Is The Truth?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:52
+  :genre: poem
+  :keywords:
+  :cite-key: MF:52
   :END:
 
 
@@ -1517,9 +1517,9 @@ Who is my Beloved, Who?
 * 53. Your Compassion-Waters
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:53
+  :genre: poem
+  :keywords:
+  :cite-key: MF:53
   :END:
 
 
@@ -1545,9 +1545,9 @@ The expanse of Your Compassion-Waters.
 * 54. My Green-Red Journey
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:54
+  :genre: poem
+  :keywords:
+  :cite-key: MF:54
   :END:
 
 
@@ -1570,9 +1570,9 @@ Perfection-Light.
 * 55. I Sing, I Smile
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:55
+  :genre: poem
+  :keywords:
+  :cite-key: MF:55
   :END:
 
 
@@ -1596,9 +1596,9 @@ All-pervading.
 * 56. I Shall Listen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:56
+  :genre: poem
+  :keywords:
+  :cite-key: MF:56
   :END:
 
 
@@ -1618,9 +1618,9 @@ For You, for You, Beloved, only for You.
 * 57. My Dream Will Be Fulfilled
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:57
+  :genre: poem
+  :keywords:
+  :cite-key: MF:57
   :END:
 
 
@@ -1642,9 +1642,9 @@ I know, I know.
 * 58. O My Lord Of Beauty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:58
+  :genre: poem
+  :keywords:
+  :cite-key: MF:58
   :END:
 
 
@@ -1671,9 +1671,9 @@ To see Thy Face.
 * 59. Only The Other Day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:59
+  :genre: poem
+  :keywords:
+  :cite-key: MF:59
   :END:
 
 
@@ -1694,9 +1694,9 @@ With darkest pangs.
 * 60. O My Boatman
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:60
+  :genre: poem
+  :keywords:
+  :cite-key: MF:60
   :END:
 
 
@@ -1720,9 +1720,9 @@ My all in You I lose.
 * 61. My Last Word
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:61
+  :genre: poem
+  :keywords:
+  :cite-key: MF:61
   :END:
 
 
@@ -1744,9 +1744,9 @@ I hurt your heart.
 * 62. How Long?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:62
+  :genre: poem
+  :keywords:
+  :cite-key: MF:62
   :END:
 
 
@@ -1769,9 +1769,9 @@ So are You my World-Mother.
 * 65. Your Nectar-Compassion
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:63
+  :genre: poem
+  :keywords:
+  :cite-key: MF:63
   :END:
 
 
@@ -1795,9 +1795,9 @@ I am the slave of Your Nectar-Compassion.
 * 64. Only One Hope
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:64
+  :genre: poem
+  :keywords:
+  :cite-key: MF:64
   :END:
 
 
@@ -1819,9 +1819,9 @@ In the festival of supernal Light.
 * 65. God Then
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:65
+  :genre: poem
+  :keywords:
+  :cite-key: MF:65
   :END:
 
 
@@ -1838,9 +1838,9 @@ Below, above.
 * 66. God Now
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:66
+  :genre: poem
+  :keywords:
+  :cite-key: MF:66
   :END:
 
 
@@ -1857,9 +1857,9 @@ God now is Light.
 * 67. I Need You Not
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:67
+  :genre: poem
+  :keywords:
+  :cite-key: MF:67
   :END:
 
 
@@ -1888,9 +1888,9 @@ My Journey's Soul.
 * 68. O Imagination!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:68
+  :genre: poem
+  :keywords:
+  :cite-key: MF:68
   :END:
 
 
@@ -1919,9 +1919,9 @@ Imagination, O imagination!
 * 69. Faith And Doubt
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:69
+  :genre: poem
+  :keywords:
+  :cite-key: MF:69
   :END:
 
 
@@ -1938,9 +1938,9 @@ A doubter cries: "Me, none can save."
 * 70. Mother, If I Lose To You
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:70
+  :genre: poem
+  :keywords:
+  :cite-key: MF:70
   :END:
 
 
@@ -1966,9 +1966,9 @@ I know my greatest reward I shall receive.
 * 71. Farewell Time
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:71
+  :genre: poem
+  :keywords:
+  :cite-key: MF:71
   :END:
 
 
@@ -1991,9 +1991,9 @@ All will be united in the heart of our world.
 * 72. The Pilgrims Of The Lord Supreme
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:72
+  :genre: poem
+  :keywords:
+  :cite-key: MF:72
   :END:
 
 
@@ -2027,9 +2027,9 @@ Of Transformation-Light.
 * 73. My Father-Son
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:73
+  :genre: poem
+  :keywords:
+  :cite-key: MF:73
   :END:
 
 
@@ -2046,9 +2046,9 @@ Nothing remains undone.
 * 74. Your Love-Play Is My World
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:74
+  :genre: poem
+  :keywords:
+  :cite-key: MF:74
   :END:
 
 
@@ -2068,9 +2068,9 @@ Your Love-Play is my world.
 * 75. Although
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:75
+  :genre: poem
+  :keywords:
+  :cite-key: MF:75
   :END:
 
 
@@ -2093,9 +2093,9 @@ We fly in His Bosom vast, in us He flies.
 * 76. What Can I Do?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:76
+  :genre: poem
+  :keywords:
+  :cite-key: MF:76
   :END:
 
 
@@ -2130,9 +2130,9 @@ I know is due.
 * 77. My Ego And My Soul
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:77
+  :genre: poem
+  :keywords:
+  :cite-key: MF:77
   :END:
 
 
@@ -2165,9 +2165,9 @@ My soul and my Spirit's flame.
 * 78. I Have Worshipped.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:78
+  :genre: poem
+  :keywords:
+  :cite-key: MF:78
   :END:
 
 
@@ -2196,9 +2196,9 @@ My self-revealing Sun.
 * 79. Precious
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:79
+  :genre: poem
+  :keywords:
+  :cite-key: MF:79
   :END:
 
 
@@ -2221,9 +2221,9 @@ His all-fulfilling Grace.
 * 80. Tomorrow's Story Not The Same
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:80
+  :genre: poem
+  :keywords:
+  :cite-key: MF:80
   :END:
 
 
@@ -2254,9 +2254,9 @@ But Tomorrow's story not the same.
 * 81. God And The World
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:81
+  :genre: poem
+  :keywords:
+  :cite-key: MF:81
   :END:
 
 
@@ -2285,9 +2285,9 @@ The other futile.
 * 82. I Fear
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:82
+  :genre: poem
+  :keywords:
+  :cite-key: MF:82
   :END:
 
 
@@ -2318,9 +2318,9 @@ Long dead my life of faith in me.
 * 83. Who'll Buy My Giant Pride?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:83
+  :genre: poem
+  :keywords:
+  :cite-key: MF:83
   :END:
 
 
@@ -2343,9 +2343,9 @@ The night of destruction piercing flows.
 * 84. Thought
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:84
+  :genre: poem
+  :keywords:
+  :cite-key: MF:84
   :END:
 
 
@@ -2374,9 +2374,9 @@ Our God's Compassion-Door.
 * 85. Love Is This, Also Love Is That
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:85
+  :genre: poem
+  :keywords:
+  :cite-key: MF:85
   :END:
 
 
@@ -2399,9 +2399,9 @@ And love is cheap, love dear.
 * 86. I Remember
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:86
+  :genre: poem
+  :keywords:
+  :cite-key: MF:86
   :END:
 
 
@@ -2433,9 +2433,9 @@ I remember, I remember, I remember.
 * 87. The Golden Flute
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:87
+  :genre: poem
+  :keywords:
+  :cite-key: MF:87
   :END:
 
 
@@ -2470,9 +2470,9 @@ Gone death, gone night's stark frown!
 * 88. Master
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:88
+  :genre: poem
+  :keywords:
+  :cite-key: MF:88
   :END:
 
 
@@ -2501,9 +2501,9 @@ The veerless Pilot in our death's stark storm.
 * 89. The Message Of Surrender
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:89
+  :genre: poem
+  :keywords:
+  :cite-key: MF:89
   :END:
 
 
@@ -2527,9 +2527,9 @@ O Queen of the Eternal.
 * 90. Invocation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MF:90
+  :genre: poem
+  :keywords:
+  :cite-key: MF:90
   :END:
 
 

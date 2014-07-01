@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0022
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1971
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CBG
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0022
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1971
+  :publisher: Agni Press
+  :cite-key: CBG
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CBG:1e1
+  :genre: section
+  :keywords:
+  :cite-key: CBG:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:1
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:1
   :END:
 
 
@@ -53,9 +53,9 @@ The Gita is an episode in the sixth book of the Mahabharata. “Mahabharata” m
 * The family tree
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:2
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:2
   :END:
 
 
@@ -98,9 +98,9 @@ The Gita embodies the soul-wisdom, the heart-love, the mind-knowledge, the vital
 * Chapter I: The sorrow of Arjuna
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:3
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:3
   :END:
 
 
@@ -164,9 +164,9 @@ Lo, Arjuna, the hero supreme! Discarding his bow and arrows, dolefully, throbbin
 * Chapter II: Knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:4
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:4
   :END:
 
 
@@ -191,9 +191,9 @@ Sri Krishna used the terms Birth, Life and Death.
 * Birth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:5
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:5
   :END:
 
 
@@ -221,9 +221,9 @@ Here the poet carries us into the mystery of the soul’s eternal journey and re
 * Life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:6
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:6
   :END:
 
 
@@ -238,9 +238,9 @@ Life, the problem, can be solved by the soul, the solution; but for that, one ha
 * Death
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:7
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:7
   :END:
 
 
@@ -292,9 +292,9 @@ The dance of destruction is over. Let us pine for salvation. The disciplined, se
 * Chapter III: Action
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:8
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:8
   :END:
 
 
@@ -377,9 +377,9 @@ Desire satisfied, life grows into a bed of thorns. Desire conquered, life grows 
 * Chapter IV: Knowledge, action and sacrifice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:9
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:9
   :END:
 
 
@@ -392,9 +392,9 @@ The eternal mystery of reincarnation is now being revealed. Says Krishna: “Arj
 * Maya
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:10
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:10
   :END:
 
 
@@ -407,9 +407,9 @@ A thing that is, is real. A thing that appears is unreal. An eternal Life is rea
 * Prakriti
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:11
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:11
   :END:
 
 
@@ -422,9 +422,9 @@ Arjuna knew Sri Krishna as his dear cousin; he later knew him as his bosom frien
 * Samvavami yuge yuge -- I body Myself forth from age to age
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:12
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:12
   :END:
 
 
@@ -453,9 +453,9 @@ Sri Krishna now wants our mind to be riveted on caste. He says that it was he wh
 * Action, inaction and wrong action
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:13
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:13
   :END:
 
 
@@ -468,9 +468,9 @@ In common belief inaction is tantamount to inertia, sloth and so forth. But true
 * Faith and doubt
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:14
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:14
   :END:
 
 
@@ -515,9 +515,9 @@ Than an endless life without.
 * Chapter V: Renunciation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:15
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:15
   :END:
 
 
@@ -544,9 +544,9 @@ Action and renunciation are identical. Action is the tree. Renunciation is the f
 * Freedom
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:16
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:16
   :END:
 
 
@@ -570,9 +570,9 @@ This is true only when our fate is determined by the ego’s extremely limited d
 * Service
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:17
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:17
   :END:
 
 
@@ -611,9 +611,9 @@ Towards the end of this chapter, Sri Krishna firmly says that sensuality has to 
 * Chapter VI: Self-control
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:18
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:18
   :END:
 
 
@@ -715,9 +715,9 @@ Similarly, with Arjuna, we can in all sincerity and devotion say to the Lord Kri
 * Chapter VII: Knowledge illumined
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:19
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:19
   :END:
 
 
@@ -736,9 +736,9 @@ When we concentrate on “All this is woven unto Me like gems into a necklace,�
 * Sattva
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:20
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:20
   :END:
 
 
@@ -763,9 +763,9 @@ The possessor of the Sattvic quality has undoubtedly a heart of gold. He knows t
 * Rajas
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:21
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:21
   :END:
 
 
@@ -776,9 +776,9 @@ Rajas is the second quality. A man with the rajasic quality is always filled wit
 * Tamas
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:22
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:22
   :END:
 
 
@@ -842,9 +842,9 @@ Sri Krishna continues: “Noble and good are they all, but I hold the wise, the 
 * Chapter VIII: The imperishable Infinite
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:23
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:23
   :END:
 
 
@@ -867,9 +867,9 @@ Krishna tells us how a Yogi enters into the Ultimate after leaving his mortal sh
 * Aum
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:24
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:24
   :END:
 
 
@@ -924,9 +924,9 @@ The Supreme and I are one -- all we outlast.
 * Chapter IX: The Secret supreme
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:25
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:25
   :END:
 
 
@@ -981,9 +981,9 @@ In birth-chains now shines Immortality.
 * Chapter X: The perfection divine and universal
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:26
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:26
   :END:
 
 
@@ -1026,9 +1026,9 @@ Self-knowledge is the knowledge of the universal oneness. Divine perfection can 
 * Chapter XI: The vision of the Universal Form and the Cosmic Manifestation of the Lord
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:27
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:27
   :END:
 
 
@@ -1083,9 +1083,9 @@ Faith, devotion, surrender. Lo! Krishna is won. No other way Him to realise, Him
 * Matter And Spirit
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:28
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:28
   :END:
 
 
@@ -1147,9 +1147,9 @@ Finally the Gita tells us that the Guru of all gurus, the real Guru, is God.
 * Chapter XIV: The three gunas
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:29
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:29
   :END:
 
 
@@ -1204,9 +1204,9 @@ The Yogi who has transcended the three qualities in his own life will neither ha
 * Chapter XV: The Supreme Purusha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:30
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:30
   :END:
 
 
@@ -1258,9 +1258,9 @@ Purushottama is beyond formless and form, beyond impersonality and personality. 
 * Chapter XVI: Forces divine and forces undivine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:31
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:31
   :END:
 
 
@@ -1301,9 +1301,9 @@ The Teacher enjoins the student: “O my Arjuna, follow the Shastra.”
 * Chapter XVII: The threefold faith
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:32
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:32
   :END:
 
 
@@ -1324,9 +1324,9 @@ A Tamasic man also has to eat after all. He avidly eats the foods that are stale
 * Austerity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:33
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:33
   :END:
 
 
@@ -1361,9 +1361,9 @@ We have to chant /SAT/ and then offer to God what we inwardly and outwardly are,
 * Chapter XVIII: Abstention and renunciation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:34
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:34
   :END:
 
 
@@ -1422,9 +1422,9 @@ Victory achieved. Victory realised. Victory revealed. Victory manifested.
 * Part II: The Kind, the Prince, the Son
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CBG:35e1
+  :genre: section
+  :keywords:
+  :cite-key: CBG:35e1
   :END:
 
 
@@ -1432,9 +1432,9 @@ Victory achieved. Victory realised. Victory revealed. Victory manifested.
 * The King
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:35
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:35
   :END:
 
 
@@ -1487,9 +1487,9 @@ Sri Krishna walked the soil to annihilate the philosophies of world-shunning spi
 * The Prince
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:36
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:36
   :END:
 
 
@@ -1540,9 +1540,9 @@ True, Buddhism is no longer alive in the land of its birth. But Mother India is 
 * The Son
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CBG:37
+  :genre: discourse
+  :keywords:
+  :cite-key: CBG:37
   :END:
 
 
@@ -1583,9 +1583,9 @@ Who is our peerless friend? One who consciously or unconsciously helps us to ful
 * Part III: Stories from the Gita
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CBG:38e1
+  :genre: section
+  :keywords:
+  :cite-key: CBG:38e1
   :END:
 
 
@@ -1593,9 +1593,9 @@ Who is our peerless friend? One who consciously or unconsciously helps us to ful
 * The Source
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:38
+  :genre: story
+  :keywords:
+  :cite-key: CBG:38
   :END:
 
 
@@ -1610,9 +1610,9 @@ Ganapati came and agreed to write on one condition. The condition was that Vyasa
 * Krishna, I need only You
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:39
+  :genre: story
+  :keywords:
+  :cite-key: CBG:39
   :END:
 
 
@@ -1645,9 +1645,9 @@ Here we learn that the Guru, the Master, can at any moment break his own promise
 * Victory is there, where Dharma is
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:40
+  :genre: story
+  :keywords:
+  :cite-key: CBG:40
   :END:
 
 
@@ -1658,9 +1658,9 @@ Gandhari’s eldest son, Duryodhana, came to her for benediction. She did not sa
 * He read the Gita, but he did not follow the Gita
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:41
+  :genre: story
+  :keywords:
+  :cite-key: CBG:41
   :END:
 
 
@@ -1671,9 +1671,9 @@ There are seven hundred verses in the Gita. I had the good fortune to see a man 
 * Krishna, the eternal mystery
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:42
+  :genre: story
+  :keywords:
+  :cite-key: CBG:42
   :END:
 
 
@@ -1696,9 +1696,9 @@ When he grew up in the society very often he wished to give most illumining coun
 * Arjuna and the ascetic
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:43
+  :genre: story
+  :keywords:
+  :cite-key: CBG:43
   :END:
 
 
@@ -1739,9 +1739,9 @@ Arjuna came to realise that the ascetic was really devoted to Sri Krishna, and t
 * A great hero and the result of his one single lie
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:44
+  :genre: story
+  :keywords:
+  :cite-key: CBG:44
   :END:
 
 
@@ -1788,9 +1788,9 @@ But in the battlefield, Ghatothkach, a son of Bhima, Arjuna’s brother, was kil
 * The scholar came to his senses
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:45
+  :genre: story
+  :keywords:
+  :cite-key: CBG:45
   :END:
 
 
@@ -1805,9 +1805,9 @@ The scholar came to his senses.
 * The power of concentration and the power of dedication
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:46
+  :genre: story
+  :keywords:
+  :cite-key: CBG:46
   :END:
 
 
@@ -1828,9 +1828,9 @@ Poor Arjuna went back with Lord Krishna and was extremely angry with him for sub
 * Krishna, the widow and her cow
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: CBG:47
+  :genre: story
+  :keywords:
+  :cite-key: CBG:47
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0071
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: TYCL
-  :GENRE: joke
-  :KEYWORDS:
+  :book-number: 0071
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: TYCL
+  :genre: joke
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1. My Name
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:1
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:1
   :END:
 
 
@@ -39,9 +39,9 @@ TEACHER: “O Gracious Lord Buddha, you may stop now.”
 * 2. My Father’s Name
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:2
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:2
   :END:
 
 
@@ -54,9 +54,9 @@ STUDENT: “Unfortunately, I do not exactly know my father’s name. My mother c
 * 3. My Mother’s Name
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:3
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:3
   :END:
 
 
@@ -69,9 +69,9 @@ STUDENT: “Before I was born, my mother’s name was Mary. I believe, Virgin Ma
 * 4. My Father’s Profession
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:4
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:4
   :END:
 
 
@@ -88,9 +88,9 @@ STUDENT: “Well, my father has two professions. During the night, he snores in 
 * 5. My Mother’s Profession
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:5
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:5
   :END:
 
 
@@ -103,9 +103,9 @@ STUDENT: “My mother is a strict observer. During the day, she observes my fath
 * 6. God’s Children
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:6
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:6
   :END:
 
 
@@ -118,9 +118,9 @@ TEACHER: “Ah, that’s a nice question. Just the other day I asked Mr. God the
 * 7. Stars And Planets
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:7
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:7
   :END:
 
 
@@ -133,9 +133,9 @@ TEACHER: “First of all, I never had any occasion to enter into the sky. What i
 * 8. How Many Suns?
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:8
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:8
   :END:
 
 
@@ -148,9 +148,9 @@ TEACHER: “There are only two suns. One is the human son-sun who lived for 33 y
 * 9. Wife And Husband
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:9
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:9
   :END:
 
 
@@ -163,9 +163,9 @@ HUSBAND: “I do not want to see myself, and who else is God if not the first pe
 * 10. Supreme Goddess
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:10
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:10
   :END:
 
 
@@ -178,9 +178,9 @@ WIFE: “For God’s sake, you fool, if I became the Supreme Goddess, then I cou
 * 11. Alarm Clock
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:11
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:11
   :END:
 
 
@@ -195,9 +195,9 @@ HUSBAND: “Every morning it goes off at eleven and abruptly scares my heart and
 * 12. Taxi Driver And Pilot
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:12
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:12
   :END:
 
 
@@ -214,9 +214,9 @@ PILOT: “Mrs. Earth, you are a fool; that is why you don’t know how to shut y
 * 13. Philosopher And Poet
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:13
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:13
   :END:
 
 
@@ -229,9 +229,9 @@ POET: “O big brother, you touch my heart. I shall teach you all about God’s 
 * 14. Scientist And Priest
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:14
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:14
   :END:
 
 
@@ -244,9 +244,9 @@ PRIEST: “You fool, you are looking at the wrong place. You don’t have to go 
 * 15. Son, Mother And Servant
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:15
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:15
   :END:
 
 
@@ -259,9 +259,9 @@ MAID: (who happened to be nearby) “Darling, the priest. Only the priest could 
 * 16. Two Fathers
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:16
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:16
   :END:
 
 
@@ -276,9 +276,9 @@ FIRST FATHER: “I express my love to my son by giving him advice as to how he c
 * 17. Theist And Atheist
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:17
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:17
   :END:
 
 
@@ -291,9 +291,9 @@ THEIST: “Thank God, my experience of hell is over with you, and I don’t have
 * 18. Smoker And Drinker
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:18
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:18
   :END:
 
 
@@ -306,9 +306,9 @@ DRINKER: “No doubt, our boats are heading towards the same destination. But si
 * 19. Customer And Shopkeeper
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:19
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:19
   :END:
 
 
@@ -321,9 +321,9 @@ SHOPKEEPER: “It has to be so. Since I am dear to everybody, all my belongings 
 * 20. Slow Runner And Fast Runner
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:20
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:20
   :END:
 
 
@@ -338,9 +338,9 @@ SLOW RUNNER: “I am running so slowly towards God because I want to experience 
 * 21. . Dog And Horse
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:21
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:21
   :END:
 
 
@@ -353,9 +353,9 @@ HORSE: “I am faithful to my master; that is why my master rides on me.”
 * 22. Monkey And Rabbit
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:22
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:22
   :END:
 
 
@@ -368,9 +368,9 @@ RABBIT: “My boss too works very hard. I run very fast towards him so that, aft
 * 23. Bull And Lamb
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:23
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:23
   :END:
 
 
@@ -383,9 +383,9 @@ BULL: “O Lamb, give me your mildness to better the world. The world is cotton;
 * 24. Cow And Duck
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:24
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:24
   :END:
 
 
@@ -398,9 +398,9 @@ DUCK: “My beauty is next to Urvashi’s beauty. I too have every reason to be 
 * 25. Lion And Cat
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:25
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:25
   :END:
 
 
@@ -413,9 +413,9 @@ CAT: “I need your strength. I want to show man that I am not an object of pity
 * 26. Swan And Fish
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:26
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:26
   :END:
 
 
@@ -432,9 +432,9 @@ FISH: “I hate human mouths. They bring my body to an end.”
 * 27. Man And God
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:27
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:27
   :END:
 
 
@@ -447,9 +447,9 @@ GOD: “Son, why are you so blind? Your blindness compels Me to be kind.”
 * 28. Husband, Wife And God
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:28
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:28
   :END:
 
 
@@ -466,9 +466,9 @@ GOD: “Easy, My child. Tell your wife that she is beauty incarnate. You will no
 * 29. Two Young Boys
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:29
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:29
   :END:
 
 
@@ -499,9 +499,9 @@ FIRST: “Stop! My mother may look like a buffalo, but your mother is a buffalo 
 * 30. Hindu And Muslim
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:30
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:30
   :END:
 
 
@@ -512,9 +512,9 @@ A Hindu and a Muslim were in a bookstore on Fifth Avenue. Both of them were brow
 * 31. The Difference
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:31
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:31
   :END:
 
 
@@ -533,9 +533,9 @@ The boy then said: “Mother, you are in love with God and Father is in love wit
 * 32. . Learning German
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:32
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:32
   :END:
 
 
@@ -556,9 +556,9 @@ The boy then said: “Mother, you are in love with God and Father is in love wit
 * 33. Hostile Forces
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:33
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:33
   :END:
 
 
@@ -571,9 +571,9 @@ The boy then said: “Mother, you are in love with God and Father is in love wit
 * 34. Divine Forces
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:34
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:34
   :END:
 
 
@@ -586,9 +586,9 @@ The boy then said: “Mother, you are in love with God and Father is in love wit
 * 35. Books
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:35
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:35
   :END:
 
 
@@ -601,9 +601,9 @@ The boy then said: “Mother, you are in love with God and Father is in love wit
 * 36. Advertisement
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:36
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:36
   :END:
 
 
@@ -616,9 +616,9 @@ A Yale man wrote to the American firm, saying: “I am most willing to make you 
 * 37. Lawyer’s Feet
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:37
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:37
   :END:
 
 
@@ -635,9 +635,9 @@ The lawyer said: “Look, before you got married you didn’t even have one thor
 * 38. Servant And Master
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:38
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:38
   :END:
 
 
@@ -654,9 +654,9 @@ The servant leaves.
 * 39. The Widower
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:39
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:39
   :END:
 
 
@@ -675,9 +675,9 @@ There were two friends. One friend said to the other:
 * 40. Priest And Rabbi
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:40
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:40
   :END:
 
 
@@ -690,9 +690,9 @@ The Rabbi said: “It is very simple. Ask them both to walk along the street. Th
 * 41. A Wife’s Singing
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:41
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:41
   :END:
 
 
@@ -709,9 +709,9 @@ The wife said to her husband: “How is it that every time I start singing, you 
 * 42. The Miser
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:42
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:42
   :END:
 
 
@@ -728,9 +728,9 @@ The waitress said: “Yes, tips are forbidden. No tips here. True! But where is 
 * 43. Divorce Court
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:43
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:43
   :END:
 
 
@@ -755,9 +755,9 @@ The judge said, “First of all, I have to hear it.”
 * 44. Father’s Last Advice
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:44
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:44
   :END:
 
 
@@ -774,9 +774,9 @@ The judge said, “First of all, I have to hear it.”
 * 45. The Worker
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:45
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:45
   :END:
 
 
@@ -789,9 +789,9 @@ The judge said, “First of all, I have to hear it.”
 * 46. The Lawyer
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:46
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:46
   :END:
 
 
@@ -806,9 +806,9 @@ The client said: “I have some good news for you. You are a rascal, your father
 * 47. Married Life
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:47
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:47
   :END:
 
 
@@ -821,9 +821,9 @@ An unmarried man asked his married friend, “Please tell me, before you got mar
 * 48. Soul-Prison
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:48
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:48
   :END:
 
 
@@ -844,9 +844,9 @@ The man said: “Please do me a favour. Please call up the police and ask them t
 * 49. Wristwatch
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:49
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:49
   :END:
 
 
@@ -867,9 +867,9 @@ The man said: “Please do me a favour. Please call up the police and ask them t
 * 50. Conversation
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:50
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:50
   :END:
 
 
@@ -882,9 +882,9 @@ The man said: “You are so lucky that I have not married you. Otherwise, I woul
 * 51. A Child’s Room
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:51
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:51
   :END:
 
 
@@ -897,9 +897,9 @@ The man said: “You are so lucky that I have not married you. Otherwise, I woul
 * 52. Theft
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:52
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:52
   :END:
 
 
@@ -910,9 +910,9 @@ A young woman phoned up the police and said that she had lost her most expensive
 * 53. Two Friends
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:53
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:53
   :END:
 
 
@@ -935,9 +935,9 @@ Two friends following two different spiritual paths met in the subway. One of th
 * 54. Who Are Your Good Disciples?
 
   :PROPERTIES:
-  :GENRE: joke
-  :KEYWORDS:
-  :CITE-KEY: TYCL:54
+  :genre: joke
+  :keywords:
+  :cite-key: TYCL:54
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0019
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SHFC
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0019
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: SHFC
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * A Devotee's Dictionary
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHFC:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SHFC:1e1
   :END:
 
 
@@ -36,9 +36,9 @@
 * Absence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:1
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:1
   :END:
 
 
@@ -58,9 +58,9 @@ human temptation.
 * Body
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:2
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:2
   :END:
 
 
@@ -80,9 +80,9 @@ complete manifestation.
 * Camel
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:3
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:3
   :END:
 
 
@@ -104,9 +104,9 @@ but a satisfied lion.
 * Duty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:4
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:4
   :END:
 
 
@@ -130,9 +130,9 @@ to the express Will of the Supreme.
 * Earth
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:5
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:5
   :END:
 
 
@@ -150,9 +150,9 @@ Earth above me sows.
 * Fear
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:6
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:6
   :END:
 
 
@@ -172,9 +172,9 @@ man's brooding stupidity.
 * God
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:7
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:7
   :END:
 
 
@@ -194,9 +194,9 @@ discovers life.
 * Humility
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:8
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:8
   :END:
 
 
@@ -220,9 +220,9 @@ the most fulfilling reality.
 * Ignorance
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:9
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:9
   :END:
 
 
@@ -244,9 +244,9 @@ God's descending Smile.
 * Joy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:10
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:10
   :END:
 
 
@@ -264,9 +264,9 @@ of eternal aspiration.
 * King
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:11
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:11
   :END:
 
 
@@ -292,9 +292,9 @@ and absolute Pride.
 * Love
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:12
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:12
   :END:
 
 
@@ -318,9 +318,9 @@ His Divinity's demand.
 * Man
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:13
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:13
   :END:
 
 
@@ -346,9 +346,9 @@ is man.
 * Name
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:14
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:14
   :END:
 
 
@@ -368,9 +368,9 @@ is Indifference.
 * Orphan
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:15
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:15
   :END:
 
 
@@ -400,9 +400,9 @@ his Divine Father.
 * Purity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:16
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:16
   :END:
 
 
@@ -420,9 +420,9 @@ of an aspiring life.
 * Question
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:17
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:17
   :END:
 
 
@@ -446,9 +446,9 @@ there in heaven:
 * Realisation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:18
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:18
   :END:
 
 
@@ -474,9 +474,9 @@ created by his followers.
 * Surrender
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:19
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:19
   :END:
 
 
@@ -496,9 +496,9 @@ to Him.
 * Teacher
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:20
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:20
   :END:
 
 
@@ -520,9 +520,9 @@ dines with God.
 * Universe
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:21
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:21
   :END:
 
 
@@ -542,9 +542,9 @@ of infinite vast.
 * Victory
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:22
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:22
   :END:
 
 
@@ -574,9 +574,9 @@ shall be liberation.
 * Wisdom
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:23
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:23
   :END:
 
 
@@ -596,9 +596,9 @@ is man's sure salvation.
 * X-Ray
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:24
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:24
   :END:
 
 
@@ -626,9 +626,9 @@ my largest Body.
 * Year
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:25
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:25
   :END:
 
 
@@ -656,9 +656,9 @@ man, the imperfection?
 * Zeal
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:26
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:26
   :END:
 
 
@@ -684,9 +684,9 @@ other than constant zeal
 * A God-Lover's Dictionary
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHFC:27e1
+  :genre: section
+  :keywords:
+  :cite-key: SHFC:27e1
   :END:
 
 
@@ -698,9 +698,9 @@ other than constant zeal
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:27
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:27
   :END:
 
 
@@ -720,9 +720,9 @@ wanes.
 * Beauty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:28
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:28
   :END:
 
 
@@ -742,9 +742,9 @@ is the crop.
 * Courage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:29
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:29
   :END:
 
 
@@ -764,9 +764,9 @@ erased.
 * Destiny
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:30
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:30
   :END:
 
 
@@ -786,9 +786,9 @@ of his supreme destiny.
 * Eternity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:31
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:31
   :END:
 
 
@@ -808,9 +808,9 @@ God's Soul-Glow.
 * Force
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:32
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:32
   :END:
 
 
@@ -830,9 +830,9 @@ is his lasting realisation.
 * God-Realisation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:33
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:33
   :END:
 
 
@@ -850,9 +850,9 @@ to man-deception.
 * Humanity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:34
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:34
   :END:
 
 
@@ -870,9 +870,9 @@ of humanity.
 * Individuality
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:35
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:35
   :END:
 
 
@@ -892,9 +892,9 @@ is a self-discovering personality.
 * Jungle
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:36
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:36
   :END:
 
 
@@ -914,9 +914,9 @@ is the sky of the heart.
 * Key
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:37
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:37
   :END:
 
 
@@ -936,9 +936,9 @@ Aspiration the key.
 * Life
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:38
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:38
   :END:
 
 
@@ -956,9 +956,9 @@ God's Life solves.
 * Man
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:39
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:39
   :END:
 
 
@@ -982,9 +982,9 @@ is his heart's cry.
 * Nothing
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:40
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:40
   :END:
 
 
@@ -1004,9 +1004,9 @@ he is God's Everything.
 * Oath
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:41
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:41
   :END:
 
 
@@ -1032,9 +1032,9 @@ Within, without, below, above.
 * Perfection
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:42
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:42
   :END:
 
 
@@ -1058,9 +1058,9 @@ in His Meditation on Reality.
 * Quantity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:43
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:43
   :END:
 
 
@@ -1084,9 +1084,9 @@ always is.
 * Reality
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:44
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:44
   :END:
 
 
@@ -1106,9 +1106,9 @@ is man's soul-elevating Reality.
 * Surrender
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:45
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:45
   :END:
 
 
@@ -1130,9 +1130,9 @@ of man's God.
 * Temptation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:46
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:46
   :END:
 
 
@@ -1152,9 +1152,9 @@ on God's Protection-Light.
 * Union
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:47
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:47
   :END:
 
 
@@ -1176,9 +1176,9 @@ Supremely precious.
 * Vote
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:48
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:48
   :END:
 
 
@@ -1198,9 +1198,9 @@ my Supreme.
 * Wall
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:49
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:49
   :END:
 
 
@@ -1226,9 +1226,9 @@ God's Mightiest Compassion.
 * Xantippe
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:50
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:50
   :END:
 
 
@@ -1254,9 +1254,9 @@ but also inescapable.
 * Yes
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:51
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:51
   :END:
 
 
@@ -1284,9 +1284,9 @@ incredibly cruel.
 * Zoo
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:52
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:52
   :END:
 
 
@@ -1310,9 +1310,9 @@ I throw myself at the Feet of the Supreme.
 * A Yogi's Dictionary
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHFC:53e1
+  :genre: section
+  :keywords:
+  :cite-key: SHFC:53e1
   :END:
 
 
@@ -1324,9 +1324,9 @@ I throw myself at the Feet of the Supreme.
 * Aspirant
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:53
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:53
   :END:
 
 
@@ -1344,9 +1344,9 @@ aspirant.
 * Body
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:54
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:54
   :END:
 
 
@@ -1368,9 +1368,9 @@ and for the perfection of the body.
 * Confinement
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:55
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:55
   :END:
 
 
@@ -1392,9 +1392,9 @@ to be a militant Yogi.
 * Devotion
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:56
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:56
   :END:
 
 
@@ -1414,9 +1414,9 @@ the wild vehemence of your mind.
 * Evolution
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:57
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:57
   :END:
 
 
@@ -1434,9 +1434,9 @@ of God.
 * False
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:58
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:58
   :END:
 
 
@@ -1452,9 +1452,9 @@ is God's true embarrassment.
 * Glory
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:59
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:59
   :END:
 
 
@@ -1472,9 +1472,9 @@ of God's Glory.
 * Humanity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:60
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:60
   :END:
 
 
@@ -1492,9 +1492,9 @@ of a self-fulfilling humanity.
 * Inspire
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:61
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:61
   :END:
 
 
@@ -1516,9 +1516,9 @@ and God the Universe.
 * Joy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:62
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:62
   :END:
 
 
@@ -1540,9 +1540,9 @@ the Supreme's supreme toy.
 * King
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:63
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:63
   :END:
 
 
@@ -1562,9 +1562,9 @@ represents God the Compassion.
 * Link
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:64
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:64
   :END:
 
 
@@ -1584,9 +1584,9 @@ and God's perfect Perfection.
 * Man
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:65
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:65
   :END:
 
 
@@ -1606,9 +1606,9 @@ attains.
 * Name
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:66
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:66
   :END:
 
 
@@ -1632,9 +1632,9 @@ into non-attachment.
 * Oscillation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:67
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:67
   :END:
 
 
@@ -1658,9 +1658,9 @@ of their inner elation.
 * Perfect
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:68
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:68
   :END:
 
 
@@ -1678,9 +1678,9 @@ to Mother-Earth.
 * Qualified
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:69
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:69
   :END:
 
 
@@ -1704,9 +1704,9 @@ self-sufficiency.
 * Reincarnation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:70
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:70
   :END:
 
 
@@ -1724,9 +1724,9 @@ his final reincarnation.
 * Sea & Sky
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:71
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:71
   :END:
 
 
@@ -1746,9 +1746,9 @@ is the cloudless sky.
 * Torture
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:72
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:72
   :END:
 
 
@@ -1770,9 +1770,9 @@ of the body-consciousness.
 * Union
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:73
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:73
   :END:
 
 
@@ -1792,9 +1792,9 @@ with God the Beloved.
 * Victory
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:74
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:74
   :END:
 
 
@@ -1814,9 +1814,9 @@ is God's victory in the outer world.
 * Water
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:75
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:75
   :END:
 
 
@@ -1838,9 +1838,9 @@ and divinity alone.
 * X-Ray
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:76
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:76
   :END:
 
 
@@ -1864,9 +1864,9 @@ the unlimited and perfect x-ray machine.
 * Yogi
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:77
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:77
   :END:
 
 
@@ -1888,9 +1888,9 @@ and God's Illumination and Perfection.
 * Zone
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:78
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:78
   :END:
 
 
@@ -1910,9 +1910,9 @@ of cosmic ignorance.
 * An Avatar's Dictionary
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHFC:79e1
+  :genre: section
+  :keywords:
+  :cite-key: SHFC:79e1
   :END:
 
 
@@ -1924,9 +1924,9 @@ of cosmic ignorance.
 * Ascent
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:79
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:79
   :END:
 
 
@@ -1944,9 +1944,9 @@ and man's conscious ascent.
 * Biography
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:80
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:80
   :END:
 
 
@@ -1966,9 +1966,9 @@ of an Avatar.
 * Camel
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:81
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:81
   :END:
 
 
@@ -1988,9 +1988,9 @@ is God's faithful dog.
 * Dream
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:82
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:82
   :END:
 
 
@@ -2010,9 +2010,9 @@ is God's fulfilled Reality.
 * Essence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:83
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:83
   :END:
 
 
@@ -2034,9 +2034,9 @@ of the highest magnitude.
 * Fail
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:84
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:84
   :END:
 
 
@@ -2062,9 +2062,9 @@ strongest justification.
 * Goal
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:85
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:85
   :END:
 
 
@@ -2088,9 +2088,9 @@ life-illumined and soul-fulfilled smile.
 * Humanity's Divinity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:86
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:86
   :END:
 
 
@@ -2112,9 +2112,9 @@ and his heart is for Humanity's Divinity.
 * Initiation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:87
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:87
   :END:
 
 
@@ -2138,9 +2138,9 @@ from the Avatar.
 * Joy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:88
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:88
   :END:
 
 
@@ -2160,9 +2160,9 @@ an Avatar gets satisfied joy.
 * Kingdom
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:89
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:89
   :END:
 
 
@@ -2182,9 +2182,9 @@ is an Avatar's voice.
 * Life
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:90
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:90
   :END:
 
 
@@ -2202,9 +2202,9 @@ secret God.
 * Manifestation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:91
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:91
   :END:
 
 
@@ -2224,9 +2224,9 @@ is God.
 * Nothing
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:92
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:92
   :END:
 
 
@@ -2248,9 +2248,9 @@ is too small to receive.
 * Open
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:93
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:93
   :END:
 
 
@@ -2272,9 +2272,9 @@ and Arms of God.
 * Practice
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:94
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:94
   :END:
 
 
@@ -2292,9 +2292,9 @@ of Infinite Compassion.
 * Question
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:95
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:95
   :END:
 
 
@@ -2318,9 +2318,9 @@ Love is God revealed.
 * Road
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:96
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:96
   :END:
 
 
@@ -2338,9 +2338,9 @@ to God.
 * Salvation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:97
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:97
   :END:
 
 
@@ -2360,9 +2360,9 @@ and earth's sure salvation.
 * Touch
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:98
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:98
   :END:
 
 
@@ -2378,9 +2378,9 @@ feel God unmistakably.
 * Union
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:99
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:99
   :END:
 
 
@@ -2406,9 +2406,9 @@ as our very own.
 * Voice
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:100
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:100
   :END:
 
 
@@ -2428,9 +2428,9 @@ of God.
 * Will
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:101
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:101
   :END:
 
 
@@ -2456,9 +2456,9 @@ he becomes the night of death.
 * X-Ray
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:102
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:102
   :END:
 
 
@@ -2488,9 +2488,9 @@ and weeping future.
 * Younger Brother
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:103
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:103
   :END:
 
 
@@ -2512,9 +2512,9 @@ of his younger brother.
 * Zoo
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:104
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:104
   :END:
 
 
@@ -2542,9 +2542,9 @@ and Delight Supreme.
 * The Dictionary Of The Supreme
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SHFC:105e1
+  :genre: section
+  :keywords:
+  :cite-key: SHFC:105e1
   :END:
 
 
@@ -2556,9 +2556,9 @@ and Delight Supreme.
 * Ask
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:105
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:105
   :END:
 
 
@@ -2584,9 +2584,9 @@ His very own.
 * Buy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:106
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:106
   :END:
 
 
@@ -2610,9 +2610,9 @@ free of charge to the Supreme.
 * Curious
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:107
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:107
   :END:
 
 
@@ -2634,9 +2634,9 @@ at His Heart's Palace.
 * Difficulty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:108
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:108
   :END:
 
 
@@ -2662,9 +2662,9 @@ His unconditional Compassion on man.
 * Eternity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:109
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:109
   :END:
 
 
@@ -2684,9 +2684,9 @@ what the Supreme always wants.
 * Fool
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:110
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:110
   :END:
 
 
@@ -2710,9 +2710,9 @@ and he serves as a pool.
 * Gate
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:111
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:111
   :END:
 
 
@@ -2736,9 +2736,9 @@ the rare choice of the Supreme.
 * History
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:112
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:112
   :END:
 
 
@@ -2756,9 +2756,9 @@ of the Supreme.
 * Impossibility
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:113
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:113
   :END:
 
 
@@ -2778,9 +2778,9 @@ impossibility's surrendered life.
 * Joke
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:114
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:114
   :END:
 
 
@@ -2804,9 +2804,9 @@ and fulfilled surrender.
 * King
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:115
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:115
   :END:
 
 
@@ -2830,9 +2830,9 @@ best and most unconditional slave."
 * Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:116
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:116
   :END:
 
 
@@ -2852,9 +2852,9 @@ and His Goal's Role.
 * Mind
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:117
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:117
   :END:
 
 
@@ -2874,9 +2874,9 @@ to each other.
 * No
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:118
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:118
   :END:
 
 
@@ -2900,9 +2900,9 @@ to the proud life of ignorance.
 * Obedience
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:119
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:119
   :END:
 
 
@@ -2922,9 +2922,9 @@ is the Supreme's Love for him.
 * Pray
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:120
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:120
   :END:
 
 
@@ -2946,9 +2946,9 @@ in ourselves.
 * Queen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:121
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:121
   :END:
 
 
@@ -2972,9 +2972,9 @@ Her infinite children.
 * Real
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:122
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:122
   :END:
 
 
@@ -2994,9 +2994,9 @@ of the Real within us.
 * Service
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:123
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:123
   :END:
 
 
@@ -3016,9 +3016,9 @@ man constantly ignores.
 * Temptation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:124
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:124
   :END:
 
 
@@ -3042,9 +3042,9 @@ fly together.
 * Use
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:125
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:125
   :END:
 
 
@@ -3070,9 +3070,9 @@ for His divine Satisfaction.
 * Voyage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:126
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:126
   :END:
 
 
@@ -3092,9 +3092,9 @@ of Immortality's Infinity.
 * When
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:127
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:127
   :END:
 
 
@@ -3114,9 +3114,9 @@ as a Divine Being.
 * X-Ray
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:128
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:128
   :END:
 
 
@@ -3134,9 +3134,9 @@ is Compassion-Light.
 * Yesterday
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:129
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:129
   :END:
 
 
@@ -3168,9 +3168,9 @@ my totally surrendered life.
 * Zoo
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SHFC:130
+  :genre: poem
+  :keywords:
+  :cite-key: SHFC:130
   :END:
 
 

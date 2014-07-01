@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1324
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-20
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1324
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: SCA-20
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:690e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:690e1
   :END:
 
   [fn:part-1]
@@ -34,9 +34,9 @@
 * Question: Could you tell us what you were talking about during your interview with our President?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:690
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:690
   :END:
 
 
@@ -47,9 +47,9 @@
 * Question: Did the President offer any comments about Slovakia’s relations with the Czech Republic?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:691
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:691
   :END:
 
 
@@ -60,9 +60,9 @@
 * Question: What is your own feeling about Slovakia and the Czech Republic?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:692
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:692
   :END:
 
 
@@ -73,9 +73,9 @@
 * Question: Are you personally in favour of the division of Czechoslovakia?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:693
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:693
   :END:
 
 
@@ -88,9 +88,9 @@ Here it is exactly the same. Division is not the answer. But if a painful divisi
 * Question: Do you foresee a time when all of Europe will be united?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:694
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:694
   :END:
 
 
@@ -107,9 +107,9 @@ Your President is a man of sincerity, a man of integrity, a man of determination
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:695e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:695e1
   :END:
 
   [fn:part-2]
@@ -119,9 +119,9 @@ Your President is a man of sincerity, a man of integrity, a man of determination
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:695
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:695
   :END:
 
 
@@ -158,9 +158,9 @@ Also, please establish friendships with the disciples from Centres in other coun
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:696e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:696e1
   :END:
 
   [fn:part-3]
@@ -170,9 +170,9 @@ Also, please establish friendships with the disciples from Centres in other coun
 * Question: I want to throw my impurities into you, but I don’t know how.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:696
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:696
   :END:
 
 
@@ -183,9 +183,9 @@ Also, please establish friendships with the disciples from Centres in other coun
 * Question: Is there anything in particular that I can visualise to increase my receptivity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:697
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:697
   :END:
 
 
@@ -196,9 +196,9 @@ Also, please establish friendships with the disciples from Centres in other coun
 * Question: I sometimes feel in my meditations that I am not being as sincere as I would like to be. How can I change this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:698
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:698
   :END:
 
 
@@ -209,9 +209,9 @@ Also, please establish friendships with the disciples from Centres in other coun
 * Question: How can I deal with the sorrow I feel from having compassion for others?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:699
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:699
   :END:
 
 
@@ -226,9 +226,9 @@ If you think of showing compassion to someone, first you have to know what God�
 * Question: How can I be sure that I will make continuous progress in my spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:700
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:700
   :END:
 
 
@@ -241,9 +241,9 @@ Thoughts make us braver than the bravest or weaker than the weakest. If we cheri
 * Question: What does my soul want?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:701
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:701
   :END:
 
 
@@ -254,9 +254,9 @@ Thoughts make us braver than the bravest or weaker than the weakest. If we cheri
 * Question: How can I see the best in other people more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:702
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:702
   :END:
 
 
@@ -269,9 +269,9 @@ When we show someone a rose, that person also wants to show us a rose. We have t
 * Question: What is the best way to develop oneness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:703
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:703
   :END:
 
 
@@ -282,9 +282,9 @@ When we show someone a rose, that person also wants to show us a rose. We have t
 * Question: What is the fastest way we can get rid of the ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:704
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:704
   :END:
 
 
@@ -299,9 +299,9 @@ Anything that gives us abiding joy and satisfaction we shall try to achieve in o
 * Question: How can we transform doubt?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:705
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:705
   :END:
 
 
@@ -320,9 +320,9 @@ Doubt is nothing but darkness in ourselves that enjoys seeing darkness in others
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:706e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:706e1
   :END:
 
   [fn:part-4]
@@ -332,9 +332,9 @@ Doubt is nothing but darkness in ourselves that enjoys seeing darkness in others
 * Question: When I am involved in giving meditation classes, I find it hard to keep up my running.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:706
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:706
   :END:
 
 
@@ -349,9 +349,9 @@ There will be many people who are infinitely better athletes than my disciples a
 * Question: How can I increase my sincerity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:707
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:707
   :END:
 
 
@@ -362,9 +362,9 @@ There will be many people who are infinitely better athletes than my disciples a
 * Question: How can we know whether we are making the fastest progress or not and if you are satisfied with our progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:708
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:708
   :END:
 
 
@@ -377,9 +377,9 @@ Again, this happiness has to be the happiness of the heart. If you are not doing
 * Question: You once said that you have God-realisation-victory but you do not have God-manifestation-victory.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:709
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:709
   :END:
 
 
@@ -398,9 +398,9 @@ There are many, many difficulties we have, but jealousy in the manifestation-wor
 * Question: A seeker saw you meditating in a video and asked me what method you use when you meditate. How should I answer that question?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:710
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:710
   :END:
 
 
@@ -411,9 +411,9 @@ There are many, many difficulties we have, but jealousy in the manifestation-wor
 * Question: If we are only meditating for fifteen minutes each morning, is that really enough for God-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:711
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:711
   :END:
 
 
@@ -432,9 +432,9 @@ No disciple of mine will ever be able to tell me that he is not getting the oppo
 * Question: My daughters are now 17 and 19. They have not lived with me for about five years, but when they get unhappy or have really difficult problems, I want to just put them on a plane and bring them here. Should I just pray harder, or should I bring them here?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:712
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:712
   :END:
 
 
@@ -447,9 +447,9 @@ We are all God’s creation. God the Creator is responsible for God the creation
 * Question: Do the primary qualities of a soul change from incarnation to incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:713
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:713
   :END:
 
 
@@ -460,9 +460,9 @@ We are all God’s creation. God the Creator is responsible for God the creation
 * Question: I was wondering if the main quality that our soul’s name represents would change from incarnation to incarnation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:714
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:714
   :END:
 
 
@@ -473,9 +473,9 @@ We are all God’s creation. God the Creator is responsible for God the creation
 * Question: When we use instruments to play your songs, how can we best bring out all the divine qualities of the songs through the instruments?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:715
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:715
   :END:
 
 
@@ -486,9 +486,9 @@ We are all God’s creation. God the Creator is responsible for God the creation
 * Part V
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:716e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:716e1
   :END:
 
   [fn:part-5]
@@ -498,9 +498,9 @@ We are all God’s creation. God the Creator is responsible for God the creation
 * Question: Dearest Guru, do you have any special message for your discouraging and disappointing child, Annam Brahma?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:716
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:716
   :END:
 
 
@@ -513,9 +513,9 @@ How I wish I could be proud, abundantly proud, of each and every worker who is t
 * Question: What quality could we bring forward in Annam Brahma to please you the most?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:717
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:717
   :END:
 
 
@@ -526,9 +526,9 @@ How I wish I could be proud, abundantly proud, of each and every worker who is t
 * Question: When we have problems that are in our subconscious, is it because we have a strong attachment to the problem and are not really ready to let go, or is it something more than that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:718
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:718
   :END:
 
 
@@ -539,9 +539,9 @@ How I wish I could be proud, abundantly proud, of each and every worker who is t
 * Question: What does the soul of Annam Brahma want?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:719
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:719
   :END:
 
 
@@ -552,9 +552,9 @@ How I wish I could be proud, abundantly proud, of each and every worker who is t
 * Question: What do I need to know?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:720
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:720
   :END:
 
 
@@ -565,9 +565,9 @@ How I wish I could be proud, abundantly proud, of each and every worker who is t
 * Question: Preparing prasad sometimes takes a very long time. How can I remain soulful during the whole preparation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:721
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:721
   :END:
 
 
@@ -582,9 +582,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: Does a seeker’s gratitude-heart truly carry more significance than his own personal transformation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:722
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:722
   :END:
 
 
@@ -595,9 +595,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How much importance should I give to athletics? I am always wondering if I disappoint you by not training and having running goals.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:723
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:723
   :END:
 
 
@@ -608,9 +608,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: What can I do to see only the good in the world and in others and not be pulled down by the undivine things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:724
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:724
   :END:
 
 
@@ -621,9 +621,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How is Annam Brahma in Heaven?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:725
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:725
   :END:
 
 
@@ -634,9 +634,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How can I stop my restless mind? I always rush from one thing to the other and, at the end of the day, I realise that I did not spend enough time singing, reading and meditating.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:726
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:726
   :END:
 
 
@@ -647,9 +647,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: Sometimes I have spasms of energy in my spine which are very uncomfortable; sometimes I have no energy at all. How can I keep my energy more constant and stable?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:727
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:727
   :END:
 
 
@@ -660,9 +660,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: What is the soul of Annam Brahma like?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:728
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:728
   :END:
 
 
@@ -673,9 +673,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: What shall I do when I leave New York so that I do not miss your physical presence too much?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:729
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:729
   :END:
 
 
@@ -686,9 +686,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How can we maintain a good consciousness while we are being assailed by our ignorance as we work in the restaurant?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:730
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:730
   :END:
 
 
@@ -699,9 +699,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How can I be more conscious so that I do not forget something that you really need?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:731
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:731
   :END:
 
 
@@ -712,9 +712,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: How can we work dynamically and soulfully, without rushing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:732
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:732
   :END:
 
 
@@ -725,9 +725,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Part VI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:733e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:733e1
   :END:
 
   [fn:part-6]
@@ -737,9 +737,9 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
 * Question: When problems seem so huge and individuals seem so small, when problems seem to be able to be solved only on a very large scale, by large-scale intervention by governments, what can individuals do to contribute to world peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:733
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:733
   :END:
 
 
@@ -754,9 +754,9 @@ There is God the Creator and God the creation. We are God the creation. But if w
 * Question: Charity is sometimes criticised for being impersonal and patronising and assuaging our guilt. How does the concept of service differ from charity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:734
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:734
   :END:
 
 
@@ -771,9 +771,9 @@ When we establish our oneness with the rest of the world, we feel the entire wor
 * Question: Why do people in the West find the idea of simplicity so complicated?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:735
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:735
   :END:
 
 
@@ -788,9 +788,9 @@ A simple man will have only what he needs, and he will know the difference betwe
 * Question: When differences in religious creeds can create such intolerance in the world, what is the proper attitude towards other people’s faiths?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:736
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:736
   :END:
 
 
@@ -803,9 +803,9 @@ Religion is like a house. What purpose does it serve for me to tell you that my 
 * Question: As we approach the millennium, there is possibly a feeling of despair. Do you think this is a special time for the fate of humanity? Is there another way of looking at this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:737
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:737
   :END:
 
 
@@ -822,9 +822,9 @@ What the world has been passing through for the last fifty or one hundred years 
 * Question: Isn’t this a time when people like you and Mother Teresa and some others are awakening this in a lot of people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:738
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:738
   :END:
 
 
@@ -835,9 +835,9 @@ What the world has been passing through for the last fifty or one hundred years 
 * Part VII
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:739e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:739e1
   :END:
 
   [fn:part-7]
@@ -847,9 +847,9 @@ What the world has been passing through for the last fifty or one hundred years 
 * Question: Why is this year so full of hostile forces?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:739
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:739
   :END:
 
 
@@ -864,9 +864,9 @@ You as an individual are representing the earth-consciousness. You cannot separa
 * Question: In the soul’s world, even though the souls do not have physical ears, is there also music like here?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:740
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:740
   :END:
 
 
@@ -879,9 +879,9 @@ In the soul’s world there is music and also, from the heart centre, there is a
 * Question: Why is the German mind so stubborn?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:741
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:741
   :END:
 
 
@@ -892,9 +892,9 @@ In the soul’s world there is music and also, from the heart centre, there is a
 * Question: How can I keep my mind from worrying about the past and the future?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:742
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:742
   :END:
 
 
@@ -911,9 +911,9 @@ Do not think of tomorrow. Just to think of how you are going to spend today is e
 * Question: Why can’t I see God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:743
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:743
   :END:
 
 
@@ -924,9 +924,9 @@ Do not think of tomorrow. Just to think of how you are going to spend today is e
 * Question: If something is close to you that is not inspiring, how can you protect yourself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:744
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:744
   :END:
 
 
@@ -943,9 +943,9 @@ Of course, the supreme philosophy is to be detached. Detachment is very good, bu
 * Notes 
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:745e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:745e1
   :END:
   
 

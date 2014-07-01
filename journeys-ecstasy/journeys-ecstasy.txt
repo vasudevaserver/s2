@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 662
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1984
-  :PUBLISHER:
-  :CITE-KEY: JES
-  :GENRE: song
+  :book-number: 662
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1984
+  :publisher:
+  :cite-key: JES
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JES:1e1
+  :genre: note
+  :cite-key: JES:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JES:1e2
+  :genre: note
+  :cite-key: JES:1e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Gagane Phutilo Chand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:1
+  :cite-key: JES:1
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Shutibra anurage
 * Nanda Dulal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:2
+  :cite-key: JES:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Ami tomar sanataner kripa kangal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:3
+  :cite-key: JES:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Begging for Your Eternity’s Compassion.
 * Akashe Amar Batase Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:4
+  :cite-key: JES:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Hanibo nashibo nimeshe ajike dharanir ghana bedana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:5
+  :cite-key: JES:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ The world’s intense sufferings.
 * Ami Bhalobasi Sudur Desher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:6
+  :cite-key: JES:6
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +149,10 @@ Heri mor bandar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:7
+  :cite-key: JES:7
   :END:
 
 #+BEGIN_VERSE
@@ -166,10 +166,10 @@ I love the heart of Japan.
 * Asimer Hasi Sasimer Biraje Japaner E
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:8
+  :cite-key: JES:8
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ Japaner gahe guna gan
 * Bhitare Shanti Bahire Shanti Charidhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:9
+  :cite-key: JES:9
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Apurba ek kanti
 * Chalo... Kathati Na Kabhu Balo Sudur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:10
+  :cite-key: JES:10
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ Dyulok bhulok abhinna haye gelo
 * He Japan... Binayer Tumi Bishwa Nidan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:11
+  :cite-key: JES:11
   :END:
 
 #+BEGIN_VERSE
@@ -248,10 +248,10 @@ Nahi hao kabhu tumi mriyaman
 * Hiroshima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:12
+  :cite-key: JES:12
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ Japaner ankhi nutan bhorer sandhani
 * Japan Sushamar Ekatar Puta Dhyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:13
+  :cite-key: JES:13
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Sutibra gati paran saral
 * Japan Tumi Sushamar Sopan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:14
+  :cite-key: JES:14
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Ogo namrata aphuran
 * Jaya Jay Jaya He Niranjana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:15
+  :cite-key: JES:15
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ E abani shokarta
 * Nagasaki... Tomar Hiyar Param Prabhure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:16
+  :cite-key: JES:16
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Asimananda paramananda dharai abhyudoy
 * Ogo Japaner Shanta Snigdha Shantati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:17
+  :cite-key: JES:17
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Nabin ushare apan karite nahi hao hoiran
 * Akbar Allah Asimer Abiram Karunar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:18
+  :cite-key: JES:18
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ Akbar Akbar Akbar Akbar
 * Gokul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:19
+  :cite-key: JES:19
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Tai dhwara benche ache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:20
+  :cite-key: JES:20
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Therefore, the world is still alive.
 * Hiya Tatini Bahiya Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:21
+  :cite-key: JES:21
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Keha je sangi nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:22
+  :cite-key: JES:22
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ No one else is my companion.
 * Aruna Jibaner Bhore Labhechhi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:23
+  :cite-key: JES:23
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Ashesh amal karuna
 * Kanur Lagiya Ganthinu E Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:24
+  :cite-key: JES:24
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Rupantarer sona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:25
+  :cite-key: JES:25
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ Transformation-gold.
 * Abar Ami Shesh Kathati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:26
+  :cite-key: JES:26
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Bhulbona go tomai prabhu kabhu sukhe o dukhe
 * Akash Batas Bale Jai Bidai Bidai Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:27
+  :cite-key: JES:27
   :END:
 
 #+BEGIN_VERSE
@@ -563,10 +563,10 @@ Pran phire chai phire chai
 * Amar Andha Praner Tane Kon Path Dhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:28
+  :cite-key: JES:28
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Sada jena chali tomar tane tomar pane
 * Amar Jiban Habe Taba Kripa Pramodan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:29
+  :cite-key: JES:29
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Chupe chupe kaho more prabhu alik maran
 * Amar Jiban Habe Taba Kripa Pramodan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:30
+  :cite-key: JES:30
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Chupe chupe kaho more prabhu alik maran
 * Asha Bihanga Amare Chhariya Jeyona Kothao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:31
+  :cite-key: JES:31
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Rekhona kadapi rekhona
 * Dakibar Age Kariyacho Khama Chahibar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:32
+  :cite-key: JES:32
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Apanar kare niyechho
 * Jedin Tomare Janibo Bidhata Sedin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:33
+  :cite-key: JES:33
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Hriday prasune phutabo
 * Kamana Diye Bandhi Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:34
+  :cite-key: JES:34
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Marane nahi bhuli
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:35
+  :cite-key: JES:35
   :END:
 
 #+BEGIN_VERSE
@@ -714,10 +714,10 @@ At the hour of my death.
 * Ki Karile Ma Paribo Tomai Rakhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:36
+  :cite-key: JES:36
   :END:
 
 #+BEGIN_VERSE
@@ -733,10 +733,10 @@ Amar amire sampite
 * Kichui Jai Na Naba Name Naba Rupe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:37
+  :cite-key: JES:37
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ Epar opar nahe dure tabu jaina
 * Maner Bane Phutena Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:38
+  :cite-key: JES:38
   :END:
 
 #+BEGIN_VERSE
@@ -773,10 +773,10 @@ Prabhur madhur anane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:39
+  :cite-key: JES:39
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ For the sweet Face of my Beloved Supreme.
 * Maner Bojha Kothai Namai Kichu Te Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:40
+  :cite-key: JES:40
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ Ashanti trishul more shantir tor dite chaina
 * Nil Akashe Uri Ami Jyotir Tari Druta Beye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:41
+  :cite-key: JES:41
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ Bibhur pane raibo cheye
 * Heri Tomar Charan Ratul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-09-1982
-  :CITE-KEY: JES:42
+  :cite-key: JES:42
   :END:
 
 #+BEGIN_VERSE
@@ -853,10 +853,10 @@ Dakbe ki hai andhar nashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-09-1982
-  :CITE-KEY: JES:43
+  :cite-key: JES:43
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ Chasing away my darkness?
 * Amar Amire Harabar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-09-1982
-  :CITE-KEY: JES:44
+  :cite-key: JES:44
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ Jedin haibe ahamika shir churna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-09-1982
-  :CITE-KEY: JES:45
+  :cite-key: JES:45
   :END:
 
 #+BEGIN_VERSE
@@ -912,10 +912,10 @@ By me and nobody else.
 * Jaya Ma Bijaya.. Jaya Bijaya Tumi Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-09-1982
-  :CITE-KEY: JES:46
+  :cite-key: JES:46
   :END:
 
 #+BEGIN_VERSE
@@ -931,10 +931,10 @@ Ushar swapane amiya abhaya
 * Biraha Nadi Tire Asi Mora Phire Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-09-1982
-  :CITE-KEY: JES:47
+  :cite-key: JES:47
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ Animesh nath jagi
 * Hari Bol Durbar Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-09-1982
-  :CITE-KEY: JES:48
+  :cite-key: JES:48
   :END:
 
 #+BEGIN_VERSE
@@ -966,10 +966,10 @@ Durbar ananda nartan kallol
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-09-1982
-  :CITE-KEY: JES:49
+  :cite-key: JES:49
   :END:
 
 #+BEGIN_VERSE
@@ -983,10 +983,10 @@ Indomitable is the joy of delight-waves!
 * Maha Brahma Maha Vishnu Maha Shib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-09-1982
-  :CITE-KEY: JES:50
+  :cite-key: JES:50
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ More karo nitya sudha mukta jib
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-09-1982
-  :CITE-KEY: JES:51
+  :cite-key: JES:51
   :END:
 
 #+BEGIN_VERSE
@@ -1017,10 +1017,10 @@ And ever-liberated soul.
 * Jiban Dine Pujle Tomai Maran Rathe Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-09-1982
-  :CITE-KEY: JES:52
+  :cite-key: JES:52
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Golok dhamer jabo
 * Andhiyar Pran Mamatar Ban Heribona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-09-1982
-  :CITE-KEY: JES:53
+  :cite-key: JES:53
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ Dite dyuti parabar
 * Jayati Jayati Bijaya Moher Moher Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-09-1982
-  :CITE-KEY: JES:54
+  :cite-key: JES:54
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ Asha parabare bhati
 * Jiban Kande Maran Lagi Maran Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-09-1982
-  :CITE-KEY: JES:55
+  :cite-key: JES:55
   :END:
 
 #+BEGIN_VERSE
@@ -1093,10 +1093,10 @@ Raibo ami nitya jagi
 * Ei Prithi Bhite Keha Nahi Jani Mor Apanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-09-1982
-  :CITE-KEY: JES:56
+  :cite-key: JES:56
   :END:
 
 #+BEGIN_VERSE
@@ -1110,10 +1110,10 @@ Samukhe mor pagol hasti andha achetan
 * Jibaner Sheshe Maraner Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1982
-  :CITE-KEY: JES:57
+  :cite-key: JES:57
   :END:
 
 #+BEGIN_VERSE
@@ -1128,10 +1128,10 @@ Bahudure phele rakhibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-09-1982
-  :CITE-KEY: JES:58
+  :cite-key: JES:58
   :END:
 
 #+BEGIN_VERSE
@@ -1149,10 +1149,10 @@ Into a far-off land.
 * Ami Sabar Sathe Ek Haye Aj Chalbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-09-1982
-  :CITE-KEY: JES:59
+  :cite-key: JES:59
   :END:
 
 #+BEGIN_VERSE
@@ -1169,10 +1169,10 @@ Hethai pabo priyatame mahananda nire
 * Bhuler Bane Hiya Kusum Phutbena Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1982
-  :CITE-KEY: JES:60
+  :cite-key: JES:60
   :END:
 
 #+BEGIN_VERSE
@@ -1188,10 +1188,10 @@ Khunjbo ami swarupe mor atmagyaner prate
 * Jagot Chilo Jakhan Ami Chilamna Thakbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:61
+  :cite-key: JES:61
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ Amar sakal jatana
 * Kache Ese Dure Sare Jai Keha Karo Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:62
+  :cite-key: JES:62
   :END:
 
 #+BEGIN_VERSE
@@ -1232,10 +1232,10 @@ Eki man dhai
 * Megh Je Deke Jai Ai Ai Ai Ghare Thaka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:63
+  :cite-key: JES:63
   :END:
 
 #+BEGIN_VERSE
@@ -1254,10 +1254,10 @@ Se dake kar pran na matai
 * Shanta Ushar Dak Esechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:64
+  :cite-key: JES:64
   :END:
 
 #+BEGIN_VERSE
@@ -1273,10 +1273,10 @@ Pulak bhare prithir gane
 * Kanu Tumi Je Amar Akul Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-1983
-  :CITE-KEY: JES:65
+  :cite-key: JES:65
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ Nahi heri ar tamasa rajani shudhu puta purnima
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-02-1983
-  :CITE-KEY: JES:66
+  :cite-key: JES:66
   :END:
 
 #+BEGIN_VERSE
@@ -1313,10 +1313,10 @@ It is all pure, moonlit night.
 * Ananda Fuara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:67
+  :cite-key: JES:67
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ Anahata nad purnata prasad aji atmahara
 * Asha Diye Tumi Kena Dure Chale Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:68
+  :cite-key: JES:68
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ Ei pralobhane ananda bhuji pao
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:69
+  :cite-key: JES:69
   :END:
 
 #+BEGIN_VERSE
@@ -1368,10 +1368,10 @@ From this Temptation-Play of Yours?
 * Bidai Bela Paran Kanpe Ashru Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:70
+  :cite-key: JES:70
   :END:
 
 #+BEGIN_VERSE
@@ -1385,10 +1385,10 @@ Dur ajanai asha kripan nashbe andhar rati
 * Bindur Dhyan Sarthak Habe Nehari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:71
+  :cite-key: JES:71
   :END:
 
 #+BEGIN_VERSE
@@ -1404,10 +1404,10 @@ Maya mamatar bandhan
 * Chalo...... Tomai Dekhe Sabi Aji Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:72
+  :cite-key: JES:72
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ Tomai dekhe sabi aji nutan prabhu halo
 * Dipali.. Satya Tanaya Shyamali Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:73
+  :cite-key: JES:73
   :END:
 
 #+BEGIN_VERSE
@@ -1440,10 +1440,10 @@ Rayechhe charan dhari
 * Haridas.. Prerana Eshana Tumi Abinash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:74
+  :cite-key: JES:74
   :END:
 
 #+BEGIN_VERSE
@@ -1459,10 +1459,10 @@ Dur ajanar prashanti sudha
 * Jiban Amar Karo Ushar Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:75
+  :cite-key: JES:75
   :END:
 
 #+BEGIN_VERSE
@@ -1478,10 +1478,10 @@ Khudra amire ami sajore bandhibo
 * Jiban Bhore Maran Sanjhe Daki Ajanare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:76
+  :cite-key: JES:76
   :END:
 
 #+BEGIN_VERSE
@@ -1495,10 +1495,10 @@ Nimesh hara premer dhara heri charidhare
 * Jibane Marane Ashar Swapane Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:77
+  :cite-key: JES:77
   :END:
 
 #+BEGIN_VERSE
@@ -1514,10 +1514,10 @@ Sri charane sada rahibo
 * Kanna Hasi Dheu Guli Aj Kotha Hate Uthe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:78
+  :cite-key: JES:78
   :END:
 
 #+BEGIN_VERSE
@@ -1535,10 +1535,10 @@ Keu to chahena
 * Ke Amare Apan Kare Praner Katha Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:79
+  :cite-key: JES:79
   :END:
 
 #+BEGIN_VERSE
@@ -1554,10 +1554,10 @@ Parai premer swarna taj
 * Shunbo Aji Shunbo Ami Tomar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-04-1983
-  :CITE-KEY: JES:80
+  :cite-key: JES:80
   :END:
 
 #+BEGIN_VERSE
@@ -1573,10 +1573,10 @@ Tomar khamar charan khani
 * Amar Majhe Amai Khunji (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:81
+  :cite-key: JES:81
   :END:
 
 #+BEGIN_VERSE
@@ -1594,10 +1594,10 @@ Shanta madhumoy
 * Amar Majhe Amai Khunji (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:82
+  :cite-key: JES:82
   :END:
 
 #+BEGIN_VERSE
@@ -1615,10 +1615,10 @@ Shanta madhumoy
 * Amar Nayan Tomar Swapan Jani Hridayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:83
+  :cite-key: JES:83
   :END:
 
 #+BEGIN_VERSE
@@ -1632,10 +1632,10 @@ Hridayer raja
 * Amar Shire Bhari Bojha Boibona Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:84
+  :cite-key: JES:84
   :END:
 
 #+BEGIN_VERSE
@@ -1649,10 +1649,10 @@ Boibona ar boibona
 * Ami Ek Bahu Haye Khunji Pratipal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:85
+  :cite-key: JES:85
   :END:
 
 #+BEGIN_VERSE
@@ -1668,10 +1668,10 @@ Se kendra taba ei mahadan
 * Andhar Rate Andhar Rate Andhar Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:86
+  :cite-key: JES:86
   :END:
 
 #+BEGIN_VERSE
@@ -1685,10 +1685,10 @@ Kanna nadi chale amar sathe sathe
 * Bhitare Eshana Bahire Prerana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:87
+  :cite-key: JES:87
   :END:
 
 #+BEGIN_VERSE
@@ -1704,10 +1704,10 @@ Amrita sandhan
 * Bhuler Deshe Gure Berai Nitya Ami Eka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:88
+  :cite-key: JES:88
   :END:
 
 #+BEGIN_VERSE
@@ -1721,10 +1721,10 @@ Nitya ami eka
 * Bindu Ami Sindhu Tumi Shikha Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:89
+  :cite-key: JES:89
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Tomai peye hiya tari majhi
 * Biraha Milana Gan Nahi Habe Abasan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:90
+  :cite-key: JES:90
   :END:
 
 #+BEGIN_VERSE
@@ -1762,10 +1762,10 @@ Ananda sandhan
 * Dhara Dite Rishta Chite Tomar Dware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:91
+  :cite-key: JES:91
   :END:
 
 #+BEGIN_VERSE
@@ -1779,10 +1779,10 @@ Tomar dware esechhi
 * E Jibane Mor Ami Ar Asha Setu Heribona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:92
+  :cite-key: JES:92
   :END:
 
 #+BEGIN_VERSE
@@ -1799,10 +1799,10 @@ Timir nishar rahibena kona hetu
 * Ebar Ami Tomar Sathe Alor Deshe Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:93
+  :cite-key: JES:93
   :END:
 
 #+BEGIN_VERSE
@@ -1818,10 +1818,10 @@ Tomai ami pabo
 * Khudra Asha Barai Pira Dayi Khudra Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:94
+  :cite-key: JES:94
   :END:
 
 #+BEGIN_VERSE
@@ -1834,10 +1834,10 @@ Khudra asha barai piradayi
 * Laho..... Akuti Minati Bhakati Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:95
+  :cite-key: JES:95
   :END:
 
 #+BEGIN_VERSE
@@ -1854,10 +1854,10 @@ Tumi chira manorama manorama
 * Nidra Bihin Sangi Bihin Amar Kanna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:96
+  :cite-key: JES:96
   :END:
 
 #+BEGIN_VERSE
@@ -1871,10 +1871,10 @@ Ami amar kanna
 * Nil Akashe Nil Sagare Amaratar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:97
+  :cite-key: JES:97
   :END:
 
 #+BEGIN_VERSE
@@ -1892,10 +1892,10 @@ Nil pakhire aji bandhi
 * Shata Maya Mamatar Ban Amare Kareche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:98
+  :cite-key: JES:98
   :END:
 
 #+BEGIN_VERSE
@@ -1911,10 +1911,10 @@ Binash nritya halo suru
 * Anek Diner Anek Rater Asha Pradip Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-09-1983
-  :CITE-KEY: JES:99
+  :cite-key: JES:99
   :END:
 
 #+BEGIN_VERSE
@@ -1930,10 +1930,10 @@ Agyanatar ghor shamaner nach
 * Ami Sahadeva Chhita Pandava
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:100
+  :cite-key: JES:100
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Hoite prabhur karuna nidan
 * Anukampa Anukampa Paramer Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:101
+  :cite-key: JES:101
   :END:
 
 #+BEGIN_VERSE
@@ -1968,10 +1968,10 @@ Ei habe shashwata parichoy
 * Ashru Bhora Kanna Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:102
+  :cite-key: JES:102
   :END:
 
 #+BEGIN_VERSE
@@ -1987,10 +1987,10 @@ Hiya pakhi pabena go pabena
 * Bhitar Bahir Anadi Gabhir Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:103
+  :cite-key: JES:103
   :END:
 
 #+BEGIN_VERSE
@@ -2006,10 +2006,10 @@ Chira apurba prema
 * Charan Tale Na Pele Thai Rakhbo Shire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:104
+  :cite-key: JES:104
   :END:
 
 #+BEGIN_VERSE
@@ -2025,10 +2025,10 @@ Mor amire nitya bhuli
 * Dibanishi Habo Ami Tomar Pather Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:105
+  :cite-key: JES:105
   :END:
 
 #+BEGIN_VERSE
@@ -2044,10 +2044,10 @@ Phutabe mor param dayal
 * Jiban Amar Ashar Sopan Maran Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:106
+  :cite-key: JES:106
   :END:
 
 #+BEGIN_VERSE
@@ -2063,10 +2063,10 @@ Purna loker mukti nayan
 * Jiban Amar Tomar Bidhata Ei Katha Bali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:107
+  :cite-key: JES:107
   :END:
 
 #+BEGIN_VERSE
@@ -2082,10 +2082,10 @@ Harate amare taba maha jaya gane
 * Kaibalya.... Dham Anukkhan Japi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:108
+  :cite-key: JES:108
   :END:
 
 #+BEGIN_VERSE
@@ -2101,10 +2101,10 @@ Subishal nam
 * Kanchan Paramer Karunar Aphuran Barishan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:109
+  :cite-key: JES:109
   :END:
 
 #+BEGIN_VERSE
@@ -2122,10 +2122,10 @@ Champion world-runner ananda bitaran
 * Labh Ar Khati Khati Ar Labh Ami Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:110
+  :cite-key: JES:110
   :END:
 
 #+BEGIN_VERSE
@@ -2141,10 +2141,10 @@ Prabhur charane thai
 * Madira Swapan Sudhira Nayan Prabhira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:111
+  :cite-key: JES:111
   :END:
 
 #+BEGIN_VERSE
@@ -2160,10 +2160,10 @@ Abhinna prema bale
 * Ongkar.. Srashtar Srishtir Muladhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:112
+  :cite-key: JES:112
   :END:
 
 #+BEGIN_VERSE
@@ -2179,10 +2179,10 @@ Urdher tumi ananta sudha
 * Shanti Sagare Dubibe Jakkhan Ashanta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:113
+  :cite-key: JES:113
   :END:
 
 #+BEGIN_VERSE
@@ -2198,10 +2198,10 @@ Bibhur bijoy gan
 * Simon Bolivar, Libertador! Simon Bolivar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:114
+  :cite-key: JES:114
   :END:
 
 #+BEGIN_VERSE
@@ -2221,10 +2221,10 @@ Tumi dakkhin markin trata
 * Amar Jiban Amar Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1983
-  :CITE-KEY: JES:115
+  :cite-key: JES:115
   :END:
 
 #+BEGIN_VERSE
@@ -2237,10 +2237,10 @@ Tomar charan lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:116
+  :cite-key: JES:116
   :END:
 
 #+BEGIN_VERSE
@@ -2254,10 +2254,10 @@ For Your Feet.
 * Darkness Destroyed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:117
+  :cite-key: JES:117
   :END:
 
 #+BEGIN_VERSE
@@ -2272,10 +2272,10 @@ Is blossoming in my heart-sky.
 * Chander Hasi Timir Nashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1983
-  :CITE-KEY: JES:118
+  :cite-key: JES:118
   :END:
 
 #+BEGIN_VERSE
@@ -2288,10 +2288,10 @@ Phutlo aji amar hiya nabhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:119
+  :cite-key: JES:119
   :END:
 
 #+BEGIN_VERSE
@@ -2305,10 +2305,10 @@ Is blossoming in my heart-sky.
 * Chanchala Mati Nahi Tumi Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1983
-  :CITE-KEY: JES:120
+  :cite-key: JES:120
   :END:
 
 #+BEGIN_VERSE
@@ -2321,10 +2321,10 @@ Taita nirata pragati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:121
+  :cite-key: JES:121
   :END:
 
 #+BEGIN_VERSE
@@ -2338,10 +2338,10 @@ Therefore, continuous progress you are.
 * Impatience-Mind You Know Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:122
+  :cite-key: JES:122
   :END:
 
 #+BEGIN_VERSE
@@ -2355,10 +2355,10 @@ Therefore, continuous progress you are.
 * Gunjari Gunjari Phukari Phukari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:123
+  :cite-key: JES:123
   :END:
 
 #+BEGIN_VERSE
@@ -2373,10 +2373,10 @@ Amar trishita paran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:124
+  :cite-key: JES:124
   :END:
 
 #+BEGIN_VERSE
@@ -2390,10 +2390,10 @@ In the New Year is growing.
 * Hauntingly, Puissantly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:125
+  :cite-key: JES:125
   :END:
 
 #+BEGIN_VERSE
@@ -2408,10 +2408,10 @@ In the New Year is growing.
 * I Shall Sport and I Shall Dance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:126
+  :cite-key: JES:126
   :END:
 
 #+BEGIN_VERSE
@@ -2427,10 +2427,10 @@ Of my Beloved Supreme.
 * Again and Again I Come to Your Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:127
+  :cite-key: JES:127
   :END:
 
 #+BEGIN_VERSE
@@ -2446,10 +2446,10 @@ For an iota of peace.
 * Dukhero Baridhi Sukhabena Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:128
+  :cite-key: JES:128
   :END:
 
 #+BEGIN_VERSE
@@ -2462,10 +2462,10 @@ Tai hatashai mriyaman
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:129
+  :cite-key: JES:129
   :END:
 
 #+BEGIN_VERSE
@@ -2479,10 +2479,10 @@ Therefore, I live in despair-death.
 * Ananda Bhore Ananda Sanjhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:130
+  :cite-key: JES:130
   :END:
 
 #+BEGIN_VERSE
@@ -2495,10 +2495,10 @@ Paramananda dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:131
+  :cite-key: JES:131
   :END:
 
 #+BEGIN_VERSE
@@ -2513,10 +2513,10 @@ Delight-Lord Absolute calls me.
 * In the Morn of Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:132
+  :cite-key: JES:132
   :END:
 
 #+BEGIN_VERSE
@@ -2531,10 +2531,10 @@ Delight-Lord Absolute calls me.
 * Atma Samarpaner Kirane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:133
+  :cite-key: JES:133
   :END:
 
 #+BEGIN_VERSE
@@ -2548,10 +2548,10 @@ Karibo bidhata joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:134
+  :cite-key: JES:134
   :END:
 
 #+BEGIN_VERSE
@@ -2565,10 +2565,10 @@ I shall win Your Heart, My Lord Supreme.
 * He Sadhak He Sadhika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:135
+  :cite-key: JES:135
   :END:
 
 #+BEGIN_VERSE
@@ -2581,10 +2581,10 @@ Puratane keno bhalobaso
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:136
+  :cite-key: JES:136
   :END:
 
 #+BEGIN_VERSE
@@ -2598,10 +2598,10 @@ Why do you love the old life?
 * He Mor Banar Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:137
+  :cite-key: JES:137
   :END:
 
 #+BEGIN_VERSE
@@ -2616,10 +2616,10 @@ Ei sudrira pan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:138
+  :cite-key: JES:138
   :END:
 
 #+BEGIN_VERSE
@@ -2635,10 +2635,10 @@ This is my solemn promise.
 * Amar Chitta Tomar Brithya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:139
+  :cite-key: JES:139
   :END:
 
 #+BEGIN_VERSE
@@ -2651,10 +2651,10 @@ Bhitar bahir ananda nritya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:140
+  :cite-key: JES:140
   :END:
 
 #+BEGIN_VERSE
@@ -2668,10 +2668,10 @@ Within, without dance-delight.
 * Nahi Jani Keno Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:141
+  :cite-key: JES:141
   :END:
 
 #+BEGIN_VERSE
@@ -2684,10 +2684,10 @@ Bhoye bhoye kanpe hiya thara thara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:142
+  :cite-key: JES:142
   :END:
 
 #+BEGIN_VERSE
@@ -2701,10 +2701,10 @@ Why fearfully my heart is trembling.
 * Anrita Ankhi Amrita Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:143
+  :cite-key: JES:143
   :END:
 
 #+BEGIN_VERSE
@@ -2717,10 +2717,10 @@ Nahi pai subishal ei bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:144
+  :cite-key: JES:144
   :END:
 
 #+BEGIN_VERSE
@@ -2734,10 +2734,10 @@ In this vast world.
 * Falsehood-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:145
+  :cite-key: JES:145
   :END:
 
 #+BEGIN_VERSE
@@ -2752,10 +2752,10 @@ In this vast world.
 * How Can I Live Without Compassion?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:146
+  :cite-key: JES:146
   :END:
 
 #+BEGIN_VERSE
@@ -2769,10 +2769,10 @@ Without Compassion?
 * Karuna Bina Ei Jibane Kemane Benche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:147
+  :cite-key: JES:147
   :END:
 
 #+BEGIN_VERSE
@@ -2785,10 +2785,10 @@ Kemane benche rahibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:148
+  :cite-key: JES:148
   :END:
 
 #+BEGIN_VERSE
@@ -2802,10 +2802,10 @@ Without Compassion?
 * A Bird of Sorrow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:149
+  :cite-key: JES:149
   :END:
 
 #+BEGIN_VERSE
@@ -2819,10 +2819,10 @@ Fly in a dream-sweet consciousness-sky?
 * Madhura Swapane Chetana Gagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1984
-  :CITE-KEY: JES:150
+  :cite-key: JES:150
   :END:
 
 #+BEGIN_VERSE
@@ -2835,10 +2835,10 @@ Bedana bihanga uribe kemane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:151
+  :cite-key: JES:151
   :END:
 
 #+BEGIN_VERSE
@@ -2852,10 +2852,10 @@ Fly in a dream-sweet consciousness-sky?
 * At the End
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:152
+  :cite-key: JES:152
   :END:
 
 #+BEGIN_VERSE
@@ -2870,10 +2870,10 @@ You are Your Compassion.
 * Mor Jabar Dine Jabo Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1983
-  :CITE-KEY: JES:153
+  :cite-key: JES:153
   :END:
 
 #+BEGIN_VERSE
@@ -2886,10 +2886,10 @@ Tumi kripamoy kripamoy kripamoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:154
+  :cite-key: JES:154
   :END:
 
 #+BEGIN_VERSE
@@ -2903,10 +2903,10 @@ I shall tell the world You are Your Compassion.
 * Ore Karli Ki Pagla Pagli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1983
-  :CITE-KEY: JES:155
+  :cite-key: JES:155
   :END:
 
 #+BEGIN_VERSE
@@ -2919,10 +2919,10 @@ Basana bajre apana mathai aghat karli
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:156
+  :cite-key: JES:156
   :END:
 
 #+BEGIN_VERSE
@@ -2936,10 +2936,10 @@ You have struck your heads with thunder-desire.
 * Shanti Sagare Khelibo Nachibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:157
+  :cite-key: JES:157
   :END:
 
 #+BEGIN_VERSE
@@ -2952,10 +2952,10 @@ Paramer ankhi sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:158
+  :cite-key: JES:158
   :END:
 
 #+BEGIN_VERSE
@@ -2971,10 +2971,10 @@ Of my Beloved Supreme.
 * Shanti Bindu Pabar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1984
-  :CITE-KEY: JES:159
+  :cite-key: JES:159
   :END:
 
 #+BEGIN_VERSE
@@ -2989,10 +2989,10 @@ Prabhu ami asi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:160
+  :cite-key: JES:160
   :END:
 
 #+BEGIN_VERSE
@@ -3008,10 +3008,10 @@ For an iota of peace.
 * Namo.. Buddha Deber Karuna Moitri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:161
+  :cite-key: JES:161
   :END:
 
 #+BEGIN_VERSE
@@ -3027,10 +3027,10 @@ Chira achapal sthir
 * Banshi Haye Khunjbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:162
+  :cite-key: JES:162
   :END:
 
 #+BEGIN_VERSE
@@ -3043,10 +3043,10 @@ Nupur haye tomar sathe nachbo hiya pur
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JES:163
+  :cite-key: JES:163
   :END:
 
 #+BEGIN_VERSE
@@ -3064,10 +3064,10 @@ I shall dance with You inside my citadel-heart.
 * Batase Aji Pulak Lage Bhuban Bhara Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:164
+  :cite-key: JES:164
   :END:
 
 #+BEGIN_VERSE
@@ -3084,10 +3084,10 @@ Charidike ajanare karechhi sandhan
 * Nutan Jiban Kari Abahan Debo Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:165
+  :cite-key: JES:165
   :END:
 
 #+BEGIN_VERSE
@@ -3108,10 +3108,10 @@ Naba jibaner karo aradhan
 * Priyatam Ase Bahiya Bahiya Ajike Sonar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:166
+  :cite-key: JES:166
   :END:
 
 #+BEGIN_VERSE
@@ -3127,10 +3127,10 @@ Trishita paran hari
 * Sachimata Dake Nimai Nimai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-09-1982
-  :CITE-KEY: JES:167
+  :cite-key: JES:167
   :END:
 
 #+BEGIN_VERSE
@@ -3143,10 +3143,10 @@ Pratidhani kahe nai nai nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-09-1982
-  :CITE-KEY: JES:168
+  :cite-key: JES:168
   :END:
 
 #+BEGIN_VERSE
@@ -3164,10 +3164,10 @@ The echo answers,
 * Savita.. Amar Pratam Kabita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:169
+  :cite-key: JES:169
   :END:
 
 #+BEGIN_VERSE
@@ -3183,10 +3183,10 @@ Tai ami nahi thami
 * Tarak... Nutan Juger Maha Pracharak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:170
+  :cite-key: JES:170
   :END:
 
 #+BEGIN_VERSE
@@ -3203,10 +3203,10 @@ O self-transcendence-sky.
 * Yasoda Nayana Mani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-09-1982
-  :CITE-KEY: JES:171
+  :cite-key: JES:171
   :END:
 
 #+BEGIN_VERSE
@@ -3223,10 +3223,10 @@ Hayechi sona madal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-09-1982
-  :CITE-KEY: JES:172
+  :cite-key: JES:172
   :END:
 
 #+BEGIN_VERSE
@@ -3244,10 +3244,10 @@ Your victory’s golden drum.
 * Basanar Jal Sampibo Tomare Sampibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:173
+  :cite-key: JES:173
   :END:
 
 #+BEGIN_VERSE
@@ -3263,10 +3263,10 @@ Karibo ajike khandan
 * Sangit Bihanga Sangit Bihanga Asim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1982
-  :CITE-KEY: JES:174
+  :cite-key: JES:174
   :END:
 
 #+BEGIN_VERSE
@@ -3282,10 +3282,10 @@ Hetha dyuloker maha mauna bhasha
 * Swarger Phul Martyer Phal Pagal Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:175
+  :cite-key: JES:175
   :END:
 
 #+BEGIN_VERSE
@@ -3301,10 +3301,10 @@ Bahudure phele rekhechhe
 * Basana Amar Maner Panke Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:176
+  :cite-key: JES:176
   :END:
 
 #+BEGIN_VERSE
@@ -3318,10 +3318,10 @@ Panke kande
 * Bharata Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:177
+  :cite-key: JES:177
   :END:
 
 #+BEGIN_VERSE
@@ -3341,10 +3341,10 @@ Rupantarer paramer swapani
 * Pathe Halo Deri Tai Nahi Heri Bahu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:178
+  :cite-key: JES:178
   :END:
 
 #+BEGIN_VERSE
@@ -3359,10 +3359,10 @@ Rekhechhi khuliya tabu asha dor
 * Taj Mahal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:179
+  :cite-key: JES:179
   :END:
 
 #+BEGIN_VERSE
@@ -3376,10 +3376,10 @@ Shah Jahaner prashphutita chitta dal
 * Tomar Premer Pradip Khani Hridaye Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:180
+  :cite-key: JES:180
   :END:
 
 #+BEGIN_VERSE
@@ -3393,10 +3393,10 @@ Hridaye mor jwalao
 * Tomare Basibo Bhalo Tomare Basibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:181
+  :cite-key: JES:181
   :END:
 
 #+BEGIN_VERSE
@@ -3409,10 +3409,10 @@ Tomare basibo bhalo
 * Ballabha Bidhatar Srijane Sutungi Prabha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:182
+  :cite-key: JES:182
   :END:
 
 #+BEGIN_VERSE
@@ -3427,10 +3427,10 @@ Bidhatar srijane sutungi prabha
 * Bandhan Hara Premer Dhara Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:183
+  :cite-key: JES:183
   :END:
 
 #+BEGIN_VERSE
@@ -3446,10 +3446,10 @@ Maha ongkar nad
 * Sahana Devi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:184
+  :cite-key: JES:184
   :END:
 
 #+BEGIN_VERSE
@@ -3465,10 +3465,10 @@ Dyuti dhalo khudra amar shiro pare
 * Sangit Sushama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-08-1983
-  :CITE-KEY: JES:185
+  :cite-key: JES:185
   :END:
 
 #+BEGIN_VERSE
@@ -3484,10 +3484,10 @@ Tomar gabhire kebal jiban
 * Urdhe Amar Chinta Udas Nimne Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:186
+  :cite-key: JES:186
   :END:
 
 #+BEGIN_VERSE
@@ -3505,10 +3505,10 @@ Hiya pakhi sathe gagane uribo
 * Vijaya Dyuloke Prathama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JES:187
+  :cite-key: JES:187
   :END:
 
 #+BEGIN_VERSE
@@ -3524,10 +3524,10 @@ He aparajita shashwata mata abhaya
 * My Life, My Death for Your Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:188
+  :cite-key: JES:188
   :END:
 
 #+BEGIN_VERSE
@@ -3541,10 +3541,10 @@ For Your Feet.
 * Bedana Diye Jagao Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1983
-  :CITE-KEY: JES:189
+  :cite-key: JES:189
   :END:
 
 #+BEGIN_VERSE
@@ -3557,10 +3557,10 @@ Jagao mama hiya kamal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:190
+  :cite-key: JES:190
   :END:
 
 #+BEGIN_VERSE
@@ -3574,10 +3574,10 @@ You awaken my lotus-heart.
 * Through Excruciating Pangs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:191
+  :cite-key: JES:191
   :END:
 
 #+BEGIN_VERSE
@@ -3591,10 +3591,10 @@ You awaken my lotus-heart.
 * The Face of the Dawn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:192
+  :cite-key: JES:192
   :END:
 
 #+BEGIN_VERSE
@@ -3609,10 +3609,10 @@ Have shattered my attachment-life.
 * Ushar Anan Ushar Shobhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1983
-  :CITE-KEY: JES:193
+  :cite-key: JES:193
   :END:
 
 #+BEGIN_VERSE
@@ -3627,10 +3627,10 @@ Maya mamatar bandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1983
-  :CITE-KEY: JES:194
+  :cite-key: JES:194
   :END:
 
 #+BEGIN_VERSE
@@ -3645,10 +3645,10 @@ Have shattered my attachment-life.
 * O Mad Children
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1983
-  :CITE-KEY: JES:195
+  :cite-key: JES:195
   :END:
 
 #+BEGIN_VERSE
@@ -3662,10 +3662,10 @@ You have struck your heads with thunder-desire.
 * My Sea of Sorrows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:196
+  :cite-key: JES:196
   :END:
 
 #+BEGIN_VERSE
@@ -3679,10 +3679,10 @@ Therefore, I live in despair-death.
 * With My Surrender-Streaks
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1984
-  :CITE-KEY: JES:197
+  :cite-key: JES:197
   :END:
 
 #+BEGIN_VERSE
@@ -3697,10 +3697,10 @@ My Lord Supreme.
 * O Seeker, Why Do You Love the Old Life?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:198
+  :cite-key: JES:198
   :END:
 
 #+BEGIN_VERSE
@@ -3714,10 +3714,10 @@ Why do you love the old life?
 * O My Monkey-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:199
+  :cite-key: JES:199
   :END:
 
 #+BEGIN_VERSE
@@ -3733,10 +3733,10 @@ This is my solemn promise.
 * My Heart Your Slave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:200
+  :cite-key: JES:200
   :END:
 
 #+BEGIN_VERSE
@@ -3750,10 +3750,10 @@ Within, without dance-delight.
 * Fearfully My Heart Is Trembling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1984
-  :CITE-KEY: JES:201
+  :cite-key: JES:201
   :END:
 
 #+BEGIN_VERSE

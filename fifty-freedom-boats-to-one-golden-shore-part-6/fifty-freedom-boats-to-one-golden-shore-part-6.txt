@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0230
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FFB-6
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0230
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: FFB-6
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:179e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:179e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * True spirituality and inner life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:179
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:179
   :END:
 
 
@@ -65,9 +65,9 @@ October 25, 1974; 1:00 p.m.
 * Sound-life and silence-life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:180
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:180
   :END:
 
 
@@ -122,9 +122,9 @@ October 25, 1974; 8:30 p.m.
 * Ego and emotion
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:181
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:181
   :END:
 
 
@@ -163,9 +163,9 @@ October 26, 1974
 * Yoga and spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:182
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:182
   :END:
 
 
@@ -206,9 +206,9 @@ October 28, 1974; 4:00 p.m.
 * Belief and faith
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:183
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:183
   :END:
 
 
@@ -249,9 +249,9 @@ October 29, 1974; 7:00 p.m.
 * Part II -- Questions and answers: Northern State College, South Dakota
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:184e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:184e1
   :END:
 
 
@@ -259,9 +259,9 @@ October 29, 1974; 7:00 p.m.
 * Question: Sri Chinmoy, what do you consider to be the greatest obstacle on the spiritual path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:184
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:184
   :END:
 
 
@@ -282,9 +282,9 @@ So the worst obstacle in the spiritual life is doubt. If you can conquer all dou
 * Question: There are so many spiritual paths and so many spiritual teachers. How does one figure out which is the right one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:185
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:185
   :END:
 
 
@@ -305,9 +305,9 @@ Now I beg to be excused. I answered your question and then entered into other de
 * Question: Would you say something about feeling your body in a spiritual way? Is feeling a kind of electric force or wave a spiritual experience?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:186
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:186
   :END:
 
 
@@ -318,9 +318,9 @@ Now I beg to be excused. I answered your question and then entered into other de
 * Question: Can you take the senses as an object of meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:187
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:187
   :END:
 
 
@@ -335,9 +335,9 @@ You have to know what is worthy of your meditation and concentration. If you con
 * Question: Is it necessary to follow a life of renunciation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:188
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:188
   :END:
 
 
@@ -350,9 +350,9 @@ To come back to your question, we have to know what we are renouncing. If we wan
 * Question: Would you tell me what suffering is and what it means?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:189
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:189
   :END:
 
 
@@ -367,9 +367,9 @@ From the highest point of view, God embodies both the limited and the unlimited 
 * Question: Would you speak about music, God and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:190
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:190
   :END:
 
 
@@ -382,9 +382,9 @@ The earthly creator we misunderstand because of his shortcomings. But he is brin
 * Part III -- Questions and answers: University of Minnesota
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:191e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:191e1
   :END:
 
 
@@ -392,9 +392,9 @@ The earthly creator we misunderstand because of his shortcomings. But he is brin
 * Question: In the Bible there is a part that explains about Moses' revelation from God. Can you tell us a little bit about Moses?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:191
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:191
   :END:
 
 
@@ -405,9 +405,9 @@ The earthly creator we misunderstand because of his shortcomings. But he is brin
 * Question: How does a person overcome doubt about himself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:192
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:192
   :END:
 
 
@@ -420,9 +420,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: How can I make my inner cry more sincere?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:193
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:193
   :END:
 
 
@@ -433,9 +433,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: Sometimes during my meditation something shows me some imperfection in my human nature. Some event that occurred portrays this imperfection and I have this in my mind during my meditation. I am confused about what to do with it then. Should I hold it and destroy it or push it aside and try to concentrate on something divine?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:194
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:194
   :END:
 
 
@@ -446,9 +446,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: What is the best way to keep a spiritual consciousness during the day?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:195
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:195
   :END:
 
 
@@ -459,9 +459,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Part IV -- Questions and answers: University of Honolulu
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:196e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:196e1
   :END:
 
 
@@ -469,9 +469,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: What is aspiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:196
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:196
   :END:
 
 
@@ -482,9 +482,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: What is the difference between desire and aspiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:197
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:197
   :END:
 
 
@@ -495,9 +495,9 @@ We can conquer doubt just by meditating on the soul or thinking always of the so
 * Question: Is there a difference between prayer and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:198
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:198
   :END:
 
 
@@ -512,9 +512,9 @@ Fulfilment has to take place not only in the individual but also in the collecti
 * Question: Does illumination come all at once?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:199
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:199
   :END:
 
 
@@ -527,9 +527,9 @@ On a specific day you get a diploma, but before that you study for twenty years.
 * Question: I am having telepathic experiences with people who call themselves magicians. I talk with them while they are in other places. I can enter this realm at will. I'm curious about how you would respond to these experiences?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:200
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:200
   :END:
 
 
@@ -544,9 +544,9 @@ Sincere seekers take these experiences as obstructions on their way. Please pay 
 * Question: Can mantra meditation take you all the way to the Goal?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:201
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:201
   :END:
 
 
@@ -572,9 +572,9 @@ If a spiritual Master gives you a specific mantra, he will offer his own spiritu
 * Question: Practically speaking, how does one go about learning how to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:202
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:202
   :END:
 
 
@@ -589,9 +589,9 @@ But to start off in the field of meditation, I advise you to read books. When yo
 * Question: Is it necessary to have a Guru or can you reach enlightenment on your own?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:203
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:203
   :END:
 
 
@@ -606,9 +606,9 @@ We have to know how fast we want to go. In the spiritual life we can stumble, we
 * Question: What is the greatest stumbling block for most seekers and how can it be overcome?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:204
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:204
   :END:
 
 

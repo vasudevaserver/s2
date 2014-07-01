@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0341
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: RE
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0341
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: RE
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The World Of Sleep
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: RE:1e1
+  :genre: section
+  :keywords:
+  :cite-key: RE:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: Do You Ever Sleep?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:1
+  :genre: qa
+  :keywords:
+  :cite-key: RE:1
   :END:
 
 
@@ -47,9 +47,9 @@
 * Question: How Long Can A Disciple Sleep...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:2
+  :genre: qa
+  :keywords:
+  :cite-key: RE:2
   :END:
 
 
@@ -62,9 +62,9 @@
 * Question: What Do The Spiritual Masters In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:3
+  :genre: qa
+  :keywords:
+  :cite-key: RE:3
   :END:
 
 
@@ -83,9 +83,9 @@ Mental violence goes on everywhere. When one person becomes jealous of another, 
 * Question: Sometimes When I Feel Tired At...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:4
+  :genre: qa
+  :keywords:
+  :cite-key: RE:4
   :END:
 
 
@@ -98,9 +98,9 @@ Mental violence goes on everywhere. When one person becomes jealous of another, 
 * Question: Can You Give Us Any Suggestion...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:5
+  :genre: qa
+  :keywords:
+  :cite-key: RE:5
   :END:
 
 
@@ -113,9 +113,9 @@ Mental violence goes on everywhere. When one person becomes jealous of another, 
 * Question: Sometimes When I Fall Asleep It's...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:6
+  :genre: qa
+  :keywords:
+  :cite-key: RE:6
   :END:
 
 
@@ -128,9 +128,9 @@ Mental violence goes on everywhere. When one person becomes jealous of another, 
 * Question: Sometimes It Seems A Shame That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:7
+  :genre: qa
+  :keywords:
+  :cite-key: RE:7
   :END:
 
 
@@ -143,9 +143,9 @@ Mental violence goes on everywhere. When one person becomes jealous of another, 
 * Question: If I Have Worked At Length...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:8
+  :genre: qa
+  :keywords:
+  :cite-key: RE:8
   :END:
 
 
@@ -168,9 +168,9 @@ This is how you can live your life. At work you can repeat the name of the Supre
 * Question: Do We Receive Anything From You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:9
+  :genre: qa
+  :keywords:
+  :cite-key: RE:9
   :END:
 
 
@@ -185,9 +185,9 @@ But if you come to me with devotion, love, aspiration and intensity at that time
 * Question: It Is Difficult For Me To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:10
+  :genre: qa
+  :keywords:
+  :cite-key: RE:10
   :END:
 
 
@@ -202,9 +202,9 @@ You should feel that more than seven hours of sleep, like drugs, wine, smoking a
 * Dreams And Visions
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: RE:11e1
+  :genre: section
+  :keywords:
+  :cite-key: RE:11e1
   :END:
 
 
@@ -212,9 +212,9 @@ You should feel that more than seven hours of sleep, like drugs, wine, smoking a
 * Question: Do You Believe In Spiritual Dreams?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:11
+  :genre: qa
+  :keywords:
+  :cite-key: RE:11
   :END:
 
 
@@ -227,9 +227,9 @@ You should feel that more than seven hours of sleep, like drugs, wine, smoking a
 * Question: Should We Give Importance To Dreams...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:12
+  :genre: qa
+  :keywords:
+  :cite-key: RE:12
   :END:
 
 
@@ -242,9 +242,9 @@ You should feel that more than seven hours of sleep, like drugs, wine, smoking a
 * Question: How Can You Tell The Difference...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:13
+  :genre: qa
+  :keywords:
+  :cite-key: RE:13
   :END:
 
 
@@ -257,9 +257,9 @@ You should feel that more than seven hours of sleep, like drugs, wine, smoking a
 * Question: Should We Encourage Dreams?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:14
+  :genre: qa
+  :keywords:
+  :cite-key: RE:14
   :END:
 
 
@@ -274,9 +274,9 @@ But inspiring dreams are different. If somebody sees that I am blessing him, nat
 * Question: If You Have A Dream That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:15
+  :genre: qa
+  :keywords:
+  :cite-key: RE:15
   :END:
 
 
@@ -291,9 +291,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Question: Six Or Seven Times My Uncle...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:16
+  :genre: qa
+  :keywords:
+  :cite-key: RE:16
   :END:
 
 
@@ -306,9 +306,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Question: I Dreamt That My Mother Was...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:17
+  :genre: qa
+  :keywords:
+  :cite-key: RE:17
   :END:
 
 
@@ -321,9 +321,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Question: Recently I Woke Up From A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:18
+  :genre: qa
+  :keywords:
+  :cite-key: RE:18
   :END:
 
 
@@ -336,9 +336,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Death And The Afterlife
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: RE:19e1
+  :genre: section
+  :keywords:
+  :cite-key: RE:19e1
   :END:
 
 
@@ -346,9 +346,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Question: Does The Self Continue After Death?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:19
+  :genre: qa
+  :keywords:
+  :cite-key: RE:19
   :END:
 
 
@@ -361,9 +361,9 @@ There are real dreams and these dreams generally take place in the small hours o
 * Question: What Happens To The Soul After...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:20
+  :genre: qa
+  :keywords:
+  :cite-key: RE:20
   :END:
 
 
@@ -378,9 +378,9 @@ These are not make-believe stories. In the worlds after death, things can be as 
 * Question: How Is It Possible For Someone...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:21
+  :genre: qa
+  :keywords:
+  :cite-key: RE:21
   :END:
 
 
@@ -397,9 +397,9 @@ So the soul can leave the body for a few minutes or a few hours, and the body ca
 * Question: Do Spiritual Masters Ever Appear In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:22
+  :genre: qa
+  :keywords:
+  :cite-key: RE:22
   :END:
 
 
@@ -412,9 +412,9 @@ So the soul can leave the body for a few minutes or a few hours, and the body ca
 * Question: Why Don't Souls Of Disciples That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:23
+  :genre: qa
+  :keywords:
+  :cite-key: RE:23
   :END:
 
 
@@ -427,9 +427,9 @@ So the soul can leave the body for a few minutes or a few hours, and the body ca
 * Question: Does The Soul Ever Linger On...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:24
+  :genre: qa
+  :keywords:
+  :cite-key: RE:24
   :END:
 
 
@@ -444,9 +444,9 @@ Again, some wise souls stay in spite of being very bright and powerful. They wan
 * Question: How Do You Feel About Preserving...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:25
+  :genre: qa
+  :keywords:
+  :cite-key: RE:25
   :END:
 
 
@@ -463,9 +463,9 @@ No miracle on earth will help any human being realise God. Miracles the Christ d
 * Question: I Have Made A Commitment To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:26
+  :genre: qa
+  :keywords:
+  :cite-key: RE:26
   :END:
 
 
@@ -478,9 +478,9 @@ No miracle on earth will help any human being realise God. Miracles the Christ d
 * Question: Guru, I Work In A Hospital...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:27
+  :genre: qa
+  :keywords:
+  :cite-key: RE:27
   :END:
 
 
@@ -499,9 +499,9 @@ If you have to work at the hospital, please be nice and kind, but do not go out 
 * Question: If The Soul Has Already Left...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:28
+  :genre: qa
+  :keywords:
+  :cite-key: RE:28
   :END:
 
 
@@ -514,9 +514,9 @@ If you have to work at the hospital, please be nice and kind, but do not go out 
 * Question: Is It Written In A Person's...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:29
+  :genre: qa
+  :keywords:
+  :cite-key: RE:29
   :END:
 
 
@@ -531,9 +531,9 @@ I once had a friend who was very fond of me. His name was Ravi. One day he was p
 * Reincarnation And Evolution
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: RE:30e1
+  :genre: section
+  :keywords:
+  :cite-key: RE:30e1
   :END:
 
 
@@ -541,9 +541,9 @@ I once had a friend who was very fond of me. His name was Ravi. One day he was p
 * Question: You Said That We Are All...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:30
+  :genre: qa
+  :keywords:
+  :cite-key: RE:30
   :END:
 
 
@@ -558,9 +558,9 @@ But in the case of a spiritual aspirant, it is different. He tries to dispose of
 * Question: Why Did We Go From Light...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:31
+  :genre: qa
+  :keywords:
+  :cite-key: RE:31
   :END:
 
 
@@ -575,9 +575,9 @@ Our soul is all light. But on earth the atmosphere is not aspiring. When somebod
 * Question: How Does The Supreme Incarnate On...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:32
+  :genre: qa
+  :keywords:
+  :cite-key: RE:32
   :END:
 
 
@@ -594,9 +594,9 @@ So there was no one process of evolution for the higher souls. Some began from t
 * Question: Is There A Special Evolution For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:33
+  :genre: qa
+  :keywords:
+  :cite-key: RE:33
   :END:
 
 
@@ -609,9 +609,9 @@ So there was no one process of evolution for the higher souls. Some began from t
 * Question: Must A Person Evolve In Every...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:34
+  :genre: qa
+  :keywords:
+  :cite-key: RE:34
   :END:
 
 
@@ -624,9 +624,9 @@ So there was no one process of evolution for the higher souls. Some began from t
 * Question: Do You Have The Divine Power...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:35
+  :genre: qa
+  :keywords:
+  :cite-key: RE:35
   :END:
 
 
@@ -641,9 +641,9 @@ It depends on how fast you run. If you are a slow runner it will take you forty 
 * Question: Is It Possible That This Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:36
+  :genre: qa
+  :keywords:
+  :cite-key: RE:36
   :END:
 
 
@@ -658,9 +658,9 @@ Again, who am I to say that this is your last incarnation? If I say yes, then di
 * Question: Master, If I Have To Come...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:37
+  :genre: qa
+  :keywords:
+  :cite-key: RE:37
   :END:
 
 
@@ -683,9 +683,9 @@ At the end of the game everybody will be judged on where he or she stands in the
 * Question: When One Remembers One's Previous Incarnation,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:38
+  :genre: qa
+  :keywords:
+  :cite-key: RE:38
   :END:
 
 
@@ -702,9 +702,9 @@ But progress can be very, very slow, and when we come to realise how slow the pr
 * Question: Did Any Of Your Disciples Know...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:39
+  :genre: qa
+  :keywords:
+  :cite-key: RE:39
   :END:
 
 
@@ -723,9 +723,9 @@ If the dear ones, the brothers and sisters, come back again together and they ar
 * Question: Do A Person's Relatives In This...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:40
+  :genre: qa
+  :keywords:
+  :cite-key: RE:40
   :END:
 
 
@@ -738,9 +738,9 @@ If the dear ones, the brothers and sisters, come back again together and they ar
 * Question: Many People Do Not Believe In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:41
+  :genre: qa
+  :keywords:
+  :cite-key: RE:41
   :END:
 
 
@@ -755,9 +755,9 @@ Again, how much of your past is it necessary for you to know? In the spiritual l
 * Question: How Can I Get Rid Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:42
+  :genre: qa
+  :keywords:
+  :cite-key: RE:42
   :END:
 
 
@@ -770,9 +770,9 @@ Again, how much of your past is it necessary for you to know? In the spiritual l
 * Question: I Think It Is My Karma....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:43
+  :genre: qa
+  :keywords:
+  :cite-key: RE:43
   :END:
 
 
@@ -785,9 +785,9 @@ Again, how much of your past is it necessary for you to know? In the spiritual l
 * Question: This Incarnation....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RE:44
+  :genre: qa
+  :keywords:
+  :cite-key: RE:44
   :END:
 
 

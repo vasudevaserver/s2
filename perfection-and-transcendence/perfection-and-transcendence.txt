@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0323
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PRTR
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0323
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: PRTR
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Perfection And Transcendence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PRTR:1
+  :genre: discourse
+  :keywords:
+  :cite-key: PRTR:1
   :END:
 
 
@@ -41,9 +41,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Acquiring Good Qualities
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PRTR:2e1
+  :genre: section
+  :keywords:
+  :cite-key: PRTR:2e1
   :END:
 
 
@@ -51,9 +51,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: What Is The Easiest Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:2
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:2
   :END:
 
 
@@ -66,9 +66,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: What Is The Relationship Between Love...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:3
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:3
   :END:
 
 
@@ -81,9 +81,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:4
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:4
   :END:
 
 
@@ -96,9 +96,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: Is There Any Outer Sign Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:5
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:5
   :END:
 
 
@@ -111,9 +111,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question:how Can I Get Satisfaction Right This...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:6
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:6
   :END:
 
 
@@ -126,9 +126,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: How Can We Achieve Self-Poise?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:7
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:7
   :END:
 
 
@@ -141,9 +141,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: How Can The Confidence Of The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:8
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:8
   :END:
 
 
@@ -156,9 +156,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: How Can We Develop Detachment?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:9
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:9
   :END:
 
 
@@ -171,9 +171,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: Should I Pray For Purification Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:10
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:10
   :END:
 
 
@@ -186,9 +186,9 @@ Perfection is continuous progress in the inner life and the outer life. A kinder
 * Question: How Can We Find Lasting Peace?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:11
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:11
   :END:
 
 
@@ -203,9 +203,9 @@ It is peace that operates in the inner world and the outer world in the life of 
 * Question: How Can A Disciple Manifest The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:12
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:12
   :END:
 
 
@@ -218,9 +218,9 @@ It is peace that operates in the inner world and the outer world in the life of 
 * Question: Guru, I Find It Very Difficult...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:13
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:13
   :END:
 
 
@@ -239,9 +239,9 @@ If you have faith in yourself, then you will say, "I am God's son, so how can I 
 * Question: Is Faith A Gift?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:14
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:14
   :END:
 
 
@@ -256,9 +256,9 @@ Again, faith is like a box with a jewel inside. We have the box, but we are not 
 * Question: How Can You Attain Inner Serenity...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:15
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:15
   :END:
 
 
@@ -273,9 +273,9 @@ The individual has to see and feel if the outer life has satisfied him or not. I
 * Question: Don't You Feel Frustrated In Trying...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:16
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:16
   :END:
 
 
@@ -290,9 +290,9 @@ The seekers who are now crying for light know that there are people who have alr
 * Question: How Can I Become Truly Humble?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:17
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:17
   :END:
 
 
@@ -305,9 +305,9 @@ The seekers who are now crying for light know that there are people who have alr
 * Question: How Can I Have Inner Obedience?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:18
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:18
   :END:
 
 
@@ -322,9 +322,9 @@ Disobedience is all inside the mind. If you doubt your own spiritual strength an
 * Question: How Can I Strengthen My Devotion?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:19
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:19
   :END:
 
 
@@ -339,9 +339,9 @@ There are two ways to love God. One way is to please God according to our own wa
 * Question: How Can One Become More Dynamic?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:20
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:20
   :END:
 
 
@@ -356,9 +356,9 @@ The word "dynamism" has tremendous power, like the word "peace." If you can soul
 * Question: How Can I Become More Sincere...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:21
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:21
   :END:
 
 
@@ -377,9 +377,9 @@ There are times in your life when you are really happy. Why are you happy? Becau
 * Question: How Can I Grow More Sincere...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:22
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:22
   :END:
 
 
@@ -398,9 +398,9 @@ But this is a mistake. It is very difficult to become sincere. It may take years
 * Question: What Does Sincerity Actually Mean?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:23
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:23
   :END:
 
 
@@ -413,9 +413,9 @@ But this is a mistake. It is very difficult to become sincere. It may take years
 * Question: What Can A Seeker Do To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:24
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:24
   :END:
 
 
@@ -436,9 +436,9 @@ If we want sincerity, let us go to the One who has Sincerity in infinite measure
 * Question: How Does One Discern His Sincerity...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:25
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:25
   :END:
 
 
@@ -455,9 +455,9 @@ If we spend more time in our heart than in our mind, then we are bound to know w
 * Question: How Do We Achieve Sincerity And...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:26
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:26
   :END:
 
 
@@ -472,9 +472,9 @@ Let us call this higher Power our Inner Pilot. While the Inner Pilot is acting i
 * Question: What Is The Difference Between Purity...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:27
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:27
   :END:
 
 
@@ -489,9 +489,9 @@ Sincerity is the door. But if you do not have the key, which is purity, how can 
 * Question: Can Purity Be Had Overnight?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:28
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:28
   :END:
 
 
@@ -506,9 +506,9 @@ Purity is like a muscle, that can be built up through exercise and practice. You
 * Question: What Is The Difference Between Patience...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:29
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:29
   :END:
 
 
@@ -523,9 +523,9 @@ In the ordinary life, unaspiring life, there is no action. If there is no action
 * Question: How Can I Be More Patient...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:30
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:30
   :END:
 
 
@@ -538,9 +538,9 @@ In the ordinary life, unaspiring life, there is no action. If there is no action
 * Question: Guru, How Can We Aspire When...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:31
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:31
   :END:
 
 
@@ -553,9 +553,9 @@ In the ordinary life, unaspiring life, there is no action. If there is no action
 * Question: How Can I Maintain The Peace...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:32
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:32
   :END:
 
 
@@ -576,9 +576,9 @@ Again, if you can mix with spiritual people, they will be able to help you. Othe
 * Question: How Can I Maintain My Joy...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:33
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:33
   :END:
 
 
@@ -595,9 +595,9 @@ So feel that you are not the doer; you are just executing a higher order. Then y
 * Question: How Can I Help Myself Aspire...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:34
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:34
   :END:
 
 
@@ -610,9 +610,9 @@ So feel that you are not the doer; you are just executing a higher order. Then y
 * Question: How Can I Maintain Spontaneous Delight?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:35
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:35
   :END:
 
 
@@ -625,9 +625,9 @@ So feel that you are not the doer; you are just executing a higher order. Then y
 * Question: Guru, Very Often I Feel Full...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:36
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:36
   :END:
 
 
@@ -640,9 +640,9 @@ So feel that you are not the doer; you are just executing a higher order. Then y
 * Question: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:37
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:37
   :END:
 
 
@@ -655,9 +655,9 @@ So feel that you are not the doer; you are just executing a higher order. Then y
 * Question: I Think That Every Day We...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:38
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:38
   :END:
 
 
@@ -674,9 +674,9 @@ Every second, twenty-four hours a day, nobody can meditate. Twenty-four hours a 
 * Question: Is Surrender The Same Thing As...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:39
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:39
   :END:
 
 
@@ -689,9 +689,9 @@ Every second, twenty-four hours a day, nobody can meditate. Twenty-four hours a 
 * Question: Guru, Would You Please Say Something...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PRTR:40
+  :genre: qa
+  :keywords:
+  :cite-key: PRTR:40
   :END:
 
 

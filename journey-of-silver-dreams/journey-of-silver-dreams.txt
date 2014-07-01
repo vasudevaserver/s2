@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0148
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: JSD
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0148
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: JSD
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Author's introduction
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: JSD:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: JSD:1e1
   :END:
 
 
@@ -40,9 +40,9 @@ I have read quite a few books on dreams. I laugh and laugh because some of them 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: JSD:1e2
+  :genre: note
+  :keywords:
+  :cite-key: JSD:1e2
   :END:
 
 
@@ -53,9 +53,9 @@ The following questions were asked of Sri Chinmoy at different times over the la
 * Question: What are dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:1
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:1
   :END:
 
 
@@ -70,9 +70,9 @@ Even in the ordinary world, if somebody wants to become a millionaire, he works 
 * Question: What does it mean when you see colours in your dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:2
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:2
   :END:
 
 
@@ -89,9 +89,9 @@ Similarly, if you see a pale blue colour, you have to know that it indicates inf
 * Question: What does it mean when you see animals in your dream?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:3
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:3
   :END:
 
 
@@ -106,9 +106,9 @@ Once she came to me and for two and a half hours she asked me about the signific
 * Question: If one has a dream, will the events in it actually take place?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:4
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:4
   :END:
 
 
@@ -127,9 +127,9 @@ There are some dreams which do take place. These dreams we generally get in the 
 * Question: How do dreams materialise? Can they be prevented from doing so?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:5
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:5
   :END:
 
 
@@ -142,9 +142,9 @@ But it can happen that some incident may take place in the mental world which ma
 * Question: Can you explain why, while babies are sleeping, sometimes they smile like angels and sometimes they cry?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:6
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:6
   :END:
 
 
@@ -157,9 +157,9 @@ Why does a baby cry? There are various reasons. At a particular hour he may be h
 * Question: Can these dreams at such an early age be reminiscences from previous lives?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:7
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:7
   :END:
 
 
@@ -170,9 +170,9 @@ Why does a baby cry? There are various reasons. At a particular hour he may be h
 * Question: Once while I was in a meditative mood, I saw a very ancient temple where lots of people were worshipping statues. There was so much reality in it. I recognised all the faces I saw. What is the significance of this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:8
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:8
   :END:
 
 
@@ -183,9 +183,9 @@ Why does a baby cry? There are various reasons. At a particular hour he may be h
 * Question: But what is the good of having a dream like that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:9
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:9
   :END:
 
 
@@ -198,9 +198,9 @@ If you saw an uninspiring person in the street yesterday and today in your dream
 * Question: During the past five months I've experienced two mandalas; the first was a vision of all the people I knew and the second was a vision of a blue lotus. Can you explain the cause of these?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:10
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:10
   :END:
 
 
@@ -213,9 +213,9 @@ The blue lotus that you have seen is the blue lotus of consciousness. Water is c
 * Question: I have always had a great interest an philosophy. Once during my sleep, I felt that Socrates and Ben Franklin were two incarnations of one soul. Can you trust a dream that seems so clear?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:11
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:11
   :END:
 
 
@@ -228,9 +228,9 @@ The spiritual life is something much deeper than the philosophic life. Philosoph
 * Question: What is the relationship between our dreams and reality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:12
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:12
   :END:
 
 
@@ -243,9 +243,9 @@ An ordinary man sees a dream as something totally separate from the rest of his 
 * Question: How should we respond to dreams from the lower worlds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:13
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:13
   :END:
 
 
@@ -256,9 +256,9 @@ An ordinary man sees a dream as something totally separate from the rest of his 
 * Question: If one has a dream about one's spiritual Master, is it reliable?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:14
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:14
   :END:
 
 
@@ -271,9 +271,9 @@ Some people have good dreams about their Master while others have silly, absurd 
 * Question: What happens when we dream about you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:15
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:15
   :END:
 
 
@@ -286,9 +286,9 @@ If you see me in a dream in the morning, it often means that your heart or soul 
 * Question: Guru, I have a question about a dream my husband had. He is not a disciple, but the dream was about you. He dreamed that you visited him and had a discussion about genetics with him and that you told him that environment was not that important in one's spiritual development.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:16
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:16
   :END:
 
 
@@ -307,9 +307,9 @@ Question: But was it the Supreme in you that visited my husband?
 * Question: What should we do if we have a frightening dream that foretells the death of somebody?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:17
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:17
   :END:
 
 
@@ -326,9 +326,9 @@ When you have hopeful dreams, illumining dreams, encouraging dreams, when you se
 * Question: How can we tell what plane of consciousness our dreams come from?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:18
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:18
   :END:
 
 
@@ -339,9 +339,9 @@ When you have hopeful dreams, illumining dreams, encouraging dreams, when you se
 * Question: How can we remember our dreams when we awaken?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:19
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:19
   :END:
 
 
@@ -352,9 +352,9 @@ When you have hopeful dreams, illumining dreams, encouraging dreams, when you se
 * Question: What is the best way to learn the meaning of our dreams? Does it do any good to read books?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:20
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:20
   :END:
 
 
@@ -367,9 +367,9 @@ Right now our consciousness is separated into three parts. At this moment we are
 * Question: Is it bad to pray to God for spiritual dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:21
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:21
   :END:
 
 
@@ -382,9 +382,9 @@ If you want to have dreams o experiences, they can serve as preparatory steps. B
 * Question: How can we have spiritual dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:22
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:22
   :END:
 
 
@@ -395,9 +395,9 @@ If you want to have dreams o experiences, they can serve as preparatory steps. B
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: JSD:23e1
+  :genre: note
+  :keywords:
+  :cite-key: JSD:23e1
   :END:
 
 
@@ -408,9 +408,9 @@ Sri Chinmoy invited the following questions on October 2, 1973 during a meeting 
 * Question: Last year when you were in India, I had a dream in which I heard distant music and I woke up and thought I was either dead or in Heaven.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:23
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:23
   :END:
 
 
@@ -421,9 +421,9 @@ Sri Chinmoy invited the following questions on October 2, 1973 during a meeting 
 * Question: In what plane of consciousness are our dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:24
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:24
   :END:
 
 
@@ -436,9 +436,9 @@ If you tell me what kind of dreams you have, I will be able to tell you what pla
 * Question: What determines what we dream?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:25
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:25
   :END:
 
 
@@ -449,9 +449,9 @@ If you tell me what kind of dreams you have, I will be able to tell you what pla
 * Question: About a year and a half ago I dreamt that I fell down through the earth and became a prisoner somewhere. Then a group of us, myself and other prisoners, had to try to work together to get out of the prison.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:26
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:26
   :END:
 
 
@@ -462,9 +462,9 @@ If you tell me what kind of dreams you have, I will be able to tell you what pla
 * Question: If in a dream we feel deep love for someone, how can we best carry detached love into our outer relationship?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:27
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:27
   :END:
 
 
@@ -475,9 +475,9 @@ If you tell me what kind of dreams you have, I will be able to tell you what pla
 * Question: I dreamed that I was outside my parents' house and I saw an old friend of mine whom I had known before I was a disciple. He brought back a sort of bad state in myself, but I was playing with him. All of a sudden a large, powerful purple eagle came down from the sky and attacked me. I killed it, and I felt the most powerful force that I have ever felt in myself.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:28
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:28
   :END:
 
 
@@ -490,9 +490,9 @@ Then all of a sudden, because you accepted the spiritual life, your soul came to
 * Question: Right after I got married, I had a dream in which all I saw was your face. It was very powerful and dynamic, and it came right in front of me and seemed to be pulling me.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:29
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:29
   :END:
 
 
@@ -503,9 +503,9 @@ Then all of a sudden, because you accepted the spiritual life, your soul came to
 * Question: Guru, I had a dream about Krishna and Arjuna. In the dream I think I was Arjuna. The word 'Arjuna' came out of my stomach.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:30
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:30
   :END:
 
 
@@ -516,9 +516,9 @@ Then all of a sudden, because you accepted the spiritual life, your soul came to
 * Question: Guru, before going to bed lately, I've been praying just to have a silent sleep, because I don't like to have bad dreams. Should I keep on doing this, or should I just let dreams come that come?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:31
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:31
   :END:
 
 
@@ -529,9 +529,9 @@ Then all of a sudden, because you accepted the spiritual life, your soul came to
 * Question: Guru, I had this dream about Sri Anandamayi Ma. She gave me four pictures. The two middle ones were white. The first one was that of my former Master's own Master, and the one on the far end I could not recognise.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:32
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:32
   :END:
 
 
@@ -546,9 +546,9 @@ To come back to your dream, the white colour means purity. /Nirmala/ also means 
 * Question: Guru, if we have a dream in which you appear to us and tell us something very clearly, is it the same thing as your telling it to us face to face?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:33
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:33
   :END:
 
 
@@ -565,9 +565,9 @@ When a spiritual Master finds it difficult to offer a message to a disciple on t
 * Question: I felt that I was climbing a very steep hill. It was green, very luscious, with grass and stuff. It was becoming very steep, and I got afraid. But I kept going up with the assistance of an unidentified person. When I almost reached the top, I was distracted by some nuns offering flowers.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:34
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:34
   :END:
 
 
@@ -578,9 +578,9 @@ When a spiritual Master finds it difficult to offer a message to a disciple on t
 * Question: I have wonderful meditations with you and then go home that night and have very vital and impure dreams.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:35
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:35
   :END:
 
 
@@ -593,9 +593,9 @@ Here in meditation you will seek light, and this light has to enter into your vi
 * Question: I was carrying a large box along with someone else, and I was taking it to you. But then you came and said that I was not doing the right thing.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:36
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:36
   :END:
 
 
@@ -608,9 +608,9 @@ You feel that it is your bounden duty to bring me the load, which here means som
 * Question: I had a dream in which I entered a room. I saw that you and all your disciples had wings.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:37
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:37
   :END:
 
 
@@ -621,9 +621,9 @@ You feel that it is your bounden duty to bring me the load, which here means som
 * Question: Guru, I had a dream about my older sister. She was wearing a green sari and she was standing on a path that was a kind of twilight.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:38
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:38
   :END:
 
 
@@ -634,9 +634,9 @@ You feel that it is your bounden duty to bring me the load, which here means som
 * Question: It was evening. First I saw the green sari and then I noticed the evening twilight.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:39
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:39
   :END:
 
 
@@ -649,9 +649,9 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 * Question: I dreamed that I was talking to someone and we were looking over a vast, fertile land. Also I saw the sky which was like a golden dawn, like when the sun is rising over the land and casting a gold light.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:40
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:40
   :END:
 
 
@@ -662,9 +662,9 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 * Question: I had a dream that you told me to make a blue ball for you.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:41
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:41
   :END:
 
 
@@ -675,9 +675,9 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 * Question: I don't remember the dream exactly, but it was like sinking down into something, and when I came out it was like coming of meditation. I almost wanted to stay there.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:42
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:42
   :END:
 
 
@@ -688,9 +688,9 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 * Question: I dreamed that I invited you and Swami Vivekananda and Sri Ramakrishna to my house.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:43
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:43
   :END:
 
 
@@ -701,9 +701,9 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 * Question: This morning I had a dream in which you asked me to meditate.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JSD:44
+  :genre: qa
+  :keywords:
+  :cite-key: JSD:44
   :END:
 
 

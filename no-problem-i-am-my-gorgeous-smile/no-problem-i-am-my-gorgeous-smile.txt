@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 755
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1989
-  :PUBLISHER:
-  :CITE-KEY: NPGS
-  :GENRE: song
+  :book-number: 755
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1989
+  :publisher:
+  :cite-key: NPGS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NPGS:1e1
+  :genre: note
+  :cite-key: NPGS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NPGS:1e2
+  :genre: note
+  :cite-key: NPGS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Good God, Give Me Perfection-Advice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-02-1989
-  :CITE-KEY: NPGS:1
+  :cite-key: NPGS:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ I am all ears, and even all willingness-heart.
 * Every Day My Soul Tells My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-02-1989
-  :CITE-KEY: NPGS:2
+  :cite-key: NPGS:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Many things on the Q.T.
 * I Am at a Loss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-02-1989
-  :CITE-KEY: NPGS:3
+  :cite-key: NPGS:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ My aspiration sleeping and snoring.
 * Body, My Body
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-02-1989
-  :CITE-KEY: NPGS:4
+  :cite-key: NPGS:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ I love you deeply.
 * All Is Amiss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: NPGS:5
+  :cite-key: NPGS:5
   :END:
 
 #+BEGIN_VERSE
@@ -128,10 +128,10 @@ Enters into my aspiration-heart.
 * Both My Heart and Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: NPGS:6
+  :cite-key: NPGS:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ When an inner problem arises.
 * I Always Speak under My Breath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: NPGS:7
+  :cite-key: NPGS:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ When I advise the God-seekers.
 * Oceans of Nectar-Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:8
+  :cite-key: NPGS:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Drink! Drink! Drink as much as you want to.
 * Early Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:9
+  :cite-key: NPGS:9
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ They must not burn the midnight oil.
 * A Supreme Monarch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:10
+  :cite-key: NPGS:10
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ One day you, too, have to kiss the dust.
 * Alas, My Mind’s Peace-Discovery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: NPGS:11
+  :cite-key: NPGS:11
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Is nothing but a mare’s nest.
 * Have You No Heart of Sympathy?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-03-1989
-  :CITE-KEY: NPGS:12
+  :cite-key: NPGS:12
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ How could you beat him black and blue?
 * By No Means
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:13
+  :cite-key: NPGS:13
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ You are insincerity incarnate.
 * Fear and Doubt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:14
+  :cite-key: NPGS:14
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ Hand in glove with each other.
 * I Showed Him the Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1989
-  :CITE-KEY: NPGS:15
+  :cite-key: NPGS:15
   :END:
 
 #+BEGIN_VERSE
@@ -302,10 +302,10 @@ His useless justification.
 * Do Not Poke Fun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:16
+  :cite-key: NPGS:16
   :END:
 
 #+BEGIN_VERSE
@@ -319,10 +319,10 @@ It hurts them badly.
 * I Feel Sorry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:17
+  :cite-key: NPGS:17
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ So that they do not open their big mouths!
 * No Comparison
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:18
+  :cite-key: NPGS:18
   :END:
 
 #+BEGIN_VERSE
@@ -354,10 +354,10 @@ He is head and shoulders above all his friends.
 * I Am So Sad
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:19
+  :cite-key: NPGS:19
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ My father’s days are numbered.
 * Just Tell Me Quickly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:20
+  :cite-key: NPGS:20
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Go into particulars.
 * I Do Not Want to Win the Race
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:21
+  :cite-key: NPGS:21
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ By hook or by crook.
 * I Am Begging You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:22
+  :cite-key: NPGS:22
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ On my project divine.
 * I Shall Take You to Task
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:23
+  :cite-key: NPGS:23
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ If you do not tell me the complete truth.
 * I Was on Tenterhooks
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:24
+  :cite-key: NPGS:24
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Of my aspiration-dedication-examination.
 * I Shall Spring a Surprise Upon You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:25
+  :cite-key: NPGS:25
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ By defeating you in tennis tomorrow.
 * For the Last Five Years
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:26
+  :cite-key: NPGS:26
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ Have not been on speaking terms.
 * Alas, My Desire-Frustrations Are Going Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:27
+  :cite-key: NPGS:27
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ Are going up by leaps and bounds.
 * He Will Out-Herod Herod
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:28
+  :cite-key: NPGS:28
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ In torturing countless lives.
 * It Would Be Infra Dig
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:29
+  :cite-key: NPGS:29
   :END:
 
 #+BEGIN_VERSE
@@ -544,10 +544,10 @@ To tell you the spotted untruth.
 * Do Not Nettle Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:30
+  :cite-key: NPGS:30
   :END:
 
 #+BEGIN_VERSE
@@ -562,10 +562,10 @@ To my poor fate.
 * How Dare You Stare?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:31
+  :cite-key: NPGS:31
   :END:
 
 #+BEGIN_VERSE
@@ -578,10 +578,10 @@ How dare you stare me in the face?
 * I Badly Need Your Help
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:32
+  :cite-key: NPGS:32
   :END:
 
 #+BEGIN_VERSE
@@ -596,10 +596,10 @@ As to why you cannot help me.
 * For You to Be a Tennis Champ
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:33
+  :cite-key: NPGS:33
   :END:
 
 #+BEGIN_VERSE
@@ -613,10 +613,10 @@ Is like crying for the moon.
 * Alas, Alas, You Are Fishing for Compliments
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:34
+  :cite-key: NPGS:34
   :END:
 
 #+BEGIN_VERSE
@@ -630,10 +630,10 @@ For compliments in vain.
 * He Is a Past Master
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:35
+  :cite-key: NPGS:35
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ He is a past master in deceiving everybody.
 * A Blatant Lie
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:36
+  :cite-key: NPGS:36
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ Your life itself is at stake.
 * Everybody Knows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:37
+  :cite-key: NPGS:37
   :END:
 
 #+BEGIN_VERSE
@@ -680,10 +680,10 @@ For God’s sake, do not rake them up now!
 * If You Need Any Favour from Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:38
+  :cite-key: NPGS:38
   :END:
 
 #+BEGIN_VERSE
@@ -697,10 +697,10 @@ Then you must come to me in person.
 * I Trust Him
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:39
+  :cite-key: NPGS:39
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ I trust him; he is always level-headed.
 * Do Not Extol Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:40
+  :cite-key: NPGS:40
   :END:
 
 #+BEGIN_VERSE
@@ -730,10 +730,10 @@ I deserve it not.
 * If You Have Come Here to Borrow Money
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:41
+  :cite-key: NPGS:41
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Then you have come to the wrong shop.
 * He Is So Undisciplined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:42
+  :cite-key: NPGS:42
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ He leaves everything at sixes and sevens.
 * If You Believe in Your Life’s Inner Progress
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-03-1989
-  :CITE-KEY: NPGS:43
+  :cite-key: NPGS:43
   :END:
 
 #+BEGIN_VERSE
@@ -781,10 +781,10 @@ Then give up at once the habit of spinning yarns.
 * Do Not Hurt Him
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:44
+  :cite-key: NPGS:44
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ He is on his last legs.
 * He Has Done Everything Wrong
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:45
+  :cite-key: NPGS:45
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Therefore, he has no leg to stand on.
 * I Did Give You Some Rope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:46
+  :cite-key: NPGS:46
   :END:
 
 #+BEGIN_VERSE
@@ -833,10 +833,10 @@ You have badly misused it.
 * It Is Beneath My Dignity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:47
+  :cite-key: NPGS:47
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ To go to the movies at any time.
 * I Am So Sorry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:48
+  :cite-key: NPGS:48
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ About my success at the tennis tournament.
 * It Takes Me Three Hours
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:49
+  :cite-key: NPGS:49
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ But, at a  pinch, I can do them in two hours.
 * Alas, My Heart Is as Unfeeling as Rocks
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:50
+  :cite-key: NPGS:50
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Is as unfeeling as rocks!
 * Alas, Your Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:51
+  :cite-key: NPGS:51
   :END:
 
 #+BEGIN_VERSE
@@ -919,10 +919,10 @@ Are as distant as the horizon.
 * Although They Are Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:52
+  :cite-key: NPGS:52
   :END:
 
 #+BEGIN_VERSE
@@ -936,10 +936,10 @@ Their views are as opposite as the poles.
 * Each Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:53
+  :cite-key: NPGS:53
   :END:
 
 #+BEGIN_VERSE
@@ -954,10 +954,10 @@ As a shrine.
 * As Brave As Achilles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:54
+  :cite-key: NPGS:54
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ As brave as Achilles.
 * Everything He Says
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:55
+  :cite-key: NPGS:55
   :END:
 
 #+BEGIN_VERSE
@@ -988,10 +988,10 @@ As the gospel.
 * As Thirsty as a Sponge
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:56
+  :cite-key: NPGS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ My heart is as thirsty as a sponge.
 * As Tranquil as the Summer Sea
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:57
+  :cite-key: NPGS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1022,10 +1022,10 @@ As the summer sea.
 * As Hopeful as the Break of Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:58
+  :cite-key: NPGS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ As the break of day.
 * As Confident as Hercules
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:59
+  :cite-key: NPGS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ I want to be as confident as Hercules.
 * Keep Your Mind as Fresh as Dew
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:60
+  :cite-key: NPGS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ As fresh as dew.
 * As Brainless as a Chimpanzee
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:61
+  :cite-key: NPGS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1088,10 +1088,10 @@ My brother is as brainless as a chimpanzee.
 * True, My Heart Is Aspiration-Starvation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-02-1989
-  :CITE-KEY: NPGS:62
+  :cite-key: NPGS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1105,10 +1105,10 @@ But, O my mind, shed not your crocodile-tears.
 * I Shall Do My Level Best
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-02-1989
-  :CITE-KEY: NPGS:63
+  :cite-key: NPGS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1122,10 +1122,10 @@ To free my heart from my mind-jungle.
 * The Doubtful Mind and the Fearful Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: NPGS:64
+  :cite-key: NPGS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ Always walk arm-in-arm.
 * I Know I Have Done Something Wrong
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:65
+  :cite-key: NPGS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ But you must not rub it in.
 * You Are Always Out of Pocket
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:66
+  :cite-key: NPGS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1174,10 +1174,10 @@ This time I am not helping you.
 * There Is No Hard and Fast Rule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: NPGS:67
+  :cite-key: NPGS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1192,10 +1192,10 @@ In His own Way.
 * My Mind, Stop Speaking Ill of My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: NPGS:68
+  :cite-key: NPGS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ You give me a pain in the neck.
 * My Stupid Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: NPGS:69
+  :cite-key: NPGS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1226,10 +1226,10 @@ To lead my wisdom-heart by the nose?
 * My Heart Is Scared to Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: NPGS:70
+  :cite-key: NPGS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1243,10 +1243,10 @@ When it sees a well-heeled man.
 * I Need No Counsel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-03-1989
-  :CITE-KEY: NPGS:71
+  :cite-key: NPGS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1260,10 +1260,10 @@ I know what is what.
 * Be Happy, Remain Happy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:72
+  :cite-key: NPGS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1278,10 +1278,10 @@ Is just a question of time.
 * You Called Me a Liar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:73
+  :cite-key: NPGS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ So now we are quits.
 * You Are a Jack of All Trades
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:74
+  :cite-key: NPGS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1314,10 +1314,10 @@ Are sailing in the same boat.
 * What You Are Telling Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: NPGS:75
+  :cite-key: NPGS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1332,10 +1332,10 @@ Therefore, you cannot satisfy me.
 * Like a Shot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1989
-  :CITE-KEY: NPGS:76
+  :cite-key: NPGS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1350,10 +1350,10 @@ He went to the hospital like a shot.
 * We Were All in Seventh Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1989
-  :CITE-KEY: NPGS:77
+  :cite-key: NPGS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1367,10 +1367,10 @@ When we won the game.
 * You Do Not Have to Pay Any Attention
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1989
-  :CITE-KEY: NPGS:78
+  :cite-key: NPGS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1386,10 +1386,10 @@ Nobody takes him seriously.
 * Whatever He Says in Company
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:79
+  :cite-key: NPGS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1403,10 +1403,10 @@ Is always out of place.
 * Be Not Rude to Anybody
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:80
+  :cite-key: NPGS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ You’ll have to take your medicine.
 * When You Tell Him to Do Something
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: NPGS:81
+  :cite-key: NPGS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1439,10 +1439,10 @@ He will make hay of it.
 * Nobody Came to Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:82
+  :cite-key: NPGS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1456,10 +1456,10 @@ When I was down at heels.
 * My Stupid Friend, Where Did You Go?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:83
+  :cite-key: NPGS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1473,10 +1473,10 @@ I have been searching for you high and low.
 * When I Missed My Flight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-03-1989
-  :CITE-KEY: NPGS:84
+  :cite-key: NPGS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1490,10 +1490,10 @@ High and dry at the airport.
 * When I Told Him That He Had Won
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:85
+  :cite-key: NPGS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1508,10 +1508,10 @@ He was pleased as punch.
 * Your Desire-Fulfilment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:86
+  :cite-key: NPGS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1524,10 +1524,10 @@ Your desire-fulfilment is on the anvil.
 * You Are Totally Mistaken
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:87
+  :cite-key: NPGS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1541,10 +1541,10 @@ I am not a small fry.
 * The Long and Short of the Whole Matter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:88
+  :cite-key: NPGS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1559,10 +1559,10 @@ Is that you have succeeded in awakening
 * I Have Not Studied My Lessons
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:89
+  :cite-key: NPGS:89
   :END:
 
 #+BEGIN_VERSE
@@ -1577,10 +1577,10 @@ Of succeeding in the examination.
 * Badly I Need Your Help
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-03-1989
-  :CITE-KEY: NPGS:90
+  :cite-key: NPGS:90
   :END:
 
 #+BEGIN_VERSE
@@ -1594,10 +1594,10 @@ Do lend me a hand.
 * The Day I Do Good Meditation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:91
+  :cite-key: NPGS:91
   :END:
 
 #+BEGIN_VERSE
@@ -1611,10 +1611,10 @@ I consider that day as a red-letter day.
 * Nobody Is Exempt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:92
+  :cite-key: NPGS:92
   :END:
 
 #+BEGIN_VERSE
@@ -1629,10 +1629,10 @@ In his salad days.
 * I Shall Give You Everything
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:93
+  :cite-key: NPGS:93
   :END:
 
 #+BEGIN_VERSE
@@ -1646,10 +1646,10 @@ At a sacrifice.
 * I Shall Leave No Stone Unturned
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:94
+  :cite-key: NPGS:94
   :END:
 
 #+BEGIN_VERSE
@@ -1663,10 +1663,10 @@ To help you and save your life.
 * I Know Not Why
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:95
+  :cite-key: NPGS:95
   :END:
 
 #+BEGIN_VERSE
@@ -1681,10 +1681,10 @@ With your best friend.
 * Tell Me, My Brother-Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1989
-  :CITE-KEY: NPGS:96
+  :cite-key: NPGS:96
   :END:
 
 #+BEGIN_VERSE
@@ -1698,10 +1698,10 @@ Whose life is not full of zig-zags?
 * Because of My Aspiration-Famine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-03-1989
-  :CITE-KEY: NPGS:97
+  :cite-key: NPGS:97
   :END:
 
 #+BEGIN_VERSE
@@ -1716,10 +1716,10 @@ Alas, it is ending in smoke.
 * O God-Lover
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-03-1989
-  :CITE-KEY: NPGS:98
+  :cite-key: NPGS:98
   :END:
 
 #+BEGIN_VERSE
@@ -1733,10 +1733,10 @@ Otherwise you are no better than a wolf in sheep’s clothing!
 * The Complete Surrender
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:99
+  :cite-key: NPGS:99
   :END:
 
 #+BEGIN_VERSE
@@ -1751,10 +1751,10 @@ Is an open-mouthed wonder.
 * Because He Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:100
+  :cite-key: NPGS:100
   :END:
 
 #+BEGIN_VERSE
@@ -1768,10 +1768,10 @@ He is always confident in what he says and does.
 * No Matter What He Says
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1989
-  :CITE-KEY: NPGS:101
+  :cite-key: NPGS:101
   :END:
 
 #+BEGIN_VERSE
@@ -1785,10 +1785,10 @@ It’s double Dutch to me.
 * Be Not as Ambitious
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:102
+  :cite-key: NPGS:102
   :END:
 
 #+BEGIN_VERSE
@@ -1801,10 +1801,10 @@ Be not as ambitious as Lady Macbeth.
 * Be Not as Proud
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:103
+  :cite-key: NPGS:103
   :END:
 
 #+BEGIN_VERSE
@@ -1817,10 +1817,10 @@ Be not as proud as Lucifer.
 * I Have Heard Many Orators
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:104
+  :cite-key: NPGS:104
   :END:
 
 #+BEGIN_VERSE
@@ -1834,10 +1834,10 @@ As eloquent as Cicero.
 * I Need a Heart as Mild as a Dove
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:105
+  :cite-key: NPGS:105
   :END:
 
 #+BEGIN_VERSE
@@ -1850,10 +1850,10 @@ I need a heart as mild as a dove.
 * I Need a Mind as Active as Quicksilver
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:106
+  :cite-key: NPGS:106
   :END:
 
 #+BEGIN_VERSE
@@ -1866,10 +1866,10 @@ I need a mind as active as quicksilver.
 * My Father’s Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:107
+  :cite-key: NPGS:107
   :END:
 
 #+BEGIN_VERSE
@@ -1883,10 +1883,10 @@ Is as firm as the Rocky Mountains.
 * As Unhappy as King Lear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:108
+  :cite-key: NPGS:108
   :END:
 
 #+BEGIN_VERSE
@@ -1899,10 +1899,10 @@ Nobody asked you to be as unhappy as King Lear.
 * As Talkative as a Magpie
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:109
+  :cite-key: NPGS:109
   :END:
 
 #+BEGIN_VERSE
@@ -1916,10 +1916,10 @@ As talkative as a magpie.
 * The Human Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:110
+  :cite-key: NPGS:110
   :END:
 
 #+BEGIN_VERSE
@@ -1933,10 +1933,10 @@ Is as unstable as the wind.
 * Who Can Feed You Well?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:111
+  :cite-key: NPGS:111
   :END:
 
 #+BEGIN_VERSE
@@ -1950,10 +1950,10 @@ You are always as voracious as a camel.
 * Your Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:112
+  :cite-key: NPGS:112
   :END:
 
 #+BEGIN_VERSE
@@ -1966,10 +1966,10 @@ Your heart is as beautiful as the rainbow.
 * As Arid as the Sands of the Sahara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:113
+  :cite-key: NPGS:113
   :END:
 
 #+BEGIN_VERSE
@@ -1982,10 +1982,10 @@ Your mind is as arid as the sands of Sahara.
 * Your Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1989
-  :CITE-KEY: NPGS:114
+  :cite-key: NPGS:114
   :END:
 
 #+BEGIN_VERSE

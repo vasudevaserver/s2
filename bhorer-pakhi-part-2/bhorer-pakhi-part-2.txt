@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1062
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: BHPA-2
-  :GENRE: song
+  :book-number: 1062
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: BHPA-2
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BHPA:51e1
+  :genre: note
+  :cite-key: BHPA:51e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BHPA:51e2
+  :genre: note
+  :cite-key: BHPA:51e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Balte Chaho Tomai Ami Bhalobasina Balte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:51
+  :cite-key: BHPA:51
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Balte chaho tomar lagi ami kandina
 * Abar Tumi Dibe Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:52
+  :cite-key: BHPA:52
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Tomar charan smaran kare nitya jeno nachi
 * Ki Diye Tomare Tushibo Janani Ki Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:53
+  :cite-key: BHPA:53
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Asahai haye dubibo
 * Gopan Katha Shunte Chaho Tomai Balina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:54
+  :cite-key: BHPA:54
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Taito kabhu hiya pure shanti labhina
 * Asha Tari Aji Anilo Amai Sudurer Simanai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:55
+  :cite-key: BHPA:55
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Mor hiya kanurai
 * Nirabe Aj Dakbo Tomai Nirabe Aj Dakbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:56
+  :cite-key: BHPA:56
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ Tomar paye rakhbo
 * Chalre O Bhai.. Chal Hiya Phuler Sajabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:57
+  :cite-key: BHPA:57
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ Hiya phuler sajabo ar mayer charan tal
 * Nayan Chhere Jete Paro Hiya Chhere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:58
+  :cite-key: BHPA:58
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Andhar nishai marbo ghure tumi jadi bandhbena
 * Dibanishi Chokher Jale Kanpete Go Roy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:59
+  :cite-key: BHPA:59
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Tumi amar ei kathati tomai jeno koy
 * Dhanya Halo Jiban Amar Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:60
+  :cite-key: BHPA:60
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Shanti pelam tripti pelam diye amai harashe
 * Samarpaner Nutan Juger Bhore Karun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:61
+  :cite-key: BHPA:61
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Karun nayane bidhata dakiche more
 * Bahudin Pare Tomar Charan Dharechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:62
+  :cite-key: BHPA:62
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ Ashesh jatane marechi
 * Amar Sakal Bhalobasa Taje Tomar Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:63
+  :cite-key: BHPA:63
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Tomar majhe rakhte chahi taito amar pran
 * Dekha Tomar Paina Kabhu Tabu Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:64
+  :cite-key: BHPA:64
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ Atmatyager brate jeno nitya jeno tomai smari
 * Sakalere Daki Sakalere Basi Bhalo Kahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:65
+  :cite-key: BHPA:65
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Kahar jibane nahi jeno heri kalo
 * Sakal Saje Dake Amai Jara Tara Je Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:66
+  :cite-key: BHPA:66
   :END:
 
 #+BEGIN_VERSE
@@ -322,10 +322,10 @@ Tara je mor andhar nishar tara
 * Tomar Kache Asi Kebal Shunte Asina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:67
+  :cite-key: BHPA:67
   :END:
 
 #+BEGIN_VERSE
@@ -339,10 +339,10 @@ Tomar charan dhari kebal bhalobasina
 * Ogo Amar Shanti Purir Hiya Pakhi Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:68
+  :cite-key: BHPA:68
   :END:
 
 #+BEGIN_VERSE
@@ -356,10 +356,10 @@ Mor amire tomar paye ami rakhi
 * Tomar Sure Baje Jakhan Amar Bhitar Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:69
+  :cite-key: BHPA:69
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Bhange takhan kutil maner shato shato maner prachir
 * Amar Ashru Hasi Tomai Dite Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:70
+  :cite-key: BHPA:70
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ Laho laho charane dao tai
 * Shesh Habena Shesh Habena Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:71
+  :cite-key: BHPA:71
   :END:
 
 #+BEGIN_VERSE
@@ -407,10 +407,10 @@ Dhanya halam peye aji tomar asim kripa priti
 * Amar Hiyar Bina Khani Diye Tomai Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:72
+  :cite-key: BHPA:72
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Pelam ami bhakti bhare rupantarer taj
 * Bahudin Pare Akuti Bahni Ajike Nehari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:73
+  :cite-key: BHPA:73
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Kritagya chite dilam amare amar hridaya majhike
 * He Amar Man Phire Phire Keno Aso Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:74
+  :cite-key: BHPA:74
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Mukti gitika jadi nahi shuno maya maha sangsare
 * Prabhat Aloke Paramananda Diye Gelo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:75
+  :cite-key: BHPA:75
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ Shanti sagar tai dekhi ami amar
 * Tomar Katha Param Prabhu Jara Nitui Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:76
+  :cite-key: BHPA:76
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Phule phale phutuk tara taba pada tale
 * Dekhechi Aj Pulak Bhare Mor Swapaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:77
+  :cite-key: BHPA:77
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ Taito prane nahi raje mithya amaghor
 * Hasi Chokhe Bhorer Tara Sanjher Tara Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:78
+  :cite-key: BHPA:78
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ Taito ami parbona ar agyanatar durbipake
 * Tomai Mago Dibo Ami Amar Chinta Ban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:79
+  :cite-key: BHPA:79
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Tumi amai dibe tomar kripa khama dhan
 * Bhangi Ami Prati Khane Tomar Sakal Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1994
-  :CITE-KEY: BHPA:80
+  :cite-key: BHPA:80
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Tabu amai jani na chhere tomar bhalobasa
 * Dao Go More Tomar Madhur Nirabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:81
+  :cite-key: BHPA:81
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Shunte chahi prati khane tomar katha
 * Khama Karo Khama Karo Na Karile Marma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:82
+  :cite-key: BHPA:82
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ Balo amai keman kare dekha dibo bishwa swaba majhe
 * Enechi More Tomar Kache Charane Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:83
+  :cite-key: BHPA:83
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ Bhalo manda sakal kichu amire mor sampite
 * He Param Prabhu Kothai.. Lukaye Rahile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:84
+  :cite-key: BHPA:84
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Kemane labhibo shanti jibane kothati na kabhu kahile
 * Hiyar Prabhat Nahi Jani Hai Kemane Haila
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:85
+  :cite-key: BHPA:85
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ Agyanatar abachetanar andhiyar dasha dishi
 * Kali Mayer Gan Geye Ar Halem Ami Shanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:86
+  :cite-key: BHPA:86
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Taito ami habona ar kabhu patha bhranto
 * Dukh Haye Jai Sukh Tomar Charane Sukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:87
+  :cite-key: BHPA:87
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Sukh haye jai dukh tomar bihane
 * Cheye Dekha Cheye Dekha Barek Cheye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:88
+  :cite-key: BHPA:88
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Bhakti diye animeshe tomar hiyai rekha
 * Hiyar Katha Shunte Giye Kebal Shuni
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:89
+  :cite-key: BHPA:89
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Taito tomai jaina chhere chira nithur bachalata
 * Jiban Amar Saphal Halo Shuni Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:90
+  :cite-key: BHPA:90
   :END:
 
 #+BEGIN_VERSE
@@ -730,10 +730,10 @@ Maran amar saphal habe pele tomar hasi
 * Gahite Chahina Shunite Chahina Biraher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:91
+  :cite-key: BHPA:91
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Prabhu toma lagi rekhechi khuliya amar hiyar dwar
 * Joy.. He Param Prabhu Kebal Tomar Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:92
+  :cite-key: BHPA:92
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ Tomar kripai dhanya haite chahi je haite loy
 * Phuler Mato Phutte Chahi Eito Mor Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:93
+  :cite-key: BHPA:93
   :END:
 
 #+BEGIN_VERSE
@@ -781,10 +781,10 @@ Phuler mato dite chahi puta bhalobasa
 * Dure Dure Bahu Dure Keman Kare Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:94
+  :cite-key: BHPA:94
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ Dhanya hate chai je ami dekhi ratul charan rekha
 * Ore Amar Marer Asim Dushaha Tor Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:95
+  :cite-key: BHPA:95
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Tor lagi hai pai je ashesh apaja
 * Pagol Sama Kandi Ami Pagol Sama Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:96
+  :cite-key: BHPA:96
   :END:
 
 #+BEGIN_VERSE
@@ -832,10 +832,10 @@ Pagol sama amar sakal bhalo manda nashi
 * Hate Nishtur Man Sandeha Chor Churi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:97
+  :cite-key: BHPA:97
   :END:
 
 #+BEGIN_VERSE
@@ -849,10 +849,10 @@ Churi karo ki samaj hiyar ghor
 * Amai Chhere Keno Thako
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:98
+  :cite-key: BHPA:98
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ Amar hiya pure
 * Eso Eso Phire Eso Eso Phire Amar Ashar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:99
+  :cite-key: BHPA:99
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ Ashesh bedan jatan
 * Keno Kari Bhul Se Ek Bhul Mago Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1994
-  :CITE-KEY: BHPA:100
+  :cite-key: BHPA:100
   :END:
 
 #+BEGIN_VERSE

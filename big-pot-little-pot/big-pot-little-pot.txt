@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0459
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1981
-  :PUBLISHER: Agni Press
-  :CITE-KEY: BPLP
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 0459
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1981
+  :publisher: Agni Press
+  :cite-key: BPLP
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Bribe
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:1
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:1
   :END:
 
 
@@ -75,9 +75,9 @@ The man said, “You are such a fool! I did bribe him, but I bribed him in a dif
 * The Drunk Policeman
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:2
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:2
   :END:
 
 
@@ -128,9 +128,9 @@ The policeman had come from another direction, so for him it was a left turn, al
 * The Brilliant Student
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:3
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:3
   :END:
 
 
@@ -173,9 +173,9 @@ The young man explained, “I attended your class one day, and you confused me. 
 * Big Pot, Little Pot
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:4
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:4
   :END:
 
 
@@ -208,9 +208,9 @@ The neighbour had dropped the pot and broken it.
 * The T-Shirt
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:5
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:5
   :END:
 
 
@@ -233,9 +233,9 @@ Finally the salesman said, “Don’t waste my time anymore!” The customer pic
 * The Old Man And His House
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:6
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:6
   :END:
 
 
@@ -284,9 +284,9 @@ The real estate agent took the money, closed down shop and disappeared with $10,
 * The Impersonator
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:7
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:7
   :END:
 
 
@@ -319,9 +319,9 @@ The son said, “If Father forgives me, I will come home.” The father said, �
 * Stories narrated to children
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: BPLP:8e1
+  :genre: note
+  :keywords:
+  :cite-key: BPLP:8e1
   :END:
 
 
@@ -332,9 +332,9 @@ The son said, “If Father forgives me, I will come home.” The father said, �
 * The Job Hunters
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:8
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:8
   :END:
 
 
@@ -379,9 +379,9 @@ Which one would you like to be? Would you like to be the one who wants to start 
 * The Naughty Boy
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:9
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:9
   :END:
 
 
@@ -418,9 +418,9 @@ So, are you going to be that kind of naughty child? If you go to a park and do n
 * The Eight Donkeys
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:10
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:10
   :END:
 
 
@@ -445,9 +445,9 @@ Now, one by one, you tell me, where were the eight donkeys?
 * The Old Man With The Umbrella
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:11
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:11
   :END:
 
 
@@ -468,9 +468,9 @@ The old man said, “You fool! I am killing three birds with one stone.” Now, 
 * The Delicious Russian Meal
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:12
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:12
   :END:
 
 
@@ -501,9 +501,9 @@ The cook had never cooked a Russian meal, but in an hour he came with a most del
 * The Japanese Servant
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:13
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:13
   :END:
 
 
@@ -532,9 +532,9 @@ Unfortunately, the message did not register. The Indian big shot got up at eleve
 * The Boy With The Flowers
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:14
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:14
   :END:
 
 
@@ -575,9 +575,9 @@ What would your answer have been if you had been the naughty boy who had stolen 
 * The Prime Minister
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: BPLP:15
+  :genre: story
+  :keywords:
+  :cite-key: BPLP:15
   :END:
 
 

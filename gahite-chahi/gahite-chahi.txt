@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1086
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: GCK
-  :GENRE: song
+  :book-number: 1086
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: GCK
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GCK:1e1
+  :genre: note
+  :cite-key: GCK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GCK:1e2
+  :genre: note
+  :cite-key: GCK:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Gahite Chahi Kali Mayer Gan Dibas Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:1
+  :cite-key: GCK:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Dibas rate bhakati kare dan
 * Kandi Ami Mayer Paye Kandi Mayer Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:2
+  :cite-key: GCK:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Mayer paye mor amire bandhi
 * Jete Habe Dure Dure Bahu Dure Agyanatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:3
+  :cite-key: GCK:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Agyanatar bandhan nashi sudha pure
 * Kothai Asha Kothai Hasi Kothai Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:4
+  :cite-key: GCK:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Andhar nishar karagare ami aj bandha
 * Basana Duar Khuliya Rekhechi Taito Etoi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:5
+  :cite-key: GCK:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Hiyar gabhire nahi heri mor shanti kanti eshana
 * Akash Kande Amar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:6
+  :cite-key: GCK:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ Dure phele rakhi na hai agyanatar saj
 * Maha Bandhan Kari Khandan Uribo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:7
+  :cite-key: GCK:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Ei maha pan karibo puran bali mor hiya majhike
 * Bhitare Amar Bahire Amar Kebal Durbalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:8
+  :cite-key: GCK:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Keno tabu bhabi labhibo achire ananda saphalata
 * Ekla Ami Jabona Ar Ekla Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:9
+  :cite-key: GCK:9
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ Ekla gele prabhur kripa kabhu ami pabona
 * Ashru Nayane Ghure Mari Hai Ashru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:10
+  :cite-key: GCK:10
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ Nahi pai kabhu prabhu darashan ghume o swapane
 * Ebar Ami Shanto Habo Ebar Ami Shanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:11
+  :cite-key: GCK:11
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ Rakhbona ar ei jibane chaowa paowa bhranto
 * Chahina Janite Swarupe Amar Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:12
+  :cite-key: GCK:12
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ Taito shanti hiyar gabhire labhina
 * Jethai Jabo Sethai Pabo Prabhur Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:13
+  :cite-key: GCK:13
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Phutbe amar hiyakashe swapan purir indu
 * Dyuloke Bhuloke Jibane Marane Gahi Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:14
+  :cite-key: GCK:14
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ Nahi jeno bhuli janani tomar sneha kripa ar khama aphuran
 * Phuler Mato Phulte Chahi Puta Chite Phuler
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:15
+  :cite-key: GCK:15
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Diba tomai amar hasi nayan anan abirato
 * Nutan Barashe Nutan Ashai Jegechi Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:16
+  :cite-key: GCK:16
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Khudra amire param prabhure sampechi
 * Nabin Barashe Nabin Sapath Karechi Turiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:17
+  :cite-key: GCK:17
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Turiya dhamer jatri hayite chalechi
 * Nutan Barashe Nutan Jatra Suru Prati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1993
-  :CITE-KEY: GCK:18
+  :cite-key: GCK:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Prati chintai heribo tomare guru
 * Gahi Gan Gahi Gan Paramer Jaya Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:19
+  :cite-key: GCK:19
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Dure rakhi sandhya anrita pale pale
 * Chaowa Paowar Kanna Hasi Bajai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:20
+  :cite-key: GCK:20
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Bajai amar moher banshi
 * Amije Amar Basanar Karagar Amije Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:21
+  :cite-key: GCK:21
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Amije amar eshanar parabar
 * Amai Jete Habe Amaratar Deshe Neche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:22
+  :cite-key: GCK:22
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Neche neche hese hese bhalobese
 * Laho Laho Bhakati Pranati Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:23
+  :cite-key: GCK:23
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ Dao more prabhu aji subha mati
 * Jiban Habe Saphal Amar Kritagyatar Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:24
+  :cite-key: GCK:24
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ Taito ami esechi je bishal dharanite
 * Jana Ajanar Parapare Ami Jabo Kripamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:25
+  :cite-key: GCK:25
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ Kripamoy mor param prabhure pabo
 * E Nahe Bidai Naba Rupe Phire Asibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:26
+  :cite-key: GCK:26
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ Rupantarite khudra amire nashibo
 * Khule Dao Hiya Dwar Khule Dao Khule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:27
+  :cite-key: GCK:27
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ Basana malin manas amar niye jao
 * Akash Pathe Jyoti Rathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:28
+  :cite-key: GCK:28
   :END:
 
 #+BEGIN_VERSE
@@ -520,10 +520,10 @@ Mukta hiyar pakhir sathe urbo ami urbo
 * Sundar Man Sundar Ankhi Dao More Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:29
+  :cite-key: GCK:29
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Tomare pujite tomare tushite hriday kamale jago
 * Rakhina Rakhina Chinta Bhabona Manase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:30
+  :cite-key: GCK:30
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Dao shudhu prabhu tibra eshana tomare pabar
 * Saralata Man Madhurata Hiya Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:31
+  :cite-key: GCK:31
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Bhitare bahire prabhu giti jena gahi
 * Nirab Bhasai Nirab Bhasai Jagibo Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:32
+  :cite-key: GCK:32
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Manas purite mithya prachir bhangibo ajike bhangibo
 * Tomare Pujite Tomare Tushite Asiyachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:33
+  :cite-key: GCK:33
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Amare danibo dibanishi ami apurba ek chite
 * Kandite Chahina Hasite Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:34
+  :cite-key: GCK:34
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Dharai esechi he param prabhu tomare satata tushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:35
+  :cite-key: GCK:35
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ I have come into this world, O my Beloved Supreme,
 * Agyanatar Timir Guhai Thakbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:36
+  :cite-key: GCK:36
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Mane amar chinta bhoja rakhbona ar rakhbona
 * Tumi Acho Sathe Amar Tai Karina Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:37
+  :cite-key: GCK:37
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Tomar kripa rashi rashi amar parichoy
 * Hese Hese Kende Kende Gaibo Tomar Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:38
+  :cite-key: GCK:38
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Amai karo atma bhola param nirbhoy
 * Jete Chahi Hiya Pure Tomar Dekha Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:39
+  :cite-key: GCK:39
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Taito ami dibanishi kripa tomar magi
 * Swapan Diye Hiya Gara Swapan Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:40
+  :cite-key: GCK:40
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ Kripa plaban aji mago eso niye
 * Nijere Karite Dan Nahi Jena Hoiran Nijere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-1993
-  :CITE-KEY: GCK:41
+  :cite-key: GCK:41
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Nijere sampite kabhu karibona deri prabhu
 * Pralobhan Taskar Sama Tumi Niye Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1993
-  :CITE-KEY: GCK:42
+  :cite-key: GCK:42
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Taskar sama tumi niye jao hiya dhan
 * Swapan Niye Chahi Je Ami Thakite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1993
-  :CITE-KEY: GCK:43
+  :cite-key: GCK:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Swapan nabhe amai habe rakhite
 * Swapan Akashe Urite Chahigo Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1993
-  :CITE-KEY: GCK:44
+  :cite-key: GCK:44
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ marite chahina ei dharatale nithur hatase
 * Ore Amar Maner Kata Ban Pira Dayi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1993
-  :CITE-KEY: GCK:45
+  :cite-key: GCK:45
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Piradayi tumi anukkhan
 * Jara Amai Base Bhalo Chaina Tader
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1993
-  :CITE-KEY: GCK:46
+  :cite-key: GCK:46
   :END:
 
 #+BEGIN_VERSE

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1382
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: MYSU
-  :GENRE: song
+  :book-number: 1382
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: MYSU
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MYSU:1e1
+  :genre: note
+  :cite-key: MYSU:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MYSU:1e2
+  :genre: note
+  :cite-key: MYSU:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Marathon I Run
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-11-1998
-  :CITE-KEY: MYSU:1
+  :cite-key: MYSU:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ To be the smile of Your Infinity’s Dawn.
 * My Lord Beloved Supreme, Smile, Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-02-1999
-  :CITE-KEY: MYSU:2
+  :cite-key: MYSU:2
   :END:
 
 #+BEGIN_VERSE
@@ -84,10 +84,10 @@ My Lord Beloved Supreme.
 * Your Newness Does Not Satisfy Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-02-1999
-  :CITE-KEY: MYSU:3
+  :cite-key: MYSU:3
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ My Supreme, my Supreme, my Supreme!
 * My Supreme, Every Day I Pray to You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1999
-  :CITE-KEY: MYSU:4
+  :cite-key: MYSU:4
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ My Supreme, my Supreme, my Supreme!
 * I Am Happy When You Guide My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1999
-  :CITE-KEY: MYSU:5
+  :cite-key: MYSU:5
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ My Supreme, my Supreme, my Supreme!
 * Smile, Smile, Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1999
-  :CITE-KEY: MYSU:6
+  :cite-key: MYSU:6
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ My Supreme, my Supreme, my Supreme!
 * I Love You Only, Only, Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-10-1999
-  :CITE-KEY: MYSU:7
+  :cite-key: MYSU:7
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ My Supreme, my Supreme, my Supreme!
 * Why Do You Not Love Me Any More?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-10-1999
-  :CITE-KEY: MYSU:8
+  :cite-key: MYSU:8
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ My Supreme, my Supreme, my Supreme!
 * Who Can Console You?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-10-1999
-  :CITE-KEY: MYSU:9
+  :cite-key: MYSU:9
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ My Supreme, my Supreme, my Supreme!
 * My Heart’s Streaming Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-10-1999
-  :CITE-KEY: MYSU:10
+  :cite-key: MYSU:10
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ My Supreme, my Supreme, my Supreme!
 * My Soul Has Zero Tolerance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:11
+  :cite-key: MYSU:11
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ My Supreme, my Supreme, my Supreme!
 * I Must Not Choose Joys
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:12
+  :cite-key: MYSU:12
   :END:
 
 #+BEGIN_VERSE
@@ -285,10 +285,10 @@ My Supreme, my Supreme, my Supreme!
 * My God-Oneness-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:13
+  :cite-key: MYSU:13
   :END:
 
 #+BEGIN_VERSE
@@ -304,10 +304,10 @@ My Supreme, my Supreme, my Supreme!
 * My Prayer Is My Oneness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:14
+  :cite-key: MYSU:14
   :END:
 
 #+BEGIN_VERSE
@@ -323,10 +323,10 @@ My Supreme, my Supreme, my Supreme!
 * My Only Happiness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:15
+  :cite-key: MYSU:15
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ My Supreme, my Supreme, my Supreme!
 * My Supreme, Today I Am Determined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:16
+  :cite-key: MYSU:16
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ My Supreme, my Supreme, my Supreme!
 * My Supreme, the More Faith I Have in You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:17
+  :cite-key: MYSU:17
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ My Supreme, my Supreme, my Supreme!
 * I Become the Tower of Strength
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:18
+  :cite-key: MYSU:18
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ My Supreme, my Supreme, my Supreme!
 * The Earthly Calendar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-10-1999
-  :CITE-KEY: MYSU:19
+  :cite-key: MYSU:19
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ My Supreme, my Supreme, my Supreme!
 * Success-Speed-Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:20
+  :cite-key: MYSU:20
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ My Supreme, my Supreme, my Supreme!
 * My Surrender-Soil
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:21
+  :cite-key: MYSU:21
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ My Supreme, my Supreme, my Supreme!
 * An Ever-Blossoming God-Gratitude-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:22
+  :cite-key: MYSU:22
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ My Supreme, my Supreme, my Supreme!
 * May All My God-Dreams Blossom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:23
+  :cite-key: MYSU:23
   :END:
 
 #+BEGIN_VERSE
@@ -498,10 +498,10 @@ My Supreme, my Supreme, my Supreme!
 * My Joy Knows No Bounds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:24
+  :cite-key: MYSU:24
   :END:
 
 #+BEGIN_VERSE
@@ -518,10 +518,10 @@ My Supreme, my Supreme, my Supreme!
 * Eternity’s God-Aspiration-Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:25
+  :cite-key: MYSU:25
   :END:
 
 #+BEGIN_VERSE
@@ -536,10 +536,10 @@ My Supreme, my Supreme, my Supreme!
 * A Most Peaceful Evening Sunset-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:26
+  :cite-key: MYSU:26
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ My Supreme, my Supreme, my Supreme!
 * A Most Beautiful Morning Sunrise-Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:27
+  :cite-key: MYSU:27
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ My Supreme, my Supreme, my Supreme!
 * When My Life Becomes a Desire-Beggar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:28
+  :cite-key: MYSU:28
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ My Supreme, my Supreme, my Supreme!
 * What a Fool I Am
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:29
+  :cite-key: MYSU:29
   :END:
 
 #+BEGIN_VERSE
@@ -612,10 +612,10 @@ My Supreme, my Supreme, my Supreme!
 * My Supreme, May My Heart Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:30
+  :cite-key: MYSU:30
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ My Supreme, my Supreme, my Supreme!
 * I Was Born to Be a Lover of Your Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:31
+  :cite-key: MYSU:31
   :END:
 
 #+BEGIN_VERSE
@@ -651,10 +651,10 @@ My Supreme, my Supreme, my Supreme!
 * The Human Birth Is an Unknown Journey
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1999
-  :CITE-KEY: MYSU:32
+  :cite-key: MYSU:32
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ My Supreme, my Supreme, my Supreme!
 * My Master-Lord, I Came into the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:33
+  :cite-key: MYSU:33
   :END:
 
 #+BEGIN_VERSE
@@ -688,10 +688,10 @@ I came into the world to be Your fondness-toy.
 * My Master-Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:34
+  :cite-key: MYSU:34
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Now all delight, delight.
 * Make Me Your Fastest Devotion-Magnet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:35
+  :cite-key: MYSU:35
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ I shall live only in Your Heart-made net.
 * Your Heart’s Smiling and Flying Face
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:36
+  :cite-key: MYSU:36
   :END:
 
 #+BEGIN_VERSE
@@ -743,10 +743,10 @@ Is my life’s only Salvation-Grace.
 * My Master-Lord, I Love Your Eyes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:37
+  :cite-key: MYSU:37
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Where my ancient soul, my modern life meet.
 * My Master-Lord, Your Choice Was My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:38
+  :cite-key: MYSU:38
   :END:
 
 #+BEGIN_VERSE
@@ -780,10 +780,10 @@ To save my life from its bondage-voice.
 * I Shall Fell My Ignorance-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-07-1996
-  :CITE-KEY: MYSU:39
+  :cite-key: MYSU:39
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ To run and dive and fly with You, free.
 * My Morning Begins
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1996
-  :CITE-KEY: MYSU:40
+  :cite-key: MYSU:40
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +817,10 @@ Of my Lord Beloved Supreme.
 * A God-Gratitude-Silence-Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1996
-  :CITE-KEY: MYSU:41
+  :cite-key: MYSU:41
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ God-gratitude-silence-moment.
 * A Rainbow-Dancing Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1996
-  :CITE-KEY: MYSU:42
+  :cite-key: MYSU:42
   :END:
 
 #+BEGIN_VERSE
@@ -852,10 +852,10 @@ Rainbow-dancing delight.
 * My Morning Begins With the Vision
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1996
-  :CITE-KEY: MYSU:43
+  :cite-key: MYSU:43
   :END:
 
 #+BEGIN_VERSE
@@ -870,10 +870,10 @@ Of my rose-heart-garden.
 * My Master Dies and Dies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-02-1997
-  :CITE-KEY: MYSU:44
+  :cite-key: MYSU:44
   :END:
 
 #+BEGIN_VERSE
@@ -889,10 +889,10 @@ To blossom a smile on my Master’s Face.
 * Every Year I Vote
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:45
+  :cite-key: MYSU:45
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ For oneness-peace-candidate.
 * You Say You Are a Total Failure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:46
+  :cite-key: MYSU:46
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ I say you are God’s future hope.
 * Finally, My Heart-Blossoms Have Replaced
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:47
+  :cite-key: MYSU:47
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ Have replaced my mind-weeds.
 * May My Mind Awake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:48
+  :cite-key: MYSU:48
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Of endless self-doubts.
 * Every Compromise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:49
+  :cite-key: MYSU:49
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ Is a tragedy in disguise.
 * Not My Mind, But My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:50
+  :cite-key: MYSU:50
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Hears each God-Whisper.
 * Each Time I Pray, My Lord Shakes Hands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:51
+  :cite-key: MYSU:51
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ My Beloved embraces me.
 * My Readiness Takes and Takes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-11-1997
-  :CITE-KEY: MYSU:52
+  :cite-key: MYSU:52
   :END:
 
 #+BEGIN_VERSE

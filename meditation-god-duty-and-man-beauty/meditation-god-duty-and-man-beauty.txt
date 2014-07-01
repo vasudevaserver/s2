@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0195
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGDM
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0195
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: MGDM
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- What is meditation?
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGDM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MGDM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * What is meditation?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGDM:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MGDM:1
   :END:
 
 
@@ -63,18 +63,18 @@ Again, I wish to say that in the process evolution no human being will remain un
 * Part II -- Question and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGDM:2e1
+  :genre: section
+  :keywords:
+  :cite-key: MGDM:2e1
   :END:
 
 
 * Question: What is the aim of meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:2
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:2
   :END:
 
 
@@ -98,9 +98,9 @@ Ananda means Delight. God is Delight. When an aspirant realises God, he realises
 * Question: What do we learn from meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:3
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:3
   :END:
 
 
@@ -117,9 +117,9 @@ This opportunity is given to everyone, but unfortunately, most of us do not try 
 * Question: What benefit can we get from meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:4
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:4
   :END:
 
 
@@ -140,9 +140,9 @@ We get divine peace through meditation. Even if we meditate for fifteen minutes 
 * Question: Can you go to the spiritual world through meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:5
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:5
   :END:
 
 
@@ -155,9 +155,9 @@ In the physical world, one person is on the animal level, another is on the huma
 * Question: Does spiritual awareness come only through meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:6
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:6
   :END:
 
 
@@ -170,9 +170,9 @@ But generally it is through meditation that one can become aware of one's inner 
 * Question: What do you mean by God-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:7
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:7
   :END:
 
 
@@ -185,9 +185,9 @@ When the seeker becomes one with God, God uses him to fulfil the need of humanit
 * Question: What is the highest meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:8
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:8
   :END:
 
 
@@ -200,9 +200,9 @@ In Light, vision and reality go together. Now you are sitting there and I am sta
 * Question: What are the stages of meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:9
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:9
   :END:
 
 
@@ -235,9 +235,9 @@ When you are contemplating, you will feel that you are dealing with three sublim
 * Question: Do we see God in contemplation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:10
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:10
   :END:
 
 
@@ -248,9 +248,9 @@ When you are contemplating, you will feel that you are dealing with three sublim
 * Question: Could you please discuss how contemplation differs from meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:11
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:11
   :END:
 
 
@@ -263,9 +263,9 @@ In contemplation it is not like that. The entire universe, the Goal, the farthes
 * Question: After we have finished meditating, how do we go about contemplating?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:12
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:12
   :END:
 
 
@@ -278,9 +278,9 @@ Contemplation is required before God-realisation. It cannot be ignored or avoide
 * Question: Could you explain the difference between meditation and thinking?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:13
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:13
   :END:
 
 
@@ -293,9 +293,9 @@ Even reflection, which is a quiet kind of introspective thinking, is far from th
 * Question: What is Light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:14
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:14
   :END:
 
 
@@ -310,9 +310,9 @@ If we live in the heart, then the heart gives us the message of identification. 
 * Question: Our path is the path of love, devotion, and surrender. Can there be oneness with each of these qualities, or does real oneness come only in surrender?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:15
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:15
   :END:
 
 
@@ -331,9 +331,9 @@ Who has silence? He who is firmly established. When a man can feel that he has a
 * Question: Is dynamic silence really divine action, that is, doing the Will of God by serving man?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:16
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:16
   :END:
 
 
@@ -346,9 +346,9 @@ Some people only want to meditate. They do not want to give anything to the worl
 * Question: Is inner silence equated with prayer and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:17
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:17
   :END:
 
 
@@ -359,9 +359,9 @@ Some people only want to meditate. They do not want to give anything to the worl
 * Question: When you meditate for people can you see their souls and can you lift them to a higher level of consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:18
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:18
   :END:
 
 
@@ -372,9 +372,9 @@ Some people only want to meditate. They do not want to give anything to the worl
 * Question: It seems that beauty and meditation always go together. Could you say a few words about beauty and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:19
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:19
   :END:
 
 
@@ -385,9 +385,9 @@ Some people only want to meditate. They do not want to give anything to the worl
 * Question: Does meditation include healing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:20
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:20
   :END:
 
 
@@ -402,9 +402,9 @@ A realised soul only heals when God asks him to do so. He knows that in the cosm
 * Question: Through meditation is one able to create or master psychic powers?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:21
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:21
   :END:
 
 
@@ -417,9 +417,9 @@ But when one becomes perfect, when one realises God, if then one starts using ps
 * Question: If we have an experience which we feel may be coming from God, how do we know whether we are experiencing God, the Devil, or something from our own imagination?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:22
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:22
   :END:
 
 
@@ -430,9 +430,9 @@ But when one becomes perfect, when one realises God, if then one starts using ps
 * Question: How can you tell the difference between true intuition and imagination?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:23
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:23
   :END:
 
 
@@ -445,9 +445,9 @@ Try to feel that there is a burning flame inside you which is mounting up all th
 * Question: How do I know that while meditating I am entering into a higher plane and that it is not just my imagination?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:24
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:24
   :END:
 
 
@@ -460,9 +460,9 @@ When it is your imagination, you will get a very sweet feeling for a few minutes
 * Question: How do we know what plane of consciousness we are in during meditation? Is there a limit to the planes that we can reach?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:25
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:25
   :END:
 
 
@@ -479,9 +479,9 @@ There is no limit to the planes we can reach. Your spiritual Master can tell you
 * Question: When does a person know that he has control of the vital plane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:26
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:26
   :END:
 
 
@@ -494,9 +494,9 @@ How can one know? One can know only when one sees through the eye of the soul. Y
 * Question: How can I tell if my inner experiences are genuine or fake?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:27
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:27
   :END:
 
 
@@ -517,9 +517,9 @@ Real experience comes only when you sincerely want and need the inner life and w
 * Question: When I have an experience, how do I know that my soul is working through the experience?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:28
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:28
   :END:
 
 
@@ -530,9 +530,9 @@ Real experience comes only when you sincerely want and need the inner life and w
 * Question: Then in my case I am living in my unconscious mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:29
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:29
   :END:
 
 
@@ -543,9 +543,9 @@ Real experience comes only when you sincerely want and need the inner life and w
 * Question: Something positive is happening because I definitely feel an inner joy. I have not seen anything; all I know is that I have this feeling inside.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:30
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:30
   :END:
 
 
@@ -556,9 +556,9 @@ Real experience comes only when you sincerely want and need the inner life and w
 * Question: How can I tell if I really want God? And how do I know whether I am hearing God's Voice or the voice of the devil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGDM:31
+  :genre: qa
+  :keywords:
+  :cite-key: MGDM:31
   :END:
 
 

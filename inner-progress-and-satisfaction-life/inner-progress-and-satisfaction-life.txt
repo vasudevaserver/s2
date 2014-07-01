@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0325
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1977
- :PUBLISHER: Agni Press
- :CITE-KEY: IPSL
- :GENRE: story, qa
- :KEYWORDS:
+ :book-number: 0325
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1977
+ :publisher: Agni Press
+ :cite-key: IPSL
+ :genre: story, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPSL:1e1
+ :genre: section
+ :keywords:
+ :cite-key: IPSL:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The disciples' inspiration-power
 
  :PROPERTIES:
- :GENRE: story
- :KEYWORDS:
- :CITE-KEY: IPSL:1
+ :genre: story
+ :keywords:
+ :cite-key: IPSL:1
   :END:
 
 
@@ -75,9 +75,9 @@ The Master said, "What is most important? Inspiration is most important. When yo
 * Newness and transcendence
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: IPSL:2
+ :genre: discourse
+ :keywords:
+ :cite-key: IPSL:2
   :END:
 
 
@@ -98,9 +98,9 @@ So it is only with newness, newness at every moment in life, that you can succee
 * Part II -- Two divine wings: inspiration and aspiration
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPSL:3e1
+ :genre: section
+ :keywords:
+ :cite-key: IPSL:3e1
   :END:
 
 
@@ -108,9 +108,9 @@ So it is only with newness, newness at every moment in life, that you can succee
 * Question: Can inspiration be controlled?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:3
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:3
   :END:
 
 
@@ -121,9 +121,9 @@ So it is only with newness, newness at every moment in life, that you can succee
 * Question: Could you speak on the relationship between inspiration and creation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:4
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:4
   :END:
 
 
@@ -134,9 +134,9 @@ So it is only with newness, newness at every moment in life, that you can succee
 * Question: Does the Guru play the role of inspiration or aspiration in the disciple?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:5
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:5
   :END:
 
 
@@ -149,9 +149,9 @@ So, when you are in front of me, mostly it is inspiration that you get from me. 
 * Question: What is aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:6
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:6
   :END:
 
 
@@ -162,9 +162,9 @@ So, when you are in front of me, mostly it is inspiration that you get from me. 
 * Question: Could you speak more about aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:7
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:7
   :END:
 
 
@@ -194,9 +194,9 @@ That is the message we can get from our aspiration. Again, aspiration takes us i
 * Question: Is there aspiration in each part of us: soul, heart, mind, vital and physical?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:8
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:8
   :END:
 
 
@@ -207,9 +207,9 @@ That is the message we can get from our aspiration. Again, aspiration takes us i
 * Question: How can aspiration transform our body, vital and mind?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:9
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:9
   :END:
 
 
@@ -228,9 +228,9 @@ So if we practise the spiritual life, then we will get this kind of active body,
 * Question: How can we have a free access to the higher worlds?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:10
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:10
   :END:
 
 
@@ -241,9 +241,9 @@ So if we practise the spiritual life, then we will get this kind of active body,
 * Question: How can we increase our need for God?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:11
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:11
   :END:
 
 
@@ -258,9 +258,9 @@ So, to come back to your question, your need for God will increase immediately w
 * Question: What is the relationship between individual aspiration and collective aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:12
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:12
   :END:
 
 
@@ -273,9 +273,9 @@ In the field of aspiration, in the field of realisation, individuality and colle
 * Question: Does meditating in a group improve our aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:13
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:13
   :END:
 
 
@@ -288,9 +288,9 @@ It is absolutely true that the disciples contribute much to our collective aspir
 * Question: How can we increase our aspiration and strengthen our meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:14
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:14
   :END:
 
 
@@ -303,9 +303,9 @@ Again, the highest type of meditation depends on the seeker's own spiritual atta
 * Question: What is the relationship between aspiration and acceptance? There seems to be an aspiration which expends all its effort in the direction of rising, but it seems that there is also a time to accept and be still and let the influence of the higher forces come in.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:15
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:15
   :END:
 
 
@@ -318,9 +318,9 @@ So, acceptance means that we allow the divine Grace to descend fully into us wit
 * Question: How can I renew my aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:16
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:16
   :END:
 
 
@@ -333,9 +333,9 @@ When you feel that you have to solve your problems, then you can never renew you
 * Question: Since everything will happen at God's Hour, why bother to aspire?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:17
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:17
   :END:
 
 
@@ -352,9 +352,9 @@ So our human faith in God's Promise is also like that. One day we will realise G
 * Question: How can we maintain continuous aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:18
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:18
   :END:
 
 
@@ -365,9 +365,9 @@ So our human faith in God's Promise is also like that. One day we will realise G
 * Question: In our Centre a number of people are unhealthy. Is it because they are not aspiring?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:19
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:19
   :END:
 
 
@@ -378,9 +378,9 @@ So our human faith in God's Promise is also like that. One day we will realise G
 * Question: Can you suggest some techniques for increasing one's heart-power?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:20
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:20
   :END:
 
 
@@ -391,9 +391,9 @@ So our human faith in God's Promise is also like that. One day we will realise G
 * Question: Lately I've been conscious of a number of obstructions in my outer life.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:21
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:21
   :END:
 
 
@@ -408,9 +408,9 @@ The very tendency of ordinary human life is to unconsciously cherish the undivin
 * Part III -- Inner progress and satisfaction-life
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPSL:22e1
+ :genre: section
+ :keywords:
+ :cite-key: IPSL:22e1
   :END:
 
 
@@ -418,9 +418,9 @@ The very tendency of ordinary human life is to unconsciously cherish the undivin
 * Question: How can I be assured of making good progress if my past was not at all aspiring?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:22
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:22
   :END:
 
 
@@ -431,9 +431,9 @@ The very tendency of ordinary human life is to unconsciously cherish the undivin
 * Question: How can we make the fastest progress?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:23
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:23
   :END:
 
 
@@ -444,9 +444,9 @@ The very tendency of ordinary human life is to unconsciously cherish the undivin
 * Question: How should couples aspire in the spiritual life?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:24
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:24
   :END:
 
 
@@ -469,9 +469,9 @@ Again, temporarily, on the way, if God wants to unite two souls as husband and w
 * Question: Guru, I've often wondered how we can be certain in our next incarnation to remember to do whatever it is that you asked us to do before we came?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:25
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:25
   :END:
 
 
@@ -494,9 +494,9 @@ I wish to say that the future is not something ahead of us; it is something insi
 * Question: What is the best way to meditate so that we can be spiritually strong? And if we become spiritually weak, how can we regain our strength?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPSL:26
+ :genre: qa
+ :keywords:
+ :cite-key: IPSL:26
   :END:
 
 

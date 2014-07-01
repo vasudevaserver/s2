@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 899
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: MSLJ
-  :GENRE: song
+  :book-number: 899
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: MSLJ
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MSLJ:1e1
+  :genre: note
+  :cite-key: MSLJ:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MSLJ:1e2
+  :genre: note
+  :cite-key: MSLJ:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bhagaban... Toma Majhe Halo Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:1
+  :cite-key: MSLJ:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Bedanar abasan
 * Bhagaban.. Chahi Taba Khama Dan Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:2
+  :cite-key: MSLJ:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Chahi taba khama dan kripa dan
 * Bhagaban.. Magi Mor Ahamika Tirodhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:3
+  :cite-key: MSLJ:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Magi mor ahamika tirodhan
 * Bhagaban... Dhara Buke Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:4
+  :cite-key: MSLJ:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ Amarar sandhan
 * Bhagaban... Bhaye Bhaye Nahi Jena Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:5
+  :cite-key: MSLJ:5
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ Hay ami mriyaman
 * Bhagaban.... Kripa Kare Karo Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:6
+  :cite-key: MSLJ:6
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ Aganita samasya samadhan
 * Bhagaban... Gahi Jena Animeshe Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:7
+  :cite-key: MSLJ:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Shudhu taba jaya gan
 * Bhagaban... Labhi Jena E Jibane Turiyer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:8
+  :cite-key: MSLJ:8
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Turiyer sandhan
 * Bhagaban... Keno Hai Bhule Jai Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:9
+  :cite-key: MSLJ:9
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ Taba kripa aphuran
 * Bhagaban.... Kabe Habe Balo Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:10
+  :cite-key: MSLJ:10
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Bandhan krandan abasan
 * Kothai Tumi Kothai Ami Premer Thakur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:11
+  :cite-key: MSLJ:11
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ Tomar kripar jaya gan
 * Bhagabaner Charan Tale Pabo Ami Thai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:12
+  :cite-key: MSLJ:12
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Amar ami nai
 * Kotha Mor Bhagaban Premamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:13
+  :cite-key: MSLJ:13
   :END:
 
 #+BEGIN_VERSE
@@ -287,10 +287,10 @@ Mor deha man pran
 * Bhagabaner Kripa Pele Habe Saphal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:14
+  :cite-key: MSLJ:14
   :END:
 
 #+BEGIN_VERSE
@@ -306,10 +306,10 @@ Maya moher pichu pichu
 * Balte Habe Pratikhane Bhagabaner Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:15
+  :cite-key: MSLJ:15
   :END:
 
 #+BEGIN_VERSE
@@ -325,10 +325,10 @@ Maner chapalata
 * Param Prabhu Bhagabaner Sathe Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:16
+  :cite-key: MSLJ:16
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ Chalte habe balte habe diba rate
 * He Bhagaban.. Bhagaban Kothai Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:17
+  :cite-key: MSLJ:17
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Mukti tripti aphuran
 * Amar Bhagaban.. Laho Kanna Mor Laho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:18
+  :cite-key: MSLJ:18
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Laho amar pran
 * He Bhagaban He Bhagaban Abahele Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:19
+  :cite-key: MSLJ:19
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Baste pari charan tale
 * Bhagabaner Kripa Shishu Amar Parichoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:20
+  :cite-key: MSLJ:20
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Bhagabaner joy
 * Shanti Sudha Dao Amare Param Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:21
+  :cite-key: MSLJ:21
   :END:
 
 #+BEGIN_VERSE
@@ -437,10 +437,10 @@ Karbo ami atmadan
 * Kotha Tumi Ogo Mor Bhagaban Kotha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:22
+  :cite-key: MSLJ:22
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Taba pada chumi
 * Je Peyeche Bhagabaner Kripa Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:23
+  :cite-key: MSLJ:23
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ Tahar prane nahi rabe kono ama
 * Asimata Amarata Bhagabaner Karuna Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:24
+  :cite-key: MSLJ:24
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Bhitar bahir mrityubhan
 * Ekla Ami Jaina Kabhu Bhagabaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:25
+  :cite-key: MSLJ:25
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ Taito jani nache
 * Mor Bhagaban Khuliyache Aji Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:26
+  :cite-key: MSLJ:26
   :END:
 
 #+BEGIN_VERSE
@@ -530,10 +530,10 @@ Basanar karagar
 * Pushpa Sama Chitta Mama Phuteche Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:27
+  :cite-key: MSLJ:27
   :END:
 
 #+BEGIN_VERSE
@@ -549,10 +549,10 @@ Amar anan amar nayan jibane
 * Japi Abiram Bhagaban Nam Japi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:28
+  :cite-key: MSLJ:28
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Turiyananda dham
 * Amar Prabhu Bhagabaner Nayan Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:29
+  :cite-key: MSLJ:29
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ Paran bhare gahi tahar joy
 * Bhagabaner Khamar Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:30
+  :cite-key: MSLJ:30
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Agyanatar desh
 * Ati Sujatane Rekhecho Amare Sri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:31
+  :cite-key: MSLJ:31
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Bedanar abasan
 * Jogyata Mor Nahi Chahe Bhagaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:32
+  :cite-key: MSLJ:32
   :END:
 
 #+BEGIN_VERSE
@@ -644,10 +644,10 @@ Akuti hiyar dan
 * Puta Dehe Jabo Ami Bhagabaner Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:33
+  :cite-key: MSLJ:33
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ Nache aji nache
 * Nami Tomai Bhakti Bhare Param Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:34
+  :cite-key: MSLJ:34
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ Gaibo taba jaya gan
 * Swapane Khunjibo Swapane Pujibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:35
+  :cite-key: MSLJ:35
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Bhidhatar jaya gane
 * Baroi Bhalo Lage Amar Balte Bhagabaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:36
+  :cite-key: MSLJ:36
   :END:
 
 #+BEGIN_VERSE
@@ -720,10 +720,10 @@ Baroi tibra byakulata
 * Bhagabaner Chinta Bina Anya Chinta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:37
+  :cite-key: MSLJ:37
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ Anya charan dharbona
 * Basanare Sampi Chiratare Aji Bhagaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:38
+  :cite-key: MSLJ:38
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Amita sahas bale
 * Je Peyeche Bhagabaner Khama Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:39
+  :cite-key: MSLJ:39
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ Badhar bandhan nashi
 * Mor Bhagaban Chinta Sagare Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:40
+  :cite-key: MSLJ:40
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Charane amar amire sampite
 * Ebar Ami Shanto Habo Bhagabaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:41
+  :cite-key: MSLJ:41
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Jibane ar marane
 * Animeshe Kandte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:42
+  :cite-key: MSLJ:42
   :END:
 
 #+BEGIN_VERSE
@@ -834,10 +834,10 @@ Param anuragi
 * Bhagaban Niye Jao Mor Pap Niye Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:43
+  :cite-key: MSLJ:43
   :END:
 
 #+BEGIN_VERSE
@@ -853,10 +853,10 @@ Toma pane druta bege shudhu chuti
 * Shishur Mato Kandbo Jakhan Bhagabaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:44
+  :cite-key: MSLJ:44
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Prabhur bijoy giti gabo
 * Bhakati Janai Pranati Janai Amar Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1993
-  :CITE-KEY: MSLJ:45
+  :cite-key: MSLJ:45
   :END:
 
 #+BEGIN_VERSE

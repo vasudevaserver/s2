@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1585
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2009
-  :PUBLISHER:
-  :CITE-KEY: YFMD
-  :GENRE: song
+  :book-number: 1585
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2009
+  :publisher:
+  :cite-key: YFMD
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YFMD:1e1
+  :genre: note
+  :cite-key: YFMD:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: YFMD:1e2
+  :genre: note
+  :cite-key: YFMD:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Mukti Bagan Dake Anupan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:1
+  :cite-key: YFMD:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Bishal amar kripar hiyai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:2
+  :cite-key: YFMD:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Compassion-Heart.”
 * Liberation-Sky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:3
+  :cite-key: YFMD:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ My boundless compassion-heart.”
 * Simar Majhe Asim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:4
+  :cite-key: YFMD:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Simar buke prashphutibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:5
+  :cite-key: YFMD:5
   :END:
 
 #+BEGIN_VERSE
@@ -130,10 +130,10 @@ Shall unmistakably blossom.
 * The Delight-Dream of the Absolute Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:6
+  :cite-key: YFMD:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ Shall unmistakably blossom.
 * Sure Sure Hiya Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:7
+  :cite-key: YFMD:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ Bandhbo nashbo aj
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:8
+  :cite-key: YFMD:8
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Today I shall slowly and slowly
 * Singing Sweet and Melodious Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:9
+  :cite-key: YFMD:9
   :END:
 
 #+BEGIN_VERSE
@@ -203,10 +203,10 @@ Bind and destroy my ego-life.
 * Tomar Anan Amar Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:10
+  :cite-key: YFMD:10
   :END:
 
 #+BEGIN_VERSE
@@ -220,10 +220,10 @@ Tomar ketan amar sharan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:11
+  :cite-key: YFMD:11
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ Of my aspiration-dedication.
 * Your Face Is My Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:12
+  :cite-key: YFMD:12
   :END:
 
 #+BEGIN_VERSE
@@ -258,10 +258,10 @@ Of my aspiration-dedication.
 * Manab Jiban Manab Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:13
+  :cite-key: YFMD:13
   :END:
 
 #+BEGIN_VERSE
@@ -275,10 +275,10 @@ Puta abiram lila
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:14
+  :cite-key: YFMD:14
   :END:
 
 #+BEGIN_VERSE
@@ -293,10 +293,10 @@ Of the Absolute Lord’s Transcendental Dream.
 * Human Life and Human Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:15
+  :cite-key: YFMD:15
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Of the Absolute Lord’s Transcendental Dream.
 * Kanna Lagi Nidra Jagi Haye Bibhagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:16
+  :cite-key: YFMD:16
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ Kanna kothai kanna kanna lagi nidra jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:17
+  :cite-key: YFMD:17
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ My heart’s inner cry?
 * Renouncing Everything
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:18
+  :cite-key: YFMD:18
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ My heart’s inner cry?
 * Nai Je Samoy Kemane Abhoy Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:19
+  :cite-key: YFMD:19
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Kemane chira madhumoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:20
+  :cite-key: YFMD:20
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Eternity’s delight, how can I be?
 * No Time Left
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:21
+  :cite-key: YFMD:21
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Eternity’s delight, how can I be?
 * Payer Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:22
+  :cite-key: YFMD:22
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Sab kichutei hai byarthata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:23
+  :cite-key: YFMD:23
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ Alas, in everything my life is a fruitless failure.
 * O My Leg Pain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:24
+  :cite-key: YFMD:24
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Alas, in everything my life is a fruitless failure.
 * Bhitar Bahir Mitthya Prachir Nahi Pratiti Manab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:25
+  :cite-key: YFMD:25
   :END:
 
 #+BEGIN_VERSE
@@ -488,10 +488,10 @@ Nahi pratiti manab badhir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:26
+  :cite-key: YFMD:26
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ And man on purpose hears not.
 * Within and Without
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:27
+  :cite-key: YFMD:27
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ And man on purpose hears not.
 * Bhitare Eshana Shikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:28
+  :cite-key: YFMD:28
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ Taito manab jatana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:29
+  :cite-key: YFMD:29
   :END:
 
 #+BEGIN_VERSE
@@ -557,10 +557,10 @@ Therefore, man is his agony.
 * Within, Aspiration-Flames
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:30
+  :cite-key: YFMD:30
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Therefore, man is his agony.
 * Nikhila Sharana Amiya Nayana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:31
+  :cite-key: YFMD:31
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Amare bandhiya rakho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:32
+  :cite-key: YFMD:32
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +608,10 @@ Keep binding me.
 * O World-Haven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:33
+  :cite-key: YFMD:33
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Keep binding me.
 * Abanir Majhi Hiyaphulla Saji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:34
+  :cite-key: YFMD:34
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Tomare sanpinu tomare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:35
+  :cite-key: YFMD:35
   :END:
 
 #+BEGIN_VERSE
@@ -660,10 +660,10 @@ To You I offer, to You.
 * O World-Pilot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:36
+  :cite-key: YFMD:36
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ To You I offer, to You.
 * Bedanar Sheshe Ranjana Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:37
+  :cite-key: YFMD:37
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Swaruper khunjiya pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:38
+  :cite-key: YFMD:38
   :END:
 
 #+BEGIN_VERSE
@@ -712,10 +712,10 @@ My self-form I shall discover.
 * At the End of My Excruciating Pangs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:39
+  :cite-key: YFMD:39
   :END:
 
 #+BEGIN_VERSE
@@ -730,10 +730,10 @@ My self-form I shall discover.
 * Kemane Kandibo Kemane Hasibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:40
+  :cite-key: YFMD:40
   :END:
 
 #+BEGIN_VERSE
@@ -746,10 +746,10 @@ Jibane marane nahi jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:41
+  :cite-key: YFMD:41
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ In life and death.
 * I Know Not How to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:42
+  :cite-key: YFMD:42
   :END:
 
 #+BEGIN_VERSE
@@ -782,10 +782,10 @@ In life and death.
 * Maner Rate Hiyar Prate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:43
+  :cite-key: YFMD:43
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ Thakur tumi sathe sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:44
+  :cite-key: YFMD:44
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ With me You always stay.
 * In My Mind-Night, in My Heart-Dawn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:45
+  :cite-key: YFMD:45
   :END:
 
 #+BEGIN_VERSE
@@ -832,10 +832,10 @@ With me You always stay.
 * Khandan Kare Bandhan Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:46
+  :cite-key: YFMD:46
   :END:
 
 #+BEGIN_VERSE
@@ -848,10 +848,10 @@ Nandan priya karo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:47
+  :cite-key: YFMD:47
   :END:
 
 #+BEGIN_VERSE
@@ -865,10 +865,10 @@ To make me Your fondest child.
 * Break Asunder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:48
+  :cite-key: YFMD:48
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ To make me Your fondest child.
 * Eso Dibakara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:49
+  :cite-key: YFMD:49
   :END:
 
 #+BEGIN_VERSE
@@ -899,10 +899,10 @@ Eso ambara eso
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:50
+  :cite-key: YFMD:50
   :END:
 
 #+BEGIN_VERSE
@@ -917,10 +917,10 @@ O sky, come to me.
 * O Daylight Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:51
+  :cite-key: YFMD:51
   :END:
 
 #+BEGIN_VERSE
@@ -935,10 +935,10 @@ O sky, come to me.
 * Sabare Tushite Tomare Dakite Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:52
+  :cite-key: YFMD:52
   :END:
 
 #+BEGIN_VERSE
@@ -951,10 +951,10 @@ Tomare pujite habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:53
+  :cite-key: YFMD:53
   :END:
 
 #+BEGIN_VERSE
@@ -968,10 +968,10 @@ I must worship You.
 * To Please Everybody
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:54
+  :cite-key: YFMD:54
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ I must worship You.
 * Madhur Swapan Madhur Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:55
+  :cite-key: YFMD:55
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ Madhur maran hok
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:56
+  :cite-key: YFMD:56
   :END:
 
 #+BEGIN_VERSE
@@ -1021,10 +1021,10 @@ May my death be sweet.
 * May My Dream Be Sweet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:57
+  :cite-key: YFMD:57
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ May my death be sweet.
 * Bandhan Hara Shanti Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:58
+  :cite-key: YFMD:58
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ Dakiche aji dakiche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:59
+  :cite-key: YFMD:59
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ Again and again is calling me today.
 * The Flow of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1984
-  :CITE-KEY: YFMD:60
+  :cite-key: YFMD:60
   :END:
 
 #+BEGIN_VERSE
@@ -1089,10 +1089,10 @@ Again and again is calling me today.
 * Ami Durbal Ami Asahai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:61
+  :cite-key: YFMD:61
   :END:
 
 #+BEGIN_VERSE
@@ -1107,10 +1107,10 @@ Tomar bijoy gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:62
+  :cite-key: YFMD:62
   :END:
 
 #+BEGIN_VERSE
@@ -1127,10 +1127,10 @@ Your Victory Song?
 * I Am Weak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:63
+  :cite-key: YFMD:63
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Your Victory Song?
 * Kandite Chahina Hasite Chahina Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:64
+  :cite-key: YFMD:64
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Chahi shudhu more sampite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:65
+  :cite-key: YFMD:65
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ Only surrender.
 * No Crying, No Smiling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-08-1989
-  :CITE-KEY: YFMD:66
+  :cite-key: YFMD:66
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ Only surrender.
 * Balo Balo Balo Balo Nath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:67
+  :cite-key: YFMD:67
   :END:
 
 #+BEGIN_VERSE
@@ -1213,10 +1213,10 @@ Ekhano samoy ache tomare tushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:68
+  :cite-key: YFMD:68
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Still there is time to please You.
 * Still There Is Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:69
+  :cite-key: YFMD:69
   :END:
 
 #+BEGIN_VERSE
@@ -1247,10 +1247,10 @@ Still there is time to please You.
 * Nil Bharidhir Gabhir Hiyai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:70
+  :cite-key: YFMD:70
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Dekha amar pabe go
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:71
+  :cite-key: YFMD:71
   :END:
 
 #+BEGIN_VERSE
@@ -1280,10 +1280,10 @@ You can find me.
 * Inside the Deep Heart of the Blue Sea
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:72
+  :cite-key: YFMD:72
   :END:
 
 #+BEGIN_VERSE
@@ -1297,10 +1297,10 @@ You can find me.
 * Ashar Tarani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:73
+  :cite-key: YFMD:73
   :END:
 
 #+BEGIN_VERSE
@@ -1314,10 +1314,10 @@ Sonali jyotir deshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:74
+  :cite-key: YFMD:74
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ To the land of golden light.
 * Hope-Boat, Take Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:75
+  :cite-key: YFMD:75
   :END:
 
 #+BEGIN_VERSE
@@ -1348,10 +1348,10 @@ To the land of golden Light.
 * Baro Bhalo Lage Rakhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:76
+  :cite-key: YFMD:76
   :END:
 
 #+BEGIN_VERSE
@@ -1365,10 +1365,10 @@ Tomar charan tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:77
+  :cite-key: YFMD:77
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ My little ‘i’ at Your Feet.
 * I Deeply Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-1989
-  :CITE-KEY: YFMD:78
+  :cite-key: YFMD:78
   :END:
 
 #+BEGIN_VERSE
@@ -1399,10 +1399,10 @@ My little ‘i’ at Your Feet.
 * Chapal Paran Prashanta Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:79
+  :cite-key: YFMD:79
   :END:
 
 #+BEGIN_VERSE
@@ -1415,10 +1415,10 @@ Ei bharashai achi benche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:80
+  :cite-key: YFMD:80
   :END:
 
 #+BEGIN_VERSE
@@ -1432,10 +1432,10 @@ With this hope I am alive.
 * Restless Vital
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:81
+  :cite-key: YFMD:81
   :END:
 
 #+BEGIN_VERSE
@@ -1449,10 +1449,10 @@ With this hope I am alive.
 * Ashar Pathe Chalar Samay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:82
+  :cite-key: YFMD:82
   :END:
 
 #+BEGIN_VERSE
@@ -1465,10 +1465,10 @@ Baroi pelam byatha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:83
+  :cite-key: YFMD:83
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ I am deeply hurt.
 * Walking Along the Hope-Road
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-08-1989
-  :CITE-KEY: YFMD:84
+  :cite-key: YFMD:84
   :END:
 
 #+BEGIN_VERSE
@@ -1499,10 +1499,10 @@ I am deeply hurt.
 * Bhitare Bahire Amara Moder Gurur Dulali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-08-1989
-  :CITE-KEY: YFMD:85
+  :cite-key: YFMD:85
   :END:
 
 #+BEGIN_VERSE
@@ -1515,10 +1515,10 @@ Gurur dulali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-08-1989
-  :CITE-KEY: YFMD:86
+  :cite-key: YFMD:86
   :END:
 
 #+BEGIN_VERSE
@@ -1532,10 +1532,10 @@ Guru’s fondness-daughters.
 * Our Guru's Fondness-Daughters
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-08-1989
-  :CITE-KEY: YFMD:87
+  :cite-key: YFMD:87
   :END:
 
 #+BEGIN_VERSE
@@ -1550,10 +1550,10 @@ Fondness-daughters.
 * Chaowar Khudha Baroi Pira Dayi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:88
+  :cite-key: YFMD:88
   :END:
 
 #+BEGIN_VERSE
@@ -1565,10 +1565,10 @@ Chaowar khudha baroi piradayi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:89
+  :cite-key: YFMD:89
   :END:
 
 #+BEGIN_VERSE
@@ -1581,10 +1581,10 @@ Desire-hunger ruthlessly torments.
 * Desire-Hunger Ruthlessly Torments
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:90
+  :cite-key: YFMD:90
   :END:
 
 #+BEGIN_VERSE
@@ -1598,10 +1598,10 @@ Ruthlessly torments.
 * Nami Nami Nami Nami Nami Pranami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:91
+  :cite-key: YFMD:91
   :END:
 
 #+BEGIN_VERSE
@@ -1614,10 +1614,10 @@ Nami nami pranami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:92
+  :cite-key: YFMD:92
   :END:
 
 #+BEGIN_VERSE
@@ -1631,10 +1631,10 @@ I bow, I bow to Thee.
 * I Bow, I Bow to Thee
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:93
+  :cite-key: YFMD:93
   :END:
 
 #+BEGIN_VERSE
@@ -1648,10 +1648,10 @@ I bow, I bow to Thee.
 * Dharanite Bedan Gite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:94
+  :cite-key: YFMD:94
   :END:
 
 #+BEGIN_VERSE
@@ -1664,10 +1664,10 @@ Gaite ami asi nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:95
+  :cite-key: YFMD:95
   :END:
 
 #+BEGIN_VERSE
@@ -1681,10 +1681,10 @@ I have not come into the world.
 * To Sing the Songs of Pangs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:96
+  :cite-key: YFMD:96
   :END:
 
 #+BEGIN_VERSE
@@ -1698,10 +1698,10 @@ I have not come into the world.
 * Amar Pita Bishwa Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:97
+  :cite-key: YFMD:97
   :END:
 
 #+BEGIN_VERSE
@@ -1715,10 +1715,10 @@ Ei kathati jani ami jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:98
+  :cite-key: YFMD:98
   :END:
 
 #+BEGIN_VERSE
@@ -1733,10 +1733,10 @@ This truth I know.
 * My Father Is the World Father
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:99
+  :cite-key: YFMD:99
   :END:
 
 #+BEGIN_VERSE
@@ -1751,10 +1751,10 @@ This truth I know.
 * Atmatyagi Hate Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:100
+  :cite-key: YFMD:100
   :END:
 
 #+BEGIN_VERSE
@@ -1767,10 +1767,10 @@ Prabhur tripti lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:101
+  :cite-key: YFMD:101
   :END:
 
 #+BEGIN_VERSE
@@ -1784,10 +1784,10 @@ I must offer myself entirely.
 * To Please My Lord I Must Offer Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1989
-  :CITE-KEY: YFMD:102
+  :cite-key: YFMD:102
   :END:
 
 #+BEGIN_VERSE
@@ -1802,10 +1802,10 @@ I must offer myself
 * Jukta Hale Mukta Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:103
+  :cite-key: YFMD:103
   :END:
 
 #+BEGIN_VERSE
@@ -1818,10 +1818,10 @@ Satya e je maha satya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:104
+  :cite-key: YFMD:104
   :END:
 
 #+BEGIN_VERSE
@@ -1836,10 +1836,10 @@ This truth is the Truth supreme.
 * Liberated We Shall Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:105
+  :cite-key: YFMD:105
   :END:
 
 #+BEGIN_VERSE
@@ -1854,10 +1854,10 @@ This truth is the Truth supreme.
 * Nahi Jani Kahar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:106
+  :cite-key: YFMD:106
   :END:
 
 #+BEGIN_VERSE
@@ -1870,10 +1870,10 @@ Kandi ami kahar lagi hasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:107
+  :cite-key: YFMD:107
   :END:
 
 #+BEGIN_VERSE
@@ -1887,10 +1887,10 @@ For whom I smile.
 * I Know Not For Whom I Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: YFMD:108
+  :cite-key: YFMD:108
   :END:
 
 #+BEGIN_VERSE
@@ -1904,10 +1904,10 @@ For whom I smile.
 * Eso Eso Baso Baso Amar Hiyar Bagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:109
+  :cite-key: YFMD:109
   :END:
 
 #+BEGIN_VERSE
@@ -1920,10 +1920,10 @@ Amar hiyar bagane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:110
+  :cite-key: YFMD:110
   :END:
 
 #+BEGIN_VERSE
@@ -1937,10 +1937,10 @@ Sit down in my heart-garden.
 * O, Come, Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:111
+  :cite-key: YFMD:111
   :END:
 
 #+BEGIN_VERSE
@@ -1954,10 +1954,10 @@ Sit down in my heart-garden.
 * Dayamayi Daya Kare Jeona Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:112
+  :cite-key: YFMD:112
   :END:
 
 #+BEGIN_VERSE
@@ -1969,10 +1969,10 @@ Dayamayi daya kare jeona aji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:113
+  :cite-key: YFMD:113
   :END:
 
 #+BEGIN_VERSE
@@ -1986,10 +1986,10 @@ Do not leave me today.
 * O Mother of Compassion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:114
+  :cite-key: YFMD:114
   :END:
 
 #+BEGIN_VERSE
@@ -2003,10 +2003,10 @@ Do not leave me today.
 * Jatrar Halo Suru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:115
+  :cite-key: YFMD:115
   :END:
 
 #+BEGIN_VERSE
@@ -2021,10 +2021,10 @@ Mama priyatama guru
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:116
+  :cite-key: YFMD:116
   :END:
 
 #+BEGIN_VERSE
@@ -2040,10 +2040,10 @@ O my Guru Beloved.
 * My Journey Begins
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:117
+  :cite-key: YFMD:117
   :END:
 
 #+BEGIN_VERSE
@@ -2059,10 +2059,10 @@ O my Guru Beloved.
 * O Hariye Phelechi Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:118
+  :cite-key: YFMD:118
   :END:
 
 #+BEGIN_VERSE
@@ -2075,10 +2075,10 @@ Taito kandi pran gabire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:119
+  :cite-key: YFMD:119
   :END:
 
 #+BEGIN_VERSE
@@ -2093,10 +2093,10 @@ In the depths of my heart.
 * I Have Lost My Way
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:120
+  :cite-key: YFMD:120
   :END:
 
 #+BEGIN_VERSE
@@ -2111,10 +2111,10 @@ In the depths of my heart.
 * Parameshwari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:121
+  :cite-key: YFMD:121
   :END:
 
 #+BEGIN_VERSE
@@ -2127,10 +2127,10 @@ Bhakti mukti dao amare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:122
+  :cite-key: YFMD:122
   :END:
 
 #+BEGIN_VERSE
@@ -2145,10 +2145,10 @@ Give me, give me.
 * Mother Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:123
+  :cite-key: YFMD:123
   :END:
 
 #+BEGIN_VERSE
@@ -2163,10 +2163,10 @@ Give me, give me.
 * Jiban Amar Saphal Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:124
+  :cite-key: YFMD:124
   :END:
 
 #+BEGIN_VERSE
@@ -2179,10 +2179,10 @@ Pele kebal tomar pada dhuli
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:125
+  :cite-key: YFMD:125
   :END:
 
 #+BEGIN_VERSE
@@ -2197,10 +2197,10 @@ The dust of Your Feet.
 * My Life Shall Be Fulfilled
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:126
+  :cite-key: YFMD:126
   :END:
 
 #+BEGIN_VERSE
@@ -2215,10 +2215,10 @@ The dust of Your Feet.
 * Bindu Ami Sindhu Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:127
+  :cite-key: YFMD:127
   :END:
 
 #+BEGIN_VERSE
@@ -2231,10 +2231,10 @@ Tomar kripai achire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:128
+  :cite-key: YFMD:128
   :END:
 
 #+BEGIN_VERSE
@@ -2249,10 +2249,10 @@ By Your Grace.
 * A Drop Am I
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-06-1996
-  :CITE-KEY: YFMD:129
+  :cite-key: YFMD:129
   :END:
 
 #+BEGIN_VERSE
@@ -2267,10 +2267,10 @@ By Your Grace.
 * Param Prabhu Rag Karecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:130
+  :cite-key: YFMD:130
   :END:
 
 #+BEGIN_VERSE
@@ -2283,10 +2283,10 @@ Keman kare kari bishwas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:131
+  :cite-key: YFMD:131
   :END:
 
 #+BEGIN_VERSE
@@ -2301,10 +2301,10 @@ That You are angry with me?
 * My Lord Supreme, How Can I Believe?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:132
+  :cite-key: YFMD:132
   :END:
 
 #+BEGIN_VERSE
@@ -2319,10 +2319,10 @@ That You are angry with me?
 * Param Pitar Tomar Kripar Banya Neme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:133
+  :cite-key: YFMD:133
   :END:
 
 #+BEGIN_VERSE
@@ -2335,10 +2335,10 @@ Kareche aj bhare khama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:134
+  :cite-key: YFMD:134
   :END:
 
 #+BEGIN_VERSE
@@ -2353,10 +2353,10 @@ Has forgiven me today.
 * Father Supreme, Your Compassion-Flood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:135
+  :cite-key: YFMD:135
   :END:
 
 #+BEGIN_VERSE
@@ -2371,10 +2371,10 @@ Has forgiven me today.
 * Bishwa Bidhata Pratiti Nimeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:136
+  :cite-key: YFMD:136
   :END:
 
 #+BEGIN_VERSE
@@ -2387,10 +2387,10 @@ Khulo khulo mor shatek juger ruddha hiyar dor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:137
+  :cite-key: YFMD:137
   :END:
 
 #+BEGIN_VERSE
@@ -2405,10 +2405,10 @@ Open, open my century heart-door.
 * O Lord of the Universe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:138
+  :cite-key: YFMD:138
   :END:
 
 #+BEGIN_VERSE
@@ -2423,10 +2423,10 @@ Open, open my century-heart-door.
 * Bhitare Hiyar Tibra Jatan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:139
+  :cite-key: YFMD:139
   :END:
 
 #+BEGIN_VERSE
@@ -2439,10 +2439,10 @@ Bahire maner kathor shasan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:140
+  :cite-key: YFMD:140
   :END:
 
 #+BEGIN_VERSE
@@ -2458,10 +2458,10 @@ From my mind’s lordship-sovereignty.
 * In My Inner World, I Suffer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:141
+  :cite-key: YFMD:141
   :END:
 
 #+BEGIN_VERSE
@@ -2477,10 +2477,10 @@ I suffer from my mind’s lordship-sovereignty.
 * Asha Kusum Hiya Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:142
+  :cite-key: YFMD:142
   :END:
 
 #+BEGIN_VERSE
@@ -2494,10 +2494,10 @@ Asha kusum hiya niye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:143
+  :cite-key: YFMD:143
   :END:
 
 #+BEGIN_VERSE
@@ -2512,10 +2512,10 @@ With a hope-flower-heart.
 * With a Hope-Flower-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:144
+  :cite-key: YFMD:144
   :END:
 
 #+BEGIN_VERSE
@@ -2530,10 +2530,10 @@ With a hope-flower-heart.
 * Janani Tomar Karuna Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:145
+  :cite-key: YFMD:145
   :END:
 
 #+BEGIN_VERSE
@@ -2547,10 +2547,10 @@ Amar hiyar ashesh ratan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:146
+  :cite-key: YFMD:146
   :END:
 
 #+BEGIN_VERSE
@@ -2565,10 +2565,10 @@ And endless treasures.
 * Mother, Your Compassion-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1996
-  :CITE-KEY: YFMD:147
+  :cite-key: YFMD:147
   :END:
 
 #+BEGIN_VERSE
@@ -2583,10 +2583,10 @@ And endless treasures.
 * Urdhe Nilima Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:148
+  :cite-key: YFMD:148
   :END:
 
 #+BEGIN_VERSE
@@ -2599,10 +2599,10 @@ Hiya bihanga nache dibarate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:149
+  :cite-key: YFMD:149
   :END:
 
 #+BEGIN_VERSE
@@ -2616,10 +2616,10 @@ And my heart’s soul-bird sleeplessly dance.
 * The Blue Welkin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:150
+  :cite-key: YFMD:150
   :END:
 
 #+BEGIN_VERSE
@@ -2635,10 +2635,10 @@ Sleeplessly dance.
 * Amar Bhitar Jibane Bahir Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:151
+  :cite-key: YFMD:151
   :END:
 
 #+BEGIN_VERSE
@@ -2651,10 +2651,10 @@ Ajanar dak eseche ajike
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:152
+  :cite-key: YFMD:152
   :END:
 
 #+BEGIN_VERSE
@@ -2668,10 +2668,10 @@ From the Unknown, call has come today.
 * In My Inner Life, in My Outer Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:153
+  :cite-key: YFMD:153
   :END:
 
 #+BEGIN_VERSE
@@ -2685,10 +2685,10 @@ From the Unknown, call has come today.
 * Tomar Giti Gan Na Gahile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:154
+  :cite-key: YFMD:154
   :END:
 
 #+BEGIN_VERSE
@@ -2701,10 +2701,10 @@ Keman kare pabo tomar priti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:155
+  :cite-key: YFMD:155
   :END:
 
 #+BEGIN_VERSE
@@ -2718,10 +2718,10 @@ If I sing not Your Songs?
 * How Can I Get Your Love?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:156
+  :cite-key: YFMD:156
   :END:
 
 #+BEGIN_VERSE
@@ -2735,10 +2735,10 @@ If I sing not Your songs?
 * Hai Hai Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:157
+  :cite-key: YFMD:157
   :END:
 
 #+BEGIN_VERSE
@@ -2751,10 +2751,10 @@ Asha bihin chitta amar ajike
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:158
+  :cite-key: YFMD:158
   :END:
 
 #+BEGIN_VERSE
@@ -2768,10 +2768,10 @@ My heart is empty of hope today.
 * Alas, My Heart Is Empty of Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:159
+  :cite-key: YFMD:159
   :END:
 
 #+BEGIN_VERSE
@@ -2786,10 +2786,10 @@ My heart is empty of hope
 * Keno Bhule Jai Tumi Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:160
+  :cite-key: YFMD:160
   :END:
 
 #+BEGIN_VERSE
@@ -2802,10 +2802,10 @@ Hiyar parama dhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:161
+  :cite-key: YFMD:161
   :END:
 
 #+BEGIN_VERSE
@@ -2819,10 +2819,10 @@ You are my heart’s wealth supreme?
 * Why Do I Forget?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:162
+  :cite-key: YFMD:162
   :END:
 
 #+BEGIN_VERSE
@@ -2837,10 +2837,10 @@ Wealth supreme?
 * Namer Jasher Kangal Ami Taito Bhoye Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:163
+  :cite-key: YFMD:163
   :END:
 
 #+BEGIN_VERSE
@@ -2853,10 +2853,10 @@ Taito bhoye mari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:164
+  :cite-key: YFMD:164
   :END:
 
 #+BEGIN_VERSE
@@ -2870,10 +2870,10 @@ Because I beg for name and fame.
 * Fear Tortures Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:165
+  :cite-key: YFMD:165
   :END:
 
 #+BEGIN_VERSE
@@ -2887,10 +2887,10 @@ Because I beg for name and fame.
 * Hiya Pure Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:166
+  :cite-key: YFMD:166
   :END:
 
 #+BEGIN_VERSE
@@ -2903,10 +2903,10 @@ Druta bege ati druta bege
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:167
+  :cite-key: YFMD:167
   :END:
 
 #+BEGIN_VERSE
@@ -2920,10 +2920,10 @@ I must enter into my heart-clime.
 * Fast, Very Fast
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:168
+  :cite-key: YFMD:168
   :END:
 
 #+BEGIN_VERSE
@@ -2937,10 +2937,10 @@ I must enter into my heart-clime.
 * Dao Dao Thai Thai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:169
+  :cite-key: YFMD:169
   :END:
 
 #+BEGIN_VERSE
@@ -2953,10 +2953,10 @@ Prabhu aji taba pade
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:170
+  :cite-key: YFMD:170
   :END:
 
 #+BEGIN_VERSE
@@ -2970,10 +2970,10 @@ At Your Feet, my Lord, today.
 * Give Me, Give Me Shelter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:171
+  :cite-key: YFMD:171
   :END:
 
 #+BEGIN_VERSE
@@ -2987,10 +2987,10 @@ Shelter at Your Feet, my Lord, today.
 * Bhebe Bhebe Tomar Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:172
+  :cite-key: YFMD:172
   :END:
 
 #+BEGIN_VERSE
@@ -3003,10 +3003,10 @@ Habo ami atmahara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:173
+  :cite-key: YFMD:173
   :END:
 
 #+BEGIN_VERSE
@@ -3020,10 +3020,10 @@ I shall lose myself.
 * Thinking and Thinking of You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:174
+  :cite-key: YFMD:174
   :END:
 
 #+BEGIN_VERSE
@@ -3037,10 +3037,10 @@ I shall lose myself.
 * Urdhe Amai Jete Habe Tushte Tomai Pratikhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:175
+  :cite-key: YFMD:175
   :END:
 
 #+BEGIN_VERSE
@@ -3053,10 +3053,10 @@ Tushte tomai pratikhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:176
+  :cite-key: YFMD:176
   :END:
 
 #+BEGIN_VERSE
@@ -3070,10 +3070,10 @@ To satisfy You.
 * At Every Moment I Must Go High
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:177
+  :cite-key: YFMD:177
   :END:
 
 #+BEGIN_VERSE
@@ -3088,10 +3088,10 @@ To satisfy You.
 * God and Indifference (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:178
+  :cite-key: YFMD:178
   :END:
 
 #+BEGIN_VERSE
@@ -3105,10 +3105,10 @@ Never rhyme.
 * Bhagaban Ar Udasinata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:179
+  :cite-key: YFMD:179
   :END:
 
 #+BEGIN_VERSE
@@ -3121,10 +3121,10 @@ Kakhano milena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:180
+  :cite-key: YFMD:180
   :END:
 
 #+BEGIN_VERSE
@@ -3137,10 +3137,10 @@ God and indifference never rhyme.
 * The Last Day of His Duty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:181
+  :cite-key: YFMD:181
   :END:
 
 #+BEGIN_VERSE
@@ -3154,10 +3154,10 @@ The last day of His Duty.
 * Param Janena Tar Kartabyer Shesh Din
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:182
+  :cite-key: YFMD:182
   :END:
 
 #+BEGIN_VERSE
@@ -3169,10 +3169,10 @@ Param janena tar kartabyer shesh din
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1996
-  :CITE-KEY: YFMD:183
+  :cite-key: YFMD:183
   :END:
 
 #+BEGIN_VERSE
@@ -3185,10 +3185,10 @@ God does not know the last day of His Duty.
 * Tomar Khamar Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-10-1996
-  :CITE-KEY: YFMD:184
+  :cite-key: YFMD:184
   :END:
 
 #+BEGIN_VERSE
@@ -3203,10 +3203,10 @@ Ogo mor hiya majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-10-1996
-  :CITE-KEY: YFMD:185
+  :cite-key: YFMD:185
   :END:
 
 #+BEGIN_VERSE
@@ -3221,10 +3221,10 @@ Because of Your Forgiveness-Power.
 * Today I Am Able to Sit at Your Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1996
-  :CITE-KEY: YFMD:186
+  :cite-key: YFMD:186
   :END:
 
 #+BEGIN_VERSE
@@ -3239,10 +3239,10 @@ Because of Your Forgiveness-Power.
 * Jiban Jethai Maran Sethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:187
+  :cite-key: YFMD:187
   :END:
 
 #+BEGIN_VERSE
@@ -3255,10 +3255,10 @@ Jani jani jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:188
+  :cite-key: YFMD:188
   :END:
 
 #+BEGIN_VERSE
@@ -3273,10 +3273,10 @@ Death, too, there.
 * Where Life Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:189
+  :cite-key: YFMD:189
   :END:
 
 #+BEGIN_VERSE
@@ -3291,10 +3291,10 @@ Death, too, there.
 * Tomare Chhariye Kemane Rahibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:190
+  :cite-key: YFMD:190
   :END:
 
 #+BEGIN_VERSE
@@ -3307,10 +3307,10 @@ Jibaner marubhume
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:191
+  :cite-key: YFMD:191
   :END:
 
 #+BEGIN_VERSE
@@ -3324,10 +3324,10 @@ Inside my life’s desert-land-breath?
 * Leaving You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:192
+  :cite-key: YFMD:192
   :END:
 
 #+BEGIN_VERSE
@@ -3341,10 +3341,10 @@ Inside my life’s desert-land-breath?
 * Ashai Amar Param Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:193
+  :cite-key: YFMD:193
   :END:
 
 #+BEGIN_VERSE
@@ -3357,10 +3357,10 @@ Taito benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:194
+  :cite-key: YFMD:194
   :END:
 
 #+BEGIN_VERSE
@@ -3374,10 +3374,10 @@ Therefore, I am still alive.
 * My Supreme Friend Is My Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:195
+  :cite-key: YFMD:195
   :END:
 
 #+BEGIN_VERSE
@@ -3391,10 +3391,10 @@ Therefore, I am still alive.
 * Khule Dao Prabhu Hiyar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:196
+  :cite-key: YFMD:196
   :END:
 
 #+BEGIN_VERSE
@@ -3407,10 +3407,10 @@ Chira jibaner lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:197
+  :cite-key: YFMD:197
   :END:
 
 #+BEGIN_VERSE
@@ -3425,10 +3425,10 @@ For Eternity’s life.
 * Khule Dao Prabhu Hiyar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:198
+  :cite-key: YFMD:198
   :END:
 
 #+BEGIN_VERSE
@@ -3441,10 +3441,10 @@ Chira jibaner lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:199
+  :cite-key: YFMD:199
   :END:
 
 #+BEGIN_VERSE
@@ -3459,10 +3459,10 @@ For Eternity’s life.
 * Shunya Hate Asiyachi Shunye Phire Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:200
+  :cite-key: YFMD:200
   :END:
 
 #+BEGIN_VERSE
@@ -3475,10 +3475,10 @@ Shunye phire jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:201
+  :cite-key: YFMD:201
   :END:
 
 #+BEGIN_VERSE
@@ -3494,10 +3494,10 @@ We shall return.
 * From Immortality’s Nothingness-Void
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:202
+  :cite-key: YFMD:202
   :END:
 
 #+BEGIN_VERSE
@@ -3513,10 +3513,10 @@ We shall return.
 * Swarge Jabo Hese Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:203
+  :cite-key: YFMD:203
   :END:
 
 #+BEGIN_VERSE
@@ -3529,10 +3529,10 @@ Dharar bedan niye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:204
+  :cite-key: YFMD:204
   :END:
 
 #+BEGIN_VERSE
@@ -3548,10 +3548,10 @@ Of this earth.
 * Smiling and Smiling I Shall Go to Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:205
+  :cite-key: YFMD:205
   :END:
 
 #+BEGIN_VERSE
@@ -3567,10 +3567,10 @@ Carrying the tears and pangs
 * Ami Hate Chahi Kusum Surabhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:206
+  :cite-key: YFMD:206
   :END:
 
 #+BEGIN_VERSE
@@ -3583,10 +3583,10 @@ Amar bhitar jibane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:207
+  :cite-key: YFMD:207
   :END:
 
 #+BEGIN_VERSE
@@ -3601,10 +3601,10 @@ Of the flowers.
 * In My Inner Life, I Would Like To Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:208
+  :cite-key: YFMD:208
   :END:
 
 #+BEGIN_VERSE
@@ -3618,10 +3618,10 @@ The fragrance of the flowers.
 * Bishwa Janani Nahi Kabhu Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:209
+  :cite-key: YFMD:209
   :END:
 
 #+BEGIN_VERSE
@@ -3634,10 +3634,10 @@ Chira bidayer gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:210
+  :cite-key: YFMD:210
   :END:
 
 #+BEGIN_VERSE
@@ -3652,10 +3652,10 @@ My eternal farewell song.
 * O Mother of this World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:211
+  :cite-key: YFMD:211
   :END:
 
 #+BEGIN_VERSE
@@ -3670,10 +3670,10 @@ My eternal farewell song.
 * Nijere Danite Prati Pale Pale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:212
+  :cite-key: YFMD:212
   :END:
 
 #+BEGIN_VERSE
@@ -3686,10 +3686,10 @@ Asiyachi dhara buke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:213
+  :cite-key: YFMD:213
   :END:
 
 #+BEGIN_VERSE
@@ -3703,10 +3703,10 @@ At every moment.
 * I Came into the World to Sacrifice Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:214
+  :cite-key: YFMD:214
   :END:
 
 #+BEGIN_VERSE
@@ -3721,10 +3721,10 @@ At every moment.
 * Tomare Tushite Chahije Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:215
+  :cite-key: YFMD:215
   :END:
 
 #+BEGIN_VERSE
@@ -3737,10 +3737,10 @@ Nahe go sabare tushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:216
+  :cite-key: YFMD:216
   :END:
 
 #+BEGIN_VERSE
@@ -3755,10 +3755,10 @@ And not everybody.
 * My Lord, I Desire to Please You Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1997
-  :CITE-KEY: YFMD:217
+  :cite-key: YFMD:217
   :END:
 
 #+BEGIN_VERSE
@@ -3773,10 +3773,10 @@ And not everybody.
 * Na Kandile Keman Kare Pabo Tomar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-08-2003
-  :CITE-KEY: YFMD:218
+  :cite-key: YFMD:218
   :END:
 
 #+BEGIN_VERSE
@@ -3789,10 +3789,10 @@ Na hasile keman kare maner andhar nashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-08-2003
-  :CITE-KEY: YFMD:219
+  :cite-key: YFMD:219
   :END:
 
 #+BEGIN_VERSE
@@ -3808,10 +3808,10 @@ How can I destroy my mind-darkness?
 * If I Do Not Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-08-2003
-  :CITE-KEY: YFMD:220
+  :cite-key: YFMD:220
   :END:
 
 #+BEGIN_VERSE
@@ -3827,10 +3827,10 @@ How can I destroy my mind-darkness?
 * Balo Balo Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-08-2003
-  :CITE-KEY: YFMD:221
+  :cite-key: YFMD:221
   :END:
 
 #+BEGIN_VERSE
@@ -3843,10 +3843,10 @@ Chupi chupi chupi ati sugopane kathati na kabhu bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-08-2003
-  :CITE-KEY: YFMD:222
+  :cite-key: YFMD:222
   :END:
 
 #+BEGIN_VERSE
@@ -3861,10 +3861,10 @@ Be fully blossomed at Your Feet.
 * My Lord, Tell Me, Tell Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-08-2003
-  :CITE-KEY: YFMD:223
+  :cite-key: YFMD:223
   :END:
 
 #+BEGIN_VERSE
@@ -3879,10 +3879,10 @@ Be fully blossomed at Your Feet.
 * Hriday Kande Jiban Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-08-2003
-  :CITE-KEY: YFMD:224
+  :cite-key: YFMD:224
   :END:
 
 #+BEGIN_VERSE
@@ -3895,10 +3895,10 @@ Param pita ami tomar kripa plaban magi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-08-2003
-  :CITE-KEY: YFMD:225
+  :cite-key: YFMD:225
   :END:
 
 #+BEGIN_VERSE
@@ -3912,10 +3912,10 @@ O my Father Supreme, I invoke Your Compassion-Flood.
 * My Heart Cries
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-08-2003
-  :CITE-KEY: YFMD:226
+  :cite-key: YFMD:226
   :END:
 
 #+BEGIN_VERSE
@@ -3929,10 +3929,10 @@ O my Father Supreme, I invoke Your Compassion-Flood.
 * Rahi Keno Dibarati Maner Andhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-2003
-  :CITE-KEY: YFMD:227
+  :cite-key: YFMD:227
   :END:
 
 #+BEGIN_VERSE
@@ -3945,10 +3945,10 @@ Keno nahi puji ami hiyar rajare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-2003
-  :CITE-KEY: YFMD:228
+  :cite-key: YFMD:228
   :END:
 
 #+BEGIN_VERSE
@@ -3963,10 +3963,10 @@ Why do I not worship my Heart-King?
 * Day and Night Why Do I Live?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-2003
-  :CITE-KEY: YFMD:229
+  :cite-key: YFMD:229
   :END:
 
 #+BEGIN_VERSE
@@ -3982,10 +3982,10 @@ My Heart-King?
 * Phire Jabo Tomar Charane Thai Ami Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-08-2003
-  :CITE-KEY: YFMD:230
+  :cite-key: YFMD:230
   :END:
 
 #+BEGIN_VERSE
@@ -3998,10 +3998,10 @@ Tomar charane thai ami pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-08-2003
-  :CITE-KEY: YFMD:231
+  :cite-key: YFMD:231
   :END:
 
 #+BEGIN_VERSE
@@ -4015,10 +4015,10 @@ At Your Feet I shall have my shelter.
 * I Shall Go Back
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-08-2003
-  :CITE-KEY: YFMD:232
+  :cite-key: YFMD:232
   :END:
 
 #+BEGIN_VERSE
@@ -4032,10 +4032,10 @@ At Your Feet I shall have my shelter.
 * Chahina Kandite Chahina Pujite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-08-2003
-  :CITE-KEY: YFMD:233
+  :cite-key: YFMD:233
   :END:
 
 #+BEGIN_VERSE
@@ -4050,10 +4050,10 @@ Maner timir kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-08-2003
-  :CITE-KEY: YFMD:234
+  :cite-key: YFMD:234
   :END:
 
 #+BEGIN_VERSE
@@ -4070,10 +4070,10 @@ All my mind’s tenebrous darkness.
 * I Do Not Want to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-08-2003
-  :CITE-KEY: YFMD:235
+  :cite-key: YFMD:235
   :END:
 
 #+BEGIN_VERSE
@@ -4090,10 +4090,10 @@ All my mind’s tenebrous darkness.
 * Kandi Ami Dibas Rati Tomar Kripa Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-08-2003
-  :CITE-KEY: YFMD:236
+  :cite-key: YFMD:236
   :END:
 
 #+BEGIN_VERSE
@@ -4106,10 +4106,10 @@ Tripti pelam nitya nutan tomar khama magi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-08-2003
-  :CITE-KEY: YFMD:237
+  :cite-key: YFMD:237
   :END:
 
 #+BEGIN_VERSE
@@ -4124,10 +4124,10 @@ Satisfaction I derive only from
 * Day and Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-08-2003
-  :CITE-KEY: YFMD:238
+  :cite-key: YFMD:238
   :END:
 
 #+BEGIN_VERSE
@@ -4143,10 +4143,10 @@ From Your ever-new Forgiveness.
 * Kakhano Kandi Kakhano Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-08-2003
-  :CITE-KEY: YFMD:239
+  :cite-key: YFMD:239
   :END:
 
 #+BEGIN_VERSE
@@ -4159,10 +4159,10 @@ Herite chahi barek ami mama hiyar rabire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-08-2003
-  :CITE-KEY: YFMD:240
+  :cite-key: YFMD:240
   :END:
 
 #+BEGIN_VERSE
@@ -4178,10 +4178,10 @@ The Sun of my heart.
 * Sometimes I Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-08-2003
-  :CITE-KEY: YFMD:241
+  :cite-key: YFMD:241
   :END:
 
 #+BEGIN_VERSE
@@ -4198,10 +4198,10 @@ The Sun of my heart.
 * Khama Amai Karo Mago Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-08-2003
-  :CITE-KEY: YFMD:242
+  :cite-key: YFMD:242
   :END:
 
 #+BEGIN_VERSE
@@ -4214,10 +4214,10 @@ Hiyar bedan baroi nithur ogo manorama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-2003
-  :CITE-KEY: YFMD:243
+  :cite-key: YFMD:243
   :END:
 
 #+BEGIN_VERSE
@@ -4233,10 +4233,10 @@ Ruthless heart-torture I now am.
 * Mother, Forgive Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-08-2003
-  :CITE-KEY: YFMD:244
+  :cite-key: YFMD:244
   :END:
 
 #+BEGIN_VERSE
@@ -4252,10 +4252,10 @@ Ruthless heart-torture I now am.
 * Pit Pit Mit Mit Sanjher Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-08-2003
-  :CITE-KEY: YFMD:245
+  :cite-key: YFMD:245
   :END:
 
 #+BEGIN_VERSE
@@ -4268,10 +4268,10 @@ Atmahara heri tomar sudha dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-08-2003
-  :CITE-KEY: YFMD:246
+  :cite-key: YFMD:246
   :END:
 
 #+BEGIN_VERSE
@@ -4286,10 +4286,10 @@ Myself I completely lose.
 * Twinkling, Twinkling Evening Star
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-2003
-  :CITE-KEY: YFMD:247
+  :cite-key: YFMD:247
   :END:
 
 #+BEGIN_VERSE
@@ -4304,10 +4304,10 @@ Myself I completely lose.
 * Shunya Hate Tomar Kache Esechilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-08-2003
-  :CITE-KEY: YFMD:248
+  :cite-key: YFMD:248
   :END:
 
 #+BEGIN_VERSE
@@ -4320,10 +4320,10 @@ Purna haye bhitar bahir phire elam
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-08-2003
-  :CITE-KEY: YFMD:249
+  :cite-key: YFMD:249
   :END:
 
 #+BEGIN_VERSE
@@ -4339,10 +4339,10 @@ I am now fulfilled.
 * With Empty Hands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-2003
-  :CITE-KEY: YFMD:250
+  :cite-key: YFMD:250
   :END:
 
 #+BEGIN_VERSE
@@ -4359,10 +4359,10 @@ I am now fulfilled.
 * Jibane Mor Tomar Bijoy Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-08-2003
-  :CITE-KEY: YFMD:251
+  :cite-key: YFMD:251
   :END:
 
 #+BEGIN_VERSE
@@ -4375,10 +4375,10 @@ Tomar charan dhuli kebal rabe amar bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-08-2003
-  :CITE-KEY: YFMD:252
+  :cite-key: YFMD:252
   :END:
 
 #+BEGIN_VERSE
@@ -4392,10 +4392,10 @@ My world will have only the dust of Your Feet.
 * Your Victory Will Blossom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-08-2003
-  :CITE-KEY: YFMD:253
+  :cite-key: YFMD:253
   :END:
 
 #+BEGIN_VERSE
@@ -4409,10 +4409,10 @@ My world will have only the dust of Your Feet.
 * Nutan Asha Jaglo Hiyai Nutan Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-08-2003
-  :CITE-KEY: YFMD:254
+  :cite-key: YFMD:254
   :END:
 
 #+BEGIN_VERSE
@@ -4425,10 +4425,10 @@ Raibona ar andhar mane sarbanasha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-08-2003
-  :CITE-KEY: YFMD:255
+  :cite-key: YFMD:255
   :END:
 
 #+BEGIN_VERSE
@@ -4444,10 +4444,10 @@ All-destructive darkness-mind.
 * A New Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-08-2003
-  :CITE-KEY: YFMD:256
+  :cite-key: YFMD:256
   :END:
 
 #+BEGIN_VERSE
@@ -4463,10 +4463,10 @@ All-destructive darkness-mind.
 * Neme Eso Priyatama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-08-2003
-  :CITE-KEY: YFMD:257
+  :cite-key: YFMD:257
   :END:
 
 #+BEGIN_VERSE
@@ -4479,10 +4479,10 @@ Toma lagi animesh kande kande hiya mama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-08-2003
-  :CITE-KEY: YFMD:258
+  :cite-key: YFMD:258
   :END:
 
 #+BEGIN_VERSE
@@ -4497,10 +4497,10 @@ Sleeplessly for You my heart cries and cries.
 * Come Down
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-2003
-  :CITE-KEY: YFMD:259
+  :cite-key: YFMD:259
   :END:
 
 #+BEGIN_VERSE

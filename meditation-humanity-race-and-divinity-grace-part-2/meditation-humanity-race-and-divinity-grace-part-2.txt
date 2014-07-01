@@ -7,23 +7,23 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0174
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MRG-2
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0174
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: MRG-2
+  :genre: qa
+  :keywords:
   :END:
 
 
 * Editor's preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: MRG:33e1
+  :genre: preface
+  :keywords:
+  :cite-key: MRG:33e1
   :END:
 
 
@@ -34,9 +34,9 @@ As an illumined Yogi of the highest order, Sri Chinmoy does not normally "lectur
 * I play
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:33
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:33
   :END:
 
 
@@ -60,9 +60,9 @@ I play with God's sacred Breath.
 * Part I -- Meditation: pathway to the inner world
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MRG:34e1
+  :genre: section
+  :keywords:
+  :cite-key: MRG:34e1
   :END:
 
 
@@ -70,9 +70,9 @@ I play with God's sacred Breath.
 * Meditation: an introduction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MRG:34
+  :genre: discourse
+  :keywords:
+  :cite-key: MRG:34
   :END:
 
 
@@ -113,9 +113,9 @@ The mother holds the hand of the child. But it is the child who has to walk, and
 * What I need
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:35
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:35
   :END:
 
 
@@ -143,9 +143,9 @@ I need to become another God.
 * Question: Could you please tell us the difference between concentration, meditation and contemplation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:36
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:36
   :END:
 
 
@@ -174,9 +174,9 @@ One should concentrate for a few minutes each day before entering into meditatio
 * The superman
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:37
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:37
   :END:
 
 
@@ -205,9 +205,9 @@ God loves me because I am helpless.
 * Question: I would like to know the difference between prayer and meditation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:38
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:38
   :END:
 
 
@@ -228,9 +228,9 @@ For the real seeker, I must say that meditation is more important than prayer. B
 * Question: Do meditation and concentration have anything to do with the power of the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:39
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:39
   :END:
 
 
@@ -241,9 +241,9 @@ For the real seeker, I must say that meditation is more important than prayer. B
 * Three most significant things
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:40
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:40
   :END:
 
 #+BEGIN_VERSE
@@ -275,9 +275,9 @@ Significant things for you:
 * Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:41
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:41
   :END:
 
 
@@ -299,18 +299,18 @@ Shall be my own Light.
 * Part II -- The journey's start
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MRG:42e1
+  :genre: section
+  :keywords:
+  :cite-key: MRG:42e1
   :END:
 
 
 * Question: I would like to ask you how to develop these processes of meditation? For someone who has never done anything like this before, how do you begin?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:42
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:42
   :END:
 
 
@@ -327,9 +327,9 @@ When you start your journey as an absolute beginner, then you have to read books
 * Question: Could you please give a step-by-step description of how a beginner on your path should meditate on God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:43
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:43
   :END:
 
 
@@ -354,9 +354,9 @@ To end your meditation you can repeat "AUM" or "Supreme," or your Master's name 
 * My fount
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:44
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:44
   :END:
 
 
@@ -383,9 +383,9 @@ Is my quick start,
 * Question: How can we learn to meditate? I believe in God, but it is very hard for me to meditate.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:45
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:45
   :END:
 
 
@@ -402,9 +402,9 @@ If you have a Master it is easier to learn how to meditate because you get addit
 * Question: How can we know whether we are meditating well or not?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:46
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:46
   :END:
 
 
@@ -417,9 +417,9 @@ But the easiest way to know if we have had a good meditation is to feel whether 
 * Question: Some days I'm just too busy to meditate, and I skip my meditation. What happens on those days?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:47
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:47
   :END:
 
 
@@ -432,9 +432,9 @@ We know that once upon a time we didn't meditate, and we were half animal. Now w
 * Sweet trance
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:48
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:48
   :END:
 
 
@@ -459,9 +459,9 @@ I enter into my God's
 * I treasure
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:49
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:49
   :END:
 
 
@@ -482,9 +482,9 @@ A perfect and absolute life of God
 * Part III -- Problems in meditation
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MRG:50e1
+  :genre: section
+  :keywords:
+  :cite-key: MRG:50e1
   :END:
 
 
@@ -492,9 +492,9 @@ A perfect and absolute life of God
 * Question: Sometimes when I meditate it is so beautiful, but at other times I forget how beautiful meditation is, or how good it is for me. How can I inspire myself to meditate again? It is like a road that goes into a fairyland, but sometimes I just don't find that road.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:50
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:50
   :END:
 
 
@@ -505,9 +505,9 @@ A perfect and absolute life of God
 * His own friend and enemy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:51
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:51
   :END:
 
 
@@ -528,9 +528,9 @@ And his own Heaven-treacherous enemy: doubt.
 * Question: Sometimes during my morning meditation I fall into a doze -- not a sound sleep, but just a doze. Is this a bad thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:52
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:52
   :END:
 
 
@@ -543,9 +543,9 @@ Unfortunately, many disciples do not get enough inspiration to energise them for
 * Question: When I get upset, I can't seem to meditate the way I want to. I seem to think more of my problems. How can I overcome this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:53
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:53
   :END:
 
 
@@ -566,9 +566,9 @@ From now on please try, all of you, to perfect your own nature instead of lookin
 * Question: During a meditation, if something external to the meditation occurs -- such as a noise or something unforeseen -- is it better to include it in the meditation or to try to shut it out and pursue the meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:54
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:54
   :END:
 
 
@@ -581,9 +581,9 @@ If we have strength, inner strength, to transform someone, when he is transforme
 * Glorious is the path
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:55
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:55
   :END:
 
 
@@ -608,9 +608,9 @@ My life and I shall know it.
 * Question: When I try to meditate, there is something that holds me back so that I cannot meditate.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:56
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:56
   :END:
 
 
@@ -621,9 +621,9 @@ My life and I shall know it.
 * Question: When we try to meditate and are not in a good mood -- say we've been at school and the whole day has been absolutely ordinary, and we are in sort of an undivine mood -- how can we get rid of this mood in order to meditate well?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MRG:57
+  :genre: qa
+  :keywords:
+  :cite-key: MRG:57
   :END:
 
 
@@ -637,9 +637,9 @@ Some people take meditation as part of their schedule. They feel that one thing 
 * My service-light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MRG:58
+  :genre: poem
+  :keywords:
+  :cite-key: MRG:58
   :END:
 
 

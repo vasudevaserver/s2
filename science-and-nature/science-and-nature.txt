@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1153
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1996
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCNT
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1153
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1996
+  :publisher: Agni Press
+  :cite-key: SCNT
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -24,9 +24,9 @@
 * 1 Science Assails....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:1
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:1
   :END:
 
 
@@ -41,9 +41,9 @@ Nature prevails.
 * 2 Science Says: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:2
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:2
   :END:
 
 
@@ -60,9 +60,9 @@ Nature says:
 * 3 Science Goes ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:3
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:3
   :END:
 
 
@@ -79,9 +79,9 @@ Inward and upward.
 * 4 Science Says To Nature: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:4
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:4
   :END:
 
 
@@ -98,9 +98,9 @@ Nature says to Science:
 * 5 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:5
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:5
   :END:
 
 
@@ -117,9 +117,9 @@ Nature's purity-heart.
 * 6 The Human Mind ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:6
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:6
   :END:
 
 
@@ -138,9 +138,9 @@ To proceed.
 * 7 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:7
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:7
   :END:
 
 
@@ -157,9 +157,9 @@ Prone to practice.
 * 8 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:8
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:8
   :END:
 
 
@@ -176,9 +176,9 @@ God's Life-Proclamation.
 * 9 Science Likes To Duplicate....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:9
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:9
   :END:
 
 
@@ -193,9 +193,9 @@ Nature loves to emancipate.
 * 10 When Science Speaks, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:10
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:10
   :END:
 
 
@@ -212,9 +212,9 @@ God dances.
 * 11 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:11
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:11
   :END:
 
 
@@ -231,9 +231,9 @@ Love-intimacy.
 * 12 Man Relies On Science....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:12
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:12
   :END:
 
 
@@ -248,9 +248,9 @@ God relies on Nature.
 * 13 Science Says: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:13
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:13
   :END:
 
 
@@ -269,9 +269,9 @@ Without You."
 * 14 Science Is At Times Known ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:14
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:14
   :END:
 
 
@@ -288,9 +288,9 @@ Unknowable.
 * 15 Science Is Revolution....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:15
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:15
   :END:
 
 
@@ -305,9 +305,9 @@ Nature is evolution.
 * 16 Science Longs ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:16
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:16
   :END:
 
 
@@ -324,9 +324,9 @@ For beauty's universality.
 * 17 Science Says To The Heart: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:17
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:17
   :END:
 
 
@@ -343,9 +343,9 @@ Nature says to the heart:
 * 18 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:18
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:18
   :END:
 
 
@@ -362,9 +362,9 @@ Soul-silence-union.
 * 19 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:19
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:19
   :END:
 
 
@@ -381,9 +381,9 @@ What God's Heart is.
 * 20 Science Does Not Know ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:20
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:20
   :END:
 
 
@@ -403,9 +403,9 @@ With God and for God.
 * 21 Science Uproots ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:21
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:21
   :END:
 
 
@@ -423,9 +423,9 @@ For her total transformation.
 * 22 Science Believes In ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:22
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:22
   :END:
 
 
@@ -444,9 +444,9 @@ Most beautiful dawn.
 * 23 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:23
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:23
   :END:
 
 
@@ -463,9 +463,9 @@ Simplicity's sweetness.
 * 24 Science Admires Division....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:24
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:24
   :END:
 
 
@@ -484,9 +484,9 @@ She has oneness-fulness.
 * 25 Science Does Not ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:25
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:25
   :END:
 
 
@@ -503,9 +503,9 @@ To accept God's Invitation.
 * 26 Science Is Spirituality's ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:26
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:26
   :END:
 
 
@@ -522,9 +522,9 @@ Protection-umbrella.
 * 27 The Love-Life Of Science ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:27
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:27
   :END:
 
 
@@ -541,9 +541,9 @@ Is Spirituality.
 * 28 Science Says To Nature: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:28
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:28
   :END:
 
 
@@ -566,9 +566,9 @@ Science says:
 * 29 Science Says To Nature: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:29
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:29
   :END:
 
 
@@ -585,9 +585,9 @@ Nature says to Science:
 * 30 Science Is Always In A Hurry....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:30
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:30
   :END:
 
 
@@ -603,9 +603,9 @@ At her disposal.
 * 31 Science Is God-Oblivion....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:31
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:31
   :END:
 
 
@@ -620,9 +620,9 @@ Nature is the living God.
 * 32 Science, At Its Very Best, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:32
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:32
   :END:
 
 
@@ -639,9 +639,9 @@ Satisfies and fulfils God.
 * 33 In The Absence Of Science, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:33
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:33
   :END:
 
 
@@ -658,9 +658,9 @@ Nothing truly can take her place.
 * 34 The Human In Us ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:34
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:34
   :END:
 
 
@@ -678,9 +678,9 @@ Affectionately and proudly.
 * 35 Science Is Energy-Supplier ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:35
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:35
   :END:
 
 
@@ -697,9 +697,9 @@ Of the heart.
 * 36 Science Thinks ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:36
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:36
   :END:
 
 
@@ -716,9 +716,9 @@ That God has given her everything.
 * 37 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:37
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:37
   :END:
 
 
@@ -735,9 +735,9 @@ The heart's worship.
 * 38 Science Does Not Believe In ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:38
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:38
   :END:
 
 
@@ -754,9 +754,9 @@ The orbit of God's Will.
 * 39 Science Is The Mind's ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:39
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:39
   :END:
 
 
@@ -773,9 +773,9 @@ Affection and satisfaction.
 * 40 Science Can Shorten And Frighten ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:40
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:40
   :END:
 
 
@@ -792,9 +792,9 @@ The silence-light of distance.
 * 41 Science Likes ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:41
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:41
   :END:
 
 
@@ -811,9 +811,9 @@ Breathless sanctitude.
 * 42 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:42
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:42
   :END:
 
 
@@ -830,9 +830,9 @@ Nature's Divinity.
 * 43 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:43
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:43
   :END:
 
 
@@ -849,9 +849,9 @@ The heart's God-revelation.
 * 44 The Unreal Part Of My Life ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:44
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:44
   :END:
 
 
@@ -868,9 +868,9 @@ Loves Nature.
 * 45 Science Is Desperately Searching ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:45
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:45
   :END:
 
 
@@ -886,9 +886,9 @@ Nature already has it.
 * 46 Science Is Constantly Demanding ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:46
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:46
   :END:
 
 
@@ -905,9 +905,9 @@ Victory's progress-flute.
 * 47 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:47
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:47
   :END:
 
 
@@ -924,9 +924,9 @@ Heaven-flame-game.
 * 48 Science Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:48
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:48
   :END:
 
 
@@ -943,9 +943,9 @@ A blossoming God-poise.
 * 49 Sciences Dances ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:49
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:49
   :END:
 
 
@@ -962,9 +962,9 @@ To her God-gratitude-heartbeat.
 * 50 Science, I Salute You ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCNT:50
+  :genre: poem
+  :keywords:
+  :cite-key: SCNT:50
   :END:
 
 

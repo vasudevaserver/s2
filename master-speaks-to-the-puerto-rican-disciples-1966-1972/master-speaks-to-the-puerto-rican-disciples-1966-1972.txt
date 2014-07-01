@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0931
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MS
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0931
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: MS
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Sri Chinmoy Speaks About Sudha
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Sri Chinmoy Speaks About Sudha (carmen Maria...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:1
   :END:
 
 
@@ -57,10 +57,10 @@ Sudha: And you are here, divine Gurudev. It is God's sublime Grace to us.
 * Three Visions Of Sri Chinmoy When He Meditated On D.     :noexport:
 
   :PROPERTIES:
-  :GENRE: section
+  :genre: section
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:2e1
+  :keywords:
+  :cite-key: MS:2e1
   :END:
 
 
@@ -71,10 +71,10 @@ Sudha: And you are here, divine Gurudev. It is God's sublime Grace to us.
 * March 9, 1967    :noexport:
 
   :PROPERTIES:
-  :GENRE: note
+  :genre: note
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:2e2
+  :keywords:
+  :cite-key: MS:2e2
   :END:
 
 
@@ -87,10 +87,10 @@ The Bulbul symbolises the soul's flight and was full of the soul's sweet songs o
 * March 16, 1967     :noexport:
 
   :PROPERTIES:
-  :GENRE: note
+  :genre: note
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:2e3
+  :keywords:
+  :cite-key: MS:2e3
   :END:
 
 
@@ -101,10 +101,10 @@ When Guru concentrated on D., he saw a large forest, and in that forest he saw a
 * August 10, 1967     :noexport:
 
   :PROPERTIES:
-  :GENRE: note
+  :genre: note
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:2e4
+  :keywords:
+  :cite-key: MS:2e4
   :END:
 
 
@@ -117,9 +117,9 @@ Then Guru saw a flood of peace coming from D.'s heart. That peace put everyone i
 * Interview With "auntie, " Mrs. Carmen B. Gaya, Sudha's Aunt
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:2e5
+  :genre: section
+  :keywords:
+  :cite-key: MS:2e5
   :END:
 
 
@@ -130,10 +130,10 @@ Then Guru saw a flood of peace coming from D.'s heart. That peace put everyone i
 * Auntie: You Said That You Would Tell...     :noexport:
 
   :PROPERTIES:
-  :GENRE: qa
+  :genre: qa
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:2
+  :keywords:
+  :cite-key: MS:2
   :END:
 
 
@@ -160,9 +160,9 @@ If you want to send a message to your husband, I can do it. Your husband repeate
 * Auntie: How Can I Have A New...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:3
+  :genre: qa
+  :keywords:
+  :cite-key: MS:3
   :END:
 
 
@@ -179,9 +179,9 @@ In one's heart is the Garden. In the Garden is a mango tree. You have come into 
 * Auntie: How Can I Feel My Heart...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:4
+  :genre: qa
+  :keywords:
+  :cite-key: MS:4
   :END:
 
 
@@ -196,9 +196,9 @@ Now, normally we do not hear the beating of the heart because we are not conscio
 * Auntie: Can Every Person Do This Same...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:5
+  :genre: qa
+  :keywords:
+  :cite-key: MS:5
   :END:
 
 
@@ -211,9 +211,9 @@ Now, normally we do not hear the beating of the heart because we are not conscio
 * Auntie: My Mind Goes Towards Different Things;...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:6
+  :genre: qa
+  :keywords:
+  :cite-key: MS:6
   :END:
 
 
@@ -226,9 +226,9 @@ Now, normally we do not hear the beating of the heart because we are not conscio
 * Question Answered At The San Juan Centre
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:7e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:7e1
   :END:
 
 
@@ -236,9 +236,9 @@ Now, normally we do not hear the beating of the heart because we are not conscio
 * Mrs. Rose Albin: When A Person Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:7
+  :genre: qa
+  :keywords:
+  :cite-key: MS:7
   :END:
 
 
@@ -256,9 +256,9 @@ Now, in whom does the person who feels himself about to be destroyed emotionally
 
   :PROPERTIES:
   :SUBTITLE: Function In New York City, April 13, 1968
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:8e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:8e1
   :END:
 
 
@@ -266,10 +266,10 @@ Now, in whom does the person who feels himself about to be destroyed emotionally
 * Talk By Sudha, President Of Aum Centre In Puerto Rico    :noexport:
 
   :PROPERTIES:
-  :GENRE: discourse
+  :genre: discourse
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:8
+  :keywords:
+  :cite-key: MS:8
   :END:
 
 
@@ -287,9 +287,9 @@ I am sure that the greatest concern of each one of us here and of all their spir
 
   :PROPERTIES:
   :SUBTITLE: August 5, 1968, Aum Centre. San Juan, Puerto Rico
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:9
   :END:
 
 
@@ -313,10 +313,10 @@ We shall be playing on this Printing Machine, as human instruments, the Message 
 
   :PROPERTIES:
   :SUBTITLE: September 11, 1968, Aum Centre, San Juan, Puerto Rico
-  :GENRE: discourse
+  :genre: discourse
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:10
+  :keywords:
+  :cite-key: MS:10
   :END:
 
 
@@ -338,9 +338,9 @@ To the closest and dearest disciples, I am glad to tell you from the very depth 
 
   :PROPERTIES:
   :SUBTITLE: October 13, 1968, Aum Centre, San Juan, Puerto Rico
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:11
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:11
   :END:
 
 
@@ -366,9 +366,9 @@ My disciples here in Puerto Rico are truly strong. If they want to, they can mak
 
   :PROPERTIES:
   :SUBTITLE: Answers Summarised By Agni, October 15, 1968, Aum Centre, San Juan, Puerto Rico
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:12e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:12e1
   :END:
 
 
@@ -376,9 +376,9 @@ My disciples here in Puerto Rico are truly strong. If they want to, they can mak
 * 1 Very Frequently We Must Decide Whether Or...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:12
+  :genre: qa
+  :keywords:
+  :cite-key: MS:12
   :END:
 
 
@@ -393,9 +393,9 @@ A spiritual nurse like Dorothy should say, "Since I am not a realised person, I 
 * 2 Is The Use Of Tranquilisers (nerve Pills...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:13
+  :genre: qa
+  :keywords:
+  :cite-key: MS:13
   :END:
 
 
@@ -410,9 +410,9 @@ The Master added that if, however, the person had just undergone some emotional 
 * 3 Is Pain Useful To The Soul's Growth,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:14
+  :genre: qa
+  :keywords:
+  :cite-key: MS:14
   :END:
 
 
@@ -428,9 +428,9 @@ When Guru was fifteen or sixteen, he underwent a serious operation and was smili
 
   :PROPERTIES:
   :SUBTITLE: Monday, March 17, 1969, Aum Centre, San Juan, Puerto Rico
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:15
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:15
   :END:
 
 
@@ -504,9 +504,9 @@ In years to come, as Alo has prophesied here quite a few times, we will be known
 
   :PROPERTIES:
   :SUBTITLE: June 9, 1969, Aum Centre, San Juan, Puerto Rico
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:16
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:16
   :END:
 
 
@@ -589,9 +589,9 @@ How does he do this? What he does is that he sends his own soul to the sufferer.
 * A Question And Answer Period Followed This Talk.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:17e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:17e1
   :END:
 
 
@@ -599,9 +599,9 @@ How does he do this? What he does is that he sends his own soul to the sufferer.
 * Venu: Master, What Books Do You Think...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:17
+  :genre: qa
+  :keywords:
+  :cite-key: MS:17
   :END:
 
 
@@ -634,9 +634,9 @@ In the beginning, one may read good spiritual books to learn how to meditate. Af
 * Abhaya (ms. Lotte Wolff): I Would Like...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:18
+  :genre: qa
+  :keywords:
+  :cite-key: MS:18
   :END:
 
 
@@ -663,9 +663,9 @@ So the first thing is to realise God's Consciousness. The next thing is to ident
 * Abhaya: Christian Science Practitioners Try To Make...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:19
+  :genre: qa
+  :keywords:
+  :cite-key: MS:19
   :END:
 
 
@@ -692,9 +692,9 @@ To come back to your question, Abhaya, about a month ago, on our return to New Y
 * Chaitanya (mr. Juan Marina): How Do We...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:20
+  :genre: qa
+  :keywords:
+  :cite-key: MS:20
   :END:
 
 
@@ -718,10 +718,10 @@ So, Chaitanya, to come back to your question, it is not through reason that we c
 
   :PROPERTIES:
   :SUBTITLE: September 10, 1969, Aum Centre, San Juan, Puerto Rico
-  :GENRE: discourse
+  :genre: discourse
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:21
+  :keywords:
+  :cite-key: MS:21
   :END:
 
 
@@ -754,9 +754,9 @@ Guru and I have seen and observed all this, but we have never thanked them adequ
 * Question And Answer Period
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:22e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:22e1
   :END:
 
 
@@ -764,9 +764,9 @@ Guru and I have seen and observed all this, but we have never thanked them adequ
 * Mita (miss Wanda Caballero): After The Master...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:22
+  :genre: qa
+  :keywords:
+  :cite-key: MS:22
   :END:
 
 
@@ -785,9 +785,9 @@ Once the seeker makes the decision and once the Master approves of it, he accept
 * Mr. Ronald White (visitor): Is There Any...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:23
+  :genre: qa
+  :keywords:
+  :cite-key: MS:23
   :END:
 
 
@@ -814,9 +814,9 @@ So for a seeker, if he is a true seeker, he has to go through aspiration and not
 * Mr. Ronald White: Does Strong Involvement With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:24
+  :genre: qa
+  :keywords:
+  :cite-key: MS:24
   :END:
 
 
@@ -845,9 +845,9 @@ In the outer world, in the outer process, you get something, you achieve somethi
 * Question Asked By Alo Devi At The Aum Centre In San Juan On November 8, 1969
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:25e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:25e1
   :END:
 
 
@@ -855,9 +855,9 @@ In the outer world, in the outer process, you get something, you achieve somethi
 * Alo Devi: Gurudev, In Your Talk Tonight,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:25
+  :genre: qa
+  :keywords:
+  :cite-key: MS:25
   :END:
 
 
@@ -892,9 +892,9 @@ So to come back to your question, I wish to say to all disciples: "Stay inside m
 * Question Answered After A Discussion On The Life Of Christ At The Aum Centre In San Juan On November 8, 1969
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:26e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:26e1
   :END:
 
 
@@ -902,9 +902,9 @@ So to come back to your question, I wish to say to all disciples: "Stay inside m
 * Question: Master, What Caused Christ To Curse...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MS:26
+  :genre: qa
+  :keywords:
+  :cite-key: MS:26
   :END:
 
 
@@ -922,9 +922,9 @@ Krishna replied, "At present, her whole life is the cow and the milk, the milk a
 
   :PROPERTIES:
   :SUBTITLE: November 10, 1969, Aum Centre, San Juan, Puerto Rico
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MS:27e1
+  :genre: section
+  :keywords:
+  :cite-key: MS:27e1
   :END:
 
 
@@ -932,9 +932,9 @@ Krishna replied, "At present, her whole life is the cow and the milk, the milk a
 * Jignashu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:27
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:27
   :END:
 
 
@@ -949,9 +949,9 @@ Please repeat your soul's name a hundred times before you go to bed, and you wil
 * Nandita (madeleine)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:28
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:28
   :END:
 
 
@@ -966,9 +966,9 @@ Please repeat your soul's name a hundred times, and you will become one with you
 * Priti (isabel Murillo)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:29
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:29
   :END:
 
 
@@ -983,9 +983,9 @@ God is all Love. Your soul knows it, and your soul is offering that message to y
 * Pavitra (manuellopez)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:30
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:30
   :END:
 
 
@@ -1000,9 +1000,9 @@ Your soul wants to reveal itself through purity, and purity alone, here on earth
 * Urmi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:31
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:31
   :END:
 
 
@@ -1015,9 +1015,9 @@ The cosmic wave of your inner life, your soul, will impart to your outer life th
 * Mangal (ivan Colon)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:32
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:32
   :END:
 
 
@@ -1030,9 +1030,9 @@ It is through auspicious self-dedication, and the auspicious feeling of oneness 
 * Udayan (henry Collado)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MS:33
+  :genre: discourse
+  :keywords:
+  :cite-key: MS:33
   :END:
 
 
@@ -1048,10 +1048,10 @@ U-D-A-Y-A-N. Supreme, Supreme, Supreme.
 
   :PROPERTIES:
   :SUBTITLE: Summarised By Agni (josé Luis Casanova) At Sri Chinmoy's Request, On The Basis Of Agni's Longhand Notes, Taken When His Tape Recorder Failed.
-  :GENRE: discourse
+  :genre: discourse
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: MS:34
+  :keywords:
+  :cite-key: MS:34
   :END:
 
 

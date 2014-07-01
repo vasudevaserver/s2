@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1147
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1996
-  :PUBLISHER:
-  :CITE-KEY: SLKA
-  :GENRE: song
+  :book-number: 1147
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1996
+  :publisher:
+  :cite-key: SLKA
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SLKA:1e1
+  :genre: note
+  :cite-key: SLKA:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SLKA:1e2
+  :genre: note
+  :cite-key: SLKA:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bhalobase Mor Murkha Manas (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:1
+  :cite-key: SLKA:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Taito bhitare taito bahire heri shudhu andhiyar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:2
+  :cite-key: SLKA:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Within, without I see.
 * Chahi Jakhan Sabar Prane Tushite (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:3
+  :cite-key: SLKA:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Nache amar hiya pakhi kushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:4
+  :cite-key: SLKA:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ My soul-bird dances ecstasy's dance.
 * Amare Danite Esechi (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:5
+  :cite-key: SLKA:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ E madhur karibo prachar ashesh harashe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:6
+  :cite-key: SLKA:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ With delight infinite.
 * Shanti Lagi Kandbo Ami (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:7
+  :cite-key: SLKA:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Tomar paye bandhbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:8
+  :cite-key: SLKA:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ Cheerfully I shall bind my little ‘i’
 * Nabinata Dyuloke Nabinata Bhuloke 2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:9
+  :cite-key: SLKA:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Paramer dite chahi bijoyer saphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:10
+  :cite-key: SLKA:10
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ To offer the success-victory-life.
 * Ajanar Deshe Ghuriya Berai (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:11
+  :cite-key: SLKA:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Aji sugabhir dhyane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:12
+  :cite-key: SLKA:12
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ In my meditation’s deepest depths.
 * Jani Jani Agyanata Jai Na Chere Jete (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:13
+  :cite-key: SLKA:13
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ Bidurite taito kandi prabhur kripa pete
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:14
+  :cite-key: SLKA:14
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Of my Lord Supreme.
 * Jene Shune Amod Kare (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:15
+  :cite-key: SLKA:15
   :END:
 
 #+BEGIN_VERSE
@@ -306,10 +306,10 @@ Taito prabhu nahi heri kothao kona kul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:16
+  :cite-key: SLKA:16
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Nowhere I see.
 * Baddha Guhai Rakhibo (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:17
+  :cite-key: SLKA:17
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ Chira nabiner swapane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:18
+  :cite-key: SLKA:18
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Inside the dream of the ever-new.
 * Maner Bane Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:19
+  :cite-key: SLKA:19
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Amar hiyar asimatar dhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:20
+  :cite-key: SLKA:20
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Inside my own heart's wealth infinite.
 * Jago Jago Jago Prabhu (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:21
+  :cite-key: SLKA:21
   :END:
 
 #+BEGIN_VERSE
@@ -417,10 +417,10 @@ Pujbo tomai bhakti bhare diye phula saji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:22
+  :cite-key: SLKA:22
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ You I shall give my flower-casket.
 * Pracharite Tomar Bani (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:23
+  :cite-key: SLKA:23
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ Karbo puta hiya khani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:24
+  :cite-key: SLKA:24
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ All around the globe, my heart pure I shall make.
 * Your Message-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:25
+  :cite-key: SLKA:25
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ All around the globe, my heart pure I shall make.
 * Chahi Ami Mane Prane Nirabata (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:26
+  :cite-key: SLKA:26
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Bihane tar sabi nitur biphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:27
+  :cite-key: SLKA:27
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ Without silence, everything is a ruthless failure.
 * Silence I Desire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:28
+  :cite-key: SLKA:28
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ Everything is a ruthless failure.
 * Eso Eso Manorama Priyatama (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:29
+  :cite-key: SLKA:29
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Rupayite mor man kardama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:30
+  :cite-key: SLKA:30
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Do come down to transform my mind of clay.
 * O Beauty Infinite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:31
+  :cite-key: SLKA:31
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Do come down to transform my mind of clay.
 * Urte Chahi Pakhir Mato (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:32
+  :cite-key: SLKA:32
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ Raibona ar moher deshe nimne hatase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:33
+  :cite-key: SLKA:33
   :END:
 
 #+BEGIN_VERSE
@@ -623,10 +623,10 @@ In utter helplessness-sighs.
 * I Long to Fly Like the Birds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:34
+  :cite-key: SLKA:34
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ In utter helplessness-sighs.
 * Bhalobase Mor Murkha Manas (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:35
+  :cite-key: SLKA:35
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Taito bhitare taito bahire heri shudhu andhiyar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:36
+  :cite-key: SLKA:36
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Within, without I see.
 * My Stupid Mind Loves the Desire-Prison
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:37
+  :cite-key: SLKA:37
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Within, without I see.
 * Chahi Jakhan Sabar Prane Tushite (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:38
+  :cite-key: SLKA:38
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Nache amar hiya pakhi kushite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:39
+  :cite-key: SLKA:39
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ My soul-bird dances ecstasy's dance.
 * When I Try to Satisfy Everybody’s Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:40
+  :cite-key: SLKA:40
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ My soul-bird dances ecstasy’s dance.
 * Jago Jago Jago Prabhu (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:41
+  :cite-key: SLKA:41
   :END:
 
 #+BEGIN_VERSE
@@ -762,10 +762,10 @@ Diye phula saji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:42
+  :cite-key: SLKA:42
   :END:
 
 #+BEGIN_VERSE
@@ -781,10 +781,10 @@ You I shall give my flower-casket.
 * Awake! Awake!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1993
-  :CITE-KEY: SLKA:43
+  :cite-key: SLKA:43
   :END:
 
 #+BEGIN_VERSE
@@ -800,10 +800,10 @@ You I shall give my flower-casket.
 * Amare Danite Esechi (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:44
+  :cite-key: SLKA:44
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ E madhur bani karibo prachar ashesh harashe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:45
+  :cite-key: SLKA:45
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ With delight infinite.
 * Into the World I Came, Myself to Offer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:46
+  :cite-key: SLKA:46
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ With delight infinite.
 * Shanti Lagi Kandbo Ami (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:47
+  :cite-key: SLKA:47
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Tomar paye bandhbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:48
+  :cite-key: SLKA:48
   :END:
 
 #+BEGIN_VERSE
@@ -890,10 +890,10 @@ Cheerfully I shall bind my little ‘i’
 * For Peace I Shall Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:49
+  :cite-key: SLKA:49
   :END:
 
 #+BEGIN_VERSE
@@ -908,10 +908,10 @@ At Your Feet.
 * Nabinata Dyuloke Nabinata Bhuloke (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:50
+  :cite-key: SLKA:50
   :END:
 
 #+BEGIN_VERSE
@@ -926,10 +926,10 @@ Paramer dite chahi bijoyer saphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:51
+  :cite-key: SLKA:51
   :END:
 
 #+BEGIN_VERSE
@@ -946,10 +946,10 @@ To offer the success-victory-life.
 * O Newness in Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:52
+  :cite-key: SLKA:52
   :END:
 
 #+BEGIN_VERSE
@@ -966,10 +966,10 @@ The success-victory-life.
 * Ajanar Deshe Ghuriya Berai (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:53
+  :cite-key: SLKA:53
   :END:
 
 #+BEGIN_VERSE
@@ -984,10 +984,10 @@ Mor sugabhir dhyane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:54
+  :cite-key: SLKA:54
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ In my meditation’s deepest depths.
 * In the World of the Unknown
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:55
+  :cite-key: SLKA:55
   :END:
 
 #+BEGIN_VERSE
@@ -1022,10 +1022,10 @@ In my meditation’s deepest depths.
 * Jani Jani Agyanata Jai Na Chere Jete (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:56
+  :cite-key: SLKA:56
   :END:
 
 #+BEGIN_VERSE
@@ -1038,10 +1038,10 @@ Tare bidurite taito kandi prabhur kripa pete
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:57
+  :cite-key: SLKA:57
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ Of my Lord Supreme.
 * I Know Ignorance Does Not Want to Leave Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:58
+  :cite-key: SLKA:58
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ I cry for Compassion-Light of my Lord Supreme.
 * Jene Shune Amod Kare (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:59
+  :cite-key: SLKA:59
   :END:
 
 #+BEGIN_VERSE
@@ -1095,10 +1095,10 @@ Kothao kona kul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:60
+  :cite-key: SLKA:60
   :END:
 
 #+BEGIN_VERSE
@@ -1115,10 +1115,10 @@ Nowhere I see.
 * Knowing Perfectly Well
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:61
+  :cite-key: SLKA:61
   :END:
 
 #+BEGIN_VERSE
@@ -1135,10 +1135,10 @@ Nowhere I see.
 * Baddha Guhai Rakhibo (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:62
+  :cite-key: SLKA:62
   :END:
 
 #+BEGIN_VERSE
@@ -1153,10 +1153,10 @@ Chira nabiner swapane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:63
+  :cite-key: SLKA:63
   :END:
 
 #+BEGIN_VERSE
@@ -1173,10 +1173,10 @@ Inside the dream of the ever-new.
 * Today I Shall Keep My Old Life Inside a Cave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:64
+  :cite-key: SLKA:64
   :END:
 
 #+BEGIN_VERSE
@@ -1194,10 +1194,10 @@ Inside the dream of the ever-new.
 * Maner Sathe Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:65
+  :cite-key: SLKA:65
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Amar hiyar asimatar dhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:66
+  :cite-key: SLKA:66
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ Inside my own heart's wealth infinite.
 * Day and Night I Roam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:67
+  :cite-key: SLKA:67
   :END:
 
 #+BEGIN_VERSE
@@ -1250,10 +1250,10 @@ Inside my own heart’s wealth infinite.
 * Pracharite Tomar Bani (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:68
+  :cite-key: SLKA:68
   :END:
 
 #+BEGIN_VERSE
@@ -1266,10 +1266,10 @@ Karbo puta hiya khani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:69
+  :cite-key: SLKA:69
   :END:
 
 #+BEGIN_VERSE
@@ -1283,10 +1283,10 @@ All around the globe, my heart pure I shall make.
 * Chahi Ami Mane Prane Nirabata (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:70
+  :cite-key: SLKA:70
   :END:
 
 #+BEGIN_VERSE
@@ -1299,10 +1299,10 @@ Bihane tar sabi nitur biphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:71
+  :cite-key: SLKA:71
   :END:
 
 #+BEGIN_VERSE
@@ -1316,10 +1316,10 @@ Without silence, everything is a ruthless failure.
 * Eso Eso Manorama Priyatama (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:72
+  :cite-key: SLKA:72
   :END:
 
 #+BEGIN_VERSE
@@ -1332,10 +1332,10 @@ Rupayite mor man kardama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:73
+  :cite-key: SLKA:73
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ Do come down to transform my mind of clay.
 * Urte Chahi Pakhir Mato (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:74
+  :cite-key: SLKA:74
   :END:
 
 #+BEGIN_VERSE
@@ -1365,10 +1365,10 @@ Raibona ar moher deshe nimne hatase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-04-1993
-  :CITE-KEY: SLKA:75
+  :cite-key: SLKA:75
   :END:
 
 #+BEGIN_VERSE

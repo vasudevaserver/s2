@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1547
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2006
-  :PUBLISHER:
-  :CITE-KEY: JASH
-  :GENRE: song
+  :book-number: 1547
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2006
+  :publisher:
+  :cite-key: JASH
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JASH:1e1
+  :genre: note
+  :cite-key: JASH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JASH:1e2
+  :genre: note
+  :cite-key: JASH:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * He Mount Fuji He Mount Fuji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:1
+  :cite-key: JASH:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Hat chani diye dakiche karuna baridhi Buddha
 * Kabya Kusum Chayan Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:2
+  :cite-key: JASH:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Heri amar nil akasher urdha sopane
 * Samukhe Amar Subishal Arnab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:3
+  :cite-key: JASH:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Shanti gabhir nashe sab kalarabh
 * Nitya Nutan Swapan Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:4
+  :cite-key: JASH:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Swapan majhe phute uthe amar supta dhara
 * Anande Jabo Paramanande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:5
+  :cite-key: JASH:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Ananda lagi param pitare daki ami anukkhan
 * Urdha Loker Sharani Dakiche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:6
+  :cite-key: JASH:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ Chharite chahena jiban amar maya mamatar abani
 * Khudha Amar Peyeche Ma Hiyar Gabhir Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:7
+  :cite-key: JASH:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Purna habe pele kebal tomar pada sudha
 * Nil Akashe Megher Kole Duli Jakhan Duli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:8
+  :cite-key: JASH:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Ami amar chinta dhara sakal kichui bhuli
 * Aganita Chinta Dhara Bahir Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:9
+  :cite-key: JASH:9
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ Aganita ashru dhara hiyai gopane
 * Asta Chale Asta Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:10
+  :cite-key: JASH:10
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ Nutan jiban uthlo phute gabhir shanti bale
 * Keman Kare Kandi Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:11
+  :cite-key: JASH:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Keman kare charan kamal bandhi balo bandhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:12
+  :cite-key: JASH:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Oh, tell me how to bind Your Lotus-Feet.
 * Chinta Jethai Shanti Sethai Nahi Thake Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:13
+  :cite-key: JASH:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Chinta bihin jiban chahi ogo param prabhu
 * Budharer Mato Chahi Ami Prabhu Uchchhata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:14
+  :cite-key: JASH:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Sagarer mato chahi ami prabhu bishalata
 * Nijhum Rajani Sama Chahi Ami Nirabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:15
+  :cite-key: JASH:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Amarar mato chahi ami prabhu amarata
 * Urojahaj Urojahaj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:16
+  :cite-key: JASH:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Tomar majhe sudur desher jatri rashab mahanande dole
 * Purna Karite Hiyar Eshana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:17
+  :cite-key: JASH:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Hai hai hai kothai sadhana amije ashrudhar
 * Aji Hate Thakbo Kebal Nirabatar Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:18
+  :cite-key: JASH:18
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Agyanatar mukharata thakbena mor mukhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:19
+  :cite-key: JASH:19
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ From today on, I shall dwell in the heart of silence.
 * Pagoler Sama Ghuriya Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:20
+  :cite-key: JASH:20
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Muktir lagi he amar prabhu keno nahi kabhu magi
 * Durbalata Mane Prane Kebal Durbalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:21
+  :cite-key: JASH:21
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Bidurite nai je hiyai byakulata
 * Shanti Majhe Tripti Raje Tripti Majhe Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:22
+  :cite-key: JASH:22
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Shanti bina tripti bina jiban kebal bhranti
 * Ati Sajatane Ashru Nayane Rahi Taba Pada Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-07-2006
-  :CITE-KEY: JASH:23
+  :cite-key: JASH:23
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Basana kamana bedana jatana bahu dure jai chale
 * Jagiya Utheche Hriday Amar Nutan Alor Prabhate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:24
+  :cite-key: JASH:24
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ Sampibo amar jiban khanire dhara kalyan sobhate
 * Japaner Shobha Chira Manolobha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:25
+  :cite-key: JASH:25
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ Sasimer buke asim kheliche atishay madhumoy
 * Basana Jar Nitya Nutan Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:26
+  :cite-key: JASH:26
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Jibane tar phutbena hai bhati
 * Keman Kare Hasi Balo Keman Kare Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:27
+  :cite-key: JASH:27
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ Hridaye mor na dekhile rakhal rajar bañshi
 * Pran Gabhire Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:28
+  :cite-key: JASH:28
   :END:
 
 #+BEGIN_VERSE
@@ -515,10 +515,10 @@ Sethai shudhu dekhte pabo mor rabire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:29
+  :cite-key: JASH:29
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ There only I shall be able to meet with
 * Kare Chahi Ki Chahi Go Aji Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:30
+  :cite-key: JASH:30
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Bhul kareo keno prabhu paye basina
 * Manbona Ar Manbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:31
+  :cite-key: JASH:31
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ Aji hate karbo shudhu brihat amir sadhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:32
+  :cite-key: JASH:32
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ The big ‘I’ is the universal ‘I’ —
 * Chinta Sagare Santar Katiche jara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:33
+  :cite-key: JASH:33
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ Tader jiban habe je sarba hara
 * Abhaga Jedike Jai Kende Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:34
+  :cite-key: JASH:34
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Kende mari hatashai
 * Abhaga Jedike Jai Pran Dube
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:35
+  :cite-key: JASH:35
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Pran dube bedanai
 * Abhaga Jedike Jai Keno Tare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:36
+  :cite-key: JASH:36
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ Keno tare nahi chai
 * Juddha Karbo Timir Sathe Juddha Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:37
+  :cite-key: JASH:37
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Bhoy nai bhoy nai banchbo ki ar juddhe marbo
 * Ashar Duar Bhangte Dibona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:38
+  :cite-key: JASH:38
   :END:
 
 #+BEGIN_VERSE
@@ -689,10 +689,10 @@ Matha nata kabhu karbona
 * Ashan Pradip Khani Nibe Jai Nibe Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:39
+  :cite-key: JASH:39
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Bedan hriday mor asohai asohai nirupai
 * Ananda Lagi E Dharai Asa Jaowa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:40
+  :cite-key: JASH:40
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Ananda nabhe sakal chaowa paowa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:41
+  :cite-key: JASH:41
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ In the bliss-sky is the fulfilment
 * Chinta Nahe Bhabna Nahe Kebal Jatana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:42
+  :cite-key: JASH:42
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Kabe amar suru habe mukti sadhana
 * Sukhe Dukhe Sabar Sathe Ami Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:43
+  :cite-key: JASH:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Kholakuli bahu dure daladali
 * Ogo Sundaro Ogo Priyatama Ogo Mor Prananath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-2006
-  :CITE-KEY: JASH:44
+  :cite-key: JASH:44
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ Tomare pujite nasho nasho mor timir hiyar rat
 * Shakpura Shakpura Purba Shakpura Gram (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:45
+  :cite-key: JASH:45
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ Sethai mama antarajyami
 * Bhalo Lage Dakte Tomai Base Taru Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:46
+  :cite-key: JASH:46
   :END:
 
 #+BEGIN_VERSE
@@ -833,10 +833,10 @@ Bhalo lage pujte sethai hiyar ashru jale
 * Jiban Sangram Jiban Sangram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:47
+  :cite-key: JASH:47
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ Dibanishi katai sethai barai nishthur dham
 * Dibase Nishite Urite Chahigo Kalpana Nabhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:48
+  :cite-key: JASH:48
   :END:
 
 #+BEGIN_VERSE
@@ -867,10 +867,10 @@ Nimne dharar bedana jatana seta nahi rabe
 * Hethai Hothai Jana Samudra Aspriha Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:49
+  :cite-key: JASH:49
   :END:
 
 #+BEGIN_VERSE
@@ -884,10 +884,10 @@ Hriday amar pale pale kande barai bedan sure
 * Sabar mane Sabar Prane Ekti Shudhu Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:50
+  :cite-key: JASH:50
   :END:
 
 #+BEGIN_VERSE
@@ -901,10 +901,10 @@ Swadhinatar gabhiratar madhu bhalobasa
 * Nayan Khuliya Surjya Debata Dake More Ai Ai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:51
+  :cite-key: JASH:51
   :END:
 
 #+BEGIN_VERSE
@@ -918,10 +918,10 @@ Nayan mudile tamasabrita jiban amar hai
 * Dirgha Sharani Hai Harit Bale Aguan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:52
+  :cite-key: JASH:52
   :END:
 
 #+BEGIN_VERSE
@@ -934,10 +934,10 @@ Thamo thamo thamo taba lal bale sabdhan sabdhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:53
+  :cite-key: JASH:53
   :END:
 
 #+BEGIN_VERSE
@@ -954,10 +954,10 @@ My Lord’s green tells me,
 * Bhitar Amar Bahir Amar Sabiy Chalanta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:54
+  :cite-key: JASH:54
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ Urdhagami hate chahi agni shikha jwalanta
 * Prati Dibas Hiyar Kanna Bere Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:55
+  :cite-key: JASH:55
   :END:
 
 #+BEGIN_VERSE
@@ -988,10 +988,10 @@ Prati dibas ashar setu bhange hai
 * Urdhe Akash Nimne Batas Simana Bihin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:56
+  :cite-key: JASH:56
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ Ami hate chahi tader majhare dhyane samasin
 * Kothai Asha Kothai Asha Kothai Madhur Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:57
+  :cite-key: JASH:57
   :END:
 
 #+BEGIN_VERSE
@@ -1022,10 +1022,10 @@ Jiban dukhe maran buke andhar sarbanasha
 * Nimna Gati Dharar Jiban Nitya Nimna Gati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:58
+  :cite-key: JASH:58
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ Dekhbo ki hai ei jibane dharanir unnati
 * Bishwapati Bishwapati Tomari Janai Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:59
+  :cite-key: JASH:59
   :END:
 
 #+BEGIN_VERSE
@@ -1056,10 +1056,10 @@ Pale pale dao go more urdhagami sumati
 * Hriday Khulite Chahigo Janani Hriday Khulite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:60
+  :cite-key: JASH:60
   :END:
 
 #+BEGIN_VERSE
@@ -1073,10 +1073,10 @@ Kripa karo more nithur bedan jiban bhulite
 * Din Rajani Ashar Setu Bhenge Jai Go Bhenge Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:61
+  :cite-key: JASH:61
   :END:
 
 #+BEGIN_VERSE
@@ -1090,10 +1090,10 @@ Jiban nahe nithur maran rahe ami hatashai
 * Sabuj Jiban Sabuj Hriday Pete Ami Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:62
+  :cite-key: JASH:62
   :END:
 
 #+BEGIN_VERSE
@@ -1107,10 +1107,10 @@ Nabinatai bishwa prabhur bijoy jena gahi
 * Anantakal Khuje Mari Prabhu Tomar Sandhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:63
+  :cite-key: JASH:63
   :END:
 
 #+BEGIN_VERSE
@@ -1124,10 +1124,10 @@ Khuje tomai pabo bale kon khane go kon khane
 * Tripta Ami Hate Chahi Salpa Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:64
+  :cite-key: JASH:64
   :END:
 
 #+BEGIN_VERSE
@@ -1141,10 +1141,10 @@ Dipta ami hate chahi nirabatai
 * Tomar Kache Jete Prabhu Keno Kari Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:65
+  :cite-key: JASH:65
   :END:
 
 #+BEGIN_VERSE
@@ -1158,10 +1158,10 @@ Keman kare chitta tomar karbo balo joy
 * Pranam Janai Tomai Ogo Japan Desher Namrata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:66
+  :cite-key: JASH:66
   :END:
 
 #+BEGIN_VERSE
@@ -1174,10 +1174,10 @@ Pranam janai tomai ogo japan jiban khiprata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:67
+  :cite-key: JASH:67
   :END:
 
 #+BEGIN_VERSE
@@ -1193,10 +1193,10 @@ I salute your life’s velocity.
 * O Japan, I Salute Your Humility
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:68
+  :cite-key: JASH:68
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ I salute your life’s velocity.
 * Chandra Ma Chandra Ma Chandra Ma Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:69
+  :cite-key: JASH:69
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Niye jao e dharar andhiyar ghor
 * Nahi Jani Jiban Amar Kahar Indra Jal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:70
+  :cite-key: JASH:70
   :END:
 
 #+BEGIN_VERSE
@@ -1246,10 +1246,10 @@ Mahanande paripurna tripta amar bhal
 * Sukhe Dukhe Chalo Mago Amar Sathe Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:71
+  :cite-key: JASH:71
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Khama kripa sneha dhalo tumi dibarate
 * Charidike Mor Param Pitar Kripar Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:72
+  :cite-key: JASH:72
   :END:
 
 #+BEGIN_VERSE
@@ -1280,10 +1280,10 @@ Amare tushite debagan aji kare nartan
 * Swadhinata Nahi Chahi Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:73
+  :cite-key: JASH:73
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ Chahi shudhu taba abhilash purnata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:74
+  :cite-key: JASH:74
   :END:
 
 #+BEGIN_VERSE
@@ -1315,10 +1315,10 @@ Is Your Will-Fulfilment.
 * Freedom I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:75
+  :cite-key: JASH:75
   :END:
 
 #+BEGIN_VERSE
@@ -1334,10 +1334,10 @@ Is Your Will-Fulfilment.
 * Supti Amar Bhango Prabhu Agyanatar Supti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:76
+  :cite-key: JASH:76
   :END:
 
 #+BEGIN_VERSE
@@ -1351,10 +1351,10 @@ Pran gabhire neme eso niye asim dipti
 * Jiban Amar Kariyache Joy Rakhal Rajar Madhu Benu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:77
+  :cite-key: JASH:77
   :END:
 
 #+BEGIN_VERSE
@@ -1368,10 +1368,10 @@ Hriday amar kariyache joy rakhal rajar alo dhenu
 * Bishwa Matar Sebak Hate Chahe Amar Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:78
+  :cite-key: JASH:78
   :END:
 
 #+BEGIN_VERSE
@@ -1385,10 +1385,10 @@ Bishwa matar charan tale karbo amai dan
 * Param Pitar Bijoy Pataka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:79
+  :cite-key: JASH:79
   :END:
 
 #+BEGIN_VERSE
@@ -1402,10 +1402,10 @@ Tara je amar apanar jan daki hiya anginai
 * Sakal Duar Khuliya Rekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:80
+  :cite-key: JASH:80
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ Bhangi nai shudhu maya moha karagar
 * Param Gurur Nayan Parashe Jiban Amar Sudipta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:81
+  :cite-key: JASH:81
   :END:
 
 #+BEGIN_VERSE
@@ -1438,10 +1438,10 @@ Param gurur charan parashe hriday amar sutripta
 * Kalpana Nahe Jalpana Nahe Chahigo Bastabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:82
+  :cite-key: JASH:82
   :END:
 
 #+BEGIN_VERSE
@@ -1455,10 +1455,10 @@ Basona nashite eshana phutate chahi shudha nirabata
 * Kabya Kusum Karibo Chayan Param Prabhur Pujite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:83
+  :cite-key: JASH:83
   :END:
 
 #+BEGIN_VERSE
@@ -1472,10 +1472,10 @@ Nijere danibo nimeshe nimeshe hiyar majhire tushite
 * Ananda Dheu Ananda Dheu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:84
+  :cite-key: JASH:84
   :END:
 
 #+BEGIN_VERSE
@@ -1488,10 +1488,10 @@ Tomar swapane sabai apan nahe je apar keu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:85
+  :cite-key: JASH:85
   :END:
 
 #+BEGIN_VERSE
@@ -1507,10 +1507,10 @@ All are your own.
 * O Delight-Wave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:86
+  :cite-key: JASH:86
   :END:
 
 #+BEGIN_VERSE
@@ -1526,10 +1526,10 @@ All are your own.
 * Jatra Amar Shesh Habe Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:87
+  :cite-key: JASH:87
   :END:
 
 #+BEGIN_VERSE
@@ -1542,10 +1542,10 @@ Sabar hiyai dekha pabo param pitar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:88
+  :cite-key: JASH:88
   :END:
 
 #+BEGIN_VERSE
@@ -1559,10 +1559,10 @@ In each heart I shall see my Lord Beloved Supreme.
 * My Journey Ends Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-07-2006
-  :CITE-KEY: JASH:89
+  :cite-key: JASH:89
   :END:
 
 #+BEGIN_VERSE

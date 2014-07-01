@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1444
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2003
-  :PUBLISHER:
-  :CITE-KEY: KCTN-1
-  :GENRE: song
+  :book-number: 1444
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2003
+  :publisher:
+  :cite-key: KCTN-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KCTN:1e1
+  :genre: note
+  :cite-key: KCTN:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KCTN:1e2
+  :genre: note
+  :cite-key: KCTN:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Haste Giye Kende Mari Kothai Amar Praner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:1
+  :cite-key: KCTN:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Kothai amar praner Hari
 * Swarge Heri Kanur Nayan Martye Heri Kanur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:2
+  :cite-key: KCTN:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Kanur paye martye luti
 * Asi Nai Ami Ei Dharanite Manabe Nashite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:3
+  :cite-key: KCTN:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Esechi dharai hasite nachite kanur banshite
 * Bandhu Amar Charidhare Shatru Keha Nai Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:4
+  :cite-key: KCTN:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Taito ami pelam prabhur charan tale thai
 * Nai Je Amar Nai Je Amar Nai Je Kono Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:5
+  :cite-key: KCTN:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Bhitar bahir prabhur kebal asim barabhoy
 * Eshana Bhitare Basona Bahire Tai Je Jatana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:6
+  :cite-key: KCTN:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ Bhitare bahire karite haibe kathor sadhana
 * Hiyar Duar Khulte Giye Khule Pheli Maner Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:7
+  :cite-key: KCTN:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Taito amar jiban halo nithur prabal ashru jowar
 * Bishwa Prabhur Charana Dhuli Amar Sambal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:8
+  :cite-key: KCTN:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Jatra pathe sathi amar pradipta bal
 * Mago Tomar Kripa Bina Jiban Beena Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:9
+  :cite-key: KCTN:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Tomar charan dhuli rakhi mago amar sakal kaje
 * Katha Nahe Katha Nahe Seba Shudhu Chaho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:10
+  :cite-key: KCTN:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Chaho jadi paramer hiya madhu
 * Pratikkhane Bhitar Bahir Kebal Bhranti Dipti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:11
+  :cite-key: KCTN:11
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Dipti kothai tripti kothai shanti
 * Bhitare Amar Eshana Akash Rabi Bahire Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:12
+  :cite-key: KCTN:12
   :END:
 
 #+BEGIN_VERSE
@@ -248,10 +248,10 @@ Bahire Amar basona moher chhabi
 * Dur Asimer Karuna Plaban Amare Kareche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:13
+  :cite-key: KCTN:13
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ Tai ami gahi nimeshe nimeshe param pitar jaya gan
 * Hiya Pure Dhup Jwalabo Dhup Jwalabo Dhup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:14
+  :cite-key: KCTN:14
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Tabe amar ashanta man habe jani chup
 * Chahi Ami Amar Amir Rupantar Karbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:15
+  :cite-key: KCTN:15
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ Karbo ami sadhan bhajan nirantar
 * Mahanande Nutan Jiban Halo Suru Halo Suru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:16
+  :cite-key: KCTN:16
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Chaowa paowa niye gelo amar hiyar param guru
 * Hasite Hasite Duhate Amare Dharecho Nachite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:17
+  :cite-key: KCTN:17
   :END:
 
 #+BEGIN_VERSE
@@ -333,10 +333,10 @@ Nachite nachite apanar kare niyecho
 * Mantra Lagena Jantra Haite Kabhu Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:18
+  :cite-key: KCTN:18
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Lage shudhu jani prabhur lagiya hiyar ashrudhar
 * Hiya Khola Taito Bhola Dekha Dilo Antare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:19
+  :cite-key: KCTN:19
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Bholanather kripa sudha jiban nade santare
 * Khudha Bina Kripa Sudha Nahi Mile Kabhu Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:20
+  :cite-key: KCTN:20
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Ei kathati bare bare bale amai prabhu
 * Bidai Bela Balbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:21
+  :cite-key: KCTN:21
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Param prabhu dur karogo dharar badhirata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:22
+  :cite-key: KCTN:22
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Remove the deafness of the world.
 * Asha Sathe Benche Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:23
+  :cite-key: KCTN:23
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Asha sathe swarga dhame jabo ami neche neche
 * Nayan Dekhe Dibarati Timir Rashi Rashi Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:24
+  :cite-key: KCTN:24
   :END:
 
 #+BEGIN_VERSE
@@ -453,10 +453,10 @@ Hiya dekhe pale pale prabhur madhur banshi
 * Dibase Nishite Shudhu Ek Mor Minati Prati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:25
+  :cite-key: KCTN:25
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Prati chintai janate parame pranati
 * Madhur Madhur Barai Madhur Tomar Sabiy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:26
+  :cite-key: KCTN:26
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Tomar ratul charan kamal amar hiyar abani
 * Keno Kandi Janina Keno Hasi Janina Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:27
+  :cite-key: KCTN:27
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +504,10 @@ Jani Ami kebal tomar adesh manina
 * Swapan Madhur Swapan Madhur Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:28
+  :cite-key: KCTN:28
   :END:
 
 #+BEGIN_VERSE
@@ -520,10 +520,10 @@ Swapan Madhur Swapan Madhur Taito swapan bhalo amar lage Swapan majhe dhari ami 
 * Chinta Jagate Shanti Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:29
+  :cite-key: KCTN:29
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Shanti simana dure bahu dure phele ami chale jabo
 * Akuti Bhakati Chale Mor Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:30
+  :cite-key: KCTN:30
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Prabhu pada dhuli rakhibo moder mathe
 * Dibanishi Tomar Pujai Jiban Amar Katabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:31
+  :cite-key: KCTN:31
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Amar sakal kanna hasi tomar paye phutabo
 * Manaber Hasi Paramer Shudhu Chaowa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:32
+  :cite-key: KCTN:32
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Manaba Tripti paramer shudhu paowa
 * Akash Dake Batas Dake Hate Tader Sathi Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:33
+  :cite-key: KCTN:33
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Tara amai dibe jani amaratar bhati
 * Jatana Bhitare Jatana Bahire Jatana Nithur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:34
+  :cite-key: KCTN:34
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ Ogo dayamoy suru hok aji amar jibane sadhana
 * Shanti Chahi.. Shanti Prabhu Aji Niye Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:35
+  :cite-key: KCTN:35
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Prabhu Aji Niye Jabe amar sakal bhranti
 * Jani Jani Jethai Nahi Chaowa Paowa Jani Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:36
+  :cite-key: KCTN:36
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ Jani Jani sethai amar asa jaowa
 * Jiban Amar Maran Amar Thambe Aji Thambe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:37
+  :cite-key: KCTN:37
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Bishwa prabhur kripa brishti nambe aji nambe
 * Bindu Chhilam Sindhu Halem Param Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:38
+  :cite-key: KCTN:38
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Dhanya halo jiban amar param pitar pada tale
 * Sneha Makha Sanjher Tara Dake Amai Sanjher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:39
+  :cite-key: KCTN:39
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Agyanatar timir rate nahi habo patha hara
 * Bhalo Lage Nil Gagane Chanda Mamar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:40
+  :cite-key: KCTN:40
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Bhalo lage hiya pure kanur madhur banshi
 * Dekhte Habe Sabar Prane Alo Jadi Ami Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:41
+  :cite-key: KCTN:41
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Jadi Ami Hate chahi bhalo
 * Keman Kare Urabo Go Mago Tomar Ketan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:42
+  :cite-key: KCTN:42
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Jadi e pran na pai prabhu hate urdha chetan
 * Pale Pale Bhul Kari Hai Bhul Kari Tabu Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:43
+  :cite-key: KCTN:43
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ Tabu Ami prabhur charan na dhari
 * Chahina Kandite Chahina Hasite Chahi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:44
+  :cite-key: KCTN:44
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Prabhu jaya giti bhitare bahire nirabadhi jena gahi
 * Moher Bandhan Rekhechi Aj Dure Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:45
+  :cite-key: KCTN:45
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Phuteche oi gyaner tapan amar hiya pure
 * Ashar Bachan Barai Madhur Ashar Bachan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:46
+  :cite-key: KCTN:46
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Ashar majhe jege uthe sudha swapan
 * Benche Achi Kebal Tomar Ashesh Kripa Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:47
+  :cite-key: KCTN:47
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Marte chahi hese hese tomar charan tale
 * Keno Kari Bhoy Tomar Anke Phutite Keno Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:48
+  :cite-key: KCTN:48
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Keno kari bhoy jagite kanur banshite
 * Ami Gan Geyechi Gan Geyechi Param Pitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2002
-  :CITE-KEY: KCTN:49
+  :cite-key: KCTN:49
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Jani taha ahoituki kripa khamar dan
 * Abichal Nishchal Hate Habe Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:50
+  :cite-key: KCTN:50
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Tomare pujite mago veenapani
 * Chaile Pete Pari Taba Barabhoy Tabu Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:51
+  :cite-key: KCTN:51
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ Tabu Keno nahi chahi ogo dayamoy
 * Chandini Rate Sabai Dhare Nabinatar Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:52
+  :cite-key: KCTN:52
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Sabar prane jwale uthe puta madhur dhup
 * Nijhum Rate Ghum Bhenge Jai Ghum Bhenge
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:53
+  :cite-key: KCTN:53
   :END:
 
 #+BEGIN_VERSE
@@ -945,10 +945,10 @@ Bhenge jai ghum Param pitar dekha pelam mahananda dhum
 * Bhitare Bahire Amar Jibane Ashesh Mamata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:54
+  :cite-key: KCTN:54
   :END:
 
 #+BEGIN_VERSE
@@ -962,10 +962,10 @@ Kothai shanti kothai dipti tripti nirata
 * Maha Nidra Asha Lage Karbo Tomai Tushta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:55
+  :cite-key: KCTN:55
   :END:
 
 #+BEGIN_VERSE
@@ -979,10 +979,10 @@ Tomar kripar plabane je nitya ami pushta
 * Nichata Jader Manase Jibane Tader Sange
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:56
+  :cite-key: KCTN:56
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ Tader Sange rahibo kemane
 * Bachan Bagish Nahi Hate Chahi Jibane Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:57
+  :cite-key: KCTN:57
   :END:
 
 #+BEGIN_VERSE
@@ -1013,10 +1013,10 @@ Chahi shudhu ami tomare tushite gopane
 * Dur Digante Taba Jaya Giti Ami Je Niyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:58
+  :cite-key: KCTN:58
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Tomare tushibo tomar lagiya tomar hiyai jagibo
 * Ogo Dayamoy Amar Khudra Jiban Khanire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:59
+  :cite-key: KCTN:59
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Nijere daniya taba pada tale prati pale pale habo taba dut
 * Nishchita Jani Taba Darashan Ek Din Ami Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:60
+  :cite-key: KCTN:60
   :END:
 
 #+BEGIN_VERSE
@@ -1064,10 +1064,10 @@ Pulakita chite dur digante toma sathe ami jabo
 * Bandhu Kebal Param Pita Jani Ami Jani Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:61
+  :cite-key: KCTN:61
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Tabu keno prabhure mor buke nahi tani
 * Kahar Lagi Hiya Pure Kandi Aji Janina Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:62
+  :cite-key: KCTN:62
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ Kahar adesh bhul kare go ami kabhu manina go manina
 * Param Pita Hate Chahi Tomar Priya Vrithya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:63
+  :cite-key: KCTN:63
   :END:
 
 #+BEGIN_VERSE
@@ -1115,10 +1115,10 @@ Dekhbe tumi prabhu amar samarpaner nritya
 * Je Dekheche Tomar Charan Je Shuneche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-12-2002
-  :CITE-KEY: KCTN:64
+  :cite-key: KCTN:64
   :END:
 
 #+BEGIN_VERSE
@@ -1132,10 +1132,10 @@ Hridaye tar phutbe jani nitya nutan saphalata
 * Ke Cheyeche Se Dekheche Mayer Dibya Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:65
+  :cite-key: KCTN:65
   :END:
 
 #+BEGIN_VERSE
@@ -1149,10 +1149,10 @@ Ke dekheche se hayeche rupantarer dhup
 * Shakti Chahi Shakti Chahi Shakti Bhakti Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:66
+  :cite-key: KCTN:66
   :END:
 
 #+BEGIN_VERSE
@@ -1166,10 +1166,10 @@ Bhakti amai shakti debe bhakti
 * Shasan Kara Chharte Habe Kathor Shasan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:67
+  :cite-key: KCTN:67
   :END:
 
 #+BEGIN_VERSE
@@ -1183,10 +1183,10 @@ Jadi chahi prabhur paye pete asan
 * Hatasa Sagare Dubiya Marite Chahina Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:68
+  :cite-key: KCTN:68
   :END:
 
 #+BEGIN_VERSE
@@ -1200,10 +1200,10 @@ Shudhu ei khobh paramer giti gahina
 * Akashe Batase Shuni Ami Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:69
+  :cite-key: KCTN:69
   :END:
 
 #+BEGIN_VERSE
@@ -1217,10 +1217,10 @@ Bhitar jibane bahir jibane ananda aphuran
 * Kothai Rabi Kothai Shashi Man Akashe Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:70
+  :cite-key: KCTN:70
   :END:
 
 #+BEGIN_VERSE
@@ -1234,10 +1234,10 @@ Khama karo kripa karo daki tomai barebar
 * Diba Rati Ami Kebal Kahi Ekti Katha Kabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:71
+  :cite-key: KCTN:71
   :END:
 
 #+BEGIN_VERSE
@@ -1251,10 +1251,10 @@ Kabe tumi niye jabe amar hiyar byatha
 * Charidike Shuni Param Pita Ati Madhumoy Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:72
+  :cite-key: KCTN:72
   :END:
 
 #+BEGIN_VERSE
@@ -1268,10 +1268,10 @@ Ore mor man prabhur charane nijere pheliya rakh
 * Cheyechi Anek Kichu Peyechi Anek Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:73
+  :cite-key: KCTN:73
   :END:
 
 #+BEGIN_VERSE
@@ -1285,10 +1285,10 @@ Kripamoyi chahi khaniker tare taba pada parashan
 * Dinatar Bojha Chinta Pabona Jader Jibane Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2002
-  :CITE-KEY: KCTN:74
+  :cite-key: KCTN:74
   :END:
 
 #+BEGIN_VERSE
@@ -1302,10 +1302,10 @@ Bidhata Danibe Tader Sabare Charan kamae thai
 * Chalak Hale Chalbena Go Joga Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:75
+  :cite-key: KCTN:75
   :END:
 
 #+BEGIN_VERSE
@@ -1318,10 +1318,10 @@ Thai pabena bishwa prabhur bijoy rathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:76
+  :cite-key: KCTN:76
   :END:
 
 #+BEGIN_VERSE
@@ -1337,10 +1337,10 @@ The Victory-Chariot of the Lord Supreme.
 * He Anurakti Jao Dure Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:77
+  :cite-key: KCTN:77
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Chupi chupi chupi ati druta gati kathati na bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:78
+  :cite-key: KCTN:78
   :END:
 
 #+BEGIN_VERSE
@@ -1372,10 +1372,10 @@ In pindrop silence, fast, very fast,
 * Bhalo Adhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:79
+  :cite-key: KCTN:79
   :END:
 
 #+BEGIN_VERSE
@@ -1388,10 +1388,10 @@ Keman kare dhalbe prabhu kripa pathar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:80
+  :cite-key: KCTN:80
   :END:
 
 #+BEGIN_VERSE
@@ -1405,10 +1405,10 @@ How can He bring down His Compassion Infinite?
 * Ap Bhala Ta Jagat Bhala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:81
+  :cite-key: KCTN:81
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ Ap kala ta jagat kala
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:82
+  :cite-key: KCTN:82
   :END:
 
 #+BEGIN_VERSE
@@ -1438,10 +1438,10 @@ If you are bad, everybody is bad.
 * He Dharani Pal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:83
+  :cite-key: KCTN:83
   :END:
 
 #+BEGIN_VERSE
@@ -1454,10 +1454,10 @@ Dharo dharo mor aji shubha prate jiban tarir hal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-2002
-  :CITE-KEY: KCTN:84
+  :cite-key: KCTN:84
   :END:
 
 #+BEGIN_VERSE
@@ -1472,10 +1472,10 @@ The oars of my life boat.
 * Urdhachetana Urdhachetana Urdhachetana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:85
+  :cite-key: KCTN:85
   :END:
 
 #+BEGIN_VERSE
@@ -1489,10 +1489,10 @@ Tomar bihane jiban amar kebal bedana
 * Sonali Tarani Niye Jabe More Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:86
+  :cite-key: KCTN:86
   :END:
 
 #+BEGIN_VERSE
@@ -1506,10 +1506,10 @@ Priyatama mama jariye dharibe kripa ankhi hasi hese
 * Shasan Karo Shasan Karo Tibra Shasan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:87
+  :cite-key: KCTN:87
   :END:
 
 #+BEGIN_VERSE
@@ -1523,10 +1523,10 @@ Bhango amar agyanatar sakal bandhan
 * Bhalo Manda Bichar Karo Karbona Ar Karbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:88
+  :cite-key: KCTN:88
   :END:
 
 #+BEGIN_VERSE
@@ -1540,10 +1540,10 @@ Amar amir sathe kabhu raibona go raibona
 * Bandhu Sathe Habo Dayal Habo Dayal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:89
+  :cite-key: KCTN:89
   :END:
 
 #+BEGIN_VERSE
@@ -1557,10 +1557,10 @@ Shatru sathe habo bhayal habo bhayal
 * Bhikkha Kari Dibarati Mayer Kripa Bhikkha Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:90
+  :cite-key: KCTN:90
   :END:
 
 #+BEGIN_VERSE
@@ -1574,10 +1574,10 @@ Pabe amar jiban khani nutan ushar shikkha
 * Jani Jani Belai Kaji Kaj Phurale Paji Saral Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:91
+  :cite-key: KCTN:91
   :END:
 
 #+BEGIN_VERSE
@@ -1591,10 +1591,10 @@ Saral karo jiban amar hiya tarir majhi
 * Pran Gabhire Ekti Shudhu Madhur Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:92
+  :cite-key: KCTN:92
   :END:
 
 #+BEGIN_VERSE
@@ -1608,10 +1608,10 @@ Charidhare heri jeno shanti bhudan
 * Patha Brashta Nahi Habo Patha Brashta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:93
+  :cite-key: KCTN:93
   :END:
 
 #+BEGIN_VERSE
@@ -1625,10 +1625,10 @@ Prabhu kripa raje prane jani spashta
 * E Jibane Jar Nai Bedhagyan Se Je Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:94
+  :cite-key: KCTN:94
   :END:
 
 #+BEGIN_VERSE
@@ -1642,10 +1642,10 @@ Se je pabe paramer sandhan
 * Jiban Saral Hriday Saral Ei Dharate Barai Biral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:95
+  :cite-key: KCTN:95
   :END:
 
 #+BEGIN_VERSE
@@ -1659,10 +1659,10 @@ Ei dharate barai biral
 * Sadhak Prabar Hate Chahi Sadhak Prabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:96
+  :cite-key: KCTN:96
   :END:
 
 #+BEGIN_VERSE
@@ -1676,10 +1676,10 @@ Pete chahi param prabhur kripa adar
 * Bhaba Lila Sanga Habar Age Rakhi Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:97
+  :cite-key: KCTN:97
   :END:
 
 #+BEGIN_VERSE
@@ -1693,10 +1693,10 @@ Rakhi jeno tomai purabhage
 * Priti Bhare Dibarati Daki Tomai Jabe Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:98
+  :cite-key: KCTN:98
   :END:
 
 #+BEGIN_VERSE
@@ -1710,10 +1710,10 @@ Shanti labhi tripti labhi amar khudra bhabe
 * Tomar Ratul Charan Jugal Kare Amai Pushta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:99
+  :cite-key: KCTN:99
   :END:
 
 #+BEGIN_VERSE
@@ -1727,10 +1727,10 @@ Tomar katha bhebe bhebe halem ami tushta
 * Chiratare Raho Dure Raho Tumi Prabhu Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:100
+  :cite-key: KCTN:100
   :END:
 
 #+BEGIN_VERSE
@@ -1744,10 +1744,10 @@ Tomar puja nitya ami kari ami tabu
 * Swapan Kusum Chayan Karibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:101
+  :cite-key: KCTN:101
   :END:
 
 #+BEGIN_VERSE
@@ -1760,10 +1760,10 @@ Jiban maran rahasya giti paribo janite shikhite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-12-2002
-  :CITE-KEY: KCTN:102
+  :cite-key: KCTN:102
   :END:
 
 #+BEGIN_VERSE
@@ -1779,10 +1779,10 @@ The mystery-song of my life and death.
 * Jiban Samare Karibo Na Palayan Bijoyi Haibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:103
+  :cite-key: KCTN:103
   :END:
 
 #+BEGIN_VERSE
@@ -1796,10 +1796,10 @@ Bijoyi haibo ei mor maha pan
 * Parer Truti Na Dekhile Parer Truti Bishwa Matar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:104
+  :cite-key: KCTN:104
   :END:
 
 #+BEGIN_VERSE
@@ -1813,10 +1813,10 @@ Bishwa matar pabo ami charan dhuti
 * Tomar Sebai Mahina Chahina Mahina Nijere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:105
+  :cite-key: KCTN:105
   :END:
 
 #+BEGIN_VERSE
@@ -1830,10 +1830,10 @@ Nijere danite nahi kichu ami chahina
 * Karo Prabhu Karo Prabhu Karo Tiraskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:106
+  :cite-key: KCTN:106
   :END:
 
 #+BEGIN_VERSE
@@ -1847,10 +1847,10 @@ Ta je amar ei jibaner shreshta puraskar
 * Paran Amar Barai Ahangkari Eso Eso Dao Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:107
+  :cite-key: KCTN:107
   :END:
 
 #+BEGIN_VERSE
@@ -1864,10 +1864,10 @@ Eso eso dao go dekha ogo darpa hari
 * Amode Pramode Jara Thake Dibarati Dekhibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:108
+  :cite-key: KCTN:108
   :END:
 
 #+BEGIN_VERSE
@@ -1881,10 +1881,10 @@ Dekhibe na kabhu urdha loker bhati
 * Ahang Bina Sadhak Barai Durlabha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:109
+  :cite-key: KCTN:109
   :END:
 
 #+BEGIN_VERSE
@@ -1898,10 +1898,10 @@ Tader jiban bishwa prabhur bhoibhaba
 * Dibarati Param Pita Ami Tomar Das Anudas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:110
+  :cite-key: KCTN:110
   :END:
 
 #+BEGIN_VERSE
@@ -1915,10 +1915,10 @@ Namra shire bhakti bhare tomar paye kahi je bas
 * Tar Tar Kare Kanpe Hiya Dekhi Jakhan Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:111
+  :cite-key: KCTN:111
   :END:
 
 #+BEGIN_VERSE
@@ -1932,10 +1932,10 @@ Tabu tomai dakina ma tomar paye nahi thaki
 * Bhule Bhule Britha Amar Jiban Gelo Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:112
+  :cite-key: KCTN:112
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Kabhu je hai pabonaje thai tomar charan tale
 * Nidra Bihin Kari Ami Tomar Puja Tabu Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:113
+  :cite-key: KCTN:113
   :END:
 
 #+BEGIN_VERSE
@@ -1966,10 +1966,10 @@ Tabu tomai paina dekha mago dashabhuja
 * Bhagaban Bhagaban Dao More Naba Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:114
+  :cite-key: KCTN:114
   :END:
 
 #+BEGIN_VERSE
@@ -1983,10 +1983,10 @@ Kandi ami toma lagi rahi ami nishi jagi tabu more prankalo
 * Amar Katha Bali Kebal Bishwa Sabha Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:115
+  :cite-key: KCTN:115
   :END:
 
 #+BEGIN_VERSE
@@ -2000,10 +2000,10 @@ Ei jibane prabhur kripa taito nahi raje
 * Urdha Jagat Dake Amai Urdha Jagat Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:116
+  :cite-key: KCTN:116
   :END:
 
 #+BEGIN_VERSE
@@ -2017,10 +2017,10 @@ Sethai gele dekhte pabo priyatama makhe
 * Jeyona Jeyona He Param PitaJeyona Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2002
-  :CITE-KEY: KCTN:117
+  :cite-key: KCTN:117
   :END:
 
 #+BEGIN_VERSE
@@ -2034,10 +2034,10 @@ Jadi jete habe he karunamoy jao go amare mariya
 * Ore Amar Sonar Tari Tomar Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2002
-  :CITE-KEY: KCTN:118
+  :cite-key: KCTN:118
   :END:
 
 #+BEGIN_VERSE
@@ -2050,10 +2050,10 @@ Amar hiyar asha kusum nitui raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-2002
-  :CITE-KEY: KCTN:119
+  :cite-key: KCTN:119
   :END:
 
 #+BEGIN_VERSE
@@ -2068,10 +2068,10 @@ In you dwell every day.
 * Jadi Nahi Hai Sabar Saman Nahi Tabe Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:120
+  :cite-key: KCTN:120
   :END:
 
 #+BEGIN_VERSE
@@ -2085,10 +2085,10 @@ Nahi tabe kabhu prabhur sandhan
 * Sabar Saman Jiban Amar Hate Habe Tabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:121
+  :cite-key: KCTN:121
   :END:
 
 #+BEGIN_VERSE
@@ -2102,10 +2102,10 @@ Tabe jani shanti pabo bishal bhabe
 * Agyaner Andhakare Nahi Heri Bidhatare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:122
+  :cite-key: KCTN:122
   :END:
 
 #+BEGIN_VERSE
@@ -2119,10 +2119,10 @@ Heri shudhu mohakara e jiban patha hara
 * Ami Habo Amar Hiyar Urdhagami Eshana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:123
+  :cite-key: KCTN:123
   :END:
 
 #+BEGIN_VERSE
@@ -2136,10 +2136,10 @@ Dharar buke karbo shudhu prabhur jaya ghosana
 * Ar Katokal Soiba Balo Loker Badnam Balo Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:124
+  :cite-key: KCTN:124
   :END:
 
 #+BEGIN_VERSE
@@ -2153,10 +2153,10 @@ Balo balo ebar balo amar atma ram
 * Urdha Gami Agni Shikha Sathi Amar Nahi Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:125
+  :cite-key: KCTN:125
   :END:
 
 #+BEGIN_VERSE
@@ -2170,10 +2170,10 @@ Nahi heri kothao ami praner andhar
 * Nahi Mrinmoy Ami Chinmoy Chira Akkhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:126
+  :cite-key: KCTN:126
   :END:
 
 #+BEGIN_VERSE
@@ -2187,10 +2187,10 @@ Chira akkhoy chira abyoy
 * Swapne Heri Bishwa Bhuban Barai Manoram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:127
+  :cite-key: KCTN:127
   :END:
 
 #+BEGIN_VERSE
@@ -2204,10 +2204,10 @@ Bastabete heri kebal kali ar kardam
 * Bina Doshe Sabai Kare Amar Apaman Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:128
+  :cite-key: KCTN:128
   :END:
 
 #+BEGIN_VERSE
@@ -2221,10 +2221,10 @@ Tabu ami geye chali prabhur jaya gan
 * Dure Dure Bahu Dure Agyanata Param Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:129
+  :cite-key: KCTN:129
   :END:
 
 #+BEGIN_VERSE
@@ -2238,10 +2238,10 @@ Param pita laho amar kritagyata
 * Sunam Kunam Kari Barjan Jachi Ami Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:130
+  :cite-key: KCTN:130
   :END:
 
 #+BEGIN_VERSE
@@ -2255,10 +2255,10 @@ Jachi ami taba darashan
 * Ami Unmad
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:131
+  :cite-key: KCTN:131
   :END:
 
 #+BEGIN_VERSE
@@ -2272,10 +2272,10 @@ Khaniker tare prabhur charan darashan ami magi
 * Nidra Magan Jiban Amar Nidra Magan Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:132
+  :cite-key: KCTN:132
   :END:
 
 #+BEGIN_VERSE
@@ -2289,10 +2289,10 @@ Hiya nabhe nahi phute prabhur swapan
 * Pratijogita Chahina Ar Pratijogita Chahi Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:133
+  :cite-key: KCTN:133
   :END:
 
 #+BEGIN_VERSE
@@ -2306,10 +2306,10 @@ Chahi kebal dibas rate sahajogita
 * Nai Je Amar Hiya Pure Dibya Premer Bhati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:134
+  :cite-key: KCTN:134
   :END:
 
 #+BEGIN_VERSE
@@ -2323,10 +2323,10 @@ Taito heri chaudike more ghor andhiyar rati
 * Bahudin Pare Amar Hiyar Pushpita Kanane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:135
+  :cite-key: KCTN:135
   :END:
 
 #+BEGIN_VERSE
@@ -2340,10 +2340,10 @@ Param pitar charan jugal nehari swapane
 * Bipade Parile Daki Go Kebal Bipade Parile Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:136
+  :cite-key: KCTN:136
   :END:
 
 #+BEGIN_VERSE
@@ -2357,10 +2357,10 @@ Tai ami aji dubiya marinu aghad salile
 * Dao More Dao He Param Pita Madhur Bhakati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:137
+  :cite-key: KCTN:137
   :END:
 
 #+BEGIN_VERSE
@@ -2374,10 +2374,10 @@ Bhakati bihane mulya bihin amar pranati
 * Bhangte Habe Bhangte Habe Moher Kara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:138
+  :cite-key: KCTN:138
   :END:
 
 #+BEGIN_VERSE
@@ -2391,10 +2391,10 @@ Nabin ushai jiban habe bandhan hara
 * Bhul Kari Bhul Kari Bhul Kari Ami Dibarat Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:139
+  :cite-key: KCTN:139
   :END:
 
 #+BEGIN_VERSE
@@ -2408,10 +2408,10 @@ Tai bujhi priyatama rakho dure taba ashirbad
 * Nidra Bihin Sangi Bihin Drishti Bihin Jiban Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:140
+  :cite-key: KCTN:140
   :END:
 
 #+BEGIN_VERSE
@@ -2425,10 +2425,10 @@ Kothai tumi param pita kothai tomar kripa pathar
 * E Jibane Kabhu Nahi Hate Chahi Maha Garbita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:141
+  :cite-key: KCTN:141
   :END:
 
 #+BEGIN_VERSE
@@ -2442,10 +2442,10 @@ Prabhur charan shudhu sambal ei janiyachi sthir
 * Alas Manas Alas Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:142
+  :cite-key: KCTN:142
   :END:
 
 #+BEGIN_VERSE
@@ -2459,10 +2459,10 @@ Thai nahi pabo e jibane hai mayer charan parash
 * Pale Pale Param Pita Laho Amar Pranati Shuno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:143
+  :cite-key: KCTN:143
   :END:
 
 #+BEGIN_VERSE
@@ -2476,10 +2476,10 @@ Shuno shuno barek aji mor akuti minati
 * Chaowar Bandhan Churna Halo Tai Labhinu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:144
+  :cite-key: KCTN:144
   :END:
 
 #+BEGIN_VERSE
@@ -2493,10 +2493,10 @@ Hiya pure phutbe aji nirabatar kanti
 * Maner Andhare Praner Andhare Deher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:145
+  :cite-key: KCTN:145
   :END:
 
 #+BEGIN_VERSE
@@ -2510,10 +2510,10 @@ Taito amar bhitar jiban bahir jiban halo je pabita
 * Bishal Habe Maha Tabe Khudra Jiban Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:146
+  :cite-key: KCTN:146
   :END:
 
 #+BEGIN_VERSE
@@ -2527,10 +2527,10 @@ Mayer kripai mor jibaner andhar habe bhor
 * Chiratare Ami Hate Chahi Prabhu Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:147
+  :cite-key: KCTN:147
   :END:
 
 #+BEGIN_VERSE
@@ -2544,10 +2544,10 @@ Tushibo tomare nimeshe nimeshe ei shudhu abhilash
 * Jani Jani Jiban Amar Nitya Mago Chale Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:148
+  :cite-key: KCTN:148
   :END:
 
 #+BEGIN_VERSE
@@ -2561,10 +2561,10 @@ Tomar hasi tomar sneha tomar kripa bale
 * Eso Eso Eso Ogo Asimatar Nirabata Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:149
+  :cite-key: KCTN:149
   :END:
 
 #+BEGIN_VERSE
@@ -2578,10 +2578,10 @@ Jiban amar maran amar pabe jani saphalata
 * Purna Hate Chaho Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:150
+  :cite-key: KCTN:150
   :END:
 
 #+BEGIN_VERSE
@@ -2594,10 +2594,10 @@ Chaowa paowar bishal prashad churna karo churna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-2002
-  :CITE-KEY: KCTN:151
+  :cite-key: KCTN:151
   :END:
 
 #+BEGIN_VERSE
@@ -2614,10 +2614,10 @@ And your desire-fulfilment.
 * Eso Eso Eso Baso Baso Baso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:152
+  :cite-key: KCTN:152
   :END:
 
 #+BEGIN_VERSE
@@ -2630,10 +2630,10 @@ Neharite chahi priyatama taba karuna pathar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:153
+  :cite-key: KCTN:153
   :END:
 
 #+BEGIN_VERSE
@@ -2650,10 +2650,10 @@ Your Compassion infinite.
 * Amar Katha Shunbe Je Jan Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:154
+  :cite-key: KCTN:154
   :END:
 
 #+BEGIN_VERSE
@@ -2667,10 +2667,10 @@ Jibane tar uthbe phute madhurata
 * Udas Hale Chalbena Go Chalbena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:155
+  :cite-key: KCTN:155
   :END:
 
 #+BEGIN_VERSE
@@ -2684,10 +2684,10 @@ Tomar katha dharai keha balbena
 * Sabar Katha Balbe Pabe Tripti Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:156
+  :cite-key: KCTN:156
   :END:
 
 #+BEGIN_VERSE
@@ -2701,10 +2701,10 @@ Tumi habe amaratar dipti
 * Chatragramer Katha Jakhan Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:157
+  :cite-key: KCTN:157
   :END:
 
 #+BEGIN_VERSE
@@ -2718,10 +2718,10 @@ Kritagyatar ashru madhu jhare kebal jhare
 * Chokher Kanna Dekhe Sabai Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:158
+  :cite-key: KCTN:158
   :END:
 
 #+BEGIN_VERSE
@@ -2735,10 +2735,10 @@ Hiyar bhashai kahi katha keha kichui bujhena
 * Sabar Majhe Raje Jani Param Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:159
+  :cite-key: KCTN:159
   :END:
 
 #+BEGIN_VERSE
@@ -2752,10 +2752,10 @@ Tader katha bhul kareo kahina hai kabhu
 * Maner Duar Praner Duar Hiyar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:160
+  :cite-key: KCTN:160
   :END:
 
 #+BEGIN_VERSE
@@ -2769,10 +2769,10 @@ Ghor andhiyar charidhare mor kothai karuna buddha
 * Tomar Charane Bandhiya Rekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:161
+  :cite-key: KCTN:161
   :END:
 
 #+BEGIN_VERSE
@@ -2786,10 +2786,10 @@ Taito pelam amar shanti hridaya gabhire
 * He Param Pita Bishwa Bidhata Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:162
+  :cite-key: KCTN:162
   :END:
 
 #+BEGIN_VERSE
@@ -2803,10 +2803,10 @@ Phutao amar hiyar akashe madhurima bhara indu
 * Ami Hate Chahi Bhitare Bahire Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:163
+  :cite-key: KCTN:163
   :END:
 
 #+BEGIN_VERSE
@@ -2822,10 +2822,10 @@ tomar charan chumi
 * Kusum Phute Kusum Phute Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:164
+  :cite-key: KCTN:164
   :END:
 
 #+BEGIN_VERSE
@@ -2841,10 +2841,10 @@ swapan sopane
 * Bhangte Habe Maner Duar Khulte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:165
+  :cite-key: KCTN:165
   :END:
 
 #+BEGIN_VERSE
@@ -2860,10 +2860,10 @@ param pitar kripa jowar
 * Sandeha Mor Aghat Kare Tibra Aghat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:166
+  :cite-key: KCTN:166
   :END:
 
 #+BEGIN_VERSE
@@ -2879,10 +2879,10 @@ nai je prabhat
 * Ore Amar Maner Praner Barai Nithur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:167
+  :cite-key: KCTN:167
   :END:
 
 #+BEGIN_VERSE
@@ -2898,10 +2898,10 @@ mor jibaner biphalata
 * Jogyata Chahi Jogyata Chahi Jogyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:168
+  :cite-key: KCTN:168
   :END:
 
 #+BEGIN_VERSE
@@ -2915,10 +2915,10 @@ Ta na hale jani e jiban habe byarthata
 * Hriday Duar Rekhechi Khuliya Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:169
+  :cite-key: KCTN:169
   :END:
 
 #+BEGIN_VERSE
@@ -2932,10 +2932,10 @@ Tomar bihane jiban katai barai bedan sure
 * Ami Sardul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:170
+  :cite-key: KCTN:170
   :END:
 
 #+BEGIN_VERSE
@@ -2949,10 +2949,10 @@ Shanti labhinu tripti labhinu prabhur charan dhari
 * Hiyakashe Dekhi Jakhan Chand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:171
+  :cite-key: KCTN:171
   :END:
 
 #+BEGIN_VERSE
@@ -2966,10 +2966,10 @@ Bhangte pari agyanatar bandh
 * Ananda Dheu Chaho Jadi Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2002
-  :CITE-KEY: KCTN:172
+  :cite-key: KCTN:172
   :END:
 
 #+BEGIN_VERSE
@@ -2983,10 +2983,10 @@ Pabitra chite madhur kanthe dako dako dako sabare
 * He Madhavi He Madhavi He Madhavi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-2002
-  :CITE-KEY: KCTN:173
+  :cite-key: KCTN:173
   :END:
 
 #+BEGIN_VERSE
@@ -3000,10 +3000,10 @@ Tumi tomar hiya kasher amar chhabi
 * Pranika Jibane Oishi Shakti Pranika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-2002
-  :CITE-KEY: KCTN:174
+  :cite-key: KCTN:174
   :END:
 
 #+BEGIN_VERSE
@@ -3017,10 +3017,10 @@ Amarata bani phuteche ajike tahar swapane
 * Nitya Nabina Karal Badana Chandika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-2002
-  :CITE-KEY: KCTN:175
+  :cite-key: KCTN:175
   :END:
 
 #+BEGIN_VERSE
@@ -3034,10 +3034,10 @@ Bishwa srashta bishwa srishti maha pita maha mata
 * Chaho Jadi Bhitare Bahire Santosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:176
+  :cite-key: KCTN:176
   :END:
 
 #+BEGIN_VERSE
@@ -3051,10 +3051,10 @@ Dekhibena kabhu karo kono dosh
 * Bhitar Jibane Ami Maha Aditya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:177
+  :cite-key: KCTN:177
   :END:
 
 #+BEGIN_VERSE
@@ -3068,10 +3068,10 @@ Bahir jibane ami tamasa brita
 * Ami Amar Param Prabhur Bhakta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:178
+  :cite-key: KCTN:178
   :END:
 
 #+BEGIN_VERSE
@@ -3085,10 +3085,10 @@ Ei jibane nahi kichu sakta
 * Bhitare Bahire Ami Hate Chahi Nirmal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:179
+  :cite-key: KCTN:179
   :END:
 
 #+BEGIN_VERSE
@@ -3102,10 +3102,10 @@ Pratiti chinta habe je amar jhalamal
 * Bhul Kareo Nahi Kari Tomar Puja
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:180
+  :cite-key: KCTN:180
   :END:
 
 #+BEGIN_VERSE
@@ -3119,10 +3119,10 @@ Taito jiban britha gelo dashabhuja
 * Cheyechilam Hate Bishal Dharar Nripal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:181
+  :cite-key: KCTN:181
   :END:
 
 #+BEGIN_VERSE
@@ -3136,10 +3136,10 @@ Hayegelam ati tuchchha pora kapal
 * Nitya Nutan Hiyar Khudha Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:182
+  :cite-key: KCTN:182
   :END:
 
 #+BEGIN_VERSE
@@ -3153,10 +3153,10 @@ Bhitar bahir tomar bijoy gahi
 * Khudra Manas Ati Puratan Pashaner Sama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:183
+  :cite-key: KCTN:183
   :END:
 
 #+BEGIN_VERSE
@@ -3170,10 +3170,10 @@ Pashaner sama ami achetan
 * Jiban Habe Asthaloy Maran Habe Premamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:184
+  :cite-key: KCTN:184
   :END:
 
 #+BEGIN_VERSE
@@ -3187,10 +3187,10 @@ Hriday habe debaloy ami habo kripamoy
 * Jiban Amar Nahi Habe Ushar Maru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:185
+  :cite-key: KCTN:185
   :END:
 
 #+BEGIN_VERSE
@@ -3204,10 +3204,10 @@ Dibya jiban madhur swapan halo suru
 * Ami Habo Surjya Upasak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:186
+  :cite-key: KCTN:186
   :END:
 
 #+BEGIN_VERSE
@@ -3221,10 +3221,10 @@ Ei je amar ekti matra sakh
 * Hate Habe Hiyar Jwal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:187
+  :cite-key: KCTN:187
   :END:
 
 #+BEGIN_VERSE
@@ -3238,10 +3238,10 @@ Jabe tabe manas chhal
 * E Jibane Chahi Nitya Nutan Uddam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:188
+  :cite-key: KCTN:188
   :END:
 
 #+BEGIN_VERSE
@@ -3255,10 +3255,10 @@ Neharite mor bishwa prabhur madhudham
 * Nahe Maramari Nahe Daladali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:189
+  :cite-key: KCTN:189
   :END:
 
 #+BEGIN_VERSE
@@ -3272,10 +3272,10 @@ Chahi je kebal puta pushpanjali
 * Nutan Ashai Dekhbo Ebar Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:190
+  :cite-key: KCTN:190
   :END:
 
 #+BEGIN_VERSE
@@ -3289,10 +3289,10 @@ Amar majhe phutbe aji ati prachur  kusum phal
 * Hiya Pure Dekhte Chahi Nilotpal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:191
+  :cite-key: KCTN:191
   :END:
 
 #+BEGIN_VERSE
@@ -3306,10 +3306,10 @@ Jiban amar raibena je ar upal
 * Chatragram Chatragram Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:192
+  :cite-key: KCTN:192
   :END:
 
 #+BEGIN_VERSE
@@ -3323,10 +3323,10 @@ Tomar majhe labhi jena ami mukti shanti dham
 * Dure Chale Jao Dure Chale Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:193
+  :cite-key: KCTN:193
   :END:
 
 #+BEGIN_VERSE
@@ -3340,10 +3340,10 @@ Ami hate chahi amar param bishwa prabhur saphalata
 * Taba Kripa Bale Jiban Samare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:194
+  :cite-key: KCTN:194
   :END:
 
 #+BEGIN_VERSE
@@ -3357,10 +3357,10 @@ Ogo mor mata chira snehamoyi chira kripamoyi
 * Bhagirathi Nadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:195
+  :cite-key: KCTN:195
   :END:
 
 #+BEGIN_VERSE
@@ -3374,10 +3374,10 @@ Gan geye jabo ami nirabadhi
 * Mukti Jadi Chaho Jadi Chiratare Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:196
+  :cite-key: KCTN:196
   :END:
 
 #+BEGIN_VERSE
@@ -3391,10 +3391,10 @@ Dure rakho dure rakho bahu dure jukti
 * Pratikkhane Hate Habe Dhrira Pratyaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:197
+  :cite-key: KCTN:197
   :END:
 
 #+BEGIN_VERSE
@@ -3408,10 +3408,10 @@ Ei kamana kari mago ogo sarbajaya
 * Nabin Ushar Dak Eseche Nabin Ushar Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:198
+  :cite-key: KCTN:198
   :END:
 
 #+BEGIN_VERSE
@@ -3425,10 +3425,10 @@ Heribona kothao kabhu moher durbipak
 * Jahar Jibane Nishthar Maha Prabhab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:199
+  :cite-key: KCTN:199
   :END:
 
 #+BEGIN_VERSE
@@ -3442,10 +3442,10 @@ Paramanande tar jibane swabhab
 * Nami Tomai Nami Tomai Shephali Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:200
+  :cite-key: KCTN:200
   :END:
 
 #+BEGIN_VERSE
@@ -3459,10 +3459,10 @@ Nutan alok amai dake nai je ami andha
 * Jabe Chale Asle Keno Tabe Chhilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:201
+  :cite-key: KCTN:201
   :END:
 
 #+BEGIN_VERSE
@@ -3476,10 +3476,10 @@ Chhilam thakbo amar shunya bhabe
 * Amar Maner Deshe Kebal Suru Mantrana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:202
+  :cite-key: KCTN:202
   :END:
 
 #+BEGIN_VERSE
@@ -3493,10 +3493,10 @@ Taito labhi kebal ami hai jantrana
 * Indra Dhanur Dekha Peye Mor Bhela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:203
+  :cite-key: KCTN:203
   :END:
 
 #+BEGIN_VERSE
@@ -3510,10 +3510,10 @@ Nutan asha pelo aji bhor bela
 * Mulya Bihin Jiban Amar Mulya Bihin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:204
+  :cite-key: KCTN:204
   :END:
 
 #+BEGIN_VERSE
@@ -3527,10 +3527,10 @@ Sabai amar urdhe raje sabar adhin
 * Pratiti Karme Dakkhata Chahi Dakkhata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:205
+  :cite-key: KCTN:205
   :END:
 
 #+BEGIN_VERSE
@@ -3544,10 +3544,10 @@ Ta na hale shudhu jibane dekhibo byarthata
 * Charidhare Heri Ghor Anyai Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:206
+  :cite-key: KCTN:206
   :END:
 
 #+BEGIN_VERSE
@@ -3561,10 +3561,10 @@ Dao go khamata binashite tare karuna pathar
 * Moher Bandhan Churna Kare Habo Sanyasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:207
+  :cite-key: KCTN:207
   :END:
 
 #+BEGIN_VERSE
@@ -3578,10 +3578,10 @@ Amar hiyai phutbe jani paramer hasi
 * Bichar Buddhi Nahi Lage Joga Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:208
+  :cite-key: KCTN:208
   :END:
 
 #+BEGIN_VERSE
@@ -3595,10 +3595,10 @@ Charbo kebal dibanishi bhakti rathe
 * Srinkala Nahi Biraje Jahar Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:209
+  :cite-key: KCTN:209
   :END:
 
 #+BEGIN_VERSE
@@ -3612,10 +3612,10 @@ Nartane rato ghor andhiyar swapane
 * Bhitar Bahir Satru Aganan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2003
-  :CITE-KEY: KCTN:210
+  :cite-key: KCTN:210
   :END:
 
 #+BEGIN_VERSE
@@ -3629,10 +3629,10 @@ Shakti jache amar prana man
 * Bindu Chhilam Sindhu Halem Param Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2002
-  :CITE-KEY: KCTN:211
+  :cite-key: KCTN:211
   :END:
 
 #+BEGIN_VERSE

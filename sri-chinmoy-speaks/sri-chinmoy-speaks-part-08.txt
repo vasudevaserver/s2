@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0282
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-8
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0282
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-8
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCS:213e1
+  :genre: note
+  :keywords:
+  :cite-key: SCS:213e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Part I - Purity
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:213e2
+  :genre: section
+  :keywords:
+  :cite-key: SCS:213e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * Question: Where is the best place to meditate for purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:213
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:213
   :END:
 
 
@@ -58,9 +58,9 @@
 * Question: Is there a different technique for women and men when it comes to meditating on purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:214
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:214
   :END:
 
 
@@ -71,9 +71,9 @@
 * Question: How can we keep our mind pure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:215
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:215
   :END:
 
 
@@ -84,9 +84,9 @@
 * Question: How can we constantly be aware of the fact that we have no mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:216
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:216
   :END:
 
 
@@ -99,9 +99,9 @@ If somebody has given you a tremendous, sharp slap, then you will have nothing t
 * Question: If there is much impurity in your environment at work or school, how can you best keep it out of you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:217
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:217
   :END:
 
 
@@ -118,9 +118,9 @@ If we are really pure, then we don't see impurity in others. If we are not pure,
 * Question: When we are attacked by impure thoughts and feelings, or when they arise in us, how can we invoke purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:218
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:218
   :END:
 
 
@@ -135,9 +135,9 @@ If you have real faith in God's Concern and Compassion, then the attack of the h
 * Question: Guru, it seems that purity in the waking state is under our control, while purity in the sleeping or dreaming state is out of our control.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:219
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:219
   :END:
 
 
@@ -151,9 +151,9 @@ So here also, during the waking state if you can meditate on purity most soulful
 
   :PROPERTIES: In the morning when we meditate and become established in purity, what is the best way to keep it for the rest of the day?
 
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:220
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:220
   :END:
 
 
@@ -164,9 +164,9 @@ So here also, during the waking state if you can meditate on purity most soulful
 * Question: How can you cultivate purity with your family and the people you love and make sure it is not attachment to something else?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:221
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:221
   :END:
 
 
@@ -179,9 +179,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: How can we obtain purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:222
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:222
   :END:
 
 
@@ -192,9 +192,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Once we achieve purity, how may we maintain it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:223
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:223
   :END:
 
 
@@ -205,9 +205,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Is purity different for a married person?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:224
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:224
   :END:
 
 
@@ -218,9 +218,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Guru, at this time of our development, should purity be in our mind most of the time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:225
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:225
   :END:
 
 
@@ -231,9 +231,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: What is the role of purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:226
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:226
   :END:
 
 
@@ -244,9 +244,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Can a person who is pure spread his purity to someone who is less pure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:227
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:227
   :END:
 
 
@@ -257,9 +257,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Can we purify our daily actions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:228
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:228
   :END:
 
 
@@ -270,9 +270,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: A child has no idea of impurity or purity. How do you achieve that kind of purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:229
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:229
   :END:
 
 
@@ -283,9 +283,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: How can I purify my mind of its pride and its unwillingness to bow to my soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:230
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:230
   :END:
 
 
@@ -296,9 +296,9 @@ But if you only appreciate the good qualities that you are seeing in your wife a
 * Question: Can the ego ever have purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:231
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:231
   :END:
 
 
@@ -313,9 +313,9 @@ We always have to feel that the human ego is all impure. But the divine feeling 
 * Question: I find it difficult to distinguish between the small 'I' and the divine self. Are there any meditations or practices I can use?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:232
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:232
   :END:
 
 
@@ -326,9 +326,9 @@ We always have to feel that the human ego is all impure. But the divine feeling 
 * Question: How can you embody purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:233
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:233
   :END:
 
 
@@ -339,10 +339,10 @@ We always have to feel that the human ego is all impure. But the divine feeling 
 * Question: Since I think of you as my Master and the highest truth, what for me now is purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS: spiritual practice, master-disciple relationship, spiritual master
-  :KEYWORDS:
-  :CITE-KEY: SCS:234
+  :genre: qa
+  :keywords: spiritual practice, master-disciple relationship, spiritual master
+  :keywords:
+  :cite-key: SCS:234
   :END:
 
 
@@ -357,9 +357,9 @@ If I don't fulfil your desires, if you can feel it is for your own good, absolut
 * Question: How far are we from purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:235
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:235
   :END:
 
 
@@ -372,9 +372,9 @@ If you want to know how far you yourself are from purity, then you have to ask t
 * Question: How can we purify the kind of love and devotion that we are trying to offer to you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:236
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:236
   :END:
 
 
@@ -389,9 +389,9 @@ Then again, you have to feel that the thing which you want to give me I have alr
 * Question: Is there a way to get purity through action?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:237
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:237
   :END:
 
 
@@ -410,9 +410,9 @@ So when you do something, you have to know whether you are being instigated by y
 * Question: How can we purify our feeling of gratitude towards God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:238
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:238
   :END:
 
 
@@ -425,9 +425,9 @@ But divine gratitude is different. When you offer divine gratitude, you are offe
 * Part II - Compassion
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:239e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:239e1
   :END:
 
 
@@ -435,9 +435,9 @@ But divine gratitude is different. When you offer divine gratitude, you are offe
 * Question: What does God's Compassion do when we resist God's Grace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:239
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:239
   :END:
 
 
@@ -450,9 +450,9 @@ When an individual resists God's Compassion, God either waits indefinitely and u
 * Question: How can we show the Supreme gratitude for His Compassion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:240
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:240
   :END:
 
 
@@ -465,9 +465,9 @@ Suppose I do something for you. Let us say I give you a smile or I help you in y
 * Question: When you show someone compassion, can this other person see light or anything in your compassion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:241
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:241
   :END:
 
 
@@ -478,9 +478,9 @@ Suppose I do something for you. Let us say I give you a smile or I help you in y
 * Question: Guru, how can I feel more compassion from the picture of the Divine Mother Kali?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:242
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:242
   :END:
 
 
@@ -499,9 +499,9 @@ So in order to see Mother Kali's compassion-aspect, you have to identify yoursel
 * Question: Guru, how can I be more compassionate to others, especially those not on the spiritual path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:243
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:243
   :END:
 
 
@@ -518,9 +518,9 @@ So you can show compassion to these people only by becoming one with them. Feel 
 * Question: When we suffer unpleasant experiences and make mistakes, does that mean that the Supreme has withdrawn His Grace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:244
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:244
   :END:
 
 
@@ -535,9 +535,9 @@ From within we have to feel that we are not losing anything by not entering into
 * Question: How can I bring down the Supreme's Compassion to make my spiritual life evolve faster?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:245
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:245
   :END:
 
 
@@ -548,9 +548,9 @@ From within we have to feel that we are not losing anything by not entering into
 *  Part III - Justice
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:246e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:246e1
   :END:
 
 
@@ -558,9 +558,9 @@ From within we have to feel that we are not losing anything by not entering into
 * Question: What does God's Justice do when jealousy and impurity are brought before the Supreme's Court?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:246
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:246
   :END:
 
 
@@ -573,9 +573,9 @@ Suppose you are a selfish person. God says, "The moment you forget about your pe
 * Question: Is force excluded in justice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:247
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:247
   :END:
 
 
@@ -592,9 +592,9 @@ I am now talking here, offering light. I am trying to convince you of something.
 * Question: What is your view of the part of the Bible that says we should fear God's Justice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:248
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:248
   :END:
 
 
@@ -611,9 +611,9 @@ When a child is playing in the mud and then all of a sudden he is called, he is 
 * Question: How do you forgive injustice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:249
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:249
   :END:
 
 
@@ -628,9 +628,9 @@ A spiritual seeker immediately claims himself to be a chosen child of God. An un
 * Question: When somebody performs an act of injustice, does the soul of the victim always learn something from the experience?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:250
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:250
   :END:
 
 

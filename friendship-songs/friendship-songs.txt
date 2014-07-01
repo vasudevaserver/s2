@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 947
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: FNSN
-  :GENRE: song
+  :book-number: 947
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: FNSN
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FNSN:1e1
+  :genre: note
+  :cite-key: FNSN:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FNSN:1e2
+  :genre: note
+  :cite-key: FNSN:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Some of My Best Friends Are Children
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:1
+  :cite-key: FNSN:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ In fact, all of my best friends are children.
 * If You Have One True Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:2
+  :cite-key: FNSN:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ than your share.
 * A Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:3
+  :cite-key: FNSN:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ The same people you dislike.
 * Tell Me Who Admires and Loves You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:4
+  :cite-key: FNSN:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Tell me who admires and loves you, and I will tell you who you are.
 * My Friends, There Are No Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:5
+  :cite-key: FNSN:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ My friends, there are no friends.
 * He Who Is the Friend of All Humanity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:6
+  :cite-key: FNSN:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ He who is the friend of all humanity is not my friend.
 * Most People Enjoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:7
+  :cite-key: FNSN:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Most people enjoy the inferiority of their friends.
 * One Friend in a Lifetime
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:8
+  :cite-key: FNSN:8
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ three are hardly possible.
 * To Find a Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:9
+  :cite-key: FNSN:9
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ To keep him, two.
 * Friendship Is Like Money
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:10
+  :cite-key: FNSN:10
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Friendship is like money, easier made than kept.
 * Instead of Loving Your Enemies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:11
+  :cite-key: FNSN:11
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ Treat your friends a little better.
 * Money Cannot Buy Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:12
+  :cite-key: FNSN:12
   :END:
 
 #+BEGIN_VERSE
@@ -251,10 +251,10 @@ Money cannot buy friends, but you can get a better class of enemy.
 * The Richer Your Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:13
+  :cite-key: FNSN:13
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ The richer your friends, the more they will cost you.
 * It Is Good to Have Some Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:14
+  :cite-key: FNSN:14
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Both in Heaven and in Hell.
 * Wherever You Are
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1991
-  :CITE-KEY: FNSN:15
+  :cite-key: FNSN:15
   :END:
 
 #+BEGIN_VERSE

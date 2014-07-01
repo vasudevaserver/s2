@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1028
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1988
-  :PUBLISHER:
-  :CITE-KEY: JHSR
-  :GENRE: song
+  :book-number: 1028
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1988
+  :publisher:
+  :cite-key: JHSR
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JHSR:1e1
+  :genre: note
+  :cite-key: JHSR:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JHSR:1e2
+  :genre: note
+  :cite-key: JHSR:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bahudur Hate Esechi Namiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:1
+  :cite-key: JHSR:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Bhalo bese ami pabo
 * Chalre Chalre Chal Mukti Shikhar Dal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:2
+  :cite-key: JHSR:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Chalre chalre chal nitya abichal
 * Amar Amire Nashite Dharai Esechi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1987
-  :CITE-KEY: JHSR:3
+  :cite-key: JHSR:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Amar swarupe bahukal pare peyechi
 * Ekhano Tomare Janite Chahina Pujite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:4
+  :cite-key: JHSR:4
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Ami kabhu prabhu dekhina
 * Tumije Tomar Kripar Baridhi Amije Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:5
+  :cite-key: JHSR:5
   :END:
 
 #+BEGIN_VERSE
@@ -130,10 +130,10 @@ Tumije tomar kripar baridhi amije khudra bindu Charidike mor andhiyar ghor tumij
 * Mago Jani Tumi Amar Jadi Tomai Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:6
+  :cite-key: JHSR:6
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ Hethai hothai sarba khane ami tomai pai
 * Anu Hate Anu Chira Sumahan Hayecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:7
+  :cite-key: JHSR:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Anu hate anu chira sumahan hayecho amar hari Sakaler prane tomare nehari niyata 
 * Tomare Prachar Kara Amar Sadhana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:8
+  :cite-key: JHSR:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Amare gopan kara amar kamana
 * Rakhibona Kono Chinta Ami O Amar Ek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:9
+  :cite-key: JHSR:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Ek matra hate chai asim apar
 * Charidike Ghire Ache Abhab Anartan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:10
+  :cite-key: JHSR:10
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Britha heri kono sthayi sukher swapan
 * Pashur Deha Amar Hale Hanahani Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:11
+  :cite-key: JHSR:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Prarthana tai kare je antar
 * Sahiyachi Kato Byetha Taito Bujhi Byetha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:12
+  :cite-key: JHSR:12
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Ei minati amar byetha dur jena hoy pare sakaler
 * Jakhan Habe Swarga Rajya Pratishtha Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:13
+  :cite-key: JHSR:13
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Thakbe takhan sabe
 * Nitya Sathi Shanti Mukti Chhila Jani Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:14
+  :cite-key: JHSR:14
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ Bhulegechi swarup amar charidike britha hahakar
 * Amar Prane Jege Uthe Tumi O Pao Kastha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1987
-  :CITE-KEY: JHSR:15
+  :cite-key: JHSR:15
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ Tomar byathai byathi hate dekhe jiber kastha
 * Shudhu Byatha Sahe Chali Kotha Pratikar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: JHSR:16
+  :cite-key: JHSR:16
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Purbachale gyana rabi kari namaskar
 * Amar Amire Na Nashite Dharai Esechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:17
+  :cite-key: JHSR:17
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ Amar amire nashite dharai esechi
 * Chinta Amar Udash Habe Ei Barashai Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:18
+  :cite-key: JHSR:18
   :END:
 
 #+BEGIN_VERSE
@@ -358,10 +358,10 @@ Chinta amar udash habe ei barashai achi
 * Amar Hiyar Kusumer Mala Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:19
+  :cite-key: JHSR:19
   :END:
 
 #+BEGIN_VERSE
@@ -374,10 +374,10 @@ Amar hiyar kusumer mala tomar charane sampibo
 * Nutan Bhore Nutan Asha Phutbe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:20
+  :cite-key: JHSR:20
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ Nutan bhore nutan asha phutbe amar jiban khani
 * Jiban Samare Bijoyi Haibo Ei Je Amar Pan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1987
-  :CITE-KEY: JHSR:21
+  :cite-key: JHSR:21
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Jiban samare bijoyi haibo ei je amar pan
 * Laho Laho Mor Nutan Barashe Pabitra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:22
+  :cite-key: JHSR:22
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Laho laho mor nutan barashe pabitra hiyar pranati
 * Hiyar Kanna Nahi Jeno Thame Ei Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:23
+  :cite-key: JHSR:23
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ Ei shudhu prabhu minati
 * Bishwa Pita Nitya Eso Khulo Amar Ruddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:24
+  :cite-key: JHSR:24
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Khulo amar ruddha chitta dwar
 * Kato Shatobar Khulechi Bendechi Antara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:25
+  :cite-key: JHSR:25
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ Ogo manorama tomar charana tale
 * Khudra Amar Hiya Mahan Tomar Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:26
+  :cite-key: JHSR:26
   :END:
 
 #+BEGIN_VERSE
@@ -490,10 +490,10 @@ Peyeche tara hayeche ek apan jane bhalo basiya
 * Pashur Deha Amar Hale Hana Hani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: JHSR:27
+  :cite-key: JHSR:27
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ Prarthana tai kare je antar
 * Sahiyachi Kato Byatha Taito Bujhi Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:28
+  :cite-key: JHSR:28
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ Amar byatha dur hoi pare sakaler
 * Jakhan Habe Swarga Rajya Pratishtha Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:29
+  :cite-key: JHSR:29
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Jakhan habe swarga rajya pratishtha ei bhabe Shanti sukhe dibyanande thakbe takh
 * Nitya Sathi Shanti Mukti Chila Ami Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:30
+  :cite-key: JHSR:30
   :END:
 
 #+BEGIN_VERSE
@@ -561,10 +561,10 @@ Bhulegechi swarup amar charidike hahakar
 * Swadhin Keha Nahi Mora Basi Buto Purba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:31
+  :cite-key: JHSR:31
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Karbo shudhu teman karbo jaha amar bishwas bhajan
 * Sakaler Shanti Sakaler Tripti Amar Sartha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:32
+  :cite-key: JHSR:32
   :END:
 
 #+BEGIN_VERSE
@@ -600,10 +600,10 @@ Nitya mukta nityananda sejechi tai artha
 * Ami Sadharan Ati Sadharan Keha Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:33
+  :cite-key: JHSR:33
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ Taito amai prabhu amar karecho srijan
 * Boichitra Chai Bara Chhoto Bhalo Manda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:34
+  :cite-key: JHSR:34
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Ek narayan rayeche gopan
 * Dake Amai Dake Sab Dik Hate Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:35
+  :cite-key: JHSR:35
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Kabhu ma jadi dake
 * Ogo Amar Chira Apan Kothai Ekhan Acho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1988
-  :CITE-KEY: JHSR:36
+  :cite-key: JHSR:36
   :END:
 
 #+BEGIN_VERSE

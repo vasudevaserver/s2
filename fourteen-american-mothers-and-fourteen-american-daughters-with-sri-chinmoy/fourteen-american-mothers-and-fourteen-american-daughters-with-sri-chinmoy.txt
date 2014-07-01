@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 217
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1975
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FAM
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 217
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1975
+  :publisher: Agni Press
+  :cite-key: FAM
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: FAM:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: FAM:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ On Sunday, March 9, 1975, Sri Chinmoy held a special Mother's Day luncheon for t
 * Part I: The human mother and the Mother Divine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FAM:1
+  :genre: discourse
+  :keywords:
+  :cite-key: FAM:1
   :END:
 
 
@@ -84,9 +84,9 @@ In conclusion, dear mothers, I wish to tell you again that this Indian has not t
 * Part II: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FAM:2e1
+  :genre: section
+  :keywords:
+  :cite-key: FAM:2e1
   :END:
 
 
@@ -94,9 +94,9 @@ In conclusion, dear mothers, I wish to tell you again that this Indian has not t
 * Introduction
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FAM:2
+  :genre: interview
+  :keywords:
+  :cite-key: FAM:2
   :END:
 
 
@@ -107,9 +107,9 @@ In conclusion, dear mothers, I wish to tell you again that this Indian has not t
 * Question: I would like to know why your students keep your picture on their shrines.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:3
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:3
   :END:
 
 
@@ -124,9 +124,9 @@ To come back to your question, my students are under no obligation to use my pic
 * Question: The spiritual life is very important, but we live in modern society, no matter how good or bad it is. Don't you think that this kind of life is very confining to these young people, who rarely go away to school or keep a job other than around you and the Centre? I have heard that they need your inspiration and feel it is not good to be away from the Centre or these surroundings for any length of time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:4
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:4
   :END:
 
 
@@ -141,9 +141,9 @@ But again, when it is a matter of visiting their parents, that is something else
 * Question: I am not saying that they should go where they're not going to be happy. I agree with what you say. But most of them don't try to experiment by going on a trip for a certain length of time because they say they will not be able to maintain the same inspiration for a month or two months. How do they know they won't be happy seeing different parts of the world or going camping in a national park?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:5
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:5
   :END:
 
 
@@ -158,9 +158,9 @@ But you may ask, "How do they know if they won't like the place or like the peop
 * Question: Why is it necessary for the young people to be apart from others while they are following your path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:6
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:6
   :END:
 
 
@@ -171,9 +171,9 @@ But you may ask, "How do they know if they won't like the place or like the peop
 * Question: You know her life is quite different from the people around her.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:7
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:7
   :END:
 
 
@@ -188,9 +188,9 @@ So we never say that our goal or our ideals are superior to others. But only we 
 * Question: Guru, I think that we all have the same goal and I am deeply at peace with the roads that J. and C. walk down. But I think that one of the problems parents may face when their children embark on roads that they themselves haven't walked on can be one of competition. I think there was one issue that touched me very deeply, and that was when you changed their names. I really felt then that you were trying to take a very precious place in their lives which, until that time, only their Father and I had had. I felt that if we were accepting your grace, then you also should have recognised a very special place that we hold in the children's lives, too.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:8
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:8
   :END:
 
 
@@ -215,9 +215,9 @@ Dear mothers, I have not taken and I will never take your children away from you
 * Question: Will there be a time when our daughters can maintain many of the marvellous things that they are learning and becoming and go out in the world and be on their own? Will they still be able to feel the inner spirituality within them without having to be more or less centred in this one area?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:9
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:9
   :END:
 
 
@@ -232,9 +232,9 @@ I will not confine my students to me or to this little Jamaica, Queens. No, my w
 * Question: According to the government of this country, are you considered a religion? Do you pay taxes or are you tax-exempt like a church?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:10
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:10
   :END:
 
 
@@ -245,9 +245,9 @@ I will not confine my students to me or to this little Jamaica, Queens. No, my w
 * Question: Why are there more spiritual Masters in America today than there have been in previous years? Is it because there is a greater awareness of a spiritual need?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FAM:11
+  :genre: qa
+  :keywords:
+  :cite-key: FAM:11
   :END:
 
 
@@ -264,9 +264,9 @@ As I said before, it is God's creation. Here, some of His children are hungry an
 * Disciples sing The Invocation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FAM:12
+  :genre: interview
+  :keywords:
+  :cite-key: FAM:12
   :END:
 
 
@@ -305,9 +305,9 @@ Supreme, Supreme, Supreme, Supreme!
 * Part III: Appreciation-Flowers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e1
+  :genre: section
+  :keywords:
+  :cite-key: FAM:13e1
   :END:
 
 
@@ -318,9 +318,9 @@ Supreme, Supreme, Supreme, Supreme!
 * 1.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e2
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e2
   :END:
 
 
@@ -333,9 +333,9 @@ It was really a worthwhile afternoon. I really enjoyed it. It's too bad that he 
 * 2.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e3
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e3
   :END:
 
 
@@ -354,9 +354,9 @@ I felt a very, very warm feeling from everybody getting together. Everyone was v
 * 3.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e4
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e4
   :END:
 
 
@@ -369,9 +369,9 @@ Sunday was a delightful experience. Not only was it so nice to be invited by my 
 * 4.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e5
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e5
   :END:
 
 
@@ -384,9 +384,9 @@ I was honoured on March 9th to be a guest of Sri Chinmoy and his disciples at a 
 * 5.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e6
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e6
   :END:
 
 
@@ -399,9 +399,9 @@ There are many forms of goodness in the world and when one finds oneself in the 
 * 6.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e7
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e7
   :END:
 
 
@@ -414,9 +414,9 @@ The vibration of love, mutual respect, understanding, intimacy flowed between my
 * 7.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e8
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e8
   :END:
 
 
@@ -429,9 +429,9 @@ It was interesting and I was glad I came. I've been wanting to find out about my
 * 8.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e9
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e9
   :END:
 
 
@@ -450,9 +450,9 @@ It was a very nice and interesting afternoon. A million thanks for everything.
 * 9.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e10
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e10
   :END:
 
 
@@ -470,9 +470,9 @@ The fact is that you were trying. Just that you had us there amazed us. You were
 * 10.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e11
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e11
   :END:
 
 
@@ -491,9 +491,9 @@ Mom,
 * 11.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e12
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e12
   :END:
 
 
@@ -507,9 +507,9 @@ My daughter, by following the spiritual teachings of Sri Chinmoy, is at peace wi
 * 12.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e13
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e13
   :END:
 
 
@@ -521,9 +521,9 @@ I enjoyed the afternoon; it was very pleasant. It was very nice of the Guru to t
 * 13.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e14
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e14
   :END:
 
 
@@ -537,9 +537,9 @@ I was glad to see you very happy.
 * 14.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FAM:13e15
+  :genre: note
+  :keywords:
+  :cite-key: FAM:13e15
   :END:
 
 

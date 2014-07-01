@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1486
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2004
-  :PUBLISHER:
-  :CITE-KEY: AD-2
-  :GENRE: song
+  :book-number: 1486
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2004
+  :publisher:
+  :cite-key: AD-2
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AD:217e1
+  :genre: note
+  :cite-key: AD:217e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,10 +31,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jatoi Bhabi Tomai Dure Tatoi Kache Aso Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:217
+  :cite-key: AD:217
   :END:
 
 #+BEGIN_VERSE
@@ -48,10 +48,10 @@ Tumi amar pran gabhire muchki hasi haso
 * Amar Katha Bhabi Kebal Taito Mari Laje Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:218
+  :cite-key: AD:218
   :END:
 
 #+BEGIN_VERSE
@@ -65,10 +65,10 @@ Tomar katha bhabi jeno amar sakal kaje
 * Bahire Madhur Bhitare Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:219
+  :cite-key: AD:219
   :END:
 
 #+BEGIN_VERSE
@@ -82,10 +82,10 @@ Alokito karo taba kripa bale amar khudra abani
 * Balo Balo Keman Kare Pujbo Tomai Dibas Rati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:220
+  :cite-key: AD:220
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Jwalao jwalao pran gabhire prabhu tomar premer bati
 * Chahina Ar Dekhte Ami Parer Truti Khama Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:221
+  :cite-key: AD:221
   :END:
 
 #+BEGIN_VERSE
@@ -116,10 +116,10 @@ Khama karo param pita tomar paye luti
 * Ghumer Ghore Jiban Katai Ami Ghumer Ghore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:222
+  :cite-key: AD:222
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ Nasho nasho supti amar nabin ashar bhore
 * Balar Ache kato Kichu Dekhar Ache Kato Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:223
+  :cite-key: AD:223
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ Thamao amar chaowar gati jabona ar chaowar pichu
 * Bhranti Bhranti Bhitare Bhranti Bahire Bhranti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:224
+  :cite-key: AD:224
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ Tai nahi phute amar jibane asim kanti
 * Ahamika Churna Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:225
+  :cite-key: AD:225
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Jibane mor utlo jege bishwa premer agni shikha
 * Kanna Hasir Parapare Jete habe Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:226
+  :cite-key: AD:226
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Dipti tripti nitya nutan karbe khela amar bhave
 * Sabar Sathe Jukta haye Elam Tomar Pada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-01-2004
-  :CITE-KEY: AD:227
+  :cite-key: AD:227
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Sabar sathe mukti pabo tomar asim ashish bale
 * Keman Kare Pujbo Tomai Shikhechi Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:228
+  :cite-key: AD:228
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Keman kare tushbo tomai jenechi aj jenechi
 * Pantha padapa Chhaye Shranta pathika Sama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:229
+  :cite-key: AD:229
   :END:
 
 #+BEGIN_VERSE
@@ -253,10 +253,10 @@ Artha paran khani tandra hata
 * Dhrira Srinkala Paye Khaniker Manorama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:230
+  :cite-key: AD:230
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Chira kinkare dekho bedana hata
 * Anahata Madhu Bani Antare Bhalobese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:231
+  :cite-key: AD:231
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ Tapaser mato habo taba charana nata
 * Snehamoyi Usharani Karalini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:232
+  :cite-key: AD:232
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Jatrir prane jwalo pradip shata
 * Chali Shudhu Chalar Tare Hiya Kanpe Baroi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-2004
-  :CITE-KEY: AD:233
+  :cite-key: AD:233
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Baki jiban kale
 * Tomar Ashish Mathai Niye Tomar Chokher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:234
+  :cite-key: AD:234
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Nambo na je nimnagami srote
 * Chetana Amar Haye jao Akbar Buddhir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:235
+  :cite-key: AD:235
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Ati manaser akkhoy jyoti nabha kanna kare
 * Bishal Haite Bishal Karibo Amar E Tanu Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:236
+  :cite-key: AD:236
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Sima jeno pai atali asime atmanu sandhan
 * Jibane Jagate Bijoy Tomar Niyata Karibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:237
+  :cite-key: AD:237
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Sarthak hok manab janam sarthak hok sadhana
 * Sima Mile Jak Asimer Buke Sindhur Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:238
+  :cite-key: AD:238
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Ami hate chahi anandamoy nitya purna indu
 * Amar Bakke Srishthi Astiti Amar Bakke Loy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:239
+  :cite-key: AD:239
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Ami asimer nitya pujari karibo atma joy
 * Sarthak Karo Manab Janam Sarthak Karo Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:240
+  :cite-key: AD:240
   :END:
 
 #+BEGIN_VERSE
@@ -447,10 +447,10 @@ Sarthak karo sakal sadhan asimer bhalobasa
 * Sarthak Karo Chira Jibaner Sakal Angikar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:241
+  :cite-key: AD:241
   :END:
 
 #+BEGIN_VERSE
@@ -464,10 +464,10 @@ Shudhu hate chahi taba priyatama nitya nirbikar
 * E Lila Tomar Ogo Lilamoyi Nami Toma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:242
+  :cite-key: AD:242
   :END:
 
 #+BEGIN_VERSE
@@ -481,10 +481,10 @@ Bhenge sab dor antara mor karo aji adhikar
 * Dharanire Basibhalo Esechi Namiya Hasiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:243
+  :cite-key: AD:243
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Karuna tomar dhalo
 * Ami Asimer kalpana Gara Bichari Niyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:244
+  :cite-key: AD:244
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ Niyata jeno ma taba jaya gan jankrita hoy antare
 * Debatar Bhab Dibya Swabhab Amare Kariyo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:245
+  :cite-key: AD:245
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Dwanda bihin saral ashai purna kariyo pran
 * Chetanar Karo Sakal Bandhan Mukta Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:246
+  :cite-key: AD:246
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Amare karogo nitya asime jukta
 * Sarba Shakti Sarba Siddhi Asuk Amar Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:247
+  :cite-key: AD:247
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Chalechi nitya nirbhaye ami amrita sandhane
 * Ghumer Deshe Swapne Ese Ghuriya Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:248
+  :cite-key: AD:248
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Ar katokal ghurbo miche na janiy e srote
 * Jani Jani Urdha Jagat Nitya Swapan Jani Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:249
+  :cite-key: AD:249
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Jani jani nimna jagat chinta magan
 * Ek Kare Dao Nimna Jiban Urdha Jiban Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:250
+  :cite-key: AD:250
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Mithya mayar bhangbo prachir nishthur bajraghate
 * Bahir Jiban Ashru Hasi Dukher Sukher Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:251
+  :cite-key: AD:251
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ Bhitar jiban alo chhaya katoi byabadhan
 * Mukti Amar Nitya Sathi Supti Amar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:252
+  :cite-key: AD:252
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Swarga jyoti prne amar amrita sadh pai
 * Neme Eso Jyotir Dhara Ghuchao Andhakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:253
+  :cite-key: AD:253
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ Ei jibane tripti kothai sudhui hahakar
 * Kato Dure Prabhu Balo Go Amai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:254
+  :cite-key: AD:254
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Amar hriday amar jiban kandiche nirantar
 * Jukta Karo Jyotir Sathe Mukta Karo Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:255
+  :cite-key: AD:255
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Sanchar karo sabar prane mago sudha spandan
 * Rupantarer Banshi Shune Nache Amar Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:256
+  :cite-key: AD:256
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +721,10 @@ Mukti pabe manab jiban saphal habe dhyan
 * Thakbena Ar Jara Maran Abhab Abhijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:257
+  :cite-key: AD:257
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ Dhanya habe ei dharani purna habe jog
 * Deher Bandhan Praner Shasan Kichu Jena Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:258
+  :cite-key: AD:258
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ Chinta ekhan nahi jage mane shudhu ami ure jai
 * Bishwa Prabhu Amar Hiyar Nade Aji Santare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:259
+  :cite-key: AD:259
   :END:
 
 #+BEGIN_VERSE
@@ -772,10 +772,10 @@ Mile gechi param pitar antare riy antare
 * Ekla Ami Base Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-2004
-  :CITE-KEY: AD:260
+  :cite-key: AD:260
   :END:
 
 #+BEGIN_VERSE
@@ -789,10 +789,10 @@ Sathi shudhu nirabata amar hiyar pakhi khulai
 * Dake Amai Dake Aji Sada Megher Tari Ure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:261
+  :cite-key: AD:261
   :END:
 
 #+BEGIN_VERSE
@@ -806,10 +806,10 @@ Ure jete bale more pushpa rathe chari
 * Amare Rakhiya Age Antare Mor Ke Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:262
+  :cite-key: AD:262
   :END:
 
 #+BEGIN_VERSE
@@ -824,10 +824,10 @@ Amare rakhiya age
 * Khane Pai Dekha Khane Mile Jai Megher Arale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:263
+  :cite-key: AD:263
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Sundara manorama
 * Swapane Dekhiya Uthi Shihariya Eseche Se
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:264
+  :cite-key: AD:264
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Ektu hasiya jai milaya jege uthi ami pache
 * Charidike Mor Shudhu Andhiyar Parina Dekhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:265
+  :cite-key: AD:265
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Khule dao mor jyotir sharani guchao andhakar
 * Kande Mor Hiya Birale Basiya Na Jani Kahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:266
+  :cite-key: AD:266
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Nijhum nishite kisher aghate swapan giyeche bhangi
 * Chakhite Herechi Sri Mukher Shobha Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:267
+  :cite-key: AD:267
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ Niyata jwaluk antare mor akuti ahuti dhup
 * Bishwa Ruper Dhyane Tanmoy Amar E Tanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:268
+  :cite-key: AD:268
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Jagate jibane heri jeno taba bijayer abhijan
 * Bishal Hayite Bishal Karo Ma Amar E Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:269
+  :cite-key: AD:269
   :END:
 
 #+BEGIN_VERSE
@@ -945,10 +945,10 @@ Dao ma amare chira madhumoy purna atma gyan
 * Chetana Amar Akashe Batase Mukta Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:270
+  :cite-key: AD:270
   :END:
 
 #+BEGIN_VERSE
@@ -962,10 +962,10 @@ Ami nai ar ache shudhu ek shashwata prema spandan
 * Nikhila Bhubana Amara Apana Amar Nijer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:271
+  :cite-key: AD:271
   :END:
 
 #+BEGIN_VERSE
@@ -979,10 +979,10 @@ Bahire amar keha nai ar par nahe ar keha
 * Bishal Hayte Subishal Ami Anu Hate Ami Anu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:272
+  :cite-key: AD:272
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ Sakal praner jato sukh dukh sahe mor ei tanu
 * Man Apaman Jiban Maran Amare Kare Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:273
+  :cite-key: AD:273
   :END:
 
 #+BEGIN_VERSE
@@ -1013,10 +1013,10 @@ Ami asimer kalpana gara shanto madhur harsha
 * Asuk Namiya Jibane Amar Nitya Jyotir Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:274
+  :cite-key: AD:274
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Sima haye jak asimer prane purna atma hara
 * Nadi Chale Jai Sagarer Pane Na Jani Kenare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:275
+  :cite-key: AD:275
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Na jani kenare paranere tane
 * Patanga Ase Jyotir Sakashe Karite Jibana Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:276
+  :cite-key: AD:276
   :END:
 
 #+BEGIN_VERSE
@@ -1064,10 +1064,10 @@ Temane amar kareche paran asimer abhijan
 * Mane Prane Dehe Simar Bandhan Niyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:277
+  :cite-key: AD:277
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Ami simahin asimer srote chalechi satata bahe
 * Mukti Amar Nitya Sangi Supti Amar Nai Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:278
+  :cite-key: AD:278
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ Jibane amar tomar bijoy kebal niyata chai
 * Kripar Daner Kangal Karona Karona Amare Par
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:279
+  :cite-key: AD:279
   :END:
 
 #+BEGIN_VERSE
@@ -1115,10 +1115,10 @@ Jukta rakhiyo chitta amar tomate nirantar
 * Shakti.. Mantra Shakti Sadhan Kari Shakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:280
+  :cite-key: AD:280
   :END:
 
 #+BEGIN_VERSE
@@ -1132,10 +1132,10 @@ Shakti moder sakal karma nitya ache dhari
 * Shyama Moder Sakal Karma Nitya Ache Dhari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:281
+  :cite-key: AD:281
   :END:
 
 #+BEGIN_VERSE
@@ -1149,10 +1149,10 @@ Shyama ebar niye chalo shakti abhijane
 * Shakti Bihin Shiber Puja Bhakti Bihin Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:282
+  :cite-key: AD:282
   :END:
 
 #+BEGIN_VERSE
@@ -1166,10 +1166,10 @@ Chalar pathe nahi pabe amrita sandhan
 * Simar Bandhan Khulo Moder Gabhir Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:283
+  :cite-key: AD:283
   :END:
 
 #+BEGIN_VERSE
@@ -1183,10 +1183,10 @@ Mamar bale karo mago nitya baliyan
 * Tomar Paye Nisheshe Aj karbo Atma Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2004
-  :CITE-KEY: AD:284
+  :cite-key: AD:284
   :END:
 
 #+BEGIN_VERSE
@@ -1200,10 +1200,10 @@ Shakti sadhan saphal karo karo saurjya ban
 * Shakti Mantra Akkhoy Hok Akkhoy Hok Shakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:285
+  :cite-key: AD:285
   :END:
 
 #+BEGIN_VERSE
@@ -1217,10 +1217,10 @@ Akkhoy hok shakti sadhan shakti anurakti
 * Satya Amar Pran Satya Amar Dhyan Peyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:286
+  :cite-key: AD:286
   :END:
 
 #+BEGIN_VERSE
@@ -1236,10 +1236,10 @@ Satyer nai shesh satyer nai shesh
 * Satya Dharma Satya Drishti Nitya Satya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:287
+  :cite-key: AD:287
   :END:
 
 #+BEGIN_VERSE
@@ -1253,10 +1253,10 @@ Priti bhare dake more satya bandar
 * Katha Kaje Ar Chintai Jeno Satya Sarathi Ese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:288
+  :cite-key: AD:288
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Niye chale more ananta pane satyer uddeshe
 * Charan Tale Dibe Na Ki Kripa Kare Amai Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:289
+  :cite-key: AD:289
   :END:
 
 #+BEGIN_VERSE
@@ -1287,10 +1287,10 @@ Jata kale ektu sthan ogo amar praner pran
 * Lukayito Chira Lukayito Agnikana Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:290
+  :cite-key: AD:290
   :END:
 
 #+BEGIN_VERSE
@@ -1304,10 +1304,10 @@ Nash karo aji amar tiktata mor paraner sarba malinata
 * Nutan Jiban Nutan Jiban Naba Tapaner Alok
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:291
+  :cite-key: AD:291
   :END:
 
 #+BEGIN_VERSE
@@ -1321,10 +1321,10 @@ Se tapanere karibo pranati karibo minati
 * Nutan Jiban Nutan Jiban Dhalo E Parane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:292
+  :cite-key: AD:292
   :END:
 
 #+BEGIN_VERSE
@@ -1338,10 +1338,10 @@ Puja sambhar henechi ajike karite tomar arati
 * Janame Janame Gahibo Tomar Gan Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:293
+  :cite-key: AD:293
   :END:
 
 #+BEGIN_VERSE
@@ -1355,10 +1355,10 @@ Paran bhariya tulibo madhur tan
 * Ghumiye Ache Paran Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:294
+  :cite-key: AD:294
   :END:
 
 #+BEGIN_VERSE
@@ -1374,10 +1374,10 @@ Mago tomar ahoituki harshe
 * Hiya Shatadal Buke Jato Ali Ache Luke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:295
+  :cite-key: AD:295
   :END:
 
 #+BEGIN_VERSE
@@ -1393,10 +1393,10 @@ Dharo mor aj dharo
 * Janani Janani Bishwa janani Tomar Dibya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:296
+  :cite-key: AD:296
   :END:
 
 #+BEGIN_VERSE
@@ -1412,10 +1412,10 @@ Nabin ashar srishti
 * Deba Chetanar Pratishta Lagi Nishidin Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2004
-  :CITE-KEY: AD:297
+  :cite-key: AD:297
   :END:
 
 #+BEGIN_VERSE
@@ -1429,10 +1429,10 @@ Nishidin jeno rahi ami jagi
 * Tomar Charane Amar Nayan Duti Shayane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:298
+  :cite-key: AD:298
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ Amal dhabal phul haye jeno phuti
 * Agni Debata Param Debata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:299
+  :cite-key: AD:299
   :END:
 
 #+BEGIN_VERSE
@@ -1465,10 +1465,10 @@ Mora jibaner amar atithi draba kanchana tapta
 * Niye Chalo Prabhu Dharanir Byatha Bhakati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:300
+  :cite-key: AD:300
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ Mangalamoy antaratama tomar dibya sakashe
 * Deba Purohit Kari Abahan Ano Swarger Alo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:301
+  :cite-key: AD:301
   :END:
 
 #+BEGIN_VERSE
@@ -1499,10 +1499,10 @@ Manabata majhe arta parane amarar shudhu dhalo
 * Agni Debata Agni Debata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:302
+  :cite-key: AD:302
   :END:
 
 #+BEGIN_VERSE
@@ -1519,10 +1519,10 @@ Kahar bhagye likha
 * Agni Debata Jwalo Hutashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:303
+  :cite-key: AD:303
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ Sakal jiban chiratare dao paramer prane khule
 * Agni Debata Agni Debata Abahan Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:304
+  :cite-key: AD:304
   :END:
 
 #+BEGIN_VERSE
@@ -1554,10 +1554,10 @@ Dhanya haibe dharanir jib haye bidhatar sebi
 * Agni Debata Agni Debata Amar Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:305
+  :cite-key: AD:305
   :END:
 
 #+BEGIN_VERSE
@@ -1572,10 +1572,10 @@ Dibya karme jagrata karo niye drita narayan
 * Jyoti Mor Ankhi Tara Antare Amarata Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:306
+  :cite-key: AD:306
   :END:
 
 #+BEGIN_VERSE
@@ -1589,10 +1589,10 @@ Ami jani paramer dhrira bandana hara
 * Charidike Agni Prachir Sumadhur Ashroy Agnir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:307
+  :cite-key: AD:307
   :END:
 
 #+BEGIN_VERSE
@@ -1606,10 +1606,10 @@ Agni puta niranjan sthir manaber hriday mandir
 * Hriday Akashe Naba Arunima Satranga Rabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:308
+  :cite-key: AD:308
   :END:
 
 #+BEGIN_VERSE
@@ -1623,10 +1623,10 @@ Agni debata indra varun brahma vishnu trinayan
 * Eso Ma Durga Eso Ma Saroda Eso Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:309
+  :cite-key: AD:309
   :END:
 
 #+BEGIN_VERSE
@@ -1640,10 +1640,10 @@ Eso narayan eso narayani eso madhumoy banamali
 * Aro Beshi Kare Jwsalo homanal Aro Beshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:310
+  :cite-key: AD:310
   :END:
 
 #+BEGIN_VERSE
@@ -1657,10 +1657,10 @@ Amar jiban ahuti ditechi sabare basite bhalo
 * Sabitar Buke Je Debata Raje Jahar Kripai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:311
+  :cite-key: AD:311
   :END:
 
 #+BEGIN_VERSE
@@ -1674,10 +1674,10 @@ Chira nato haye rayechi satata sei surjyer charana tale
 * Agni Debata Indra Varun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:312
+  :cite-key: AD:312
   :END:
 
 #+BEGIN_VERSE
@@ -1691,10 +1691,10 @@ Jagarita karo manab hriday bhagaban bhagabati
 * Usha Deba Bala Naba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:313
+  :cite-key: AD:313
   :END:
 
 #+BEGIN_VERSE
@@ -1708,10 +1708,10 @@ Ar katokal rahibo janina maya moha karagare
 * Nijer Mukti Chahi Nai Kabhu Ami Je Niyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:314
+  :cite-key: AD:314
   :END:
 
 #+BEGIN_VERSE
@@ -1725,10 +1725,10 @@ Sakaler lagi e pran kande sakaler sathe jukta
 * Tumi Sahitecho Dharanir Bar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:315
+  :cite-key: AD:315
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Tomar byathar kichu bhar mite jagiche parane kamana
 * Tomar Karma Karibo Ebar Amare Karite Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:316
+  :cite-key: AD:316
   :END:
 
 #+BEGIN_VERSE
@@ -1759,10 +1759,10 @@ Tomar amar majhe jeno nahi thake kono byabadhan
 * Tomar Nayana Tomar Hridaya Amare Karuk
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:317
+  :cite-key: AD:317
   :END:
 
 #+BEGIN_VERSE
@@ -1776,10 +1776,10 @@ Tomar dibya charana kamale phutibo nirantar
 * Bhenge Dao Aji Simar Bandhan Khule Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:318
+  :cite-key: AD:318
   :END:
 
 #+BEGIN_VERSE
@@ -1793,10 +1793,10 @@ Taba chetanai rahibe amar bhakati ashrudhar
 * Eso Eso Neme Hridaya kamale Aji Narayani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:319
+  :cite-key: AD:319
   :END:
 
 #+BEGIN_VERSE
@@ -1810,10 +1810,10 @@ Namra mathai bhakti hiyai tomare karigo abahan
 * Ogo Deba Mata Janani Aditi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:320
+  :cite-key: AD:320
   :END:
 
 #+BEGIN_VERSE
@@ -1829,10 +1829,10 @@ Uthi jena jege kanur banshite
 * Badhar Bandhan Bandena Amai Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:321
+  :cite-key: AD:321
   :END:
 
 #+BEGIN_VERSE
@@ -1846,10 +1846,10 @@ Ami paramer lila sahachar prabhu sathe sada jukta
 * Aghater Par Aghat Sahiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:322
+  :cite-key: AD:322
   :END:
 
 #+BEGIN_VERSE
@@ -1867,10 +1867,10 @@ Kemane karibo alik amire nash
 * Shanti Moitri Swadhinata Bani Swarga Haite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:323
+  :cite-key: AD:323
   :END:
 
 #+BEGIN_VERSE
@@ -1888,10 +1888,10 @@ Kotha narayan jagrata bhagaban
 * Bishwa Parane Paran Amar Ei Tuku Sthan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:324
+  :cite-key: AD:324
   :END:
 
 #+BEGIN_VERSE
@@ -1908,10 +1908,10 @@ He amar bhagaban
 * Usha Agamane Dundubhi Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:325
+  :cite-key: AD:325
   :END:
 
 #+BEGIN_VERSE
@@ -1929,10 +1929,10 @@ Sarba jiber karicho chittamoy
 * He Param Pita Usha Arunima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:326
+  :cite-key: AD:326
   :END:
 
 #+BEGIN_VERSE
@@ -1950,10 +1950,10 @@ Antare ar rahibena kono glani
 * Ei Dharanir Matir Asane Rakhibo Malati Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:327
+  :cite-key: AD:327
   :END:
 
 #+BEGIN_VERSE
@@ -1971,10 +1971,10 @@ Nimeshe haibe shanta madhur shib
 * Sakaler Prane Amar Paran Sabar Bijoye Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-01-2004
-  :CITE-KEY: AD:328
+  :cite-key: AD:328
   :END:
 
 #+BEGIN_VERSE
@@ -1992,10 +1992,10 @@ Daibi swabhab phutibe ki mor khudra jibane kabhu
 * Jagater Byatha Simar Bandhan Ei Hiya Jadi Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:329
+  :cite-key: AD:329
   :END:
 
 #+BEGIN_VERSE
@@ -2013,10 +2013,10 @@ Toma lagi ek gantibo hirak har
 * Ore Tarun Ore Amar Jatra Pather Sathi Ore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:330
+  :cite-key: AD:330
   :END:
 
 #+BEGIN_VERSE
@@ -2030,10 +2030,10 @@ Ore sabuj ore kancha jala hajar bati
 * Prabhu Amar E Minati Bakke Sahas Dao Tarun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:331
+  :cite-key: AD:331
   :END:
 
 #+BEGIN_VERSE
@@ -2047,10 +2047,10 @@ Tarun praner tapta rudhir chaho jadi nao
 * Balre Aji Kothai Tora Ore Tarun Dal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:332
+  :cite-key: AD:332
   :END:
 
 #+BEGIN_VERSE
@@ -2064,10 +2064,10 @@ Usha hase paran bhare egiye ebar chal
 * Pabita Nayane Usha Arunima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:333
+  :cite-key: AD:333
   :END:
 
 #+BEGIN_VERSE
@@ -2081,10 +2081,10 @@ Bitapi latai patai patai kahar srijan uthiche jagi
 * Ogo Chinmoy Chira Madhumoy Hiranmayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:334
+  :cite-key: AD:334
   :END:
 
 #+BEGIN_VERSE
@@ -2098,10 +2098,10 @@ Kothai tulicho srijani prabhai niye eso aj harash bani
 * Debata Anite Urdhe Chutiche Amar Manas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:335
+  :cite-key: AD:335
   :END:
 
 #+BEGIN_VERSE
@@ -2115,10 +2115,10 @@ Tar agamani ghoshana karibo ei mor puta dhyan
 * Sagar Urmi Premer Salile Aghater Par Aghat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:336
+  :cite-key: AD:336
   :END:
 
 #+BEGIN_VERSE
@@ -2132,10 +2132,10 @@ Kar ingite purna duliche salile tuhin bhare
 * Tapan Dipta Prakar Dupur Tapta Jiban Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:337
+  :cite-key: AD:337
   :END:
 
 #+BEGIN_VERSE
@@ -2149,10 +2149,10 @@ Kar puja lagi nayan khuliche bhangiche ghumer ghor
 * Nirash pashan Shosan Karite Khudra Latika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:338
+  :cite-key: AD:338
   :END:
 
 #+BEGIN_VERSE
@@ -2166,10 +2166,10 @@ Dur diganta pantha dekhai base maramer marma tale
 * Surjya Mukhije Nayan Jugal Surjye Dekhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:339
+  :cite-key: AD:339
   :END:
 
 #+BEGIN_VERSE
@@ -2183,10 +2183,10 @@ Tar preranai hateche saphal snigdha madhur dakhin baye
 * Surjya Jagan Bhatir Bandhane Niyata Chaliche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:340
+  :cite-key: AD:340
   :END:
 
 #+BEGIN_VERSE
@@ -2200,10 +2200,10 @@ Ei shuniyo ghosanar kariche kon debatar bijoy bheri
 * Ma Ma Bale Dakle O Man Ma Ma Bale Aji Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:341
+  :cite-key: AD:341
   :END:
 
 #+BEGIN_VERSE
@@ -2217,10 +2217,10 @@ Shyama mayer charan tale shiber mato pare thak
 * Mundamali Shyama Amar Nache Shiber Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:342
+  :cite-key: AD:342
   :END:
 
 #+BEGIN_VERSE
@@ -2234,10 +2234,10 @@ Sab haye jao shiber mato kandishna ar praner dukhe
 * Lila Sahachar Karo Narayan E Dharanir Bada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:343
+  :cite-key: AD:343
   :END:
 
 #+BEGIN_VERSE
@@ -2251,10 +2251,10 @@ Tomare tushibo dibase nishite apan kariya amare nibe
 * He Param Pita parame Sharan Ami Je Rayechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:344
+  :cite-key: AD:344
   :END:
 
 #+BEGIN_VERSE
@@ -2268,10 +2268,10 @@ Paran amar aghat haniche ei dharani prati ghare
 * He Amar Prabhu Shuno Shuno Mor Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:345
+  :cite-key: AD:345
   :END:
 
 #+BEGIN_VERSE
@@ -2285,10 +2285,10 @@ Ghume jagarane jibane marane ami habo taba dash
 * Chahina Sukh Chahina Joy Chahina Dhan Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:346
+  :cite-key: AD:346
   :END:
 
 #+BEGIN_VERSE
@@ -2302,10 +2302,10 @@ Kebal ami karte chahi swarga sudha pan
 * Sukher Lagi Je Kendeche Milena Kahar Sukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:347
+  :cite-key: AD:347
   :END:
 
 #+BEGIN_VERSE
@@ -2319,10 +2319,10 @@ Milena joyi tomar dekha ankena dibya rup
 * Bahire Khunje Go Hridaye Bhitare Khunje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:348
+  :cite-key: AD:348
   :END:
 
 #+BEGIN_VERSE
@@ -2336,10 +2336,10 @@ Tumi je na mor kache acho prabhu ashcharjya ekiy
 * Alor Sathe Alok Haye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:349
+  :cite-key: AD:349
   :END:
 
 #+BEGIN_VERSE
@@ -2353,10 +2353,10 @@ Swapan sheshe alor deshe nayan khule hese
 * Kebal Prabhu Tumi Acho Nai Je Ami Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:350
+  :cite-key: AD:350
   :END:
 
 #+BEGIN_VERSE
@@ -2370,10 +2370,10 @@ Bhitare mor tomai dekhe shunye mishe jai
 * Rayecho Tumi Rayeche Ami Rayeche Moha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:351
+  :cite-key: AD:351
   :END:
 
 #+BEGIN_VERSE
@@ -2387,10 +2387,10 @@ Sakal prane nitya raje tomar sneha dhara
 * Jiban Khani Tomar Hale Paran Habe Khusi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:352
+  :cite-key: AD:352
   :END:
 
 #+BEGIN_VERSE
@@ -2404,10 +2404,10 @@ Jedike jai nitya mago tomai jabo tushi
 * Ami Je Tomar Kripa Baridhir Snatak Bhitare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-02-2004
-  :CITE-KEY: AD:353
+  :cite-key: AD:353
   :END:
 
 #+BEGIN_VERSE
@@ -2421,10 +2421,10 @@ Bhatare bahire agyanatar ganthak nashak
 * Maner Bane Phul Phutabo Maner Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-02-2004
-  :CITE-KEY: AD:354
+  :cite-key: AD:354
   :END:
 
 #+BEGIN_VERSE
@@ -2437,10 +2437,10 @@ Joyi amar hate habe jiban rane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:355
+  :cite-key: AD:355
   :END:
 
 #+BEGIN_VERSE
@@ -2456,10 +2456,10 @@ In the battlefield of my life.
 * Dekha Dao Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-02-2004
-  :CITE-KEY: AD:356
+  :cite-key: AD:356
   :END:
 
 #+BEGIN_VERSE
@@ -2472,10 +2472,10 @@ Danibo amare tushibo tomare chupi chupi sugopane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:357
+  :cite-key: AD:357
   :END:
 
 #+BEGIN_VERSE
@@ -2492,10 +2492,10 @@ I shall please you in silence-secrecy supreme.
 * Achire Jani Go Sugayak Ami Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-02-2004
-  :CITE-KEY: AD:358
+  :cite-key: AD:358
   :END:
 
 #+BEGIN_VERSE
@@ -2508,10 +2508,10 @@ Harashita chite taba pada tale rabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:359
+  :cite-key: AD:359
   :END:
 
 #+BEGIN_VERSE
@@ -2527,10 +2527,10 @@ I shall place myself at Your Feet.
 * Soon, Very Soon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:360
+  :cite-key: AD:360
   :END:
 
 #+BEGIN_VERSE
@@ -2546,10 +2546,10 @@ I shall place myself at Your Feet.
 * Nimna Jagate Biraje Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-02-2004
-  :CITE-KEY: AD:361
+  :cite-key: AD:361
   :END:
 
 #+BEGIN_VERSE
@@ -2562,10 +2562,10 @@ Urdha jagate param deber charam ashirbad
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:362
+  :cite-key: AD:362
   :END:
 
 #+BEGIN_VERSE
@@ -2581,10 +2581,10 @@ The highest Lord’s mightiest Blessings.
 * In the Lower World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:363
+  :cite-key: AD:363
   :END:
 
 #+BEGIN_VERSE
@@ -2600,10 +2600,10 @@ The highest Lord’s mightiest blessings.
 * Nutan Ushai Jegeche Paran Nutan Ushai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-02-2004
-  :CITE-KEY: AD:364
+  :cite-key: AD:364
   :END:
 
 #+BEGIN_VERSE
@@ -2616,10 +2616,10 @@ Sabar majhare heribo prabhure oishi ashai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:365
+  :cite-key: AD:365
   :END:
 
 #+BEGIN_VERSE
@@ -2634,10 +2634,10 @@ My Lord Supreme in all human beings.
 * My Heart Is Awakened
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-2004
-  :CITE-KEY: AD:366
+  :cite-key: AD:366
   :END:
 
 #+BEGIN_VERSE
@@ -2654,10 +2654,10 @@ In all human beings.
 * Asim Simai Hasiya Diyecho Dhara Baran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:367
+  :cite-key: AD:367
   :END:
 
 #+BEGIN_VERSE
@@ -2671,10 +2671,10 @@ Baran karecho janma mrittyu jara
 * Hasiya Esechi Hasir Duare Hasate Sarba Jibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:368
+  :cite-key: AD:368
   :END:
 
 #+BEGIN_VERSE
@@ -2688,10 +2688,10 @@ Ananda rashe jagabo abani heribo param shibe
 * Janam Amar Sarthak Habe Sarthak Habe Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:369
+  :cite-key: AD:369
   :END:
 
 #+BEGIN_VERSE
@@ -2705,10 +2705,10 @@ Antare mor jagao janani asimer bhalobasa
 * Shanti.. Japiya Shanti Sagare Dubibo Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:370
+  :cite-key: AD:370
   :END:
 
 #+BEGIN_VERSE
@@ -2722,10 +2722,10 @@ Shanti chahigo hriday kanane phul haye phutibo
 * Karme Shanti Dharme Shanti Sparshe Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:371
+  :cite-key: AD:371
   :END:
 
 #+BEGIN_VERSE
@@ -2739,10 +2739,10 @@ Milane shanti birahe shanti nitya shanti buk
 * Harashe Shanti Bishade Shanti Shanti Sarbakhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:372
+  :cite-key: AD:372
   :END:
 
 #+BEGIN_VERSE
@@ -2756,10 +2756,10 @@ Shanti smariya shanto haiya sanpitecdhi tanuman
 * Khulechi Amar Sakal Duar Dipta Tapana Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:373
+  :cite-key: AD:373
   :END:
 
 #+BEGIN_VERSE
@@ -2773,10 +2773,10 @@ Jagate jibane namuk shanti shanti kirana dane
 * Karuna Tomar Apar Shanti Tai Uthi Ami Jagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:374
+  :cite-key: AD:374
   :END:
 
 #+BEGIN_VERSE
@@ -2790,10 +2790,10 @@ Prashanti sudha dao more prabhu sarba jibe ragi
 * Shanti Amar Dhyan Shanti Amar Pran Shantir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:375
+  :cite-key: AD:375
   :END:
 
 #+BEGIN_VERSE
@@ -2807,10 +2807,10 @@ Shantir dhyane ami shantir duare thami shanti karuna magi
 * Ogo Kandari Dharo Dharo Aji Jiban Tarir Hal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:376
+  :cite-key: AD:376
   :END:
 
 #+BEGIN_VERSE
@@ -2824,10 +2824,10 @@ Bhango bhango mor maya moha bandhan jal
 * Biraha Anale Dahe Marame Sahe Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:377
+  :cite-key: AD:377
   :END:
 
 #+BEGIN_VERSE
@@ -2842,10 +2842,10 @@ Hriday purite kalpana sathe tomar charan bandhi
 * Birahe Mukti Birahe Tripti Birahe Madhur Indu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-02-2004
-  :CITE-KEY: AD:378
+  :cite-key: AD:378
   :END:
 
 #+BEGIN_VERSE
@@ -2859,10 +2859,10 @@ Birahe milane ami ekakar ami simahin sindhu
 * Mrittyu Nahe Jibaner Shesh Parinati Mrittyu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:379
+  :cite-key: AD:379
   :END:
 
 #+BEGIN_VERSE
@@ -2876,10 +2876,10 @@ Mrittyu shudhu maha juddhe khanik birati
 * Naba Janma Naba Naba Bishwa Udghatan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:380
+  :cite-key: AD:380
   :END:
 
 #+BEGIN_VERSE
@@ -2893,10 +2893,10 @@ Naba bastra pari dhan deha bisarjan
 * Akkhoy Amrita Ami Jara Mrittyuhin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:381
+  :cite-key: AD:381
   :END:
 
 #+BEGIN_VERSE
@@ -2910,10 +2910,10 @@ Shashwata jiban ami niyata nabin
 * Nithur Maran Nahe Kabir Kalpana Mrittyu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:382
+  :cite-key: AD:382
   :END:
 
 #+BEGIN_VERSE
@@ -2927,10 +2927,10 @@ Mrittyu shudhu bibishika alik bardona
 * Sarthak Janam Mor Sarthak Maran Sarthak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:383
+  :cite-key: AD:383
   :END:
 
 #+BEGIN_VERSE
@@ -2944,10 +2944,10 @@ Sarthak sakal dukh sukher swapan
 * Ananter Nila Sathi Khudra Ami Jib Antare Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:384
+  :cite-key: AD:384
   :END:
 
 #+BEGIN_VERSE
@@ -2961,10 +2961,10 @@ Antare amar raje mahadev shib
 * Hese Esechi Hethai Lila Abhijane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:385
+  :cite-key: AD:385
   :END:
 
 #+BEGIN_VERSE
@@ -2978,10 +2978,10 @@ Maraner bakka hate amrita sandhane
 * E Jiban Asimer Hriday Spandan Prati Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:386
+  :cite-key: AD:386
   :END:
 
 #+BEGIN_VERSE
@@ -2995,10 +2995,10 @@ Prati hiya shashwater ananda nartan
 * Sraban Darshan Ar Manan Nachan Sarba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:387
+  :cite-key: AD:387
   :END:
 
 #+BEGIN_VERSE
@@ -3012,10 +3012,10 @@ Sarba karma kare nritya amrita barshan
 * Baddha Ami Nahi Kabhu Jiban Bandane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:388
+  :cite-key: AD:388
   :END:
 
 #+BEGIN_VERSE
@@ -3029,10 +3029,10 @@ Ke bhulabe charachare amrita sandhane
 * Asimer Pakhi Ami Shunye Ure Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:389
+  :cite-key: AD:389
   :END:
 
 #+BEGIN_VERSE
@@ -3046,10 +3046,10 @@ Tridiber jyoti shanti jagate bilay
 * Sundar Jiban Ar Maran Sundar Janma Mrittyu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:390
+  :cite-key: AD:390
   :END:
 
 #+BEGIN_VERSE
@@ -3063,10 +3063,10 @@ Janma mrittyu urdhe ami thaki nirantar
 * Dehe mane pabo Jabe Ananta Jiban Sarthak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:391
+  :cite-key: AD:391
   :END:
 
 #+BEGIN_VERSE
@@ -3080,10 +3080,10 @@ Sarthak haibe sata sahasra maran
 * Jibane Maran Ache Marane Jiban E Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:392
+  :cite-key: AD:392
   :END:
 
 #+BEGIN_VERSE
@@ -3097,10 +3097,10 @@ E jiban bidhatar bichitra srijan
 * Eka Jini Simahin Ekak Ishwar Ami Sei Sarba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:393
+  :cite-key: AD:393
   :END:
 
 #+BEGIN_VERSE
@@ -3114,10 +3114,10 @@ Ami sei sarba byapi nitya nirantar
 * Kal Mor Nahi Kare Bibhag Kikhan Sthan Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:394
+  :cite-key: AD:394
   :END:
 
 #+BEGIN_VERSE
@@ -3131,10 +3131,10 @@ Sthan mor nahi kare mayar bandhan
 * Ati Kramer Ati Shanto Jyoti Shakti Sarbanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:395
+  :cite-key: AD:395
   :END:
 
 #+BEGIN_VERSE
@@ -3148,10 +3148,10 @@ Sarbanto karone sabe janai pranati
 * Mor Chinta Raje Nitya Thake Jahar Pashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:396
+  :cite-key: AD:396
   :END:
 
 #+BEGIN_VERSE
@@ -3165,10 +3165,10 @@ Tushta nahe jani se je anya bhalobase
 * Kamana Je Kare Jare Setare Nachai Aro Char
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:397
+  :cite-key: AD:397
   :END:
 
 #+BEGIN_VERSE
@@ -3182,10 +3182,10 @@ Aro char mukh pane nirabadhi dhai
 * Dhik Mor Bhalobasa Dhik Mor Kamanai Dhik
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:398
+  :cite-key: AD:398
   :END:
 
 #+BEGIN_VERSE
@@ -3199,10 +3199,10 @@ Dhik mor dhik sata dhik basanai
 * Basona Kamana Jani Unmadana Har Manabiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:399
+  :cite-key: AD:399
   :END:
 
 #+BEGIN_VERSE
@@ -3216,10 +3216,10 @@ Manabiya prem shudhu khanik uchchhar
 * Kasta Kare Tushta Kari Ami Agya Jane Bigya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:400
+  :cite-key: AD:400
   :END:
 
 #+BEGIN_VERSE
@@ -3233,10 +3233,10 @@ Bigya hoi pari tushta atal prajatane
 * Sarba Shakti Dao More Prabhu Bhagaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:401
+  :cite-key: AD:401
   :END:
 
 #+BEGIN_VERSE
@@ -3250,10 +3250,10 @@ Dite chahi pran mama pete sandhan
 * Sarba Prasna Pabo Ami Maha Samadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:402
+  :cite-key: AD:402
   :END:
 
 #+BEGIN_VERSE
@@ -3267,10 +3267,10 @@ Jabe pabo sudhamoy atmar sandhan
 * Karmer Suchana Tumi Karecho Jakhan Purnatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:403
+  :cite-key: AD:403
   :END:
 
 #+BEGIN_VERSE
@@ -3284,10 +3284,10 @@ Purnatar purbe tyag karona kakhan
 * Ei Niti Debagan Karen Smaran Karena Bisram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:404
+  :cite-key: AD:404
   :END:
 
 #+BEGIN_VERSE
@@ -3301,10 +3301,10 @@ Karena bisram kabhu danite ratan
 * Sarba Sthan Paramer Samagra Ratan Sarba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:405
+  :cite-key: AD:405
   :END:
 
 #+BEGIN_VERSE
@@ -3318,10 +3318,10 @@ Sarba se je pare shudhu karite arpan
 * Shudhu Sei Bhagyaban Jan Je Peyeche Atma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:406
+  :cite-key: AD:406
   :END:
 
 #+BEGIN_VERSE
@@ -3335,10 +3335,10 @@ Je peyeche atma darashan
 * Hate Chahi Ami Madhumoy Tai Kari Madhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:407
+  :cite-key: AD:407
   :END:
 
 #+BEGIN_VERSE
@@ -3352,10 +3352,10 @@ Tai kari madhu sanchoy
 * Madhu Dhyane Chira Tanmoy Hate Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:408
+  :cite-key: AD:408
   :END:
 
 #+BEGIN_VERSE
@@ -3369,10 +3369,10 @@ Hate chahi chira akkhoy
 * Akash Batas Alok Patar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:409
+  :cite-key: AD:409
   :END:
 
 #+BEGIN_VERSE
@@ -3386,10 +3386,10 @@ Madhure bilash parane sabar
 * Madhumoy Sathe Madhur Milane Mile Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:410
+  :cite-key: AD:410
   :END:
 
 #+BEGIN_VERSE
@@ -3403,10 +3403,10 @@ Madhu niye age prabhur samite nijere karite dan
 * Jyotsna Dhara.. Bhango Amar Ek Nimeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:411
+  :cite-key: AD:411
   :END:
 
 #+BEGIN_VERSE
@@ -3420,10 +3420,10 @@ Bhango amar ek nimeshe bandhan kara
 * Mayer Pujar Aratir Dhup Pabitra Phul Chandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:412
+  :cite-key: AD:412
   :END:
 
 #+BEGIN_VERSE
@@ -3437,10 +3437,10 @@ Amar jibane biraje sabai nai kono ar bandhan
 * Swapan Amar Chariye Diyeche Bishal Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:413
+  :cite-key: AD:413
   :END:
 
 #+BEGIN_VERSE
@@ -3454,10 +3454,10 @@ Ogo madhumoy chahina rahite kathor nithur hatashe
 * He Param Pita Purao Amar Saral Praner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:414
+  :cite-key: AD:414
   :END:
 
 #+BEGIN_VERSE
@@ -3471,10 +3471,10 @@ Tomar karuna jani jani ami tomar madhur haowa
 * Kanna Amar Thambena Go Kanna Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:415
+  :cite-key: AD:415
   :END:
 
 #+BEGIN_VERSE
@@ -3488,10 +3488,10 @@ Khelte amai paran khule dakena hai dakena
 * Janani Amar Hasir Fuara Bhitar Bahir Asim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:416
+  :cite-key: AD:416
   :END:
 
 #+BEGIN_VERSE
@@ -3505,10 +3505,10 @@ Asim kripai bhengecho ajike maner prachir
 * Desh Bideshe Ghure Berai Ektu Tripti Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:417
+  :cite-key: AD:417
   :END:
 
 #+BEGIN_VERSE
@@ -3522,10 +3522,10 @@ Tomar kripai pale pale mago amai magi
 * Jedike Takai Sedike Nehari Paramer Pada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:418
+  :cite-key: AD:418
   :END:
 
 #+BEGIN_VERSE
@@ -3539,10 +3539,10 @@ Param ashish labhechi ajike amar amire dani
 * Chalbo Ami Bhore Sanjhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-02-2004
-  :CITE-KEY: AD:419
+  :cite-key: AD:419
   :END:
 
 #+BEGIN_VERSE
@@ -3555,10 +3555,10 @@ Asim kripai dake amai mago tomar alor tari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: AD:420
+  :cite-key: AD:420
   :END:
 
 #+BEGIN_VERSE
@@ -3575,10 +3575,10 @@ With Compassion infinite.
 * I Shall Follow Your Footsteps
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: AD:421
+  :cite-key: AD:421
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0986
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PTED
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0986
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: PTED
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: I play tennis every day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PTED:1
+  :genre: poem
+  :keywords:
+  :cite-key: PTED:1
   :END:
 
 
@@ -43,9 +43,9 @@ My heart's perfection-flame.
 * Part II: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PTED:2e1
+  :genre: section
+  :keywords:
+  :cite-key: PTED:2e1
   :END:
 
 
@@ -56,9 +56,9 @@ My heart's perfection-flame.
 * Question: Do you root for a tennis player to actually win a match or doesn't it matter to you whether someone wins or not?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:2
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:2
   :END:
 
 
@@ -71,9 +71,9 @@ Again, you have to know that this is only my simple, childish wish -- just as wh
 * Question: McEnroe hits all his ground strokes with a backhand continental grip and many people say it would improve his game if he would change to a more standard forehand grip. What do you think of this theory?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:3
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:3
   :END:
 
 
@@ -86,9 +86,9 @@ Most athletes follow the general rules. But there will always be champions who d
 * Question: What is the main quality that it takes to win a match? Is it something spiritual, mental or physical?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:4
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:4
   :END:
 
 
@@ -103,9 +103,9 @@ If the dynamism of the vital enters into the body and the body becomes fully one
 * Question: Do you think that the huge prize money involved in professional tennis is ruining the game?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:5
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:5
   :END:
 
 
@@ -122,9 +122,9 @@ For so many years Hillary and others were trying to climb up Mount Everest. They
 * Question: In ultra-running they are talking of bringing in money. Will it ruin the consciousness there as well?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:6
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:6
   :END:
 
 
@@ -139,9 +139,9 @@ If a runner is looking for real satisfaction, he will never get it from prize mo
 * Question: An interviewer once asked Agassi what was the first thing in his life, and Agassi said 'faith'. Do you think there will be a time when he will start inspiring people to have faith in God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:7
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:7
   :END:
 
 
@@ -152,9 +152,9 @@ It depends on whether he continues to maintain his spiritual approach to tennis.
 * Question: Sometimes one player is way ahead, and it seems like the match is over. Then the other player somehow comes back and actually wins. I saw that once in a match where Borg defeated Tanner. What is it that made him win?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:8
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:8
   :END:
 
 
@@ -165,9 +165,9 @@ He had the will to win and he refused to surrender. Most of the time Borg plays 
 * Question: Some players are very undivine on the court. Does that mean they are really bad people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:9
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:9
   :END:
 
 
@@ -178,9 +178,9 @@ There is a great difference between the outer life and the inner life. There is 
 * Question: Guru, when we put on Sri Chinmoy Tennis Classics in our cities, how can we make it an experience that will be beneficial to the inner life and not just another tennis tournament?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:10
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:10
   :END:
 
 
@@ -195,9 +195,9 @@ If you take the other approach and think that your opponent is a bad fellow, the
 * Question: Borg never won the U.S. Open and Lendl, of course, has never won Wimbledon. Is it a karmic thing, just bad luck or just not being good enough at the time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:11
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:11
   :END:
 
 
@@ -216,9 +216,9 @@ Again, the destination does not have the capacity to actually decide whether or 
 * Question: Why is the destination partial to certain individuals?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:12
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:12
   :END:
 
 
@@ -229,9 +229,9 @@ The destination likes you because it sees some good qualities in you, whereas it
 * Question: Last year you mentioned that five tennis stars on the inner plane had volunteered to help improve your game. What happened with them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:13
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:13
   :END:
 
 
@@ -242,9 +242,9 @@ They had the capacity to teach me and they were ready to help me. But I have suc
 * Question: Sometimes when I play tennis badly I get very, very frustrated and when I'm playing well I get so much joy. Is there some way I can be more consistent instead of playing badly one day and playing well the next?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:14
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:14
   :END:
 
 
@@ -260,9 +260,9 @@ Again, there is an even higher prayer: "By Your Grace I will play the way You wa
 * Question: Databir and I played a lot together when you were in Bali and I noticed that every time we played one person was dominant right from the beginning. Why did this happen?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:15
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:15
   :END:
 
 
@@ -275,9 +275,9 @@ It is as if you have something inside a box. Sometimes that thing wants to enjoy
 * Question: What should you do if there is a very close match and you hit a ball that seems to strike the line, but your opponent calls it out?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:16
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:16
   :END:
 
 
@@ -288,9 +288,9 @@ At that time you have to know whether the joy you are getting from the game is m
 * Question: You said that McEnroe brings forward intensity when he gets mad. Steffi Graf does the same thing. Is it good to get angry in order to win a match?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:17
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:17
   :END:
 
 
@@ -301,9 +301,9 @@ McEnroe does not deliberately try to get angry. Far from it! Spontaneously he lo
 * Question: In a match when you see a ball you know you can put away, how do you use dynamic power instead of the aggressive vital?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:18
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:18
   :END:
 
 
@@ -316,9 +316,9 @@ The other way is to use a simple, delicate touch -- a drop shot or some other st
 * Question: If a person can hit a forehand shot with either the right or left hand is it necessary to also learn the backhand?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:19
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:19
   :END:
 
 
@@ -329,9 +329,9 @@ No, it is a waste of time. But you have to know which one of your two hands is m
 * Question: What is a good way to get inspiration in tennis after you play badly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:20
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:20
   :END:
 
 
@@ -342,9 +342,9 @@ You have to watch some very good players. If you don't play well one day and fee
 * Part III: Questions and answers on the relation between tennis and running
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PTED:21e1
+  :genre: section
+  :keywords:
+  :cite-key: PTED:21e1
   :END:
 
 
@@ -355,9 +355,9 @@ You have to watch some very good players. If you don't play well one day and fee
 * Question: What are the different qualities of tennis and running?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:21
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:21
   :END:
 
 
@@ -368,9 +368,9 @@ Running reminds us of our inner journey, which is ahead of us. The goal is ahead
 * Question: I consider myself a tennis player, not a runner. On the one hand I get more joy from playing tennis, but on the other hand I get more satisfaction if I run a marathon. Why is this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PTED:22
+  :genre: qa
+  :keywords:
+  :cite-key: PTED:22
   :END:
 
 
@@ -385,18 +385,18 @@ There is also another aspect to this. Even though we may want to run only 100 me
 * Part IV: Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PTED:23e1
+  :genre: section
+  :keywords:
+  :cite-key: PTED:23e1
   :END:
 
 
 * Never Give Up
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PTED:23
+  :genre: discourse
+  :keywords:
+  :cite-key: PTED:23
   :END:
 
 
@@ -429,9 +429,9 @@ Let us try to run consciously at every moment to our destined Goal. If the hosti
 * Learning From Tennis
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PTED:24
+  :genre: discourse
+  :keywords:
+  :cite-key: PTED:24
   :END:
 
 
@@ -450,9 +450,9 @@ If you can do these two things, you will get tremendous joy and make tremendous 
 * Part V: Poems
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PTED:25e1
+  :genre: section
+  :keywords:
+  :cite-key: PTED:25e1
   :END:
 
 
@@ -460,9 +460,9 @@ If you can do these two things, you will get tremendous joy and make tremendous 
 * The spiritual message of tennis
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PTED:25
+  :genre: poem
+  :keywords:
+  :cite-key: PTED:25
   :END:
 
 
@@ -484,9 +484,9 @@ In the inner world.
 * I Go To God Twice A Day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PTED:26
+  :genre: poem
+  :keywords:
+  :cite-key: PTED:26
   :END:
 
 
@@ -511,9 +511,9 @@ He tells me I am all perfection.
 * Tennis game
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PTED:27
+  :genre: poem
+  :keywords:
+  :cite-key: PTED:27
   :END:
 
 
@@ -532,9 +532,9 @@ I play to feed my climbing flame.
 * God's tennis court
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PTED:28
+  :genre: poem
+  :keywords:
+  :cite-key: PTED:28
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0989
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: WDNI-2
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0989
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: WDNI-2
+  :genre: discourse, qa
+  :keywords:
   :END:
 
  
@@ -22,9 +22,9 @@
 * Foreword
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: WDNI:33e1
+  :genre: note
+  :keywords:
+  :cite-key: WDNI:33e1
   :END:
 
 
@@ -59,9 +59,9 @@ Diocese of Rockville Center, New York
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: WDNI:33e2
+  :genre: preface
+  :keywords:
+  :cite-key: WDNI:33e2
   :END:
   
   
@@ -80,9 +80,9 @@ The subject matter is wide-ranging, punctuated with rare autobiographical elemen
 * Part I - Supernatural phenomena
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WDNI:33
+  :genre: discourse
+  :keywords:
+  :cite-key: WDNI:33
   :END:
 
 
@@ -93,9 +93,9 @@ It may be helpful to have the capacity to know the future, but people should not
 * /Could you please tell about any experience you had where the paranormal played an obvious and undeniable role?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:34
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:34
   :END:
 
 
@@ -118,9 +118,9 @@ At that time I also appeared on a radio programme. The radio interviewer and a f
 * /Do you think that precognition can restrict man’s free will? Knowing the future, will he no longer be able to decide freely anymore?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:35
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:35
   :END:
 
 
@@ -137,9 +137,9 @@ So if God blesses you with inner vision or with the capacity to know the future,
 * /You have been able to predict many events, such as Carl Lewis’ victory at the 1984 Olympics in Los Angeles. How do you obtain these premonitions or visions of the future? Do you search for them? Do you always feel the need to communicate your findings?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:36
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:36
   :END:
 
 
@@ -154,9 +154,9 @@ I do not give much importance to predictions. I give all importance to God’s G
 * /Are there spiritual methods for communicating with those who have passed away?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:37
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:37
   :END:
 
 
@@ -169,9 +169,9 @@ Some people find it more difficult to communicate with souls that are in the sou
 * /Is there life after death? Will there be a judgement of what has been done in this life? Will there be punishment, reward or a sentence? If so, will it be eternal?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:38
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:38
   :END:
 
 
@@ -188,9 +188,9 @@ The reason God created human beings was not to punish them but to love them and 
 * /Do you believe in reincarnation? Who were you before and who will you be in your next life? Can a spiritual man decipher the mysteries of life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:39
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:39
   :END:
 
 
@@ -211,9 +211,9 @@ A spiritual man cannot necessarily decipher the mysteries of life. Only the high
 /You have also stated that, “Men themselves set their limits, but they also decide when to surpass those limits.” Is man omnipotent? You lifted 7,000 pounds, a virtual miracle. If you wanted to, could you surpass other world-class performances?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:40
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:40
   :END:
 
 
@@ -232,9 +232,9 @@ In my case, I have lifted over 7,000 pounds with both my left and right arms. To
 * /Does each individual have a predisposition for using divine inspiration to achieve greatness in one specific athletic event?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:41
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:41
   :END:
 
 
@@ -246,9 +246,9 @@ An individual athlete can easily shine in more than one athletic event. Right no
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:42
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:42
   :END:
 
 
@@ -263,9 +263,9 @@ When I am at work, I do not consider myself to be either an artist or a medium. 
 * Part II - The spiritual life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WDNI:43
+  :genre: discourse
+  :keywords:
+  :cite-key: WDNI:43
   :END:
 
 
@@ -276,9 +276,9 @@ God is infinite, and there are infinite ways to realise Him. Similarly, there ar
 * /In your writings you say that there are different levels of consciousness: the inanimate one of stones, the plant world, the animal kingdom and the human state of existence. They are all progressing towards the divine state. Spiritual seekers try to climb up the progress-tree with spiritual methods such as meditation, but sometimes they fail. What happens to them? What do you advise for those who have difficulty meditating and cannot set aside fifteen minutes per day for their spiritual disciplines?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:44
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:44
   :END:
 
 
@@ -297,9 +297,9 @@ What is most important is to try to develop a genuine hunger for God’s Love, G
 * /You are a vegetarian. Is being a vegetarian essential in the spiritual life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:45
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:45
   :END:
 
 
@@ -316,9 +316,9 @@ A vegetarian diet is of benefit to a sincere God-seeker, but it is not essential
 * /Why does man use archaic sounds in his prayer, such as Aum, Amen, Halleluiah, etc.?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:46
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:46
   :END:
 
 
@@ -335,9 +335,9 @@ About the words which are used in other religions, I do not know what they repre
 * /What do you say while you are praying? To whom are you speaking? Have you ever prayed for others, for the world, for peace? How have you done this?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:47
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:47
   :END:
 
 
@@ -350,9 +350,9 @@ Then again, in the highest sense, there is no separation between myself and ‘o
 * /In calling on God, should we use the pronoun ‘You'? If not, what kind of language should we use?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:48
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:48
   :END:
 
 
@@ -367,9 +367,9 @@ Most of the time I speak to God in the Chittagong dialect which was spoken in my
 * /What techniques do you use in your meditation to achieve inner awareness, an opening up to spiritual strength and the creation of a ‘new consciousness'? What do you do and what method do your disciples follow?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:49
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:49
   :END:
 
 
@@ -388,9 +388,9 @@ In my writings I have described many more techniques for meditation. The individ
 * /What is the difference between the meditation of the heart, spiritual concentration and contemplation of God?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:50
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:50
   :END:
 
 
@@ -407,9 +407,9 @@ The third subject is contemplation. In contemplation, the seeker feels that God 
 * Part III - Personal Views
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WDNI:51
+  :genre: discourse
+  :keywords:
+  :cite-key: WDNI:51
   :END:
 
 
@@ -420,9 +420,9 @@ I did not choose my life-role. My Inner Pilot commanded me to serve those who wa
 * /You are able to combine the spirituality of India with Western dynamism. This is quite unheard of for a teacher of Indian spirituality. Do you follow a prearranged plan? Do you feel suited for today’s world, or do you try to conform to the world while bringing good into it?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:52
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:52
   :END:
 
 
@@ -439,9 +439,9 @@ Now with my aspiration-heart I am praying to God to inundate both the Eastern wo
 * /Does God need man? Did you choose your life-role? Can we draw a parallel between your life and that of the Biblical prophet Samuel and also with the Little Shepherd of Fatima?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:53
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:53
   :END:
 
 
@@ -458,9 +458,9 @@ Both Samuel and the Little Shepherd fulfilled God’s Vision most satisfactorily
 * /You have said that from a very young age you knew that your mission would develop in the West. Was it an inner message you received during your first thirteen years, or was it a suggestion of your Guru? How did your knowledge of coming to the West develop?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:54
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:54
   :END:
 
 
@@ -471,9 +471,9 @@ It was a message from the inmost recesses of my heart that I used to get quite f
 * /Your name, Chinmoy ('full of divine consciousness'), seems to tell it all. Why did your parents give you this name? Were they thinking about your future spiritual vocation?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:55
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:55
   :END:
 
 
@@ -484,9 +484,9 @@ Actually, my elder brother Chitta gave me this name. In India, it is not always 
 * /In your writings, you describe an episode in your life where you met or talked to the King of the Universe. Was it a subtle inner vision or could you see Him with your physical eyes? Were you in a meditative trance, or were you in an ordinary consciousness? What did the King look like?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:56
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:56
   :END:
 
 
@@ -501,9 +501,9 @@ Previously I could only see Him with my third eye. But my Beloved Supreme, out o
 * /What do you experience while you are producing your works at a tremendous speed? What do you do to reach the proper consciousness? Can you create or compose whenever you want to, or only when you feel a call from within?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:57
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:57
   :END:
 
 
@@ -520,9 +520,9 @@ I am fortunate enough to be able to catch the inspiration-bird at almost any tim
 * /Why is there an abundance of gardens with exotic flowers and wonderful birds in your paintings? The inner garden or garden of the Beyond is a very happy state, but it contrasts with the problems of everyday life. It seems almost to evade them. Is this the case? What are you saying through your colourful gardens?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:58
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:58
   :END:
 
 
@@ -541,9 +541,9 @@ In various ways I am trying to serve humanity, and it is my fervent hope that ea
 * /Your weightlifting achievements are unparalleled in this world. Which mental processes do you use to concentrate your physical and mental energies?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:59
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:59
   :END:
 
 
@@ -554,9 +554,9 @@ I do not use any mental process to concentrate my physical and mental energies; 
 * /Is God Father or Mother to you?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WDNI:60
+  :genre: qa
+  :keywords:
+  :cite-key: WDNI:60
   :END:
 
 

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 235
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1975
-  :PUBLISHER:
-  :CITE-KEY: STMS
-  :GENRE: song
+  :book-number: 235
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1975
+  :publisher:
+  :cite-key: STMS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: STMS:1e1
+  :genre: note
+  :cite-key: STMS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: STMS:1e2
+  :genre: note
+  :cite-key: STMS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ai Ma Shyama Pagli Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:1
+  :cite-key: STMS:1
   :END:
 
 #+BEGIN_VERSE
@@ -63,10 +63,10 @@ Rakhish na ar maya bane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:2
+  :cite-key: STMS:2
   :END:
 
 #+BEGIN_VERSE
@@ -87,10 +87,10 @@ Of attachment and illusion-forest.
 * Akash Bhalobasi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:3
+  :cite-key: STMS:3
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Sarba jibe sarba kale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:4
+  :cite-key: STMS:4
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ My oneness-soul smiles.
 * Akash Madhur Batas Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:5
+  :cite-key: STMS:5
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ Madhur hasiya andhar nashiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:6
+  :cite-key: STMS:6
   :END:
 
 #+BEGIN_VERSE
@@ -169,10 +169,10 @@ With my all-illumining sweetness-smile.
 * Alo Alo Alo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:7
+  :cite-key: STMS:7
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Antare mor gyaner dipan jwalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:8
+  :cite-key: STMS:8
   :END:
 
 #+BEGIN_VERSE
@@ -210,10 +210,10 @@ Of wisdom-light inside my heart.
 * Alo Andhar Amar Jato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:9
+  :cite-key: STMS:9
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Tomai kari dan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:10
+  :cite-key: STMS:10
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ O flood of liberation-sea.
 * Alor Sathe Alo Haye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:11
+  :cite-key: STMS:11
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ Berai dasha dishe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:12
+  :cite-key: STMS:12
   :END:
 
 #+BEGIN_VERSE
@@ -292,10 +292,10 @@ With boundless joy.
 * Amal Dhabal Pal Tulechhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:13
+  :cite-key: STMS:13
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Ami achhi nitya tomar kachhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:14
+  :cite-key: STMS:14
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ The Golden Shore of Perfection-Satisfaction.
 * Amar Jata Shata Abeg
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:15
+  :cite-key: STMS:15
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ Kari samarpan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:16
+  :cite-key: STMS:16
   :END:
 
 #+BEGIN_VERSE
@@ -374,10 +374,10 @@ My Reality’s Lord Supreme.
 * Amare Jadi Baso Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:17
+  :cite-key: STMS:17
   :END:
 
 #+BEGIN_VERSE
@@ -392,10 +392,10 @@ Jiban bhor sanjh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:18
+  :cite-key: STMS:18
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Of morning duty and evening beauty.
 * Amare Karo Ma Shunya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:19
+  :cite-key: STMS:19
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Jyotite rayeche sakal pratikar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:20
+  :cite-key: STMS:20
   :END:
 
 #+BEGIN_VERSE
@@ -457,10 +457,10 @@ My thought-world and my mind-world.
 * Ami Adihin Anta Bihin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:21
+  :cite-key: STMS:21
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ Dakiche purna indu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:22
+  :cite-key: STMS:22
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ Infinite inner moon.
 * Ami Akkhoy Ami Abyay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:23
+  :cite-key: STMS:23
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Bajai lilar bin
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:24
+  :cite-key: STMS:24
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ In the Cosmic Play.
 * Ami Amar Dhyane Tanmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:25
+  :cite-key: STMS:25
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Ami amari dhyane tanmoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:26
+  :cite-key: STMS:26
   :END:
 
 #+BEGIN_VERSE
@@ -574,10 +574,10 @@ I am Perfection’s height.
 * Ami Amare Bhalobasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:27
+  :cite-key: STMS:27
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ Tai andhar rashi rashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:28
+  :cite-key: STMS:28
   :END:
 
 #+BEGIN_VERSE
@@ -615,10 +615,10 @@ Therefore, teeming darkness is all around me.
 * Ami Ananta Asima Akasha Pratim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:29
+  :cite-key: STMS:29
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Amrita sanchoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:30
+  :cite-key: STMS:30
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ And garner Immortality-Fruit.
 * Ami Herite Chai Amar Swarup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:31
+  :cite-key: STMS:31
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Chaluk tomar pane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:32
+  :cite-key: STMS:32
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ O my Father, Beloved Supreme.
 * Ami Milate Chai Batase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:33
+  :cite-key: STMS:33
   :END:
 
 #+BEGIN_VERSE
@@ -711,10 +711,10 @@ Jagite chai nutan ashai tomar sneha parashe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:34
+  :cite-key: STMS:34
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ May my life begin with the breath of a new hope.
 * Anandamayi Chaitanyamayi Satyamayi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:35
+  :cite-key: STMS:35
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Jagrata hao jagate jibane nitya sakala karame
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:36
+  :cite-key: STMS:36
   :END:
 
 #+BEGIN_VERSE
@@ -769,10 +769,10 @@ Action-revelation and action-manifestation.
 * Antara Krandana Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:37
+  :cite-key: STMS:37
   :END:
 
 #+BEGIN_VERSE
@@ -789,10 +789,10 @@ Habo ami nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:38
+  :cite-key: STMS:38
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ Transcendence-Silence.
 * Antare Mor Ananta Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:39
+  :cite-key: STMS:39
   :END:
 
 #+BEGIN_VERSE
@@ -829,10 +829,10 @@ Nikhil bishwa swami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:40
+  :cite-key: STMS:40
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ As Your own, very own.
 * Antare Mor Jyotir Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:41
+  :cite-key: STMS:41
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Basi shudhui bhalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:42
+  :cite-key: STMS:42
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ And this Eternity’s Light I love only.
 * Anute Renute Sakala Tanute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:43
+  :cite-key: STMS:43
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ Shudhu kari madhu pan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:44
+  :cite-key: STMS:44
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +929,10 @@ I drink my ambrosia all alone.
 * Aruper Rupe Phutiche E Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:45
+  :cite-key: STMS:45
   :END:
 
 #+BEGIN_VERSE
@@ -949,10 +949,10 @@ Sundara anuragi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:46
+  :cite-key: STMS:46
   :END:
 
 #+BEGIN_VERSE
@@ -972,10 +972,10 @@ With the ever-transcending Beauty.
 * Asha Ache Tai Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:47
+  :cite-key: STMS:47
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Asibe akash fete
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:48
+  :cite-key: STMS:48
   :END:
 
 #+BEGIN_VERSE
@@ -1013,10 +1013,10 @@ In all its supernal glory.
 * Asha Niye Chale Sudure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:49
+  :cite-key: STMS:49
   :END:
 
 #+BEGIN_VERSE
@@ -1033,10 +1033,10 @@ Satyer pabe sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:50
+  :cite-key: STMS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1056,10 +1056,10 @@ Will discover the Truth absolute.
 * Asim Amar Dile Prane Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:51
+  :cite-key: STMS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ Ananta akkoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:52
+  :cite-key: STMS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ With Immortality’s life.
 * Bachan Maner Atite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:53
+  :cite-key: STMS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1117,10 +1117,10 @@ Ruddha jatek dor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:54
+  :cite-key: STMS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1137,10 +1137,10 @@ Are opened wide.
 * Basiyacho Bhalo Dharanir Dhuli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:55
+  :cite-key: STMS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1153,10 +1153,10 @@ Ke srijila balo dukkha dainya maran jatana upahas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:56
+  :cite-key: STMS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1173,10 +1173,10 @@ And death pangs, if not You?
 * Bela Jai Bela Jai Jiban Nadir Mohanai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:57
+  :cite-key: STMS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1192,10 +1192,10 @@ Kara jena bale jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:58
+  :cite-key: STMS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Of the arrival of my life’s sinking eve?
 * Bhalobasi Ami Atal Baridhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:59
+  :cite-key: STMS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Ruddha supta antara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:60
+  :cite-key: STMS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ My long-closed heart-door.
 * Bishwa Bhuvan Karite Apan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:61
+  :cite-key: STMS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Tri jagate kotha dukhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:62
+  :cite-key: STMS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ In the hearts of all the three worlds.
 * Bishwaruper Dhyane Tanmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:63
+  :cite-key: STMS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1307,10 +1307,10 @@ Jibane jagate heri jena taba bijayer abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:64
+  :cite-key: STMS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1327,10 +1327,10 @@ In all that I do and all that I am.
 * Chetana Amar Akashe Batase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:65
+  :cite-key: STMS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ Par nahe aj keha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:66
+  :cite-key: STMS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1373,10 +1373,10 @@ It is all my oneness-song.
 * Chinta Atite Maner Atite Sundara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:67
+  :cite-key: STMS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1391,10 +1391,10 @@ Shri charane diyo ashroy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:68
+  :cite-key: STMS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1412,10 +1412,10 @@ Taking shelter at Your Feet divine.
 * Danto Chahini Datar Haste
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:69
+  :cite-key: STMS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1428,10 +1428,10 @@ Mukta hayechi chira jibaner hate jata abhiman
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:70
+  :cite-key: STMS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1446,10 +1446,10 @@ Completely free am I today from ignorance-night.
 * Dharanire Basi Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:71
+  :cite-key: STMS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1467,10 +1467,10 @@ Karo aji adhikar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:72
+  :cite-key: STMS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1490,10 +1490,10 @@ Today capture and claim my heart for good.
 * Dibya Jiban Asibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:73
+  :cite-key: STMS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1508,10 +1508,10 @@ Dharanire bhalobasibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:74
+  :cite-key: STMS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1527,10 +1527,10 @@ Loving this world of ours.
 * Ghumer Deshe Swapne Ese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:75
+  :cite-key: STMS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1543,10 +1543,10 @@ Ar katokal ghurbo miche na jani ei srote
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:76
+  :cite-key: STMS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1562,10 +1562,10 @@ I shall have to follow this course helplessly.
 * Jadi Toma Chai Dekha Nahi Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:77
+  :cite-key: STMS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1581,10 +1581,10 @@ Antara karo alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:78
+  :cite-key: STMS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ Illumining my crying heart.
 * Japi Madhu Nam Shudhu Abiram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:79
+  :cite-key: STMS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1621,10 +1621,10 @@ Tumi amar sarani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:80
+  :cite-key: STMS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1640,10 +1640,10 @@ You are the only way leading me to my supernal Goal.
 * Japi Shakti Mantra Shakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:81
+  :cite-key: STMS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1659,10 +1659,10 @@ Shyama ebar niye chalo shakti abhijane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:82
+  :cite-key: STMS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1683,10 +1683,10 @@ Do carry us into the inner world.
 * Je Jibane Tumi Acho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:83
+  :cite-key: STMS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1705,10 +1705,10 @@ Diyona kakhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:84
+  :cite-key: STMS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1724,10 +1724,10 @@ Your Compassion I implore.
 * Kali Karali Ma Pralaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:85
+  :cite-key: STMS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ abar kena ma abhaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:86
+  :cite-key: STMS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1764,10 +1764,10 @@ For our heart’s aspiration-flame.
 * Kalpana Eso Nami Kalpe Loker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:87
+  :cite-key: STMS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1781,10 +1781,10 @@ Rupayita karo bishwa jiban namiya akuti dhupe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:88
+  :cite-key: STMS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1801,10 +1801,10 @@ And illumine the life of the entire universe.
 * Kande Hiya Toma Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:89
+  :cite-key: STMS:89
   :END:
 
 #+BEGIN_VERSE
@@ -1823,10 +1823,10 @@ Shudhu ek pran ar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:90
+  :cite-key: STMS:90
   :END:
 
 #+BEGIN_VERSE
@@ -1845,10 +1845,10 @@ Soul-existence life.
 * Kari Nirbhar Kari Ashroy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:91
+  :cite-key: STMS:91
   :END:
 
 #+BEGIN_VERSE
@@ -1863,10 +1863,10 @@ Niye chale more ananta pane satyer uddeshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:92
+  :cite-key: STMS:92
   :END:
 
 #+BEGIN_VERSE
@@ -1884,10 +1884,10 @@ To the Reality unknown.
 * Karo Sundaro Karo Nirmala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:93
+  :cite-key: STMS:93
   :END:
 
 #+BEGIN_VERSE
@@ -1904,10 +1904,10 @@ Bikashita karo antara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:94
+  :cite-key: STMS:94
   :END:
 
 #+BEGIN_VERSE
@@ -1925,10 +1925,10 @@ To blossom at Your Feet.
 * Ke Jai Ke Jai Charana Parashe (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:95
+  :cite-key: STMS:95
   :END:
 
 #+BEGIN_VERSE
@@ -1944,10 +1944,10 @@ Ingite bale ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:96
+  :cite-key: STMS:96
   :END:
 
 #+BEGIN_VERSE
@@ -1965,10 +1965,10 @@ And inspires me in silence supreme
 * Ke More Bhulaye Rekheche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:97
+  :cite-key: STMS:97
   :END:
 
 #+BEGIN_VERSE
@@ -1983,10 +1983,10 @@ Ke amare bhalobeseche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:98
+  :cite-key: STMS:98
   :END:
 
 #+BEGIN_VERSE
@@ -2003,10 +2003,10 @@ Whom I constantly love.
 * Kripar Daner Kangal Karona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:99
+  :cite-key: STMS:99
   :END:
 
 #+BEGIN_VERSE
@@ -2022,10 +2022,10 @@ Tomate nirantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:100
+  :cite-key: STMS:100
   :END:
 
 #+BEGIN_VERSE
@@ -2042,10 +2042,10 @@ Your Compassion-Light.
 * Ma Ma Bale Dakre
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:101
+  :cite-key: STMS:101
   :END:
 
 #+BEGIN_VERSE
@@ -2060,10 +2060,10 @@ Sab haye jai shiber mato kandisna ar praner dukhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:102
+  :cite-key: STMS:102
   :END:
 
 #+BEGIN_VERSE
@@ -2084,10 +2084,10 @@ Shall dance and sport eternally.
 * Ma Tor Ruper Aloi (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:103
+  :cite-key: STMS:103
   :END:
 
 #+BEGIN_VERSE
@@ -2109,10 +2109,10 @@ Shyama amar ai ai ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:104
+  :cite-key: STMS:104
   :END:
 
 #+BEGIN_VERSE
@@ -2135,10 +2135,10 @@ And You will replace it with infinite Light.
 * Ma Tor Ruper Aloi (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:105
+  :cite-key: STMS:105
   :END:
 
 #+BEGIN_VERSE
@@ -2160,10 +2160,10 @@ Shyama amar ai ai ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:106
+  :cite-key: STMS:106
   :END:
 
 #+BEGIN_VERSE
@@ -2186,10 +2186,10 @@ And You will replace it with infinite Light.
 * Madhumoy Usha Deva
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:107
+  :cite-key: STMS:107
   :END:
 
 #+BEGIN_VERSE
@@ -2202,10 +2202,10 @@ Antare kare antara tama devarupe karo rupayan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:108
+  :cite-key: STMS:108
   :END:
 
 #+BEGIN_VERSE
@@ -2222,10 +2222,10 @@ Sweetness-light and beauty-delight.
 * Madhurata Jetha Nai Ami Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:109
+  :cite-key: STMS:109
   :END:
 
 #+BEGIN_VERSE
@@ -2243,10 +2243,10 @@ Madhu dhyane kare tanmoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:110
+  :cite-key: STMS:110
   :END:
 
 #+BEGIN_VERSE
@@ -2264,10 +2264,10 @@ In sweet, ambrosial meditation.
 * Mago Bara Hale Karbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:111
+  :cite-key: STMS:111
   :END:
 
 #+BEGIN_VERSE
@@ -2286,10 +2286,10 @@ Prati sandhya bela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:112
+  :cite-key: STMS:112
   :END:
 
 #+BEGIN_VERSE
@@ -2311,10 +2311,10 @@ To You, my heart’s home.
 * Mago Juddhe Jabo Balo Jadi Marbo Asur Raj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:113
+  :cite-key: STMS:113
   :END:
 
 #+BEGIN_VERSE
@@ -2330,10 +2330,10 @@ Tribhuvane thakbena ar jara mruttyu shok
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:114
+  :cite-key: STMS:114
   :END:
 
 #+BEGIN_VERSE
@@ -2357,10 +2357,10 @@ At Your express Command.
 * Mane Prane Dehe Simar Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:115
+  :cite-key: STMS:115
   :END:
 
 #+BEGIN_VERSE
@@ -2375,10 +2375,10 @@ Jibane amar tomar bijoy kebali niyata chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:116
+  :cite-key: STMS:116
   :END:
 
 #+BEGIN_VERSE
@@ -2399,10 +2399,10 @@ In my inner life and outer world.
 * Mohalata Mohalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:117
+  :cite-key: STMS:117
   :END:
 
 #+BEGIN_VERSE
@@ -2417,10 +2417,10 @@ Jedin tomai mukti gane phulla hiyay chhere jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:118
+  :cite-key: STMS:118
   :END:
 
 #+BEGIN_VERSE
@@ -2440,10 +2440,10 @@ The day I leave you with cheerfulness-heart
 * Mrittyu Taran Abhoi Sharan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:119
+  :cite-key: STMS:119
   :END:
 
 #+BEGIN_VERSE
@@ -2456,10 +2456,10 @@ Antare nam japi dina jam jachi shashwata tripti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:120
+  :cite-key: STMS:120
   :END:
 
 #+BEGIN_VERSE
@@ -2476,10 +2476,10 @@ Your Perfection’s satisfaction-smile.
 * Mukti Amar Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:121
+  :cite-key: STMS:121
   :END:
 
 #+BEGIN_VERSE
@@ -2494,10 +2494,10 @@ Sakaler prane jena sada pai deba jyoti sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:122
+  :cite-key: STMS:122
   :END:
 
 #+BEGIN_VERSE
@@ -2515,10 +2515,10 @@ I shall discover God-Light in all the human beings
 * Naba Jibaner Asha Nabatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:123
+  :cite-key: STMS:123
   :END:
 
 #+BEGIN_VERSE
@@ -2533,10 +2533,10 @@ Ananta abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:124
+  :cite-key: STMS:124
   :END:
 
 #+BEGIN_VERSE
@@ -2554,10 +2554,10 @@ Crown my Eternity’s journey with victory’s light.
 * Nadi Chale Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:125
+  :cite-key: STMS:125
   :END:
 
 #+BEGIN_VERSE
@@ -2576,10 +2576,10 @@ Asimer abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:126
+  :cite-key: STMS:126
   :END:
 
 #+BEGIN_VERSE
@@ -2597,10 +2597,10 @@ To the all-transforming Flame-Beauty.
 * Nai Nai Nai Ami Ar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:127
+  :cite-key: STMS:127
   :END:
 
 #+BEGIN_VERSE
@@ -2615,10 +2615,10 @@ Seo je harai kaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:128
+  :cite-key: STMS:128
   :END:
 
 #+BEGIN_VERSE
@@ -2634,10 +2634,10 @@ In a golden lightning spark.
 * Nami Parama Satya Sundara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:129
+  :cite-key: STMS:129
   :END:
 
 #+BEGIN_VERSE
@@ -2655,10 +2655,10 @@ Satya sandhane tanmoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:130
+  :cite-key: STMS:130
   :END:
 
 #+BEGIN_VERSE
@@ -2676,10 +2676,10 @@ In Your boundless sky.
 * Namiche Aj Ananda Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:131
+  :cite-key: STMS:131
   :END:
 
 #+BEGIN_VERSE
@@ -2694,10 +2694,10 @@ Mile geche byetha bhar jato andhakar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:132
+  :cite-key: STMS:132
   :END:
 
 #+BEGIN_VERSE
@@ -2715,10 +2715,10 @@ No more darkness-life.
 * Nirabata Nirabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:133
+  :cite-key: STMS:133
   :END:
 
 #+BEGIN_VERSE
@@ -2733,10 +2733,10 @@ Tumi amar deha nishar asha lata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:134
+  :cite-key: STMS:134
   :END:
 
 #+BEGIN_VERSE
@@ -2754,10 +2754,10 @@ Of my body’s night.
 * Nirban Pare Pare Labhechi Janam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:135
+  :cite-key: STMS:135
   :END:
 
 #+BEGIN_VERSE
@@ -2774,10 +2774,10 @@ Nitya dibasa rati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:136
+  :cite-key: STMS:136
   :END:
 
 #+BEGIN_VERSE
@@ -2796,10 +2796,10 @@ I long to remain in trance
 * Nitya Ekhan Jedike Takaye Dekhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:137
+  :cite-key: STMS:137
   :END:
 
 #+BEGIN_VERSE
@@ -2812,10 +2812,10 @@ Eje sei jan jare khunjitechi eki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:138
+  :cite-key: STMS:138
   :END:
 
 #+BEGIN_VERSE
@@ -2830,10 +2830,10 @@ I know not why, but it is all true.
 * Nitya Jena Chitta Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:139
+  :cite-key: STMS:139
   :END:
 
 #+BEGIN_VERSE
@@ -2850,10 +2850,10 @@ Nitya purna gyan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:140
+  :cite-key: STMS:140
   :END:
 
 #+BEGIN_VERSE
@@ -2872,10 +2872,10 @@ You have granted me infinite wisdom-light.
 * Nitya Mukta Asimer Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:141
+  :cite-key: STMS:141
   :END:
 
 #+BEGIN_VERSE
@@ -2888,10 +2888,10 @@ Karuna sagare jyotir jyotite hayechi atma hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:142
+  :cite-key: STMS:142
   :END:
 
 #+BEGIN_VERSE
@@ -2906,10 +2906,10 @@ I am unreservedly and self-amorously lost.
 * Niyata Tomare Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:143
+  :cite-key: STMS:143
   :END:
 
 #+BEGIN_VERSE
@@ -2928,10 +2928,10 @@ Keha rakhibena dhari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:144
+  :cite-key: STMS:144
   :END:
 
 #+BEGIN_VERSE
@@ -2949,10 +2949,10 @@ Nobody will bind me.
 * Oi Shuno Oi Dake Shyama Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:145
+  :cite-key: STMS:145
   :END:
 
 #+BEGIN_VERSE
@@ -2969,10 +2969,10 @@ Dake jyochna dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:146
+  :cite-key: STMS:146
   :END:
 
 #+BEGIN_VERSE
@@ -2991,10 +2991,10 @@ Of the full moon night are calling me.
 * Pathe Jakhan Chali Shyama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:147
+  :cite-key: STMS:147
   :END:
 
 #+BEGIN_VERSE
@@ -3013,10 +3013,10 @@ Kandar mato kandina tai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:148
+  :cite-key: STMS:148
   :END:
 
 #+BEGIN_VERSE
@@ -3036,10 +3036,10 @@ That I feel You are away from me?
 * Prane Jata Chila Byethar Bhar Kareche Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:149
+  :cite-key: STMS:149
   :END:
 
 #+BEGIN_VERSE
@@ -3054,10 +3054,10 @@ Anande aj dube ache chitta atma hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:150
+  :cite-key: STMS:150
   :END:
 
 #+BEGIN_VERSE
@@ -3074,10 +3074,10 @@ Are flooded with all immortalising Delight.
 * Prati Chintai Prati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:151
+  :cite-key: STMS:151
   :END:
 
 #+BEGIN_VERSE
@@ -3094,10 +3094,10 @@ Simar bandhane jena nahi kheli asime dubite chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:152
+  :cite-key: STMS:152
   :END:
 
 #+BEGIN_VERSE
@@ -3120,10 +3120,10 @@ In the sea of Light and Delight.
 * Purna Kariya Ditechi Sampiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:153
+  :cite-key: STMS:153
   :END:
 
 #+BEGIN_VERSE
@@ -3142,10 +3142,10 @@ Antare dao dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:154
+  :cite-key: STMS:154
   :END:
 
 #+BEGIN_VERSE
@@ -3162,10 +3162,10 @@ For Your Arrival supreme.
 * Pushti Amar Tushti Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:155
+  :cite-key: STMS:155
   :END:
 
 #+BEGIN_VERSE
@@ -3178,10 +3178,10 @@ Ke diyechi hai jibane amar kebal akkhamata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:156
+  :cite-key: STMS:156
   :END:
 
 #+BEGIN_VERSE
@@ -3197,10 +3197,10 @@ All the world’s incapacities.
 * Rupe Rase Preme Asiyachi Neme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:157
+  :cite-key: STMS:157
   :END:
 
 #+BEGIN_VERSE
@@ -3215,10 +3215,10 @@ Chalechi jibana srote
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:158
+  :cite-key: STMS:158
   :END:
 
 #+BEGIN_VERSE
@@ -3236,10 +3236,10 @@ The course of Eternity’s Life.
 * Sakal Jiban Amar Apan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:159
+  :cite-key: STMS:159
   :END:
 
 #+BEGIN_VERSE
@@ -3254,10 +3254,10 @@ Amar apan ghar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:160
+  :cite-key: STMS:160
   :END:
 
 #+BEGIN_VERSE
@@ -3273,10 +3273,10 @@ My soul-garment and my own peace-vest.
 * Sakaler Prane Tomare Heriya Basiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:161
+  :cite-key: STMS:161
   :END:
 
 #+BEGIN_VERSE
@@ -3289,10 +3289,10 @@ Haye jete chai mane prane dehe rupantarita alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:162
+  :cite-key: STMS:162
   :END:
 
 #+BEGIN_VERSE
@@ -3309,10 +3309,10 @@ Singing the song of transformation-light.
 * Sakaler Sheshe Asibo (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:163
+  :cite-key: STMS:163
   :END:
 
 #+BEGIN_VERSE
@@ -3327,10 +3327,10 @@ Sabare bakkhe rakhibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:164
+  :cite-key: STMS:164
   :END:
 
 #+BEGIN_VERSE
@@ -3347,10 +3347,10 @@ Safe in my heart’s light.
 * Sakaler Sheshe Asibo (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:165
+  :cite-key: STMS:165
   :END:
 
 #+BEGIN_VERSE
@@ -3365,10 +3365,10 @@ Sabare bakkhe rakhibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:166
+  :cite-key: STMS:166
   :END:
 
 #+BEGIN_VERSE
@@ -3385,10 +3385,10 @@ Safe in my heart’s light.
 * Satya Amar Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:167
+  :cite-key: STMS:167
   :END:
 
 #+BEGIN_VERSE
@@ -3403,10 +3403,10 @@ Satyer par satya rayeche asim nirbishesh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:168
+  :cite-key: STMS:168
   :END:
 
 #+BEGIN_VERSE
@@ -3423,10 +3423,10 @@ This Truth transcends itself in Infinity’s Light.
 * Satya Swarup Bhagaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:169
+  :cite-key: STMS:169
   :END:
 
 #+BEGIN_VERSE
@@ -3440,10 +3440,10 @@ Darashan karo dan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:170
+  :cite-key: STMS:170
   :END:
 
 #+BEGIN_VERSE
@@ -3459,10 +3459,10 @@ Your Compassion-Light.
 * Shramiker Byatha Shilpi Bujhena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:171
+  :cite-key: STMS:171
   :END:
 
 #+BEGIN_VERSE
@@ -3475,10 +3475,10 @@ Kalpana kare bujheo bujhena ankena hiyar chabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:172
+  :cite-key: STMS:172
   :END:
 
 #+BEGIN_VERSE
@@ -3494,10 +3494,10 @@ Because the soul-paintings of heart’s oneness are missing.
 * Shyama Amai Pagal Kare De
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:173
+  :cite-key: STMS:173
   :END:
 
 #+BEGIN_VERSE
@@ -3515,10 +3515,10 @@ De ma amai pagal kare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:174
+  :cite-key: STMS:174
   :END:
 
 #+BEGIN_VERSE
@@ -3540,10 +3540,10 @@ Mad human being.
 * Sima Mile Jak Asimer Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:175
+  :cite-key: STMS:175
   :END:
 
 #+BEGIN_VERSE
@@ -3556,10 +3556,10 @@ Deva jibaner madhu sangit bajuk e bina tare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:176
+  :cite-key: STMS:176
   :END:
 
 #+BEGIN_VERSE
@@ -3575,10 +3575,10 @@ Of Transcendence-Height.
 * Simar Majhare Akash Pratim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:177
+  :cite-key: STMS:177
   :END:
 
 #+BEGIN_VERSE
@@ -3597,10 +3597,10 @@ Chira bidrohi bir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:178
+  :cite-key: STMS:178
   :END:
 
 #+BEGIN_VERSE
@@ -3619,10 +3619,10 @@ In my inner life, I am the bottom
 * Simar Majhare Parina Rakhite Dhari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:179
+  :cite-key: STMS:179
   :END:
 
 #+BEGIN_VERSE
@@ -3643,10 +3643,10 @@ Peyechi amar dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:180
+  :cite-key: STMS:180
   :END:
 
 #+BEGIN_VERSE
@@ -3664,10 +3664,10 @@ Has made me see the great Silence-Light.
 * Sundara Karo Madhumoy Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:181
+  :cite-key: STMS:181
   :END:
 
 #+BEGIN_VERSE
@@ -3680,10 +3680,10 @@ Eso sundara eso madhumoy sri charane dao sharan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:182
+  :cite-key: STMS:182
   :END:
 
 #+BEGIN_VERSE
@@ -3701,10 +3701,10 @@ I desire Your Haven-Feet.
 * Sundara Madhumoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:183
+  :cite-key: STMS:183
   :END:
 
 #+BEGIN_VERSE
@@ -3721,10 +3721,10 @@ Sundara madhumoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:184
+  :cite-key: STMS:184
   :END:
 
 #+BEGIN_VERSE
@@ -3743,10 +3743,10 @@ Do constantly enter into my heart.
 * Sundara Shib Mrinmoya Jib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:185
+  :cite-key: STMS:185
   :END:
 
 #+BEGIN_VERSE
@@ -3763,10 +3763,10 @@ Antare karo anayan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:186
+  :cite-key: STMS:186
   :END:
 
 #+BEGIN_VERSE
@@ -3784,10 +3784,10 @@ With Your boundless Power-Light.
 * Sundare Basi Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:187
+  :cite-key: STMS:187
   :END:
 
 #+BEGIN_VERSE
@@ -3802,10 +3802,10 @@ Jibane marane mileche amar sundar sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:188
+  :cite-key: STMS:188
   :END:
 
 #+BEGIN_VERSE
@@ -3825,10 +3825,10 @@ Have discovered Eternity's Beauty today.
 * Sundari Premika Sundari Sevika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:189
+  :cite-key: STMS:189
   :END:
 
 #+BEGIN_VERSE
@@ -3845,10 +3845,10 @@ Sundari savita
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:190
+  :cite-key: STMS:190
   :END:
 
 #+BEGIN_VERSE
@@ -3867,10 +3867,10 @@ I invoke Thee
 * Swapane Asiya Madhur Hasiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:191
+  :cite-key: STMS:191
   :END:
 
 #+BEGIN_VERSE
@@ -3885,10 +3885,10 @@ E jibane pale pale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:192
+  :cite-key: STMS:192
   :END:
 
 #+BEGIN_VERSE
@@ -3906,10 +3906,10 @@ And perfection-whole at every moment.
 * Swapne Hasi Swapne Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:193
+  :cite-key: STMS:193
   :END:
 
 #+BEGIN_VERSE
@@ -3926,10 +3926,10 @@ Maya tyager jalpana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:194
+  :cite-key: STMS:194
   :END:
 
 #+BEGIN_VERSE
@@ -3949,10 +3949,10 @@ My earth-life-attachments, from illusion.
 * Tomar Range Rangiye Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:195
+  :cite-key: STMS:195
   :END:
 
 #+BEGIN_VERSE
@@ -3970,10 +3970,10 @@ Bandhana hate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:196
+  :cite-key: STMS:196
   :END:
 
 #+BEGIN_VERSE
@@ -3991,10 +3991,10 @@ Lord Supreme, do liberate me
 * Tomar Range Rangiye Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:197
+  :cite-key: STMS:197
   :END:
 
 #+BEGIN_VERSE
@@ -4007,10 +4007,10 @@ Mago amar chitte jago nitya puja bandana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-08-1975
-  :CITE-KEY: STMS:198
+  :cite-key: STMS:198
   :END:
 
 #+BEGIN_VERSE

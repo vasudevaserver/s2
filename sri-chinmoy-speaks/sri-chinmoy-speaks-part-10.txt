@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0299
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-10
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0299
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: SCS-10
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I - Lecture
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:265e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:265e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Prayer and meditation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:265
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:265
   :END:
 
 
@@ -92,9 +92,9 @@ University of Massachusetts \\
 * Part II - Questions and answers following the lecture
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:266e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:266e1
   :END:
   
 
@@ -102,9 +102,9 @@ University of Massachusetts \\
 * Question: What is the most important thing in the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:266
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:266
   :END:
 
 
@@ -120,9 +120,9 @@ There are two magnets. If you allow the spiritual magnet to pull you, it will de
 * Question: How do we know that we are nearing our goal of liberation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:267
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:267
   :END:
 
 
@@ -134,9 +134,9 @@ There are two magnets. If you allow the spiritual magnet to pull you, it will de
 * Question: When people are gossiping about a negative quality in another person, can this gossip increase the strength of that quality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:268
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:268
   :END:
 
 
@@ -150,9 +150,9 @@ Gossip is very bad. It does not help anyone. Here we are all trying to be wise p
 * Question: What can we do about pride?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:269
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:269
   :END:
 
 
@@ -164,9 +164,9 @@ Gossip is very bad. It does not help anyone. Here we are all trying to be wise p
 * Question: How can I fight comfort in the lower conciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:270
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:270
   :END:
 
 
@@ -188,9 +188,9 @@ So, please run towards the sun. Then darkness has to leave you. Do not be afraid
 * Part III - Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:271e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:271e1
   :END:
   
   
@@ -198,9 +198,9 @@ So, please run towards the sun. Then darkness has to leave you. Do not be afraid
 * Purity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:271
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:271
   :END:
 
 
@@ -217,9 +217,9 @@ In the spiritual life, each seeker must feel that he is a child. If we can feel 
 * Temptation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:272
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:272
   :END:
 
 
@@ -242,9 +242,9 @@ When we become the lord, when we feel there is no other lord, then the temptatio
 * The Inner Study
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:273
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:273
   :END:
 
 
@@ -261,9 +261,9 @@ Please don't think that I am discouraging you. Far from it. A child's ultimate g
 * Part IV - Remarks To Disciples
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:274e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:274e1
   :END:
 
 
@@ -271,9 +271,9 @@ Please don't think that I am discouraging you. Far from it. A child's ultimate g
 * Seeing and feeling
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:274
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:274
   :END:
 
 
@@ -292,9 +292,9 @@ Gradually, gradually give all responsibility to the Supreme in me. If you feel s
 * Realising the Master's status
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:275
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:275
   :END:
 
 
@@ -309,9 +309,9 @@ We get the greatest opportunity when a real spiritual Master comes into the worl
 * Expediting God's hour
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:276
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:276
   :END:
 
 
@@ -326,9 +326,9 @@ In the human way, you think that perhaps I need something from you, some favour,
 * An April 13th message to disciples
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:277
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:277
   :END:
 
 
@@ -363,9 +363,9 @@ So from now on, please change your opinion as regards God. God is unknown for th
 * PART V - Questions and answers at Oxford
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:278e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:278e1
   :END:
 
 
@@ -376,9 +376,9 @@ So from now on, please change your opinion as regards God. God is unknown for th
 * Question: If I pray For my father, will this benefit his soul's evolution despite the fact that he does not lead a spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:278
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:278
   :END:
 
 
@@ -390,9 +390,9 @@ So from now on, please change your opinion as regards God. God is unknown for th
 * Question: What happens to geniuses like Bach or Shakespeare after they die?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:279
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:279
   :END:
 
 
@@ -408,9 +408,9 @@ Usually great geniuses like Shakespeare and Bach have completed their roles. The
 * Question: Is there any question you cannot answer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:280
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:280
   :END:
 
 
@@ -422,9 +422,9 @@ Usually great geniuses like Shakespeare and Bach have completed their roles. The
 * Question: Why is it that some religions do not mention reincarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:281
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:281
   :END:
 
 
@@ -438,9 +438,9 @@ But if we know that He is in Heaven and also here on earth, then naturally we wi
 * Question: Does the vibration of the city reflect the aspiration of its inhabitants?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:282
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:282
   :END:
 
 
@@ -452,9 +452,9 @@ But if we know that He is in Heaven and also here on earth, then naturally we wi
 * Question: Are there delicate and beautiful worlds of the psychic imagination that the artist should try to seek access to for inspiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:283
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:283
   :END:
 
 
@@ -470,9 +470,9 @@ The imagination-world is not a mental hallucination; it is reality-world far abo
 * PART VI - General Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:284e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:284e1
   :END:
 
 
@@ -480,9 +480,9 @@ The imagination-world is not a mental hallucination; it is reality-world far abo
 * Question: When I do my daily activities, I do not feel concerned about them. Is this the right attitude?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:284
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:284
   :END:
 
 
@@ -494,9 +494,9 @@ The imagination-world is not a mental hallucination; it is reality-world far abo
 * Question: When you perform meditation and concentration, if you can't break through the electromagnetic field around you, it will cause a certain amount of frustration, since you are not able to express what is inside you.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:285
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:285
   :END:
 
 
@@ -512,9 +512,9 @@ When we concentrate, we pierce like a bullet through the thing that is standing 
 * Question: How do we know who is our real teacher?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:286
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:286
   :END:
 
 
@@ -528,9 +528,9 @@ A teacher is supposed to be your most intimate, eternal friend. If I give you mo
 * Question: Is there such a thing as false light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:287
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:287
   :END:
 
 
@@ -548,9 +548,9 @@ So you have to be very careful that the light you see is real light. Never bow t
 * Question: Is God wholly good, or is He both good and evil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:288
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:288
   :END:
 
 
@@ -564,9 +564,9 @@ From the strictly spiritual point of view, there is no such thing as good or evi
 * Question: Can you please explain what /shakti/ is and its role in Creation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:289
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:289
   :END:
 
 
@@ -586,9 +586,9 @@ The seeker feels and experiences /shakti/, the Power, inside him, according to h
 * Question: Does each soul have a task and, if so, how is it known?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:290
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:290
   :END:
 
 
@@ -600,9 +600,9 @@ The seeker feels and experiences /shakti/, the Power, inside him, according to h
 * Question: What is the difference between intelligence and conciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:291
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:291
   :END:
 
 
@@ -616,9 +616,9 @@ With consciousness it is quite different. Consciousness is vast, very vast. The 
 * Question: When you come into the dream of somebody who is not yet your disciple, what does it mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:292
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:292
   :END:
 
 

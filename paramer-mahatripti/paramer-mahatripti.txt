@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1504
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2005
-  :PUBLISHER:
-  :CITE-KEY: PTS
-  :GENRE: song
+  :book-number: 1504
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2005
+  :publisher:
+  :cite-key: PTS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PTS:1e1
+  :genre: note
+  :cite-key: PTS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PTS:1e2
+  :genre: note
+  :cite-key: PTS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Flame: Shikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-03-2002
-  :CITE-KEY: PTS:1
+  :cite-key: PTS:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Flame: shikha
 * Never the End
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-03-2002
-  :CITE-KEY: PTS:2
+  :cite-key: PTS:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Nahe kabhu jaba nika nahe kabhu jaba nika nahe kabhu jaba nika
 * Bliss: Ananda (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 29-07-2002
-  :CITE-KEY: PTS:3
+  :cite-key: PTS:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Bliss: ananda
 * Shoulder: Skandha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 29-07-2002
-  :CITE-KEY: PTS:4
+  :cite-key: PTS:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Shoulder: skandha.
 * Consciousness-Bliss: Chidananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-12-2002
-  :CITE-KEY: PTS:5
+  :cite-key: PTS:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ Consciousness-bliss: chidananda
 * Mankind Blind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-12-2002
-  :CITE-KEY: PTS:6
+  :cite-key: PTS:6
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ Manab jati andha manab jati andha manab jati andha
 * Amal: Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 01-01-2003
-  :CITE-KEY: PTS:7
+  :cite-key: PTS:7
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Amal: pure.
 * Kamal: Lotus
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 01-01-2003
-  :CITE-KEY: PTS:8
+  :cite-key: PTS:8
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Kamal: lotus.
 * Ami Jenechi: I Have Known
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 01-01-2003
-  :CITE-KEY: PTS:9
+  :cite-key: PTS:9
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Ami jenechi: I have known.
 * Ami Peyechi: I Have Received
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 01-01-2003
-  :CITE-KEY: PTS:10
+  :cite-key: PTS:10
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Ami peyechi: I have received.
 * Ami Asbo: I Shall Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 14-01-2003
-  :CITE-KEY: PTS:11
+  :cite-key: PTS:11
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Ami asbo: I shall come.
 * Ami Hasbo: I Shall Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 14-01-2003
-  :CITE-KEY: PTS:12
+  :cite-key: PTS:12
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ Ami hasbo: I shall smile.
 * Sleep: Supti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:13
+  :cite-key: PTS:13
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Sleep: supti.
 * Satisfaction: Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:14
+  :cite-key: PTS:14
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Satisfaction: tripti.
 * Devotee: Bhakta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:15
+  :cite-key: PTS:15
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Devotee: bhakta.
 * Blood: Rakta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:16
+  :cite-key: PTS:16
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Blood: rakta.
 * Car: Gari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:17
+  :cite-key: PTS:17
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Car: gari.
 * House: Bari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:18
+  :cite-key: PTS:18
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ House: bari.
 * Purity: Pabita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:19
+  :cite-key: PTS:19
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Purity: pabita.
 * Poem: Kabita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:20
+  :cite-key: PTS:20
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Poem: kabita.
 * Bread: Ruti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:21
+  :cite-key: PTS:21
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Bread: ruti.
 * Vacation: Chuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2003
-  :CITE-KEY: PTS:22
+  :cite-key: PTS:22
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ Vacation: chuti.
 * Great Chidananda’s Group
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 12-02-2003
-  :CITE-KEY: PTS:23
+  :cite-key: PTS:23
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ An established fact.
 * Come: Eso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 10-03-2003
-  :CITE-KEY: PTS:24
+  :cite-key: PTS:24
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Come: eso.
 * Sit: Baso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 10-03-2003
-  :CITE-KEY: PTS:25
+  :cite-key: PTS:25
   :END:
 
 #+BEGIN_VERSE
@@ -447,10 +447,10 @@ Sit: baso.
 * Head: Shir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 10-03-2003
-  :CITE-KEY: PTS:26
+  :cite-key: PTS:26
   :END:
 
 #+BEGIN_VERSE
@@ -463,10 +463,10 @@ Head: shir.
 * Nest: Nir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 10-03-2003
-  :CITE-KEY: PTS:27
+  :cite-key: PTS:27
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Nest: nir.
 * Ami Asi: I Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 16-12-2003
-  :CITE-KEY: PTS:28
+  :cite-key: PTS:28
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ Ami asi: I come.
 * Ami Bhalobasi: I Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 16-12-2003
-  :CITE-KEY: PTS:29
+  :cite-key: PTS:29
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ Ami bhalobasi: I love.
 * Amar Chetana: My Consciousness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 16-12-2003
-  :CITE-KEY: PTS:30
+  :cite-key: PTS:30
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ Amar chetana: my consciousness.
 * Amar Bedana: My Pangs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 16-12-2003
-  :CITE-KEY: PTS:31
+  :cite-key: PTS:31
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Amar bedana: my pangs.
 * Jatri: Pilgrim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 23-12-2003
-  :CITE-KEY: PTS:32
+  :cite-key: PTS:32
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ Jatri: pilgrim.
 * Ratri: Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 23-12-2003
-  :CITE-KEY: PTS:33
+  :cite-key: PTS:33
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Ratri: night.
 * Shephali: Jasmine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 23-12-2003
-  :CITE-KEY: PTS:34
+  :cite-key: PTS:34
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Shephali: jasmine.
 * Dipali: Light Festival
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 23-12-2003
-  :CITE-KEY: PTS:35
+  :cite-key: PTS:35
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Dipali: light festival.
 * Hope: Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:36
+  :cite-key: PTS:36
   :END:
 
 #+BEGIN_VERSE
@@ -623,10 +623,10 @@ Hope: asha.
 * Love: Bhalobasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:37
+  :cite-key: PTS:37
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Love: bhalobasa
 * Victory: Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:38
+  :cite-key: PTS:38
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ Victory: bijoy
 * Home: Aloy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:39
+  :cite-key: PTS:39
   :END:
 
 #+BEGIN_VERSE
@@ -671,10 +671,10 @@ Home: aloy.
 * Garland: Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:40
+  :cite-key: PTS:40
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Garland: mala.
 * Illumine: Ala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:41
+  :cite-key: PTS:41
   :END:
 
 #+BEGIN_VERSE
@@ -703,10 +703,10 @@ Illumine: ala.
 * Desire: Kamana Basona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:42
+  :cite-key: PTS:42
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Desire: kamana basona.
 * Aspiration: Eshana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:43
+  :cite-key: PTS:43
   :END:
 
 #+BEGIN_VERSE
@@ -735,10 +735,10 @@ Aspiration: eshana.
 * Salutation: Namaskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:44
+  :cite-key: PTS:44
   :END:
 
 #+BEGIN_VERSE
@@ -751,10 +751,10 @@ Salutation: namaskar.
 * Award: Puraskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 04-01-2002
-  :CITE-KEY: PTS:45
+  :cite-key: PTS:45
   :END:
 
 #+BEGIN_VERSE
@@ -767,10 +767,10 @@ Award: puraskar.
 * I Come: Ami Asi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 15-01-2002
-  :CITE-KEY: PTS:46
+  :cite-key: PTS:46
   :END:
 
 #+BEGIN_VERSE
@@ -783,10 +783,10 @@ I come: ami asi.
 * My Flute: Amar Banshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 15-01-2002
-  :CITE-KEY: PTS:47
+  :cite-key: PTS:47
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ My flute: amar banshi.
 * Peace: Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 18-01-2002
-  :CITE-KEY: PTS:48
+  :cite-key: PTS:48
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Peace: shanti.
 * Mistake: Bhranti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 18-01-2002
-  :CITE-KEY: PTS:49
+  :cite-key: PTS:49
   :END:
 
 #+BEGIN_VERSE
@@ -831,10 +831,10 @@ Mistake: bhranti.
 * Play: Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:50
+  :cite-key: PTS:50
   :END:
 
 #+BEGIN_VERSE
@@ -847,10 +847,10 @@ Play: khela.
 * Time: Bela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:51
+  :cite-key: PTS:51
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ Time: bela.
 * Life: Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:52
+  :cite-key: PTS:52
   :END:
 
 #+BEGIN_VERSE
@@ -879,10 +879,10 @@ Life: jiban.
 * Death: Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:53
+  :cite-key: PTS:53
   :END:
 
 #+BEGIN_VERSE
@@ -896,10 +896,10 @@ Maran, maran, maran.
 * Today: Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:54
+  :cite-key: PTS:54
   :END:
 
 #+BEGIN_VERSE
@@ -912,10 +912,10 @@ Today: aj.
 * Evening: Sanjh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:55
+  :cite-key: PTS:55
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Evening: sanjh.
 * Morning: Bhor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:56
+  :cite-key: PTS:56
   :END:
 
 #+BEGIN_VERSE
@@ -944,10 +944,10 @@ Morning: bhor.
 * Dark: Ghor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:57
+  :cite-key: PTS:57
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ Dark: ghor.
 * Forest: Ban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:58
+  :cite-key: PTS:58
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ Forest: ban.
 * Wealth: Dhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:59
+  :cite-key: PTS:59
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Wealth: dhan.
 * Affection: Sneha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:60
+  :cite-key: PTS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ Affection: sneha.
 * Body: Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:61
+  :cite-key: PTS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ Body: deha.
 * Love: Priti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:62
+  :cite-key: PTS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ Love: priti.
 * Fear: Bhiti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:63
+  :cite-key: PTS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1056,10 +1056,10 @@ Fear: bhiti.
 * Pride: Ahangkar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:64
+  :cite-key: PTS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ Pride: ahangkar.
 * Jewellery: Alangkar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:65
+  :cite-key: PTS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1088,10 +1088,10 @@ Jewellery: alangkar.
 * Son: Nandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:66
+  :cite-key: PTS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ Son: nandan.
 * Bondage: Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:67
+  :cite-key: PTS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1120,10 +1120,10 @@ Bondage: bandhan.
 * Dream: Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:68
+  :cite-key: PTS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1136,10 +1136,10 @@ Dream: swapan
 * Pain: Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:69
+  :cite-key: PTS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1152,10 +1152,10 @@ Pain: bedan
 * Doubt: Sangshay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:70
+  :cite-key: PTS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1168,10 +1168,10 @@ Doubt: sangshay.
 * Grace: Barabhay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:71
+  :cite-key: PTS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1184,10 +1184,10 @@ Grace: barabhay.
 * Pilgrim: Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:72
+  :cite-key: PTS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1200,10 +1200,10 @@ Pilgrim: jatri.
 * Night: Ratri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 20-01-2002
-  :CITE-KEY: PTS:73
+  :cite-key: PTS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1216,10 +1216,10 @@ Night: ratri.
 * Mind: Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:74
+  :cite-key: PTS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1232,10 +1232,10 @@ Mind: man.
 * Promise: Pan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:75
+  :cite-key: PTS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ Promise: pan
 * Night: Rati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:76
+  :cite-key: PTS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1264,10 +1264,10 @@ Night: rati.
 * Light: Bhati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:77
+  :cite-key: PTS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1280,10 +1280,10 @@ Light: bhati.
 * Month: Mas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:78
+  :cite-key: PTS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ Month: mas.
 * Slave: Das
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:79
+  :cite-key: PTS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1312,10 +1312,10 @@ Slave: das.
 * Sky: Akash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:80
+  :cite-key: PTS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1328,10 +1328,10 @@ Sky: akash.
 * Air: Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:81
+  :cite-key: PTS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1344,10 +1344,10 @@ Air: batas
 * Morning: Prabhat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:82
+  :cite-key: PTS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1360,10 +1360,10 @@ Morning: prabhat.
 * Topsy-Turvy: Utpat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:83
+  :cite-key: PTS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1376,10 +1376,10 @@ Topsy-turvy: utpat.
 * Candle: Mumbati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:84
+  :cite-key: PTS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1392,10 +1392,10 @@ Candle: mumbati.
 * Day and Night: Dibarati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:85
+  :cite-key: PTS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1408,10 +1408,10 @@ Day and night: dibarati
 * Incense: Dhup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:86
+  :cite-key: PTS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1424,10 +1424,10 @@ Incense: dhup.
 * Silence: Chup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:87
+  :cite-key: PTS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1440,10 +1440,10 @@ Silence: chup.
 * Eagerness: Akulata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:88
+  :cite-key: PTS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1456,10 +1456,10 @@ Eagerness: akulata
 * Talkativeness: Bachalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:89
+  :cite-key: PTS:89
   :END:
 
 #+BEGIN_VERSE
@@ -1472,10 +1472,10 @@ Talkativeness: bachalata.
 * Justice: Bichar (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:90
+  :cite-key: PTS:90
   :END:
 
 #+BEGIN_VERSE
@@ -1488,10 +1488,10 @@ Justice: bichar.
 * Pickle: Achar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:91
+  :cite-key: PTS:91
   :END:
 
 #+BEGIN_VERSE
@@ -1504,10 +1504,10 @@ Pickle: achar
 * Mother: Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:92
+  :cite-key: PTS:92
   :END:
 
 #+BEGIN_VERSE
@@ -1520,10 +1520,10 @@ Mother: mata.
 * Brother: Bhrata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:93
+  :cite-key: PTS:93
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ Brother: bhrata.
 * Father: Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:94
+  :cite-key: PTS:94
   :END:
 
 #+BEGIN_VERSE
@@ -1552,10 +1552,10 @@ Father: pita.
 * Friend: Mita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:95
+  :cite-key: PTS:95
   :END:
 
 #+BEGIN_VERSE
@@ -1568,10 +1568,10 @@ Friend: mita.
 * Sister: Bon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:96
+  :cite-key: PTS:96
   :END:
 
 #+BEGIN_VERSE
@@ -1584,10 +1584,10 @@ Sister: bon.
 * Corner: Kon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:97
+  :cite-key: PTS:97
   :END:
 
 #+BEGIN_VERSE
@@ -1600,10 +1600,10 @@ Corner: kon.
 * Aunt: Mashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:98
+  :cite-key: PTS:98
   :END:
 
 #+BEGIN_VERSE
@@ -1616,10 +1616,10 @@ Aunt: mashi.
 * Maid: Dasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:99
+  :cite-key: PTS:99
   :END:
 
 #+BEGIN_VERSE
@@ -1632,10 +1632,10 @@ Maid: dasi.
 * Flower: Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:100
+  :cite-key: PTS:100
   :END:
 
 #+BEGIN_VERSE
@@ -1648,10 +1648,10 @@ Flower: phul.
 * Hair: Hari, Chul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:101
+  :cite-key: PTS:101
   :END:
 
 #+BEGIN_VERSE
@@ -1664,10 +1664,10 @@ Hair: hari, chul.
 * Navel: Nabhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:102
+  :cite-key: PTS:102
   :END:
 
 #+BEGIN_VERSE
@@ -1680,10 +1680,10 @@ Navel: nabhi.
 * Cow: Gabhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:103
+  :cite-key: PTS:103
   :END:
 
 #+BEGIN_VERSE
@@ -1696,10 +1696,10 @@ Cow: gabhi.
 * Happiness: Sukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:104
+  :cite-key: PTS:104
   :END:
 
 #+BEGIN_VERSE
@@ -1712,10 +1712,10 @@ Happiness: sukh.
 * Unhappiness: Dukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:105
+  :cite-key: PTS:105
   :END:
 
 #+BEGIN_VERSE
@@ -1728,10 +1728,10 @@ Unhappiness: dukh.
 * Hand: Hat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:106
+  :cite-key: PTS:106
   :END:
 
 #+BEGIN_VERSE
@@ -1744,10 +1744,10 @@ Hand: hat.
 * Tooth: Dant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 28-01-2002
-  :CITE-KEY: PTS:107
+  :cite-key: PTS:107
   :END:
 
 #+BEGIN_VERSE
@@ -1760,10 +1760,10 @@ Tooth: dant.
 * Tomorrow: Kal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:108
+  :cite-key: PTS:108
   :END:
 
 #+BEGIN_VERSE
@@ -1776,10 +1776,10 @@ Tomorrow: kal.
 * Forehead: Kapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:109
+  :cite-key: PTS:109
   :END:
 
 #+BEGIN_VERSE
@@ -1792,10 +1792,10 @@ Forehead: kapal.
 * Affection: Adar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:110
+  :cite-key: PTS:110
   :END:
 
 #+BEGIN_VERSE
@@ -1808,10 +1808,10 @@ Affection: adar.
 * Monkey: Banar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:111
+  :cite-key: PTS:111
   :END:
 
 #+BEGIN_VERSE
@@ -1824,10 +1824,10 @@ Monkey: banar.
 * Boat: Tarani (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:112
+  :cite-key: PTS:112
   :END:
 
 #+BEGIN_VERSE
@@ -1840,10 +1840,10 @@ Boat: tarani.
 * World: Abani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:113
+  :cite-key: PTS:113
   :END:
 
 #+BEGIN_VERSE
@@ -1857,10 +1857,10 @@ Abani, abani, abani.
 * Vegetable: Shak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:114
+  :cite-key: PTS:114
   :END:
 
 #+BEGIN_VERSE
@@ -1873,10 +1873,10 @@ Vegetable: shak
 * Nose: Nak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 30-01-2002
-  :CITE-KEY: PTS:115
+  :cite-key: PTS:115
   :END:
 
 #+BEGIN_VERSE
@@ -1889,10 +1889,10 @@ Nose: nak.
 * Manifestation: Prachar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:116
+  :cite-key: PTS:116
   :END:
 
 #+BEGIN_VERSE
@@ -1905,10 +1905,10 @@ Manifestation: prachar
 * Justice: Bichar (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:117
+  :cite-key: PTS:117
   :END:
 
 #+BEGIN_VERSE
@@ -1921,10 +1921,10 @@ Justice: bichar.
 * Sun: Sabita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:118
+  :cite-key: PTS:118
   :END:
 
 #+BEGIN_VERSE
@@ -1937,10 +1937,10 @@ Sun: sabita.
 * Humility: Namita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:119
+  :cite-key: PTS:119
   :END:
 
 #+BEGIN_VERSE
@@ -1953,10 +1953,10 @@ Humility: Namita
 * Generosity-Hero: Databir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:120
+  :cite-key: PTS:120
   :END:
 
 #+BEGIN_VERSE
@@ -1969,10 +1969,10 @@ Generosity-hero: databir.
 * Tears: Ashru Nir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:121
+  :cite-key: PTS:121
   :END:
 
 #+BEGIN_VERSE
@@ -1985,10 +1985,10 @@ Tears: ashru nir.
 * Vision: Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:122
+  :cite-key: PTS:122
   :END:
 
 #+BEGIN_VERSE
@@ -2001,10 +2001,10 @@ Vision: darashan.
 * Wind: Samiran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:123
+  :cite-key: PTS:123
   :END:
 
 #+BEGIN_VERSE
@@ -2017,10 +2017,10 @@ Wind: samiran.
 * Ideal: Adarsha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:124
+  :cite-key: PTS:124
   :END:
 
 #+BEGIN_VERSE
@@ -2033,10 +2033,10 @@ Ideal: adarsha.
 * Advice: Paramarsha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:125
+  :cite-key: PTS:125
   :END:
 
 #+BEGIN_VERSE
@@ -2049,10 +2049,10 @@ Advice: paramarsha.
 * Beloved: Preyasee
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:126
+  :cite-key: PTS:126
   :END:
 
 #+BEGIN_VERSE
@@ -2065,10 +2065,10 @@ Beloved: Preyasee
 * Dawn: Ushashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:127
+  :cite-key: PTS:127
   :END:
 
 #+BEGIN_VERSE
@@ -2081,10 +2081,10 @@ Dawn: ushashi.
 * Eager: Agraha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:128
+  :cite-key: PTS:128
   :END:
 
 #+BEGIN_VERSE
@@ -2097,10 +2097,10 @@ Eager: agraha.
 * Image: Bigraha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:129
+  :cite-key: PTS:129
   :END:
 
 #+BEGIN_VERSE
@@ -2113,10 +2113,10 @@ Image: bigraha.
 * Faith: Bishwas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:130
+  :cite-key: PTS:130
   :END:
 
 #+BEGIN_VERSE
@@ -2129,10 +2129,10 @@ Faith: bishwas.
 * Despondent: Hatash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:131
+  :cite-key: PTS:131
   :END:
 
 #+BEGIN_VERSE
@@ -2145,10 +2145,10 @@ Despondent: hatash.
 * Intuition: Pragya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:132
+  :cite-key: PTS:132
   :END:
 
 #+BEGIN_VERSE
@@ -2161,10 +2161,10 @@ Intuition: pragya.
 * Command: Agya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:133
+  :cite-key: PTS:133
   :END:
 
 #+BEGIN_VERSE
@@ -2177,10 +2177,10 @@ Command: agya.
 * Restless: Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:134
+  :cite-key: PTS:134
   :END:
 
 #+BEGIN_VERSE
@@ -2193,10 +2193,10 @@ Restless: chapal.
 * Stone: Upal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:135
+  :cite-key: PTS:135
   :END:
 
 #+BEGIN_VERSE
@@ -2209,10 +2209,10 @@ Stone: upal.
 * Promise: Shapath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:136
+  :cite-key: PTS:136
   :END:
 
 #+BEGIN_VERSE
@@ -2225,10 +2225,10 @@ Promise: shapath
 * Untrue: Asat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:137
+  :cite-key: PTS:137
   :END:
 
 #+BEGIN_VERSE
@@ -2241,10 +2241,10 @@ Untrue: asat
 * Bow: Dhanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:138
+  :cite-key: PTS:138
   :END:
 
 #+BEGIN_VERSE
@@ -2257,10 +2257,10 @@ Bow: dhanu.
 * Atom: Anu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:139
+  :cite-key: PTS:139
   :END:
 
 #+BEGIN_VERSE
@@ -2273,10 +2273,10 @@ Atom: anu.
 * Consciousness: Chetana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:140
+  :cite-key: PTS:140
   :END:
 
 #+BEGIN_VERSE
@@ -2289,10 +2289,10 @@ Consciousness: chetana.
 * Suffering: Bedana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:141
+  :cite-key: PTS:141
   :END:
 
 #+BEGIN_VERSE
@@ -2305,10 +2305,10 @@ Suffering: bedana.
 * Mother: Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:142
+  :cite-key: PTS:142
   :END:
 
 #+BEGIN_VERSE
@@ -2321,10 +2321,10 @@ Mother: janani.
 * Lightning: Ashani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:143
+  :cite-key: PTS:143
   :END:
 
 #+BEGIN_VERSE
@@ -2337,10 +2337,10 @@ Lightning: ashani.
 * Genuine: Asal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:144
+  :cite-key: PTS:144
   :END:
 
 #+BEGIN_VERSE
@@ -2353,10 +2353,10 @@ Genuine: asal.
 * Trick: Kaushal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 31-01-2002
-  :CITE-KEY: PTS:145
+  :cite-key: PTS:145
   :END:
 
 #+BEGIN_VERSE
@@ -2369,10 +2369,10 @@ Trick: kaushal.
 * Exquisite-Looking: Priyadarshan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:146
+  :cite-key: PTS:146
   :END:
 
 #+BEGIN_VERSE
@@ -2385,10 +2385,10 @@ Exquisite-looking: priyadarshan.
 * Rain: Barishan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:147
+  :cite-key: PTS:147
   :END:
 
 #+BEGIN_VERSE
@@ -2401,10 +2401,10 @@ Rain: barishan
 * Indomitable: Durdam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:148
+  :cite-key: PTS:148
   :END:
 
 #+BEGIN_VERSE
@@ -2417,10 +2417,10 @@ Indomitable: durdam.
 * Clay: Kardam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:149
+  :cite-key: PTS:149
   :END:
 
 #+BEGIN_VERSE
@@ -2433,10 +2433,10 @@ Clay: kardam.
 * Leader: Nayak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:150
+  :cite-key: PTS:150
   :END:
 
 #+BEGIN_VERSE
@@ -2449,10 +2449,10 @@ Leader: nayak.
 * Singer: Gayak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:151
+  :cite-key: PTS:151
   :END:
 
 #+BEGIN_VERSE
@@ -2465,10 +2465,10 @@ Singer: gayak.
 * Progressive: Unnatishil
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:152
+  :cite-key: PTS:152
   :END:
 
 #+BEGIN_VERSE
@@ -2481,10 +2481,10 @@ Progressive: unnatishil
 * Lawyer: Ukil
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:153
+  :cite-key: PTS:153
   :END:
 
 #+BEGIN_VERSE
@@ -2497,10 +2497,10 @@ Lawyer: ukil.
 * Moon: Shashanka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:154
+  :cite-key: PTS:154
   :END:
 
 #+BEGIN_VERSE
@@ -2513,10 +2513,10 @@ Moon: shashanka.
 * Grace-Lamp: Kripanka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:155
+  :cite-key: PTS:155
   :END:
 
 #+BEGIN_VERSE
@@ -2529,10 +2529,10 @@ Grace Lamp: kripanka.
 * Cradle: Dodula
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:156
+  :cite-key: PTS:156
   :END:
 
 #+BEGIN_VERSE
@@ -2545,10 +2545,10 @@ Cradle: dodula.
 * Softness: Mridula
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:157
+  :cite-key: PTS:157
   :END:
 
 #+BEGIN_VERSE
@@ -2561,10 +2561,10 @@ Softness: mridula.
 * Fairy: Paree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:158
+  :cite-key: PTS:158
   :END:
 
 #+BEGIN_VERSE
@@ -2577,10 +2577,10 @@ Fairy: paree.
 * Lord Vishnu: Hari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:159
+  :cite-key: PTS:159
   :END:
 
 #+BEGIN_VERSE
@@ -2593,10 +2593,10 @@ Lord Vishnu: Hari.
 * Achievement: Prapti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:160
+  :cite-key: PTS:160
   :END:
 
 #+BEGIN_VERSE
@@ -2609,10 +2609,10 @@ Achievement: prapti.
 * Slumber: Supti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:161
+  :cite-key: PTS:161
   :END:
 
 #+BEGIN_VERSE
@@ -2625,10 +2625,10 @@ Slumber: supti.
 * Fearless: Nirvik
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:162
+  :cite-key: PTS:162
   :END:
 
 #+BEGIN_VERSE
@@ -2641,10 +2641,10 @@ Fearless: nirvik.
 * Pious: Dharmik
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:163
+  :cite-key: PTS:163
   :END:
 
 #+BEGIN_VERSE
@@ -2657,10 +2657,10 @@ Pious: dharmik.
 * Light Absolute: Alo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:164
+  :cite-key: PTS:164
   :END:
 
 #+BEGIN_VERSE
@@ -2673,10 +2673,10 @@ Light Absolute: alo.
 * Kindle: Jwalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:165
+  :cite-key: PTS:165
   :END:
 
 #+BEGIN_VERSE
@@ -2689,10 +2689,10 @@ Kindle: jwalo.
 * Swan: Maral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:166
+  :cite-key: PTS:166
   :END:
 
 #+BEGIN_VERSE
@@ -2705,10 +2705,10 @@ Swan: maral.
 * Sharp: Daral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:167
+  :cite-key: PTS:167
   :END:
 
 #+BEGIN_VERSE
@@ -2721,10 +2721,10 @@ Sharp: daral.
 * Command: Adesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:168
+  :cite-key: PTS:168
   :END:
 
 #+BEGIN_VERSE
@@ -2737,10 +2737,10 @@ Command: adesh.
 * Fulfilment-Giver: Ganesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:169
+  :cite-key: PTS:169
   :END:
 
 #+BEGIN_VERSE
@@ -2753,10 +2753,10 @@ Fulfilment-Giver: Ganesh.
 * Boat: Tarani (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:170
+  :cite-key: PTS:170
   :END:
 
 #+BEGIN_VERSE
@@ -2769,10 +2769,10 @@ Boat: tarani.
 * Dreamer: Swapani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:171
+  :cite-key: PTS:171
   :END:
 
 #+BEGIN_VERSE
@@ -2785,10 +2785,10 @@ Dreamer: swapani
 * Beyond Time: Kalatit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:172
+  :cite-key: PTS:172
   :END:
 
 #+BEGIN_VERSE
@@ -2801,10 +2801,10 @@ Beyond time: kalatit.
 * Beyond Hope: Ashatit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:173
+  :cite-key: PTS:173
   :END:
 
 #+BEGIN_VERSE
@@ -2817,10 +2817,10 @@ Beyond hope: ashatit.
 * Bud: Mukul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:174
+  :cite-key: PTS:174
   :END:
 
 #+BEGIN_VERSE
@@ -2833,10 +2833,10 @@ Bud: mukul.
 * Incomparable: Atul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:175
+  :cite-key: PTS:175
   :END:
 
 #+BEGIN_VERSE
@@ -2849,10 +2849,10 @@ Incomparable: atul.
 * Sweetness: Sumadhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:176
+  :cite-key: PTS:176
   :END:
 
 #+BEGIN_VERSE
@@ -2865,10 +2865,10 @@ Sweetness: sumadhur.
 * Full to the Brim: Bharapur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:177
+  :cite-key: PTS:177
   :END:
 
 #+BEGIN_VERSE
@@ -2881,10 +2881,10 @@ Full to the brim: bharapur.
 * Life-Energy: Pranika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:178
+  :cite-key: PTS:178
   :END:
 
 #+BEGIN_VERSE
@@ -2897,10 +2897,10 @@ Life-energy: Pranika
 * Dictionary: Chalantika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:179
+  :cite-key: PTS:179
   :END:
 
 #+BEGIN_VERSE
@@ -2913,10 +2913,10 @@ Dictionary: chalantika.
 * Jasmine: Shephali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:180
+  :cite-key: PTS:180
   :END:
 
 #+BEGIN_VERSE
@@ -2929,10 +2929,10 @@ Jasmine: shephali.
 * Queen: Bhupali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:181
+  :cite-key: PTS:181
   :END:
 
 #+BEGIN_VERSE
@@ -2945,10 +2945,10 @@ Queen: bhupali.
 * Fondness: Adarini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:182
+  :cite-key: PTS:182
   :END:
 
 #+BEGIN_VERSE
@@ -2961,10 +2961,10 @@ Fondness: adarini.
 * Goddess Lakshmi: Mrinalini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:183
+  :cite-key: PTS:183
   :END:
 
 #+BEGIN_VERSE
@@ -2977,10 +2977,10 @@ Goddess Lakshmi: Mrinalini
 * Complaint: Nalish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:184
+  :cite-key: PTS:184
   :END:
 
 #+BEGIN_VERSE
@@ -2993,10 +2993,10 @@ Complaint: nalish.
 * Pillow: Balish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:185
+  :cite-key: PTS:185
   :END:
 
 #+BEGIN_VERSE
@@ -3009,10 +3009,10 @@ Pillow: balish.
 * Blessing: Ashish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:186
+  :cite-key: PTS:186
   :END:
 
 #+BEGIN_VERSE
@@ -3025,10 +3025,10 @@ Blessing: Ashish.
 * Massage: Malish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 05-02-2002
-  :CITE-KEY: PTS:187
+  :cite-key: PTS:187
   :END:
 
 #+BEGIN_VERSE
@@ -3041,10 +3041,10 @@ Massage: malish.
 * Bliss: Ananda (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 14-02-2002
-  :CITE-KEY: PTS:188
+  :cite-key: PTS:188
   :END:
 
 #+BEGIN_VERSE
@@ -3057,10 +3057,10 @@ Bliss: ananda
 * Responsibility-Shoulder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 14-02-2002
-  :CITE-KEY: PTS:189
+  :cite-key: PTS:189
   :END:
 
 #+BEGIN_VERSE
@@ -3073,10 +3073,10 @@ Responsibility-shoulder: daiyittwa skandha.
 * Wisdom: Darshanika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 14-02-2002
-  :CITE-KEY: PTS:190
+  :cite-key: PTS:190
   :END:
 
 #+BEGIN_VERSE
@@ -3089,10 +3089,10 @@ Wisdom: darshanika.
 * God-Letter: Debalipika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 14-02-2002
-  :CITE-KEY: PTS:191
+  :cite-key: PTS:191
   :END:
 
 #+BEGIN_VERSE
@@ -3105,10 +3105,10 @@ God-letter: debalipika
 * Moonlit Night: Jyotsna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:192
+  :cite-key: PTS:192
   :END:
 
 #+BEGIN_VERSE
@@ -3121,10 +3121,10 @@ Moonlit night: jyotsna.
 * Music: Bajna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:193
+  :cite-key: PTS:193
   :END:
 
 #+BEGIN_VERSE
@@ -3137,10 +3137,10 @@ Music: bajna.
 * Supplication: Minati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:194
+  :cite-key: PTS:194
   :END:
 
 #+BEGIN_VERSE
@@ -3153,10 +3153,10 @@ Supplication: minati
 * Obeisance: Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:195
+  :cite-key: PTS:195
   :END:
 
 #+BEGIN_VERSE
@@ -3169,10 +3169,10 @@ Obeisance: pranati
 * Disciple: Chela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:196
+  :cite-key: PTS:196
   :END:
 
 #+BEGIN_VERSE
@@ -3185,10 +3185,10 @@ Disciple: chela.
 * Festival: Mela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:197
+  :cite-key: PTS:197
   :END:
 
 #+BEGIN_VERSE
@@ -3201,10 +3201,10 @@ Festival: mela.
 * Goddess Lakshmi: Padmasini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:198
+  :cite-key: PTS:198
   :END:
 
 #+BEGIN_VERSE
@@ -3217,10 +3217,10 @@ Goddess Lakshmi: Padmasini
 * Uncomeliness-Destroyer: Kurup Nashini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:199
+  :cite-key: PTS:199
   :END:
 
 #+BEGIN_VERSE
@@ -3233,10 +3233,10 @@ Uncomeliness-destroyer: kurup nashini.
 * Lightning: Meghabhuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:200
+  :cite-key: PTS:200
   :END:
 
 #+BEGIN_VERSE
@@ -3249,10 +3249,10 @@ Lightning: meghabhuti.
 * Heavenly Light: Oishi Dhuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 17-02-2002
-  :CITE-KEY: PTS:201
+  :cite-key: PTS:201
   :END:
 
 #+BEGIN_VERSE

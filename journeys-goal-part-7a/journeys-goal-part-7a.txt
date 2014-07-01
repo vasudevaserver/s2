@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 425
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-7A
-  :GENRE: song
+  :book-number: 425
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-7A
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1057e1
+  :genre: note
+  :cite-key: JGS:1057e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1057e2
+  :genre: note
+  :cite-key: JGS:1057e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Lord in Silence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1057
+  :cite-key: JGS:1057
   :END:
 
 #+BEGIN_VERSE
@@ -66,10 +66,10 @@ My Lord in silence gives
 * My Heart-to-Heart Talk with My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1058
+  :cite-key: JGS:1058
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Ere me death-dart.
 * I Plumb My Selfless Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1059
+  :cite-key: JGS:1059
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ No terror-rod.
 * With a Sleepless Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1060
+  :cite-key: JGS:1060
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ My golden boat I row.
 * I Need a New Beginning-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1061
+  :cite-key: JGS:1061
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ A new God-loving Chinmoy.
 * A Big Mistake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1062
+  :cite-key: JGS:1062
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Sky-blue Supreme.
 * He Practises What He Preached
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1063
+  :cite-key: JGS:1063
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Surrender-toy.
 * Lift Up Your Eyes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1064
+  :cite-key: JGS:1064
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ A oneness-trance.
 * O Master, Hide My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1065
+  :cite-key: JGS:1065
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ A flood of increasing dole.
 * I Was a Chainless Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1066
+  :cite-key: JGS:1066
   :END:
 
 #+BEGIN_VERSE
@@ -258,10 +258,10 @@ And now a ceaseless strife.
 * Helpless Is My World Within
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1067
+  :cite-key: JGS:1067
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ Goalless is my body-vital-fight.
 * Strengthen Me, My Heart-Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1068
+  :cite-key: JGS:1068
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Quicken me, my vital-voice.
 * Easy to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1069
+  :cite-key: JGS:1069
   :END:
 
 #+BEGIN_VERSE
@@ -319,10 +319,10 @@ Easy to sink.
 * A Single Human Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1070
+  :cite-key: JGS:1070
   :END:
 
 #+BEGIN_VERSE
@@ -338,10 +338,10 @@ Can swiftly transform a mortal face.
 * To Be a Cosmic God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1071
+  :cite-key: JGS:1071
   :END:
 
 #+BEGIN_VERSE
@@ -359,10 +359,10 @@ And sleeplessly fly.
 * I Dearly Love My India
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1072
+  :cite-key: JGS:1072
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ And its child-heart’s beauty-increase.
 * In Silence-Love I Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1073
+  :cite-key: JGS:1073
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ In silence-dance I live.
 * Although In Despair-Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1074
+  :cite-key: JGS:1074
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ To muster my Lord’s binding ropes.
 * A Single Heaven-Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1075
+  :cite-key: JGS:1075
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ A single Heaven-flame.
 * My Song, My Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1076
+  :cite-key: JGS:1076
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ My song is my God-cherished toy.
 * A Garland of Soul-Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1077
+  :cite-key: JGS:1077
   :END:
 
 #+BEGIN_VERSE
@@ -474,10 +474,10 @@ Has granted him trance.
 * I Fly from Sky to Sky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1078
+  :cite-key: JGS:1078
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ And play with His Vision-Time.
 * When I Take Shelter in My Master’s Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1079
+  :cite-key: JGS:1079
   :END:
 
 #+BEGIN_VERSE
@@ -514,10 +514,10 @@ Ignorance-dream I quit.
 * Silence-Tears I Weep
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1080
+  :cite-key: JGS:1080
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ Silence-God opens my door.
 * For Love You Bind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1081
+  :cite-key: JGS:1081
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Heaven-free oneness-light.
 * One Gleam of Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1082
+  :cite-key: JGS:1082
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ Can usher in timeless day.
 * He Challenged Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1083
+  :cite-key: JGS:1083
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ He challenged God only to share.
 * Life Is My Philosophy-Sight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1084
+  :cite-key: JGS:1084
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ God is my only Friend-Love sure.
 * I Think, I Think Only to Sink
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1085
+  :cite-key: JGS:1085
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Perfection-life.
 * Each Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1086
+  :cite-key: JGS:1086
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Each man is a new flood of ruth.
 * Deep Compassion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1087
+  :cite-key: JGS:1087
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ With me start a new race.
 * Why Do I Cry?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1088
+  :cite-key: JGS:1088
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ I am His dove.
 * How Many Blessings?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1089
+  :cite-key: JGS:1089
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ For the Supreme.
 * The Song of Freedom Divine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1090
+  :cite-key: JGS:1090
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ Loses precious breath.
 * Slowly and Steadily My Prayer Ascends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1091
+  :cite-key: JGS:1091
   :END:
 
 #+BEGIN_VERSE
@@ -753,10 +753,10 @@ Like a heavy rain.
 * Are You Dying for a Dream?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1092
+  :cite-key: JGS:1092
   :END:
 
 #+BEGIN_VERSE
@@ -772,10 +772,10 @@ I shall set your vision free.
 * Your Childlike Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1093
+  :cite-key: JGS:1093
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ I worship beyond measure.
 * I Fear No More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1094
+  :cite-key: JGS:1094
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ My mind, a sheltering tree.
 * A Sudden Thought of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1095
+  :cite-key: JGS:1095
   :END:
 
 #+BEGIN_VERSE
@@ -829,10 +829,10 @@ He tastes God-freedom within.
 * To See My Pilot Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1096
+  :cite-key: JGS:1096
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ My dream remains the dream.
 * Star-Like You Soar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1097
+  :cite-key: JGS:1097
   :END:
 
 #+BEGIN_VERSE
@@ -869,10 +869,10 @@ God-like you play.
 * Lost in Stormy Vision
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1098
+  :cite-key: JGS:1098
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Yet he loves his Supreme.
 * One Lightning Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1099
+  :cite-key: JGS:1099
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ Perfection-goal.
 * In the Smile of Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1100
+  :cite-key: JGS:1100
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ I see my own Eternity’s Goal.
 * My Sweet Lord Loves My Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1101
+  :cite-key: JGS:1101
   :END:
 
 #+BEGIN_VERSE
@@ -949,10 +949,10 @@ Dancing I roar.
 * Although I Tried
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1102
+  :cite-key: JGS:1102
   :END:
 
 #+BEGIN_VERSE
@@ -970,10 +970,10 @@ Yet I shall proceed.
 * In Rapture of Service-Dance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1103
+  :cite-key: JGS:1103
   :END:
 
 #+BEGIN_VERSE
@@ -989,10 +989,10 @@ I shall unveil.
 * I Sing through My Heart-Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1104
+  :cite-key: JGS:1104
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ I cherish surrender-game.
 * Vaster Than the Sky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1105
+  :cite-key: JGS:1105
   :END:
 
 #+BEGIN_VERSE
@@ -1027,10 +1027,10 @@ Man’s God-Oneness-Tree.
 * Truth Is a Shield
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1106
+  :cite-key: JGS:1106
   :END:
 
 #+BEGIN_VERSE

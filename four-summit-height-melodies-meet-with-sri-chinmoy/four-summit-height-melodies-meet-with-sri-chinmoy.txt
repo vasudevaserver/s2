@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1093
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1995
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FSHM
-  :GENRE: meeting, interview
-  :KEYWORDS:
+  :book-number: 1093
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1995
+  :publisher: Agni Press
+  :cite-key: FSHM
+  :genre: meeting, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Pablo Casals
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FSHM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: FSHM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Biographical note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:1e2
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:1e2
   :END:
 
 
@@ -47,9 +47,9 @@
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:1e3
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:1e3
   :END:
 
 
@@ -60,9 +60,9 @@
 * Greeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:1
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:1
   :END:
 
 
@@ -95,9 +95,9 @@
 * Spiritual Masters
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:2
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:2
   :END:
 
 
@@ -114,9 +114,9 @@ God, Nature. I call God, Nature or Nature, God. The child has to think, "If I am
 * A child's progress
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:3
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:3
   :END:
 
 
@@ -135,9 +135,9 @@ God, Nature. I call God, Nature or Nature, God. The child has to think, "If I am
 * A child represents God
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:4
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:4
   :END:
 
 
@@ -172,9 +172,9 @@ Each child is bringing down a new message from God which was not known before. N
 * God in nature
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:5
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:5
   :END:
 
 
@@ -201,9 +201,9 @@ I see God in the melody of Nature. Sometimes I see a flower, just a bud ready to
 * Meditation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:6
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:6
   :END:
 
 
@@ -230,9 +230,9 @@ I wish to say that you are a most developed, mature, spiritual soul. The world h
 * The most wonderful moment of my life
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:7
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:7
   :END:
 
 
@@ -255,9 +255,9 @@ I wish to say that you are a most developed, mature, spiritual soul. The world h
 * Centennial tribute to Pablo Casals
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:8e1
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:8e1
   :END:
 
 
@@ -288,9 +288,9 @@ You saw in your beauty's world of strength.
 * Part II: Leonard Bernstein
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FSHM:8e2
+  :genre: section
+  :keywords:
+  :cite-key: FSHM:8e2
   :END:
 
 
@@ -298,9 +298,9 @@ You saw in your beauty's world of strength.
 * Biographical note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:8e3
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:8e3
   :END:
 
 
@@ -317,9 +317,9 @@ You saw in your beauty's world of strength.
 * 1.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:8e4
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:8e4
   :END:
 
 
@@ -354,9 +354,9 @@ Sri Chinmoy
 * First meeting between Leonard Bernstein and Sri Chinmoy
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: FSHM:8
+  :genre: meeting
+  :keywords:
+  :cite-key: FSHM:8
   :END:
 
 
@@ -364,9 +364,9 @@ Sri Chinmoy
 * Greeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:9
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:9
   :END:
 
 
@@ -393,9 +393,9 @@ Sri Chinmoy
 * Meditation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:10
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:10
   :END:
 
 
@@ -422,9 +422,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * We are one
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:11
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:11
   :END:
 
 
@@ -453,9 +453,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * A roaring lion
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:12
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:12
   :END:
 
 
@@ -490,9 +490,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * Would it offend you if I smoke?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:13
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:13
   :END:
 
 
@@ -535,9 +535,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * Eternity's song bird
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:14
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:14
   :END:
 
 
@@ -570,9 +570,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * The ocean and the drop
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:15
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:15
   :END:
 
 
@@ -619,9 +619,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * Enter students
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:16
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:16
   :END:
 
 
@@ -682,9 +682,9 @@ Sri Chinmoy: In any way you wish. You are the master-musician; I am the beginner
 * Counterpoint
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:17
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:17
   :END:
 
 
@@ -703,9 +703,9 @@ It is incredible the way you sing. And not one embarrassed face! That is what I 
 * I am also lucky
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:18
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:18
   :END:
 
 
@@ -730,9 +730,9 @@ Where are you going to sit? Sit down on the floor somewhere. Please rest yoursel
 * Another present
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:19
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:19
   :END:
 
 
@@ -743,9 +743,9 @@ Where are you going to sit? Sit down on the floor somewhere. Please rest yoursel
 * The present
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:20
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:20
   :END:
 
 
@@ -790,9 +790,9 @@ Where are you going to sit? Sit down on the floor somewhere. Please rest yoursel
 * An expression of gratitude
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:21e1
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:21e1
   :END:
 
 
@@ -814,9 +814,9 @@ You brought Leonard Bernstein joy."
 * Second meeting with Leonard Bernstein
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: FSHM:21
+  :genre: meeting
+  :keywords:
+  :cite-key: FSHM:21
   :END:
 
 
@@ -824,9 +824,9 @@ You brought Leonard Bernstein joy."
 * Greeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:22
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:22
   :END:
 
 
@@ -861,9 +861,9 @@ You brought Leonard Bernstein joy."
 * Songs
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:23
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:23
   :END:
 
 
@@ -924,9 +924,9 @@ You brought Leonard Bernstein joy."
 * The formless
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:24
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:24
   :END:
 
 
@@ -951,9 +951,9 @@ You brought Leonard Bernstein joy."
 * Our admiration is boundless
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:25
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:25
   :END:
 
 
@@ -1010,9 +1010,9 @@ Did you people get a piece of cake?
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:26e1
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:26e1
   :END:
 
 
@@ -1029,9 +1029,9 @@ LEONARD BERNSTEIN
 * Memorial tribute at the United Nations
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:26e2
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:26e2
   :END:
 
 
@@ -1050,9 +1050,9 @@ On 14 October 1993 Sri Chinmoy offered a Peace Concert at the Medical Associatio
 * Song for Leonard Bernstein
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: FSHM:26
+  :genre: song
+  :keywords:
+  :cite-key: FSHM:26
   :END:
 
 
@@ -1075,9 +1075,9 @@ World-server-emperor in the cosmos ring.
 * Part III: Yehudi Menuhin
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FSHM:27e1
+  :genre: section
+  :keywords:
+  :cite-key: FSHM:27e1
   :END:
 
 
@@ -1085,9 +1085,9 @@ World-server-emperor in the cosmos ring.
 * Biographical Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:27e2
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:27e2
   :END:
 
 
@@ -1104,9 +1104,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Meeting with Maestro Yehudi Menuhin
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: FSHM:27
+  :genre: meeting
+  :keywords:
+  :cite-key: FSHM:27
   :END:
 
 
@@ -1114,9 +1114,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Greeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:28
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:28
   :END:
 
 
@@ -1141,9 +1141,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Yoga
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:29
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:29
   :END:
 
 
@@ -1166,9 +1166,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Buddhist chanting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:30
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:30
   :END:
 
 
@@ -1209,9 +1209,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Song about Mr. Menuhin
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:31
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:31
   :END:
 
 
@@ -1228,9 +1228,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Other musicians
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:32
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:32
   :END:
 
 
@@ -1251,9 +1251,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * The Song
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:33
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:33
   :END:
 
 
@@ -1314,9 +1314,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Indian philosophy
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:34
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:34
   :END:
 
 
@@ -1367,9 +1367,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Russia and India
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:35
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:35
   :END:
 
 
@@ -1418,9 +1418,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * Farewell
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: FSHM:36
+  :genre: interview
+  :keywords:
+  :cite-key: FSHM:36
   :END:
 
 
@@ -1457,9 +1457,9 @@ He has written a number of books about music, as well as an autobiographical wor
 * 1.
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: FSHM:37
+  :genre: epistle
+  :keywords:
+  :cite-key: FSHM:37
   :END:
 
 
@@ -1476,9 +1476,9 @@ Yehudi Menuhin
 * 2.
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: FSHM:38
+  :genre: epistle
+  :keywords:
+  :cite-key: FSHM:38
   :END:
 
 
@@ -1505,9 +1505,9 @@ Yehudi Menuhin
 * Yehudi Menuhin: The soul-smile and the heart-cry
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: FSHM:39
+  :genre: song
+  :keywords:
+  :cite-key: FSHM:39
   :END:
 
 
@@ -1531,9 +1531,9 @@ And music-world's summit-aspiration-height.
 * Unfinished Journey
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FSHM:40
+  :genre: poem
+  :keywords:
+  :cite-key: FSHM:40
   :END:
 
 
@@ -1553,9 +1553,9 @@ Your heart is God's Fragrance-Joy-Reality.
 * Part IV: Kurt Masur
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FSHM:41e1
+  :genre: section
+  :keywords:
+  :cite-key: FSHM:41e1
   :END:
 
 
@@ -1563,9 +1563,9 @@ Your heart is God's Fragrance-Joy-Reality.
 * Biographical note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: FSHM:41e2
+  :genre: note
+  :keywords:
+  :cite-key: FSHM:41e2
   :END:
 
 

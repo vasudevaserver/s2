@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 427
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-8A
-  :GENRE: song
+  :book-number: 427
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-8A
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1156e1
+  :genre: note
+  :cite-key: JGS:1156e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1156e2
+  :genre: note
+  :cite-key: JGS:1156e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Abar Jabo Tomar Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1156
+  :cite-key: JGS:1156
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Tomai pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1157
+  :cite-key: JGS:1157
   :END:
 
 #+BEGIN_VERSE
@@ -80,10 +80,10 @@ With our gratitude-heart.
 * Amar Bojha Baibena Ar Baibena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1158
+  :cite-key: JGS:1158
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Amar sathe raibena ar raibena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1159
+  :cite-key: JGS:1159
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ O, will You not stay with me any more?
 * Amar Khudra Chetanate Dekhi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1160
+  :cite-key: JGS:1160
   :END:
 
 #+BEGIN_VERSE
@@ -130,10 +130,10 @@ Dekhi amar bishwanathe
 * Amar Nayane Jal Tomar Charane Sthal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1161
+  :cite-key: JGS:1161
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ Tomar charane sthal
 * Ambare Ambare Ambare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1162
+  :cite-key: JGS:1162
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Ami achhi taba kripa pada dhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1163
+  :cite-key: JGS:1163
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ By clinging to Your Compassion-Feet.
 * Ami Paraner Chapalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1164
+  :cite-key: JGS:1164
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ Ami sharirer malinata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1165
+  :cite-key: JGS:1165
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ I am the dirt of my body.
 * Ashar Swapan Phalbena Hai Phalbena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1166
+  :cite-key: JGS:1166
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ Taito keha duhat amar dharbena
 * Balo Prabhu Ar Katodin Raibo Balhin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1167
+  :cite-key: JGS:1167
   :END:
 
 #+BEGIN_VERSE
@@ -251,10 +251,10 @@ Shunbo kabe tomai kripar bijoy been
 * Bare Bare Daki Jare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1168
+  :cite-key: JGS:1168
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Dekhte charan rekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1169
+  :cite-key: JGS:1169
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ For His Footsteps.
 * Bhalo Lage Jiban Udas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1170
+  :cite-key: JGS:1170
   :END:
 
 #+BEGIN_VERSE
@@ -306,10 +306,10 @@ Bhalo lage hriday bikash
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1171
+  :cite-key: JGS:1171
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ I love my revelation-heart.
 * Bhalo Lage Upasana Bhalo Lage Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1172
+  :cite-key: JGS:1172
   :END:
 
 #+BEGIN_VERSE
@@ -341,10 +341,10 @@ Hiya kande prabhu barai anurage
 * Benche Achi Tabu Ami Ekti Asha Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1173
+  :cite-key: JGS:1173
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +360,10 @@ Tomar kachhe giye
 * Chalar Pathe Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1174
+  :cite-key: JGS:1174
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Chalar pathe chali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1175
+  :cite-key: JGS:1175
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ I just walk along my Eternity’s road.
 * Chaowar Sathe Kandbo Ami Paowar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1176
+  :cite-key: JGS:1176
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Samarpane nachbo
 * Chokher Jale Paran Bhare Tomai Pete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1177
+  :cite-key: JGS:1177
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ Tomar kachhe jai
 * Chupe Chupe Dhire Dhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1178
+  :cite-key: JGS:1178
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ Pujbo tomai prem aratir puta dhupe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1179
+  :cite-key: JGS:1179
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ In the sacred admiration-incense
 * Chupe Chupe Pujbo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1180
+  :cite-key: JGS:1180
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Bhakti bhare sandhyaratir dhupe dhupe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1181
+  :cite-key: JGS:1181
   :END:
 
 #+BEGIN_VERSE
@@ -506,10 +506,10 @@ In my evening worship.
 * Dak Esechhe Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1182
+  :cite-key: JGS:1182
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ Dure phele rak
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1183
+  :cite-key: JGS:1183
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Of attachment.
 * Dure Dure Bahu Dure Khunji Jare Chakite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1184
+  :cite-key: JGS:1184
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Chakite aj heri tare hriday dware
 * Eso Ananda Marma Madhur Bina Bina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1185
+  :cite-key: JGS:1185
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Eso ananda marma madhur bina
 * Eso Pranadhik Ananta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1186
+  :cite-key: JGS:1186
   :END:
 
 #+BEGIN_VERSE
@@ -593,10 +593,10 @@ Jagao shishure ghumanta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1187
+  :cite-key: JGS:1187
   :END:
 
 #+BEGIN_VERSE
@@ -612,10 +612,10 @@ Who is fast asleep.
 * Hasir Prabhat Sanga Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1188
+  :cite-key: JGS:1188
   :END:
 
 #+BEGIN_VERSE
@@ -630,10 +630,10 @@ Trishito pran gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1189
+  :cite-key: JGS:1189
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ In the depth of my thirsty heart?
 * Hriday Majhe Dile Dekha Hriday Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1190
+  :cite-key: JGS:1190
   :END:
 
 #+BEGIN_VERSE
@@ -668,10 +668,10 @@ Arup saje
 * Jani Ami Jani Prabhu Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1191
+  :cite-key: JGS:1191
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Ananta akkhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1192
+  :cite-key: JGS:1192
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Endless and changeless.
 * Jiban Bhore Karbo Tomai Baran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1193
+  :cite-key: JGS:1193
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Jiban sheshe karbo tomai haran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1194
+  :cite-key: JGS:1194
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ In the evening of my life.
 * Jiban Dine Phutechhilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1195
+  :cite-key: JGS:1195
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ Biphal prane nachbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1196
+  :cite-key: JGS:1196
   :END:
 
 #+BEGIN_VERSE
@@ -779,10 +779,10 @@ I shall dance with a failure-life.
 * Jiban Maran Alik Swapan Ghor Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1197
+  :cite-key: JGS:1197
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Ghor bandhan maya achetan
 * Kalpana Nahe Kalpana Asha Tari Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1198
+  :cite-key: JGS:1198
   :END:
 
 #+BEGIN_VERSE
@@ -813,10 +813,10 @@ Asha tari nahe banchana
 * Jibaner Shesh Dan Maraner Abhijan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1199
+  :cite-key: JGS:1199
   :END:
 
 #+BEGIN_VERSE
@@ -831,10 +831,10 @@ Prashanti aphuran
 * Karo More Ektu Kripa Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1200
+  :cite-key: JGS:1200
   :END:
 
 #+BEGIN_VERSE
@@ -847,10 +847,10 @@ Shikhao more kritagyatar gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1201
+  :cite-key: JGS:1201
   :END:
 
 #+BEGIN_VERSE
@@ -865,10 +865,10 @@ Teach me the gratitude-song.
 * Katha Kaha Katha Kaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1202
+  :cite-key: JGS:1202
   :END:
 
 #+BEGIN_VERSE
@@ -883,10 +883,10 @@ Maha nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1203
+  :cite-key: JGS:1203
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ The great silence-life.
 * Khama Karo... Shesh Anurodh Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1204
+  :cite-key: JGS:1204
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +922,10 @@ Ami je abodh
 * Kichu Nai.. Dyuloke Bhuloke Nahi Thai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1205
+  :cite-key: JGS:1205
   :END:
 
 #+BEGIN_VERSE
@@ -939,10 +939,10 @@ Dyuloke bhuloke nahi thai
 * Mor Amire Samarpiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1206
+  :cite-key: JGS:1206
   :END:
 
 #+BEGIN_VERSE
@@ -957,10 +957,10 @@ Hiya bane khusi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1207
+  :cite-key: JGS:1207
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ In the forest of my heart.
 * Mrittyur Dake Mrittyur Basi Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1208
+  :cite-key: JGS:1208
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Mrittyur basi bhalo
 * Nishar Sathe Jadio Ami Achhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1209
+  :cite-key: JGS:1209
   :END:
 
 #+BEGIN_VERSE
@@ -1010,10 +1010,10 @@ Ushar sathe swapane ami nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1210
+  :cite-key: JGS:1210
   :END:
 
 #+BEGIN_VERSE
@@ -1027,10 +1027,10 @@ I dance with the dawn in my dream.
 * Nithur Malin He Ahankar Tumi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1211
+  :cite-key: JGS:1211
   :END:
 
 #+BEGIN_VERSE
@@ -1044,10 +1044,10 @@ Tumi amar dukkha pathar
 * Nutan Jiban Pabar Lagi Tomar Kache Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1212
+  :cite-key: JGS:1212
   :END:
 
 #+BEGIN_VERSE
@@ -1063,10 +1063,10 @@ Gaite ami chai
 * Pabitra Hiya Prashanta Mor Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1213
+  :cite-key: JGS:1213
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ Jagabo amar ananda bhola kabire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1214
+  :cite-key: JGS:1214
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ The ecstasy-enamoured poet in me.
 * Phire Eso Phire Tomare Karibo Tushta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1215
+  :cite-key: JGS:1215
   :END:
 
 #+BEGIN_VERSE
@@ -1115,10 +1115,10 @@ Premer hiyai tomare karibo pushta
 * Phulla Mane Tomar Sane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1216
+  :cite-key: JGS:1216
   :END:
 
 #+BEGIN_VERSE
@@ -1133,10 +1133,10 @@ Tumi jiban bhela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1217
+  :cite-key: JGS:1217
   :END:
 
 #+BEGIN_VERSE
@@ -1152,10 +1152,10 @@ You are my life-boat.
 * Rugna Deha Bhagna Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1218
+  :cite-key: JGS:1218
   :END:
 
 #+BEGIN_VERSE
@@ -1170,10 +1170,10 @@ Jiban nirananda
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1219
+  :cite-key: JGS:1219
   :END:
 
 #+BEGIN_VERSE
@@ -1190,10 +1190,10 @@ My life is totally empty of cheerfulness.
 * Sahaj Habe Jiban Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1220
+  :cite-key: JGS:1220
   :END:
 
 #+BEGIN_VERSE
@@ -1208,10 +1208,10 @@ Nutan bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1221
+  :cite-key: JGS:1221
   :END:
 
 #+BEGIN_VERSE
@@ -1228,10 +1228,10 @@ In the new world.
 * Shesh Jibane Dhanya Halam Tomar Peye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1222
+  :cite-key: JGS:1222
   :END:
 
 #+BEGIN_VERSE
@@ -1247,10 +1247,10 @@ Tomar charan rekha
 * Sukher Prate Dukher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1223
+  :cite-key: JGS:1223
   :END:
 
 #+BEGIN_VERSE
@@ -1265,10 +1265,10 @@ Dibona ar phanki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1224
+  :cite-key: JGS:1224
   :END:
 
 #+BEGIN_VERSE
@@ -1283,10 +1283,10 @@ I shall no more deceive You in this lifetime.
 * Taba Paye Asi Phiriya Phiriya Hasi Mukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1225
+  :cite-key: JGS:1225
   :END:
 
 #+BEGIN_VERSE
@@ -1301,10 +1301,10 @@ Mukti labhibo amare sanpiya
 * Tomar Aghat Saibo Ami Saibo Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1226
+  :cite-key: JGS:1226
   :END:
 
 #+BEGIN_VERSE
@@ -1318,10 +1318,10 @@ Charan tale mahanande raibo
 * Tomar Lagi Baste Tomai Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1227
+  :cite-key: JGS:1227
   :END:
 
 #+BEGIN_VERSE
@@ -1334,10 +1334,10 @@ Kripa plaban dhalo prane dhalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1228
+  :cite-key: JGS:1228
   :END:
 
 #+BEGIN_VERSE
@@ -1351,10 +1351,10 @@ Do inundate me with Your Compassion-Flood.
 * Tomare Cheyechi Tomare Pujechi Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1229
+  :cite-key: JGS:1229
   :END:
 
 #+BEGIN_VERSE
@@ -1369,10 +1369,10 @@ Tomare bendhechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1230
+  :cite-key: JGS:1230
   :END:
 
 #+BEGIN_VERSE
@@ -1388,10 +1388,10 @@ I have bound You.
 * Tumi Amar Hiya Naber Chand Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1231
+  :cite-key: JGS:1231
   :END:
 
 #+BEGIN_VERSE

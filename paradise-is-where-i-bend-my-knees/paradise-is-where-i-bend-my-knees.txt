@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1583
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2008
-  :PUBLISHER:
-  :CITE-KEY: PBK
-  :GENRE: song
+  :book-number: 1583
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2008
+  :publisher:
+  :cite-key: PBK
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PBK:1e1
+  :genre: note
+  :cite-key: PBK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PBK:1e2
+  :genre: note
+  :cite-key: PBK:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Pray, I Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-09-1983
-  :CITE-KEY: PBK:1
+  :cite-key: PBK:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ I meditate, I.
 * I Love You, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-09-1983
-  :CITE-KEY: PBK:2
+  :cite-key: PBK:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ I Love You, My Lord.  I Need You, My Lord, I...
 * My Aspiration-Heart’s Peace-Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:3
+  :cite-key: PBK:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Sleeplessly be on the rise.
 * Goodness Is Peace-Drip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:4
+  :cite-key: PBK:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Oneness is peace- .....
 * The Eye of Peace Is Microscopic
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:5
+  :cite-key: PBK:5
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ The heart of peace is telescopic.
 * Peace Is in God-Quest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:6
+  :cite-key: PBK:6
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Peace is in self-conquest.
 * Peace I Did Not Find
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:7
+  :cite-key: PBK:7
   :END:
 
 #+BEGIN_VERSE
@@ -159,10 +159,10 @@ Peace I now find in my sainthood.
 * Occult Wildfire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:8
+  :cite-key: PBK:8
   :END:
 
 #+BEGIN_VERSE
@@ -176,10 +176,10 @@ Peace is in spiritual zephyr.
 * God’s Eye Frightens Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:9
+  :cite-key: PBK:9
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ With their infinite Forgiveness-Peace.
 * My Mind’s Happiness-Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:10
+  :cite-key: PBK:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ A perfect instrument of God.
 * No Peace in My Mind’s God-Emptiness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:11
+  :cite-key: PBK:11
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ All peace in my heart’s God-madness.
 * My Peace-Empty Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:12
+  :cite-key: PBK:12
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Triples God’s Smiles.
 * My Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-11-1994
-  :CITE-KEY: PBK:13
+  :cite-key: PBK:13
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ In me and for me.
 * My Prayer-Life Tells Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1995
-  :CITE-KEY: PBK:14
+  :cite-key: PBK:14
   :END:
 
 #+BEGIN_VERSE
@@ -287,10 +287,10 @@ Where I eternally am.
 * When I Pray, My Lord Gives Me a Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1995
-  :CITE-KEY: PBK:15
+  :cite-key: PBK:15
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ Without walls.
 * Each Time I Lose a Pound
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1995
-  :CITE-KEY: PBK:16
+  :cite-key: PBK:16
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ God the Smiler.
 * The Caged Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-10-1995
-  :CITE-KEY: PBK:17
+  :cite-key: PBK:17
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Is striving for peace.
 * O Heaven, Be Not Cruel to Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-10-1995
-  :CITE-KEY: PBK:18
+  :cite-key: PBK:18
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ To my face.
 * As Critics Are Ready-Made
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-10-1995
-  :CITE-KEY: PBK:19
+  :cite-key: PBK:19
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Even so, God-lovers are God-made.
 * Alas, I Can Clearly See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-10-1995
-  :CITE-KEY: PBK:20
+  :cite-key: PBK:20
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Is running short.
 * To My Extreme Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-10-1995
-  :CITE-KEY: PBK:21
+  :cite-key: PBK:21
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ All the gold medals from God.
 * Enter We Must
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-11-1995
-  :CITE-KEY: PBK:22
+  :cite-key: PBK:22
   :END:
 
 #+BEGIN_VERSE
@@ -445,10 +445,10 @@ begun in India in 1948]
 * New Year’s Message for 1996
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-12-1995
-  :CITE-KEY: PBK:23
+  :cite-key: PBK:23
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ Says to God,
 * My Searching Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:24
+  :cite-key: PBK:24
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ Shall think of God only.
 * Today My Crying Heart Shall Love God Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:25
+  :cite-key: PBK:25
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ Shall love God only, only, only.
 * Today My Smiling Life Shall Serve God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:26
+  :cite-key: PBK:26
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Only, only, only.
 * Today I Shall Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:27
+  :cite-key: PBK:27
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ My God-necessity slave-cry.
 * Today I Shall Increase My God-Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:28
+  :cite-key: PBK:28
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ At every moment.
 * Today I Shall Concentrate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:29
+  :cite-key: PBK:29
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ And not what I expect from my life.
 * A God-Victory-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:30
+  :cite-key: PBK:30
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ A God-Victory-song.
 * Today I Must Conquer All My Enemies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1996
-  :CITE-KEY: PBK:31
+  :cite-key: PBK:31
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ With my heart’s unbounded love.
 * Today God Has Decided to Hear from Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-03-1996
-  :CITE-KEY: PBK:32
+  :cite-key: PBK:32
   :END:
 
 #+BEGIN_VERSE
@@ -624,10 +624,10 @@ Only my heart-songs and not my mind-stories.
 * Today I Am Seeing God and Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-03-1996
-  :CITE-KEY: PBK:33
+  :cite-key: PBK:33
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Peace is smiling soulfully.
 * Today God Has Blessingfully Promised
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-03-1996
-  :CITE-KEY: PBK:34
+  :cite-key: PBK:34
   :END:
 
 #+BEGIN_VERSE
@@ -661,10 +661,10 @@ To grant me a fortified heart
 * Fifty Telephone Numbers by Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-06-1996
-  :CITE-KEY: PBK:35
+  :cite-key: PBK:35
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ If not I, who else is smart?
 * Ganapati, Madal, Chinmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1996
-  :CITE-KEY: PBK:36
+  :cite-key: PBK:36
   :END:
 
 #+BEGIN_VERSE
@@ -698,10 +698,10 @@ She is his obstacle-provider.
 * Aspiration-Comrade-Souls
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1996
-  :CITE-KEY: PBK:37
+  :cite-key: PBK:37
   :END:
 
 #+BEGIN_VERSE
@@ -717,10 +717,10 @@ Rainbow-vision-harbour.
 * Two God-Amusement-Rivals
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-08-1996
-  :CITE-KEY: PBK:38
+  :cite-key: PBK:38
   :END:
 
 #+BEGIN_VERSE
@@ -735,10 +735,10 @@ And my life-dance-fragrance.
 * A Friend of the Big Shots
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1996
-  :CITE-KEY: PBK:39
+  :cite-key: PBK:39
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ No matter what you offer.
 * All Great Men
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-08-1996
-  :CITE-KEY: PBK:40
+  :cite-key: PBK:40
   :END:
 
 #+BEGIN_VERSE
@@ -772,10 +772,10 @@ I, too, belong to their clan.
 * No Friendship Lasts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-08-1996
-  :CITE-KEY: PBK:41
+  :cite-key: PBK:41
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ Proudly to enjoy all-where oneness-world-ride.
 * My Thought Human Cries
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:42
+  :cite-key: PBK:42
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ My thought divine flies.
 * When I Go Out, My Mind Provokes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:43
+  :cite-key: PBK:43
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ When I come in, my heart invokes.
 * Compassion Is God in Action
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:44
+  :cite-key: PBK:44
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ Man in action.
 * Humility’s Real Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:45
+  :cite-key: PBK:45
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ Is dignity.
 * The Human in Me Knows No Future
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:46
+  :cite-key: PBK:46
   :END:
 
 #+BEGIN_VERSE
@@ -880,10 +880,10 @@ The Divine in me knows no past.
 * My Lord Gave Me His Beauty’s Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:47
+  :cite-key: PBK:47
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ I gave my Lord my duty’s life.
 * My Mind-Train
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:48
+  :cite-key: PBK:48
   :END:
 
 #+BEGIN_VERSE
@@ -914,10 +914,10 @@ My heart-boat sails and sails and sails.
 * My Hands Are Made By My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:49
+  :cite-key: PBK:49
   :END:
 
 #+BEGIN_VERSE
@@ -931,10 +931,10 @@ My heart is made by my Lord Himself.
 * My Home Is My School
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:50
+  :cite-key: PBK:50
   :END:
 
 #+BEGIN_VERSE
@@ -949,10 +949,10 @@ My home is my knowledge-sun.
 * Man Gives Me Scars
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:51
+  :cite-key: PBK:51
   :END:
 
 #+BEGIN_VERSE
@@ -967,10 +967,10 @@ Stars, stars, His own stars.
 * In the Morning I Am Thirsty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:52
+  :cite-key: PBK:52
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ For my Lord’s Nectar-Heart.
 * Happiness-Circle-Flames
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1997
-  :CITE-KEY: PBK:53
+  :cite-key: PBK:53
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ My Supreme’s fondest Games.
 * Smile, My Heart, Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-02-1997
-  :CITE-KEY: PBK:54
+  :cite-key: PBK:54
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ You are all in God’s Camera.
 * God Is Fond of Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1997
-  :CITE-KEY: PBK:55
+  :cite-key: PBK:55
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ I must do the same.
 * My Age Is My Childhood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1997
-  :CITE-KEY: PBK:56
+  :cite-key: PBK:56
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ Never, never, it changes.
 * My Heart and I Are So Excited
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1997
-  :CITE-KEY: PBK:57
+  :cite-key: PBK:57
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ My Lord!
 * Deep I Dive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1997
-  :CITE-KEY: PBK:58
+  :cite-key: PBK:58
   :END:
 
 #+BEGIN_VERSE
@@ -1097,10 +1097,10 @@ With my forgiveness-life.
 * How Can I Be Perfect?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-06-1997
-  :CITE-KEY: PBK:59
+  :cite-key: PBK:59
   :END:
 
 #+BEGIN_VERSE
@@ -1117,10 +1117,10 @@ At His sweet Will?
 * I Go Out to Get What I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:60
+  :cite-key: PBK:60
   :END:
 
 #+BEGIN_VERSE
@@ -1134,10 +1134,10 @@ I come in to feel what I need.
 * When I Go Out, I Am Nowhere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:61
+  :cite-key: PBK:61
   :END:
 
 #+BEGIN_VERSE
@@ -1151,10 +1151,10 @@ When I come in, I am all-where.
 * The Carpenter’s Human Son
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:62
+  :cite-key: PBK:62
   :END:
 
 #+BEGIN_VERSE
@@ -1170,10 +1170,10 @@ Asks me to come in.
 * I Go Out to See the Face of God (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:63
+  :cite-key: PBK:63
   :END:
 
 #+BEGIN_VERSE
@@ -1187,10 +1187,10 @@ I come in to become the Heart of God.
 * I Go Out to Buy the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:64
+  :cite-key: PBK:64
   :END:
 
 #+BEGIN_VERSE
@@ -1204,10 +1204,10 @@ I come in to love the world.
 * Columbus Went Out
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:65
+  :cite-key: PBK:65
   :END:
 
 #+BEGIN_VERSE
@@ -1225,10 +1225,10 @@ My Source, my God.
 * When I Go Out
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-06-1997
-  :CITE-KEY: PBK:66
+  :cite-key: PBK:66
   :END:
 
 #+BEGIN_VERSE
@@ -1244,10 +1244,10 @@ When I come in, God tells me:
 * If I Love You Just Because You Love Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-10-1997
-  :CITE-KEY: PBK:67
+  :cite-key: PBK:67
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ The dust-fragrance and the dust-delight
 * My Mind, My Mind, No More Roam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1997
-  :CITE-KEY: PBK:68
+  :cite-key: PBK:68
   :END:
 
 #+BEGIN_VERSE
@@ -1287,10 +1287,10 @@ Come.
 * New Year’s Message for 1998
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-1997
-  :CITE-KEY: PBK:69
+  :cite-key: PBK:69
   :END:
 
 #+BEGIN_VERSE
@@ -1311,10 +1311,10 @@ With the Will of my Absolute Lord Beloved Supreme.
 * Who Is My Best Friend, Who?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-12-1997
-  :CITE-KEY: PBK:70
+  :cite-key: PBK:70
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ He who hides his heart-beauty-smile.
 * Smile, My Soul, Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1997
-  :CITE-KEY: PBK:71
+  :cite-key: PBK:71
   :END:
 
 #+BEGIN_VERSE
@@ -1350,10 +1350,10 @@ Smile, my body, smile, even for a while.
 * With Every Breath of My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-01-1998
-  :CITE-KEY: PBK:72
+  :cite-key: PBK:72
   :END:
 
 #+BEGIN_VERSE
@@ -1377,10 +1377,10 @@ To fulfil You only in Your own Way.
 * I Am Flying and Flying (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1998
-  :CITE-KEY: PBK:73
+  :cite-key: PBK:73
   :END:
 
 #+BEGIN_VERSE
@@ -1395,10 +1395,10 @@ In Infinity’s Sky.
 * I Am Flying and Flying (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-02-1998
-  :CITE-KEY: PBK:74
+  :cite-key: PBK:74
   :END:
 
 #+BEGIN_VERSE
@@ -1413,10 +1413,10 @@ In Infinity’s Sky.
 * Seventy-Seven Thousand Service-Trees
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-02-1998
-  :CITE-KEY: PBK:75
+  :cite-key: PBK:75
   :END:
 
 #+BEGIN_VERSE
@@ -1431,10 +1431,10 @@ Swimming and dancing in ecstasy-seas.
 * God Tells Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:76
+  :cite-key: PBK:76
   :END:
 
 #+BEGIN_VERSE
@@ -1449,10 +1449,10 @@ His final Test.
 * God Tells Me That He Is Giving Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:77
+  :cite-key: PBK:77
   :END:
 
 #+BEGIN_VERSE
@@ -1468,10 +1468,10 @@ Aspiration.
 * A Rising Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:78
+  :cite-key: PBK:78
   :END:
 
 #+BEGIN_VERSE
@@ -1487,10 +1487,10 @@ Tells me where to stay.
 * Your Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:79
+  :cite-key: PBK:79
   :END:
 
 #+BEGIN_VERSE
@@ -1506,10 +1506,10 @@ God’s Silence-Bridge.
 * Each Divine Thought
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:80
+  :cite-key: PBK:80
   :END:
 
 #+BEGIN_VERSE
@@ -1524,10 +1524,10 @@ A most beautiful angel.
 * My Aspiration-Heart-Room
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:81
+  :cite-key: PBK:81
   :END:
 
 #+BEGIN_VERSE
@@ -1541,10 +1541,10 @@ Is always impurity-proof.
 * Each Aspiring Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:82
+  :cite-key: PBK:82
   :END:
 
 #+BEGIN_VERSE
@@ -1559,10 +1559,10 @@ Divinity’s new birth.
 * Before Leaving
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:83
+  :cite-key: PBK:83
   :END:
 
 #+BEGIN_VERSE
@@ -1577,10 +1577,10 @@ More, infinitely more.
 * My Soul Tells Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:84
+  :cite-key: PBK:84
   :END:
 
 #+BEGIN_VERSE
@@ -1595,10 +1595,10 @@ Only when I proceed.
 * Insolent Disobedience
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:85
+  :cite-key: PBK:85
   :END:
 
 #+BEGIN_VERSE
@@ -1613,10 +1613,10 @@ Endless disaster.
 * Pride Says to God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:86
+  :cite-key: PBK:86
   :END:
 
 #+BEGIN_VERSE
@@ -1631,10 +1631,10 @@ That is an understatement!
 * When You Give an Inch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:87
+  :cite-key: PBK:87
   :END:
 
 #+BEGIN_VERSE
@@ -1650,10 +1650,10 @@ A long mile.
 * Prayers and Meditations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1998
-  :CITE-KEY: PBK:88
+  :cite-key: PBK:88
   :END:
 
 #+BEGIN_VERSE
@@ -1668,10 +1668,10 @@ God’s heart-country.
 * My Heart’s Oneness-Fulness-Ring
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-02-1998
-  :CITE-KEY: PBK:89
+  :cite-key: PBK:89
   :END:
 
 #+BEGIN_VERSE
@@ -1685,10 +1685,10 @@ In my heart’s oneness-fulness-ring.
 * O, Here I Come and There I Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-02-1998
-  :CITE-KEY: PBK:90
+  :cite-key: PBK:90
   :END:
 
 #+BEGIN_VERSE
@@ -1702,10 +1702,10 @@ My Lord’s Compassion-Eye and Forgiveness-Feet.
 * India’s Peace-Service-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-02-1998
-  :CITE-KEY: PBK:91
+  :cite-key: PBK:91
   :END:
 
 #+BEGIN_VERSE
@@ -1719,10 +1719,10 @@ Desires a world bondage-free.
 * O Light of Asia (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1998
-  :CITE-KEY: PBK:92
+  :cite-key: PBK:92
   :END:
 
 #+BEGIN_VERSE
@@ -1736,10 +1736,10 @@ Sleepless deep you drink God’s infinite Ambrosia.
 * I Am a Peace-Collecting Pilgrim-Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-05-1998
-  :CITE-KEY: PBK:93
+  :cite-key: PBK:93
   :END:
 
 #+BEGIN_VERSE
@@ -1755,10 +1755,10 @@ I see nowhere darkness and bondage-death.
 * I Am Your Slave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-05-1998
-  :CITE-KEY: PBK:94
+  :cite-key: PBK:94
   :END:
 
 #+BEGIN_VERSE
@@ -1773,10 +1773,10 @@ Come baby, come baby, come!
 * Sail My Heartbeat, Sail
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1998
-  :CITE-KEY: PBK:95
+  :cite-key: PBK:95
   :END:
 
 #+BEGIN_VERSE
@@ -1790,10 +1790,10 @@ To clasp my Lord’s Nectar-mail.
 * Every Soul Is a God-Right-Hand-Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1998
-  :CITE-KEY: PBK:96
+  :cite-key: PBK:96
   :END:
 
 #+BEGIN_VERSE
@@ -1807,10 +1807,10 @@ Every heart is a God-masterpiece-plan.
 * My Newness-Mind-Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1998
-  :CITE-KEY: PBK:97
+  :cite-key: PBK:97
   :END:
 
 #+BEGIN_VERSE
@@ -1826,10 +1826,10 @@ Keep me sailing.
 * Away My Beloved Flies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1998
-  :CITE-KEY: PBK:98
+  :cite-key: PBK:98
   :END:
 
 #+BEGIN_VERSE
@@ -1843,10 +1843,10 @@ Mine are two thirsty eyes.
 * My Mind Complains
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1998
-  :CITE-KEY: PBK:99
+  :cite-key: PBK:99
   :END:
 
 #+BEGIN_VERSE
@@ -1860,10 +1860,10 @@ My heart, my Lord’s fondness contains.
 * Mine Is a Birthless and Deathless Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1998
-  :CITE-KEY: PBK:100
+  :cite-key: PBK:100
   :END:
 
 #+BEGIN_VERSE
@@ -1877,10 +1877,10 @@ To breath the Heart of my Lord Supreme.
 * Whom I Seek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1998
-  :CITE-KEY: PBK:101
+  :cite-key: PBK:101
   :END:
 
 #+BEGIN_VERSE
@@ -1894,10 +1894,10 @@ I pine, His Heart-Smile to be.
 * Oh, What I Have and What I Am
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-06-1998
-  :CITE-KEY: PBK:102
+  :cite-key: PBK:102
   :END:
 
 #+BEGIN_VERSE
@@ -1913,10 +1913,10 @@ Him I have the right to choose.
 * Paradise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-06-1998
-  :CITE-KEY: PBK:103
+  :cite-key: PBK:103
   :END:
 
 #+BEGIN_VERSE
@@ -1930,10 +1930,10 @@ Paradise is where I bend my knees.
 * My Dear Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-07-1998
-  :CITE-KEY: PBK:104
+  :cite-key: PBK:104
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Without Your Heart’s Forgiveness-Sky?
 * To Be a Chosen Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-07-1998
-  :CITE-KEY: PBK:105
+  :cite-key: PBK:105
   :END:
 
 #+BEGIN_VERSE
@@ -1966,10 +1966,10 @@ My crying, smiling heart’s perfection-dream.
 * My Poetry Tells Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-07-1998
-  :CITE-KEY: PBK:106
+  :cite-key: PBK:106
   :END:
 
 #+BEGIN_VERSE
@@ -1983,10 +1983,10 @@ Its sorrows and joys, my journey’s course.
 * God’s Chosen Children Came to Teach
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1998
-  :CITE-KEY: PBK:107
+  :cite-key: PBK:107
   :END:
 
 #+BEGIN_VERSE
@@ -2002,10 +2002,10 @@ To embrace Heavenly flames.
 * My Lord, Give Me Not Your Compromise-Poison
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-09-1998
-  :CITE-KEY: PBK:108
+  :cite-key: PBK:108
   :END:
 
 #+BEGIN_VERSE
@@ -2019,10 +2019,10 @@ Give me any other poison if You want to.
 * My Future
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-09-1998
-  :CITE-KEY: PBK:109
+  :cite-key: PBK:109
   :END:
 
 #+BEGIN_VERSE
@@ -2037,10 +2037,10 @@ And in my Master’s rose-heart.
 * New Year’s Message for 1999
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-1998
-  :CITE-KEY: PBK:110
+  :cite-key: PBK:110
   :END:
 
 #+BEGIN_VERSE
@@ -2059,10 +2059,10 @@ And Heaven’s Fulness-Smile-Shore.
 * O, in the Year Nine Nine Nine Nine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1999
-  :CITE-KEY: PBK:111
+  :cite-key: PBK:111
   :END:
 
 #+BEGIN_VERSE
@@ -2076,10 +2076,10 @@ Our tears and smiles with God shall dine.
 * I Am an Orphan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1999
-  :CITE-KEY: PBK:112
+  :cite-key: PBK:112
   :END:
 
 #+BEGIN_VERSE
@@ -2097,10 +2097,10 @@ His Smile is my only goal.
 * Fat Is No Good
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: PBK:113
+  :cite-key: PBK:113
   :END:
 
 #+BEGIN_VERSE
@@ -2122,10 +2122,10 @@ To be my Supreme’s sacred wealth.
 * My Success-Life Painfully Dies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:114
+  :cite-key: PBK:114
   :END:
 
 #+BEGIN_VERSE
@@ -2139,10 +2139,10 @@ My progress-heart blissfully flies.
 * How Can I Ever Become Perfect?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:115
+  :cite-key: PBK:115
   :END:
 
 #+BEGIN_VERSE
@@ -2156,10 +2156,10 @@ If I learn not God’s dialect?
 * My Supreme Lord’s Nectar-Flooded Face
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:116
+  :cite-key: PBK:116
   :END:
 
 #+BEGIN_VERSE
@@ -2173,10 +2173,10 @@ I must join now the self-transcendence-race.
 * I Came to Be a Climbing Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:117
+  :cite-key: PBK:117
   :END:
 
 #+BEGIN_VERSE
@@ -2194,10 +2194,10 @@ I came to flood the earth with God’s Name.
 * Mountain-High Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:118
+  :cite-key: PBK:118
   :END:
 
 #+BEGIN_VERSE
@@ -2213,10 +2213,10 @@ To feed my Supreme, feed.
 * I Do Not Have to Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:119
+  :cite-key: PBK:119
   :END:
 
 #+BEGIN_VERSE
@@ -2230,10 +2230,10 @@ You just keep me, my Lord, as Your real fan.
 * No Doom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:120
+  :cite-key: PBK:120
   :END:
 
 #+BEGIN_VERSE
@@ -2251,10 +2251,10 @@ My heart is in its full bloom.
 * Within, Without, Nectar-Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:121
+  :cite-key: PBK:121
   :END:
 
 #+BEGIN_VERSE
@@ -2268,10 +2268,10 @@ Finally, I feel I am all right.
 * Fulfil My Blue-Gold Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:122
+  :cite-key: PBK:122
   :END:
 
 #+BEGIN_VERSE
@@ -2285,10 +2285,10 @@ I swim in a silver stream.
 * Swim, Swim Once More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:123
+  :cite-key: PBK:123
   :END:
 
 #+BEGIN_VERSE
@@ -2304,10 +2304,10 @@ Of my soul’s golden dream.
 * My Heart Is My Only Spokesman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:124
+  :cite-key: PBK:124
   :END:
 
 #+BEGIN_VERSE
@@ -2321,10 +2321,10 @@ It plays and plays my life-organ.
 * Helpless, Hopeless, Homeless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:125
+  :cite-key: PBK:125
   :END:
 
 #+BEGIN_VERSE
@@ -2338,10 +2338,10 @@ If my life is Godless.
 * I Am My Heart’s Gratitude
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:126
+  :cite-key: PBK:126
   :END:
 
 #+BEGIN_VERSE
@@ -2355,10 +2355,10 @@ I have touched Infinitude.
 * My Master Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:127
+  :cite-key: PBK:127
   :END:
 
 #+BEGIN_VERSE
@@ -2372,10 +2372,10 @@ Long, long before I act.
 * I Serve My Master Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:128
+  :cite-key: PBK:128
   :END:
 
 #+BEGIN_VERSE
@@ -2389,10 +2389,10 @@ Never, never, never I swerve.
 * Do Not Blame God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:129
+  :cite-key: PBK:129
   :END:
 
 #+BEGIN_VERSE
@@ -2406,10 +2406,10 @@ His Forgiveness-Heart never defame.
 * My Smiles Are My Mind-Purifiers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-11-1999
-  :CITE-KEY: PBK:130
+  :cite-key: PBK:130
   :END:
 
 #+BEGIN_VERSE
@@ -2423,10 +2423,10 @@ My tears are my heart-illuminers
 * O Seeker, Be Not Blind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:131
+  :cite-key: PBK:131
   :END:
 
 #+BEGIN_VERSE
@@ -2440,10 +2440,10 @@ Stop not, fall not behind.
 * O Seeker, Never Be a Fool
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:132
+  :cite-key: PBK:132
   :END:
 
 #+BEGIN_VERSE
@@ -2457,10 +2457,10 @@ Start attending God’s inner school.
 * O Seeker, Be Not Proud
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:133
+  :cite-key: PBK:133
   :END:
 
 #+BEGIN_VERSE
@@ -2474,10 +2474,10 @@ Be not shallow and loud.
 * O Seeker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:134
+  :cite-key: PBK:134
   :END:
 
 #+BEGIN_VERSE
@@ -2491,10 +2491,10 @@ And be His choicest dove.
 * Love, Service and Surrender-Thrill
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:135
+  :cite-key: PBK:135
   :END:
 
 #+BEGIN_VERSE
@@ -2508,10 +2508,10 @@ Each moment try and cry to feel.
 * No, Not for Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:136
+  :cite-key: PBK:136
   :END:
 
 #+BEGIN_VERSE
@@ -2526,10 +2526,10 @@ But to be God’s golden morn.
 * I Know Not How to Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:137
+  :cite-key: PBK:137
   :END:
 
 #+BEGIN_VERSE
@@ -2545,10 +2545,10 @@ By my Lord’s Vastness-Sky.
 * Tell the Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:138
+  :cite-key: PBK:138
   :END:
 
 #+BEGIN_VERSE
@@ -2562,10 +2562,10 @@ God Himself will ring your victory-bell.
 * I Must Love Only a God-Hero
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:139
+  :cite-key: PBK:139
   :END:
 
 #+BEGIN_VERSE
@@ -2579,10 +2579,10 @@ Everything else is, indeed, a zero.
 * To Welcome My Sweet Supreme’s Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:140
+  :cite-key: PBK:140
   :END:
 
 #+BEGIN_VERSE
@@ -2596,10 +2596,10 @@ I must keep my heart-room clean and neat.
 * Volunteer Before You Are Drafted
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:141
+  :cite-key: PBK:141
   :END:
 
 #+BEGIN_VERSE
@@ -2613,10 +2613,10 @@ Surrender before you are contacted.
 * I Surprise God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:142
+  :cite-key: PBK:142
   :END:
 
 #+BEGIN_VERSE
@@ -2630,10 +2630,10 @@ With my heart’s devotion-sunrise.
 * Without Ego-Effacement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:143
+  :cite-key: PBK:143
   :END:
 
 #+BEGIN_VERSE
@@ -2647,10 +2647,10 @@ No real enlightenment.
 * Without Pride-Annihilation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:144
+  :cite-key: PBK:144
   :END:
 
 #+BEGIN_VERSE
@@ -2664,10 +2664,10 @@ There can be no life-transformation.
 * Life Is Not Meant for the World Dispute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:145
+  :cite-key: PBK:145
   :END:
 
 #+BEGIN_VERSE
@@ -2681,10 +2681,10 @@ Life is meant for Krishna’s sweetness-flute.
 * The Mind’s Supremacy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-11-1999
-  :CITE-KEY: PBK:146
+  :cite-key: PBK:146
   :END:
 
 #+BEGIN_VERSE
@@ -2700,10 +2700,10 @@ For the heart-intimacy.
 * My Human Life and Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:147
+  :cite-key: PBK:147
   :END:
 
 #+BEGIN_VERSE
@@ -2717,10 +2717,10 @@ God’s Will and I enjoy our oneness-ride.
 * Day By Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:148
+  :cite-key: PBK:148
   :END:
 
 #+BEGIN_VERSE
@@ -2736,10 +2736,10 @@ My outer life brighter glow.
 * The Blackboard of My Past
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:149
+  :cite-key: PBK:149
   :END:
 
 #+BEGIN_VERSE
@@ -2753,10 +2753,10 @@ In my God-fulfilment-joy my heart shall last.
 * No More I Am Held Hostage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:150
+  :cite-key: PBK:150
   :END:
 
 #+BEGIN_VERSE
@@ -2772,10 +2772,10 @@ My soul’s freedom-delight.
 * Finally, I Have Shut Down
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:151
+  :cite-key: PBK:151
   :END:
 
 #+BEGIN_VERSE
@@ -2791,10 +2791,10 @@ My Lord’s high Victory.
 * My Heart Is Quick to Cry and Fly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1999
-  :CITE-KEY: PBK:152
+  :cite-key: PBK:152
   :END:
 
 #+BEGIN_VERSE
@@ -2808,10 +2808,10 @@ My mind dares not even to try.
 * My Life-Chimes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:153
+  :cite-key: PBK:153
   :END:
 
 #+BEGIN_VERSE
@@ -2827,10 +2827,10 @@ Breathlessly sing.
 * My Lord, My Lord, How Do I Dare?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:154
+  :cite-key: PBK:154
   :END:
 
 #+BEGIN_VERSE
@@ -2844,10 +2844,10 @@ To stay unaware of Your Love-Care?
 * O, Never Miss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:155
+  :cite-key: PBK:155
   :END:
 
 #+BEGIN_VERSE
@@ -2861,10 +2861,10 @@ Our Supreme Lord’s Nectar-Bliss.
 * As Wind and Water Fly and Flow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:156
+  :cite-key: PBK:156
   :END:
 
 #+BEGIN_VERSE
@@ -2880,10 +2880,10 @@ My breath shall glow.
 * God Loves My Hide-And-Seek Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:157
+  :cite-key: PBK:157
   :END:
 
 #+BEGIN_VERSE
@@ -2897,10 +2897,10 @@ He enters my temple-heart and cheers.
 * A New Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:158
+  :cite-key: PBK:158
   :END:
 
 #+BEGIN_VERSE
@@ -2914,10 +2914,10 @@ I am my hope-flooded sun.
 * My Lord Commands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:159
+  :cite-key: PBK:159
   :END:
 
 #+BEGIN_VERSE
@@ -2931,10 +2931,10 @@ Show me your face, claim My highest Sphere.”
 * My Lord’s Dance-Steps
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1999
-  :CITE-KEY: PBK:160
+  :cite-key: PBK:160
   :END:
 
 #+BEGIN_VERSE

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1027
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1985
-  :PUBLISHER:
-  :CITE-KEY: ABGB
-  :GENRE: song
+  :book-number: 1027
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1985
+  :publisher:
+  :cite-key: ABGB
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ABGB:1e1
+  :genre: note
+  :cite-key: ABGB:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ABGB:1e2
+  :genre: note
+  :cite-key: ABGB:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ami Taba Kritadas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:1
+  :cite-key: ABGB:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Tomare tushite dhara tale benche achi
 * Kusum Samo Phutbo Ami Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:2
+  :cite-key: ABGB:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Bhore sanjhe bhakti bhare tomai pujbo bale
 * Asha Bane Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-11-1985
-  :CITE-KEY: ABGB:3
+  :cite-key: ABGB:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Pabar lagi ei jibane kripa dhane
 * Nil Gagane Uri Ami Pakhir Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:4
+  :cite-key: ABGB:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Surjya debe pranam janai abirato
 * Kandi Ami Kandi Kandi Ami Kandi Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:5
+  :cite-key: ABGB:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Khudra amire tabu kena nahi bandhi
 * Kato Kichu Janar Ache Kato Kichu Shekhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:6
+  :cite-key: ABGB:6
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ Katai nitya diye phankhi
 * Banda Kare Maner Duar Khulbo Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:7
+  :cite-key: ABGB:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Phulla chite dibo tomai kritagyatar har
 * Kamana Niye Jabona Esona Niye Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:8
+  :cite-key: ABGB:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ Maner sathe khabona hiyar sathe khabo
 * Premer Banshi Na Bajale Dekha Nahi Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:9
+  :cite-key: ABGB:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Ei kathati smaran kare hriday pure jabo
 * Jiban Maran Ek Halo Aj Jiban Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:10
+  :cite-key: ABGB:10
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Bhitar bahir shanti gabhir mukti swapan
 * Nirab Amai Karo Prabhu Aji Mukti Jachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:11
+  :cite-key: ABGB:11
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Mukti jachi tomar paye majhi
 * Maner Bane Choitya Purush Nahi Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:12
+  :cite-key: ABGB:12
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Taito kanur premer benu nahi baje
 * Shunbe Jadi Praner Katha Keno Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:13
+  :cite-key: ABGB:13
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Basbe jadi bhalo amai keno nahi rakho
 * Shanto Habe Jiban Amar Shanto Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:14
+  :cite-key: ABGB:14
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ Tomai pele maner hater kalarabe
 * Hiyar Ankhi Khulbo Ami Hiyar Ankhi Khulbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:15
+  :cite-key: ABGB:15
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Param pitar purnakashe phutbo ami phutbo
 * Nirab Bhashai Pranati Janai Nirab Bhashai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:16
+  :cite-key: ABGB:16
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ Eso kanurai eso kanurai hiya anginai
 * Chahina Jiban Chahina Maran Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:17
+  :cite-key: ABGB:17
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Kakhano kandina hasina
 * Chaowa Paowar Parapare Mahananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:18
+  :cite-key: ABGB:18
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ Gopan katha sugopane rakhbo abiram
 * Shikte Chahi Jante Chahi Anek Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:19
+  :cite-key: ABGB:19
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ Tabu keno nahi kari mata nichu
 * Jiban Dine Maran Rate Eki Asha Rakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:20
+  :cite-key: ABGB:20
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ Tomar kripar charan tale ami jeno thaki
 * Sanjher Tara Dake Amai Sanjher Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:21
+  :cite-key: ABGB:21
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Churna kare maya moher dhrira kara
 * Sukher Lagi Kandi Ami Sukher Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:22
+  :cite-key: ABGB:22
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ Atma jache prabhur lagi prabhur paye thai
 * Kalpana.. Amare Chhariya Kothao Jeyona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:23
+  :cite-key: ABGB:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ Kothao jeyona
 * Bandhan Hara Jiban Dhara Kothai Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:24
+  :cite-key: ABGB:24
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Tomar dekha pete ami kandi hethai hothai
 * Man Purite Jabona Ami Man Purite Sethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:25
+  :cite-key: ABGB:25
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Sethai gele jani amai habe marite
 * Bali Jakhan Sabar Dware Tomar Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:26
+  :cite-key: ABGB:26
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Diyo amar hiya pure puta madhurata
 * Bishwa Pita Tomai Dite Nai Je Kichu Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:27
+  :cite-key: ABGB:27
   :END:
 
 #+BEGIN_VERSE
@@ -506,10 +506,10 @@ Tabu kena tomar pade nahi jachi thai
 * Chahina Shanti Chahina Tripti Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:28
+  :cite-key: ABGB:28
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Amar amire bandhina
 * Panchajanya Tumi Dhanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:29
+  :cite-key: ABGB:29
   :END:
 
 #+BEGIN_VERSE
@@ -544,10 +544,10 @@ Tumi charao parther mita Krishna dhane
 * Dine Rate Swapane Dekhi Dine Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:30
+  :cite-key: ABGB:30
   :END:
 
 #+BEGIN_VERSE
@@ -561,10 +561,10 @@ Chali ami param prabhur sathe sathe
 * Bhalo Basi Prabhur Nayan Bhalo Basi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:31
+  :cite-key: ABGB:31
   :END:
 
 #+BEGIN_VERSE
@@ -580,10 +580,10 @@ Amar jiban maran
 * Datta... Shubha Karme Nitya Rata Hiyai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:32
+  :cite-key: ABGB:32
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ Hase nache prabhu sane
 * Nil Akashe Nachi Ami Nil Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:33
+  :cite-key: ABGB:33
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ Kandibona kabhu ami pran hatashe
 * Simar Gehe Asimatar Bijoy Giti Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:34
+  :cite-key: ABGB:34
   :END:
 
 #+BEGIN_VERSE
@@ -633,10 +633,10 @@ Agyanatar moher kara dekhte nahi chahi
 * Keman Kare Tomar Kache Jabo Keman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:35
+  :cite-key: ABGB:35
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ Keman kare shishur mato hasbo
 * Jani Jani Kandte Jani Haste Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ABGB:36
+  :cite-key: ABGB:36
   :END:
 
 #+BEGIN_VERSE

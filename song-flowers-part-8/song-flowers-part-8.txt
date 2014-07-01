@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 853
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1992
-  :PUBLISHER:
-  :CITE-KEY: SF-8
-  :GENRE: song
+  :book-number: 853
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1992
+  :publisher:
+  :cite-key: SF-8
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:463e1
+  :genre: note
+  :cite-key: SF:463e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:463e2
+  :genre: note
+  :cite-key: SF:463e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Gratitude-Heart Is Truly Fond Of
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1980
-  :CITE-KEY: SF:463
+  :cite-key: SF:463
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Is truly fond of
 * Many Have Come and Many Have Gone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-08-1982
-  :CITE-KEY: SF:464
+  :cite-key: SF:464
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ To crown my sky-vast and sun-high dream.
 * The Power of Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1984
-  :CITE-KEY: SF:465
+  :cite-key: SF:465
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ of power, man will have a new name: God.
 * First, Call Him Your Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1984
-  :CITE-KEY: SF:466
+  :cite-key: SF:466
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ Union with God.
 * God Has Taught Me How to Swim (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:467
+  :cite-key: SF:467
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ I have taught God
 * God Has Taught Me How to Swim (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:468
+  :cite-key: SF:468
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ I have taught God
 * God Has Taught Me How to Swim (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:469
+  :cite-key: SF:469
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ I have taught God
 * God Has Taught Me How to Swim (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:470
+  :cite-key: SF:470
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ I have taught God
 * God Has Taught Me How to Swim (5)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:471
+  :cite-key: SF:471
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ I have taught God
 * God Has Taught Me How to Swim (6)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:472
+  :cite-key: SF:472
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ I have taught God
 * God Has Taught Me How to Swim (7)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:473
+  :cite-key: SF:473
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ I have taught God
 * God Has Taught Me How to Swim (8)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:474
+  :cite-key: SF:474
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ I have taught God
 * God Has Taught Me How to Swim (9)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:475
+  :cite-key: SF:475
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ I have taught God
 * God Has Taught Me How to Swim (10)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:476
+  :cite-key: SF:476
   :END:
 
 #+BEGIN_VERSE
@@ -303,10 +303,10 @@ I have taught God
 * God Has Taught Me How to Swim (11)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:477
+  :cite-key: SF:477
   :END:
 
 #+BEGIN_VERSE
@@ -322,10 +322,10 @@ I have taught God
 * God Has Taught Me How to Swim (12)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-12-1984
-  :CITE-KEY: SF:478
+  :cite-key: SF:478
   :END:
 
 #+BEGIN_VERSE
@@ -341,10 +341,10 @@ I have taught God
 * Even Before I Knew Who God Was (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-04-1985
-  :CITE-KEY: SF:479
+  :cite-key: SF:479
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +360,10 @@ With His Compassion-Forgiveness-Colours.
 * Even Before I Knew Who God Was (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-05-1985
-  :CITE-KEY: SF:480
+  :cite-key: SF:480
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ With His Compassion-Forgiveness-Colours.
 * Even Before I Knew Who God Was (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-05-1985
-  :CITE-KEY: SF:481
+  :cite-key: SF:481
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ With His Compassion-Forgiveness-Colours.
 * Meditation (7)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:482
+  :cite-key: SF:482
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Meditation, meditation, meditation.
 * Meditation (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:483
+  :cite-key: SF:483
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Meditation, meditation, meditation.
 * Meditation (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:484
+  :cite-key: SF:484
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Meditation, meditation, meditation.
 * Meditation (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:485
+  :cite-key: SF:485
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ Meditation, meditation, meditation.
 * Meditation (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:486
+  :cite-key: SF:486
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ Meditation, meditation, meditation.
 * Meditation (5)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:487
+  :cite-key: SF:487
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ Meditation, meditation, meditation.
 * Meditation (6)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-06-1985
-  :CITE-KEY: SF:488
+  :cite-key: SF:488
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ Meditation, meditation, meditation.
 * Divinity’s Compassion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-08-1985
-  :CITE-KEY: SF:489
+  :cite-key: SF:489
   :END:
 
 #+BEGIN_VERSE
@@ -528,10 +528,10 @@ Humanity’s perfection.
 * God’s Vision-Manifestation-Team
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1986
-  :CITE-KEY: SF:490
+  :cite-key: SF:490
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ His Vision-Manifestation-Team.
 * Every Aspiration-Day Begins (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-10-1986
-  :CITE-KEY: SF:491
+  :cite-key: SF:491
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ Every aspiration-day ends
 * Morning Is the Time to Accept
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-10-1986
-  :CITE-KEY: SF:492
+  :cite-key: SF:492
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ To reveal God’s Love-Delight.
 * No Path Can Be Too Hard for You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1986
-  :CITE-KEY: SF:493
+  :cite-key: SF:493
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +608,10 @@ If you have one God-Gift:
 * With My Human Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:494
+  :cite-key: SF:494
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Compassion-Forgiveness-Feet.
 * They Came Only to Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:495
+  :cite-key: SF:495
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Of my Beloved Lord Supreme.
 * God, If You Break My Head for Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-07-1987
-  :CITE-KEY: SF:496
+  :cite-key: SF:496
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ God, You start the game and I shall end it.
 * Many, Many Lives Ago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:497
+  :cite-key: SF:497
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ And how to serve Him
 * What Can Equal God’s Ecstasy?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1989
-  :CITE-KEY: SF:498
+  :cite-key: SF:498
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ To become another God.
 * Let My Yesterday Peacefully Sleep
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-1990
-  :CITE-KEY: SF:499
+  :cite-key: SF:499
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Let my tomorrow powerfully awake.
 * Madal the Child, Sleeplessly Wild
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-08-1990
-  :CITE-KEY: SF:500
+  :cite-key: SF:500
   :END:
 
 #+BEGIN_VERSE
@@ -745,10 +745,10 @@ Guru Chinmoy, Guru Chinmoy,
 * Madal the Child, All Cute and Wild
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-08-1990
-  :CITE-KEY: SF:501
+  :cite-key: SF:501
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ Guru Chinmoy, Guru Chinmoy,
 * Happy Are My Eyes (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-12-1990
-  :CITE-KEY: SF:502
+  :cite-key: SF:502
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ As my own, very own.
 * Be Not Afraid of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:503
+  :cite-key: SF:503
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Your sweet reunion
 * Enthusiasm Is God’s God-Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:504
+  :cite-key: SF:504
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ In His seeker-children.
 * My Lord, Break Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:505
+  :cite-key: SF:505
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ My Lord, make me.
 * My Lord, Kick Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:506
+  :cite-key: SF:506
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ I can move forward.
 * My Lord Supreme, Before I Die
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:507
+  :cite-key: SF:507
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ My devoted life’s gratitude-heart.
 * Do Make My Life Three Dimensional
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:508
+  :cite-key: SF:508
   :END:
 
 #+BEGIN_VERSE
@@ -905,10 +905,10 @@ Do make my life three dimensional:
 * My Lord Supreme, Now Is the Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:509
+  :cite-key: SF:509
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ My inner life of gratitude.
 * Success-Day I Like
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:510
+  :cite-key: SF:510
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ Progress-sun I love.
 * My Lord Supreme, Yesterday I Gave Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:511
+  :cite-key: SF:511
   :END:
 
 #+BEGIN_VERSE
@@ -961,10 +961,10 @@ Today I am giving up
 * My Lord Supreme, Your Encouragement I Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:512
+  :cite-key: SF:512
   :END:
 
 #+BEGIN_VERSE
@@ -979,10 +979,10 @@ Your Punishment I treasure.
 * My Lord Supreme, Your Universal Push
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:513
+  :cite-key: SF:513
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ Your Transcendental Pull
 * O My Pilot Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:514
+  :cite-key: SF:514
   :END:
 
 #+BEGIN_VERSE
@@ -1017,10 +1017,10 @@ Your inner Name is Forgiveness-Sun.
 * What I Wanted
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: SF:515
+  :cite-key: SF:515
   :END:
 
 #+BEGIN_VERSE
@@ -1035,10 +1035,10 @@ To give me His Infinity’s All.
 * My Hero God-Loving Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1990
-  :CITE-KEY: SF:516
+  :cite-key: SF:516
   :END:
 
 #+BEGIN_VERSE
@@ -1054,10 +1054,10 @@ You have won today
 * Rich God Knows How to Forgive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1990
-  :CITE-KEY: SF:517
+  :cite-key: SF:517
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ Poor human beings
 * O My Heart, Your Fondest Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1991
-  :CITE-KEY: SF:518
+  :cite-key: SF:518
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ And my bravest promise is
 * Concentration-Power
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-01-1991
-  :CITE-KEY: SF:519
+  :cite-key: SF:519
   :END:
 
 #+BEGIN_VERSE
@@ -1117,10 +1117,10 @@ But God-Manifestation-Smile I never had,
 * My Self-Transcendence-Dream-Reality-Shore (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: SF:520
+  :cite-key: SF:520
   :END:
 
 #+BEGIN_VERSE
@@ -1133,10 +1133,10 @@ My self-transcendence-dream-reality-shore.
 * My Self-Transcendence-Dream-Reality-Shore (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: SF:521
+  :cite-key: SF:521
   :END:
 
 #+BEGIN_VERSE
@@ -1149,10 +1149,10 @@ My self-transcendence-dream-reality-shore.
 * My Self-Transcendence-Dream-Reality-Shore (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: SF:522
+  :cite-key: SF:522
   :END:
 
 #+BEGIN_VERSE
@@ -1165,10 +1165,10 @@ My self-transcendence-dream-reality-shore.
 * My Self-Transcendence-Dream-Reality-Shore (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: SF:523
+  :cite-key: SF:523
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ My self-transcendence-dream-reality-shore.
 * My Self-Transcendence-Dream-Reality-Shore (5)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-04-1991
-  :CITE-KEY: SF:524
+  :cite-key: SF:524
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ My self-transcendence-dream-reality-shore.
 * Be Thou
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1992
-  :CITE-KEY: SF:525
+  :cite-key: SF:525
   :END:
 
 #+BEGIN_VERSE

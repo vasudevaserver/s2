@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1369
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2000
-  :PUBLISHER:
-  :CITE-KEY: AMLC
-  :GENRE: song
+  :book-number: 1369
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2000
+  :publisher:
+  :cite-key: AMLC
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AMLC:1e1
+  :genre: note
+  :cite-key: AMLC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AMLC:1e2
+  :genre: note
+  :cite-key: AMLC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Moher Pichhu Chhutbona Ar Chhutbona Bhithir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:1
+  :cite-key: AMLC:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Bhithir paye lutbona ar lutbona
 * Amar Bahir Amar Bhitar Prabhu Pade Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:2
+  :cite-key: AMLC:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Prabhu pade pabe thai sattwar
 * Hate Jadi Chaho Bipul Mahan Nijere Karogo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:3
+  :cite-key: AMLC:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Nijere karogo satata pradan
 * Tomar Kripa Tomar Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:4
+  :cite-key: AMLC:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Tomar hasi bina mago sabiy asar
 * Jiban Samare Hate Habe Durbar Jadi Pete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:5
+  :cite-key: AMLC:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Jadi pete chahi sudha amarar
 * Tomar Karuna Hriday Gabhire Rekhechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:6
+  :cite-key: AMLC:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Tumi je amar ashar sagar amar jibane marane
 * Ek Abhilash Rakhi Jena Chiradin Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:7
+  :cite-key: AMLC:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Mukti parabare ami ashakti bihin
 * Maner Sathe Praner Sathe Balbona Ar Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:8
+  :cite-key: AMLC:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Amai ghire raibe kebal hiyar nirabata
 * Hai Hai Hai Chira Sandeha Man Bhitar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:9
+  :cite-key: AMLC:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Bhitar bahir tai eto jwalatan
 * Nahi Bhoy Nahi Bhoy Nahi Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:10
+  :cite-key: AMLC:10
   :END:
 
 #+BEGIN_VERSE
@@ -210,10 +210,10 @@ Ami je amar saday hriday
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:11
+  :cite-key: AMLC:11
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ I am my self-giving heart.
 * No Fear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:12
+  :cite-key: AMLC:12
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ I am my self-giving heart.
 * Bijoy Giti Gaite Prabhur Dharar Buke Asi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:13
+  :cite-key: AMLC:13
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Pran gabhire shuni kebal amar purir banshi
 * Chal Chal Chal Chal Asim Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:14
+  :cite-key: AMLC:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Hethai shudhu agyanatar bishakta chhal
 * Kende Kende Katai Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:15
+  :cite-key: AMLC:15
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ Tripti je pai agyanata amai bendhe bendhe
 * Chahina Chahina He Param Pita Bahir Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:16
+  :cite-key: AMLC:16
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ Chahi shudhu ami bhitar jibane puja aratir dhup
 * Diner Sheshe Rater Deshe Ke Amare Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:17
+  :cite-key: AMLC:17
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Nirabatar madhur hasi amar hiyai rakhe
 * Raibona Ar Agyanatar Ghumer Ghore Phutbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:18
+  :cite-key: AMLC:18
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Phutbo ami asimatar amar bhore
 * Antare Jwale Prati Pale Pale Hutashan Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:19
+  :cite-key: AMLC:19
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Jiban amar habe amarar pranadhan
 * Nidrajayi Haye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:20
+  :cite-key: AMLC:20
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Hiya pure gahi ami prabhu jaya gan
 * Jahar Jibane Pratiti Chinta Alomoy Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:21
+  :cite-key: AMLC:21
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Chira simahin tahar jiban akkhoy
 * Bhitare Amar Ashar Sagar Bahire Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:22
+  :cite-key: AMLC:22
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Bahire amar mamatar bhiti
 * Diba Rati Bare Bare Khama Amai Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:23
+  :cite-key: AMLC:23
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Amar asim kanna hriday nije baran karo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:24
+  :cite-key: AMLC:24
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ As Your own, very own.
 * Ei Mor Pan Ami Nahi Rabo Karma Bihin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:25
+  :cite-key: AMLC:25
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ Phalaphal ami parame sampiya habo chira udasin
 * Agyanata Tomai Ami Kare Bisarjan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:26
+  :cite-key: AMLC:26
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ Ami habo param prabhur barai apan jan
 * Diba Rati Jena Kari Taba Upasana Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:27
+  :cite-key: AMLC:27
   :END:
 
 #+BEGIN_VERSE
@@ -501,10 +501,10 @@ Tomar charane kari taba archana
 * Tomare Pujite Dao More Ogo Bhakati Shakati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:28
+  :cite-key: AMLC:28
   :END:
 
 #+BEGIN_VERSE
@@ -518,10 +518,10 @@ Shanti sagare santar kathite kare mor mane udar
 * Ogo Paramesh Kothai Tomar Prashanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:29
+  :cite-key: AMLC:29
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ Khaniker tare niye jao more ei mama nibedan
 * Bhul Kari Bale Dure Bahu Dure Chale Jete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:30
+  :cite-key: AMLC:30
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Rekho more prabhu kache ati kache tomar karuna dore
 * Pagal Halem Hantur Byethai Ami Ashru Nade
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:31
+  :cite-key: AMLC:31
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ Ashru nade nitya ami nami
 * Bendhona Bendhona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-06-2000
-  :CITE-KEY: AMLC:32
+  :cite-key: AMLC:32
   :END:
 
 #+BEGIN_VERSE
@@ -586,10 +586,10 @@ Bandhan majhe biraje asim jatana
 * Chalte Habe Nutan Pathe Balte Habe Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:33
+  :cite-key: AMLC:33
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ Dharte habe mayer charan dite habe hiyar byatha
 * Chinta Jethai Shanti Sethai Nahi Kabhu Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:34
+  :cite-key: AMLC:34
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ Mukti bishan bhaje
 * Akash Sama Bishal Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:35
+  :cite-key: AMLC:35
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Dharanire dibe asha hiya mama
 * Bishwa Sabhai Jog Dite Chai Bishwa Sabhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:36
+  :cite-key: AMLC:36
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ Shanti pabe manab tomar kripar abhai
 * Dharar Buke Je Eseche Se Je Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:37
+  :cite-key: AMLC:37
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Parane tar uthe phute bishwa prabhu bhagaban
 * Ore Tora Atma Giti Shun Jadi Chahish
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:38
+  :cite-key: AMLC:38
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Jadi chahish amaratar gun
 * Swarup Janite Prati Pale Pale Nijere Danite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:39
+  :cite-key: AMLC:39
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Swaruper alo kalima binash karibe je jani bhabe
 * Kende Kende Jiban Katai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:40
+  :cite-key: AMLC:40
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Bhul kareo dibena ki barek dekha kabhu
 * Prabhu Tomar Kripar Bale Benche Achhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:41
+  :cite-key: AMLC:41
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Ei kathati bhabi jakhan hriday amar uthe neche
 * Ke Amare Dak Dilo Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:42
+  :cite-key: AMLC:42
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Ke nilo go amar maner malinata sab nilo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:43
+  :cite-key: AMLC:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ All my mind’s impurities?
 * Who Has Called Me Today?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:44
+  :cite-key: AMLC:44
   :END:
 
 #+BEGIN_VERSE
@@ -795,10 +795,10 @@ All my mind’s impurities?
 * Kon Sudure Thako Tumi Kon Sudure Eso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:45
+  :cite-key: AMLC:45
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ Eso eso barek prabhu hiya pure
 * Abhipsa Rathe Jiban Katabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:46
+  :cite-key: AMLC:46
   :END:
 
 #+BEGIN_VERSE
@@ -829,10 +829,10 @@ Heribo kebal hasir fuara jyotir plaban pathe
 * Keno Ami Bhul Bujhi Hai Dharar Prati Jibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:47
+  :cite-key: AMLC:47
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ Sabar majhe ke amare shiber dekha dibe
 * Asha Bihin Je Rahe Hai Asha Bihin Tahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:48
+  :cite-key: AMLC:48
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ Tahar jiban danab purir nitya adhin
 * Thaki Ami Mahanande Ami Thaki Satya Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:49
+  :cite-key: AMLC:49
   :END:
 
 #+BEGIN_VERSE
@@ -880,10 +880,10 @@ Satya katha satya katha nahe phanki
 * Muktir Majhe Shanti Biraje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:50
+  :cite-key: AMLC:50
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ Ei maha bani param bidhata niyata amai kahe
 * Je Danibe More Param Shanti Bani Nimeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:51
+  :cite-key: AMLC:51
   :END:
 
 #+BEGIN_VERSE
@@ -914,10 +914,10 @@ Nimeshe pujibo tahar charan khani
 * Sab Aparadh Kariyachho Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:52
+  :cite-key: AMLC:52
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ Taito ajike dakichhe amai amar purir bhor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:53
+  :cite-key: AMLC:53
   :END:
 
 #+BEGIN_VERSE
@@ -947,10 +947,10 @@ Therefore Heaven’s dawn is beckoning me.
 * All My Misdeeds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-2000
-  :CITE-KEY: AMLC:54
+  :cite-key: AMLC:54
   :END:
 
 #+BEGIN_VERSE

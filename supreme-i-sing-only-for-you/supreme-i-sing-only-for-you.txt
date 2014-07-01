@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 125
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1974
-  :PUBLISHER:
-  :CITE-KEY: SISO
-  :GENRE: song
+  :book-number: 125
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1974
+  :publisher:
+  :cite-key: SISO
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SISO:1e1
+  :genre: note
+  :cite-key: SISO:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SISO:1e2
+  :genre: note
+  :cite-key: SISO:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Nai Kicchu Nai Tai Bujhi Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:1
+  :cite-key: SISO:1
   :END:
 
 #+BEGIN_VERSE
@@ -63,10 +63,10 @@ Ami tomar khoka
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:2
+  :cite-key: SISO:2
   :END:
 
 #+BEGIN_VERSE
@@ -88,10 +88,10 @@ I claim myself Your fondest child.
 * Akaran Name Kripa Akaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:3
+  :cite-key: SISO:3
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ E je karunar dhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:4
+  :cite-key: SISO:4
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Indeed, this is the gift of Compassion-Flood.
 * Nai Nai Nai Ami Ar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:5
+  :cite-key: SISO:5
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ Se o je harai kaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:6
+  :cite-key: SISO:6
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ By the flash of golden light.
 * Mago Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:7
+  :cite-key: SISO:7
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Brahma Vishnu Shib
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:8
+  :cite-key: SISO:8
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Descended onto earth?
 * Nami Tomai Ogo Nama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:9
+  :cite-key: SISO:9
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Kamana e aj e prabhate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:10
+  :cite-key: SISO:10
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ This is my sole longing this morning.
 * Manthare Chale Manthara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:11
+  :cite-key: SISO:11
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Kabu nahi kare bhul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:12
+  :cite-key: SISO:12
   :END:
 
 #+BEGIN_VERSE
@@ -302,10 +302,10 @@ And makes no friends with mistakes.
 * Ami Nahi Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:13
+  :cite-key: SISO:13
   :END:
 
 #+BEGIN_VERSE
@@ -322,10 +322,10 @@ Achapal ei chitta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:14
+  :cite-key: SISO:14
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ I am not proud of my purity’s flood.
 * Jachi Sumati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:15
+  :cite-key: SISO:15
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Eso shripati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:16
+  :cite-key: SISO:16
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ O beauty’s Lord, You I invoke.
 * Jago Jago Bharater Rishi Kabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:17
+  :cite-key: SISO:17
   :END:
 
 #+BEGIN_VERSE
@@ -409,10 +409,10 @@ Karo priya sucharu akkhoi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:18
+  :cite-key: SISO:18
   :END:
 
 #+BEGIN_VERSE
@@ -437,10 +437,10 @@ And make it beauty immutable.
 * He Mor Kabita Tumi Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:19
+  :cite-key: SISO:19
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Lukai e pran kai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:20
+  :cite-key: SISO:20
   :END:
 
 #+BEGIN_VERSE
@@ -481,10 +481,10 @@ Hide me in the waters of liberation-sea.
 * Bhangeni Aji O Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:21
+  :cite-key: SISO:21
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Guchibe ki kabhu bhranti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:22
+  :cite-key: SISO:22
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ Lose its existence in the effulgence of dawn?
 * Dike Dike Taba Mahimar Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:23
+  :cite-key: SISO:23
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Snigdha karuna dane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:24
+  :cite-key: SISO:24
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ With Your Elysian Compassion-Touch.
 * Amare Peyeche Ghum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:25
+  :cite-key: SISO:25
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Sandhya pradip alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:26
+  :cite-key: SISO:26
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ But nobody has kindled the lamp
 * Manushi Drishti Kata Je Bhranta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:27
+  :cite-key: SISO:27
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Pulaka barana dala
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:28
+  :cite-key: SISO:28
   :END:
 
 #+BEGIN_VERSE
@@ -661,10 +661,10 @@ And offering heart’s love-world.
 * Ami Tomar Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:29
+  :cite-key: SISO:29
   :END:
 
 #+BEGIN_VERSE
@@ -680,10 +680,10 @@ Dhanya jiban mor amire sanpiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:30
+  :cite-key: SISO:30
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +702,10 @@ By offering my ego-I to You.
 * Khama Karo Khama Karo More Barebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:31
+  :cite-key: SISO:31
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Anahata nad
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:32
+  :cite-key: SISO:32
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Birthless and deathless soundless sound.
 * Nami Juga Avatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:33
+  :cite-key: SISO:33
   :END:
 
 #+BEGIN_VERSE
@@ -773,10 +773,10 @@ Bidurita karo juga avatar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:34
+  :cite-key: SISO:34
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ I bow to You, O Avatar of the era!
 * Shudhu Chali E Chalar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:35
+  :cite-key: SISO:35
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Ar kalo dhume
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:36
+  :cite-key: SISO:36
   :END:
 
 #+BEGIN_VERSE
@@ -844,10 +844,10 @@ Full of dust and sand, thorns and smoke?
 * Kutil Maner Prabesh Nishedh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:37
+  :cite-key: SISO:37
   :END:
 
 #+BEGIN_VERSE
@@ -864,10 +864,10 @@ Amar premer gahane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:38
+  :cite-key: SISO:38
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ An idle and useless body has no access
 * Anrita Hate Sat Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:39
+  :cite-key: SISO:39
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Mrittyure kari joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:40
+  :cite-key: SISO:40
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ From death to Immortality.
 * Chetana Amar Akashe Batase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:41
+  :cite-key: SISO:41
   :END:
 
 #+BEGIN_VERSE
@@ -949,10 +949,10 @@ Paramer seba kaje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:42
+  :cite-key: SISO:42
   :END:
 
 #+BEGIN_VERSE
@@ -972,10 +972,10 @@ To the service of the Absolute Supreme.
 * Keu Je Mor Apan Noi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:43
+  :cite-key: SISO:43
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Masi rupantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:44
+  :cite-key: SISO:44
   :END:
 
 #+BEGIN_VERSE
@@ -1018,10 +1018,10 @@ I shall see the transformation
 * Kusum Komal Parane Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:45
+  :cite-key: SISO:45
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ Pranati arati archana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:46
+  :cite-key: SISO:46
   :END:
 
 #+BEGIN_VERSE
@@ -1061,10 +1061,10 @@ All my devoted surrender be in vain?
 * Aro Kachhe Ese Na Dharile Hath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:47
+  :cite-key: SISO:47
   :END:
 
 #+BEGIN_VERSE
@@ -1083,10 +1083,10 @@ Nai kona byakulata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:48
+  :cite-key: SISO:48
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ If not, no concern have I for my own life.
 * Bishwa Pujya Mahat Habar Asha Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:49
+  :cite-key: SISO:49
   :END:
 
 #+BEGIN_VERSE
@@ -1126,10 +1126,10 @@ Sabai amar chirantaner bishwa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:50
+  :cite-key: SISO:50
   :END:
 
 #+BEGIN_VERSE
@@ -1151,10 +1151,10 @@ We comprise Eternity’s universe.
 * Paran Mama Tomar Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:51
+  :cite-key: SISO:51
   :END:
 
 #+BEGIN_VERSE
@@ -1173,10 +1173,10 @@ Tomar kachhe lipta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:52
+  :cite-key: SISO:52
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ Has become one with You
 * Ebar Amai Tano Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:53
+  :cite-key: SISO:53
   :END:
 
 #+BEGIN_VERSE
@@ -1223,10 +1223,10 @@ Ebar amai tano
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:54
+  :cite-key: SISO:54
   :END:
 
 #+BEGIN_VERSE
@@ -1250,10 +1250,10 @@ Draw me near You.
 * Shunya Hate Shunya Hiyai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:55
+  :cite-key: SISO:55
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Amar ashar dhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:56
+  :cite-key: SISO:56
   :END:
 
 #+BEGIN_VERSE
@@ -1292,10 +1292,10 @@ Indeed, I treasure this hope-light.
 * Amar Nutan Pran Tomar Kripar Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:57
+  :cite-key: SISO:57
   :END:
 
 #+BEGIN_VERSE
@@ -1314,10 +1314,10 @@ Tomar premer chhabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:58
+  :cite-key: SISO:58
   :END:
 
 #+BEGIN_VERSE
@@ -1333,10 +1333,10 @@ My new sun is the picture of Your Love-World.
 * Ami Bholanath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:59
+  :cite-key: SISO:59
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Ami chira anupama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:60
+  :cite-key: SISO:60
   :END:
 
 #+BEGIN_VERSE
@@ -1374,10 +1374,10 @@ I am Eternity’s excellence.
 * Amala Dhabala Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:61
+  :cite-key: SISO:61
   :END:
 
 #+BEGIN_VERSE
@@ -1400,10 +1400,10 @@ Tahare tahai shudhu dio
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:62
+  :cite-key: SISO:62
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Make him Your own, very own.
 * Jadi Bhabi Toma Dakibona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:63
+  :cite-key: SISO:63
   :END:
 
 #+BEGIN_VERSE
@@ -1447,10 +1447,10 @@ Najani kemane bhule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:64
+  :cite-key: SISO:64
   :END:
 
 #+BEGIN_VERSE
@@ -1472,10 +1472,10 @@ Perhaps all this is just a mistake.
 * Nayane Shudhu Tomar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:65
+  :cite-key: SISO:65
   :END:
 
 #+BEGIN_VERSE
@@ -1492,10 +1492,10 @@ Andhar nasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:66
+  :cite-key: SISO:66
   :END:
 
 #+BEGIN_VERSE
@@ -1511,10 +1511,10 @@ Casting aside the pall of gloom.
 * Keno Bhoi Keno Bhoi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:67
+  :cite-key: SISO:67
   :END:
 
 #+BEGIN_VERSE
@@ -1537,10 +1537,10 @@ Ghose taba jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:68
+  :cite-key: SISO:68
   :END:
 
 #+BEGIN_VERSE
@@ -1560,10 +1560,10 @@ Is proclaiming your victory supreme.
 * Shubhra Akash Shubhra Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:69
+  :cite-key: SISO:69
   :END:
 
 #+BEGIN_VERSE
@@ -1578,10 +1578,10 @@ Niyata bhramyaman
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:70
+  :cite-key: SISO:70
   :END:
 
 #+BEGIN_VERSE
@@ -1597,10 +1597,10 @@ With my eternity’s partner-heart.
 * Ek Khana Banka Path Kantake Ghera
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:71
+  :cite-key: SISO:71
   :END:
 
 #+BEGIN_VERSE
@@ -1617,10 +1617,10 @@ Bhulegechi ashiyachi ami kotha hate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:72
+  :cite-key: SISO:72
   :END:
 
 #+BEGIN_VERSE
@@ -1638,10 +1638,10 @@ Long have I forgotten where my source is.
 * Ananda Hate Sanjata Mora
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:73
+  :cite-key: SISO:73
   :END:
 
 #+BEGIN_VERSE
@@ -1658,10 +1658,10 @@ Ananda ullas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:74
+  :cite-key: SISO:74
   :END:
 
 #+BEGIN_VERSE
@@ -1679,10 +1679,10 @@ With ecstasy’s transcendental Height.
 * Bhakti Amar Kon Sudure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:75
+  :cite-key: SISO:75
   :END:
 
 #+BEGIN_VERSE
@@ -1700,10 +1700,10 @@ Paran tore chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:76
+  :cite-key: SISO:76
   :END:
 
 #+BEGIN_VERSE
@@ -1720,10 +1720,10 @@ My heart life is desperately in need of you.
 * Ke Jai E Mukhe Hasiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:77
+  :cite-key: SISO:77
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Swaruper sandhani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:78
+  :cite-key: SISO:78
   :END:
 
 #+BEGIN_VERSE
@@ -1766,10 +1766,10 @@ In me, for Him is an eternal search.
 * Ami Kalo Mrinmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:79
+  :cite-key: SISO:79
   :END:
 
 #+BEGIN_VERSE
@@ -1786,10 +1786,10 @@ Ei mor parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:80
+  :cite-key: SISO:80
   :END:
 
 #+BEGIN_VERSE
@@ -1807,10 +1807,10 @@ This is my Absolute Reality supreme.
 * Jatri Chaleche Durgam Pathe Rikta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:81
+  :cite-key: SISO:81
   :END:
 
 #+BEGIN_VERSE
@@ -1825,10 +1825,10 @@ Chira sahachar bedana bilap shranti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:82
+  :cite-key: SISO:82
   :END:
 
 #+BEGIN_VERSE
@@ -1848,10 +1848,10 @@ Weariness, lamentation, excruciating pangs
 * Je Ja Chai Diyo Tare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:83
+  :cite-key: SISO:83
   :END:
 
 #+BEGIN_VERSE
@@ -1869,10 +1869,10 @@ Janate tomare pranati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:84
+  :cite-key: SISO:84
   :END:
 
 #+BEGIN_VERSE
@@ -1891,10 +1891,10 @@ To bow to You alone.
 * Amar Anan Bhora
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:85
+  :cite-key: SISO:85
   :END:
 
 #+BEGIN_VERSE
@@ -1913,10 +1913,10 @@ Mukti shikhar tan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:86
+  :cite-key: SISO:86
   :END:
 
 #+BEGIN_VERSE
@@ -1935,10 +1935,10 @@ Flame of liberation-flow.
 * Andharer Par Alor Sharani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:87
+  :cite-key: SISO:87
   :END:
 
 #+BEGIN_VERSE
@@ -1955,10 +1955,10 @@ Chaleche niruddeshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:88
+  :cite-key: SISO:88
   :END:
 
 #+BEGIN_VERSE
@@ -1978,10 +1978,10 @@ Their destined goal.
 * Harabo Ajike Amar Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:89
+  :cite-key: SISO:89
   :END:
 
 #+BEGIN_VERSE
@@ -2000,10 +2000,10 @@ Supta gabhir rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:90
+  :cite-key: SISO:90
   :END:
 
 #+BEGIN_VERSE
@@ -2024,10 +2024,10 @@ To my dark ignorance-night
 * Ami Amar Mukti Bhanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:91
+  :cite-key: SISO:91
   :END:
 
 #+BEGIN_VERSE
@@ -2046,10 +2046,10 @@ Dhangsa chhayar priti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:92
+  :cite-key: SISO:92
   :END:
 
 #+BEGIN_VERSE
@@ -2069,10 +2069,10 @@ And my love of destruction-shadow.
 * Jader Lagiya Tomare Bhulechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:93
+  :cite-key: SISO:93
   :END:
 
 #+BEGIN_VERSE
@@ -2091,10 +2091,10 @@ Timir jiban kara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:94
+  :cite-key: SISO:94
   :END:
 
 #+BEGIN_VERSE
@@ -2116,10 +2116,10 @@ Of darkness-life.
 * Aro Dure Aro Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:95
+  :cite-key: SISO:95
   :END:
 
 #+BEGIN_VERSE
@@ -2141,10 +2141,10 @@ Jabo ami jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:96
+  :cite-key: SISO:96
   :END:
 
 #+BEGIN_VERSE
@@ -2165,10 +2165,10 @@ Mother, into the city of Your Heart I shall go.
 * Jani Tumi Asbe Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:97
+  :cite-key: SISO:97
   :END:
 
 #+BEGIN_VERSE
@@ -2187,10 +2187,10 @@ Nitya jena magi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:98
+  :cite-key: SISO:98
   :END:
 
 #+BEGIN_VERSE
@@ -2208,10 +2208,10 @@ In my hopeful night.
 * Eso Sundara Chiro Manohara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:99
+  :cite-key: SISO:99
   :END:
 
 #+BEGIN_VERSE
@@ -2230,10 +2230,10 @@ Dao aji adhikar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:100
+  :cite-key: SISO:100
   :END:
 
 #+BEGIN_VERSE
@@ -2253,10 +2253,10 @@ At Your Feet divine.
 * Kata Bedanar Ashru Bahiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:101
+  :cite-key: SISO:101
   :END:
 
 #+BEGIN_VERSE
@@ -2278,10 +2278,10 @@ Nilena bakkhe tani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:102
+  :cite-key: SISO:102
   :END:
 
 #+BEGIN_VERSE
@@ -2304,10 +2304,10 @@ Why You have not drawn me toward Your Heart.
 * Ebar Tomai Karechi Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:103
+  :cite-key: SISO:103
   :END:
 
 #+BEGIN_VERSE
@@ -2328,10 +2328,10 @@ Eseche purnata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:104
+  :cite-key: SISO:104
   :END:
 
 #+BEGIN_VERSE
@@ -2352,10 +2352,10 @@ The wealth of perfection-plenitude.
 * Mukta Amar Rath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:105
+  :cite-key: SISO:105
   :END:
 
 #+BEGIN_VERSE
@@ -2373,10 +2373,10 @@ Tomar charan smari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:106
+  :cite-key: SISO:106
   :END:
 
 #+BEGIN_VERSE
@@ -2395,10 +2395,10 @@ By touching Your Haven-Feet.
 * Dyuloke Jekhane Gyane O Karme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:107
+  :cite-key: SISO:107
   :END:
 
 #+BEGIN_VERSE
@@ -2417,10 +2417,10 @@ Narayane mor baran kari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:108
+  :cite-key: SISO:108
   :END:
 
 #+BEGIN_VERSE
@@ -2440,10 +2440,10 @@ And I drink deep the beauty of Your Eyes
 * Khama Karo More Ogo Kripamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:109
+  :cite-key: SISO:109
   :END:
 
 #+BEGIN_VERSE
@@ -2462,10 +2462,10 @@ Tomar bijoy gane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:110
+  :cite-key: SISO:110
   :END:
 
 #+BEGIN_VERSE
@@ -2486,10 +2486,10 @@ The bird of my heart will awake
 * Nil Jamunar Tire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:111
+  :cite-key: SISO:111
   :END:
 
 #+BEGIN_VERSE
@@ -2510,10 +2510,10 @@ Nil jamunar tire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:112
+  :cite-key: SISO:112
   :END:
 
 #+BEGIN_VERSE
@@ -2535,10 +2535,10 @@ At the bank of blue Jamuna.
 * Shunya Hate Ebar Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:113
+  :cite-key: SISO:113
   :END:
 
 #+BEGIN_VERSE
@@ -2557,10 +2557,10 @@ Sakali madhumoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:114
+  :cite-key: SISO:114
   :END:
 
 #+BEGIN_VERSE
@@ -2580,10 +2580,10 @@ It is all sweetness-flood.
 * Shunyata Go Shunyata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:115
+  :cite-key: SISO:115
   :END:
 
 #+BEGIN_VERSE
@@ -2600,10 +2600,10 @@ Tumi dharar mugdhata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:116
+  :cite-key: SISO:116
   :END:
 
 #+BEGIN_VERSE
@@ -2622,10 +2622,10 @@ You are the world-appreciation
 * He Sevak He Sevika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:117
+  :cite-key: SISO:117
   :END:
 
 #+BEGIN_VERSE
@@ -2644,10 +2644,10 @@ Amarata jagaran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:118
+  :cite-key: SISO:118
   :END:
 
 #+BEGIN_VERSE
@@ -2667,10 +2667,10 @@ Eternal and immortal awakening.
 * Dhara Jadi Tumi Nahi Dite Chao (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:119
+  :cite-key: SISO:119
   :END:
 
 #+BEGIN_VERSE
@@ -2689,10 +2689,10 @@ Pai ekbar thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:120
+  :cite-key: SISO:120
   :END:
 
 #+BEGIN_VERSE
@@ -2711,10 +2711,10 @@ My haven at Your Feet.
 * Ami Shudhu Banshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:121
+  :cite-key: SISO:121
   :END:
 
 #+BEGIN_VERSE
@@ -2733,10 +2733,10 @@ Charama sarthakatha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:122
+  :cite-key: SISO:122
   :END:
 
 #+BEGIN_VERSE
@@ -2758,10 +2758,10 @@ By adorning Your face.
 * Dure Dure Ati Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:123
+  :cite-key: SISO:123
   :END:
 
 #+BEGIN_VERSE
@@ -2779,10 +2779,10 @@ Tomar prema rakhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:124
+  :cite-key: SISO:124
   :END:
 
 #+BEGIN_VERSE
@@ -2800,10 +2800,10 @@ To tie my hands with Your love cord?
 * Ami Tomai Bhalobasi Tomar Kripa Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:125
+  :cite-key: SISO:125
   :END:
 
 #+BEGIN_VERSE
@@ -2824,10 +2824,10 @@ Tomar kripa lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:126
+  :cite-key: SISO:126
   :END:
 
 #+BEGIN_VERSE
@@ -2845,10 +2845,10 @@ I love You for Your Compassion-Flood.
 * Amar Dake Debe Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:127
+  :cite-key: SISO:127
   :END:
 
 #+BEGIN_VERSE
@@ -2867,10 +2867,10 @@ Eso amar prane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:128
+  :cite-key: SISO:128
   :END:
 
 #+BEGIN_VERSE
@@ -2890,10 +2890,10 @@ Mother Divine, come in, come in.
 * Nirab Bhasai Tomai Ami Kahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:129
+  :cite-key: SISO:129
   :END:
 
 #+BEGIN_VERSE
@@ -2910,10 +2910,10 @@ Amar lagi tomar kripa-mahi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:130
+  :cite-key: SISO:130
   :END:
 
 #+BEGIN_VERSE
@@ -2931,10 +2931,10 @@ Your Compassion-Sea is all for me.
 * Nil Akasher Megher Phanke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:131
+  :cite-key: SISO:131
   :END:
 
 #+BEGIN_VERSE
@@ -2953,10 +2953,10 @@ Guchabo mor sakal kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:132
+  :cite-key: SISO:132
   :END:
 
 #+BEGIN_VERSE
@@ -2976,10 +2976,10 @@ I shall sacrifice my life for my Beloved Supreme
 * Srashta Amar Jagater Jyoti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:133
+  :cite-key: SISO:133
   :END:
 
 #+BEGIN_VERSE
@@ -2998,10 +2998,10 @@ Haiya apana hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:134
+  :cite-key: SISO:134
   :END:
 
 #+BEGIN_VERSE
@@ -3023,10 +3023,10 @@ In the sea of Infinity’s Light.
 * Sonar Baran Jyotir Toran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:135
+  :cite-key: SISO:135
   :END:
 
 #+BEGIN_VERSE
@@ -3045,10 +3045,10 @@ Aloi dila chheye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:136
+  :cite-key: SISO:136
   :END:
 
 #+BEGIN_VERSE
@@ -3068,10 +3068,10 @@ And awakened me to the heights of light.
 * Tomai Ami Karechi Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:137
+  :cite-key: SISO:137
   :END:
 
 #+BEGIN_VERSE
@@ -3090,10 +3090,10 @@ Amarata bhor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:138
+  :cite-key: SISO:138
   :END:
 
 #+BEGIN_VERSE
@@ -3113,10 +3113,10 @@ Your Immortality’s dawn.
 * Phul Phul Phul Amra Akash Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:139
+  :cite-key: SISO:139
   :END:
 
 #+BEGIN_VERSE
@@ -3139,10 +3139,10 @@ Alor ashish dal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:140
+  :cite-key: SISO:140
   :END:
 
 #+BEGIN_VERSE
@@ -3167,10 +3167,10 @@ Of the Blessing-Light of the Supreme.
 * Prabhat Habe Prabhat Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:141
+  :cite-key: SISO:141
   :END:
 
 #+BEGIN_VERSE
@@ -3189,10 +3189,10 @@ Kabe kabe kabe kabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:142
+  :cite-key: SISO:142
   :END:
 
 #+BEGIN_VERSE
@@ -3214,10 +3214,10 @@ But when, but when?
 * Sukher Katha Balbo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:143
+  :cite-key: SISO:143
   :END:
 
 #+BEGIN_VERSE
@@ -3236,10 +3236,10 @@ Ashru diye bandhbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:144
+  :cite-key: SISO:144
   :END:
 
 #+BEGIN_VERSE
@@ -3258,10 +3258,10 @@ And never with my life-tears.
 * Se Je Amai Chaina Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:145
+  :cite-key: SISO:145
   :END:
 
 #+BEGIN_VERSE
@@ -3280,10 +3280,10 @@ Shata dukher majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:146
+  :cite-key: SISO:146
   :END:
 
 #+BEGIN_VERSE
@@ -3301,10 +3301,10 @@ Alas, Him I can never forget.
 * Se Chai Tomar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:147
+  :cite-key: SISO:147
   :END:
 
 #+BEGIN_VERSE
@@ -3321,10 +3321,10 @@ Herite khelite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:148
+  :cite-key: SISO:148
   :END:
 
 #+BEGIN_VERSE
@@ -3341,10 +3341,10 @@ To sport and become one, indivisible.
 * Tomar Manushi Tanure Ghiriya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:149
+  :cite-key: SISO:149
   :END:
 
 #+BEGIN_VERSE
@@ -3359,10 +3359,10 @@ Shunite dibya bani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:150
+  :cite-key: SISO:150
   :END:
 
 #+BEGIN_VERSE
@@ -3378,10 +3378,10 @@ To give life form to Your Message supreme.
 * Swapane Parash Diye Jao Priya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:151
+  :cite-key: SISO:151
   :END:
 
 #+BEGIN_VERSE
@@ -3400,10 +3400,10 @@ Niyata amare chhale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:152
+  :cite-key: SISO:152
   :END:
 
 #+BEGIN_VERSE
@@ -3425,10 +3425,10 @@ Do You really get joy?
 * Tumi Jadi Hat Dharo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:153
+  :cite-key: SISO:153
   :END:
 
 #+BEGIN_VERSE
@@ -3447,10 +3447,10 @@ Shudhu asi jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:154
+  :cite-key: SISO:154
   :END:
 
 #+BEGIN_VERSE
@@ -3470,10 +3470,10 @@ Into this world beset with difficulty-thorns?
 * Bahudin Pare Abar Tomare Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:155
+  :cite-key: SISO:155
   :END:
 
 #+BEGIN_VERSE
@@ -3490,10 +3490,10 @@ Dao prabhu more simahin purnata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:156
+  :cite-key: SISO:156
   :END:
 
 #+BEGIN_VERSE
@@ -3511,10 +3511,10 @@ O Lord, shower me with Eternity’s Infinity.
 * Tomar Ketan Diyecho Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:157
+  :cite-key: SISO:157
   :END:
 
 #+BEGIN_VERSE
@@ -3533,10 +3533,10 @@ Tai ami akkhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:158
+  :cite-key: SISO:158
   :END:
 
 #+BEGIN_VERSE
@@ -3556,10 +3556,10 @@ Therefore, Immortality’s life I am.
 * Samadhan Khunje Naba Samasya Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:159
+  :cite-key: SISO:159
   :END:
 
 #+BEGIN_VERSE
@@ -3574,10 +3574,10 @@ Shata samasya swarupe niruddesh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:160
+  :cite-key: SISO:160
   :END:
 
 #+BEGIN_VERSE
@@ -3596,10 +3596,10 @@ Where all problems have lost their identity.
 * Tumi Amai Dekechile Jaini Tomar Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:161
+  :cite-key: SISO:161
   :END:
 
 #+BEGIN_VERSE
@@ -3618,10 +3618,10 @@ Jaini tomar kache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:162
+  :cite-key: SISO:162
   :END:
 
 #+BEGIN_VERSE
@@ -3641,10 +3641,10 @@ Yet I did not go to You.
 * Banshi Tomar Nahi Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:163
+  :cite-key: SISO:163
   :END:
 
 #+BEGIN_VERSE
@@ -3663,10 +3663,10 @@ Amar ushar hiya majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:164
+  :cite-key: SISO:164
   :END:
 
 #+BEGIN_VERSE
@@ -3686,10 +3686,10 @@ In my barren heart.
 * Pranami Charane Janaka Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:165
+  :cite-key: SISO:165
   :END:
 
 #+BEGIN_VERSE
@@ -3708,10 +3708,10 @@ Pranamiya barebar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:166
+  :cite-key: SISO:166
   :END:
 
 #+BEGIN_VERSE
@@ -3733,10 +3733,10 @@ Again and again.
 * Sabare Diyecho Ananda Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:167
+  :cite-key: SISO:167
   :END:
 
 #+BEGIN_VERSE
@@ -3757,10 +3757,10 @@ Samadhan parabar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:168
+  :cite-key: SISO:168
   :END:
 
 #+BEGIN_VERSE
@@ -3782,10 +3782,10 @@ And I have solved my problem sea.
 * Swapan Tari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:169
+  :cite-key: SISO:169
   :END:
 
 #+BEGIN_VERSE
@@ -3804,10 +3804,10 @@ Dake nirabadhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1974
-  :CITE-KEY: SISO:170
+  :cite-key: SISO:170
   :END:
 
 #+BEGIN_VERSE

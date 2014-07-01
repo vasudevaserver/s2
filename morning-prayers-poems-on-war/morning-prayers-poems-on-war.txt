@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0876
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1992
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MPPW
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0876
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1992
+  :publisher: Agni Press
+  :cite-key: MPPW
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- Morning prayers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MPPW:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MPPW:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:1
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:1
   :END:
 
 
@@ -73,9 +73,9 @@ And there can be no other way."
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:2
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:2
   :END:
 
 
@@ -108,9 +108,9 @@ As long as I call Him my Father.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:3
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:3
   :END:
 
 
@@ -164,9 +164,9 @@ Or in your outer life."
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:4
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:4
   :END:
 
 
@@ -200,9 +200,9 @@ In and through you."
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:5
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:5
   :END:
 
 
@@ -234,9 +234,9 @@ In Your own Way.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:6
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:6
   :END:
 
 
@@ -275,9 +275,9 @@ Only in His own Way.
 * Part II -- Poems on war
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MPPW:7e1
+  :genre: section
+  :keywords:
+  :cite-key: MPPW:7e1
   :END:
 
 
@@ -286,9 +286,9 @@ Only in His own Way.
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:7
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:7
   :END:
 
 
@@ -325,9 +325,9 @@ Have produced."
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:8
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:8
   :END:
 
 
@@ -352,9 +352,9 @@ The worst sinner."
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:9
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:9
   :END:
 
 
@@ -379,9 +379,9 @@ World-illumining solution."
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:10
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:10
   :END:
 
 
@@ -403,9 +403,9 @@ Does not think of Me."
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:11
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:11
   :END:
 
 
@@ -427,9 +427,9 @@ Love, oneness and peace."
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:12
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:12
   :END:
 
 
@@ -452,9 +452,9 @@ Never!"
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:13
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:13
   :END:
 
 
@@ -488,9 +488,9 @@ To do what they want to do."
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:14
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:14
   :END:
 
 
@@ -527,9 +527,9 @@ To fool the outer world."
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:15
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:15
   :END:
 
 
@@ -554,9 +554,9 @@ Lo and behold, war is nowhere."
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:16
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:16
   :END:
 
 
@@ -580,9 +580,9 @@ By My Compassion-Eye."
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:17
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:17
   :END:
 
 
@@ -615,9 +615,9 @@ All their nuclear weapons."
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MPPW:18
+  :genre: poem
+  :keywords:
+  :cite-key: MPPW:18
   :END:
 
 

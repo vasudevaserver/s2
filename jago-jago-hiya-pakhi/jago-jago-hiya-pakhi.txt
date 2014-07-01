@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1102
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: JJHP
-  :GENRE: song
+  :book-number: 1102
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: JJHP
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JJHP:1e1
+  :genre: note
+  :cite-key: JJHP:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JJHP:1e2
+  :genre: note
+  :cite-key: JJHP:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Maran Dehe Gahi Mora
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:1
+  :cite-key: JJHP:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Amaratar gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:2
+  :cite-key: JJHP:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ We sing the songs of Immortality.
 * In a Mortal Body
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:3
+  :cite-key: JJHP:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ We sing the songs of Immortality.
 * Ashesh Jatana Bhitare Bahire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:4
+  :cite-key: JJHP:4
   :END:
 
 #+BEGIN_VERSE
@@ -106,10 +106,10 @@ Sabar jibane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:5
+  :cite-key: JJHP:5
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ Is full of suffering.
 * Each Life, Inner and Outer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:6
+  :cite-key: JJHP:6
   :END:
 
 #+BEGIN_VERSE
@@ -140,10 +140,10 @@ Is full of suffering.
 * Ashar Swapan Habena Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:7
+  :cite-key: JJHP:7
   :END:
 
 #+BEGIN_VERSE
@@ -156,10 +156,10 @@ Taito ami nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:8
+  :cite-key: JJHP:8
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Therefore, I dance.
 * My Hope-Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:9
+  :cite-key: JJHP:9
   :END:
 
 #+BEGIN_VERSE
@@ -190,10 +190,10 @@ Therefore, I dance.
 * Akuti Dwar Khulte Giye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:10
+  :cite-key: JJHP:10
   :END:
 
 #+BEGIN_VERSE
@@ -205,10 +205,10 @@ Akuti dwar khulte giye basana dwar khulechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:11
+  :cite-key: JJHP:11
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ While opening the aspiration-door.
 * I Have Opened the Desire-Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:12
+  :cite-key: JJHP:12
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ While opening the aspiration-door.
 * Keman Kare Sahi Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:13
+  :cite-key: JJHP:13
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Oishi shaktir parajoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:14
+  :cite-key: JJHP:14
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ The defeat of the divine force?
 * The Defeat of the Divine Force
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:15
+  :cite-key: JJHP:15
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ The defeat of the divine force?
 * Rupantarer Bani Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:16
+  :cite-key: JJHP:16
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Dharai mora esechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:17
+  :cite-key: JJHP:17
   :END:
 
 #+BEGIN_VERSE
@@ -322,10 +322,10 @@ With the message of transformation.
 * Into the World We Came
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:18
+  :cite-key: JJHP:18
   :END:
 
 #+BEGIN_VERSE
@@ -339,10 +339,10 @@ With the message of transformation.
 * Andhiyar Deshe Ghuriya Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:19
+  :cite-key: JJHP:19
   :END:
 
 #+BEGIN_VERSE
@@ -355,10 +355,10 @@ Aloker sandhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:20
+  :cite-key: JJHP:20
   :END:
 
 #+BEGIN_VERSE
@@ -372,10 +372,10 @@ While searching for the Light divine.
 * We Roam In the Darkness-Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:21
+  :cite-key: JJHP:21
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ While searching for the Light divine.
 * Shanta Habe Ashanta Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:22
+  :cite-key: JJHP:22
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ Ei barashai achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:23
+  :cite-key: JJHP:23
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ With this hope I am still alive.
 * My Restless Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:24
+  :cite-key: JJHP:24
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ With this hope I am still alive.
 * Bhakti Bina Shakti Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:25
+  :cite-key: JJHP:25
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Pabena keu jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:26
+  :cite-key: JJHP:26
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Without devotion.
 * I Know Nobody Can Achieve Power-Flood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:27
+  :cite-key: JJHP:27
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Without devotion.
 * Pete Chahi Paran Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:28
+  :cite-key: JJHP:28
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Bhakti aphuran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:29
+  :cite-key: JJHP:29
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ I desire to taste limitless devotion.
 * With All My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:30
+  :cite-key: JJHP:30
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ Limitless devotion.
 * Jago Jago Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:31
+  :cite-key: JJHP:31
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ Ar katokal raibe ghumiye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:32
+  :cite-key: JJHP:32
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ How long will you remain fast asleep?
 * Awake, Awake, O My Soul-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:33
+  :cite-key: JJHP:33
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ How long will you remain fast asleep?
 * Dibarati Debasurer Juddhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:34
+  :cite-key: JJHP:34
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Heri amar atmajoye buddhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:35
+  :cite-key: JJHP:35
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Lord Buddha.
 * Day and Night, During the Fight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1991
-  :CITE-KEY: JJHP:36
+  :cite-key: JJHP:36
   :END:
 
 #+BEGIN_VERSE
@@ -644,10 +644,10 @@ Lord Buddha.
 * Jogyata Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:37
+  :cite-key: JJHP:37
   :END:
 
 #+BEGIN_VERSE
@@ -660,10 +660,10 @@ Tomar kripa lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:38
+  :cite-key: JJHP:38
   :END:
 
 #+BEGIN_VERSE
@@ -677,10 +677,10 @@ Therefore, I cry for Your Grace.
 * Capacity, I Have None
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:39
+  :cite-key: JJHP:39
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Therefore, I cry for Your Grace.
 * Ati Twara Ati Twara Jete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:40
+  :cite-key: JJHP:40
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Habe hiya pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:41
+  :cite-key: JJHP:41
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ I must enter into my heart-citadel.
 * My Heart-Citadel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:42
+  :cite-key: JJHP:42
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ I must enter into my heart-citadel.
 * Pujite Tomar Charana Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:43
+  :cite-key: JJHP:43
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ Dao more ekbar bhakati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:44
+  :cite-key: JJHP:44
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ Devotion, to worship Your Lotus-Feet.
 * Do Give Me Once Devotion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:45
+  :cite-key: JJHP:45
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ Devotion, to worship Your Lotus-Feet.
 * Chander Deshe Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:46
+  :cite-key: JJHP:46
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Puta mane phulla chite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:47
+  :cite-key: JJHP:47
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ With a cheerfulness-heart.
 * I Must Go to the Moon-Land
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:48
+  :cite-key: JJHP:48
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ With a cheerfulness-heart.
 * Saphal Habe Sabar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:49
+  :cite-key: JJHP:49
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Madhur swapan saphal habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:50
+  :cite-key: JJHP:50
   :END:
 
 #+BEGIN_VERSE
@@ -879,10 +879,10 @@ All sweet dreams of all human hearts
 * All Sweet Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:51
+  :cite-key: JJHP:51
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ Will be fulfilled.
 * Basana Duar Khulechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:52
+  :cite-key: JJHP:52
   :END:
 
 #+BEGIN_VERSE
@@ -913,10 +913,10 @@ Baliya dukher simana nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:53
+  :cite-key: JJHP:53
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ Therefore, my sufferings have no bounds.
 * I Have Kept Open My Desire-Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:54
+  :cite-key: JJHP:54
   :END:
 
 #+BEGIN_VERSE
@@ -947,10 +947,10 @@ Therefore, my sufferings have no bounds.
 * Chinta Jagate Ghuriya Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:55
+  :cite-key: JJHP:55
   :END:
 
 #+BEGIN_VERSE
@@ -963,10 +963,10 @@ Tai nahi pai shanti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:56
+  :cite-key: JJHP:56
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Therefore, no peace have I.
 * I Roam in the Thought-World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:57
+  :cite-key: JJHP:57
   :END:
 
 #+BEGIN_VERSE
@@ -997,10 +997,10 @@ Therefore, no peace have I.
 * Bedanai Bhara Subishal Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:58
+  :cite-key: JJHP:58
   :END:
 
 #+BEGIN_VERSE
@@ -1012,10 +1012,10 @@ Bedanai bhara subishal dhara jani ami jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:59
+  :cite-key: JJHP:59
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Is full of suffering.
 * This Vast World of Ours
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:60
+  :cite-key: JJHP:60
   :END:
 
 #+BEGIN_VERSE
@@ -1048,10 +1048,10 @@ Is full of suffering.
 * Aghat Karo Nikhut Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:61
+  :cite-key: JJHP:61
   :END:
 
 #+BEGIN_VERSE
@@ -1064,10 +1064,10 @@ Prabhu amai aghat karo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:62
+  :cite-key: JJHP:62
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Make me perfect.
 * Strike Me, My Lord, Strike Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:63
+  :cite-key: JJHP:63
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ Make me perfect.
 * Katha Bane Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:64
+  :cite-key: JJHP:64
   :END:
 
 #+BEGIN_VERSE
@@ -1113,10 +1113,10 @@ Katha bane heri amar malin man
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:65
+  :cite-key: JJHP:65
   :END:
 
 #+BEGIN_VERSE
@@ -1130,10 +1130,10 @@ Inside the thought-jungle.
 * I See My Impure Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:66
+  :cite-key: JJHP:66
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Inside the thought-jungle.
 * Tyager Jiban Baran Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:67
+  :cite-key: JJHP:67
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Jadi chaho jete amar sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:68
+  :cite-key: JJHP:68
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ If you want to accompany me.
 * Accept the Life of Renunciation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:69
+  :cite-key: JJHP:69
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ If you want to accompany me.
 * Dyuloke Bhuloke Abhinna Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:70
+  :cite-key: JJHP:70
   :END:
 
 #+BEGIN_VERSE
@@ -1213,10 +1213,10 @@ Karibo srijan ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:71
+  :cite-key: JJHP:71
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Between earth and Heaven.
 * I Shall Create a Oneness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1991
-  :CITE-KEY: JJHP:72
+  :cite-key: JJHP:72
   :END:
 
 #+BEGIN_VERSE
@@ -1247,10 +1247,10 @@ Between earth and Heaven.
 * Asha Debi Kothai Thako
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:73
+  :cite-key: JJHP:73
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Balo amai balo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:74
+  :cite-key: JJHP:74
   :END:
 
 #+BEGIN_VERSE
@@ -1280,10 +1280,10 @@ Do tell me where you live.
 * O Hope-Goddess
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:75
+  :cite-key: JJHP:75
   :END:
 
 #+BEGIN_VERSE
@@ -1297,10 +1297,10 @@ Do tell me where you live.
 * Hiyar Gahane Nutan Chetane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:76
+  :cite-key: JJHP:76
   :END:
 
 #+BEGIN_VERSE
@@ -1313,10 +1313,10 @@ Tomare pujibo bidhata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:77
+  :cite-key: JJHP:77
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ I shall worship You with a new consciousness.
 * In the Depths of My Heart I Shall Worship You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:78
+  :cite-key: JJHP:78
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ I shall worship You with a new consciousness.
 * Sukher Dine Tomai Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:79
+  :cite-key: JJHP:79
   :END:
 
 #+BEGIN_VERSE
@@ -1363,10 +1363,10 @@ Nahi bhule jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:80
+  :cite-key: JJHP:80
   :END:
 
 #+BEGIN_VERSE
@@ -1380,10 +1380,10 @@ Do grant me the boon that I do not forget Thee.
 * In the Days of Joy and Bliss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:81
+  :cite-key: JJHP:81
   :END:
 
 #+BEGIN_VERSE
@@ -1399,10 +1399,10 @@ Do grant me the boon
 * Pratiti Dibase Kritagya Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:82
+  :cite-key: JJHP:82
   :END:
 
 #+BEGIN_VERSE
@@ -1415,10 +1415,10 @@ Rakhibo amare tomar charana kamale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:83
+  :cite-key: JJHP:83
   :END:
 
 #+BEGIN_VERSE
@@ -1433,10 +1433,10 @@ At Your Lotus-Feet.
 * Every Day I Shall Place
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:84
+  :cite-key: JJHP:84
   :END:
 
 #+BEGIN_VERSE
@@ -1451,10 +1451,10 @@ At Your Lotus-Feet.
 * Avatar Name Dharanir Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:85
+  :cite-key: JJHP:85
   :END:
 
 #+BEGIN_VERSE
@@ -1467,10 +1467,10 @@ Nabin chetana danite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:86
+  :cite-key: JJHP:86
   :END:
 
 #+BEGIN_VERSE
@@ -1486,10 +1486,10 @@ With a consciousness new.
 * Avatar, God-Representative
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:87
+  :cite-key: JJHP:87
   :END:
 
 #+BEGIN_VERSE
@@ -1504,10 +1504,10 @@ With a consciousness new.
 * Prabhu Amar Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:88
+  :cite-key: JJHP:88
   :END:
 
 #+BEGIN_VERSE
@@ -1521,10 +1521,10 @@ Nahi jena thami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:89
+  :cite-key: JJHP:89
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ I never want to stop.
 * Lord, My Lord, When I Speak of You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:90
+  :cite-key: JJHP:90
   :END:
 
 #+BEGIN_VERSE
@@ -1557,10 +1557,10 @@ I never want to stop.
 * Pratiti Jiban Amarata Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:91
+  :cite-key: JJHP:91
   :END:
 
 #+BEGIN_VERSE
@@ -1573,10 +1573,10 @@ Bahan kariya chale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:92
+  :cite-key: JJHP:92
   :END:
 
 #+BEGIN_VERSE
@@ -1590,10 +1590,10 @@ The message of Immortality.
 * Each Human Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:93
+  :cite-key: JJHP:93
   :END:
 
 #+BEGIN_VERSE
@@ -1607,10 +1607,10 @@ The message of Immortality.
 * Chahi Ami Dibanishi Maner Rupantar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:94
+  :cite-key: JJHP:94
   :END:
 
 #+BEGIN_VERSE
@@ -1622,10 +1622,10 @@ Chahi ami dibanishi maner rupantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:95
+  :cite-key: JJHP:95
   :END:
 
 #+BEGIN_VERSE
@@ -1639,10 +1639,10 @@ The transformation of my mind.
 * Day and Night I Long
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:96
+  :cite-key: JJHP:96
   :END:
 
 #+BEGIN_VERSE
@@ -1657,10 +1657,10 @@ I long for the transformation
 * Jiban Britha Maran Britha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:97
+  :cite-key: JJHP:97
   :END:
 
 #+BEGIN_VERSE
@@ -1673,10 +1673,10 @@ Nahi pele atma gyan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:98
+  :cite-key: JJHP:98
   :END:
 
 #+BEGIN_VERSE
@@ -1690,10 +1690,10 @@ If you do not have God-realisation.
 * Useless Is Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:99
+  :cite-key: JJHP:99
   :END:
 
 #+BEGIN_VERSE
@@ -1707,10 +1707,10 @@ If you do not have God-realisation.
 * Karunamoyi Basundara Kritagyatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:100
+  :cite-key: JJHP:100
   :END:
 
 #+BEGIN_VERSE
@@ -1723,10 +1723,10 @@ Giti geye bidai nibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:101
+  :cite-key: JJHP:101
   :END:
 
 #+BEGIN_VERSE
@@ -1741,10 +1741,10 @@ I shall offer my gratitude-song.
 * O Mother Earth of Compassion-Ocean
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:102
+  :cite-key: JJHP:102
   :END:
 
 #+BEGIN_VERSE
@@ -1758,10 +1758,10 @@ Before I leave You, I shall offer gratitude-song.
 * Nijere Khunjite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:103
+  :cite-key: JJHP:103
   :END:
 
 #+BEGIN_VERSE
@@ -1774,10 +1774,10 @@ Esechi dharar buke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:104
+  :cite-key: JJHP:104
   :END:
 
 #+BEGIN_VERSE
@@ -1791,10 +1791,10 @@ Into the world I came.
 * For Self-Discovery and for Self-Opening
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-12-1991
-  :CITE-KEY: JJHP:105
+  :cite-key: JJHP:105
   :END:
 
 #+BEGIN_VERSE

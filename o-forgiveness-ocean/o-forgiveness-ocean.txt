@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 910
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: FRO
-  :GENRE: song
+  :book-number: 910
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: FRO
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FRO:1e1
+  :genre: note
+  :cite-key: FRO:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FRO:1e2
+  :genre: note
+  :cite-key: FRO:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Manre Tomai Karbo Daman Anukkhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:1
+  :cite-key: FRO:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Manre tomai karbo daman anukkhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:2
+  :cite-key: FRO:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ At every moment.
 * Mine Is the Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:3
+  :cite-key: FRO:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ Limitless darkness-thoughts.
 * Durbalata Bhitar Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:4
+  :cite-key: FRO:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ Krandane rato tader sane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:5
+  :cite-key: FRO:5
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ I cry and cry with death ceaselessly.
 * My Doubting Mind I Worship
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:6
+  :cite-key: FRO:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Within and without.
 * Bhranta Manas Shranta Na Hale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:7
+  :cite-key: FRO:7
   :END:
 
 #+BEGIN_VERSE
@@ -159,10 +159,10 @@ Shanti kemane pabo go jibane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:8
+  :cite-key: FRO:8
   :END:
 
 #+BEGIN_VERSE
@@ -176,10 +176,10 @@ How can I peace receive?
 * If My Lost Mind Does Not Get Tired
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:9
+  :cite-key: FRO:9
   :END:
 
 #+BEGIN_VERSE
@@ -193,10 +193,10 @@ How can I peace receive?
 * Maner Guhai Jyoti Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:10
+  :cite-key: FRO:10
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ Pabena kadapi pabena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:11
+  :cite-key: FRO:11
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ In your mind-cave.
 * Never Can You Find
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:12
+  :cite-key: FRO:12
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ In your mind-cave.
 * Man Je Amar Shateka Juger Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:13
+  :cite-key: FRO:13
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Andhiyar ghana kalima
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:14
+  :cite-key: FRO:14
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ A darkness-fed night.
 * For Aeons
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:15
+  :cite-key: FRO:15
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ A darkness-fed night.
 * Khama Jadi Nahi Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:16
+  :cite-key: FRO:16
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Keman kare rahibo dharai benche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:17
+  :cite-key: FRO:17
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ How can I live on earth?
 * Param Pita Khama Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:18
+  :cite-key: FRO:18
   :END:
 
 #+BEGIN_VERSE
@@ -343,10 +343,10 @@ Amar bhitar amar bahir khama karo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:19
+  :cite-key: FRO:19
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Do forgive my outer life.
 * Khama Baridhi Khama Karo More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:20
+  :cite-key: FRO:20
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Amije khudra bindu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:21
+  :cite-key: FRO:21
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Do forgive me.
 * Khama Tumi Karbe Jani Keno Tabe Karo Deri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:22
+  :cite-key: FRO:22
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Keno tabe karo deri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:23
+  :cite-key: FRO:23
   :END:
 
 #+BEGIN_VERSE
@@ -428,10 +428,10 @@ My Lord, why are You delaying?
 * Amar Truti Nai Je Anta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:24
+  :cite-key: FRO:24
   :END:
 
 #+BEGIN_VERSE
@@ -444,10 +444,10 @@ Tomar khamar nai je anta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:25
+  :cite-key: FRO:25
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ Is boundless, my Lord.
 * Atma Tyager Bale Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:26
+  :cite-key: FRO:26
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ Khamar desher parbo jethe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:27
+  :cite-key: FRO:27
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ I shall enter into the forgiveness-clime.
 * Do Forgive My Inner Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:28
+  :cite-key: FRO:28
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Do forgive my outer life.
 * As My Mistakes Are Limitless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:29
+  :cite-key: FRO:29
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Is boundless, my Lord.
 * My Mind, I Shall Control You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:30
+  :cite-key: FRO:30
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +548,10 @@ At every moment.
 * Timir Bhara Kantake Ghera
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:31
+  :cite-key: FRO:31
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Amar manas ban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:32
+  :cite-key: FRO:32
   :END:
 
 #+BEGIN_VERSE
@@ -581,10 +581,10 @@ Limitless darkness-thoughts.
 * My Inner Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:33
+  :cite-key: FRO:33
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ I cry and cry with death ceaselessly.
 * Sandeha Man Amije Pujari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:34
+  :cite-key: FRO:34
   :END:
 
 #+BEGIN_VERSE
@@ -615,10 +615,10 @@ Taito bhitare bahire bhikhari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1987
-  :CITE-KEY: FRO:35
+  :cite-key: FRO:35
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ Therefore, a beggar-mind within and without.
 * My Lord, If You Forgive Me Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:36
+  :cite-key: FRO:36
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ How can I live on earth?
 * Tumi Amai Karbe Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:37
+  :cite-key: FRO:37
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ Ei barashai benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-1988
-  :CITE-KEY: FRO:38
+  :cite-key: FRO:38
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ With this hope I am still alive.
 * My Lord, You Will Forgive Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:39
+  :cite-key: FRO:39
   :END:
 
 #+BEGIN_VERSE
@@ -699,10 +699,10 @@ With this hope I am still alive.
 * O Forgiveness-Ocean
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:40
+  :cite-key: FRO:40
   :END:
 
 #+BEGIN_VERSE
@@ -717,10 +717,10 @@ Do forgive me.
 * I Know You Will Forgive Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:41
+  :cite-key: FRO:41
   :END:
 
 #+BEGIN_VERSE
@@ -734,10 +734,10 @@ My Lord, why are You delaying?
 * With My Self-Offering Strength
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-01-1988
-  :CITE-KEY: FRO:42
+  :cite-key: FRO:42
   :END:
 
 #+BEGIN_VERSE

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 436
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-11A
-  :GENRE: song
+  :book-number: 436
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-11A
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:271e1
+  :genre: note
+  :cite-key: JGS:271e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:271e2
+  :genre: note
+  :cite-key: JGS:271e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jyoti Ananda Pranavanada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:271
+  :cite-key: JGS:271
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Sunanda premahar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:272
+  :cite-key: JGS:272
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ Of Eternity’s Bliss infinite.
 * Andhar Guhai Parbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:273
+  :cite-key: JGS:273
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Tyager bijoy bhulbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:274
+  :cite-key: JGS:274
   :END:
 
 #+BEGIN_VERSE
@@ -118,10 +118,10 @@ I shall never forget the victory of self-offering.
 * Chaowa Paowar Kanna Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:275
+  :cite-key: JGS:275
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ Taito elo neme
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:276
+  :cite-key: JGS:276
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Has descended from Above.
 * Chokher Jale Pujle Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:277
+  :cite-key: JGS:277
   :END:
 
 #+BEGIN_VERSE
@@ -176,10 +176,10 @@ Jhare takhan pale pale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:278
+  :cite-key: JGS:278
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ And Your Nectar ceaselessly descend.
 * Bharater Rabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-05-1979
-  :CITE-KEY: JGS:279
+  :cite-key: JGS:279
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Prema onkar nad
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-05-1979
-  :CITE-KEY: JGS:280
+  :cite-key: JGS:280
   :END:
 
 #+BEGIN_VERSE
@@ -241,10 +241,10 @@ In various walks of life.
 * Jibane Jhare Tumi Pujile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-06-1979
-  :CITE-KEY: JGS:281
+  :cite-key: JGS:281
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Kemane tare aji bhulile
 * Param Pita Aghat Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:282
+  :cite-key: JGS:282
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ Nutan alor prabhat
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:283
+  :cite-key: JGS:283
   :END:
 
 #+BEGIN_VERSE
@@ -303,10 +303,10 @@ For the dawn of a new life.
 * Abar Ami Jabo Tomai Ebar Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:284
+  :cite-key: JGS:284
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ Tomar premer shasan amar hiyar sadhan
 * Akutir Shesh Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:285
+  :cite-key: JGS:285
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ Swapaner shesh nai bastabe shesh nache
 * Ami Amar Ahankar Tumi Tomar Ruddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:286
+  :cite-key: JGS:286
   :END:
 
 #+BEGIN_VERSE
@@ -356,10 +356,10 @@ Pabo tomar charan tal
 * Ami Amar Praner Malinata Tumi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:287
+  :cite-key: JGS:287
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Tumi tomar karun hiyar byatha
 * Andhakarer Chilam Ami Nibir Andhakare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:288
+  :cite-key: JGS:288
   :END:
 
 #+BEGIN_VERSE
@@ -392,10 +392,10 @@ Jyoti parabare
 * Bhagaban Jani Tumi Taba Kripa Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:289
+  :cite-key: JGS:289
   :END:
 
 #+BEGIN_VERSE
@@ -410,10 +410,10 @@ Taba paye khama rabi syandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:290
+  :cite-key: JGS:290
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ At Your Feet I discover the Forgiveness-Sun.
 * Bhalo Lage Maha Urdhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:291
+  :cite-key: JGS:291
   :END:
 
 #+BEGIN_VERSE
@@ -447,10 +447,10 @@ Kusum hiyar gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:292
+  :cite-key: JGS:292
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ From the abysmal depth.
 * Bhoy Kari Bhoy Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:293
+  :cite-key: JGS:293
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ Taba khama taba hasi mor parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:294
+  :cite-key: JGS:294
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +504,10 @@ Are my only identifications.
 * Bhu Bhuvaswa Jana Maha Tapa Satya Sapta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:295
+  :cite-key: JGS:295
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Sapta lok antare uma phute nitya
 * Chaowa Paowar Parapare Tomai Ami Khunji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:296
+  :cite-key: JGS:296
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ Tomar charan puji
 * Chaowar Lagi Kandi Ami Kandi Paowar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:297
+  :cite-key: JGS:297
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ Prabhu nidra jagi
 * Dure Aji Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:298
+  :cite-key: JGS:298
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Maha Shib nartan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:299
+  :cite-key: JGS:299
   :END:
 
 #+BEGIN_VERSE
@@ -597,10 +597,10 @@ Of the great Lord Shiva.
 * Dure Dure Bahe Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:300
+  :cite-key: JGS:300
   :END:
 
 #+BEGIN_VERSE
@@ -615,10 +615,10 @@ Mahanande khelechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:301
+  :cite-key: JGS:301
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ In the highest Heaven.
 * Ekla Ami Chalbona Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:302
+  :cite-key: JGS:302
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ Atmatyager brate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:303
+  :cite-key: JGS:303
   :END:
 
 #+BEGIN_VERSE
@@ -671,10 +671,10 @@ The festive worship of my self-giving.
 * Ekla Chali.. Agyanatar Badha Dali Ekla
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:304
+  :cite-key: JGS:304
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Atmahutir habo bali
 * Jani Taito Bakkhe Ami Tani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:305
+  :cite-key: JGS:305
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Tomai smari dibarat
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:306
+  :cite-key: JGS:306
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ I think of You all day and night.
 * Jiban Bhore Esechile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:307
+  :cite-key: JGS:307
   :END:
 
 #+BEGIN_VERSE
@@ -745,10 +745,10 @@ Niye tomar mukti benu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:308
+  :cite-key: JGS:308
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ You will come with Your Liberation-Flute.
 * Jiban Sheshe Khudra Praner Kritagyatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:309
+  :cite-key: JGS:309
   :END:
 
 #+BEGIN_VERSE
@@ -783,10 +783,10 @@ Ashesh kripa dan
 * Khane Khane Ekti Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:310
+  :cite-key: JGS:310
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ Bina prayojane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:311
+  :cite-key: JGS:311
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Who loves me unconditionally.
 * Kothai Surjya Kothai Turjya Kothai Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:312
+  :cite-key: JGS:312
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ Ananta durbhok
 * Kripa Tomar Bhalo Lage Bhalo Lage Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:313
+  :cite-key: JGS:313
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ Pran gabhire tomar asan
 * Marichi Atri Angira Pulasta Pulaha Kratu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:314
+  :cite-key: JGS:314
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Mahabharater mukti dishari shreshtha
 * Nirab Rate Ashar Sathe Tomar Kache Asi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:315
+  :cite-key: JGS:315
   :END:
 
 #+BEGIN_VERSE
@@ -896,10 +896,10 @@ Rupantarer banshi
 * Ogo Mor Prana Shakha Ogo Mor Bhango
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:316
+  :cite-key: JGS:316
   :END:
 
 #+BEGIN_VERSE
@@ -915,10 +915,10 @@ Nahi jena heri ar ankhi lor
 * Ogo Paramesh Daki Animesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:317
+  :cite-key: JGS:317
   :END:
 
 #+BEGIN_VERSE
@@ -933,10 +933,10 @@ Bhitare bahire charidhar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:318
+  :cite-key: JGS:318
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ Within and without, below, above and around me.
 * Janapriya Bharatiya Vidya Bhavan Hethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:319
+  :cite-key: JGS:319
   :END:
 
 #+BEGIN_VERSE
@@ -973,10 +973,10 @@ Thakbena ar agyanata ghor mrityu shok
 * Bahudin Pare Manas Purite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:320
+  :cite-key: JGS:320
   :END:
 
 #+BEGIN_VERSE
@@ -991,10 +991,10 @@ Puta sundar purna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:321
+  :cite-key: JGS:321
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ Is today pure, beautiful
 * Baner Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:322
+  :cite-key: JGS:322
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Eso eso phutao amai phale phule
 * Prabhu Tomar Premer Shashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:323
+  :cite-key: JGS:323
   :END:
 
 #+BEGIN_VERSE
@@ -1048,10 +1048,10 @@ Phulla anurage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:324
+  :cite-key: JGS:324
   :END:
 
 #+BEGIN_VERSE
@@ -1067,10 +1067,10 @@ Has blossomed with intense delight.
 * Pratigya Bishwas Ananta Ullash Ek Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-03-1980
-  :CITE-KEY: JGS:325
+  :cite-key: JGS:325
   :END:
 
 #+BEGIN_VERSE
@@ -1088,10 +1088,10 @@ Prabhu pada tale
 * Pujite Tomar Kamal Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:326
+  :cite-key: JGS:326
   :END:
 
 #+BEGIN_VERSE
@@ -1106,10 +1106,10 @@ Khudra amire rakhibo bandhiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:327
+  :cite-key: JGS:327
   :END:
 
 #+BEGIN_VERSE
@@ -1125,10 +1125,10 @@ I shall bind tautly my little ‘i’.
 * Rater Bhore Premer Dore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:328
+  :cite-key: JGS:328
   :END:
 
 #+BEGIN_VERSE
@@ -1143,10 +1143,10 @@ Rakhbo ami rakhbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-03-1980
-  :CITE-KEY: JGS:329
+  :cite-key: JGS:329
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ My little ego-‘I’.
 * Santare Shishu Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:330
+  :cite-key: JGS:330
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ Shishu hasi rashi rashi antare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:331
+  :cite-key: JGS:331
   :END:
 
 #+BEGIN_VERSE
@@ -1198,10 +1198,10 @@ Inside my heart-river.
 * Satya Habe Satya Habe Pratigya Mor Satya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:332
+  :cite-key: JGS:332
   :END:
 
 #+BEGIN_VERSE
@@ -1217,10 +1217,10 @@ Amar hiyar asha bhave
 * Sudur Desher Bandhu Tumi Dile Aji Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:333
+  :cite-key: JGS:333
   :END:
 
 #+BEGIN_VERSE
@@ -1236,10 +1236,10 @@ Taba charan rekha
 * Sure Sure Sudha Sure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:334
+  :cite-key: JGS:334
   :END:
 
 #+BEGIN_VERSE
@@ -1254,10 +1254,10 @@ Kanna jiban dure phele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:335
+  :cite-key: JGS:335
   :END:
 
 #+BEGIN_VERSE
@@ -1273,10 +1273,10 @@ Far, very far.
 * Swarge Hase Sukh Martye Kande Dukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:336
+  :cite-key: JGS:336
   :END:
 
 #+BEGIN_VERSE
@@ -1292,10 +1292,10 @@ Hiyai nache sudha
 * Taba Agamane Ei Dharanir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:337
+  :cite-key: JGS:337
   :END:
 
 #+BEGIN_VERSE
@@ -1310,10 +1310,10 @@ Nimeshe haibe mlan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-12-1979
-  :CITE-KEY: JGS:338
+  :cite-key: JGS:338
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ In a twinkling will pale into insignificance.
 * Thakurer Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-01-1979
-  :CITE-KEY: JGS:339
+  :cite-key: JGS:339
   :END:
 
 #+BEGIN_VERSE
@@ -1354,10 +1354,10 @@ Atmahutir dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-01-1979
-  :CITE-KEY: JGS:340
+  :cite-key: JGS:340
   :END:
 
 #+BEGIN_VERSE
@@ -1381,10 +1381,10 @@ The incense of your self-offering.
 * Tomar Charan Khani Mrittyu Bijoyi Bani Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1980
-  :CITE-KEY: JGS:341
+  :cite-key: JGS:341
   :END:
 
 #+BEGIN_VERSE
@@ -1400,10 +1400,10 @@ Simahin prema rakhi
 * Tomar Paowar Gaurabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:342
+  :cite-key: JGS:342
   :END:
 
 #+BEGIN_VERSE
@@ -1420,10 +1420,10 @@ Kripar anukkhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:343
+  :cite-key: JGS:343
   :END:
 
 #+BEGIN_VERSE
@@ -1441,10 +1441,10 @@ Of the Absolute Supreme.
 * Tumi Je Tomar Karuna Shakati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:344
+  :cite-key: JGS:344
   :END:
 
 #+BEGIN_VERSE
@@ -1459,10 +1459,10 @@ Ami je amar shishu asha bin
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-1979
-  :CITE-KEY: JGS:345
+  :cite-key: JGS:345
   :END:
 
 #+BEGIN_VERSE
@@ -1478,10 +1478,10 @@ I am the lyre of my child-hope.
 * Uttama Bhalobase Tomar Antaratama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-1978
-  :CITE-KEY: JGS:346
+  :cite-key: JGS:346
   :END:
 
 #+BEGIN_VERSE

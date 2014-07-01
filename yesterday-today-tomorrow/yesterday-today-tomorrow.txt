@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0884
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1992
-  :PUBLISHER: Agni Press
-  :CITE-KEY: YTT
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0884
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1992
+  :publisher: Agni Press
+  :cite-key: YTT
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:1
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:1
   :END:
 
 
@@ -42,9 +42,9 @@ His Heart-Home.
 * 2 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:2
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:2
   :END:
 
 
@@ -61,9 +61,9 @@ At His inner School.
 * 3 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:3
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:3
   :END:
 
 
@@ -85,9 +85,9 @@ Frightened me.
 * 5 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:4
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:4
   :END:
 
 
@@ -103,9 +103,9 @@ Is feeding me.
 * 6 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:5
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:5
   :END:
 
 
@@ -121,9 +121,9 @@ Sheltering me.
 * 7 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:6
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:6
   :END:
 
 
@@ -139,9 +139,9 @@ God's Beautiful Eye.
 * 8 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:7
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:7
   :END:
 
 
@@ -157,9 +157,9 @@ God's Peaceful Heart.
 * 9 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:8
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:8
   :END:
 
 
@@ -175,9 +175,9 @@ God's Powerful Feet.
 * 10 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:9
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:9
   :END:
 
 
@@ -193,9 +193,9 @@ God the Power.
 * 11 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:10
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:10
   :END:
 
 
@@ -211,9 +211,9 @@ God the Love.
 * 12 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:11
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:11
   :END:
 
 
@@ -229,9 +229,9 @@ God the Compassion.
 * 13 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:12
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:12
   :END:
 
 
@@ -247,9 +247,9 @@ My aspiration-heart.
 * 14 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:13
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:13
   :END:
 
 
@@ -265,9 +265,9 @@ My dedication-life.
 * 15 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:14
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:14
   :END:
 
 
@@ -283,9 +283,9 @@ My surrender-breath.
 * 16 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:15
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:15
   :END:
 
 
@@ -302,9 +302,9 @@ Desire and aspiration.
 * 17 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:16
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:16
   :END:
 
 
@@ -321,9 +321,9 @@ And Realisation.
 * 18 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:17
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:17
   :END:
 
 
@@ -342,9 +342,9 @@ Self -Transcendence.
 * 19 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:18
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:18
   :END:
 
 
@@ -360,9 +360,9 @@ My aspiration-bird.
 * 20 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:19
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:19
   :END:
 
 
@@ -378,9 +378,9 @@ My dedication-wings.
 * 21 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:20
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:20
   :END:
 
 
@@ -398,9 +398,9 @@ Flight.
 * 22 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:21
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:21
   :END:
 
 
@@ -417,9 +417,9 @@ His Greatness.
 * 23 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:22
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:22
   :END:
 
 
@@ -436,9 +436,9 @@ His Goodness.
 * 24 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:23
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:23
   :END:
 
 
@@ -455,9 +455,9 @@ His Fulness.
 * 25 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:24
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:24
   :END:
 
 
@@ -477,9 +477,9 @@ Of stupidity."
 * 26 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:25
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:25
   :END:
 
 
@@ -499,9 +499,9 @@ Of sincerity."
 * 27 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:26
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:26
   :END:
 
 
@@ -521,9 +521,9 @@ Of humility."
 * 28 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:27
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:27
   :END:
 
 
@@ -542,9 +542,9 @@ My child."
 * 29 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:28
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:28
   :END:
 
 
@@ -563,9 +563,9 @@ My child."
 * 30 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:29
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:29
   :END:
 
 
@@ -584,9 +584,9 @@ My child."
 * 31 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:30
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:30
   :END:
 
 
@@ -602,9 +602,9 @@ A desire-beggar.
 * 32 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:31
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:31
   :END:
 
 
@@ -620,9 +620,9 @@ An aspiration-lover.
 * 33 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:32
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:32
   :END:
 
 
@@ -638,9 +638,9 @@ A Perfection-Dreamer.
 * 34 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:33
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:33
   :END:
 
 
@@ -657,9 +657,9 @@ For me.
 * 35 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:34
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:34
   :END:
 
 
@@ -675,9 +675,9 @@ God does not love me.
 * 36 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:35
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:35
   :END:
 
 
@@ -696,9 +696,9 @@ God even needs me.
 * 37 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:36
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:36
   :END:
 
 
@@ -715,9 +715,9 @@ Expectation-heart.
 * 38 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:37
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:37
   :END:
 
 
@@ -734,9 +734,9 @@ Aspiration-heart.
 * 39 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:38
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:38
   :END:
 
 
@@ -753,9 +753,9 @@ Emancipation-heart.
 * 40 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:39
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:39
   :END:
 
 
@@ -773,9 +773,9 @@ Human being.
 * 41 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:40
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:40
   :END:
 
 
@@ -794,9 +794,9 @@ Human being.
 * 42 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:41
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:41
   :END:
 
 
@@ -819,9 +819,9 @@ Human being.
 * 43 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:42
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:42
   :END:
 
 
@@ -839,9 +839,9 @@ In private.
 * 44 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:43
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:43
   :END:
 
 
@@ -861,9 +861,9 @@ In public.
 * 45 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:44
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:44
   :END:
 
 
@@ -882,9 +882,9 @@ Satisfaction-Smile.
 * 46 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:45
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:45
   :END:
 
 
@@ -901,9 +901,9 @@ Victory-roaring lion.
 * 47 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:46
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:46
   :END:
 
 
@@ -920,9 +920,9 @@ Lightning-speed-deer.
 * 48 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:47
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:47
   :END:
 
 
@@ -939,9 +939,9 @@ Fondness-lamb.
 * 49 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:48
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:48
   :END:
 
 
@@ -959,9 +959,9 @@ Soulfully.
 * 50 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:49
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:49
   :END:
 
 
@@ -979,9 +979,9 @@ Self-givingly.
 * 51 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:50
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:50
   :END:
 
 
@@ -998,9 +998,9 @@ His own Heart-Song.
 * 52 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:51
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:51
   :END:
 
 
@@ -1017,9 +1017,9 @@ Obedience.
 * 53 Today ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:52
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:52
   :END:
 
 
@@ -1037,9 +1037,9 @@ Eagerness.
 * 54 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:53
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:53
   :END:
 
 
@@ -1057,9 +1057,9 @@ And perfection.
 * 55 Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:54
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:54
   :END:
 
 
@@ -1075,9 +1075,9 @@ To be His spokesman.
 * 56 Today Also, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:55
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:55
   :END:
 
 
@@ -1093,9 +1093,9 @@ To play the same role.
 * 57 Tomorrow ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: YTT:56
+  :genre: poem
+  :keywords:
+  :cite-key: YTT:56
   :END:
 
 

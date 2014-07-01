@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0928
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PRHD
-  :GENRE: poem, discourse
-  :KEYWORDS:
+  :book-number: 0928
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: PRHD
+  :genre: poem, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * O My Poem, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PRHD:1
+  :genre: poem
+  :keywords:
+  :cite-key: PRHD:1
   :END:
 
 
@@ -49,9 +49,9 @@ Hide me in the waters of liberation-sea.
 * Society Of Writers Honours Sri Chinmoy At The United Nations
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: PRHD:2e1
+  :genre: preface
+  :keywords:
+  :cite-key: PRHD:2e1
   :END:
 
 
@@ -64,9 +64,9 @@ Hide me in the waters of liberation-sea.
 * On 30 March 1993 The United Nations...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PRHD:2e2
+  :genre: note
+  :keywords:
+  :cite-key: PRHD:2e2
   :END:
 
 
@@ -77,9 +77,9 @@ I do not know how I can possibly be worthy of this blessingful honour. I am know
 * The Golden Flute
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PRHD:2
+  :genre: poem
+  :keywords:
+  :cite-key: PRHD:2
   :END:
 
 
@@ -133,9 +133,9 @@ Of my heart-garden.
 * American Freedom In My Poetry
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PRHD:3
+  :genre: discourse
+  :keywords:
+  :cite-key: PRHD:3
   :END:
 
 
@@ -168,9 +168,9 @@ In India it is said that a real Brahmin does not have to show his sacred thread 
 * Poetry-Poem-Poet
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: PRHD:4e1
+  :genre: preface
+  :keywords:
+  :cite-key: PRHD:4e1
   :END:
 
 
@@ -181,9 +181,9 @@ In India it is said that a real Brahmin does not have to show his sacred thread 
 * Poetry And Prose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PRHD:4
+  :genre: discourse
+  :keywords:
+  :cite-key: PRHD:4
   :END:
 
 

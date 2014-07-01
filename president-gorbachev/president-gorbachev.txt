@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1406
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: PGHOS
-  :GENRE: song
+  :book-number: 1406
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: PGHOS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PGHOS:1e1
+  :genre: note
+  :cite-key: PGHOS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PGHOS:1e2
+  :genre: note
+  :cite-key: PGHOS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * One Life Became Two Lives
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1990
-  :CITE-KEY: PGHOS:1
+  :cite-key: PGHOS:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Silenced division-pain.
 * Gan Geye Ekatar Hat Dhare Sabakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-02-1990
-  :CITE-KEY: PGHOS:2
+  :cite-key: PGHOS:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Paramananda kripamoy majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 16-02-1990
-  :CITE-KEY: PGHOS:3
+  :cite-key: PGHOS:3
   :END:
 
 #+BEGIN_VERSE
@@ -100,10 +100,10 @@ Illumination-Boat Supreme.
 * O Peace Nobel Laureate, Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-11-1990
-  :CITE-KEY: PGHOS:4
+  :cite-key: PGHOS:4
   :END:
 
 #+BEGIN_VERSE
@@ -119,10 +119,10 @@ Gorbachev, freedom-joys are your outer lifts.
 * President Gorbachev, President
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-09-1991
-  :CITE-KEY: PGHOS:5
+  :cite-key: PGHOS:5
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ The world’s supreme good intent.
 * Mikhail Gorbachev, Mikhail
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-09-1991
-  :CITE-KEY: PGHOS:6
+  :cite-key: PGHOS:6
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ Oneness-dreamer and fulness-thrill.
 * Bhitar Jagate Asha Bahir Jagate Bhasha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-09-1991
-  :CITE-KEY: PGHOS:7
+  :cite-key: PGHOS:7
   :END:
 
 #+BEGIN_VERSE
@@ -172,10 +172,10 @@ Bahir jagate gaurab
 * Irina Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1993
-  :CITE-KEY: PGHOS:8
+  :cite-key: PGHOS:8
   :END:
 
 #+BEGIN_VERSE
@@ -191,10 +191,10 @@ Satisfaction-sun-glories from you start.
 * President Mikhail Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-05-1990
-  :CITE-KEY: PGHOS:9
+  :cite-key: PGHOS:9
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ The master-key of the global heart,
 * Rastrapati Gorbachev.. Dyuloker Bhuloker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-09-1990
-  :CITE-KEY: PGHOS:10
+  :cite-key: PGHOS:10
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Duniyar sabakar pantha kariyacho ala
 * President Gorbachev, Pilot Supreme of the Soviet Union
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-09-1990
-  :CITE-KEY: PGHOS:11
+  :cite-key: PGHOS:11
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Your soul is the world’s fondness-fulfilment-friend.
 * Priyatama Rastrapati Dharanir Hiya Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-08-1991
-  :CITE-KEY: PGHOS:12
+  :cite-key: PGHOS:12
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Dyuloker mahananda saurabh
 * Man of the Century
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:13
+  :cite-key: PGHOS:13
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Reality’s fulness — no empty dream.
 * Rastrapati Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-09-1991
-  :CITE-KEY: PGHOS:14
+  :cite-key: PGHOS:14
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Dharanir sarbottoma subhamati
 * Gorbachever Bijayer Gan Gahe Jena Sada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-09-1991
-  :CITE-KEY: PGHOS:15
+  :cite-key: PGHOS:15
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ Gahe jena sada abanir pran
 * Comrades Betrayed You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1991
-  :CITE-KEY: PGHOS:16
+  :cite-key: PGHOS:16
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ Hollowness-minds and darkness-hands.
 * Your Confidence-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1991
-  :CITE-KEY: PGHOS:17
+  :cite-key: PGHOS:17
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +360,10 @@ Smashed asunder the pride of ingratitude-night.
 * Union-Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1991
-  :CITE-KEY: PGHOS:18
+  :cite-key: PGHOS:18
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ To you bows low destruction-knife.
 * Self-Examination
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1991
-  :CITE-KEY: PGHOS:19
+  :cite-key: PGHOS:19
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Earth-illumination is your heart’s
 * Gorbachev Is Liberated
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1991
-  :CITE-KEY: PGHOS:20
+  :cite-key: PGHOS:20
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ And earth-blinding mind-knots.
 * President Gorbachev, a Man in a Million
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-02-2001
-  :CITE-KEY: PGHOS:21
+  :cite-key: PGHOS:21
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ Heaven’s splendour-enlightenment.
 * We Can Either Climb Together
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:22
+  :cite-key: PGHOS:22
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ We can either climb together or fall into the abyss.
 * Act According to the Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:23
+  :cite-key: PGHOS:23
   :END:
 
 #+BEGIN_VERSE
@@ -474,10 +474,10 @@ This is the most difficult science.
 * We Have Cast Off Many Fetters
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:24
+  :cite-key: PGHOS:24
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ we won’t return to our cage.
 * Man Is Beginning to Explore the Galaxy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:25
+  :cite-key: PGHOS:25
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ But how much remains undone of earth?
 * The Russians Deserve a Better Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PGHOS:26
+  :cite-key: PGHOS:26
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ The Russians deserve a better life. They will get that better life.
 * Raisa Maximovna Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-04-1992
-  :CITE-KEY: PGHOS:27
+  :cite-key: PGHOS:27
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +548,10 @@ The soul in whom our world thrives.
 * Raisa, O Rainbow Queen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-09-1990
-  :CITE-KEY: PGHOS:28
+  :cite-key: PGHOS:28
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Snow-white fondness,
 * First in Inspiration-Light to the President
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-09-1990
-  :CITE-KEY: PGHOS:29
+  :cite-key: PGHOS:29
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ First
 * Not in Front, Not Behind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1990
-  :CITE-KEY: PGHOS:30
+  :cite-key: PGHOS:30
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ And complete fulness-ride.
 * My Soviet Sisters
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-09-1990
-  :CITE-KEY: PGHOS:31
+  :cite-key: PGHOS:31
   :END:
 
 #+BEGIN_VERSE
@@ -648,10 +648,10 @@ The world must find.
 * I Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1992
-  :CITE-KEY: PGHOS:32
+  :cite-key: PGHOS:32
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ I Hope
 * The Test of Real Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1992
-  :CITE-KEY: PGHOS:33
+  :cite-key: PGHOS:33
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ The test of real life.
 * Things I Take to Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1992
-  :CITE-KEY: PGHOS:34
+  :cite-key: PGHOS:34
   :END:
 
 #+BEGIN_VERSE
@@ -699,10 +699,10 @@ Things I take to heart.
 * Irina Gorbachev
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-02-1992
-  :CITE-KEY: PGHOS:35
+  :cite-key: PGHOS:35
   :END:
 
 #+BEGIN_VERSE
@@ -717,10 +717,10 @@ Dao je amare rashi rashi rashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-02-1992
-  :CITE-KEY: PGHOS:36
+  :cite-key: PGHOS:36
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ You give them in abundant measure.
 * The Gorbachev Foundation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1992
-  :CITE-KEY: PGHOS:37
+  :cite-key: PGHOS:37
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Earth-tears and Heaven-Smiles oneness-throb.
 * Oneness-Dream-Boat-Shore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-09-1993
-  :CITE-KEY: PGHOS:38
+  :cite-key: PGHOS:38
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Supreme’s Sun-Smile-Core.
 * Soviet Union
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1990
-  :CITE-KEY: PGHOS:39
+  :cite-key: PGHOS:39
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Soviet Union.
 * U.S.S.R.
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-1991
-  :CITE-KEY: PGHOS:40
+  :cite-key: PGHOS:40
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ You are your glory Olympian.
 * Russia
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-04-2001
-  :CITE-KEY: PGHOS:41
+  :cite-key: PGHOS:41
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ Russia, Russia, Russia!
 * Russia Bharat Bharat Russia
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1990
-  :CITE-KEY: PGHOS:42
+  :cite-key: PGHOS:42
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ Chidakashe ati druta unnati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-09-1990
-  :CITE-KEY: PGHOS:43
+  :cite-key: PGHOS:43
   :END:
 
 #+BEGIN_VERSE
@@ -875,10 +875,10 @@ They are flying
 * Russia Uthecho Jagiya Timir Nashiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1990
-  :CITE-KEY: PGHOS:44
+  :cite-key: PGHOS:44
   :END:
 
 #+BEGIN_VERSE
@@ -893,10 +893,10 @@ Nijere ditecho tar jaya gane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-09-1990
-  :CITE-KEY: PGHOS:45
+  :cite-key: PGHOS:45
   :END:
 
 #+BEGIN_VERSE
@@ -918,10 +918,10 @@ And now you are sleeplessly
 * Ami Russian
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 11-11-1990
-  :CITE-KEY: PGHOS:46
+  :cite-key: PGHOS:46
   :END:
 
 #+BEGIN_VERSE
@@ -936,10 +936,10 @@ Shanti sagare nami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-11-1990
-  :CITE-KEY: PGHOS:47
+  :cite-key: PGHOS:47
   :END:
 
 #+BEGIN_VERSE
@@ -955,10 +955,10 @@ Diving in the sea of Peace.
 * Comrades, Dharo Hath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 03-11-1990
-  :CITE-KEY: PGHOS:48
+  :cite-key: PGHOS:48
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ Khunje pabo prithibhara antare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-11-1990
-  :CITE-KEY: PGHOS:49
+  :cite-key: PGHOS:49
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ We shall discover the Heart Universal,
 * I Am Russian, I Am American, I Am Indian
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-11-1989
-  :CITE-KEY: PGHOS:50
+  :cite-key: PGHOS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ On earth I start.
 * Kandiya Hasiya Turiya Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-07-1991
-  :CITE-KEY: PGHOS:51
+  :cite-key: PGHOS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Asim pathar Russia hiyar majhike
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-07-1991
-  :CITE-KEY: PGHOS:52
+  :cite-key: PGHOS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Of Russia’s heart-boat to the Golden Shore.
 * Moscow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-09-1991
-  :CITE-KEY: PGHOS:53
+  :cite-key: PGHOS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Pilgrim-souls’ sweet, fond affection.
 * East Germany, No More!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: PGHOS:54
+  :cite-key: PGHOS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1103,10 +1103,10 @@ the liberator of East Germany]
 * No More the Berlin Wall
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: PGHOS:55
+  :cite-key: PGHOS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1121,10 +1121,10 @@ Fondness-oneness-equal.
 * Long Twenty-Eight Years
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-11-1989
-  :CITE-KEY: PGHOS:56
+  :cite-key: PGHOS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1141,10 +1141,10 @@ Enjoys ecstasy’s flights.
 * Behold, Nowhere Barrier
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: PGHOS:57
+  :cite-key: PGHOS:57
   :END:
 
 #+BEGIN_VERSE

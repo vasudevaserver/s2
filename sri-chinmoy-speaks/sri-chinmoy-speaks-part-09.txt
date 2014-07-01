@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0283
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-9
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0283
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-9
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 Part I - Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:251e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:251e1
   :END:
   
   
@@ -32,9 +32,9 @@ Part I - Discourses
 * Sleep and aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:251
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:251
   :END:
 
 
@@ -53,9 +53,9 @@ If you can minimise the hours of sleep, it is very good. Too much sleep means yo
 * The inspiration-bird
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:252
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:252
   :END:
 
 
@@ -72,9 +72,9 @@ I started writing poems at the age of twelve. At that time I was at the mercy of
 * Cleanliness and purity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:253
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:253
   :END:
 
 
@@ -103,9 +103,9 @@ Usually when I travel or go to new places, I have several close disciples with m
 * Mental receptivity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:254
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:254
   :END:
 
 
@@ -126,9 +126,9 @@ Mind, heart and soul are like three brothers in a family. The soul is the eldest
 * Fear
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:255
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:255
   :END:
 
 
@@ -145,9 +145,9 @@ There is no limit to our fear. From any place it can enter into our existence. T
 * Fate and free will
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:256
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:256
   :END:
 
 
@@ -196,9 +196,9 @@ Our free will is a child of God's infinite Will and at the same time it is part 
 * Prison and prisoners
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:257
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:257
   :END:
 
 
@@ -221,9 +221,9 @@ There is every hope for a prisoner. His case is not lost. As long as creation ex
 * Imagination, inspiration, aspiration and realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:258
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:258
   :END:
 
 
@@ -276,9 +276,9 @@ Montreal \\
 * Part II - Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:259e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:259e1
   :END:
 
 
@@ -286,9 +286,9 @@ Montreal \\
 * Question: I had an experience last year. I don't know where I was, but I felt quite within myself and I turned into currents of water. The source of the water was coming from behind me, and I realised that if the source of the water had stopped, I wouldn't have existed. I wanted to look in back of me because it was all light but I was frightened to turn around, partly because I thought I'd break the connection and then I wouldn't exist any more, and partly because I thought it was a bit too bright. Was this all just imagination or did it have any spiritual significance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:259
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:259
   :END:
 
 
@@ -307,9 +307,9 @@ If the Vast plays its role in the tiniest drop, then this is a real miracle. Aga
 * Question: What is the meaning of maya?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:260
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:260
   :END:
 
 
@@ -320,9 +320,9 @@ If the Vast plays its role in the tiniest drop, then this is a real miracle. Aga
 * Question: What is /sahaja/ samadhi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:261
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:261
   :END:
  
 
@@ -333,9 +333,9 @@ If the Vast plays its role in the tiniest drop, then this is a real miracle. Aga
 * Question: What is the best way to bury the dead from the spiritual point of view?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:262
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:262
   :END:
 
 
@@ -348,9 +348,9 @@ You have heard about the Indian custom of the past. When the husbands died, sill
 * Question: How can we increase our receptivity in our inner life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:263
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:263
   :END:
 
 
@@ -363,9 +363,9 @@ Many of your near and dear ones are not following the spiritual life, but you ha
 * Question: I am a student of a Chinese Master, and my Master suggests that when we sleep we should recline on our right side, with one leg straight, and the other one tucked up, with the hand like this. I suppose it is like the images of Buddha. Do you feel that this is appropriate for sleep?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:264
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:264
   :END:
 
 

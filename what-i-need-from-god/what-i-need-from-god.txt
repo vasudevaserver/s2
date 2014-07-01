@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0489
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1982
-  :PUBLISHER: Agni Press
-  :CITE-KEY: WING
-  :GENRE: discourse, qa, interview
-  :KEYWORDS:
+  :book-number: 0489
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1982
+  :publisher: Agni Press
+  :cite-key: WING
+  :genre: discourse, qa, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: WING:1e1
+  :genre: note
+  :keywords:
+  :cite-key: WING:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Hawaii, Hawaii, Hawaii!...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WING:1
+  :genre: poem
+  :keywords:
+  :cite-key: WING:1
   :END:
 
 
@@ -59,9 +59,9 @@ In you find.
 * Five Soulful Friends
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WING:2
+  :genre: discourse
+  :keywords:
+  :cite-key: WING:2
   :END:
 
 
@@ -88,9 +88,9 @@ Honolulu, Hawaii
 * Hope
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WING:3
+  :genre: discourse
+  :keywords:
+  :cite-key: WING:3
   :END:
 
 
@@ -127,9 +127,9 @@ Honolulu, Hawaii
 * What I Need From God
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WING:4
+  :genre: discourse
+  :keywords:
+  :cite-key: WING:4
   :END:
 
 
@@ -162,9 +162,9 @@ Honolulu, Hawaii
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: WING:5e1
+  :genre: section
+  :keywords:
+  :cite-key: WING:5e1
   :END:
 
 
@@ -172,9 +172,9 @@ Honolulu, Hawaii
 * Question: How Do You Receive God’s Forgiveness?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WING:5
+  :genre: qa
+  :keywords:
+  :cite-key: WING:5
   :END:
 
 
@@ -189,9 +189,9 @@ This will be your only credential. In the ordinary life people have many credent
 * Question: Should We Feel That We Have...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WING:6
+  :genre: qa
+  :keywords:
+  :cite-key: WING:6
   :END:
 
 
@@ -206,9 +206,9 @@ As there is no difference between God and God’s Compassion or God and God’s 
 * Question: How Is It Possible To Take...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WING:7
+  :genre: qa
+  :keywords:
+  :cite-key: WING:7
   :END:
 
 
@@ -229,9 +229,9 @@ You are seeing people all around you who are wallowing in the pleasures of idlen
 * Question: When You Meditate And Inwardly Cry...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: WING:8
+  :genre: qa
+  :keywords:
+  :cite-key: WING:8
   :END:
 
 
@@ -252,9 +252,9 @@ So-called personal effort is necessary because we do not feel that God is consta
 * Peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WING:9
+  :genre: discourse
+  :keywords:
+  :cite-key: WING:9
   :END:
 
 
@@ -291,9 +291,9 @@ Honolulu, Hawaii
 * Interview On “Hawaii Health Line”
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:10
+  :genre: interview
+  :keywords:
+  :cite-key: WING:10
   :END:
 
 
@@ -301,9 +301,9 @@ Honolulu, Hawaii
 * Radio K108, Honolulu, Hawaii...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: WING:11e1
+  :genre: note
+  :keywords:
+  :cite-key: WING:11e1
   :END:
 
 
@@ -316,9 +316,9 @@ Radio K108, Honolulu, Hawaii
 * Interviewer: With Me In The Studio This...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:11
+  :genre: interview
+  :keywords:
+  :cite-key: WING:11
   :END:
 
 
@@ -333,9 +333,9 @@ Sri Chinmoy, welcome to “Hawaii Health Line.” There are a lot of questions t
 * Interviewer: Was Your Method Of Physical Fitness...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:12
+  :genre: interview
+  :keywords:
+  :cite-key: WING:12
   :END:
 
 
@@ -348,9 +348,9 @@ Sri Chinmoy, welcome to “Hawaii Health Line.” There are a lot of questions t
 * Interviewer: What About Your Musical Background?...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:13
+  :genre: interview
+  :keywords:
+  :cite-key: WING:13
   :END:
 
 
@@ -363,9 +363,9 @@ Sri Chinmoy, welcome to “Hawaii Health Line.” There are a lot of questions t
 * Interviewer: What Part Does Music Play In...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:14
+  :genre: interview
+  :keywords:
+  :cite-key: WING:14
   :END:
 
 
@@ -382,9 +382,9 @@ Sri Chinmoy, welcome to “Hawaii Health Line.” There are a lot of questions t
 * Interviewer: You Are Referred To As An...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:15
+  :genre: interview
+  :keywords:
+  :cite-key: WING:15
   :END:
 
 
@@ -401,9 +401,9 @@ Sri Chinmoy, welcome to “Hawaii Health Line.” There are a lot of questions t
 * Interviewer: The Term “Master” Is Something That...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:16
+  :genre: interview
+  :keywords:
+  :cite-key: WING:16
   :END:
 
 
@@ -422,9 +422,9 @@ If I know a little more than you do in one particular field, then I can help you
 * Interviewer: The Kind Of Surrender That You...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:17
+  :genre: interview
+  :keywords:
+  :cite-key: WING:17
   :END:
 
 
@@ -449,9 +449,9 @@ If I know a little more than you do in one particular field, then I can help you
 * Interviewer: Let’s Talk About The Path Of...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:18
+  :genre: interview
+  :keywords:
+  :cite-key: WING:18
   :END:
 
 
@@ -464,9 +464,9 @@ If I know a little more than you do in one particular field, then I can help you
 * Interviewer: Could You Take A Few Minutes...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:19
+  :genre: interview
+  :keywords:
+  :cite-key: WING:19
   :END:
 
 
@@ -481,9 +481,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Interviewer: What About Meditation Techniques?...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:20
+  :genre: interview
+  :keywords:
+  :cite-key: WING:20
   :END:
 
 
@@ -496,9 +496,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Interviewer: How About Regularity In Meditation?...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:21
+  :genre: interview
+  :keywords:
+  :cite-key: WING:21
   :END:
 
 
@@ -511,9 +511,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Interviewer: Would It Be A Good Idea...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:22
+  :genre: interview
+  :keywords:
+  :cite-key: WING:22
   :END:
 
 
@@ -526,9 +526,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Interviewer: There Are Several People In Our...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:23
+  :genre: interview
+  :keywords:
+  :cite-key: WING:23
   :END:
 
 
@@ -543,9 +543,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Caller: Why Are You Here Helping Americans...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:24
+  :genre: interview
+  :keywords:
+  :cite-key: WING:24
   :END:
 
 
@@ -558,9 +558,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Caller: I'm A Runner, And I've Seen...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:25
+  :genre: interview
+  :keywords:
+  :cite-key: WING:25
   :END:
 
 
@@ -573,9 +573,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Caller: I Find That When Sri Chinmoy...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:26
+  :genre: interview
+  :keywords:
+  :cite-key: WING:26
   :END:
 
 
@@ -588,9 +588,9 @@ Meditation always helps us to see the universal Truth, universal Beauty and univ
 * Interviewer: My Guest In The Studio Today...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: WING:27
+  :genre: interview
+  :keywords:
+  :cite-key: WING:27
   :END:
 
 

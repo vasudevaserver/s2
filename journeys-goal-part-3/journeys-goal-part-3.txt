@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 362
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1977
-  :PUBLISHER:
-  :CITE-KEY: JGS-3
-  :GENRE: song
+  :book-number: 362
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1977
+  :publisher:
+  :cite-key: JGS-3
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:691e1
+  :genre: note
+  :cite-key: JGS:691e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:691e2
+  :genre: note
+  :cite-key: JGS:691e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Na Pari Sahite Ar Dharanir Chhal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:691
+  :cite-key: JGS:691
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Na pari sahite ar tanu durbal
 * Kena Eta Durbhog Kena Eta Durjog Kena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:692
+  :cite-key: JGS:692
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ Kotha marma maral
 * Hriday Gahane Ghume Jagarane Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:693
+  :cite-key: JGS:693
   :END:
 
 #+BEGIN_VERSE
@@ -104,10 +104,10 @@ Tai shata byatha ban
 * Krodh Lobh Mahapap Bishader Uttap
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:694
+  :cite-key: JGS:694
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ Dusaha abanati
 * Dao More Sthan Dao More Sthan Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:695
+  :cite-key: JGS:695
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Shatek juger andhiyar nashi
 * Chalte Jani Balte Jani Tomar Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:696
+  :cite-key: JGS:696
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Bandho karo swaruper sandhani
 * Ami Jani Ami Jani Sab Kichu Chutibona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:697
+  :cite-key: JGS:697
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ More bandhe hasi diye paramesh
 * Ami Prashanto Ami Ananta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:698
+  :cite-key: JGS:698
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ Ananda prane chup
 * Bidyadan Bhalo Lage Anna Dan Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:699
+  :cite-key: JGS:699
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ Sama phuti atmatyage
 * Janite Chahina Nimner Byatha Urdher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:700
+  :cite-key: JGS:700
   :END:
 
 #+BEGIN_VERSE
@@ -238,10 +238,10 @@ Debatar parimal
 * Chahibar Shesh Ache Labhibar Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:701
+  :cite-key: JGS:701
   :END:
 
 #+BEGIN_VERSE
@@ -257,10 +257,10 @@ Hasibar shesh nai
 * Dharai Kichui Banchbena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:702
+  :cite-key: JGS:702
   :END:
 
 #+BEGIN_VERSE
@@ -276,10 +276,10 @@ Swarge kehai kandbena
 * Agni Pujari Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:703
+  :cite-key: JGS:703
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ Mor animesh dhyan
 * Ami Khoka Ami Boka Ei Mor Parichoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:704
+  :cite-key: JGS:704
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Shaswata sanchoy
 * Shudhur Sathe Halo Parichoy Taito Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:705
+  :cite-key: JGS:705
   :END:
 
 #+BEGIN_VERSE
@@ -333,10 +333,10 @@ Taito dekhi chaudike mor joy
 * Amare Abar Dharo Amare Ebar Maro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:706
+  :cite-key: JGS:706
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ Amare apan karo
 * Amar Jiban Majhare Neharite Chai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:707
+  :cite-key: JGS:707
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Kritagyatar adhare
 * Aro Niye Jao Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:708
+  :cite-key: JGS:708
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ Mukti ajike mor deha pran man
 * Jadi Tumi Baran Karo Andhar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:709
+  :cite-key: JGS:709
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Moher pane chhutbona
 * Amar Halo Bala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:710
+  :cite-key: JGS:710
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Prabhu animesh
 * Amare Bandhibo Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:711
+  :cite-key: JGS:711
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Tomare tushibo samarpaner bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:712
+  :cite-key: JGS:712
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ I shall satisfy You on the strength
 * Ei Jibaner Dal Pala Ei Paraner Phul Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:713
+  :cite-key: JGS:713
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ Pujbo shudhu habona ar klanto
 * Ke Amare Karbe Mana Amar Sabiy Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:714
+  :cite-key: JGS:714
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Sarbajoyi pratap rana
 * Ashru Dhara Ashru Dhara Tumi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:715
+  :cite-key: JGS:715
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Prabhu je hai daina sara
 * Hai... Sab Kichu Pran Chai Moher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:716
+  :cite-key: JGS:716
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ Dhara pralobhan adhara sadhan
 * Ami Chasha Ke Shunibe Mor Ashlil
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:717
+  :cite-key: JGS:717
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ Mor hiya nahi jache bhalobasa
 * Ami Boka Tai Bhugi Tai Kandi Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:718
+  :cite-key: JGS:718
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Charidike mor achetan ghor
 * Heri Amai Deshe Deshe Hese Hese Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:719
+  :cite-key: JGS:719
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Heri amai deshe deshe bhalobese
 * Kahar Sathe Kandbo Ami Kahar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:720
+  :cite-key: JGS:720
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ Prabhu tomar sathe tomar sathe
 * Bhalobasi Ami Tomar Charan Bhalobasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:721
+  :cite-key: JGS:721
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Bhalobasi ami tomar shasan
 * Moher Tane Chali Ami Moher Tane Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:722
+  :cite-key: JGS:722
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ Bedan bane bhasi ami bedan bane.
 * Apamane Apamane Parajoyer Tibra Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:723
+  :cite-key: JGS:723
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ Pabo tomai amar prane
 * Hiya Pakhi Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:724
+  :cite-key: JGS:724
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Mor akutir amarata
 * Ami Chahi Tai Ami Kandi Ami Kandi Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:725
+  :cite-key: JGS:725
   :END:
 
 #+BEGIN_VERSE
@@ -720,10 +720,10 @@ Nahi je apan kabhu keha
 * Bishwa Prabhu Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:726
+  :cite-key: JGS:726
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ Amai debe asim amarata
 * Kane Kane Pure Mane Sargo Lokher Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:727
+  :cite-key: JGS:727
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Kane kane spriha deshe saruper mor jani
 * Amar Jibane Ekti Asha Tomar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:728
+  :cite-key: JGS:728
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ Tomar hiyar premer bhasha
 * Naba Jibaner Abhijan Amrita Karo Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:729
+  :cite-key: JGS:729
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Amrita karo dan
 * Asha Ache Sathe Mor Habe Mor Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:730
+  :cite-key: JGS:730
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Habe mor pran bhor
 * Shuni Aji Shuni Maha Jibaner Gan Simar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:731
+  :cite-key: JGS:731
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Simar byathar halo aji abasan
 * Hetha Nai Hetha Nai Bhai Ami Asa Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:732
+  :cite-key: JGS:732
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Ami asa hai nai mor thai
 * Hasite Hasite Tomare Bandhite Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:733
+  :cite-key: JGS:733
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Tyager sagare amrita dekha pabo
 * Paran Amar Timir Chaya Jiban Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:734
+  :cite-key: JGS:734
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Jiban amar malin kaya
 * Bhubane Bhubane Ashar Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:735
+  :cite-key: JGS:735
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Neharite chai tomar charane
 * Ami Nahi Jibaner Parajoy Chhabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:736
+  :cite-key: JGS:736
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ Ami mor hridayer bhashwar rabi
 * Ashar Prate Chalbo Ami Tomar Abhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:737
+  :cite-key: JGS:737
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ Nirabata dare
 * Khelbo Ami Paran Bhare Tomar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:738
+  :cite-key: JGS:738
   :END:
 
 #+BEGIN_VERSE
@@ -949,10 +949,10 @@ Premer nire pujbo
 * Ar Katokal Baibo Ami Malinatar Bojha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:739
+  :cite-key: JGS:739
   :END:
 
 #+BEGIN_VERSE
@@ -968,10 +968,10 @@ Druta pade soja
 * Ebar Ami Nirab Habo Chapal Manas Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:740
+  :cite-key: JGS:740
   :END:
 
 #+BEGIN_VERSE
@@ -987,10 +987,10 @@ Raibe amar sane
 * Matha Amar Rakhbo Nichu Ei Chila
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:741
+  :cite-key: JGS:741
   :END:
 
 #+BEGIN_VERSE
@@ -1006,10 +1006,10 @@ Tai eta ullas
 * Ashar Bandhan Bhalo Lage Premer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:742
+  :cite-key: JGS:742
   :END:
 
 #+BEGIN_VERSE
@@ -1025,10 +1025,10 @@ Pran gabhire anurage
 * Amar E Gan Tushibe Sabar Pran Pushibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:743
+  :cite-key: JGS:743
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ Sasime asime shunaibe ek tan
 * Lukiye Theke Dekhbe Amai Eman Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:744
+  :cite-key: JGS:744
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Nai je aparadh
 * Chaowar Majhe Paowar Raje Paowar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:745
+  :cite-key: JGS:745
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Taito gan more gaowa
 * Chaowar Hate Dibana Dhara Paowar Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:746
+  :cite-key: JGS:746
   :END:
 
 #+BEGIN_VERSE
@@ -1100,10 +1100,10 @@ Mukta karo purna karo prabhu
 * Jiban Nadir Apur Pare Maran Benu Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:747
+  :cite-key: JGS:747
   :END:
 
 #+BEGIN_VERSE
@@ -1119,10 +1119,10 @@ Hiyar rakhal raje
 * Esecho Jakhan Thako Kayek Din Shunbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:748
+  :cite-key: JGS:748
   :END:
 
 #+BEGIN_VERSE
@@ -1138,10 +1138,10 @@ Dekho amar durbal hiya khin
 * Ebar Amai Laho Priya Laho Man Gahane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:749
+  :cite-key: JGS:749
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ Kripar thakur raho tumi raho
 * Bhenge Dao Mor Bhoy Gahite Tomar Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:750
+  :cite-key: JGS:750
   :END:
 
 #+BEGIN_VERSE
@@ -1176,10 +1176,10 @@ Shikhite tyager bhasha
 * Daya Kare Dakbe Ki Hai Dakbe Daya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:751
+  :cite-key: JGS:751
   :END:
 
 #+BEGIN_VERSE
@@ -1195,10 +1195,10 @@ Daya kare rakhbe ki hai rakhbe
 * Asha Kusum Phutbe Jani Phutbe Moher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:752
+  :cite-key: JGS:752
   :END:
 
 #+BEGIN_VERSE
@@ -1214,10 +1214,10 @@ Rupantarer banshi e prane shunbe
 * Naba Naba Rupe Jagi Paran Naba Naba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:753
+  :cite-key: JGS:753
   :END:
 
 #+BEGIN_VERSE
@@ -1233,10 +1233,10 @@ Naba naba rupe puji jibane
 * Janamer Ache Eshana Jibaner Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:754
+  :cite-key: JGS:754
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ Bidhatar achhe karuna
 * Biraha Rate Kandi Milan Dine Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:755
+  :cite-key: JGS:755
   :END:
 
 #+BEGIN_VERSE
@@ -1271,10 +1271,10 @@ Janbo milana sudha
 * Dakbo Abar Dakbo Kandbo Abar Kandbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:756
+  :cite-key: JGS:756
   :END:
 
 #+BEGIN_VERSE
@@ -1290,10 +1290,10 @@ Tomai abar pujbo
 * Jiban Amar Shukabena Maran Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:757
+  :cite-key: JGS:757
   :END:
 
 #+BEGIN_VERSE
@@ -1309,10 +1309,10 @@ Paowa amai bandhibena
 * Hasi Mukhe Tomar Sakal Adesh Aghat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:758
+  :cite-key: JGS:758
   :END:
 
 #+BEGIN_VERSE
@@ -1328,10 +1328,10 @@ Tomar paye phutbo
 * Maner Ashan Nahi Jachi Pran Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:759
+  :cite-key: JGS:759
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ Tomar bijoy kebal gahi
 * Abahele Jeona Prabhu Abahele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:760
+  :cite-key: JGS:760
   :END:
 
 #+BEGIN_VERSE
@@ -1366,10 +1366,10 @@ Param prabhu tomar ashesh kripa bale
 * Hatash Rati Ghumai Aji Ashar Prabhat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:761
+  :cite-key: JGS:761
   :END:
 
 #+BEGIN_VERSE
@@ -1385,10 +1385,10 @@ Bijoy bheri bajlo
 * Diner Swapan Dake Amai Rater Kandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:762
+  :cite-key: JGS:762
   :END:
 
 #+BEGIN_VERSE
@@ -1404,10 +1404,10 @@ Rater shaman hanke
 * Nutan Jatra Suru Ami Amar Guru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:763
+  :cite-key: JGS:763
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Agyanatar banshi
 * Sabar Sathe Phutbo Ami Sabar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:764
+  :cite-key: JGS:764
   :END:
 
 #+BEGIN_VERSE
@@ -1446,10 +1446,10 @@ Sabar sathe nachbo
 * Rater Buke Jatri Ami Parajayer Glani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:765
+  :cite-key: JGS:765
   :END:
 
 #+BEGIN_VERSE
@@ -1465,10 +1465,10 @@ Kemane kare mani
 * Sabar Sheshe Dak Diyecho Tai Karechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:766
+  :cite-key: JGS:766
   :END:
 
 #+BEGIN_VERSE
@@ -1484,10 +1484,10 @@ Tai peyechhi apaman
 * Tumi Mahashoy Tumi Mahashoy Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:767
+  :cite-key: JGS:767
   :END:
 
 #+BEGIN_VERSE
@@ -1503,10 +1503,10 @@ Tumi swarger amrita bhasha
 * Tomar Bhasha Tomar Asha Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:768
+  :cite-key: JGS:768
   :END:
 
 #+BEGIN_VERSE
@@ -1522,10 +1522,10 @@ Moha sarbonasha
 * Tomar Madhur Hasi Tomar Sneha Rashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:769
+  :cite-key: JGS:769
   :END:
 
 #+BEGIN_VERSE
@@ -1541,10 +1541,10 @@ Chahi tomai kebal
 * Tomar Kache Amai Ami Anbo Tomar Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:770
+  :cite-key: JGS:770
   :END:
 
 #+BEGIN_VERSE
@@ -1560,10 +1560,10 @@ Samarpaner mala diye nachbo
 * Tumi Sundaro Tumi Sundaro Premer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:771
+  :cite-key: JGS:771
   :END:
 
 #+BEGIN_VERSE
@@ -1579,10 +1579,10 @@ Sabar majhare labhi mor thai
 * Spriha Amar Bhalobasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:772
+  :cite-key: JGS:772
   :END:
 
 #+BEGIN_VERSE
@@ -1598,10 +1598,10 @@ Spriha amar prabhu pagal
 * Taba Aparup Arup Amai Kareche Chup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:773
+  :cite-key: JGS:773
   :END:
 
 #+BEGIN_VERSE
@@ -1617,10 +1617,10 @@ Mor hiya puto dhup
 * Tumi Chasha Tumi Chasha Tumi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:774
+  :cite-key: JGS:774
   :END:
 
 #+BEGIN_VERSE
@@ -1638,10 +1638,10 @@ Agyanatar moha nasha
 * Tumi Amar Premer Ratan Habo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:775
+  :cite-key: JGS:775
   :END:
 
 #+BEGIN_VERSE
@@ -1659,10 +1659,10 @@ Tomar kripa amar jiban
 * Sukher Lagi Kandi Jabe Dukkha Hese Koy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-05-1977
-  :CITE-KEY: JGS:776
+  :cite-key: JGS:776
   :END:
 
 #+BEGIN_VERSE
@@ -1678,10 +1678,10 @@ Amar parichoy
 * Swapan Akashe Uribo Baddha Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:777
+  :cite-key: JGS:777
   :END:
 
 #+BEGIN_VERSE
@@ -1695,10 +1695,10 @@ Baddha amire khulibo
 * Tomar Karuna Dhara Bhangibe Moher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:778
+  :cite-key: JGS:778
   :END:
 
 #+BEGIN_VERSE
@@ -1712,10 +1712,10 @@ Bhangibe moher kara
 * Sunil Akashe Uribo Sunil Sagare Nachibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:779
+  :cite-key: JGS:779
   :END:
 
 #+BEGIN_VERSE
@@ -1729,10 +1729,10 @@ Sunil sagare nachibo
 * Taba Pane Chahi Ami Taba Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:780
+  :cite-key: JGS:780
   :END:
 
 #+BEGIN_VERSE
@@ -1746,10 +1746,10 @@ Dharanir mangal prema gane
 * Sabha Jakhan Suru Habe Patbo Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:781
+  :cite-key: JGS:781
   :END:
 
 #+BEGIN_VERSE
@@ -1766,10 +1766,10 @@ Samarpaner mauna bani
 * Tomara Charana Tale Uthlo Phute Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:782
+  :cite-key: JGS:782
   :END:
 
 #+BEGIN_VERSE
@@ -1786,10 +1786,10 @@ Pelam ami kul
 * Phule Matan Phuti Ami Prabhat Bela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:783
+  :cite-key: JGS:783
   :END:
 
 #+BEGIN_VERSE
@@ -1805,10 +1805,10 @@ Kheli ami tarar khela
 * Tomai Ami Khunjbo Dibanishi Alor Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:784
+  :cite-key: JGS:784
   :END:
 
 #+BEGIN_VERSE
@@ -1824,10 +1824,10 @@ Tomar kripa bhare
 * Toma Lagi Rahi Jagi Taba Barabhoy Magi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:785
+  :cite-key: JGS:785
   :END:
 
 #+BEGIN_VERSE
@@ -1843,10 +1843,10 @@ Hiya majhe diba rate
 * Tomar Sathe Nitya Amar Apan Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:786
+  :cite-key: JGS:786
   :END:
 
 #+BEGIN_VERSE
@@ -1862,10 +1862,10 @@ Tabu dake agyanatar phasi
 * Prem Sagare Dub Dibo Aj Prem Sagare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:787
+  :cite-key: JGS:787
   :END:
 
 #+BEGIN_VERSE
@@ -1881,10 +1881,10 @@ Pran samare
 * Tomar Sathe Jog Dite Aj Esechi Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-08-1977
-  :CITE-KEY: JGS:788
+  :cite-key: JGS:788
   :END:
 
 #+BEGIN_VERSE

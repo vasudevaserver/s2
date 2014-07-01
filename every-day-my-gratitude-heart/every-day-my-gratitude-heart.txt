@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1117
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: EDGH
-  :GENRE: song
+  :book-number: 1117
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: EDGH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EDGH:1e1
+  :genre: note
+  :cite-key: EDGH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EDGH:1e2
+  :genre: note
+  :cite-key: EDGH:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Mind’s Newness-Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:1
+  :cite-key: EDGH:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ My heart’s fulness-fragrance I need.
 * Repeated Failures
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:2
+  :cite-key: EDGH:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ But Your Displeasure-Face can.
 * Each Soulful Thought of Mine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:3
+  :cite-key: EDGH:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ To mankind’s perfection-life.
 * Every Day My Gratitude-Heart and I
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:4
+  :cite-key: EDGH:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Decorate the Feet of our Lord Supreme.
 * O World’s Purity-Flower-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:5
+  :cite-key: EDGH:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Where are you not?
 * No Human Mind Can Enter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:6
+  :cite-key: EDGH:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ A thought-free Silence-Beyond.
 * God I Invoke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:7
+  :cite-key: EDGH:7
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ To His all-blossoming Shore.
 * With My Aspiration-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:8
+  :cite-key: EDGH:8
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ I become a member of God’s family.
 * The Whisper of Silence-Beyond
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:9
+  :cite-key: EDGH:9
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ From its death-bound sleep.
 * A Self-Giving Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:10
+  :cite-key: EDGH:10
   :END:
 
 #+BEGIN_VERSE
@@ -221,10 +221,10 @@ Is the fastest upward climb.
 * My Lord, Give Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:11
+  :cite-key: EDGH:11
   :END:
 
 #+BEGIN_VERSE
@@ -242,10 +242,10 @@ Give me a worry-free life.
 * O God, the Compassion-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:12
+  :cite-key: EDGH:12
   :END:
 
 #+BEGIN_VERSE
@@ -259,10 +259,10 @@ Do not, do not, from me withdraw.
 * My Heart Breathlessly Needs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:13
+  :cite-key: EDGH:13
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ To hear from Your Heart.
 * In a Moment’s Ticking
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:14
+  :cite-key: EDGH:14
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ Of course, if He wants to!
 * My Lord, Sulking I Came to You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:15
+  :cite-key: EDGH:15
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ Smiling I am returning.
 * My Forgiveness-Lord Is Begging Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:16
+  :cite-key: EDGH:16
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ To steal into His Heart.
 * My Life’s Perfection-Promise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:17
+  :cite-key: EDGH:17
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ My life’s perfection-promise.
 * My Mind Needs Self-Awareness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:18
+  :cite-key: EDGH:18
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ My heart needs God-fulness.
 * Alas, I Am My God-Disobedience
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:19
+  :cite-key: EDGH:19
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ I am my God-disobedience
 * O Peace-Robber Anxiety
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-04-1993
-  :CITE-KEY: EDGH:20
+  :cite-key: EDGH:20
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Another happiness-heart.
 * Our Oneness-Heart World-Ecstasy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-12-1992
-  :CITE-KEY: EDGH:21
+  :cite-key: EDGH:21
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ And not a division-mind world-supremacy.
 * Who Am I? Who Am I?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1993
-  :CITE-KEY: EDGH:22
+  :cite-key: EDGH:22
   :END:
 
 #+BEGIN_VERSE
@@ -437,10 +437,10 @@ I am a God-growing man.
 * A Gratitude-Heart Is a Master Key
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1993
-  :CITE-KEY: EDGH:23
+  :cite-key: EDGH:23
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ It can open any heart.
 * God the Eye Threatens the Proud
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1993
-  :CITE-KEY: EDGH:24
+  :cite-key: EDGH:24
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ God the Heart transforms the proud.
 * God May Not Be Measurable
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1993
-  :CITE-KEY: EDGH:25
+  :cite-key: EDGH:25
   :END:
 
 #+BEGIN_VERSE
@@ -488,10 +488,10 @@ But he is always lovable.
 * Each Good Thought Is a Peace of Heaven (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1993
-  :CITE-KEY: EDGH:26
+  :cite-key: EDGH:26
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Wherever he goes.
 * My Heart Has Emptied Its Hands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:27
+  :cite-key: EDGH:27
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ To fold them prayerfully.
 * I Talk and Talk with My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:28
+  :cite-key: EDGH:28
   :END:
 
 #+BEGIN_VERSE
@@ -542,10 +542,10 @@ Finds my life always busy.
 * Each Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:29
+  :cite-key: EDGH:29
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ A smiling choice or a crying voice.
 * God Smiles at My Expensive Gift
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:30
+  :cite-key: EDGH:30
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ For my expensive heart.
 * I Proudly Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:31
+  :cite-key: EDGH:31
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ My heart’s sacred silence-life.
 * My Heart’s Faith-Radiance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:32
+  :cite-key: EDGH:32
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ Feeds my life every day.
 * Thought Takes Birth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:33
+  :cite-key: EDGH:33
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ And my peaceful heart dies immediately.
 * I Have Chosen God the Eternal Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1992
-  :CITE-KEY: EDGH:34
+  :cite-key: EDGH:34
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ And not God the Absolute Father.
 * Willingness Is My Heart’s Best Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1991
-  :CITE-KEY: EDGH:35
+  :cite-key: EDGH:35
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Unwillingness is my mind’s worst defeat.
 * My Self-Admiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1991
-  :CITE-KEY: EDGH:36
+  :cite-key: EDGH:36
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Is my God-starvation.
 * My Love of God Has Many Rivals
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-03-1991
-  :CITE-KEY: EDGH:37
+  :cite-key: EDGH:37
   :END:
 
 #+BEGIN_VERSE
@@ -697,10 +697,10 @@ But no critics.
 * Oneness-Heart-Children (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-03-1991
-  :CITE-KEY: EDGH:38
+  :cite-key: EDGH:38
   :END:
 
 #+BEGIN_VERSE
@@ -714,10 +714,10 @@ Have their homes everywhere.
 * Justice-Glasses (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-03-1991
-  :CITE-KEY: EDGH:39
+  :cite-key: EDGH:39
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ Never uses Justice-Glasses.
 * What My Heart Needs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-03-1991
-  :CITE-KEY: EDGH:40
+  :cite-key: EDGH:40
   :END:
 
 #+BEGIN_VERSE
@@ -749,10 +749,10 @@ And not cosmetic beauty.
 * No Sincerity-Prayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1991
-  :CITE-KEY: EDGH:41
+  :cite-key: EDGH:41
   :END:
 
 #+BEGIN_VERSE
@@ -767,10 +767,10 @@ By my Lord Supreme.
 * Surrender-Light I Have
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-03-1991
-  :CITE-KEY: EDGH:42
+  :cite-key: EDGH:42
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Oneness-bliss I am.
 * My First Choice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-04-1991
-  :CITE-KEY: EDGH:43
+  :cite-key: EDGH:43
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ God’s Protection-Hands.
 * Truth Is in All (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-07-1993
-  :CITE-KEY: EDGH:44
+  :cite-key: EDGH:44
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ But love is all.
 * Poets Are Born
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:45
+  :cite-key: EDGH:45
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ But doctors are made.
 * Politeness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:46
+  :cite-key: EDGH:46
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ Politeness is the flower of humanity.
 * Poverty Is No Disgrace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:47
+  :cite-key: EDGH:47
   :END:
 
 #+BEGIN_VERSE
@@ -871,10 +871,10 @@ Poverty is no disgrace.
 * Poverty Is Not a Sin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:48
+  :cite-key: EDGH:48
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ Poverty is not a sin.
 * Power Always Corrupts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:49
+  :cite-key: EDGH:49
   :END:
 
 #+BEGIN_VERSE
@@ -904,10 +904,10 @@ Power always corrupts.
 * Praise the Sea
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:50
+  :cite-key: EDGH:50
   :END:
 
 #+BEGIN_VERSE
@@ -921,10 +921,10 @@ But on shore remain.
 * Prayer Is the Voice of Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:51
+  :cite-key: EDGH:51
   :END:
 
 #+BEGIN_VERSE
@@ -937,10 +937,10 @@ Prayer is the voice of faith.
 * Presents Keep Friendships Warm
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:52
+  :cite-key: EDGH:52
   :END:
 
 #+BEGIN_VERSE
@@ -954,10 +954,10 @@ Presents keep friendships warm.
 * Pride and Laziness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:53
+  :cite-key: EDGH:53
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ Can never run uphill.
 * Pride Goes Before Destruction
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:54
+  :cite-key: EDGH:54
   :END:
 
 #+BEGIN_VERSE
@@ -987,10 +987,10 @@ Pride goes before destruction.
 * Pride Must Be Impeached
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:55
+  :cite-key: EDGH:55
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ Pride must be impeached.
 * Promise Little, But Do Much
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:56
+  :cite-key: EDGH:56
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1019,10 @@ Promise little, but do much.
 * Prosperity Makes Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: EDGH:57
+  :cite-key: EDGH:57
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1347
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2000
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-23
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1347
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2000
+  :publisher: Agni Press
+  :cite-key: SCA-23
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:772e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:772e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: How can we create and then maintain a warrior-like attitude towards overcoming our weaknesses? [fn:SCA-772]
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:772
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:772
   :END:
 
 
@@ -105,9 +105,9 @@ Ignorance is trying to catch us, but we are running away at the fastest speed. W
 * Question: How can we have more newness in our lives? [fn:SCA-773]
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:773
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:773
   :END:
 
 
@@ -156,9 +156,9 @@ Always use the heart. The heart is always carrying newness, whereas the mind is 
 * Part II [fn:SCA-774-782]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:774e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:774e1
   :END:
 
 
@@ -168,9 +168,9 @@ Always use the heart. The heart is always carrying newness, whereas the mind is 
 * /Mrs. Tripathi:/ What was it that drew you towards the spiritual path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:774
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:774
   :END:
 
 
@@ -197,9 +197,9 @@ This is my life in a nutshell. If you have any specific questions, I will be ext
 * /Mrs. Tripathi:/ As you mentioned, we are all seekers in some way or another, in our own little fashion. But how does one know if one is making any spiritual progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:775
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:775
   :END:
 
 
@@ -218,9 +218,9 @@ So we can make progress provided we want to conquer our limitations. We have com
 * /Mrs. Tripathi:/ Does that mean, then, to be a better human being is consistent with spiritual progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:776
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:776
   :END:
 
 
@@ -237,9 +237,9 @@ So the acceptance of life is now our philosophy, not the rejection of life. If t
 * /Mrs. Tripathi:/ Creative expression is also a form of /bhakti/, don't you think? You yourself are an artist in many ways. That is also a form of /bhakti/, isn't it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:777
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:777
   :END:
 
 
@@ -254,9 +254,9 @@ But the more material wealth we get, the quicker we bind ourselves. Whereas, if 
 *  "Whatever He gives me, immediately I offer back to Him" [fn:SCA-778]
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: SCA:778
+  :genre: remark
+  :keywords:
+  :cite-key: SCA:778
   :END:
 
 
@@ -287,9 +287,9 @@ By the Grace of God, whatever we planned turned out right -- everything, every a
 * "When we see and feel that Somebody else is doing it"
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:779
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:779
   :END:
 
 /Sri Chinmoy:/ When we see and feel that Somebody else is doing it, then we do not have to worry at all because we are not responsible. If Somebody is doing something in and through me, it is up to Him to accept success and failure.
@@ -313,9 +313,9 @@ When S.K. Roy asked me if I knew him, I said, "Dilip Roy? Yes." Then I told him 
 * /Mrs. Tripathi:/ Your brother is still in the ashram?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:780
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:780
   :END:
 
 
@@ -326,9 +326,9 @@ When S.K. Roy asked me if I knew him, I said, "Dilip Roy? Yes." Then I told him 
 * "Encouragement is of paramount importance" [fn:SCA-781]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:781
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:781
   :END:
 
 
@@ -348,9 +348,9 @@ Everywhere I have been encouraged, encouraged. Here, when I started composing so
 * /Mrs. Tripathi:/ I must say, your singers sang such beautiful bhajans on the 2nd of October for the observance of Gandhi's birthday at the Gandhi statue in Manhattan.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:782
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:782
   :END:
 
 
@@ -375,9 +375,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * Part III [fn:SCA-783-801]
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:783e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:783e1
   :END:
 
 
@@ -387,9 +387,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * /Interviewer:/ Sri Chinmoy, please tell me about yourself. Where were you born?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:783
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:783
   :END:
 
 
@@ -400,9 +400,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * /Interviewer:/ What kind of education did they have to offer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:784
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:784
   :END:
 
 
@@ -413,9 +413,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * /Interviewer:/ Your parents were with you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:785
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:785
   :END:
 
 
@@ -426,9 +426,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * /Interviewer:/ Why did you leave Pondicherry?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:786
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:786
   :END:
 
 
@@ -439,9 +439,9 @@ Our philosophy is progress, progress, progress and self-transcendence. What you 
 * /Interviewer:/ What did you have in your mind before going to America? What made you accept their invitation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:787
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:787
   :END:
 
 
@@ -458,9 +458,9 @@ Then I got my green card so I could remain in America permanently. Over the year
 * /Interviewer:/ But you didn't have any formal association with any organisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:788
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:788
   :END:
 
 
@@ -479,9 +479,9 @@ Then I got my green card so I could remain in America permanently. Over the year
 * /Interviewer:/ What is this peace mission? What has been your contribution?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:789
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:789
   :END:
 
 
@@ -494,9 +494,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ How does meditation help in this peace mission of yours?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:790
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:790
   :END:
 
 
@@ -507,9 +507,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ So you allow their inner feelings to come forward.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:791
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:791
   :END:
 
 
@@ -520,9 +520,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ Regarding your peace movement, which countries have become peace-blossom-nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:792
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:792
   :END:
 
 
@@ -533,9 +533,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ Do you travel a lot to these countries?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:793
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:793
   :END:
 
 
@@ -546,9 +546,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ So your disciples are spreading your mission in these countries?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:794
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:794
   :END:
 
 
@@ -559,9 +559,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ I would like to know your philosophy very briefly.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:795
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:795
   :END:
 
 
@@ -572,9 +572,9 @@ Our mission is like a plant, growing and growing and growing. The seed was sown 
 * /Interviewer:/ So you feel that peace is going to come about by offering goodwill to each and every human being?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:796
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:796
   :END:
 
 
@@ -589,9 +589,9 @@ My philosophy is the acceptance of life. We have to accept life -- not run away 
 * /Interviewer:/ How does music play a role in what you are doing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:797
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:797
   :END:
 
 
@@ -602,9 +602,9 @@ My philosophy is the acceptance of life. We have to accept life -- not run away 
 * /Interviewer:/ I understand that one can appreciate music without knowing the language. But what I wish to understand is how it helps your peace mission.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:798
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:798
   :END:
 
 
@@ -617,9 +617,9 @@ As I said before, our task is to inspire each other. Music, art and other things
 * /Interviewer:/ I understand that you are a champion weightlifter.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:799
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:799
   :END:
 
 
@@ -642,9 +642,9 @@ As I said before, our task is to inspire each other. Music, art and other things
 * /Interviewer:/ Are you taking any training in weightlifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:800
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:800
   :END:
 
 
@@ -657,9 +657,9 @@ As I said, the acceptance of life in its various branches is my philosophy. Othe
 * /Interviewer:/ You attribute all your success to God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:801
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:801
   :END:
 
 
@@ -670,9 +670,9 @@ As I said, the acceptance of life in its various branches is my philosophy. Othe
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:802e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:802e1
   :END:
 
 [fn:SCA-772] SCA 772. Sri Chinmoy answered this question on 3 February 2000 in New York.

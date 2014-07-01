@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 778
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1990
-  :PUBLISHER:
-  :CITE-KEY: IFHS
-  :GENRE: song
+  :book-number: 778
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1990
+  :publisher:
+  :cite-key: IFHS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IFHS:1e1
+  :genre: note
+  :cite-key: IFHS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IFHS:1e2
+  :genre: note
+  :cite-key: IFHS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Fly in the Heart-Sky (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:1
+  :cite-key: IFHS:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Of my dear Supreme.
 * I Fly in the Heart-Sky (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:2
+  :cite-key: IFHS:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:3
+  :cite-key: IFHS:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:4
+  :cite-key: IFHS:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (5)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:5
+  :cite-key: IFHS:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (6)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:6
+  :cite-key: IFHS:6
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (7)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-06-1988
-  :CITE-KEY: IFHS:7
+  :cite-key: IFHS:7
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (8)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:8
+  :cite-key: IFHS:8
   :END:
 
 #+BEGIN_VERSE
@@ -169,10 +169,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (9)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:9
+  :cite-key: IFHS:9
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (10)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:10
+  :cite-key: IFHS:10
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Of my dear Supreme.
 * I Fly in the Heart-Sky (11)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:11
+  :cite-key: IFHS:11
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (12)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:12
+  :cite-key: IFHS:12
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Of my dear Supreme.
 * I Fly in the Heart-Sky (13)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:13
+  :cite-key: IFHS:13
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Of my dear Supreme.
 * I Fly in the Heart-Sky (14)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1988
-  :CITE-KEY: IFHS:14
+  :cite-key: IFHS:14
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (15)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:15
+  :cite-key: IFHS:15
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (16)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:16
+  :cite-key: IFHS:16
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (17)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:17
+  :cite-key: IFHS:17
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (18)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:18
+  :cite-key: IFHS:18
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (19)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:19
+  :cite-key: IFHS:19
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (20)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:20
+  :cite-key: IFHS:20
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (21)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:21
+  :cite-key: IFHS:21
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (22)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:22
+  :cite-key: IFHS:22
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (23)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:23
+  :cite-key: IFHS:23
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (24)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:24
+  :cite-key: IFHS:24
   :END:
 
 #+BEGIN_VERSE
@@ -428,10 +428,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly Iin the Heart-Sky (25)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:25
+  :cite-key: IFHS:25
   :END:
 
 #+BEGIN_VERSE
@@ -444,10 +444,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (26)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:26
+  :cite-key: IFHS:26
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (27)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-06-1988
-  :CITE-KEY: IFHS:27
+  :cite-key: IFHS:27
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (28)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:28
+  :cite-key: IFHS:28
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (29)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:29
+  :cite-key: IFHS:29
   :END:
 
 #+BEGIN_VERSE
@@ -508,10 +508,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (30)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:30
+  :cite-key: IFHS:30
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (31)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:31
+  :cite-key: IFHS:31
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (32)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:32
+  :cite-key: IFHS:32
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (33)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:33
+  :cite-key: IFHS:33
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (34)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:34
+  :cite-key: IFHS:34
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (35)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:35
+  :cite-key: IFHS:35
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (36)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:36
+  :cite-key: IFHS:36
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (37)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:37
+  :cite-key: IFHS:37
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (38)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:38
+  :cite-key: IFHS:38
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (39)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:39
+  :cite-key: IFHS:39
   :END:
 
 #+BEGIN_VERSE
@@ -668,10 +668,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (40)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:40
+  :cite-key: IFHS:40
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ I fly in the Heart-Sky of my Dear Supreme.
 * I Fly in the Heart-Sky (41)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:41
+  :cite-key: IFHS:41
   :END:
 
 #+BEGIN_VERSE
@@ -700,10 +700,10 @@ I fly in the Heart-Sky of my Dear Supreme.
 * I Fly in the Heart-Sky (42)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:42
+  :cite-key: IFHS:42
   :END:
 
 #+BEGIN_VERSE
@@ -716,10 +716,10 @@ I fly in the Heart-Sky of my Dear Supreme.
 * I Fly in the Heart-Sky (43)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:43
+  :cite-key: IFHS:43
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ I fly in the Heart-Sky of my Dear Supreme.
 * I Fly in the Heart-Sky (44)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:44
+  :cite-key: IFHS:44
   :END:
 
 #+BEGIN_VERSE
@@ -748,10 +748,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (45)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:45
+  :cite-key: IFHS:45
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (46)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:46
+  :cite-key: IFHS:46
   :END:
 
 #+BEGIN_VERSE
@@ -780,10 +780,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (47)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1988
-  :CITE-KEY: IFHS:47
+  :cite-key: IFHS:47
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (48)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:48
+  :cite-key: IFHS:48
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (49)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:49
+  :cite-key: IFHS:49
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (50)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:50
+  :cite-key: IFHS:50
   :END:
 
 #+BEGIN_VERSE
@@ -844,10 +844,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (51)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:51
+  :cite-key: IFHS:51
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (52)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:52
+  :cite-key: IFHS:52
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (52)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:53
+  :cite-key: IFHS:53
   :END:
 
 #+BEGIN_VERSE
@@ -892,10 +892,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (54)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-06-1988
-  :CITE-KEY: IFHS:54
+  :cite-key: IFHS:54
   :END:
 
 #+BEGIN_VERSE
@@ -908,10 +908,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (55)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-06-1988
-  :CITE-KEY: IFHS:55
+  :cite-key: IFHS:55
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (56)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-06-1988
-  :CITE-KEY: IFHS:56
+  :cite-key: IFHS:56
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (57)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:57
+  :cite-key: IFHS:57
   :END:
 
 #+BEGIN_VERSE
@@ -956,10 +956,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (58)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:58
+  :cite-key: IFHS:58
   :END:
 
 #+BEGIN_VERSE
@@ -972,10 +972,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (59)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:59
+  :cite-key: IFHS:59
   :END:
 
 #+BEGIN_VERSE
@@ -988,10 +988,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (60)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:60
+  :cite-key: IFHS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1004,10 +1004,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (61)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:61
+  :cite-key: IFHS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1020,10 +1020,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (62)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:62
+  :cite-key: IFHS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (63)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:63
+  :cite-key: IFHS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1052,10 +1052,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (64)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:64
+  :cite-key: IFHS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1068,10 +1068,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (65)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:65
+  :cite-key: IFHS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1084,10 +1084,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (66)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:66
+  :cite-key: IFHS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1100,10 +1100,10 @@ I fly in the heart-sky of my Dear Supreme.
 * I Fly in the Heart-Sky (67)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-06-1988
-  :CITE-KEY: IFHS:67
+  :cite-key: IFHS:67
   :END:
 
 #+BEGIN_VERSE

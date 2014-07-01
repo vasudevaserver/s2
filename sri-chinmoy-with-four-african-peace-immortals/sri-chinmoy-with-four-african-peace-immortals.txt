@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1111
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1996
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCFA
-  :GENRE: interview
-  :KEYWORDS:
+  :book-number: 1111
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1996
+  :publisher: Agni Press
+  :cite-key: SCFA
+  :genre: interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Meeting With Archbishop Desmond Tutu
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCFA:1
+  :genre: interview
+  :keywords:
+  :cite-key: SCFA:1
   :END:
 
 
@@ -119,10 +119,10 @@ Dec. 20th, 1995\\
 * Meeting With His Excellency Comrade Robert Mugabe                             :noexport:
 
   :PROPERTIES:
-  :GENRE: interview
+  :genre: interview
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: SCFA:2
+  :keywords:
+  :cite-key: SCFA:2
   :END:
 
 First Prime Minister of Zimbabwe (1980-88) \\
@@ -239,9 +239,9 @@ We most fervently pray to the Almighty God to bless you with every opportunity t
 * Meeting With King Goodwill Zwelithini
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCFA:3
+  :genre: interview
+  :keywords:
+  :cite-key: SCFA:3
   :END:
 
 
@@ -291,9 +291,9 @@ I would now like to read the text of the plaque which is here on stage, and to p
 * Meeting With President Nelson Mandela
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCFA:4
+  :genre: interview
+  :keywords:
+  :cite-key: SCFA:4
   :END:
 
 
@@ -410,9 +410,9 @@ Sri Chinmoy: Now we will end with a short song I have composed in honour of Afri
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCFA:5
+  :genre: interview
+  :keywords:
+  :cite-key: SCFA:5
   :END:
 
 

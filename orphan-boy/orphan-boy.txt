@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 3014
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: t
-  :YEAR: 1998
-  :PUBLISHER: Agni Press
-  :CITE-KEY: OB
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 3014
+  :author: Sri Chinmoy
+  :original-edition: t
+  :year: 1998
+  :publisher: Agni Press
+  :cite-key: OB
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -24,9 +24,9 @@
 * An orphan boy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS: autobiography
-  :CITE-KEY: OB:1
+  :genre: poem
+  :keywords: autobiography
+  :cite-key: OB:1
   :END:
 
 
@@ -91,9 +91,9 @@ His Absolute Lord commanded him
 * Sri Chinmoy's commentary on "An orphan boy"
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: OB:2
+  :genre: discourse
+  :keywords:
+  :cite-key: OB:2
   :END:
 
 
@@ -134,9 +134,9 @@ Now I can forget about the sadness of the poem. Excruciating pangs let us forget
 * Notes from the editors
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: OB:3e
+  :genre: note
+  :keywords:
+  :cite-key: OB:3e
   :END:
 
 

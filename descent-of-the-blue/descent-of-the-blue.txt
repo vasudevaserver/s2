@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 3000
-  :AUTHOR: Chinmoy Kumar Ghose
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Sri Chinmoy Lighthouse
-  :CITE-KEY: DB
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 3000
+  :author: Chinmoy Kumar Ghose
+  :original-edition: True
+  :year: 1972
+  :publisher: Sri Chinmoy Lighthouse
+  :cite-key: DB
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:1
+  :genre: play
+  :keywords:
+  :cite-key: DB:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:2
+  :genre: play
+  :keywords:
+  :cite-key: DB:2
   :END:
 
 
@@ -105,9 +105,9 @@ THE INFINITE: I will found thy supernal Kingdom on the neglected earth.
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:3
+  :genre: play
+  :keywords:
+  :cite-key: DB:3
   :END:
 
 
@@ -173,9 +173,9 @@ SWARNA: /(With tears streaming)/ Alas! him to call an atheist whose heart is a s
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:4
+  :genre: play
+  :keywords:
+  :cite-key: DB:4
   :END:
 
 
@@ -209,9 +209,9 @@ SWARNA: /(With tears streaming)/ Alas! him to call an atheist whose heart is a s
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:5
+  :genre: play
+  :keywords:
+  :cite-key: DB:5
   :END:
 
 
@@ -238,9 +238,9 @@ SWARNA: Father, you are my greatest pride. You stand very high in the estimation
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:6
+  :genre: play
+  :keywords:
+  :cite-key: DB:6
   :END:
 
 
@@ -295,9 +295,9 @@ MANOMOHAN: I see nothing wrong in her dream. You are a pessimist from head to fo
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:7
+  :genre: play
+  :keywords:
+  :cite-key: DB:7
   :END:
 
 
@@ -322,9 +322,9 @@ RISHI: My daughter, do not look at him with your earthly eyes. To me he remains 
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:8
+  :genre: play
+  :keywords:
+  :cite-key: DB:8
   :END:
 
 
@@ -359,9 +359,9 @@ SWARNA: I am sorry. It is not in me to cross you. But you have given me a great 
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:9
+  :genre: play
+  :keywords:
+  :cite-key: DB:9
   :END:
 
 
@@ -396,9 +396,9 @@ SANNYASIN: No wonder, he is not a common boy. He will be a great Yogi who has to
 * Act II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:10
+  :genre: play
+  :keywords:
+  :cite-key: DB:10
   :END:
 
 
@@ -406,9 +406,9 @@ SANNYASIN: No wonder, he is not a common boy. He will be a great Yogi who has to
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:11
+  :genre: play
+  :keywords:
+  :cite-key: DB:11
   :END:
 
 
@@ -447,9 +447,9 @@ MR. DREWETT: Well, "Deus" and "Dea." What made you ask this, my boy?
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:12
+  :genre: play
+  :keywords:
+  :cite-key: DB:12
   :END:
 
 
@@ -466,9 +466,9 @@ HEADMASTER: I am proud of him, for he belongs to our school. And he is so loving
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:13
+  :genre: play
+  :keywords:
+  :cite-key: DB:13
   :END:
 
 
@@ -501,9 +501,9 @@ AURO: An article of mine has been published, and they have given me this. Now, I
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:14
+  :genre: play
+  :keywords:
+  :cite-key: DB:14
   :END:
 
 
@@ -541,9 +541,9 @@ AURO: Freedom, freedom of India by hook or by crook. We must dedicate ourselves 
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:15
+  :genre: play
+  :keywords:
+  :cite-key: DB:15
   :END:
 
 
@@ -566,9 +566,9 @@ AUROBINDO: /(Bashfully smiling)/ Thank you, Sir, it is so kind of you. If there 
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:16
+  :genre: play
+  :keywords:
+  :cite-key: DB:16
   :END:
 
 
@@ -607,9 +607,9 @@ AUROBINDO: Thanks in advance, dear friend. Let that day come soon!
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:17
+  :genre: play
+  :keywords:
+  :cite-key: DB:17
   :END:
 
 
@@ -630,9 +630,9 @@ AUROBINDO: Thank you, Sir. I was just waiting for an opportunity to go to India,
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:18
+  :genre: play
+  :keywords:
+  :cite-key: DB:18
   :END:
 
 
@@ -667,9 +667,9 @@ MOTHER: Why not, why not? At the divine hour I shall go and stand beside you in 
 * Act III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:19
+  :genre: play
+  :keywords:
+  :cite-key: DB:19
   :END:
 
 
@@ -677,9 +677,9 @@ MOTHER: Why not, why not? At the divine hour I shall go and stand beside you in 
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:20
+  :genre: play
+  :keywords:
+  :cite-key: DB:20
   :END:
 
 
@@ -736,9 +736,9 @@ In the blue-white climbing skies. [fn:3]
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:21
+  :genre: play
+  :keywords:
+  :cite-key: DB:21
   :END:
 
 
@@ -786,9 +786,9 @@ AURO: Dadu, goodness gracious! At last my mother has to say, - Eureka, Eureka! -
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:22
+  :genre: play
+  :keywords:
+  :cite-key: DB:22
   :END:
 
 
@@ -815,9 +815,9 @@ AURO: /(Looking at his watch)/ Yes, it is. I'm off.
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:23
+  :genre: play
+  :keywords:
+  :cite-key: DB:23
   :END:
 
 
@@ -846,9 +846,9 @@ DINENDRA: /(Handing the servant a five-rupee note)/ Buy spices and ghee from the
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:24
+  :genre: play
+  :keywords:
+  :cite-key: DB:24
   :END:
 
 
@@ -871,9 +871,9 @@ AUROBINDO: Just go through the works of Swami Vivekananda, and you will be able 
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:25
+  :genre: play
+  :keywords:
+  :cite-key: DB:25
   :END:
 
 
@@ -906,9 +906,9 @@ KESHTA: Sir, I promise, I shall be no fool again.
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:26
+  :genre: play
+  :keywords:
+  :cite-key: DB:26
   :END:
 
 
@@ -947,9 +947,9 @@ CHARU: If realisation in Yoga does not come to such a man, will it come to bungl
 * Act IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:27
+  :genre: play
+  :keywords:
+  :cite-key: DB:27
   :END:
 
 
@@ -957,9 +957,9 @@ CHARU: If realisation in Yoga does not come to such a man, will it come to bungl
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:28
+  :genre: play
+  :keywords:
+  :cite-key: DB:28
   :END:
 
 
@@ -1000,9 +1000,9 @@ MAHARAJA: So do I.
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:29
+  :genre: play
+  :keywords:
+  :cite-key: DB:29
   :END:
 
 
@@ -1039,9 +1039,9 @@ MRINALINI: My Lord, I fail to believe my eyes. How could you imagine that I migh
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:30
+  :genre: play
+  :keywords:
+  :cite-key: DB:30
   :END:
 
 
@@ -1068,9 +1068,9 @@ MAHARAJA: My Arvind! He will leave me! I was quite in the dark about it all. Ala
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:31
+  :genre: play
+  :keywords:
+  :cite-key: DB:31
   :END:
 
 
@@ -1131,9 +1131,9 @@ AURO: You need not. That auspicious moment is well-nigh come.
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:32
+  :genre: play
+  :keywords:
+  :cite-key: DB:32
   :END:
 
 
@@ -1164,9 +1164,9 @@ AURO. Barin have faith in Ramakrishna, He was the dearest child of Mahakali. He 
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:33
+  :genre: play
+  :keywords:
+  :cite-key: DB:33
   :END:
 
 
@@ -1187,9 +1187,9 @@ BARIN: Sejda, there is only one leader in India to whom I can bow. You know who 
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:34
+  :genre: play
+  :keywords:
+  :cite-key: DB:34
   :END:
 
 
@@ -1218,9 +1218,9 @@ FRIEND: I quite agree with you. I feel his fire will spread beyond Bengal to eve
 * Act V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:35
+  :genre: play
+  :keywords:
+  :cite-key: DB:35
   :END:
 
 
@@ -1228,9 +1228,9 @@ FRIEND: I quite agree with you. I feel his fire will spread beyond Bengal to eve
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:36
+  :genre: play
+  :keywords:
+  :cite-key: DB:36
   :END:
 
 
@@ -1247,9 +1247,9 @@ MOTHER BENGAL: Your words are worthy of the great soul in you that speaks them. 
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:37
+  :genre: play
+  :keywords:
+  :cite-key: DB:37
   :END:
 
 
@@ -1266,9 +1266,9 @@ BARIN and JATIN: /(In one voice)/ Certainly that is the best course.
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:38
+  :genre: play
+  :keywords:
+  :cite-key: DB:38
   :END:
 
 
@@ -1291,9 +1291,9 @@ AURO: Then take it from me that whatever drawbacks stand in India's way will be 
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:39
+  :genre: play
+  :keywords:
+  :cite-key: DB:39
   :END:
 
 
@@ -1330,9 +1330,9 @@ MANO: Listen, then. I do not care a straw for anybody's unwillingness to subscri
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:40
+  :genre: play
+  :keywords:
+  :cite-key: DB:40
   :END:
 
 
@@ -1357,9 +1357,9 @@ NAGENDRA: Aurobindo Babu, you are always noted for your clarity of thought and e
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:41
+  :genre: play
+  :keywords:
+  :cite-key: DB:41
   :END:
 
 
@@ -1384,9 +1384,9 @@ STUDENT: /(With a choked voice)/ Words cannot express our feelings. The brillian
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:42
+  :genre: play
+  :keywords:
+  :cite-key: DB:42
   :END:
 
 
@@ -1423,9 +1423,9 @@ AURO: Very well.
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:43
+  :genre: play
+  :keywords:
+  :cite-key: DB:43
   :END:
 
 
@@ -1458,9 +1458,9 @@ BHUPEN: That I need not explain to you, for you have already read my mind and fe
 * Act VI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:44
+  :genre: play
+  :keywords:
+  :cite-key: DB:44
   :END:
 
 
@@ -1468,9 +1468,9 @@ BHUPEN: That I need not explain to you, for you have already read my mind and fe
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:45
+  :genre: play
+  :keywords:
+  :cite-key: DB:45
   :END:
 
 
@@ -1495,9 +1495,9 @@ REVOLUTIONARIES: We hope so. Even if otherwise, we shall have his directions and
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:46
+  :genre: play
+  :keywords:
+  :cite-key: DB:46
   :END:
 
 
@@ -1518,9 +1518,9 @@ AUROBINDO: Tell Barin that I have not yet had my lunch. So it is not possible fo
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:47
+  :genre: play
+  :keywords:
+  :cite-key: DB:47
   :END:
 
 
@@ -1539,9 +1539,9 @@ BIJOY: Our Jugantar Party will function no longer in secret. Look, look at the s
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:48
+  :genre: play
+  :keywords:
+  :cite-key: DB:48
   :END:
 
 
@@ -1574,9 +1574,9 @@ AUROBINDO: Alas, is this the India of my dream?
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:49
+  :genre: play
+  :keywords:
+  :cite-key: DB:49
   :END:
 
 
@@ -1593,9 +1593,9 @@ TILAK: Alas, it is my own countrymen who let loose the full flood of their abuse
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:50
+  :genre: play
+  :keywords:
+  :cite-key: DB:50
   :END:
 
 
@@ -1626,9 +1626,9 @@ LELE: Wonderful! What I wanted from you, you have done within three days. It too
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:51
+  :genre: play
+  :keywords:
+  :cite-key: DB:51
   :END:
 
 
@@ -1651,9 +1651,9 @@ LELE: And in my heart I am profoundly proud of you.
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:52
+  :genre: play
+  :keywords:
+  :cite-key: DB:52
   :END:
 
 
@@ -1676,9 +1676,9 @@ AUROBINDO: Why can't you be my friend? You love the country, so do I. Our ideal 
 * Scene 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:53
+  :genre: play
+  :keywords:
+  :cite-key: DB:53
   :END:
 
 
@@ -1701,9 +1701,9 @@ BARIN: /(Snapping back at Nolini)/ Nolini, no sentimentality, please.
 * Act VII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:54
+  :genre: play
+  :keywords:
+  :cite-key: DB:54
   :END:
 
 
@@ -1711,9 +1711,9 @@ BARIN: /(Snapping back at Nolini)/ Nolini, no sentimentality, please.
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:55
+  :genre: play
+  :keywords:
+  :cite-key: DB:55
   :END:
 
 
@@ -1752,9 +1752,9 @@ BHUPEN: /(Addressing Creagan)/ You are not entitled to treat Aurobindo like that
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:56
+  :genre: play
+  :keywords:
+  :cite-key: DB:56
   :END:
 
 
@@ -1777,9 +1777,9 @@ AUROBINDO: I was striving hard to see Narayana within me as Friend, Master or Pr
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:57
+  :genre: play
+  :keywords:
+  :cite-key: DB:57
   :END:
 
 
@@ -1824,9 +1824,9 @@ Please take down my motive for disclosing these names. Our party was divided as 
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:58
+  :genre: play
+  :keywords:
+  :cite-key: DB:58
   :END:
 
 
@@ -1859,9 +1859,9 @@ WITNESS: I know nothing, I know none of them. Neither do I know why the police h
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:59
+  :genre: play
+  :keywords:
+  :cite-key: DB:59
   :END:
 
 
@@ -1900,9 +1900,9 @@ AUROBINDO: /(Smiling)/ I thank you both.
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:60
+  :genre: play
+  :keywords:
+  :cite-key: DB:60
   :END:
 
 
@@ -1927,9 +1927,9 @@ VOICE: That is for you to discover. I can but show what I have found. The world'
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:61
+  :genre: play
+  :keywords:
+  :cite-key: DB:61
   :END:
 
 
@@ -1966,9 +1966,9 @@ COOLI: /(Placing a half-rupee coin on Sarojini's table, with folded hands)/ This
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:62
+  :genre: play
+  :keywords:
+  :cite-key: DB:62
   :END:
 
 
@@ -1983,9 +1983,9 @@ VASUDEVA: /(Coming in front of Aurobindo)/ Look at me, my child. I am He whom yo
 * Scene 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:63
+  :genre: play
+  :keywords:
+  :cite-key: DB:63
   :END:
 
 
@@ -2000,9 +2000,9 @@ NORTON: "To me it appears a matter for regret that a man of Arabindo's mental ca
 * Scene 10
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:64
+  :genre: play
+  :keywords:
+  :cite-key: DB:64
   :END:
 
 
@@ -2021,9 +2021,9 @@ C.R. DAS: "... My appeal to you is this that long after this turmoil, this agita
 * Scene 11
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:65
+  :genre: play
+  :keywords:
+  :cite-key: DB:65
   :END:
 
 
@@ -2044,9 +2044,9 @@ C.R. DAS: Thank you very much, my learned friend.
 * Act VIII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:66
+  :genre: play
+  :keywords:
+  :cite-key: DB:66
   :END:
 
 
@@ -2054,9 +2054,9 @@ C.R. DAS: Thank you very much, my learned friend.
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:67
+  :genre: play
+  :keywords:
+  :cite-key: DB:67
   :END:
 
 
@@ -2089,9 +2089,9 @@ YOUNG MEN: /(Silenced into surprise, in reverential tone)/ We will simply see hi
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:68
+  :genre: play
+  :keywords:
+  :cite-key: DB:68
   :END:
 
 
@@ -2117,9 +2117,9 @@ AUROBINDO GHOSH
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:69
+  :genre: play
+  :keywords:
+  :cite-key: DB:69
   :END:
 
 
@@ -2144,9 +2144,9 @@ CHIEF ORGANISER: I agree with each of you. I feel strongly that Uttarpara will g
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:70
+  :genre: play
+  :keywords:
+  :cite-key: DB:70
   :END:
 
 
@@ -2173,9 +2173,9 @@ FRIEND: A true consort of a true leader. I feel ennobled by your lofty stand. I 
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:71
+  :genre: play
+  :keywords:
+  :cite-key: DB:71
   :END:
 
 
@@ -2204,9 +2204,9 @@ Pronunciation well learnt, the thoughts and sentiments will present no difficult
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:72
+  :genre: play
+  :keywords:
+  :cite-key: DB:72
   :END:
 
 
@@ -2239,9 +2239,9 @@ AUROBINDO: Do I need your telling me that? I know your heart well enough.
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:73
+  :genre: play
+  :keywords:
+  :cite-key: DB:73
   :END:
 
 
@@ -2262,9 +2262,9 @@ NIVEDITA: Menace, no doubt, to a ruthless engine of repression that the Governme
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:74
+  :genre: play
+  :keywords:
+  :cite-key: DB:74
   :END:
 
 
@@ -2301,9 +2301,9 @@ SURESH: That sets our anxieties at rest.
 * Scene 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:75
+  :genre: play
+  :keywords:
+  :cite-key: DB:75
   :END:
 
 
@@ -2344,9 +2344,9 @@ BIREN: The Government were planning to arrest and deport him. A timely warning c
 * Scene 10
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:76
+  :genre: play
+  :keywords:
+  :cite-key: DB:76
   :END:
 
 
@@ -2383,9 +2383,9 @@ AUROBINDO: /(Smiling and then placing his hand upon Motilal's head)/ If you must
 * Act IX
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:77
+  :genre: play
+  :keywords:
+  :cite-key: DB:77
   :END:
 
 
@@ -2393,9 +2393,9 @@ AUROBINDO: /(Smiling and then placing his hand upon Motilal's head)/ If you must
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:78
+  :genre: play
+  :keywords:
+  :cite-key: DB:78
   :END:
 
 
@@ -2422,9 +2422,9 @@ MOTILAL: /Adesh!/ Then let me make the necessary arrangements.
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:79
+  :genre: play
+  :keywords:
+  :cite-key: DB:79
   :END:
 
 
@@ -2467,9 +2467,9 @@ AUROBINDO: Ascent of man into the Spirit, descent of the Spirit into man.
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:80
+  :genre: play
+  :keywords:
+  :cite-key: DB:80
   :END:
 
 
@@ -2534,9 +2534,9 @@ SRINIVASACHARI: It is a good suggestion. I will act on it at once.
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:81
+  :genre: play
+  :keywords:
+  :cite-key: DB:81
   :END:
 
 
@@ -2551,9 +2551,9 @@ SRINIVASACHARI: Oh, yes, thank God. /(His face is lit up.)/ I will take Aurobind
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:82
+  :genre: play
+  :keywords:
+  :cite-key: DB:82
   :END:
 
 
@@ -2566,9 +2566,9 @@ AUROBINDO: Yes. Moni has done the job.
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:83
+  :genre: play
+  :keywords:
+  :cite-key: DB:83
   :END:
 
 
@@ -2593,9 +2593,9 @@ SRINIVASACHARI: My heart is too full of joy at your arrival to say anything. One
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:84
+  :genre: play
+  :keywords:
+  :cite-key: DB:84
   :END:
 
 
@@ -2638,9 +2638,9 @@ AUROBINDO: /(With a smile)/ Moni, it seems you are putting the cart before the h
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:85
+  :genre: play
+  :keywords:
+  :cite-key: DB:85
   :END:
 
 
@@ -2671,9 +2671,9 @@ AUROBINDO: My blessings are already with you.
 * Scene 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:86
+  :genre: play
+  :keywords:
+  :cite-key: DB:86
   :END:
 
 
@@ -2704,9 +2704,9 @@ BHARATI: I truly feel that not only Pondicherry is hallowed by the touch of your
 * Scene 10
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:87
+  :genre: play
+  :keywords:
+  :cite-key: DB:87
   :END:
 
 
@@ -2739,9 +2739,9 @@ AUROBINDO: /(Compassionately)/ I wish you well. We will forget all this. Love yo
 * Act X
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:88
+  :genre: play
+  :keywords:
+  :cite-key: DB:88
   :END:
 
 
@@ -2749,9 +2749,9 @@ AUROBINDO: /(Compassionately)/ I wish you well. We will forget all this. Love yo
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:89
+  :genre: play
+  :keywords:
+  :cite-key: DB:89
   :END:
 
 
@@ -2778,9 +2778,9 @@ IYENGAR: If so, you must wait.
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:90
+  :genre: play
+  :keywords:
+  :cite-key: DB:90
   :END:
 
 
@@ -2816,9 +2816,9 @@ FRIEND: Your prevision strikes an echoing note in the depths of my heart. The da
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:91
+  :genre: play
+  :keywords:
+  :cite-key: DB:91
   :END:
 
 
@@ -2855,9 +2855,9 @@ A: Very well. To-morrow itself, if possible.
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:92
+  :genre: play
+  :keywords:
+  :cite-key: DB:92
   :END:
 
 
@@ -2880,9 +2880,9 @@ SRI AUROBINDO: /(Smiling)/ Yes, and much more.
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:93
+  :genre: play
+  :keywords:
+  :cite-key: DB:93
   :END:
 
 
@@ -2912,9 +2912,9 @@ B: Certainly. We have now come to a radical turn in the course of our life here.
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:94
+  :genre: play
+  :keywords:
+  :cite-key: DB:94
   :END:
 
 
@@ -2955,9 +2955,9 @@ Now take these letters and make up replies from my marginal notes. Let me now st
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:95
+  :genre: play
+  :keywords:
+  :cite-key: DB:95
   :END:
 
 
@@ -2980,9 +2980,9 @@ DWIJENDRANATH: Ah, my friend, that's a wrong approach. It's no intellectual pabu
 * Scene 8
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:96
+  :genre: play
+  :keywords:
+  :cite-key: DB:96
   :END:
 
 
@@ -3017,9 +3017,9 @@ AUROBINDO: You can take it from me, it is as certain as the rising of the sun to
 * Scene 9
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:97
+  :genre: play
+  :keywords:
+  :cite-key: DB:97
   :END:
 
 
@@ -3052,9 +3052,9 @@ Ah, here is the snag. Well, Sejda, have you ever moved back even by a single ste
 * Act XI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:98
+  :genre: play
+  :keywords:
+  :cite-key: DB:98
   :END:
 
 
@@ -3062,9 +3062,9 @@ Ah, here is the snag. Well, Sejda, have you ever moved back even by a single ste
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:99
+  :genre: play
+  :keywords:
+  :cite-key: DB:99
   :END:
 
 
@@ -3096,9 +3096,9 @@ CHAMPAKLAL: /(Firmly)/ I am, Father.
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:100
+  :genre: play
+  :keywords:
+  :cite-key: DB:100
   :END:
 
 
@@ -3149,9 +3149,9 @@ SRI AUROBINDO: Good that he is now on the side of the weak and the striving. His
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:101
+  :genre: play
+  :keywords:
+  :cite-key: DB:101
   :END:
 
 
@@ -3178,9 +3178,9 @@ KAPALI: Too difficult even to think of. But I cannot try the too-hard so soon. I
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:102
+  :genre: play
+  :keywords:
+  :cite-key: DB:102
   :END:
 
 
@@ -3227,9 +3227,9 @@ THE MOTHER: /(With a compassionate smile)/ That's fine.
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:103
+  :genre: play
+  :keywords:
+  :cite-key: DB:103
   :END:
 
 
@@ -3268,9 +3268,9 @@ BARIN: Rajani, /(with a broad smile)/ your Barin-da is as blind as you.
 * Act XII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:104
+  :genre: play
+  :keywords:
+  :cite-key: DB:104
   :END:
 
 
@@ -3278,9 +3278,9 @@ BARIN: Rajani, /(with a broad smile)/ your Barin-da is as blind as you.
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:105
+  :genre: play
+  :keywords:
+  :cite-key: DB:105
   :END:
 
 
@@ -3323,9 +3323,9 @@ K.D. SETHNA: /(Speaking to himself)/ Here's the end of my search. I must write t
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:106
+  :genre: play
+  :keywords:
+  :cite-key: DB:106
   :END:
 
 
@@ -3358,9 +3358,9 @@ A: Sri Aurobindo says: "The Mother's consciousness and mine are the same, the on
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:107
+  :genre: play
+  :keywords:
+  :cite-key: DB:107
   :END:
 
 
@@ -3375,9 +3375,9 @@ SRI AUROBINDO: "It is not for personal greatness that I am seeking to bring down
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:108
+  :genre: play
+  :keywords:
+  :cite-key: DB:108
   :END:
 
 
@@ -3392,9 +3392,9 @@ SRI AUROBINDO: "We are not working for a race or a people or a continent or for 
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:109
+  :genre: play
+  :keywords:
+  :cite-key: DB:109
   :END:
 
 
@@ -3409,9 +3409,9 @@ MOTHER: "I am with you, that signifies a world of things, because I am with you 
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:110
+  :genre: play
+  :keywords:
+  :cite-key: DB:110
   :END:
 
 
@@ -3466,9 +3466,9 @@ MOTHER: Do you know what Sri Aurobindo has said this time? There is great change
 * Scene 7
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:111
+  :genre: play
+  :keywords:
+  :cite-key: DB:111
   :END:
 
 
@@ -3493,9 +3493,9 @@ SRI AUROBINDO: I am not troubled about the future. It's the Divine's work which 
 * Act XIII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:112
+  :genre: play
+  :keywords:
+  :cite-key: DB:112
   :END:
 
 
@@ -3503,9 +3503,9 @@ SRI AUROBINDO: I am not troubled about the future. It's the Divine's work which 
 * Scene 1
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:113
+  :genre: play
+  :keywords:
+  :cite-key: DB:113
   :END:
 
 
@@ -3538,9 +3538,9 @@ DISCIPLE: /(Interrupting)/ The Seer and the multitude ... When did they ever see
 * Scene 2
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:114
+  :genre: play
+  :keywords:
+  :cite-key: DB:114
   :END:
 
 
@@ -3563,9 +3563,9 @@ SRI AUROBINDO: That's it. All divisions all over the world must go before it bec
 * Scene 3
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:115
+  :genre: play
+  :keywords:
+  :cite-key: DB:115
   :END:
 
 
@@ -3599,9 +3599,9 @@ SRI AUROBINDO: Ah, that? We shall see about that later on.
 * Scene 4
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:116
+  :genre: play
+  :keywords:
+  :cite-key: DB:116
   :END:
 
 
@@ -3620,9 +3620,9 @@ SRI AUROBINDO: Can't explain; you won't understand.
 * Scene 5
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:117
+  :genre: play
+  :keywords:
+  :cite-key: DB:117
   :END:
 
 
@@ -3637,9 +3637,9 @@ SRI AUROBINDO: Can't explain; you won't understand.
 * Scene 6
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DB:118
+  :genre: play
+  :keywords:
+  :cite-key: DB:118
   :END:
 
 
@@ -3661,9 +3661,9 @@ TO THEE WHO HAST BEEN THE MATERIAL ENVELOPE OF OUR MASTER, TO THEE OUR INFINITE 
 * Section: Notes
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY:
+  :genre: section
+  :keywords:
+  :cite-key:
   :END:
 
 
@@ -3671,9 +3671,9 @@ TO THEE WHO HAST BEEN THE MATERIAL ENVELOPE OF OUR MASTER, TO THEE OUR INFINITE 
 * Footnotes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY:
+  :genre: note
+  :keywords:
+  :cite-key:
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0205
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GVBC
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0205
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: GVBC
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1. What I shall tell
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:1
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:1
   :END:
 
 
@@ -52,9 +52,9 @@ Have to tell God:
 * 2. A human being's story
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:2
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:2
   :END:
 
 
@@ -78,9 +78,9 @@ God-forgiveness.
 * 3. What he now needs
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:3
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:3
   :END:
 
 
@@ -105,9 +105,9 @@ Aspiration-bird.
 * 4, Giving and becoming
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:4
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:4
   :END:
 
 
@@ -130,9 +130,9 @@ Oneness-fruits.
 * 5. What I have discovered
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:5
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:5
   :END:
 
 
@@ -156,9 +156,9 @@ The fruitfulness of aeons.
 * 6. I was, I am, I shall be
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:6
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:6
   :END:
 
 
@@ -182,9 +182,9 @@ Unconditionally I shall be.
 * 7. What I knew and what I know
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:7
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:7
   :END:
 
 
@@ -212,9 +212,9 @@ I know it.
 * 8. My Lord Supreme spoke to me
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:8
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:8
   :END:
 
 
@@ -242,9 +242,9 @@ With His Justice-Hands.
 * 9. An invitation from God
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:9
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:9
   :END:
 
 
@@ -268,9 +268,9 @@ Unfortunate.
 * 10. Truth's failings
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:10
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:10
   :END:
 
 
@@ -290,9 +290,9 @@ Teeming and undying.
 * 11. When I think
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:11
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:11
   :END:
 
 
@@ -313,9 +313,9 @@ Nothing but climbing aspiration.
 * 12 Duty, beauty, necessity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:12
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:12
   :END:
 
 
@@ -336,9 +336,9 @@ Is God's Perfection-building.
 * 13. My outer and inner home
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:13
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:13
   :END:
 
 
@@ -363,9 +363,9 @@ Is God's eternal Choice.
 * 14. What I love and treasure
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:14
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:14
   :END:
 
 
@@ -387,9 +387,9 @@ The Supreme in me treasures.
 * 15 Delight-seed, delight-plant, delight-tree
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:15
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:15
   :END:
 
 
@@ -410,9 +410,9 @@ That never dies.
 * 16. Surprise
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:16
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:16
   :END:
 
 
@@ -433,9 +433,9 @@ Is Immortality's surprise.
 * 17. Invitations and good-byes
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:17
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:17
   :END:
 
 
@@ -455,9 +455,9 @@ Save and except psychic love.
 * 18. To starve or feed
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:18
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:18
   :END:
 
 
@@ -478,9 +478,9 @@ My heart, my all.
 * 19. Time
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:19
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:19
   :END:
 
 
@@ -504,9 +504,9 @@ It is nothing new to time.
 * 20. They have listened to God
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:20
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:20
   :END:
 
 
@@ -533,9 +533,9 @@ An immortal seeker.
 * 21. Try to believe
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:21
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:21
   :END:
 
 
@@ -571,9 +571,9 @@ Someday.
 * 22. My dog and my Master
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:22
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:22
   :END:
 
 
@@ -602,9 +602,9 @@ God-love.
 * 23. The birth of your self-indulgence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:23
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:23
   :END:
 
 
@@ -626,9 +626,9 @@ I warn you!
 * 24 Thank you, my daughter
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:24
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:24
   :END:
 
 
@@ -657,9 +657,9 @@ I eternally need."
 * 25 Yesterday, today, tomorrow
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:25
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:25
   :END:
 
 
@@ -690,9 +690,9 @@ Dancing.
 * 26. A doubter's prayer
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:26
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:26
   :END:
 
 
@@ -712,9 +712,9 @@ My mind is jealous of Your Light.
 * 27. A seeker's prayer
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:27
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:27
   :END:
 
 
@@ -737,9 +737,9 @@ Even after I leave the earth-scene.
 * 28. What they feel
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:28
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:28
   :END:
 
 
@@ -766,9 +766,9 @@ To live without God-Light is impossible.
 * 29. God-necessity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:29
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:29
   :END:
 
 
@@ -800,9 +800,9 @@ Your integrity is God-necessity.
 * 30. His outer and inner life
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:30
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:30
   :END:
 
 
@@ -826,9 +826,9 @@ He is returning to his animal life.
 * 31. God will forgive
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:31
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:31
   :END:
 
 
@@ -860,9 +860,9 @@ Your non-idealistic life.
 * 32. Humanity's destiny
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:32
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:32
   :END:
 
 
@@ -886,9 +886,9 @@ Is waiting, but not in vain.
 * 33 Who were you?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:33
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:33
   :END:
 
 
@@ -909,9 +909,9 @@ A released flow of God-Compassion.
 * 34. Why they loved you
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:34
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:34
   :END:
 
 
@@ -933,9 +933,9 @@ To decrease your self-love.
 * 35. Two fools
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:35
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:35
   :END:
 
 
@@ -955,9 +955,9 @@ I am a helpless fool.
 * 36. Succeed and proceed
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:36
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:36
   :END:
 
 
@@ -979,9 +979,9 @@ Of a sympathetic saint.
 * 37. My substance and essence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:37
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:37
   :END:
 
 
@@ -999,9 +999,9 @@ God-perfection in me.
 * 38. Hastening to the God-Beginning
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:38
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:38
   :END:
 
 
@@ -1019,9 +1019,9 @@ Are hastening to their God-Beginning.
 * 39. Becoming young
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:39
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:39
   :END:
 
 
@@ -1039,9 +1039,9 @@ Loving makes the soul young.
 * 40. They die, they live
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:40
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:40
   :END:
 
 
@@ -1059,9 +1059,9 @@ All that is smiling lives with God.
 * 41. World plans
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:41
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:41
   :END:
 
 
@@ -1085,9 +1085,9 @@ God says: "I shall do them for you, My son."
 * 42. My ways
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:42
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:42
   :END:
 
 
@@ -1109,9 +1109,9 @@ This is my God-way.
 * 43. Burials
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:43
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:43
   :END:
 
 
@@ -1130,9 +1130,9 @@ And an undying Experience-necessity.
 * 44. Your mind
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:44
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:44
   :END:
 
 
@@ -1157,9 +1157,9 @@ Just wait and see.
 * 45. Who is the cause?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:45
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:45
   :END:
 
 
@@ -1186,9 +1186,9 @@ Not you, not he, but I.
 * 46. By serving and perfecting
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:46
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:46
   :END:
 
 
@@ -1205,9 +1205,9 @@ I conquer the animal in me.
 * 47. He is
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:47
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:47
   :END:
 
 
@@ -1224,9 +1224,9 @@ He is supreme who is.
 * 48. I love and serve
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:48
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:48
   :END:
 
 
@@ -1247,9 +1247,9 @@ I shall without fail serve the divine in me.
 * 49. Promise and hope
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:49
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:49
   :END:
 
 
@@ -1271,9 +1271,9 @@ To the suffering humanity.
 * 50. Everest-height
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GVBC:50
+  :genre: poem
+  :keywords:
+  :cite-key: GVBC:50
   :END:
 
 

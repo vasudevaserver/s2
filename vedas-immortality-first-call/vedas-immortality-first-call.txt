@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0017
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: VIFC
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0017
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: VIFC
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Vedic Bird Of Illumination
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:1
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:1
   :END:
 
 
@@ -83,9 +83,9 @@ The Vedas do not embody depression, repression, self-mortific-ation, sin-awarene
 * The Glowing Consciousness Of Vedic Truth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:2
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:2
   :END:
 
 
@@ -132,9 +132,9 @@ Unreality is untruth, and Reality is Truth. /Satya/ is invoked by the pure heart
 * The Inner Revelation -- fire
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:3
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:3
   :END:
 
 
@@ -180,9 +180,9 @@ There are four Vedas: the Rig Veda, the Yajur Veda, the Sama Veda and the Atharv
 * The Rig Veda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:4
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:4
   :END:
 
 
@@ -239,9 +239,9 @@ With loving gratitude I offer this talk to my eldest brother, Hriday Ranjan Chos
 * The Song Of The Infinite
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:5
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:5
   :END:
 
 
@@ -276,9 +276,9 @@ In the Vedas the concept of sacrifice looms very large. We sacrifice to God what
 * Intuition -- light From The Vedas
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:6
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:6
   :END:
 
 
@@ -329,9 +329,9 @@ Delight is what God is.
 * The Wisdom -- sun Of Vedic Truth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: VIFC:7
+  :genre: discourse
+  :keywords:
+  :cite-key: VIFC:7
   :END:
 
 

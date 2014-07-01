@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 367
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1979
-  :PUBLISHER:
-  :CITE-KEY: BCJ
-  :GENRE: song
+  :book-number: 367
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1979
+  :publisher:
+  :cite-key: BCJ
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BCJ:1e1
+  :genre: note
+  :cite-key: BCJ:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BCJ:1e2
+  :genre: note
+  :cite-key: BCJ:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jibana Taru Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:1
+  :cite-key: BCJ:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Kothai tumi he hiya majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:2
+  :cite-key: BCJ:2
   :END:
 
 #+BEGIN_VERSE
@@ -83,10 +83,10 @@ Where are You?
 * Ashar Mita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:3
+  :cite-key: BCJ:3
   :END:
 
 #+BEGIN_VERSE
@@ -101,10 +101,10 @@ Samarpaner bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:4
+  :cite-key: BCJ:4
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ With my surrender-strength.
 * Brahma Vishnu Shib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:5
+  :cite-key: BCJ:5
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Dao more dhrira mati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:6
+  :cite-key: BCJ:6
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Do surcharge my mind with firm determination.
 * Esecho Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:7
+  :cite-key: BCJ:7
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Amare dibe usha bhor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:8
+  :cite-key: BCJ:8
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ You will grant me a new dawn.
 * Jani Ami Nahi Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:9
+  :cite-key: BCJ:9
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ Tano khama kripar bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:10
+  :cite-key: BCJ:10
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ With Your Compassion-Power.
 * Bhakti Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:11
+  :cite-key: BCJ:11
   :END:
 
 #+BEGIN_VERSE
@@ -257,10 +257,10 @@ Tomai ami bandhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:12
+  :cite-key: BCJ:12
   :END:
 
 #+BEGIN_VERSE
@@ -276,10 +276,10 @@ Of my self-sacrifice-life.
 * Shikkha Guru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:13
+  :cite-key: BCJ:13
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Tomai dibo saphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:14
+  :cite-key: BCJ:14
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ And offer you my success-life.
 * Nitya Amai Bahan Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:15
+  :cite-key: BCJ:15
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Pran gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:16
+  :cite-key: BCJ:16
   :END:
 
 #+BEGIN_VERSE
@@ -355,10 +355,10 @@ Inside my heart?
 * Madhavi Latar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:17
+  :cite-key: BCJ:17
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Nachi aji ami maha ullase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:18
+  :cite-key: BCJ:18
   :END:
 
 #+BEGIN_VERSE
@@ -393,10 +393,10 @@ Today I dance in ecstasy supreme.
 * Ami — Nil Gaganer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:19
+  :cite-key: BCJ:19
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Ami — nil gaganer shubhra shashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:20
+  :cite-key: BCJ:20
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ With the Mother-Light
 * Jiban Amar Sanga Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:21
+  :cite-key: BCJ:21
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Chaoa paoar bhari bojha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:22
+  :cite-key: BCJ:22
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ And fulfilment-day.
 * Mata Mata Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:23
+  :cite-key: BCJ:23
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Asim purnata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:24
+  :cite-key: BCJ:24
   :END:
 
 #+BEGIN_VERSE
@@ -515,10 +515,10 @@ Do grant my heart
 * Ke Chahe Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:25
+  :cite-key: BCJ:25
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ Amar bijoy ke gahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:26
+  :cite-key: BCJ:26
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Who cares to sing my victory-song?
 * Bhranta Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:27
+  :cite-key: BCJ:27
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +570,10 @@ Oi je swarga dham
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:28
+  :cite-key: BCJ:28
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Yonder, Heaven’s existence-abode.
 * Ajanare Achenare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:29
+  :cite-key: BCJ:29
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Sada nashe kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:30
+  :cite-key: BCJ:30
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Destroys darkness-night.
 * Ekla Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:31
+  :cite-key: BCJ:31
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Kanna sathe jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:32
+  :cite-key: BCJ:32
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ And cry with my wakefulness.
 * Jiban Debata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:33
+  :cite-key: BCJ:33
   :END:
 
 #+BEGIN_VERSE
@@ -683,10 +683,10 @@ Jagi jena shubha bhore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:34
+  :cite-key: BCJ:34
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ In prosperity’s auspicious dawn.
 * Asha Niye Asi Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:35
+  :cite-key: BCJ:35
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Hetha nai hotha nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:36
+  :cite-key: BCJ:36
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ In any part of the world.
 * Shunechi Shunechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:37
+  :cite-key: BCJ:37
   :END:
 
 #+BEGIN_VERSE
@@ -762,10 +762,10 @@ Andhar gabhire rayechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:38
+  :cite-key: BCJ:38
   :END:
 
 #+BEGIN_VERSE
@@ -783,10 +783,10 @@ In the depths of night's darkness I abide.
 * Duar Khulo Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:39
+  :cite-key: BCJ:39
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ He kripa pathar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:40
+  :cite-key: BCJ:40
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Beginningless and endless.
 * Mor Khudha Antara Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:41
+  :cite-key: BCJ:41
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ Taba sudha kripa ankhi raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:42
+  :cite-key: BCJ:42
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ Of Nectar-Delight abides.
 * Kanna Amar Shesh Habena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:43
+  :cite-key: BCJ:43
   :END:
 
 #+BEGIN_VERSE
@@ -874,10 +874,10 @@ Man chalena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:44
+  :cite-key: BCJ:44
   :END:
 
 #+BEGIN_VERSE
@@ -893,10 +893,10 @@ Towards You.
 * Jatra Pathe Dibas Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:45
+  :cite-key: BCJ:45
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ Ei dhrira pratyay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:46
+  :cite-key: BCJ:46
   :END:
 
 #+BEGIN_VERSE
@@ -932,10 +932,10 @@ Unparalleled.
 * Diner Sheshe Jatra Sheshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:47
+  :cite-key: BCJ:47
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ Pran gabhire manthare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:48
+  :cite-key: BCJ:48
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ Inside the very depths of my heart.
 * Chahi Kichu Sabar Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:49
+  :cite-key: BCJ:49
   :END:
 
 #+BEGIN_VERSE
@@ -987,10 +987,10 @@ Taito kari sabar paye mata nichu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:50
+  :cite-key: BCJ:50
   :END:
 
 #+BEGIN_VERSE
@@ -1006,10 +1006,10 @@ At the feet of all and sundry.
 * Anande Bhara Aloker Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:51
+  :cite-key: BCJ:51
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ Jane shudhu krandan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:52
+  :cite-key: BCJ:52
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ They only know how to cry and cry.
 * Shesh Kathati Ei Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:53
+  :cite-key: BCJ:53
   :END:
 
 #+BEGIN_VERSE
@@ -1061,10 +1061,10 @@ Mor mathati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:54
+  :cite-key: BCJ:54
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ My head has never had peace.
 * Chale Jao Chale Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:55
+  :cite-key: BCJ:55
   :END:
 
 #+BEGIN_VERSE
@@ -1097,10 +1097,10 @@ Nahi jani barai anurage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:56
+  :cite-key: BCJ:56
   :END:
 
 #+BEGIN_VERSE
@@ -1118,10 +1118,10 @@ With my heart’s intense cry.
 * Ami Tomar Kripar Shishu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:57
+  :cite-key: BCJ:57
   :END:
 
 #+BEGIN_VERSE
@@ -1136,10 +1136,10 @@ Tomar gahi joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:58
+  :cite-key: BCJ:58
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ I always sing.
 * Chaowa Paowar Shesh Habena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:59
+  :cite-key: BCJ:59
   :END:
 
 #+BEGIN_VERSE
@@ -1175,10 +1175,10 @@ Hat dharena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:60
+  :cite-key: BCJ:60
   :END:
 
 #+BEGIN_VERSE
@@ -1194,10 +1194,10 @@ To satisfy me in my own way.
 * Shanti Jyoti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:61
+  :cite-key: BCJ:61
   :END:
 
 #+BEGIN_VERSE
@@ -1213,10 +1213,10 @@ Phutlo aji phutlo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:62
+  :cite-key: BCJ:62
   :END:
 
 #+BEGIN_VERSE
@@ -1234,10 +1234,10 @@ Has blossomed today.
 * Surjya Debata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:63
+  :cite-key: BCJ:63
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ Taba ankhi mor sudham
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:64
+  :cite-key: BCJ:64
   :END:
 
 #+BEGIN_VERSE
@@ -1271,10 +1271,10 @@ Your Vision-Eye, my good abode.
 * Tomai Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:65
+  :cite-key: BCJ:65
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ Swarupe mor khunji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:66
+  :cite-key: BCJ:66
   :END:
 
 #+BEGIN_VERSE
@@ -1313,10 +1313,10 @@ And thus I search for my
 * Sumadhur Sure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:67
+  :cite-key: BCJ:67
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ Hasi ananda gitika
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:68
+  :cite-key: BCJ:68
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Of smile and delight.
 * Tomar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:69
+  :cite-key: BCJ:69
   :END:
 
 #+BEGIN_VERSE
@@ -1371,10 +1371,10 @@ Sabar prane milbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:70
+  :cite-key: BCJ:70
   :END:
 
 #+BEGIN_VERSE
@@ -1390,10 +1390,10 @@ On the day I blend in You.
 * Vishma Ar Drona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:71
+  :cite-key: BCJ:71
   :END:
 
 #+BEGIN_VERSE
@@ -1410,10 +1410,10 @@ E katha janibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:72
+  :cite-key: BCJ:72
   :END:
 
 #+BEGIN_VERSE
@@ -1430,10 +1430,10 @@ Their warrior-thrones.
 * Sonar Harin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:73
+  :cite-key: BCJ:73
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ Ashar pradip jwalai prane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:74
+  :cite-key: BCJ:74
   :END:
 
 #+BEGIN_VERSE
@@ -1468,10 +1468,10 @@ Kindles the hope-lamp
 * Sabar Sathe Nahi Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:75
+  :cite-key: BCJ:75
   :END:
 
 #+BEGIN_VERSE
@@ -1486,10 +1486,10 @@ Dekhle keha lukai deha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:76
+  :cite-key: BCJ:76
   :END:
 
 #+BEGIN_VERSE
@@ -1505,10 +1505,10 @@ If anybody sees me, my body,
 * Vishwa Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:77
+  :cite-key: BCJ:77
   :END:
 
 #+BEGIN_VERSE
@@ -1521,10 +1521,10 @@ Rakhbo mane birat madhur itihas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:78
+  :cite-key: BCJ:78
   :END:
 
 #+BEGIN_VERSE
@@ -1540,10 +1540,10 @@ This vast and sweet history of mine.
 * Praner Katha Balar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:79
+  :cite-key: BCJ:79
   :END:
 
 #+BEGIN_VERSE
@@ -1558,10 +1558,10 @@ Sukha dukher parapare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:80
+  :cite-key: BCJ:80
   :END:
 
 #+BEGIN_VERSE
@@ -1578,10 +1578,10 @@ Beyond joy and sorrow?
 * Bandhiya Bandhiya Amar Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:81
+  :cite-key: BCJ:81
   :END:
 
 #+BEGIN_VERSE
@@ -1596,10 +1596,10 @@ Swarger sukh khai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:82
+  :cite-key: BCJ:82
   :END:
 
 #+BEGIN_VERSE
@@ -1615,10 +1615,10 @@ I enjoy Heaven-happiness.
 * Greecer Chhilo Chaowa Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: BCJ:83
+  :cite-key: BCJ:83
   :END:
 
 #+BEGIN_VERSE
@@ -1633,10 +1633,10 @@ Vishwa sabha baran kare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: BCJ:84
+  :cite-key: BCJ:84
   :END:
 
 #+BEGIN_VERSE
@@ -1652,10 +1652,10 @@ And receives you in silence-admiration.
 * Tomar Kripai Urdhe Nachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:85
+  :cite-key: BCJ:85
   :END:
 
 #+BEGIN_VERSE
@@ -1670,10 +1670,10 @@ Tomar jamhe sab peyechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:86
+  :cite-key: BCJ:86
   :END:
 
 #+BEGIN_VERSE
@@ -1691,10 +1691,10 @@ I have received everything inside Your Heart-depth.
 * Bela Chale Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:87
+  :cite-key: BCJ:87
   :END:
 
 #+BEGIN_VERSE
@@ -1707,10 +1707,10 @@ Kotha tumi ogo jibaner shesh khela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:88
+  :cite-key: BCJ:88
   :END:
 
 #+BEGIN_VERSE
@@ -1726,10 +1726,10 @@ My life’s last game?
 * Tumi Dayal Ami Kangal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:89
+  :cite-key: BCJ:89
   :END:
 
 #+BEGIN_VERSE
@@ -1744,10 +1744,10 @@ Jiban bhore maran rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:90
+  :cite-key: BCJ:90
   :END:
 
 #+BEGIN_VERSE
@@ -1765,10 +1765,10 @@ In the night of my death.
 * Tumi Je Amare Tushibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:91
+  :cite-key: BCJ:91
   :END:
 
 #+BEGIN_VERSE
@@ -1783,10 +1783,10 @@ Amar praner majhike
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:92
+  :cite-key: BCJ:92
   :END:
 
 #+BEGIN_VERSE
@@ -1802,10 +1802,10 @@ To my heart’s Pilot Supreme.
 * Sudur Hate Bhese Asi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:93
+  :cite-key: BCJ:93
   :END:
 
 #+BEGIN_VERSE
@@ -1820,10 +1820,10 @@ Andhakare dhuke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-1978
-  :CITE-KEY: BCJ:94
+  :cite-key: BCJ:94
   :END:
 
 #+BEGIN_VERSE

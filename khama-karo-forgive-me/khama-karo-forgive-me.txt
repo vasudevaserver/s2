@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 715
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1987
-  :PUBLISHER:
-  :CITE-KEY: KHKR
-  :GENRE: song
+  :book-number: 715
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1987
+  :publisher:
+  :cite-key: KHKR
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KHKR:1e1
+  :genre: note
+  :cite-key: KHKR:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KHKR:1e2
+  :genre: note
+  :cite-key: KHKR:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ Writings on Forgiveness -- book includes 50 Bengali/English songs
 * Khama Tumi Karbe Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:1
+  :cite-key: KHKR:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Ei barashai achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:2
+  :cite-key: KHKR:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ I am still alive.
 * Shasti Kothai Shasti Kothai Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:3
+  :cite-key: KHKR:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Kebal khamar banya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:4
+  :cite-key: KHKR:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Only forgiveness-flood.
 * Ke Amare Ogo Karibe Ajike Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:5
+  :cite-key: KHKR:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Ami jadi more nahi age khama kari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:6
+  :cite-key: KHKR:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ If I do not forgive myself first?
 * Close My Desire-Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:7
+  :cite-key: KHKR:7
   :END:
 
 #+BEGIN_VERSE
@@ -159,10 +159,10 @@ And forgive me.
 * Khamar Jogya Nahi Ami Jani Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:8
+  :cite-key: KHKR:8
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Tabu ami khama magi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:9
+  :cite-key: KHKR:9
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Yet I am begging for forgiveness.
 * Forgiveness I Do Not Deserve
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:10
+  :cite-key: KHKR:10
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ Yet I am begging for forgiveness.
 * Shato Aparadh Kariyachi Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:11
+  :cite-key: KHKR:11
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ Chahibar bahu age
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:12
+  :cite-key: KHKR:12
   :END:
 
 #+BEGIN_VERSE
@@ -242,10 +242,10 @@ Long before I have desired forgiveness.
 * Hundreds of Crimes of Mine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:13
+  :cite-key: KHKR:13
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Long before I have desired
 * Khama Lagi Kandte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:14
+  :cite-key: KHKR:14
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ Dibanishi pran gibhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:15
+  :cite-key: KHKR:15
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Day and night I must cry for forgiveness.
 * In the Depths of My Heart Day and Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:16
+  :cite-key: KHKR:16
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Day and night I must cry for forgiveness.
 * In My Outer Life, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:17
+  :cite-key: KHKR:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ I see Your Forgiveness-Ocean.
 * Param Pitar Khama Jani Amar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:18
+  :cite-key: KHKR:18
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Param pitar nutan sudha swapan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:19
+  :cite-key: KHKR:19
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Is for His new Nectar-Dream for me.
 * My Absolute Lord’s Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:20
+  :cite-key: KHKR:20
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Is for His new Nectar-Dream for me.
 * Param Prabhur Khama Bina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:21
+  :cite-key: KHKR:21
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Sakal kichui dure dure bahu dure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:22
+  :cite-key: KHKR:22
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Except the Lord Supreme’s Forgiveness.
 * Everything Is Far, Very Far
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:23
+  :cite-key: KHKR:23
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Except the Lord Supreme’s Forgiveness.
 * Bishal Hriday Nahi Jage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:24
+  :cite-key: KHKR:24
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Param pitar khama bina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:25
+  :cite-key: KHKR:25
   :END:
 
 #+BEGIN_VERSE
@@ -463,10 +463,10 @@ Without the Forgiveness of the Absolute Lord.
 * A Vast Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:26
+  :cite-key: KHKR:26
   :END:
 
 #+BEGIN_VERSE
@@ -480,10 +480,10 @@ Without the Forgiveness of the Absolute Lord.
 * Jibaner Bhore Kariyacho Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:27
+  :cite-key: KHKR:27
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Maraner sanjhe karibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:28
+  :cite-key: KHKR:28
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ In the evening of my life You will forgive me.
 * At the Dawn of My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:29
+  :cite-key: KHKR:29
   :END:
 
 #+BEGIN_VERSE
@@ -532,10 +532,10 @@ You will forgive.
 * Dhire Ati Dhire Man Jangal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:30
+  :cite-key: KHKR:30
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +548,10 @@ Bishwa prabhu khamar nayane hase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:31
+  :cite-key: KHKR:31
   :END:
 
 #+BEGIN_VERSE
@@ -565,10 +565,10 @@ The Forgiveness-Eye of the World-Lord is smiling.
 * Slowly, Very Slowly in My Mind-Jungle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:32
+  :cite-key: KHKR:32
   :END:
 
 #+BEGIN_VERSE
@@ -583,10 +583,10 @@ The Forgiveness-Eye of the World-Lord
 * Ati Druta Gati Hridaya Kanane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:33
+  :cite-key: KHKR:33
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ Vishwa prabhur khamar nayan nache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:34
+  :cite-key: KHKR:34
   :END:
 
 #+BEGIN_VERSE
@@ -617,10 +617,10 @@ The Forgiveness-Eye of the World-Lord
 * Param Pitar Nitya Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:35
+  :cite-key: KHKR:35
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Nitya ami dharar kole benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:36
+  :cite-key: KHKR:36
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ Everyday, ever-new Forgiveness.
 * I Am Alive in this World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:37
+  :cite-key: KHKR:37
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ Everyday, ever-new Forgiveness.
 * Bhagabaner Khama Chhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:38
+  :cite-key: KHKR:38
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ Amar jiban dhudhu maru
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:39
+  :cite-key: KHKR:39
   :END:
 
 #+BEGIN_VERSE
@@ -703,10 +703,10 @@ My life is an endless desert.
 * Shasti Tomar Tomar Khamar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:40
+  :cite-key: KHKR:40
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Gopan anya rup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:41
+  :cite-key: KHKR:41
   :END:
 
 #+BEGIN_VERSE
@@ -736,10 +736,10 @@ Of Your secret Forgiveness.
 * Always You Are
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:42
+  :cite-key: KHKR:42
   :END:
 
 #+BEGIN_VERSE
@@ -753,10 +753,10 @@ Forgiveness-Ocean.
 * Manaser Bane Aparadh Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:43
+  :cite-key: KHKR:43
   :END:
 
 #+BEGIN_VERSE
@@ -769,10 +769,10 @@ Hriday kanane khama prarthana kari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:44
+  :cite-key: KHKR:44
   :END:
 
 #+BEGIN_VERSE
@@ -786,10 +786,10 @@ In my heart-garden I beg for forgiveness.
 * In My Mind-Jungle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:45
+  :cite-key: KHKR:45
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ I beg for forgiveness.
 * Khamar Lagi Kendechilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:46
+  :cite-key: KHKR:46
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Khama peye nahi nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:47
+  :cite-key: KHKR:47
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ Yet, I smile not, I dance not.
 * I Cried for Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:48
+  :cite-key: KHKR:48
   :END:
 
 #+BEGIN_VERSE
@@ -857,10 +857,10 @@ Yet, I smile not, I dance not.
 * Hai Hai Hai Hai Bhul Kareo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:49
+  :cite-key: KHKR:49
   :END:
 
 #+BEGIN_VERSE
@@ -874,10 +874,10 @@ Urte nahi chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:50
+  :cite-key: KHKR:50
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ To fly in the sky of forgiveness.
 * Alas, Alas, Even by Mistake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:51
+  :cite-key: KHKR:51
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ Of forgiveness.
 * Animeshe Kandbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:52
+  :cite-key: KHKR:52
   :END:
 
 #+BEGIN_VERSE
@@ -926,10 +926,10 @@ Prabhur madhur khamar ankhi dekhte aji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:53
+  :cite-key: KHKR:53
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ To see my Lord’s Forgiveness-Sweetness-Eye.
 * Sleeplessly I Shall Cry Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:54
+  :cite-key: KHKR:54
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ To see my Lord’s Forgiveness-Sweetness-Eye.
 * You Will Forgive Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:55
+  :cite-key: KHKR:55
   :END:
 
 #+BEGIN_VERSE
@@ -978,10 +978,10 @@ I am still alive.
 * Prabhu Taba Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:56
+  :cite-key: KHKR:56
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Taba madhumoyi ankhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:57
+  :cite-key: KHKR:57
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ Is Your nectar-sweet Eye.
 * Your Nectar-Sweet Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:58
+  :cite-key: KHKR:58
   :END:
 
 #+BEGIN_VERSE
@@ -1028,10 +1028,10 @@ Is Your nectar-sweet Eye.
 * Where Is Punishment?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:59
+  :cite-key: KHKR:59
   :END:
 
 #+BEGIN_VERSE
@@ -1046,10 +1046,10 @@ Only Forgiveness-Flood.
 * Who Will Forgive Me Today?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:60
+  :cite-key: KHKR:60
   :END:
 
 #+BEGIN_VERSE
@@ -1063,10 +1063,10 @@ If I do not forgive myself first?
 * Basana Duar Ruddha Kariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:61
+  :cite-key: KHKR:61
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ Khama karo aji khama karo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:62
+  :cite-key: KHKR:62
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ My Lord, and forgive me.
 * Bahire Nehari Bidhata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:63
+  :cite-key: KHKR:63
   :END:
 
 #+BEGIN_VERSE
@@ -1112,10 +1112,10 @@ Bhitare nehari bidhata tomar khama sagar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:64
+  :cite-key: KHKR:64
   :END:
 
 #+BEGIN_VERSE
@@ -1131,10 +1131,10 @@ I see Your Forgiveness-Ocean.
 * Puratane Khama Karite Haibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:65
+  :cite-key: KHKR:65
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Nutan jiban lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:66
+  :cite-key: KHKR:66
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ For a new life.
 * I Must Forgive My Own Past
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:67
+  :cite-key: KHKR:67
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ For a new life.
 * Tumi Tomar Kripar Ankhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:68
+  :cite-key: KHKR:68
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ Tumi tomar khamar hiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:69
+  :cite-key: KHKR:69
   :END:
 
 #+BEGIN_VERSE
@@ -1214,10 +1214,10 @@ You are Your Forgiveness-Heart.
 * You Are Your Compassion-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:70
+  :cite-key: KHKR:70
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ You are Your Forgiveness-Heart.
 * Speedily and Speedily
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:71
+  :cite-key: KHKR:71
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ The Forgiveness-Eye of the World-Lord is dancing.
 * Without God’s Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:72
+  :cite-key: KHKR:72
   :END:
 
 #+BEGIN_VERSE
@@ -1265,10 +1265,10 @@ My life is an endless desert.
 * Your Punishment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:73
+  :cite-key: KHKR:73
   :END:
 
 #+BEGIN_VERSE
@@ -1282,10 +1282,10 @@ Of Your secret Forgiveness.
 * Tumije Anadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:74
+  :cite-key: KHKR:74
   :END:
 
 #+BEGIN_VERSE
@@ -1299,10 +1299,10 @@ Nirabadhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1986
-  :CITE-KEY: KHKR:75
+  :cite-key: KHKR:75
   :END:
 
 #+BEGIN_VERSE

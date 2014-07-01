@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0190
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1974
- :PUBLISHER: Agni Press
- :CITE-KEY: ILC-2
- :GENRE: discourse, qa
- :KEYWORDS:
+ :book-number: 0190
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1974
+ :publisher: Agni Press
+ :cite-key: ILC-2
+ :genre: discourse, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Discourse
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:20e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:20e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Spiritual power
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILC:20
+ :genre: discourse
+ :keywords:
+ :cite-key: ILC:20
   :END:
 
 
@@ -57,9 +57,9 @@ Yoga is union, union with God, with the absolute Truth. A spiritual Master's sol
 * Part II: Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:21e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:21e1
   :END:
 
 
@@ -67,9 +67,9 @@ Yoga is union, union with God, with the absolute Truth. A spiritual Master's sol
 * Question: What is the difference between the highest Power and transcendental Power?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:21
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:21
   :END:
 
 
@@ -82,9 +82,9 @@ It is like the word 'God' and the word 'Supreme'. 'God' and 'Supreme' are the sa
 * Part III: Discourse
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:22e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:22e1
   :END:
 
 
@@ -92,9 +92,9 @@ It is like the word 'God' and the word 'Supreme'. 'God' and 'Supreme' are the sa
 * Attachment illumined
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILC:22
+ :genre: discourse
+ :keywords:
+ :cite-key: ILC:22
   :END:
 
 
@@ -129,9 +129,9 @@ When we want to see the Light in totality, in its infinite plenitude and all its
 * Part IV: Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:23e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:23e1
   :END:
 
 
@@ -139,9 +139,9 @@ When we want to see the Light in totality, in its infinite plenitude and all its
 * Question: I feel weak and I would like to know how I can feel stronger and more disciplined.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:23
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:23
   :END:
 
 
@@ -160,9 +160,9 @@ The world is unaspiring. According to us, unaspiring people are all sick people 
 * Question: Could you speak on anger?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:24
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:24
   :END:
 
 
@@ -175,9 +175,9 @@ Again, when anger comes to us we have to feel that it is something that is break
 * Question: When we are angry and feel annoyance with other people, what is the best way to deal with it?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:25
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:25
   :END:
 
 
@@ -192,9 +192,9 @@ So please meditate daily for at least ten minutes on God's aspect of Peace. If y
 * Question: Sometimes I get angry for no apparent reason. What is the inner reason?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:26
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:26
   :END:
 
 
@@ -207,9 +207,9 @@ We use time either for a negative purpose or for a positive purpose, either to e
 * Question: How can one overcome destructive anger?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:27
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:27
   :END:
 
 
@@ -226,9 +226,9 @@ If the problem of anger tortures you, please follow the positive path, the path 
 * Question: Is there any incurable spiritual disease?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:28
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:28
   :END:
 
 
@@ -245,9 +245,9 @@ I am not trying to discourage you; I wish to encourage you with all my heart. Bu
 * Question: I have an excessive passion for eating. I love the taste of food. How can I control this passion?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:29
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:29
   :END:
 
 
@@ -268,9 +268,9 @@ Whatever you feel is wrong in your life, whether it is passion or something else
 * Question: How can one transform the feelings of self-indulgence that interfere with duty?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:30
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:30
   :END:
 
 
@@ -289,9 +289,9 @@ We make ourselves feel that we are stronger than the senses. But no! The senses 
 * Question: Whenever I get unhappy, it generally has to do with my attachment, concern and worry about my children.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:31
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:31
   :END:
 
 
@@ -308,9 +308,9 @@ So when you worry or you are angry, your unhappiness will enter your daughter in
 * Question: How do you overcome the feeling of impatience when dealing with people?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:32
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:32
   :END:
 
 

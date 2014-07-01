@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 818
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1991
-  :PUBLISHER:
-  :CITE-KEY: SF-6
-  :GENRE: song
+  :book-number: 818
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1991
+  :publisher:
+  :cite-key: SF-6
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:360e1
+  :genre: note
+  :cite-key: SF:360e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:360e2
+  :genre: note
+  :cite-key: SF:360e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Alas, When Will I Have the Courage?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:360
+  :cite-key: SF:360
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Of my Lord’s streaming Tears?
 * Every Morning Across the Miles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-01-1989
-  :CITE-KEY: SF:361
+  :cite-key: SF:361
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ I send my oneness-heart.
 * I Am Ready Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-01-1989
-  :CITE-KEY: SF:362
+  :cite-key: SF:362
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ To my soul’s summit-height.
 * God Dances His Ecstasy-Dance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:363
+  :cite-key: SF:363
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Only in the heart of a soulful self-giver.
 * A Soulful Thought
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:364
+  :cite-key: SF:364
   :END:
 
 #+BEGIN_VERSE
@@ -130,10 +130,10 @@ From distant galaxies.
 * My Aspiration-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:365
+  :cite-key: SF:365
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ To the realisation-sun beyond.
 * Sleeplessly and Breathlessly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:366
+  :cite-key: SF:366
   :END:
 
 #+BEGIN_VERSE
@@ -166,10 +166,10 @@ Beautiful hope-blossoms.
 * God Wants to Know How You Are
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:367
+  :cite-key: SF:367
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ He expects an early reply.
 * The Language of Failure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:368
+  :cite-key: SF:368
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ The language of failure.
 * How Can God Praise You?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:369
+  :cite-key: SF:369
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ In your own prayer.
 * I Am Giving to the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:370
+  :cite-key: SF:370
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ What God has already given to me.
 * Happy Birthday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-02-1989
-  :CITE-KEY: SF:371
+  :cite-key: SF:371
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ We love your soul’s rainbow-dream promise-play.
 * Are You Serious, My Lord?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-02-1989
-  :CITE-KEY: SF:372
+  :cite-key: SF:372
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ In Your own Way?
 * Lethargy-Blanket
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1989
-  :CITE-KEY: SF:373
+  :cite-key: SF:373
   :END:
 
 #+BEGIN_VERSE
@@ -292,10 +292,10 @@ No more!
 * God Is Not Coming
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-02-1989
-  :CITE-KEY: SF:374
+  :cite-key: SF:374
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ In God-Love-songs.
 * Freedom Within, Freedom Without
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-03-1989
-  :CITE-KEY: SF:375
+  :cite-key: SF:375
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ I came into the world:
 * Many, Many Lives Ago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:376
+  :cite-key: SF:376
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ And how to serve Him
 * I Am My Mind’s Thunder-Blunders
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:377
+  :cite-key: SF:377
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Thunder-blunders.
 * I Am My Mind’s Frustration-Collection Box
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:378
+  :cite-key: SF:378
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Frustration-collection-box.
 * My Mind's Best Confusion-Class-Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:379
+  :cite-key: SF:379
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Confusion-class-friend.
 * My Mind’s Endless Stupidity-Capacity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:380
+  :cite-key: SF:380
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Endless stupidity-capacity.
 * I Am My Mind’s Desire-Frustration-Medal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-03-1989
-  :CITE-KEY: SF:381
+  :cite-key: SF:381
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ Desire-frustration-medal.
 * Every Morning God Begs Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:382
+  :cite-key: SF:382
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ To breathe His Infinity’s Breath.
 * Give First What You Want Most
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:383
+  :cite-key: SF:383
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ Satisfaction-joy.
 * Always, Always, Always
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:384
+  :cite-key: SF:384
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ The best beginning.
 * Every Day My Silence-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:385
+  :cite-key: SF:385
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +504,10 @@ Reaches a plateau of excellence.
 * My Heart Is Loyal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-01-1989
-  :CITE-KEY: SF:386
+  :cite-key: SF:386
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Only to the Absolute Supreme.
 * O My Mind, Stay Away
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-01-1989
-  :CITE-KEY: SF:387
+  :cite-key: SF:387
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ From the blind opinion-battle.
 * My Heart’s Self-Improvement-Room
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-01-1989
-  :CITE-KEY: SF:388
+  :cite-key: SF:388
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ Self-improvement-room.
 * My Mind’s Disobedience-Thunder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-01-1989
-  :CITE-KEY: SF:389
+  :cite-key: SF:389
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ Aspiration-tree.
 * A Blessingful Blink of Eternity’s Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:390
+  :cite-key: SF:390
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Of Eternity’s Eye.
 * I Shall No More Permit Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:391
+  :cite-key: SF:391
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Hopeless cries and helpless sighs.
 * My Lord’s Sweetness-Forgiveness-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:392
+  :cite-key: SF:392
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Is my life’s only liberation-light.
 * The Fragrance of a Humility-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:393
+  :cite-key: SF:393
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Is God’s matchless treasure.
 * A Cloud of Doubt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:394
+  :cite-key: SF:394
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ By a cloud of doubt.
 * To Please God at Every Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1989
-  :CITE-KEY: SF:395
+  :cite-key: SF:395
   :END:
 
 #+BEGIN_VERSE
@@ -681,10 +681,10 @@ A sprinter’s deer-speed.
 * When Your Master Is Highly Pleased
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:396
+  :cite-key: SF:396
   :END:
 
 #+BEGIN_VERSE
@@ -700,10 +700,10 @@ A tranquility-heart.
 * My Heart’s First Birthday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:397
+  :cite-key: SF:397
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ At my Master’s compassion-feet.
 * My Inner Pilot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1989
-  :CITE-KEY: SF:398
+  :cite-key: SF:398
   :END:
 
 #+BEGIN_VERSE
@@ -736,10 +736,10 @@ The clash of my desire-swords.
 * My Calling Distance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:399
+  :cite-key: SF:399
   :END:
 
 #+BEGIN_VERSE
@@ -754,10 +754,10 @@ Within my calling distance.
 * What Is Faith?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-02-1989
-  :CITE-KEY: SF:400
+  :cite-key: SF:400
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ If not a death-defying smile?
 * Your God-Interpretations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-02-1989
-  :CITE-KEY: SF:401
+  :cite-key: SF:401
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Let God speak for Himself.
 * O My Complacency-Pillow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1989
-  :CITE-KEY: SF:402
+  :cite-key: SF:402
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ To say goodbye to you.
 * When My Peace-Heart Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1989
-  :CITE-KEY: SF:403
+  :cite-key: SF:403
   :END:
 
 #+BEGIN_VERSE
@@ -825,10 +825,10 @@ My bliss-life sings.
 * I Love and Treasure the Rainbow-Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1989
-  :CITE-KEY: SF:404
+  :cite-key: SF:404
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ Of my God-obedience-heart.
 * O My Aggression-Vital
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1989
-  :CITE-KEY: SF:405
+  :cite-key: SF:405
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ My spirit’s death-punch.
 * My Basement-Progress-Doom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-02-1989
-  :CITE-KEY: SF:406
+  :cite-key: SF:406
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ I live in my basement-progress-doom.
 * Where Does God Live?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-02-1989
-  :CITE-KEY: SF:407
+  :cite-key: SF:407
   :END:
 
 #+BEGIN_VERSE
@@ -896,10 +896,10 @@ Gratitude-promise-mouth.
 * My Mind’s Thunder-Gong
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-03-1989
-  :CITE-KEY: SF:408
+  :cite-key: SF:408
   :END:
 
 #+BEGIN_VERSE
@@ -913,10 +913,10 @@ Is learning my heart’s sweetness-song.
 * My Perfection-Rest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-03-1989
-  :CITE-KEY: SF:409
+  :cite-key: SF:409
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ Is my oneness-nest.
 * No Sunset
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:410
+  :cite-key: SF:410
   :END:
 
 #+BEGIN_VERSE
@@ -947,10 +947,10 @@ Aspiration-sun.
 * My Gratitude-Presents
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:411
+  :cite-key: SF:411
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ God opens first.
 * My Heart’s Humility-Forgiveness-Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: SF:412
+  :cite-key: SF:412
   :END:
 
 #+BEGIN_VERSE

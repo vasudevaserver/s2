@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1332
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2000
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MAHC-1
-  :GENRE: prayer
-  :KEYWORDS:
+  :book-number: 1332
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2000
+  :publisher: Agni Press
+  :cite-key: MAHC-1
+  :genre: prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: MAHC:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: MAHC:1e1
   :END:
 
 
@@ -39,9 +39,9 @@ October 12th, 1999
 * 1.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:1
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:1
   :END:
 
 
@@ -70,9 +70,9 @@ New York
 * 2.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:2
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:2
   :END:
 
 
@@ -97,9 +97,9 @@ New York
 * 3.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:3
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:3
   :END:
 
 
@@ -124,9 +124,9 @@ New York
 * 4.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:4
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:4
   :END:
 
 
@@ -151,9 +151,9 @@ New York
 * 5.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:5
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:5
   :END:
 
 
@@ -179,9 +179,9 @@ New York
 * 6.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:6
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:6
   :END:
 
 
@@ -205,9 +205,9 @@ New York
 * 7.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:7
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:7
   :END:
 
 
@@ -232,9 +232,9 @@ New York
 * 8.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:8
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:8
   :END:
 
 
@@ -258,9 +258,9 @@ New York
 * 9.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:9
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:9
   :END:
 
 
@@ -287,9 +287,9 @@ New York
 * 10.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:10
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:10
   :END:
 
 
@@ -315,9 +315,9 @@ New York
 * 11.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:11
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:11
   :END:
 
 
@@ -341,9 +341,9 @@ New York
 * 12.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:12
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:12
   :END:
 
 
@@ -369,9 +369,9 @@ New York
 * 13.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:13
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:13
   :END:
 
 
@@ -396,9 +396,9 @@ New York
 * 14.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:14
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:14
   :END:
 
 
@@ -428,9 +428,9 @@ New York
 * 15.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:15
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:15
   :END:
 
 
@@ -455,9 +455,9 @@ New York
 * 16.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:16
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:16
   :END:
 
 
@@ -481,9 +481,9 @@ New York
 * 17.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:17
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:17
   :END:
 
 
@@ -508,9 +508,9 @@ New York
 * 18.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:18
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:18
   :END:
 
 
@@ -535,9 +535,9 @@ New York
 * 19.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:19
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:19
   :END:
 
 
@@ -561,9 +561,9 @@ New York
 * 20.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:20
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:20
   :END:
 
 
@@ -590,9 +590,9 @@ New York
 * 21.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:21
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:21
   :END:
 
 
@@ -617,9 +617,9 @@ New York
 * 22.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:22
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:22
   :END:
 
 
@@ -647,9 +647,9 @@ New York
 * 23.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:23
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:23
   :END:
 
 
@@ -676,9 +676,9 @@ New York
 * 24.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:24
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:24
   :END:
 
 
@@ -706,9 +706,9 @@ New York
 * 25.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:25
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:25
   :END:
 
 
@@ -733,9 +733,9 @@ New York
 * 26.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:26
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:26
   :END:
 
 
@@ -758,9 +758,9 @@ New York
 * 27.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:27
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:27
   :END:
 
 
@@ -786,9 +786,9 @@ New York
 * 28.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:28
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:28
   :END:
 
 
@@ -813,9 +813,9 @@ New York
 * 29.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:29
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:29
   :END:
 
 
@@ -839,9 +839,9 @@ New York
 * 30.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:30
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:30
   :END:
 
 
@@ -867,9 +867,9 @@ New York
 * 31.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:31
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:31
   :END:
 
 
@@ -894,9 +894,9 @@ New York
 * 32.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:32
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:32
   :END:
 
 
@@ -921,9 +921,9 @@ So Paulo, Brazil
 * 33.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:33
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:33
   :END:
 
 
@@ -948,9 +948,9 @@ So Paulo, Brazil
 * 34.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:34
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:34
   :END:
 
 
@@ -975,9 +975,9 @@ Nova Friburgo, Brazil
 * 35.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:35
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:35
   :END:
 
 
@@ -1006,9 +1006,9 @@ Nova Friburgo, Brazil
 * 36.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:36
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:36
   :END:
 
 
@@ -1032,9 +1032,9 @@ Nova Friburgo, Brazil
 * 37.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:37
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:37
   :END:
 
 
@@ -1061,9 +1061,9 @@ Nova Friburgo, Brazil
 * 38.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:38
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:38
   :END:
 
 
@@ -1087,9 +1087,9 @@ Rio de Janeiro, Brazil
 * 39.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:39
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:39
   :END:
 
 
@@ -1117,9 +1117,9 @@ Rio de Janeiro, Brazil
 * 40.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:40
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:40
   :END:
 
 
@@ -1143,9 +1143,9 @@ Rio de Janeiro, Brazil
 * 41.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:41
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:41
   :END:
 
 
@@ -1170,9 +1170,9 @@ Rio de Janeiro, Brazil
 * 42.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:42
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:42
   :END:
 
 
@@ -1198,9 +1198,9 @@ Rio de Janeiro, Brazil
 * 43.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:43
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:43
   :END:
 
 
@@ -1223,9 +1223,9 @@ Rio de Janeiro, Brazil
 * 44.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:44
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:44
   :END:
 
 
@@ -1250,9 +1250,9 @@ Rio de Janeiro, Brazil
 * 45.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:45
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:45
   :END:
 
 
@@ -1280,9 +1280,9 @@ Rio de Janeiro, Brazil
 * 46.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:46
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:46
   :END:
 
 
@@ -1307,9 +1307,9 @@ Curitiba, Brazil
 * 47.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:47
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:47
   :END:
 
 
@@ -1334,9 +1334,9 @@ Curitiba, Brazil
 * 48.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:48
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:48
   :END:
 
 
@@ -1361,9 +1361,9 @@ Curitiba, Brazil
 * 49.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MAHC:49
+  :genre: prayer
+  :keywords:
+  :cite-key: MAHC:49
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1154
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1997
-  :PUBLISHER: Agni Press
-  :CITE-KEY: M5IA
-  :GENRE: poem, discourse, song, aphorism
-  :KEYWORDS:
+  :book-number: 1154
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1997
+  :publisher: Agni Press
+  :cite-key: M5IA
+  :genre: poem, discourse, song, aphorism
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: M5IA:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: M5IA:1e1
   :END:
 
 
@@ -51,9 +51,9 @@ Japan
 * My soulful homage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:1
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:1
   :END:
 
 
@@ -106,9 +106,9 @@ Renko-ji Temple, Tokyo, Japan
 * Japan: A soulful flower-garden
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:2
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:2
   :END:
 
 
@@ -132,9 +132,9 @@ High Heaven's hallowed Plan.
 * Message from the head priest of Renko-Ji Temple
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: M5IA:3e1
+  :genre: note
+  :keywords:
+  :cite-key: M5IA:3e1
   :END:
 
 
@@ -151,9 +151,9 @@ Suginami-ku, Tokyo \\
 * Chapter One -- Netaji Subhas Chandra Bose: "Give me blood! I shall give you freedom."
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:3e2
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:3e2
   :END:
 
 
@@ -161,9 +161,9 @@ Suginami-ku, Tokyo \\
 * A dreamer
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:3
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:3
   :END:
 
 
@@ -188,9 +188,9 @@ Subhas Chandra Bose
 * Netaji Subhas, Netaji!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:4
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:4
   :END:
 
 
@@ -216,9 +216,9 @@ O Immortality's Subhas!
 * Netaji Subhas, Netaji!
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:5
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:5
   :END:
 
 
@@ -249,9 +249,9 @@ And Heaven's Victory-Shore.
 * 1.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:6
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:6
   :END:
 
 
@@ -276,9 +276,9 @@ Three and a half months later, on 21 October 1943, Netaji first announced the fo
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:7
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:7
   :END:
 
 
@@ -300,9 +300,9 @@ Of tomorrow's deathless stars.
 * 7.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:8
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:8
   :END:
 
 
@@ -321,9 +321,9 @@ On 5 July 1943 in Singapore, Netaji announced to the world the existence of the 
 * Dilli Chalo
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:9
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:9
   :END:
 
 
@@ -351,9 +351,9 @@ Victory-Conch!
 * Dilli Chalo
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:10
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:10
   :END:
 
 
@@ -373,9 +373,9 @@ Bajai chalo bajai chalo mayer bijoy shankh
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:11
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:11
   :END:
 
 
@@ -391,9 +391,9 @@ Indeed, his is the claim /par excellence./
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:12
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:12
   :END:
 
 
@@ -412,9 +412,9 @@ And nothing less!
 * 11.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:13
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:13
   :END:
 
 
@@ -431,9 +431,9 @@ Powerfully and courageously Netaji thundered:
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:14
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:14
   :END:
 
 
@@ -451,9 +451,9 @@ Of his absolute confidence.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:15
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:15
   :END:
 
 
@@ -470,9 +470,9 @@ Of his heart.
 * 13.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:16
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:16
   :END:
 
 
@@ -489,9 +489,9 @@ On 21 October 1943, in Singapore, Netaji took a most sacred oath as the Supreme 
 * 14.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:17
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:17
   :END:
 
 
@@ -510,9 +510,9 @@ A soldier who was present on the unforgettable occasion when Netaji swore this o
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:18
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:18
   :END:
 
 
@@ -535,9 +535,9 @@ It is a life-after-life matter.
 * 16.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:19
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:19
   :END:
 
 
@@ -554,9 +554,9 @@ He implanted in his I.N.A. soldiers the realisation that they were the pioneers 
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:20
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:20
   :END:
 
 
@@ -576,9 +576,9 @@ And absolutely rapturous.
 * 18.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:21
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:21
   :END:
 
 
@@ -597,9 +597,9 @@ Netaji's visionary speeches lit a fire never to be forgotten in the hearts of hi
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:22
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:22
   :END:
 
 
@@ -618,9 +618,9 @@ Of his Indian brothers and sisters.
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:23
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:23
   :END:
 
 
@@ -638,9 +638,9 @@ In a thaumaturgic way.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:24
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:24
   :END:
 
 
@@ -658,9 +658,9 @@ Including Mahatma Gandhi!
 * 22.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:25
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:25
   :END:
 
 
@@ -677,9 +677,9 @@ Gandhi-ji's glowing sincerity spoke when he admired the I.N.A.'s achievements:
 * 28.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:26
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:26
   :END:
 
 
@@ -698,9 +698,9 @@ The path of ahimsa (non-violence) was not for Netaji. When he was only 17 years 
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:27
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:27
   :END:
 
 
@@ -718,9 +718,9 @@ To the freedom-cause of India.
 * 30.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:28
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:28
   :END:
 
 
@@ -737,9 +737,9 @@ Netaji's oneness with the hardships his soldiers endured, in addition to his cou
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:29
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:29
   :END:
 
 
@@ -756,9 +756,9 @@ To his eagerness-heart.
 * 32.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:30
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:30
   :END:
 
 
@@ -775,9 +775,9 @@ Netaji never gave up and he never lost hope. When there was no possibility for h
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:31
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:31
   :END:
 
 
@@ -794,9 +794,9 @@ Gave his mind an extraordinary glow.
 * 34.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:32
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:32
   :END:
 
 
@@ -813,9 +813,9 @@ Countless Indians thrilled to his words and discovered in him a beacon to dispel
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:33
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:33
   :END:
 
 
@@ -835,9 +835,9 @@ Every day.
 * 36.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:34
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:34
   :END:
 
 
@@ -854,9 +854,9 @@ Netaji's historic address to his army upon entering India in 1944 runs:
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:35
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:35
   :END:
 
 
@@ -874,9 +874,9 @@ For our Motherland.
 * 38.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:36
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:36
   :END:
 
 
@@ -893,9 +893,9 @@ Netaji's sleepless and breathless self-giving for his country inspired countless
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:37
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:37
   :END:
 
 
@@ -912,9 +912,9 @@ Never took backward steps.
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:38
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:38
   :END:
 
 
@@ -932,9 +932,9 @@ Even for a fleeting second.
 * 41.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:39
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:39
   :END:
 
 
@@ -951,9 +951,9 @@ Even as the British military was assaulting Netaji's I.N.A. in Rangoon and elsew
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:40
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:40
   :END:
 
 
@@ -970,9 +970,9 @@ Never took a break.
 * 43.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:41
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:41
   :END:
 
 
@@ -989,9 +989,9 @@ Even when he knew there was little chance of success, Netaji's eagerness-heart p
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:42
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:42
   :END:
 
 
@@ -1016,9 +1016,9 @@ Became the builder of tomorrow's India.
 * 45.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:43
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:43
   :END:
 
 
@@ -1037,9 +1037,9 @@ Needless to say, the partition of Bengal put an end to the Bengal of Netaji's dr
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:44
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:44
   :END:
 
 
@@ -1057,9 +1057,9 @@ And he did make good use of it.
 * 47.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:45
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:45
   :END:
 
 
@@ -1076,9 +1076,9 @@ Netaji's spirited rallying of the youth of India was surcharged with a super-abu
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:46
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:46
   :END:
 
 
@@ -1098,9 +1098,9 @@ And his self-giving life.
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:47
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:47
   :END:
 
 
@@ -1118,9 +1118,9 @@ Of God-hunger-cry.
 * 50.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:48
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:48
   :END:
 
 
@@ -1137,9 +1137,9 @@ In this respect, I gladly join the company of his dearest friend Dilip Kumar Roy
 * 51.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:49
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:49
   :END:
 
 
@@ -1156,9 +1156,9 @@ But a dauntless performer.
 * 52.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:50
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:50
   :END:
 
 
@@ -1175,9 +1175,9 @@ At each hush-gap.
 * 53.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:51
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:51
   :END:
 
 
@@ -1194,9 +1194,9 @@ The road to independence was blocked by mountainous obstacles. But Netaji's dete
 * 54.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:52
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:52
   :END:
 
 
@@ -1213,9 +1213,9 @@ Even in hell's despair.
 * 55.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:53
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:53
   :END:
 
 
@@ -1237,9 +1237,9 @@ Must fly faster than any bird can fly.' [fn:2]
 * 56.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:54
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:54
   :END:
 
 
@@ -1261,9 +1261,9 @@ Lovingly, self-givingly and unconditionally.
 * 57.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:55
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:55
   :END:
 
 
@@ -1281,9 +1281,9 @@ And oneness-song.
 * 58.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:56
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:56
   :END:
 
 
@@ -1302,9 +1302,9 @@ They removed the extra pieces from Netaji's plate and he happily declared, 'Now 
 * 59.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:57
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:57
   :END:
 
 
@@ -1322,9 +1322,9 @@ Him they gave their all, very all.
 * 60.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:58
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:58
   :END:
 
 
@@ -1343,9 +1343,9 @@ To the independence of India.
 * 61.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:59
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:59
   :END:
 
 
@@ -1362,9 +1362,9 @@ And he himself led the way by envisioning the vast impact for good that India's 
 * 62.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:60
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:60
   :END:
 
 
@@ -1381,9 +1381,9 @@ Wisp of thought.
 * 63.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:61
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:61
   :END:
 
 
@@ -1400,9 +1400,9 @@ Freedom itself is the only way.
 * 64.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:62
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:62
   :END:
 
 
@@ -1419,9 +1419,9 @@ Even so, we cannot overestimate God's Grace.
 * 65.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:63
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:63
   :END:
 
 
@@ -1438,9 +1438,9 @@ Of eternal optimism.
 * 66.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:64
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:64
   :END:
 
 
@@ -1458,9 +1458,9 @@ Of India's revolutionaries.
 * 67.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:65
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:65
   :END:
 
 
@@ -1487,9 +1487,9 @@ Is this not the greatest victory?
 * 68.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:66
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:66
   :END:
 
 
@@ -1509,9 +1509,9 @@ Failed to dog him.
 * 69.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:67
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:67
   :END:
 
 
@@ -1528,9 +1528,9 @@ From his childhood days to his last living moments, every fibre of Netaji's bein
 * 70.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:68
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:68
   :END:
 
 
@@ -1548,9 +1548,9 @@ India's fate-maker.
 * Chapter Two --  Sarat, Sisir and Subhas: a self-giving heart and a daring life with their cynosure
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:69e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:69e1
   :END:
 
 
@@ -1558,9 +1558,9 @@ India's fate-maker.
 * Pranati Janai Sarat Chandra
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:69
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:69
   :END:
 
 
@@ -1580,9 +1580,9 @@ Abhipsa taba hayeche purna, turiya dhamer tyagi
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:70
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:70
   :END:
 
 
@@ -1606,9 +1606,9 @@ And higher than the highest.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:71
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:71
   :END:
 
 
@@ -1625,9 +1625,9 @@ Affection, concern, joy and pride-canopy!
 * 3.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:72
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:72
   :END:
 
 
@@ -1644,9 +1644,9 @@ Subhas derived tremendous strength and succour from Sarat's correspondence and p
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:73
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:73
   :END:
 
 
@@ -1663,9 +1663,9 @@ From Sarat Chandra's heart.
 * 5.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:74
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:74
   :END:
 
 
@@ -1684,9 +1684,9 @@ Said Subhas:
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:75
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:75
   :END:
 
 
@@ -1706,9 +1706,9 @@ Even to Subhas Chandra's highest ideas and noblest ideals.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:76
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:76
   :END:
 
 
@@ -1726,9 +1726,9 @@ Was still in the land of the living.
 * 8.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:77
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:77
   :END:
 
 
@@ -1753,9 +1753,9 @@ Subhas"
 * Blessed Sisir
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:78
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:78
   :END:
 
 
@@ -1781,9 +1781,9 @@ You have received and achieved.
 * Dhanya Sisir
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:79
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:79
   :END:
 
 
@@ -1803,9 +1803,9 @@ Subhas ashish garima mahima animeshe tumi peyecho
 * Message from Dr. Sisir Kumar Bose
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: M5IA:80
+  :genre: epistle
+  :keywords:
+  :cite-key: M5IA:80
   :END:
 
 
@@ -1830,9 +1830,9 @@ Calcutta, India
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:81
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:81
   :END:
 
 
@@ -1857,9 +1857,9 @@ To the Cause Supreme.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:82
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:82
   :END:
 
 
@@ -1877,9 +1877,9 @@ Dancing with ecstasy's height and depth.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:83
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:83
   :END:
 
 
@@ -1903,9 +1903,9 @@ In every sense of the term.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:84
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:84
   :END:
 
 
@@ -1929,9 +1929,9 @@ Freedom-struggle-escape-sacrifice-saga.
 * 13.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:85
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:85
   :END:
 
 
@@ -1944,9 +1944,9 @@ After driving Subhas from Calcutta to Gomoh, with a rest stop at the house of hi
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:86
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:86
   :END:
 
 
@@ -1966,9 +1966,9 @@ India-independence-dream-supporters.
 * 15.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:87
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:87
   :END:
 
 
@@ -1987,9 +1987,9 @@ How brave he was at the age of only 20 to participate in one of the most daring 
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:88
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:88
   :END:
 
 
@@ -2008,9 +2008,9 @@ India-independence-discovery-journey.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:89
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:89
   :END:
 
 
@@ -2028,9 +2028,9 @@ To the inner distance of Infinity.
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:90
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:90
   :END:
 
 
@@ -2050,9 +2050,9 @@ From India.
 * 19.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:91
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:91
   :END:
 
 
@@ -2065,9 +2065,9 @@ Subhas escaped at one-thirty in the morning on 17 January 1941, wearing Muslim d
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:92
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:92
   :END:
 
 
@@ -2085,9 +2085,9 @@ Mother India-independence-fulfilment-opportunity.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:93
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:93
   :END:
 
 
@@ -2105,9 +2105,9 @@ A self-giving hero-champion.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:94
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:94
   :END:
 
 
@@ -2126,9 +2126,9 @@ They sang their oneness-heart-song.
 * Krishna: daughter of dawn
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:95
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:95
   :END:
 
 
@@ -2156,9 +2156,9 @@ And you are your self-offering-blossoms.
 * Ushasi Kanya Bidushi Krishna
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:96
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:96
   :END:
 
 
@@ -2182,9 +2182,9 @@ Bhakati ahuti nibedan
 * Message from Dr. Krishna Bose
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: M5IA:97
+  :genre: epistle
+  :keywords:
+  :cite-key: M5IA:97
   :END:
 
 
@@ -2207,9 +2207,9 @@ Calcutta, India
 * My gratitude-heart-offerings
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:98
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:98
   :END:
 
 
@@ -2229,9 +2229,9 @@ Indeed, these books, along with their other works, are indispensable if we desir
 
   :PROPERTIES:
   :SUBTITLE: Emilie, Anita And Subhas:
-  :GENRE: chapter
-  :KEYWORDS:
-  :CITE-KEY: M5IA:99
+  :genre: chapter
+  :keywords:
+  :cite-key: M5IA:99
   :END:
 
 
@@ -2239,9 +2239,9 @@ Indeed, these books, along with their other works, are indispensable if we desir
 * Emilie: Netaji's life-partner
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:100
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:100
   :END:
 
 
@@ -2269,9 +2269,9 @@ You spread all-where his redolence.
 * Emilie: Netaji's Life-Partner
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:101
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:101
   :END:
 
 
@@ -2297,9 +2297,9 @@ Chharaye surabhi chameli
 * Anita: Netaji's daughter beloved
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:102
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:102
   :END:
 
 
@@ -2320,9 +2320,9 @@ Of their sincerity-sweetness and oneness-bridge.
 * Anita: Netaji's daughter beloved
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: M5IA:103
+  :genre: song
+  :keywords:
+  :cite-key: M5IA:103
   :END:
 
 
@@ -2340,9 +2340,9 @@ Satatar madhu ekatar setu tripti ranga
 * Message from Professor Anita B. Pfaff
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: M5IA:104
+  :genre: epistle
+  :keywords:
+  :cite-key: M5IA:104
   :END:
 
 
@@ -2363,9 +2363,9 @@ Augsburg, Germany
 * Netaji-Man of Steel -- by Ananda Guruge
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:105
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:105
   :END:
 
 
@@ -2398,9 +2398,9 @@ Note: H.E. Ananda Guruge is a devout Buddhist who hails from Sri Lanka. He is a 
 
   :PROPERTIES:
   :SUBTITLE:
-  :GENRE: chapter
-  :KEYWORDS:
-  :CITE-KEY: M5IA:106
+  :genre: chapter
+  :keywords:
+  :cite-key: M5IA:106
   :END:
 
 
@@ -2408,9 +2408,9 @@ Note: H.E. Ananda Guruge is a devout Buddhist who hails from Sri Lanka. He is a 
 * Messages from Siddhartha Shankar Ray and Maya Devi Ray
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: M5IA:107
+  :genre: epistle
+  :keywords:
+  :cite-key: M5IA:107
   :END:
 
 
@@ -2451,9 +2451,9 @@ Maya Devi Ray
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:108
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:108
   :END:
 
 
@@ -2472,9 +2472,9 @@ Hope-multiplication.
 * 2.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:109
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:109
   :END:
 
 
@@ -2493,9 +2493,9 @@ He accepted Deshabandhu as his political Guru.
 * 3.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:110
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:110
   :END:
 
 
@@ -2514,9 +2514,9 @@ Here C. R. Das is proving that the connection between the Guru and the close dis
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:111
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:111
   :END:
 
 
@@ -2533,9 +2533,9 @@ An insight-door into Deshabandhu's affection-pride for his Subhas Chandra is ope
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:112
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:112
   :END:
 
 
@@ -2558,9 +2558,9 @@ Nothing short of absurdity.
 * 6.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:113
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:113
   :END:
 
 
@@ -2577,9 +2577,9 @@ Many years later, after Deshabandhu's passing, Subhas wrote a stirring article i
 * 7.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:114
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:114
   :END:
 
 
@@ -2596,9 +2596,9 @@ Subhas wrote a most significant letter to Sarat Chandra, the novelist of the Him
 * Chapter Five - Mahatma and Netaji: Mother India's two pinnacle-patriot-sons
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:115e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:115e1
   :END:
 
 
@@ -2606,9 +2606,9 @@ Subhas wrote a most significant letter to Sarat Chandra, the novelist of the Him
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:115
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:115
   :END:
 
 
@@ -2627,9 +2627,9 @@ Lo, the Goal is won!
 * 2.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:116
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:116
   :END:
 
 
@@ -2646,9 +2646,9 @@ Dr. Sisir Kumar Bose, Netaji's nephew, has most powerfully and eloquently summar
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:117
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:117
   :END:
 
 
@@ -2666,9 +2666,9 @@ The real Father of the Indian sub-continent.
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:118
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:118
   :END:
 
 
@@ -2693,9 +2693,9 @@ About Mahatma, Netaji said:
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:119
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:119
   :END:
 
 
@@ -2713,9 +2713,9 @@ Dynamism within, heroism without.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:120
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:120
   :END:
 
 
@@ -2735,9 +2735,9 @@ From the shackles of ruthless Britons.'
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:121
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:121
   :END:
 
 
@@ -2755,9 +2755,9 @@ Volcano-voice.
 * 8.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:122
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:122
   :END:
 
 
@@ -2780,9 +2780,9 @@ Subhas Chandra's wisdom-flooded mind said to them, "If I declare 'Quit India,' o
 * 9.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:123
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:123
   :END:
 
 
@@ -2795,9 +2795,9 @@ Here, again, Subhas was right. When Mahatma said, "Quit India," the entire natio
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:124
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:124
   :END:
 
 
@@ -2814,9 +2814,9 @@ With infinite caution.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:125
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:125
   :END:
 
 
@@ -2834,9 +2834,9 @@ Fast, faster, fastest!
 * 12.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:126
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:126
   :END:
 
 
@@ -2888,9 +2888,9 @@ Forth from her Army's thousand victories won!
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:127
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:127
   :END:
 
 
@@ -2920,9 +2920,9 @@ Their open and express opposition.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:128
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:128
   :END:
 
 
@@ -2945,9 +2945,9 @@ No, surely not his real political compatriots!
 * 15.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:129
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:129
   :END:
 
 
@@ -2964,9 +2964,9 @@ Although Pattabhi Sitaramayya lost to Subhas Chandra, he was one of the very few
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:130
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:130
   :END:
 
 
@@ -2985,9 +2985,9 @@ For Mother India.
 * 17.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:131
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:131
   :END:
 
 
@@ -3006,9 +3006,9 @@ Even Nehru wrote to Gandhi-ji begging him to mend the rift with Subhas, but to n
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:132
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:132
   :END:
 
 
@@ -3030,9 +3030,9 @@ Far outlasted their dog-barks and dog-bites.
 * 19.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:133
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:133
   :END:
 
 
@@ -3055,9 +3055,9 @@ Alas, when Subhas was a victim to high fever and sickness, his fate was otherwis
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:134
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:134
   :END:
 
 
@@ -3077,9 +3077,9 @@ Of Mahatma's unwillingness-mind.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:135
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:135
   :END:
 
 
@@ -3099,9 +3099,9 @@ And heart's willingness.
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:136
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:136
   :END:
 
 
@@ -3119,9 +3119,9 @@ And far beyond all subterfuge.
 * 23.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:137
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:137
   :END:
 
 
@@ -3156,9 +3156,9 @@ When did they help? When, for God's sake? The height of ridiculous absurdity!
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:138
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:138
   :END:
 
 
@@ -3175,9 +3175,9 @@ Inside uncertainty's mist.
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:139
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:139
   :END:
 
 
@@ -3194,9 +3194,9 @@ In the presence of Subhas Chandra.
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:140
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:140
   :END:
 
 
@@ -3223,9 +3223,9 @@ Simply did not want to come to the fore.
 * 27.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:141
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:141
   :END:
 
 
@@ -3242,9 +3242,9 @@ To the truth-seekers and truth-discoverers, it is crystal-clear that Mahatma was
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:142
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:142
   :END:
 
 
@@ -3263,9 +3263,9 @@ Were always of the purest and best."
 * 29.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:143
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:143
   :END:
 
 
@@ -3284,9 +3284,9 @@ The same Gandhi-ji, in answer to a question from the American journalist Louis F
 * 30.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:144
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:144
   :END:
 
 
@@ -3305,9 +3305,9 @@ Mahatma was cut to the quick. Then this same Mahatma had to tell the world:
 * 31.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:145
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:145
   :END:
 
 
@@ -3326,9 +3326,9 @@ Patel was compelled to give the full amount to Pakistan.
 * 32.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:146
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:146
   :END:
 
 
@@ -3355,9 +3355,9 @@ This time Sarat wisely threw out a red herring. His reply was:
 * 33.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:147
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:147
   :END:
 
 
@@ -3382,9 +3382,9 @@ To the end he looked upon Gandhi-ji as the Father of the Nation. He maintained h
 * 34.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:148
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:148
   :END:
 
 
@@ -3401,9 +3401,9 @@ In the outer world we notice two colossal souls with unfulfilled dreams. But whe
 * 35.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:149
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:149
   :END:
 
 
@@ -3420,9 +3420,9 @@ Eventually, Tagore's /Jana Gana/ was adopted as the official national anthem of 
 * 36.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:150
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:150
   :END:
 
 
@@ -3437,9 +3437,9 @@ Other political leaders also cried ditto.
 * 37.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:151
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:151
   :END:
 
 
@@ -3460,9 +3460,9 @@ On the other hand, Subhas Chandra was able to come to an agreement with Jinnah i
 * 38.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:152
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:152
   :END:
 
 
@@ -3475,9 +3475,9 @@ Gandhi-ji's adherence to truth we notice right from his school days. He always t
 * Chapter Six -- Rabindranath and Subhas: Immortality's bard and eternity's hero -- The flute player versus the sword-wielder
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:153e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:153e1
   :END:
 
 
@@ -3485,9 +3485,9 @@ Gandhi-ji's adherence to truth we notice right from his school days. He always t
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:153
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:153
   :END:
 
 
@@ -3505,9 +3505,9 @@ From his mind's hesitation-fog.
 * 2.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:154
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:154
   :END:
 
 
@@ -3526,9 +3526,9 @@ Around 1914, while Subhas Chandra was studying at the Presidency College, he too
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:155
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:155
   :END:
 
 
@@ -3548,9 +3548,9 @@ Was a perfect stranger to fanaticism.
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:156
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:156
   :END:
 
 
@@ -3569,9 +3569,9 @@ In his later years, the Poet openly traced the ripening of his esteem for Subhas
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:157
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:157
   :END:
 
 
@@ -3591,9 +3591,9 @@ India-liberation-cry.
 * 6.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:158
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:158
   :END:
 
 
@@ -3620,9 +3620,9 @@ His dearest friend Dilip reflects:
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:159
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:159
   :END:
 
 
@@ -3643,9 +3643,9 @@ In the dawning future.
 * 8.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:160
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:160
   :END:
 
 
@@ -3662,9 +3662,9 @@ Ultimately Tagore's highest seer-vision vividly brought before his inner eye Sub
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:161
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:161
   :END:
 
 
@@ -3688,9 +3688,9 @@ Were unmistakably genuine.
 * 10.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:162
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:162
   :END:
 
 
@@ -3717,9 +3717,9 @@ On his part also, Tagore used to write most affectionate letters enquiring about
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:163
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:163
   :END:
 
 
@@ -3740,9 +3740,9 @@ Of Netaji, Gandhi-ji and other front-rank political leaders.
 * 12.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:164
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:164
   :END:
 
 
@@ -3769,9 +3769,9 @@ How Tagore suffered by loving both Subhas and Gandhi-ji can only be felt and nev
 * 13.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:165
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:165
   :END:
 
 
@@ -3786,9 +3786,9 @@ Since Subhas Chandra's arrest was ill-founded, he challenged the authorities. On
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:166
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:166
   :END:
 
 
@@ -3814,9 +3814,9 @@ And the pinnacle-Mother-India-patriot.
 * 15.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:167
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:167
   :END:
 
 
@@ -3833,9 +3833,9 @@ The fight for India's independence was far from won, but Tagore knew that the fi
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:168
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:168
   :END:
 
 
@@ -3856,9 +3856,9 @@ And the man of India's destiny.
 * 17.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:169
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:169
   :END:
 
 
@@ -3876,9 +3876,9 @@ In 1939, just two years before the Poet's earth-sojourn ended, he crowned Subhas
 * Chapter Seven -- Two scenes from an imaginative play about India's revolutionary heroes
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:170e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:170e1
   :END:
 
 
@@ -3888,9 +3888,9 @@ In 1939, just two years before the Poet's earth-sojourn ended, he crowned Subhas
 * First Act
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: M5IA:170
+  :genre: play
+  :keywords:
+  :cite-key: M5IA:170
   :END:
 
 
@@ -3931,9 +3931,9 @@ Where am I? Where is my Motherland? O my Mother India, I do not mind in the leas
 * Third scene
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: M5IA:171
+  :genre: play
+  :keywords:
+  :cite-key: M5IA:171
   :END:
 
 
@@ -4004,9 +4004,9 @@ Deshabandhu: Come, let us go! We shall go first to East Bengal, which they now c
 * Chapter eight -- Jawaharlal and Subhas: Allabhad's sailing moon versus Bengal's blazing sun
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:172e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:172e1
   :END:
 
 
@@ -4014,9 +4014,9 @@ Deshabandhu: Come, let us go! We shall go first to East Bengal, which they now c
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:172
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:172
   :END:
 
 
@@ -4034,9 +4034,9 @@ From Gandhi-obedience-school.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:173
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:173
   :END:
 
 
@@ -4053,9 +4053,9 @@ After Subhas was elected President of the Indian Congress for his second term, N
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:174
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:174
   :END:
 
 
@@ -4074,9 +4074,9 @@ He had to face.
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:175
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:175
   :END:
 
 
@@ -4095,9 +4095,9 @@ In Subhas and Nehru we see an uneven exchange of gifts: Subhas offered Nehru his
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:176
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:176
   :END:
 
 
@@ -4116,9 +4116,9 @@ He could easily swallow them.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:177
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:177
   :END:
 
 
@@ -4137,9 +4137,9 @@ With reality.
 * 7.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:178
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:178
   :END:
 
 
@@ -4158,9 +4158,9 @@ Subhas was saddened and angered by Nehru's criticism-volleys. He responded with 
 * 8.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:179
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:179
   :END:
 
 
@@ -4201,9 +4201,9 @@ The second message is that of Prime Minister Indira Gandhi, Nehru's own daughter
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:180
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:180
   :END:
 
 
@@ -4231,9 +4231,9 @@ Could justify your deplorable conduct!
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:181
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:181
   :END:
 
 
@@ -4255,9 +4255,9 @@ What that something else was!
 * 11.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:182
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:182
   :END:
 
 
@@ -4274,9 +4274,9 @@ From where to where! Alas, in 1964 Nehru passed on. God alone knows if Nehru del
 * Chapter nine -- Subhas and his compatriots
 
   :PROPERTIES:
-  :GENRE: chapter
-  :KEYWORDS:
-  :CITE-KEY: M5IA:183
+  :genre: chapter
+  :keywords:
+  :cite-key: M5IA:183
   :END:
 
 
@@ -4284,9 +4284,9 @@ From where to where! Alas, in 1964 Nehru passed on. God alone knows if Nehru del
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:184
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:184
   :END:
 
 
@@ -4303,9 +4303,9 @@ Doubt-stained minds.
 * 2.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:185
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:185
   :END:
 
 
@@ -4322,9 +4322,9 @@ And yet, Subhas could not be swayed from his God-ordained mission. In a letter t
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:186
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:186
   :END:
 
 
@@ -4342,9 +4342,9 @@ We saw Heaven's fastest progress-plane.
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:187
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:187
   :END:
 
 
@@ -4363,9 +4363,9 @@ Ultimately, Gandhi-ji himself moved a resolution for complete independence in 19
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:188
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:188
   :END:
 
 
@@ -4382,9 +4382,9 @@ Ruthlessly dogged him.
 * 6.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:189
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:189
   :END:
 
 
@@ -4395,9 +4395,9 @@ Although Subhas was elected as President of the National Congress for a second t
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:190
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:190
   :END:
 
 
@@ -4415,9 +4415,9 @@ Through the streams of anxiety.
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:191
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:191
   :END:
 
 
@@ -4436,9 +4436,9 @@ Something as pathetic as this!
 * 9.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:192
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:192
   :END:
 
 
@@ -4455,9 +4455,9 @@ In a letter to his wife Emilie written just ten days prior to his resignation as
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:193
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:193
   :END:
 
 
@@ -4474,9 +4474,9 @@ Whose minds had a chronic aversion to reality.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:194
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:194
   :END:
 
 
@@ -4493,9 +4493,9 @@ Of hope.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:195
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:195
   :END:
 
 
@@ -4513,9 +4513,9 @@ And freedom-fighters.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:196
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:196
   :END:
 
 
@@ -4534,9 +4534,9 @@ And doubt-forest.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:197
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:197
   :END:
 
 
@@ -4555,9 +4555,9 @@ Of our divided and dividing minds.'
 * 15.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:198
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:198
   :END:
 
 
@@ -4574,9 +4574,9 @@ Even after Subhas Chandra's heart was torn by the shameless resignation of most 
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:199
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:199
   :END:
 
 
@@ -4596,9 +4596,9 @@ India's gratitude-pride-blossoms.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:200
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:200
   :END:
 
 
@@ -4615,9 +4615,9 @@ He became nothing short of an utter expectation-victim.
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:201
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:201
   :END:
 
 
@@ -4639,9 +4639,9 @@ Come to an infallible decision.'
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:202
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:202
   :END:
 
 
@@ -4660,9 +4660,9 @@ Always went with him.
 * 20.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:203
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:203
   :END:
 
 
@@ -4679,9 +4679,9 @@ After the I.N.A. was forced to retreat from its foray into India, Netaji's optim
 * Chapter ten -- Subhas the truth-seeker and God-lover
 
   :PROPERTIES:
-  :GENRE: chapter
-  :KEYWORDS:
-  :CITE-KEY: M5IA:204
+  :genre: chapter
+  :keywords:
+  :cite-key: M5IA:204
   :END:
 
 
@@ -4689,9 +4689,9 @@ After the I.N.A. was forced to retreat from its foray into India, Netaji's optim
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:205
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:205
   :END:
 
 
@@ -4708,9 +4708,9 @@ Of a God-devotion-life.
 * 2.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:206
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:206
   :END:
 
 
@@ -4743,9 +4743,9 @@ These all-inspiring words later found new expression in Subhas Chandra's own spe
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:207
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:207
   :END:
 
 
@@ -4766,9 +4766,9 @@ Simplicity-ocean and God-realisation-mountain-life.
 * 4.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:208
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:208
   :END:
 
 
@@ -4785,9 +4785,9 @@ As Subhas would later recount:
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:209
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:209
   :END:
 
 
@@ -4806,9 +4806,9 @@ Ever to end.
 * 6.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:210
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:210
   :END:
 
 
@@ -4825,9 +4825,9 @@ To his mother, Prabhavati Devi, Subhas confided his innermost thoughts, feelings
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:211
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:211
   :END:
 
 
@@ -4849,9 +4849,9 @@ From the shackles of the foreign yoke.
 * 8.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:212
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:212
   :END:
 
 
@@ -4868,9 +4868,9 @@ We shall not be surprised to discover that Subhas also developed boundless admir
 * 9.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:213
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:213
   :END:
 
 
@@ -4889,9 +4889,9 @@ Sri Aurobindo had deliberately failed the riding portion of this same I.C.S. exa
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:214
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:214
   :END:
 
 
@@ -4912,9 +4912,9 @@ To his heart-cry.
 * 11.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:215
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:215
   :END:
 
 
@@ -4931,9 +4931,9 @@ What inner flame of truth possessed young Subhas to place service to the country
 * Chapter eleven -- Subhas and Dilip: the mystic friend versus the psychic friend
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:216e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:216e1
   :END:
 
 
@@ -4941,9 +4941,9 @@ What inner flame of truth possessed young Subhas to place service to the country
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:216
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:216
   :END:
 
 
@@ -4959,9 +4959,9 @@ Dilip is beauty's song.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:217
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:217
   :END:
 
 
@@ -4988,9 +4988,9 @@ And heart-affection-shores.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:218
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:218
   :END:
 
 
@@ -5020,9 +5020,9 @@ With Me and for Me.'
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:219
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:219
   :END:
 
 
@@ -5058,9 +5058,9 @@ A friend indeed!'
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:220
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:220
   :END:
 
 
@@ -5080,9 +5080,9 @@ Two heart-offering and life-illumining friends.
 * 6.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:221
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:221
   :END:
 
 
@@ -5099,9 +5099,9 @@ One day at his sister's house in Barrackpore, Dilip offered a reception for Subh
 * 7.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:222
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:222
   :END:
 
 
@@ -5118,9 +5118,9 @@ To witness the mutual and abiding friendship between these favourite two of Beng
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:223
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:223
   :END:
 
 
@@ -5138,9 +5138,9 @@ Or buried in oblivion.
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:224
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:224
   :END:
 
 
@@ -5158,9 +5158,9 @@ His dearest friend's God-hunger-breath.
 * 10.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:225
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:225
   :END:
 
 
@@ -5185,9 +5185,9 @@ Something more:
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:226
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:226
   :END:
 
 
@@ -5208,9 +5208,9 @@ To meet with Sri Aurobindo.
 * 12.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:227
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:227
   :END:
 
 
@@ -5229,9 +5229,9 @@ One of Dilip's most poignant entreaties is recalled by him in his classic book N
 * 13.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:228
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:228
   :END:
 
 
@@ -5256,9 +5256,9 @@ Dilip writes /ŕ propos:/
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:229
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:229
   :END:
 
 
@@ -5281,9 +5281,9 @@ About his own life.
 * 15.
 
   :PROPERTIES:
-  :GENRE: remark
-  :KEYWORDS:
-  :CITE-KEY: M5IA:230
+  :genre: remark
+  :keywords:
+  :cite-key: M5IA:230
   :END:
 
 
@@ -5300,9 +5300,9 @@ In 1936 he revealed the depth of his devotion for Swami Vivekananda when he wrot
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: M5IA:231
+  :genre: poem
+  :keywords:
+  :cite-key: M5IA:231
   :END:
 
 
@@ -5326,9 +5326,9 @@ Was God's Divinity-Manifestation-Reality.
 * On A Personal Note
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: M5IA:232
+  :genre: discourse
+  :keywords:
+  :cite-key: M5IA:232
   :END:
 
 
@@ -5351,9 +5351,9 @@ Subhas the heart is my sleeplessly cherished dream."
 * Chapter twelve -- Netaji Subhas Chandra Bose and the hooligan chief: A story written on 15 January 1979
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:233e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:233e1
   :END:
 
 
@@ -5361,9 +5361,9 @@ Subhas the heart is my sleeplessly cherished dream."
 * 1.
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: M5IA:233
+  :genre: story
+  :keywords:
+  :cite-key: M5IA:233
   :END:
 
 
@@ -5386,9 +5386,9 @@ This great leader and great patriot, this matchless leader and matchless patriot
 * Chapter thirteen -- Mother India's freedom-fighters and peace-lovers
 
   :PROPERTIES:
-  :GENRE: chapter
-  :KEYWORDS:
-  :CITE-KEY: M5IA:234
+  :genre: chapter
+  :keywords:
+  :cite-key: M5IA:234
   :END:
 
 
@@ -5396,9 +5396,9 @@ This great leader and great patriot, this matchless leader and matchless patriot
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:235
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:235
   :END:
 
 
@@ -5417,9 +5417,9 @@ On the celestial Light-Highway.
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:236
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:236
   :END:
 
 
@@ -5436,9 +5436,9 @@ And not for world-information.
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:237
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:237
   :END:
 
 
@@ -5457,9 +5457,9 @@ Of Eternity's Here and Now.
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:238
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:238
   :END:
 
 
@@ -5476,9 +5476,9 @@ On His World-Peace-Campaign.
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:239
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:239
   :END:
 
 
@@ -5498,9 +5498,9 @@ And God's Sound-Life.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:240
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:240
   :END:
 
 
@@ -5518,9 +5518,9 @@ To liberate them from the foreign yoke.
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:241
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:241
   :END:
 
 
@@ -5538,9 +5538,9 @@ When they proudly embraced death.
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:242
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:242
   :END:
 
 
@@ -5557,9 +5557,9 @@ Satisfaction-fulfilled Fragrance.
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:243
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:243
   :END:
 
 
@@ -5577,9 +5577,9 @@ Loving affection and satisfaction.
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:244
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:244
   :END:
 
 
@@ -5598,9 +5598,9 @@ To embrace Him.
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:245
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:245
   :END:
 
 
@@ -5619,9 +5619,9 @@ For God's Satisfaction-Delight.
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:246
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:246
   :END:
 
 
@@ -5638,9 +5638,9 @@ God-gratitude.
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:247
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:247
   :END:
 
 
@@ -5657,9 +5657,9 @@ Indian heart-home.
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:248
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:248
   :END:
 
 
@@ -5677,9 +5677,9 @@ In every inch of his being.
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:249
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:249
   :END:
 
 
@@ -5697,9 +5697,9 @@ God-manifestation-peace-dreamer.
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:250
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:250
   :END:
 
 
@@ -5716,9 +5716,9 @@ In God-acceptance.
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:251
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:251
   :END:
 
 
@@ -5736,9 +5736,9 @@ Mother India's heart cries.
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:252
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:252
   :END:
 
 
@@ -5756,9 +5756,9 @@ Away from simplicity.
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:253
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:253
   :END:
 
 
@@ -5778,9 +5778,9 @@ Sleeplessly in God's own Way.
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:254
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:254
   :END:
 
 
@@ -5799,9 +5799,9 @@ To You every day.
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: M5IA:255
+  :genre: aphorism
+  :keywords:
+  :cite-key: M5IA:255
   :END:
 
 
@@ -5822,9 +5822,9 @@ Celebrates your Birth Centenary.
 * Bibliography
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: M5IA:256e1
+  :genre: section
+  :keywords:
+  :cite-key: M5IA:256e1
   :END:
 
 
@@ -5832,9 +5832,9 @@ Celebrates your Birth Centenary.
 * Author's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: M5IA:256e2
+  :genre: note
+  :keywords:
+  :cite-key: M5IA:256e2
   :END:
 
 
@@ -5845,9 +5845,9 @@ I wish to offer my deepest gratitude to the wisdom-flooded authors of the follow
 * 1.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: M5IA:256e3
+  :genre: note
+  :keywords:
+  :cite-key: M5IA:256e3
   :END:
 
 
@@ -5878,9 +5878,9 @@ Bose, Mihir. /The Lost Hero: A Biography of Subhas Bose./ London: Quartet Books,
 * 2.
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: M5IA:256e4
+  :genre: note
+  :keywords:
+  :cite-key: M5IA:256e4
   :END:
 
 
@@ -5939,9 +5939,9 @@ Werth, A. /Netaji in Germany: An Eye-Witness Account of the Indian Freedom Strug
 * Books by Subhas Chandra Bose
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: M5IA:256e5
+  :genre: note
+  :keywords:
+  :cite-key: M5IA:256e5
   :END:
 
 

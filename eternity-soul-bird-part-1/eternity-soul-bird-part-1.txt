@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0164
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ESB-1
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0164
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: ESB-1
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ESB:1e1
+  :genre: note
+  :keywords:
+  :cite-key: ESB:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESB:1e2
+  :genre: section
+  :keywords:
+  :cite-key: ESB:1e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * My Soul
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESB:1
+  :genre: discourse
+  :keywords:
+  :cite-key: ESB:1
   :END:
 
 
@@ -86,9 +86,9 @@ O Soul, once more your heart. Tell me your absolute secret, please,
 * Part II: Questions and answers on the soul
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESB:2e1
+  :genre: section
+  :keywords:
+  :cite-key: ESB:2e1
   :END:
 
 
@@ -96,9 +96,9 @@ O Soul, once more your heart. Tell me your absolute secret, please,
 * Question: Is our soul like an infinitesimal particle of dust which after many lifetimes returns to the Supreme and becomes a part of Him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:2
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:2
   :END:
 
 
@@ -111,9 +111,9 @@ It is absolutely true that the soul came from the Supreme and ultimately it will
 * Question: Why did God introduce the soul into the body? Was it to punish some souls that were malevolent?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:3
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:3
   :END:
 
 
@@ -128,9 +128,9 @@ The purpose of uniting the soul and the body is to fulfil both the inner and the
 * Question: A chair has a soul. If you chopped up the chair into little pieces of wood, would those pieces of matter also have their own souls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:4
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:4
   :END:
 
 
@@ -141,9 +141,9 @@ The purpose of uniting the soul and the body is to fulfil both the inner and the
 * Question: How do you explain the soul to a child?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:5
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:5
   :END:
 
 
@@ -158,9 +158,9 @@ You can also tell a child that the actual possessor or owner of his body is the 
 * Question: What is the soul and what is the psychic being?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:6
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:6
   :END:
 
 
@@ -173,9 +173,9 @@ It is the psychic being which inspires us to do the right thing and to become th
 * Question: Can the psychic being be damaged?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:7
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:7
   :END:
 
 
@@ -186,9 +186,9 @@ It is the psychic being which inspires us to do the right thing and to become th
 * Question: Are there significant events which take place in the soul’s world? Can progress be made there?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:8
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:8
   :END:
 
 
@@ -199,9 +199,9 @@ It is the psychic being which inspires us to do the right thing and to become th
 * Question: What is the difference between spirit and soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:9
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:9
   :END:
 
 
@@ -214,9 +214,9 @@ The soul abides in everyone. It has no birth and no death; it is beginningless a
 * Question: What is the relationship between the soul and the higher worlds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:10
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:10
   :END:
 
 
@@ -227,9 +227,9 @@ The soul abides in everyone. It has no birth and no death; it is beginningless a
 * Question: Can you tell me the relationship between soul and energy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:11
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:11
   :END:
 
 
@@ -242,9 +242,9 @@ Energy and the soul must go together. If there is no divine energy in the soul, 
 * Question: Was every soul split at the time of creation into male and female? Do all souls then have their soul-mates?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:12
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:12
   :END:
 
 
@@ -257,9 +257,9 @@ A masculine soul, a soul that has chosen to take masculine bodies, can have a fe
 * Question: Can you speak on the union of two souls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:13
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:13
   :END:
 
 
@@ -274,9 +274,9 @@ So the divine union of two souls implies that they exist wholly for the Supreme.
 * Question: Will you explain what is meant by a group soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:14
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:14
   :END:
 
 
@@ -287,9 +287,9 @@ So the divine union of two souls implies that they exist wholly for the Supreme.
 * Question: You said that the soul chooses the family in which it is going to be born. What happens to the soul if it chooses a bad family?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:15
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:15
   :END:
 
 
@@ -300,9 +300,9 @@ So the divine union of two souls implies that they exist wholly for the Supreme.
 * Question: When does the soul enter the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:16
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:16
   :END:
 
 
@@ -313,9 +313,9 @@ So the divine union of two souls implies that they exist wholly for the Supreme.
 * Question: What does the soul do in the body before birth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:17
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:17
   :END:
 
 
@@ -326,9 +326,9 @@ So the divine union of two souls implies that they exist wholly for the Supreme.
 * Question: Is the soul always assured that it will find its true mission during each new lifetime on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:18
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:18
   :END:
 
 
@@ -341,9 +341,9 @@ There is a constant battle going on between the divine and undivine in each huma
 * Question: Is it predestined how far the soul will progress in any incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:19
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:19
   :END:
 
 
@@ -354,9 +354,9 @@ There is a constant battle going on between the divine and undivine in each huma
 * Question: Does the body have an identity separate from the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:20
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:20
   :END:
 
 
@@ -367,9 +367,9 @@ There is a constant battle going on between the divine and undivine in each huma
 * Question: Does my soul have a face? Does it look like me?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:21
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:21
   :END:
 
 
@@ -380,9 +380,9 @@ There is a constant battle going on between the divine and undivine in each huma
 * Question: I neither accept nor reject the existence of my soul. Is there any sign that my soul exists?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:22
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:22
   :END:
 
 
@@ -401,9 +401,9 @@ When a child is two or three years old his parents have to tell him that what he
 * Question: When we experience our soul, even though we might not be aware of it, why isn’t the feeling sweet enough to satisfy us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:23
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:23
   :END:
 
 
@@ -418,9 +418,9 @@ But very often we make a mistake in our judgement. We may see a vital being insi
 * Question: Does the soul ever act autonomously to realise itself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:24
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:24
   :END:
 
 
@@ -431,9 +431,9 @@ But very often we make a mistake in our judgement. We may see a vital being insi
 * Question: Do the experiences that the soul gets while it is on earth constitute a kind of expansion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:25
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:25
   :END:
 
 
@@ -444,9 +444,9 @@ But very often we make a mistake in our judgement. We may see a vital being insi
 * Question: How can one know if he is a young or an old soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:26
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:26
   :END:
 
 
@@ -459,9 +459,9 @@ In the spiritual life let us not be concerned with who is an old soul and who is
 * Question: How can I expedite my soul’s awakening?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:27
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:27
   :END:
 
 
@@ -472,9 +472,9 @@ In the spiritual life let us not be concerned with who is an old soul and who is
 * Question: Is the body as important as the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:28
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:28
   :END:
 
 
@@ -487,9 +487,9 @@ Just to live here on earth and count the years on the calendar is of no avail. B
 * Question: How do I go deep within?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:29
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:29
   :END:
 
 
@@ -500,9 +500,9 @@ Just to live here on earth and count the years on the calendar is of no avail. B
 * Question: You have said that we should first locate the soul and then chant AUM from the soul’s region. How would a person know that he has made contact with his soul and is working from the soul’s region?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:30
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:30
   :END:
 
 
@@ -519,9 +519,9 @@ If you go to the mind-room, you can ask anything of the mind and the mind will t
 * Question: If you have realised /Atman/, do you also realise /Brahman/ and /Paramatman/?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:31
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:31
   :END:
 
 
@@ -534,9 +534,9 @@ So if you know yourself, if you know what you are, if you live perpetually in th
 * Question: I would like to know what the demands of my soul are when I accept a spiritual Master. Do I have to give all my life, all my intelligence, all my love?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:32
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:32
   :END:
 
 
@@ -551,9 +551,9 @@ So if you are asking what a Guru will demand of you, I wish to tell you that it 
 * Question: Does it matter to the soul whether we meditate every day at the same time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:33
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:33
   :END:
 
 
@@ -570,9 +570,9 @@ That is why I always say regularity must be maintained. Once you have reached yo
 * Question: Are our desires under the control of the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:34
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:34
   :END:
 
 
@@ -587,9 +587,9 @@ Similarly, the soul waits for its own time. The world is full of ignorance, but 
 * Question: Since suffering is all around us, does it not contribute something to the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:35
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:35
   :END:
 
 
@@ -600,9 +600,9 @@ Similarly, the soul waits for its own time. The world is full of ignorance, but 
 * Question: For several mornings I have heard a bird singing beautiful music, like a flute, during my sleep. But when I wake up I cannot remember that music.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:36
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:36
   :END:
 
 
@@ -613,9 +613,9 @@ Similarly, the soul waits for its own time. The world is full of ignorance, but 
 * Question: Can you explain to us why a person who is very ill may continue to live on for days and days, even when this phenomenon is unexplainable in medical terms?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:37
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:37
   :END:
 
 
@@ -628,9 +628,9 @@ We all want to conquer death, but the soul knows what is best for us. The soul k
 * Question: Will God’s Reality ever be found on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ESB:38
+  :genre: qa
+  :keywords:
+  :cite-key: ESB:38
   :END:
 
 

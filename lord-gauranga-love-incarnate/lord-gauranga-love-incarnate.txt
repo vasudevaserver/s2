@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0029
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LGLI
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0029
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: LGLI
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Friendship knows no equal
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:1
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Friendship knows no equal (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:2
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:2
   :END:
 
 
@@ -47,9 +47,9 @@ RAGHUNATH, HIS FRIEND
 * Friendship knows no equal -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:3
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:3
   :END:
 
 
@@ -124,9 +124,9 @@ RAGHUNATH: You see everything according to your inner Light, according to your o
 * O world-renouncer, be careful!
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:4
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:4
   :END:
 
 
@@ -134,9 +134,9 @@ RAGHUNATH: You see everything according to your inner Light, according to your o
 * O world-renouncer, be careful! (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:5
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:5
   :END:
 
 
@@ -153,9 +153,9 @@ GOVINDA, A DISCIPLE
 * O world-renouncer, be careful! -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:6
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:6
   :END:
 
 
@@ -231,9 +231,9 @@ CHAITANYA /(to the others):/ I know he will take his life. But I have to show th
 * Damodar, I am far above morality
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:7
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:7
   :END:
 
 
@@ -241,9 +241,9 @@ CHAITANYA /(to the others):/ I know he will take his life. But I have to show th
 * Damodar, I am far above morality (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:8
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:8
   :END:
 
 
@@ -258,9 +258,9 @@ CHAITANYA
 * Damodar, I am far above morality -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:9
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:9
   :END:
 
 
@@ -321,9 +321,9 @@ CHAITANYA: Damodar, the world is full of corruption and vital impurity. The worl
 * Krishna, I shall die in your absence
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:10
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:10
   :END:
 
 
@@ -331,9 +331,9 @@ CHAITANYA: Damodar, the world is full of corruption and vital impurity. The worl
 * Krishna, I shall die in your absence (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:11
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:11
   :END:
 
 
@@ -350,9 +350,9 @@ SHACHI, MOTHER OF CHAITANYA
 * Krishna, I shall die in your absence -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:12
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:12
   :END:
 
 
@@ -389,9 +389,9 @@ ECHO: Nai, nai ... [nowhere, nowhere]
 * Sribas
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:13
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:13
   :END:
 
 
@@ -399,9 +399,9 @@ ECHO: Nai, nai ... [nowhere, nowhere]
 * Sribas (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:14
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:14
   :END:
 
 
@@ -424,9 +424,9 @@ SON OF SRIBAS
 * Sribas -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:15
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:15
   :END:
 
 
@@ -499,9 +499,9 @@ CHAITANYA: Today you have proved to be the real counterpart of Sribas. His aspir
 * Mother touches the son's feet
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:16
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:16
   :END:
 
 
@@ -510,9 +510,9 @@ CHAITANYA: Today you have proved to be the real counterpart of Sribas. His aspir
 
   :PROPERTIES:
   :SUBTITLE: Cast
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:17
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:17
   :END:
 
 
@@ -527,9 +527,9 @@ SHACHI, MOTHER OF CHAITANYA
 * Mother touches the son's feet -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:18
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:18
   :END:
 
 
@@ -584,9 +584,9 @@ SHACHI: My son, I know you are God. You can do everything and you will do everyt
 * O Chaitanya, I need your love
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:19
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:19
   :END:
 
 
@@ -594,9 +594,9 @@ SHACHI: My son, I know you are God. You can do everything and you will do everyt
 * O Chaitanya, I need your love (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:20
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:20
   :END:
 
 
@@ -609,9 +609,9 @@ EMPRESS
 * O Chaitanya, I need your love -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:21
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:21
   :END:
 
 
@@ -662,9 +662,9 @@ Song of Light for my transformation?]
 * My last desire is to place your feet on my heart
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:22
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:22
   :END:
 
 
@@ -672,9 +672,9 @@ Song of Light for my transformation?]
 * My last desire is to place your feet on my heart (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:23
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:23
   :END:
 
 
@@ -691,9 +691,9 @@ TEN DISCIPLES OF CHAITANYA
 * My last desire is to place your feet on my heart -- (Act I, scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:24
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:24
   :END:
 
 
@@ -742,9 +742,9 @@ CHAITANYA: He has gone to my other home. I have two homes: one on earth and one 
 * Lord Gauranga: Love incarnate
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:25
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:25
   :END:
 
 
@@ -752,9 +752,9 @@ CHAITANYA: He has gone to my other home. I have two homes: one on earth and one 
 * Lord Gauranga: Love incarnate (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:26
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:26
   :END:
 
 
@@ -770,9 +770,9 @@ JAGAI, MADHAI TWO BROTHERS, HOOLIGANS
 
   :PROPERTIES:
   :SUBTITLE:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: LGLI:27
+  :genre: play
+  :keywords:
+  :cite-key: LGLI:27
   :END:
 
 

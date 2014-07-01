@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1105
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: CDCA
-  :GENRE: song
+  :book-number: 1105
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: CDCA
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CDCA:1e1
+  :genre: note
+  :cite-key: CDCA:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CDCA:1e2
+  :genre: note
+  :cite-key: CDCA:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Dharanir Bedanar Habe Abasan Turiyer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:1
+  :cite-key: CDCA:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Turiyer chetanar pele sandhan
 * Chup Kare Mor Bachalata Kiya Diye Balbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:2
+  :cite-key: CDCA:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Hiya diye balbo katha
 * Kare Daki Ai Ai Mor Hiya Anginai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:3
+  :cite-key: CDCA:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Mor hiya anginai
 * Gaibo Tomar Jayagiti Diye Amar Bhakti Priti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:4
+  :cite-key: CDCA:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Diye amar bhakti priti
 * Har Menechi Har Menechi Britha Tomai Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:5
+  :cite-key: CDCA:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Britha tomai hai henechi
 * Maner Deshe Kebal Bhranti Hiyar Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:6
+  :cite-key: CDCA:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Hiyar deshe asim kanti
 * Swapan Saphal Habe Balo Prabhu Kabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:7
+  :cite-key: CDCA:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Balo prabhu kabe
 * Bhitare Bahire Ami Achapal Tai Nahi Phute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:8
+  :cite-key: CDCA:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Tai nahi phute hiya shatadal
 * Pujbo Tomai Nirajane nahe Kabhu Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:9
+  :cite-key: CDCA:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Nahe kabhu maner bane
 * Bhuler Majhe Nai Je Kul Nai Je Sethai Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:10
+  :cite-key: CDCA:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Nai je sethai hasi phul
 * Churna Kare Sakal Asha Shikhao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:11
+  :cite-key: CDCA:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Shikhao more bhakti bhasha
 * Karbo Ami Kathor Sadhan Bhango Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:12
+  :cite-key: CDCA:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Bhango sakal moher bandhan
 * Ogo Amar Hiya Majhi Asha Amar Kande Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:13
+  :cite-key: CDCA:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Asha amar kande aji
 * Ami Namer Ichuk Parer Aruti Utshukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:14
+  :cite-key: CDCA:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Parer truti utsukh
 * Nai Je Sahas Nai Taito Byetha Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:15
+  :cite-key: CDCA:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Taito byetha pai
 * Kena Ami Samor Katai Abahele Ami Ki Noi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:16
+  :cite-key: CDCA:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Ami ki noi jyotir mayir mayer chele
 * Hiya Rabir Asta Gelo Dukher Dekha Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:17
+  :cite-key: CDCA:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Dukher dekha jiban pelo
 * Hai Hai Hai Pran Gabhire Nahi Khunji Ashru Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:18
+  :cite-key: CDCA:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Ashru diye nahi puji
 * Jatri Ami Asim Pather Jatri Nahi Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:19
+  :cite-key: CDCA:19
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ Nahi heri agyanatar ratri
 * Hiyar Kanane Phuteche Kamal Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:20
+  :cite-key: CDCA:20
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Taito manase chinta dhabal
 * Supta Ami Supta Taito Ami Lupta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:21
+  :cite-key: CDCA:21
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Taito ami lupta
 * Dipta Habe Manas Mam Nil Akasher Mihir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:22
+  :cite-key: CDCA:22
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Nil akasher mihir sama
 * Bedan Giti Gaite Bhalo Lage Taito Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:23
+  :cite-key: CDCA:23
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Taito gahi barai anurage
 * Dukher Bojha Ar Katokal Bahibo Kare Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:24
+  :cite-key: CDCA:24
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Kare amar praner katha kahibo
 * Raji Ebar Amai Dite Chaha Jadi Pabe Nite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:25
+  :cite-key: CDCA:25
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ Chaha jadi pabe nite
 * Jethai Raje Jukti Nai Je Sethai Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:26
+  :cite-key: CDCA:26
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ Nai je sethai mukti
 * Srashta Ogo Srashta Amai Karo Drashta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:27
+  :cite-key: CDCA:27
   :END:
 
 #+BEGIN_VERSE
@@ -501,10 +501,10 @@ Ami karo drashta
 * Chinta Bane Ghure Berai Chinta Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:28
+  :cite-key: CDCA:28
   :END:
 
 #+BEGIN_VERSE
@@ -518,10 +518,10 @@ Shanti kothai shanti kothai ei jibane
 * Swapne Ami Asimatar Rabi Bastabete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:29
+  :cite-key: CDCA:29
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ Bastabete durbalatar chhabi
 * Tomare Pujite Dharanite Ami Esechi Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:30
+  :cite-key: CDCA:30
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Tomare tushite agyanatare henechi
 * Khule Rakhi Hiyar Duar Pete Tomar Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:31
+  :cite-key: CDCA:31
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ Pete tomar kripar jowar
 * Tomar Ranga Charan Dhari Kripa Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:32
+  :cite-key: CDCA:32
   :END:
 
 #+BEGIN_VERSE
@@ -586,10 +586,10 @@ Kripa tomar haran kari
 * Rahibo Satata Tomar Charane Taba Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:33
+  :cite-key: CDCA:33
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ Taba kripa magi jibane marane
 * Chinta Dhabal Chinta Amal Tumiy Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:34
+  :cite-key: CDCA:34
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ Tumiy amar shanti kebal
 * Man Khujile Shunyata Jiban Pabe Purnata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:35
+  :cite-key: CDCA:35
   :END:
 
 #+BEGIN_VERSE
@@ -637,10 +637,10 @@ Jiban pabe purnata
 * Bhule Thaki Tomar Katha Taito Labhi Tibra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:36
+  :cite-key: CDCA:36
   :END:
 
 #+BEGIN_VERSE
@@ -654,10 +654,10 @@ Taito labhi tibra byetha
 * Asprihar Nahi Habe Shesh Hese Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:37
+  :cite-key: CDCA:37
   :END:
 
 #+BEGIN_VERSE
@@ -671,10 +671,10 @@ Hese hese kahe paramesh
 * Deher Byethai Kandi Hiyar Byethai Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:38
+  :cite-key: CDCA:38
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Hiyar byethai nashi
 * Deha Ache Taito Mari Bhaye Ami Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:39
+  :cite-key: CDCA:39
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Ami kandi kebal parajaye
 * Jukti Malin Kalo Bhakti Barai Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:40
+  :cite-key: CDCA:40
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Bhakti barai bhalo
 * Bhaye Bhaye Kebal Mago Mari Thakte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:41
+  :cite-key: CDCA:41
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Thakte chahi tomar charan dhari
 * Urdhe Kalpana Rath Dipta Mukta Path
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:42
+  :cite-key: CDCA:42
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Dipta mukta path
 * Amar Amir Dilam Bali Mago Laho Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:43
+  :cite-key: CDCA:43
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ Mago laho hiyar anjali
 * Bajraghate Bhenge Supti Daugo Amai Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:44
+  :cite-key: CDCA:44
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Daugo amai aji mukti
 * Nirabe Khunjibo Tomar Nayan Nirabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:45
+  :cite-key: CDCA:45
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Nirabe pujibo tomar charan
 * Khunjite Chahina Pujite Chahina Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:46
+  :cite-key: CDCA:46
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Hariye phelechi taito amije sabare
 * Nahi Jani Keman Chander Desh Jete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:47
+  :cite-key: CDCA:47
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Jete sethai kandi animesh
 * Phuler Mato Puta Amar Pran Taje Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:48
+  :cite-key: CDCA:48
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Taje kebal tomar kripar dan
 * Nami Tomar Ranga Charan Ashar Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:49
+  :cite-key: CDCA:49
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Ashar swapan karo puran
 * Jete Chahi Hiya Pure Tyager Ganer Sure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: CDCA:50
+  :cite-key: CDCA:50
   :END:
 
 #+BEGIN_VERSE

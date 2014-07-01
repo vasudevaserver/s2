@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 249
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1975
-  :PUBLISHER:
-  :CITE-KEY: GLL-3
-  :GENRE: song
+  :book-number: 249
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1975
+  :publisher:
+  :cite-key: GLL-3
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:199e1
+  :genre: note
+  :cite-key: GLL:199e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:199e2
+  :genre: note
+  :cite-key: GLL:199e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Laho Anjali Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:199
+  :cite-key: GLL:199
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Chira sandeha chor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:200
+  :cite-key: GLL:200
   :END:
 
 #+BEGIN_VERSE
@@ -82,10 +82,10 @@ Take my golden hope
 * Tomar Sabi Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:201
+  :cite-key: GLL:201
   :END:
 
 #+BEGIN_VERSE
@@ -102,10 +102,10 @@ Amar sabi phanki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:202
+  :cite-key: GLL:202
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ Everything of mine is earthly deception.
 * Phanki Diye Tomai Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:203
+  :cite-key: GLL:203
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Swarup bhule mitthya krore e pran shajyashayi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:204
+  :cite-key: GLL:204
   :END:
 
 #+BEGIN_VERSE
@@ -164,10 +164,10 @@ Forgetting my soul-reality, my heart
 * Kanta Bane Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:205
+  :cite-key: GLL:205
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ Nirbhaye tai sakal byatha amar buke tani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:206
+  :cite-key: GLL:206
   :END:
 
 #+BEGIN_VERSE
@@ -205,10 +205,10 @@ Therefore, dauntless I draw into my heart
 * Aro Byatha Keman Kare (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:207
+  :cite-key: GLL:207
   :END:
 
 #+BEGIN_VERSE
@@ -223,10 +223,10 @@ Twara eso mago tomai dake chapal pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-10-1972
-  :CITE-KEY: GLL:208
+  :cite-key: GLL:208
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ My restless heart is calling You.
 * Subishal Haye Hate Paro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1972
-  :CITE-KEY: GLL:209
+  :cite-key: GLL:209
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Man buddhir atite je tumi se satya bhule jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-12-1972
-  :CITE-KEY: GLL:210
+  :cite-key: GLL:210
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ He knows not this truth sublime.
 * Dukhero Rajani Pohabena Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1972
-  :CITE-KEY: GLL:211
+  :cite-key: GLL:211
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Tara shudhu pabe amulya dhan bhangibe mrityu kara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-12-1972
-  :CITE-KEY: GLL:212
+  :cite-key: GLL:212
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ And break asunder the prison of death.
 * Ja Kichu Jabar Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-10-1972
-  :CITE-KEY: GLL:213
+  :cite-key: GLL:213
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Tabu ananda nahi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-10-1972
-  :CITE-KEY: GLL:214
+  :cite-key: GLL:214
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Yet no joy have I.
 * Amare Diyecho Dinatar Bojha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-10-1972
-  :CITE-KEY: GLL:215
+  :cite-key: GLL:215
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Shamaner bhiti dhelechho e prane tumi chira nirbhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-10-1972
-  :CITE-KEY: GLL:216
+  :cite-key: GLL:216
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ The fear of death You have poured into my heart,
 * Chinta Amar Amai Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:217
+  :cite-key: GLL:217
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Ek nimeshe sabar adham haye ami jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:218
+  :cite-key: GLL:218
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ In a twinkling, I become worse than the worst.
 * Ghrina Jato Kari Amai Keuto Karena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:219
+  :cite-key: GLL:219
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ Hiya pakhi sabare chai keuto asena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:220
+  :cite-key: GLL:220
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ The bird of my heart wants everyone,
 * Kalpana Diye Je Kare Srijan Bhabishyater
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:221
+  :cite-key: GLL:221
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ E gopan katha je manab jane se je kabhu kandibena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:222
+  :cite-key: GLL:222
   :END:
 
 #+BEGIN_VERSE
@@ -532,10 +532,10 @@ He who knows this silent message will never cry.
 * Sabai Ase Amar Kache Sabai More Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:223
+  :cite-key: GLL:223
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ Sabai bhabe mahat ami ami jani tumi amar kul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:224
+  :cite-key: GLL:224
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ But I know that You are my only Shore.
 * Tomar Lagi Kandena Pran Tai Bujhi Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:225
+  :cite-key: GLL:225
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Kripa kare diyechho sab bhalobaso jare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:226
+  :cite-key: GLL:226
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ It is through Compassion that You have given
 * Hiya Chale Jai Ati Druta Bege Tanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:227
+  :cite-key: GLL:227
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ Moreo bidhata dibe darashan e jiban kalarabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:228
+  :cite-key: GLL:228
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ When the time comes, the Lord will present
 * Sab Asha Mor Churna Halo Purna Habar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:229
+  :cite-key: GLL:229
   :END:
 
 #+BEGIN_VERSE
@@ -668,10 +668,10 @@ Bhul kare o tomai ami bhulbona je kabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:230
+  :cite-key: GLL:230
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ Even through oversight I shall never go to You.
 * Jibana Samare Akula Parane Kata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:231
+  :cite-key: GLL:231
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Tumi na janale swarup tomar kemane janabo bhakati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:232
+  :cite-key: GLL:232
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ If You do not show me Your Soul-Form,
 * Kata Shatabar Bejechhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:233
+  :cite-key: GLL:233
   :END:
 
 #+BEGIN_VERSE
@@ -751,10 +751,10 @@ Chahibar jaha nahi chahi kabhu shudhu kahi abahela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:234
+  :cite-key: GLL:234
   :END:
 
 #+BEGIN_VERSE
@@ -778,10 +778,10 @@ I just while away my time.
 * Birat Bishwa Sabha Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:235
+  :cite-key: GLL:235
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Mayer hate ore shudhu rakhal rajar banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:236
+  :cite-key: GLL:236
   :END:
 
 #+BEGIN_VERSE
@@ -818,10 +818,10 @@ And in Her Hand is the world-enchanting Flute
 * Dibanishi Tomai Mago Keno Daki Jano
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:237
+  :cite-key: GLL:237
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +836,10 @@ Tomar paye garba bhare pete kabhu thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:238
+  :cite-key: GLL:238
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ Nobody has the pride to take shelter at Your Feet.
 * Katha Nai Kaj E Madhur Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:239
+  :cite-key: GLL:239
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ Unnati shudhu lakya moder nahe joy parajoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:240
+  :cite-key: GLL:240
   :END:
 
 #+BEGIN_VERSE
@@ -899,10 +899,10 @@ Our only aim is progress, not victory and failure.
 * Nai Kichu Nai Tabu Tomai Dakbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:241
+  :cite-key: GLL:241
   :END:
 
 #+BEGIN_VERSE
@@ -917,10 +917,10 @@ Aj hate mor prabhu ami ami amar bishwa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:242
+  :cite-key: GLL:242
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ From today on I shall be my Lord,
 * Churna Kare Amar Praner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:243
+  :cite-key: GLL:243
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Tomar alor purnata je amar sakal paowa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:244
+  :cite-key: GLL:244
   :END:
 
 #+BEGIN_VERSE
@@ -978,10 +978,10 @@ The Infinity of Your Light is my sole achievement.
 * Amar Prane Aghat Hani Jabe Jara Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:245
+  :cite-key: GLL:245
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ Tader sukhe sukhi ami tader hasi chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:246
+  :cite-key: GLL:246
   :END:
 
 #+BEGIN_VERSE
@@ -1017,10 +1017,10 @@ Their happiness I want.
 * Nirab Bhashai Pranam Janai Tomar Ranga
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:247
+  :cite-key: GLL:247
   :END:
 
 #+BEGIN_VERSE
@@ -1035,10 +1035,10 @@ Tomar sneha kangal sabai tumi sabar praner ratan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:248
+  :cite-key: GLL:248
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ You are everybody’s inner wealth.
 * Je Shuneche Taba Charaner Dhwani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:249
+  :cite-key: GLL:249
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ Chena achenare ek sathe laho janani anke tule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:250
+  :cite-key: GLL:250
   :END:
 
 #+BEGIN_VERSE
@@ -1107,10 +1107,10 @@ In Your ambrosial, Elysian Lap.
 * Ore Amar Praner Priya Basana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:251
+  :cite-key: GLL:251
   :END:
 
 #+BEGIN_VERSE
@@ -1132,10 +1132,10 @@ Ami habo amai paowar sadhana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:252
+  :cite-key: GLL:252
   :END:
 
 #+BEGIN_VERSE
@@ -1159,10 +1159,10 @@ I shall become my self-discipline and
 * Nirabata Nirabata Ogo Nirabata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:253
+  :cite-key: GLL:253
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ Tomar jyotir plabane aj habo ami chup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:254
+  :cite-key: GLL:254
   :END:
 
 #+BEGIN_VERSE
@@ -1211,10 +1211,10 @@ Today I am all silence In the flood of
 * Ebar Ami Jante Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:255
+  :cite-key: GLL:255
   :END:
 
 #+BEGIN_VERSE
@@ -1233,10 +1233,10 @@ Chaudike aj shunbe dhara tomar bijoy bheri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-04-1973
-  :CITE-KEY: GLL:256
+  :cite-key: GLL:256
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Delay not! The whole world is bound to hear
 * Ami Kandi Tomar Lagi Tumi Ki Hai Kando
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:257
+  :cite-key: GLL:257
   :END:
 
 #+BEGIN_VERSE
@@ -1281,10 +1281,10 @@ Keno mago tomar kripa amai nahi dhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:258
+  :cite-key: GLL:258
   :END:
 
 #+BEGIN_VERSE
@@ -1304,10 +1304,10 @@ Tell me, Mother, why Your Compassion-Sea
 * Apan Tumi Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:259
+  :cite-key: GLL:259
   :END:
 
 #+BEGIN_VERSE
@@ -1325,10 +1325,10 @@ Habo ami tomar gane mrittyu bihin sure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:260
+  :cite-key: GLL:260
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ I shall become Your freedom-receptivity,
 * Jader Ami Apan Bhabi Tarai Amar Par
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:261
+  :cite-key: GLL:261
   :END:
 
 #+BEGIN_VERSE
@@ -1367,10 +1367,10 @@ Tabu keno amai bhabi buddhiman ar gyani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:262
+  :cite-key: GLL:262
   :END:
 
 #+BEGIN_VERSE
@@ -1389,10 +1389,10 @@ Yet I always style myself as a man of knowledge
 * Eso Nikhila Pati Nayana Pate Eso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:263
+  :cite-key: GLL:263
   :END:
 
 #+BEGIN_VERSE
@@ -1414,10 +1414,10 @@ Jibane neme eso
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:264
+  :cite-key: GLL:264
   :END:
 
 #+BEGIN_VERSE
@@ -1447,10 +1447,10 @@ Do enter into my life.
 * Sundara Jadi Kurupe Na Base Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:265
+  :cite-key: GLL:265
   :END:
 
 #+BEGIN_VERSE
@@ -1467,10 +1467,10 @@ Rupantari moder shreshta joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-09-1973
-  :CITE-KEY: GLL:266
+  :cite-key: GLL:266
   :END:
 
 #+BEGIN_VERSE
@@ -1490,10 +1490,10 @@ Transformation-perfection is our victory's highest goal.
 * Naba Barasher Pratam Pradoshe Janate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:267
+  :cite-key: GLL:267
   :END:
 
 #+BEGIN_VERSE
@@ -1510,10 +1510,10 @@ Tumi chinmoy tumi akkhoy tumi anadi Shib
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:268
+  :cite-key: GLL:268
   :END:
 
 #+BEGIN_VERSE
@@ -1535,10 +1535,10 @@ And birthless and deathless Lord Shiva.
 * Kata Dure Tumi Niye Jabe More Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:269
+  :cite-key: GLL:269
   :END:
 
 #+BEGIN_VERSE
@@ -1559,10 +1559,10 @@ Rangin swapane dubiye rekhechho asha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:270
+  :cite-key: GLL:270
   :END:
 
 #+BEGIN_VERSE
@@ -1589,10 +1589,10 @@ O my hope, You have enveloped Yourself
 * Mor Mana Bane Taba Madhu Banshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:271
+  :cite-key: GLL:271
   :END:
 
 #+BEGIN_VERSE
@@ -1607,10 +1607,10 @@ Shesh anurodh dibanishi rabe hriday gahan majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:272
+  :cite-key: GLL:272
   :END:
 
 #+BEGIN_VERSE
@@ -1633,10 +1633,10 @@ In the depth of my heart.
 * Andhakare Chilam Mago Sethai Je Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:273
+  :cite-key: GLL:273
   :END:
 
 #+BEGIN_VERSE
@@ -1651,10 +1651,10 @@ Ami habo aj hate ma tomar stanyapayi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:274
+  :cite-key: GLL:274
   :END:
 
 #+BEGIN_VERSE
@@ -1674,10 +1674,10 @@ Mother, from today on I shall be Your
 * Ebar Ami Jabo Tomar Kache Ghor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:275
+  :cite-key: GLL:275
   :END:
 
 #+BEGIN_VERSE
@@ -1692,10 +1692,10 @@ Tumi habe ebar amar taj tomar pele ami je nirbhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-09-1973
-  :CITE-KEY: GLL:276
+  :cite-key: GLL:276
   :END:
 
 #+BEGIN_VERSE
@@ -1715,10 +1715,10 @@ In You I grow into my will adamantine.
 * Nabin Barasha Nabin Barasha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1972
-  :CITE-KEY: GLL:277
+  :cite-key: GLL:277
   :END:
 
 #+BEGIN_VERSE
@@ -1741,10 +1741,10 @@ Param pitar banshari hridaye baje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-12-1972
-  :CITE-KEY: GLL:278
+  :cite-key: GLL:278
   :END:
 
 #+BEGIN_VERSE

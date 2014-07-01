@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0277
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-5
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0277
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-5
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCS:109e1
+  :genre: note
+  :keywords:
+  :cite-key: SCS:109e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Part I - Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:109e2
+  :genre: section
+  :keywords:
+  :cite-key: SCS:109e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:109
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:109
   :END:
 
 
@@ -82,9 +82,9 @@ Why do we love God? We love God because He is all Beauty. Why do we serve God? W
 * God-Reality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:110
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:110
   :END:
 
 
@@ -101,9 +101,9 @@ The mind does not accept the Reality's existence but it wants to fulfil itself b
 * The positive approach towards progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:111
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:111
   :END:
 
 
@@ -122,9 +122,9 @@ So we try to go to light first and then from light we come into darkness. Otherw
 * Human confidence and divine confidence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:112
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:112
   :END:
 
 
@@ -141,9 +141,9 @@ A sincere seeker always has confidence. He has confidence that in and through hi
 * Responsibility human and responsibility divine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:113
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:113
   :END:
 
 
@@ -160,9 +160,9 @@ If the Supreme wants you to meditate at a particular time and at that moment you
 * Maintaining a connection with one's parents
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:114
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:114
   :END:
 
 
@@ -177,9 +177,9 @@ So each one has to know how much opposition he is getting from his parents. Ther
 * Children and spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:115
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:115
   :END:
 
 
@@ -194,9 +194,9 @@ Anything you feel is nourishing, you give to the child. If the child does not wa
 * Imagination and creativity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:116
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:116
   :END:
 
 
@@ -213,9 +213,9 @@ How do we get divine imagination? We get divine imagination by leading a divine 
 * Thoughts and physical illness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:117
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:117
   :END:
 
 
@@ -230,9 +230,9 @@ So all the time, while you are thinking or talking to friends, you have to know 
 * Part II - Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:118e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:118e1
   :END:
 
 
@@ -240,9 +240,9 @@ So all the time, while you are thinking or talking to friends, you have to know 
 * Question: What is the difference between human opinion and divine opinion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:118
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:118
   :END:
 
 
@@ -255,9 +255,9 @@ Opinion very often we get from the mind; conviction we get from the heart and re
 * Question: How can I become more aware?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:119
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:119
   :END:
 
 
@@ -268,9 +268,9 @@ Opinion very often we get from the mind; conviction we get from the heart and re
 * Question: How can I increase my surrender and purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:120
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:120
   :END:
 
 
@@ -281,9 +281,9 @@ Opinion very often we get from the mind; conviction we get from the heart and re
 * Question: What is the relationship between aspiration and surrender?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:121
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:121
   :END:
 
 
@@ -294,9 +294,9 @@ Opinion very often we get from the mind; conviction we get from the heart and re
 * Question: How can one recognise a true living Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:122
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:122
   :END:
 
 
@@ -307,9 +307,9 @@ Opinion very often we get from the mind; conviction we get from the heart and re
 * Question: How can we proceed and make inner progress in the spiritual life if we get Light and joy from more than one Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:123
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:123
   :END:
 
 
@@ -326,9 +326,9 @@ So if you get someone in whom you have implicit faith and confidence, and if you
 * Question: I have read in the Bible that if one does not accept the teachings of Jesus Christ, his soul is damned forever to hell. Is this true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:124
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:124
   :END:
 
 
@@ -341,9 +341,9 @@ Heaven and hell are inside our mind. They are a state of consciousness, not a co
 * Question: Was the battle of Kurukshetra a real battle, or was it the symbol of the battle of life on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:125
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:125
   :END:
 
 
@@ -358,9 +358,9 @@ The battle of Kurukshetra was real, and this battle is taking place every day de
 * Question: If I devote myself to my family, is that contrary to the Will of God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:126
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:126
   :END:
 
 
@@ -371,9 +371,9 @@ The battle of Kurukshetra was real, and this battle is taking place every day de
 * Question: When a realised soul leaves the physical body, can the soul still evolve?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:127
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:127
   :END:
 
 
@@ -384,9 +384,9 @@ The battle of Kurukshetra was real, and this battle is taking place every day de
 * Question: What is the difference between heart, soul and spirit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:128
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:128
   :END:
 
 
@@ -397,9 +397,9 @@ The battle of Kurukshetra was real, and this battle is taking place every day de
 * Question: If I want to find within my soul what the Supreme wants me to do, what should I do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:129
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:129
   :END:
 
 
@@ -410,9 +410,9 @@ The battle of Kurukshetra was real, and this battle is taking place every day de
 * Question: What is the present role of humanity in the manifestation of God's Light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:130
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:130
   :END:
 
 
@@ -425,9 +425,9 @@ A sincere seeker is he who has made friends with eternal time in the soul's worl
 * Question: What colour means 'transcendence'?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:131
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:131
   :END:
 
 
@@ -438,9 +438,9 @@ A sincere seeker is he who has made friends with eternal time in the soul's worl
 * Question: Sometimes when I write something or take a film, I get a certain sense of creative satisfaction. But I'm not always sure whether it comes from the mental or the vital.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:132
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:132
   :END:
 
 
@@ -451,9 +451,9 @@ A sincere seeker is he who has made friends with eternal time in the soul's worl
 * Question: Master, how may we increase our dedication?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:133
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:133
   :END:
 
 
@@ -464,9 +464,9 @@ A sincere seeker is he who has made friends with eternal time in the soul's worl
 * Question: How can we increase our will-power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:134
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:134
   :END:
 
 
@@ -481,9 +481,9 @@ The easiest way to use will-power is to take the positive approach. Use will-pow
 * Question: I should like an elaboration on the link between music and spirituality as you see it.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:135
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:135
   :END:
 
 
@@ -494,9 +494,9 @@ The easiest way to use will-power is to take the positive approach. Use will-pow
 * Question: What is meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:136
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:136
   :END:
 
 
@@ -507,9 +507,9 @@ The easiest way to use will-power is to take the positive approach. Use will-pow
 * Question: You said we can increase our purity by repeating 'Aum' five hundred times a day. But for me to repeat 'Aum' five hundred times a day is very difficult. Can you advise me what to do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:137
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:137
   :END:
 
 

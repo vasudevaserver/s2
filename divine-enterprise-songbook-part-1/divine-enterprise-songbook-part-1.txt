@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1310
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1999
-  :PUBLISHER:
-  :CITE-KEY: DES-1
-  :GENRE: song
+  :book-number: 1310
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1999
+  :publisher:
+  :cite-key: DES-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: DES:1e1
+  :genre: note
+  :cite-key: DES:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: DES:1e2
+  :genre: note
+  :cite-key: DES:1e2
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0065
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ASB
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0065
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: ASB
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Astrology and prophecy
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ASB:1e1
+  :genre: section
+  :keywords:
+  :cite-key: ASB:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: What do you think of astrology? Is there any truth to astrological predictions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:1
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:1
   :END:
 
 
@@ -65,9 +65,9 @@ In horoscopes we see that many times death is written for a person. Astrologers 
 * Question: What is your opinion about prophecy? Can the future really be known in advance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:2
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:2
   :END:
 
 
@@ -90,9 +90,9 @@ The day passed and nothing happened. So the astrologer went to the Master to bec
 * Question: Lately in newspapers and magazines I have been reading about prophecies that part of the world is going to be dissolved or sink into the ocean. Is there any truth in this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:3
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:3
   :END:
 
 
@@ -105,9 +105,9 @@ But why do we have to think of whether a particular place will last or not? Let 
 * Question: Peter Hirkos, who is well-known now throughout the world, was an ordinary person before he fell off a ladder near his house and struck his head. When he regained consciousness, he was able to look into the future and tell what would happen. He helps the police discover murderers and all kinds of things. What do you think happened when he fell down and hit his head?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:4
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:4
   :END:
 
 
@@ -120,9 +120,9 @@ Many, many times this happens to the most ordinary people: to servants and menia
 * Question: What is the difference between astrology and Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:5
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:5
   :END:
 
 
@@ -133,9 +133,9 @@ Many, many times this happens to the most ordinary people: to servants and menia
 * Question: Guru, once you said that you tried to help three disciples whom you saw were destined to die. You said that with two of them you succeeded, and the third you weren’t sure of at the time. What does it all depend on? The person’s receptivity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:6
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:6
   :END:
 
 
@@ -146,9 +146,9 @@ Many, many times this happens to the most ordinary people: to servants and menia
 * Question: Is there any significance if a child is born during an eclipse of the sun or the moon?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:7
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:7
   :END:
 
 
@@ -161,9 +161,9 @@ A child born during a lunar eclipse has a sweet, poised disposition. If he is sp
 * Question: The stars affect us, the earth affects us and so on. Now when we meditate, do we affect any other planets, for instance, or anything else?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:8
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:8
   :END:
 
 
@@ -174,9 +174,9 @@ A child born during a lunar eclipse has a sweet, poised disposition. If he is sp
 * Part II: Spirituality, psychic power, occult power and black magic
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ASB:9e1
+  :genre: section
+  :keywords:
+  :cite-key: ASB:9e1
   :END:
 
 
@@ -184,9 +184,9 @@ A child born during a lunar eclipse has a sweet, poised disposition. If he is sp
 * Question: What is occultism, and on what plane do the occult forces exist?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:9
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:9
   :END:
 
 
@@ -201,9 +201,9 @@ If a seeker is true and genuine, and if he enters into the vital planes for spir
 * Question: There have been many books written about the occult. Do you feel that they are of any real value?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:10
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:10
   :END:
 
 
@@ -214,9 +214,9 @@ If a seeker is true and genuine, and if he enters into the vital planes for spir
 * Question: Can you tell me the difference between spiritual power and occult power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:11
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:11
   :END:
 
 
@@ -261,9 +261,9 @@ What the world needs is to please God. By pleasing Him, it will become ready for
 * Question: Can you please explain what psychic power is and in what way it differs from spiritual power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:12
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:12
   :END:
 
 
@@ -282,9 +282,9 @@ Whatever spiritual power does is sound, solid and lasting. Spiritual power has c
 * Question: I have been told that I am in the process of developing psychic powers. Should I continue visiting spiritualistic centres with this point in mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:13
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:13
   :END:
 
 
@@ -303,9 +303,9 @@ Right now, to be frank with you, there are already four forces that are constant
 * Question: Are psychic powers of benefit, or are they in a way a hindrance to self-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:14
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:14
   :END:
 
 
@@ -320,9 +320,9 @@ Ramakrishna’s greatest disciple, Swami Vivekananda -- originally called Naren 
 * Question: The fakirs in India who have these powers, do they devote them to the good principles of Yoga or do they use them for business?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:15
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:15
   :END:
 
 
@@ -333,9 +333,9 @@ Ramakrishna’s greatest disciple, Swami Vivekananda -- originally called Naren 
 * Question: Is it true that psychic powers do not develop or manifest spontaneously in Yogis, but have to be developed through exercises or other means?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:16
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:16
   :END:
 
 
@@ -352,9 +352,9 @@ It is not always necessary to cry consciously for psychic power either. When one
 * Question: Would you call the ability to communicate directly with one’s own Master without the use of the spoken word o form of psychic power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:17
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:17
   :END:
 
 
@@ -377,9 +377,9 @@ Whenever we do anything we say that we have faith. but we are only fooling ourse
 * Question: Is it possible that some people are practising negative occultism without realising it, just by malicious talking or other things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:18
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:18
   :END:
 
 
@@ -392,9 +392,9 @@ Negation and destruction are almost always in the unsatisfied vital world where 
 * Question: Are we losing anything by not developing ourselves in the occult world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:19
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:19
   :END:
 
 
@@ -405,9 +405,9 @@ Negation and destruction are almost always in the unsatisfied vital world where 
 * Question: I thought occultism was something like black magic. Can you explain what it is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:20
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:20
   :END:
 
 
@@ -434,9 +434,9 @@ When a spiritual Master stands before an occultist, the occultist, if he is a si
 * Question: Guru, you said that beings in the occult planes can use occult power in a way that could harm human beings. Are there actual beings that do this, or is it only the so-called black magicians? And how do they exert influence over people, especially spiritual aspirants?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:21
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:21
   :END:
 
 
@@ -447,9 +447,9 @@ When a spiritual Master stands before an occultist, the occultist, if he is a si
 * Part III: The spirit world
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ASB:22e1
+  :genre: section
+  :keywords:
+  :cite-key: ASB:22e1
   :END:
 
 
@@ -457,9 +457,9 @@ When a spiritual Master stands before an occultist, the occultist, if he is a si
 * Question: What are spirits or vital beings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:22
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:22
   :END:
 
 
@@ -472,9 +472,9 @@ We cannot say that these forces are mental hallucinations. In the West we use th
 * Question: Would these vital beings be frightened of your transcendental picture? And would it chase them off if they attacked us, let us say while we were walking down the street?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:23
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:23
   :END:
 
 
@@ -489,9 +489,9 @@ Forces attack, but protection is always there. The best thing to do is to think 
 * Question: Is there any way for somebody -- not somebody in the spiritual life but an ordinary person -- to fight if a spirit attacks them? Is there anything that they could do? In the movies like Dracula and others they have the cross and all these religious things that will stop a ghost from hurting them
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:24
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:24
   :END:
 
 
@@ -504,9 +504,9 @@ If someone has been attacked and is helpless, occultists can do something to hel
 * Question: Does this happen often?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:25
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:25
   :END:
 
 
@@ -517,9 +517,9 @@ If someone has been attacked and is helpless, occultists can do something to hel
 * Question: Does this happen more in one part of the world than in another? There are more occultists in India than there are in America, so does this happen more there?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:26
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:26
   :END:
 
 
@@ -530,9 +530,9 @@ If someone has been attacked and is helpless, occultists can do something to hel
 * Question: But they don't recognise it in America.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:27
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:27
   :END:
 
 
@@ -543,9 +543,9 @@ If someone has been attacked and is helpless, occultists can do something to hel
 * Question: How does the spirit take possession of a person? How does the spirit gain access to the person’s consciousness? Do they just go in?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:28
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:28
   :END:
 
 
@@ -556,9 +556,9 @@ If someone has been attacked and is helpless, occultists can do something to hel
 * Question: I would like to know the difference between soul and spirit. I know that they are two entirely different things, but I cannot understand the difference.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:29
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:29
   :END:
 
 
@@ -581,9 +581,9 @@ To come back to the term 'spirit,' in India we use the term with a capital S. an
 * Question: If a spirit comes to you, how can you tell if it is a good spirit or a bad one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:30
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:30
   :END:
 
 
@@ -594,9 +594,9 @@ To come back to the term 'spirit,' in India we use the term with a capital S. an
 * Question: Can a spirit help a person?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:31
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:31
   :END:
 
 
@@ -609,9 +609,9 @@ In India they say that if you put something down with your left hand, it will ta
 * Question: I read a booklet which says that every person has some guides connected to him and the person can pray to these guides. Is this true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:32
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:32
   :END:
 
 
@@ -622,9 +622,9 @@ In India they say that if you put something down with your left hand, it will ta
 * Question: If we burn incense and candles, does this make it easier for us to invoke spirits?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:33
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:33
   :END:
 
 
@@ -637,9 +637,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Why do flowers and the burning of incense help to bring good spirits back?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:34
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:34
   :END:
 
 
@@ -650,9 +650,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Guru, how did the hostile forces originate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:35
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:35
   :END:
 
 
@@ -663,9 +663,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Will there ever be a time when there won’t be any hostile forces anywhere?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:36
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:36
   :END:
 
 
@@ -676,9 +676,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: When you fight, Guru, do you have an army?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:37
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:37
   :END:
 
 
@@ -689,9 +689,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Is it your inner beings, or is it other beings also?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:38
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:38
   :END:
 
 
@@ -702,9 +702,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Is the weapon concentration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:39
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:39
   :END:
 
 
@@ -715,9 +715,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Guru, do you ever call on the disciples to fight these battles?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:40
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:40
   :END:
 
 
@@ -728,9 +728,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Guru, when you talk about fighting a hostile force, is it a question of bringing down something and injecting it? Or is it actually a kind of struggle that you are engaged in? When you fight a hostile force, how does that differ from just meditating and bringing down Light and Peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:41
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:41
   :END:
 
 
@@ -741,9 +741,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: What is it like when you fight in the inner world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:42
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:42
   :END:
 
 
@@ -754,9 +754,9 @@ Sri Ramakrishna, one of our great spiritual figures, after he had left the body,
 * Question: Have you ever been possessed by a spirit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:43
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:43
   :END:
 
 
@@ -771,9 +771,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: Guru, do things happen in the West such as evil spirits entering people and then everybody thinks it is some medical defect? For instance, could some psychiatric cases really be cases of evil forces that have entered?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:44
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:44
   :END:
 
 
@@ -784,9 +784,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: If you hadn’t helped /X/, would the forces have stayed for the rest of her life or would they have just left after a while?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:45
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:45
   :END:
 
 
@@ -797,9 +797,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: What happens to that soul in its next incarnation? Is it ruined?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:46
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:46
   :END:
 
 
@@ -810,9 +810,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: How can you tell the difference between someone who wants power because he is possessed by one of these beings and someone who wants power because it is his nature, because he is not spiritually developed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:47
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:47
   :END:
 
 
@@ -823,9 +823,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: Is there a way to combat these beings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:48
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:48
   :END:
 
 
@@ -836,9 +836,9 @@ These spirits were evil spirits. Very often evil spirits try to take away our sp
 * Question: Why is it necessary for a soul that has left the body many years ago to ask for a material thing, in this case a skull (referring to a story about a ghost shaking the bed of someone who had taken an old skull from a cemetery)?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:49
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:49
   :END:
 
 
@@ -859,9 +859,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: But what happens to these souls? They are not free, but are still somehow bound to their former lives.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:50
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:50
   :END:
 
 
@@ -872,9 +872,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: How do they ever get out of it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:51
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:51
   :END:
 
 
@@ -885,9 +885,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: What are ghosts? Are they the vital beings of dead people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:52
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:52
   :END:
 
 
@@ -898,9 +898,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: Is there any truth to stories about haunted houses?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:53
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:53
   :END:
 
 
@@ -911,9 +911,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: Could X hear them too, Guru, or just you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:54
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:54
   :END:
 
 
@@ -924,9 +924,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: Did they know who you were? Were they doing that on purpose?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:55
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:55
   :END:
 
 
@@ -937,9 +937,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: If you hadn’t thrown these spirits out, would they have left on their own?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:56
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:56
   :END:
 
 
@@ -950,9 +950,9 @@ When that man whom you referred to in your question took home the skull, he put 
 * Question: Can everyone see ghosts, or just some people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:57
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:57
   :END:
 
 
@@ -965,9 +965,9 @@ Usually the female spirits are more mischievous than the masculine ones. Female 
 * Question: Do these spirits have personal grudges against the people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:58
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:58
   :END:
 
 
@@ -978,9 +978,9 @@ Usually the female spirits are more mischievous than the masculine ones. Female 
 * Question: What about graveyards? Are there ghosts there?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:59
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:59
   :END:
 
 
@@ -993,9 +993,9 @@ The place where we went the other day for a picnic -- /X/’s house -- I saw man
 * Part IV: Mediums and the unseen world
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ASB:60e1
+  :genre: section
+  :keywords:
+  :cite-key: ASB:60e1
   :END:
 
 
@@ -1003,9 +1003,9 @@ The place where we went the other day for a picnic -- /X/’s house -- I saw man
 * Question: What is it that the spiritual mediums contact when they give messages? Whom or what are they speaking to?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:60
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:60
   :END:
 
 
@@ -1018,9 +1018,9 @@ The soul has its own language. Just as we speak directly to a human being, we ca
 * Question: How can one contact one’s dear ones in the other world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:61
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:61
   :END:
 
 
@@ -1045,9 +1045,9 @@ Here we have to be very practical. We have to have confidence in the world which
 * Question: If one tries to contact somebody who has departed from the world, then how can one be sure one has contacted that particular soul and not an evil spirit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:62
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:62
   :END:
 
 
@@ -1068,9 +1068,9 @@ For an ordinary person, conscience will make him feel whether he has contacted t
 * Question: Can a person lend his body so that a spirit can enter and talk through him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:63
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:63
   :END:
 
 
@@ -1081,9 +1081,9 @@ For an ordinary person, conscience will make him feel whether he has contacted t
 * Question: I had an experience in my childhood. In my home everybody played the piano, and as far back as I can remember, everybody has played the piano. One day when I was three years old I asked the maid to take me to the piano, and I started playing with both hands a tune that my mother had been playing the night before. What is the explanation of this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:64
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:64
   :END:
 
 
@@ -1094,9 +1094,9 @@ For an ordinary person, conscience will make him feel whether he has contacted t
 * Question: I didn’t only play once; I played many times like this. What does this mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:65
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:65
   :END:
 
 
@@ -1107,9 +1107,9 @@ For an ordinary person, conscience will make him feel whether he has contacted t
 * Question: What do you think of healing in relation to spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:66
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:66
   :END:
 
 
@@ -1122,9 +1122,9 @@ When an ordinary healer heals a person, he is often affected by the disease or t
 * Question: What is the relationship between automatic writing and mediums?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:67
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:67
   :END:
 
 
@@ -1135,9 +1135,9 @@ When an ordinary healer heals a person, he is often affected by the disease or t
 * Question: From your viewpoint is hypnosis acceptable or not, and why?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:68
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:68
   :END:
 
 
@@ -1154,9 +1154,9 @@ I feel that hypnosis is of no value. What is of value is aspiration -- bringing 
 * Part V: Man and the universe
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ASB:69e1
+  :genre: section
+  :keywords:
+  :cite-key: ASB:69e1
   :END:
 
 
@@ -1164,9 +1164,9 @@ I feel that hypnosis is of no value. What is of value is aspiration -- bringing 
 * Question: Do you believe that there are people just like us here on most of the other planets?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:69
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:69
   :END:
 
 
@@ -1177,9 +1177,9 @@ I feel that hypnosis is of no value. What is of value is aspiration -- bringing 
 * Question: Do you believe there are beings from other planets who come to earth in flying saucers?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:70
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:70
   :END:
 
 
@@ -1198,9 +1198,9 @@ If a being from that world wants God-realisation, Self-discovery, it has to take
 * Question: Is man unique in the whole universe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:71
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:71
   :END:
 
 
@@ -1213,9 +1213,9 @@ There are thousands of cosmic gods. If I get a headache, and if I pray to a cert
 * Question: So they cannot become God, they cannot reach God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:72
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:72
   :END:
 
 
@@ -1226,9 +1226,9 @@ There are thousands of cosmic gods. If I get a headache, and if I pray to a cert
 * Question: So we are more evolved than they?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:73
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:73
   :END:
 
 
@@ -1243,9 +1243,9 @@ These gods are sometimes cursed by the aspirants and, if they are cursed, they h
 * Question: Will science ever discover the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:74
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:74
   :END:
 
 
@@ -1260,9 +1260,9 @@ There are many things science can discover, many marvels, but science cannot go 
 * Question: Do you think God will help the hand of those doctors who are transplanting hearts from dead people into sick people? Do you think that this will be a practice in the future?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:75
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:75
   :END:
 
 
@@ -1283,9 +1283,9 @@ And there will be no differentiation of the sexes, and no need for reproduction 
 * Question: What happens when a woman’s heart is transplanted into a man’s body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:76
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:76
   :END:
 
 
@@ -1300,9 +1300,9 @@ I am not actually in favour of heart-transplantation, for it impedes the spontan
 * Question: I was wondering how the souls of identical twins are related, or if they are not at all?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:77
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:77
   :END:
 
 
@@ -1313,9 +1313,9 @@ I am not actually in favour of heart-transplantation, for it impedes the spontan
 * Question: Guru, is it possible to meet your twin soul later on in life? Do certain people have soul mates?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:78
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:78
   :END:
 
 
@@ -1330,9 +1330,9 @@ Twin souls are those that share the same type of capacities, and have the same t
 * Question: As I understand it, there are some forms that are not actually the souls of persons but just forms in the astral world. Will you please explain what kind of consciousness the soulless forms from the astral world have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:79
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:79
   :END:
 
 
@@ -1343,9 +1343,9 @@ Twin souls are those that share the same type of capacities, and have the same t
 * Question: Is there as much reality in astral travelling as in meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:80
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:80
   :END:
 
 
@@ -1356,9 +1356,9 @@ Twin souls are those that share the same type of capacities, and have the same t
 * Question: Have you heard of scientology? It is what you might call a kind of spiritual psychology where people try to bring out the supposedly negative aspects and get rid of them, resulting in finally what they call the ‘clear’ person, who is rid of all personal defects.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:81
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:81
   :END:
 
 
@@ -1375,9 +1375,9 @@ I may not know the term ‘scientology,’ but from your explanation of it, I th
 * Question (About the month of September, 1972, which was a period of great turmoil in the inner world): Wouldn't it be easier on you if some of the things that are happening in the inner world were manifested on the outer plane, instead of your having to take them all on yourself in the inner world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:82
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:82
   :END:
 
 
@@ -1392,9 +1392,9 @@ I am so happy that in the month of September[fn:1] we have not lost anybody. Thi
 * Question: Why did He, Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:83
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:83
   :END:
 
 
@@ -1405,9 +1405,9 @@ I am so happy that in the month of September[fn:1] we have not lost anybody. Thi
 * Question: Can the death forces take anyone at any time, even if it is not in their destiny to die just then?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ASB:84
+  :genre: qa
+  :keywords:
+  :cite-key: ASB:84
   :END:
 
 

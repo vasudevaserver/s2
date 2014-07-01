@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1300
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1999
-  :PUBLISHER:
-  :CITE-KEY: NWMLS
-  :GENRE: song
+  :book-number: 1300
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1999
+  :publisher:
+  :cite-key: NWMLS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NWMLS:1e1
+  :genre: note
+  :cite-key: NWMLS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NWMLS:1e2
+  :genre: note
+  :cite-key: NWMLS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Twenty-First Century (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-01-1998
-  :CITE-KEY: NWMLS:1
+  :cite-key: NWMLS:1
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Creator’s Silence-Hearts, creation’s sound-lives throng.
 * Twenty-First Century (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-11-1998
-  :CITE-KEY: NWMLS:2
+  :cite-key: NWMLS:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Twenty First Century, The New Millennium (Arrangement)
 * Twenty-First Century Ami Habo Satya Pujari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:3
+  :cite-key: NWMLS:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Ami habo mukti dishari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:4
+  :cite-key: NWMLS:4
   :END:
 
 #+BEGIN_VERSE
@@ -117,10 +117,10 @@ I shall become the beckoning hand
 * Twenty-First Century, No More Hungry Penury
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1999
-  :CITE-KEY: NWMLS:5
+  :cite-key: NWMLS:5
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ World-transformation-story.
 * Twenty-First Century, a Fully Blossomed Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1999
-  :CITE-KEY: NWMLS:6
+  :cite-key: NWMLS:6
   :END:
 
 #+BEGIN_VERSE
@@ -159,10 +159,10 @@ A fulness-life-sea.
 * O New Millennium
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-03-1999
-  :CITE-KEY: NWMLS:7
+  :cite-key: NWMLS:7
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Earth’s peace and Heaven’s Bliss call me, “Come, come, come!”
 * Twenty-First Century Swapan Puri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 29-03-1999
-  :CITE-KEY: NWMLS:8
+  :cite-key: NWMLS:8
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Karuna pathar jiban amar karo churi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-03-1999
-  :CITE-KEY: NWMLS:9
+  :cite-key: NWMLS:9
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ Do come and steal my heart!
 * Eka Bingsha Shatabdi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:10
+  :cite-key: NWMLS:10
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Dyuloke bhuloke biraj karibe asim amar tripti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:11
+  :cite-key: NWMLS:11
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Heaven and earth shall together treasure and enjoy.
 * Twenty-First Century Oishi Surabhi Madhuri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:12
+  :cite-key: NWMLS:12
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Andhar biduri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-03-1999
-  :CITE-KEY: NWMLS:13
+  :cite-key: NWMLS:13
   :END:
 
 #+BEGIN_VERSE

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 150
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1975
-  :PUBLISHER:
-  :CITE-KEY: STMC
-  :GENRE: song
+  :book-number: 150
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1975
+  :publisher:
+  :cite-key: STMC
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: STMC:1e1
+  :genre: note
+  :cite-key: STMC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: STMC:1e2
+  :genre: note
+  :cite-key: STMC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Asha Nadi Baye Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:1
+  :cite-key: STMC:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Prabhu sathe nachi ananda dole
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:2
+  :cite-key: STMC:2
   :END:
 
 #+BEGIN_VERSE
@@ -80,10 +80,10 @@ In the swing of delight.
 * Ekla Chali Kothai Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:3
+  :cite-key: STMC:3
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Ekla chali ekla chali ekla chali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:4
+  :cite-key: STMC:4
   :END:
 
 #+BEGIN_VERSE
@@ -120,10 +120,10 @@ Alone I walk, alone I walk, alone I walk.
 * Ore Amar Man Agyanatar Dhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:5
+  :cite-key: STMC:5
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Mrityu anukkhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:6
+  :cite-key: STMC:6
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ You are my constant death.
 * Ami Tomar Sneher Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:7
+  :cite-key: STMC:7
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ Ta na hale agyan ghor jib
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:8
+  :cite-key: STMC:8
   :END:
 
 #+BEGIN_VERSE
@@ -207,10 +207,10 @@ If not, I shall be an ignorance-creature.
 * Amar Hriday Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:9
+  :cite-key: STMC:9
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Amare niyata bandhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:10
+  :cite-key: STMC:10
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Myself I always bind.
 * Amar Hridaya Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:11
+  :cite-key: STMC:11
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ Amar hridaya bane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:12
+  :cite-key: STMC:12
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ With my heart’s surrender-song.
 * Ghum Bhengechhe Bhul Bhengechhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:13
+  :cite-key: STMC:13
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Pran phutechhe gan phutechhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:14
+  :cite-key: STMC:14
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ In me, the Time Eternal is awakened at last.
 * Jibaner Prate Herechhi Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:15
+  :cite-key: STMC:15
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Moha-karagare heribo tomare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:16
+  :cite-key: STMC:16
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ In the prison of attachment-illusion I shall see You.
 * Dhire Dhire Hiya Tire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:17
+  :cite-key: STMC:17
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ Alo giti ei mor parichay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:18
+  :cite-key: STMC:18
   :END:
 
 #+BEGIN_VERSE
@@ -409,10 +409,10 @@ Is my identification-might.
 * Andhar Esechhe Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:19
+  :cite-key: STMC:19
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Tumi shudhu mor dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:20
+  :cite-key: STMC:20
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ You, you alone, are the light of my world.
 * Shuni Tomar Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:21
+  :cite-key: STMC:21
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Bhalo nahi basi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:22
+  :cite-key: STMC:22
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ For I have no love left for You.
 * Amar Nayana Nire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:23
+  :cite-key: STMC:23
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ Habo ami dhire dhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:24
+  :cite-key: STMC:24
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ Slowly and steadily I shall become.
 * Mago Ami Sarba Hara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:25
+  :cite-key: STMC:25
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ Habe ki hai amir sara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:26
+  :cite-key: STMC:26
   :END:
 
 #+BEGIN_VERSE
@@ -580,10 +580,10 @@ Alas, will my little ‘i’ ever cease to exist?
 * Nai Nai Nai Nai Mor Thai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:27
+  :cite-key: STMC:27
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Ami je amar taita hayechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:28
+  :cite-key: STMC:28
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ The sea of tears.
 * Hridaya Majhare Nibira Andhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:29
+  :cite-key: STMC:29
   :END:
 
 #+BEGIN_VERSE
@@ -651,10 +651,10 @@ Chahi hate taba bheri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:30
+  :cite-key: STMC:30
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ Do make me Your instrument-soul.
 * Bidhata Tomar Pashan Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:31
+  :cite-key: STMC:31
   :END:
 
 #+BEGIN_VERSE
@@ -697,10 +697,10 @@ Hok taba jay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:32
+  :cite-key: STMC:32
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ I implore Your Compassion-Flood.
 * Namaskar Ashrudhar Laho Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:33
+  :cite-key: STMC:33
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Arbar dharo more arbar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:34
+  :cite-key: STMC:34
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ Once more do hold my hand, do hold.
 * Amar Nayane Nehari Tomar Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:35
+  :cite-key: STMC:35
   :END:
 
 #+BEGIN_VERSE
@@ -786,10 +786,10 @@ Nehari amar marane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:36
+  :cite-key: STMC:36
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ My imminent death.
 * Amar Jibana Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:37
+  :cite-key: STMC:37
   :END:
 
 #+BEGIN_VERSE
@@ -829,10 +829,10 @@ Ananta prabhu saje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:38
+  :cite-key: STMC:38
   :END:
 
 #+BEGIN_VERSE
@@ -852,10 +852,10 @@ His infinite cloaks.
 * Anale Anile Anute Renute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:39
+  :cite-key: STMC:39
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ Bishwa atma jay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:40
+  :cite-key: STMC:40
   :END:
 
 #+BEGIN_VERSE
@@ -905,10 +905,10 @@ We shall conquer the world-soul.
 * Janani Amar Jiban Tatini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:41
+  :cite-key: STMC:41
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ Nimesher majhe mithe jai mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:42
+  :cite-key: STMC:42
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ Its satisfaction-life.
 * Brahma Vishnu Vishwapati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:43
+  :cite-key: STMC:43
   :END:
 
 #+BEGIN_VERSE
@@ -972,10 +972,10 @@ Antare mor nitya rabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:44
+  :cite-key: STMC:44
   :END:
 
 #+BEGIN_VERSE
@@ -995,10 +995,10 @@ The flood of Your Nectar-Silence.
 * Dekhbe Tumi E Dui Chokhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:45
+  :cite-key: STMC:45
   :END:
 
 #+BEGIN_VERSE
@@ -1017,10 +1017,10 @@ Sebak kare niyo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:46
+  :cite-key: STMC:46
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ Or make me Your faithful instrument.
 * Sindhu Nire Indu Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:47
+  :cite-key: STMC:47
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Praner priya sei debatai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:48
+  :cite-key: STMC:48
   :END:
 
 #+BEGIN_VERSE
@@ -1086,10 +1086,10 @@ They are Your Vision-Eyes divine.
 * Kar Parashe Kumud Hase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:49
+  :cite-key: STMC:49
   :END:
 
 #+BEGIN_VERSE
@@ -1108,10 +1108,10 @@ Swapne kena dekhina se
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:50
+  :cite-key: STMC:50
   :END:
 
 #+BEGIN_VERSE
@@ -1132,10 +1132,10 @@ Even in my dreams?
 * Nami Juga Avatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:51
+  :cite-key: STMC:51
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ Nami juga avatar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:52
+  :cite-key: STMC:52
   :END:
 
 #+BEGIN_VERSE
@@ -1183,10 +1183,10 @@ My world invokes You alone.
 * Jara Maran Dukkha Abhab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:53
+  :cite-key: STMC:53
   :END:
 
 #+BEGIN_VERSE
@@ -1205,10 +1205,10 @@ Andhakarer rajye habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:54
+  :cite-key: STMC:54
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Will be established the Kingdom
 * Bhul Kare Ma Na Hoi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:55
+  :cite-key: STMC:55
   :END:
 
 #+BEGIN_VERSE
@@ -1253,10 +1253,10 @@ Akul sagar nire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:56
+  :cite-key: STMC:56
   :END:
 
 #+BEGIN_VERSE
@@ -1278,10 +1278,10 @@ Of the endless ocean?
 * Dusahasi Pather Mita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:57
+  :cite-key: STMC:57
   :END:
 
 #+BEGIN_VERSE
@@ -1300,10 +1300,10 @@ Rakho bendhe amai prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:58
+  :cite-key: STMC:58
   :END:
 
 #+BEGIN_VERSE
@@ -1324,10 +1324,10 @@ In the core of Your Eternity’s Heart?
 * Amar Dake Dao Ma Ebar Sara Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:59
+  :cite-key: STMC:59
   :END:
 
 #+BEGIN_VERSE
@@ -1348,10 +1348,10 @@ Amar dake dao ma ebar sara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:60
+  :cite-key: STMC:60
   :END:
 
 #+BEGIN_VERSE
@@ -1373,10 +1373,10 @@ Mother, this time do listen to my call.
 * Khudra Chaowa Byartha Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:61
+  :cite-key: STMC:61
   :END:
 
 #+BEGIN_VERSE
@@ -1397,10 +1397,10 @@ Oi je tomar tari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:62
+  :cite-key: STMC:62
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ My new life has dawned.
 * Nayan Nehare Bishwa Bhuban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:63
+  :cite-key: STMC:63
   :END:
 
 #+BEGIN_VERSE
@@ -1443,10 +1443,10 @@ Satya tapasa gyani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:64
+  :cite-key: STMC:64
   :END:
 
 #+BEGIN_VERSE
@@ -1470,10 +1470,10 @@ Under his perfect control.
 * Antara Ankhi Khule Dao Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:65
+  :cite-key: STMC:65
   :END:
 
 #+BEGIN_VERSE
@@ -1496,10 +1496,10 @@ Antara khani alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:66
+  :cite-key: STMC:66
   :END:
 
 #+BEGIN_VERSE
@@ -1523,10 +1523,10 @@ Into the flood of wisdom-light.
 * Mago Tumi Snehamayi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:67
+  :cite-key: STMC:67
   :END:
 
 #+BEGIN_VERSE
@@ -1545,10 +1545,10 @@ Ektu hese tomar paye nitya ami chumi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:68
+  :cite-key: STMC:68
   :END:
 
 #+BEGIN_VERSE
@@ -1572,10 +1572,10 @@ And kiss Your Feet again and again.
 * Dure Dure Bahudure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:69
+  :cite-key: STMC:69
   :END:
 
 #+BEGIN_VERSE
@@ -1590,10 +1590,10 @@ Nartan paramer dole
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:70
+  :cite-key: STMC:70
   :END:
 
 #+BEGIN_VERSE
@@ -1611,10 +1611,10 @@ In the Dance-Delight of the Absolute.
 * Ja Jai Taje Jaina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:71
+  :cite-key: STMC:71
   :END:
 
 #+BEGIN_VERSE
@@ -1629,10 +1629,10 @@ Ja pai ta thakena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:72
+  :cite-key: STMC:72
   :END:
 
 #+BEGIN_VERSE
@@ -1651,10 +1651,10 @@ Of constant gain and loss.
 * Drashta Tahare Bali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:73
+  :cite-key: STMC:73
   :END:
 
 #+BEGIN_VERSE
@@ -1675,10 +1675,10 @@ Atma drashta barenya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:74
+  :cite-key: STMC:74
   :END:
 
 #+BEGIN_VERSE
@@ -1702,10 +1702,10 @@ Of world-admiration has found its illumination.
 * Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:75
+  :cite-key: STMC:75
   :END:
 
 #+BEGIN_VERSE
@@ -1720,10 +1720,10 @@ Ta je tuchchha michhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:76
+  :cite-key: STMC:76
   :END:
 
 #+BEGIN_VERSE
@@ -1741,10 +1741,10 @@ And utterly false.
 * Dukhero Rajani Sheshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:77
+  :cite-key: STMC:77
   :END:
 
 #+BEGIN_VERSE
@@ -1761,10 +1761,10 @@ Mane rekho ami je ajay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:78
+  :cite-key: STMC:78
   :END:
 
 #+BEGIN_VERSE
@@ -1782,10 +1782,10 @@ Tear appears and says,
 * Nil Akasher Sobuj Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:79
+  :cite-key: STMC:79
   :END:
 
 #+BEGIN_VERSE
@@ -1808,10 +1808,10 @@ Ure jete chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:80
+  :cite-key: STMC:80
   :END:
 
 #+BEGIN_VERSE
@@ -1834,10 +1834,10 @@ Where my Eternity’s Mother is?
 * Ekla Ami Dushtu Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:81
+  :cite-key: STMC:81
   :END:
 
 #+BEGIN_VERSE
@@ -1855,10 +1855,10 @@ Sushil shubok panchti cheler bolte ki nam paro
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:82
+  :cite-key: STMC:82
   :END:
 
 #+BEGIN_VERSE
@@ -1881,10 +1881,10 @@ Calm and devoted children?
 * Jishur Swapna Sarga Rajya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:83
+  :cite-key: STMC:83
   :END:
 
 #+BEGIN_VERSE
@@ -1903,10 +1903,10 @@ Ajike abhyudoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:84
+  :cite-key: STMC:84
   :END:
 
 #+BEGIN_VERSE
@@ -1927,10 +1927,10 @@ Of new illumination and new perfection.
 * Lila Mayir Dekhbo Lila
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:85
+  :cite-key: STMC:85
   :END:
 
 #+BEGIN_VERSE
@@ -1945,10 +1945,10 @@ Madhu nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:86
+  :cite-key: STMC:86
   :END:
 
 #+BEGIN_VERSE
@@ -1967,10 +1967,10 @@ That is my nectar-silence.
 * Bhikkha Kore Tabu Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:87
+  :cite-key: STMC:87
   :END:
 
 #+BEGIN_VERSE
@@ -1989,10 +1989,10 @@ Praner bhakti diye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:88
+  :cite-key: STMC:88
   :END:
 
 #+BEGIN_VERSE
@@ -2012,10 +2012,10 @@ With our heart’s devotion-flames.
 * Martyer Pare Udar Lokher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:89
+  :cite-key: STMC:89
   :END:
 
 #+BEGIN_VERSE
@@ -2034,10 +2034,10 @@ Debachetana abhyuday
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:90
+  :cite-key: STMC:90
   :END:
 
 #+BEGIN_VERSE
@@ -2059,10 +2059,10 @@ In the aspiring mankind.
 * Gahana Hridaya Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:91
+  :cite-key: STMC:91
   :END:
 
 #+BEGIN_VERSE
@@ -2079,10 +2079,10 @@ Ami nirabata dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:92
+  :cite-key: STMC:92
   :END:
 
 #+BEGIN_VERSE
@@ -2098,10 +2098,10 @@ Have made me into incense-fragrance of silence.
 * Amai Jara Bhalobase Kothai Tara Kothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:93
+  :cite-key: STMC:93
   :END:
 
 #+BEGIN_VERSE
@@ -2120,10 +2120,10 @@ Amai jara bandhbe hese
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:94
+  :cite-key: STMC:94
   :END:
 
 #+BEGIN_VERSE
@@ -2143,10 +2143,10 @@ With the bonds of the heart?
 * Chetana Amar Bedana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:95
+  :cite-key: STMC:95
   :END:
 
 #+BEGIN_VERSE
@@ -2163,10 +2163,10 @@ Agyanatar rupantarer kripan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:96
+  :cite-key: STMC:96
   :END:
 
 #+BEGIN_VERSE
@@ -2186,10 +2186,10 @@ And the sword for the transformation
 * Jharna-Kala Moder Bala (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:97
+  :cite-key: STMC:97
   :END:
 
 #+BEGIN_VERSE
@@ -2204,10 +2204,10 @@ Kanna hasir parapare dodul dola
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:98
+  :cite-key: STMC:98
   :END:
 
 #+BEGIN_VERSE
@@ -2228,10 +2228,10 @@ O Fountain-Art, Fountain-Art, Fountain-Art!
 * Din Chale Jai Ase Jaminir Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:99
+  :cite-key: STMC:99
   :END:
 
 #+BEGIN_VERSE
@@ -2246,10 +2246,10 @@ Phutibe ki taba alor kusum manobane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:100
+  :cite-key: STMC:100
   :END:
 
 #+BEGIN_VERSE
@@ -2267,10 +2267,10 @@ The flower of light will blossom?
 * Nai Kichhu Nai Khati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:101
+  :cite-key: STMC:101
   :END:
 
 #+BEGIN_VERSE
@@ -2289,10 +2289,10 @@ Dibya sushama raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:102
+  :cite-key: STMC:102
   :END:
 
 #+BEGIN_VERSE
@@ -2314,10 +2314,10 @@ May my divine beauty blossom.
 * Ki Jena Phelechhi Kothai Na Jani Haraye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:103
+  :cite-key: STMC:103
   :END:
 
 #+BEGIN_VERSE
@@ -2332,10 +2332,10 @@ Shesh smriti tuku ajio pareni dhele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:104
+  :cite-key: STMC:104
   :END:
 
 #+BEGIN_VERSE
@@ -2354,10 +2354,10 @@ This much I can recollect; that’s all.
 * Mane Pare Jena Ati Dure Deshe Esechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:105
+  :cite-key: STMC:105
   :END:
 
 #+BEGIN_VERSE
@@ -2372,10 +2372,10 @@ Ekhano je mor adhek chetana supta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:106
+  :cite-key: STMC:106
   :END:
 
 #+BEGIN_VERSE
@@ -2395,10 +2395,10 @@ Is yet half asleep.
 * Lobhe Pap Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:107
+  :cite-key: STMC:107
   :END:
 
 #+BEGIN_VERSE
@@ -2417,10 +2417,10 @@ Tyag majhe kabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:108
+  :cite-key: STMC:108
   :END:
 
 #+BEGIN_VERSE
@@ -2442,10 +2442,10 @@ Who becomes the God-message
 * Akul Parane Kata Kichu Ami Cheyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:109
+  :cite-key: STMC:109
   :END:
 
 #+BEGIN_VERSE
@@ -2460,10 +2460,10 @@ Bhalobasa diye ashesh jatana kinechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:110
+  :cite-key: STMC:110
   :END:
 
 #+BEGIN_VERSE
@@ -2482,10 +2482,10 @@ With my heart’s love.
 * Chahibar Lagi Diyecho Sujog
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:111
+  :cite-key: STMC:111
   :END:
 
 #+BEGIN_VERSE
@@ -2500,10 +2500,10 @@ Swapaner kole ranjana dole
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:112
+  :cite-key: STMC:112
   :END:
 
 #+BEGIN_VERSE
@@ -2520,10 +2520,10 @@ Your Victory-Song I sing.
 * Ekla Ami Raibo Hetha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:113
+  :cite-key: STMC:113
   :END:
 
 #+BEGIN_VERSE
@@ -2542,10 +2542,10 @@ Ari amar ar keha nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:114
+  :cite-key: STMC:114
   :END:
 
 #+BEGIN_VERSE
@@ -2564,10 +2564,10 @@ Nobody is my enemy except my talkative mouth.
 * Jibana Chale Tomai Bina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:115
+  :cite-key: STMC:115
   :END:
 
 #+BEGIN_VERSE
@@ -2584,10 +2584,10 @@ Bishal hiya anan manoram
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:116
+  :cite-key: STMC:116
   :END:
 
 #+BEGIN_VERSE
@@ -2605,10 +2605,10 @@ And Your Face of transcendental Beauty?
 * Ami Je Tomai Karechhi Mahat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:117
+  :cite-key: STMC:117
   :END:
 
 #+BEGIN_VERSE
@@ -2627,10 +2627,10 @@ Sabai saman tomar kanane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:118
+  :cite-key: STMC:118
   :END:
 
 #+BEGIN_VERSE
@@ -2653,10 +2653,10 @@ The sense of superiority and inferiority
 * Apar Prane Byetha Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:119
+  :cite-key: STMC:119
   :END:
 
 #+BEGIN_VERSE
@@ -2675,10 +2675,10 @@ Keman kare pabe bibhur
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:120
+  :cite-key: STMC:120
   :END:
 
 #+BEGIN_VERSE
@@ -2696,10 +2696,10 @@ From our Lord Supreme?
 * Ek Bhul Kari Shatabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:121
+  :cite-key: STMC:121
   :END:
 
 #+BEGIN_VERSE
@@ -2716,10 +2716,10 @@ Prabhu kotha taba pada rekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:122
+  :cite-key: STMC:122
   :END:
 
 #+BEGIN_VERSE
@@ -2739,10 +2739,10 @@ Lord Supreme, where shall I get the dust
 * Amar Chapal Praner Bajare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:123
+  :cite-key: STMC:123
   :END:
 
 #+BEGIN_VERSE
@@ -2761,10 +2761,10 @@ Bahiya chalibe hiya tari khani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:124
+  :cite-key: STMC:124
   :END:
 
 #+BEGIN_VERSE
@@ -2784,10 +2784,10 @@ My heart-boat will carry.
 * Aro Dure Aro Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:125
+  :cite-key: STMC:125
   :END:
 
 #+BEGIN_VERSE
@@ -2810,10 +2810,10 @@ Nayan amar ghurchhe jena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:126
+  :cite-key: STMC:126
   :END:
 
 #+BEGIN_VERSE
@@ -2836,10 +2836,10 @@ And for whom my eyes pine?
 * Asha Diye Dao Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:127
+  :cite-key: STMC:127
   :END:
 
 #+BEGIN_VERSE
@@ -2857,10 +2857,10 @@ Amar antare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:128
+  :cite-key: STMC:128
   :END:
 
 #+BEGIN_VERSE
@@ -2877,10 +2877,10 @@ O, fill up my heart with hope.
 * Ebar Mago Niyo Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:129
+  :cite-key: STMC:129
   :END:
 
 #+BEGIN_VERSE
@@ -2903,10 +2903,10 @@ Animeshe raibo cheye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:130
+  :cite-key: STMC:130
   :END:
 
 #+BEGIN_VERSE
@@ -2927,10 +2927,10 @@ And contemplate on Your Feet divine.
 * Ekla Ami Mago Ebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:131
+  :cite-key: STMC:131
   :END:
 
 #+BEGIN_VERSE
@@ -2949,10 +2949,10 @@ Ghurbona ar dine rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:132
+  :cite-key: STMC:132
   :END:
 
 #+BEGIN_VERSE
@@ -2971,10 +2971,10 @@ On the world’s winding road.
 * Shunye Uro Pakhi Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:133
+  :cite-key: STMC:133
   :END:
 
 #+BEGIN_VERSE
@@ -2995,10 +2995,10 @@ Shunye uro pakhi tumi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:134
+  :cite-key: STMC:134
   :END:
 
 #+BEGIN_VERSE
@@ -3016,10 +3016,10 @@ O bird, you fly in the sky of Infinity.
 * Amai Tumi Murkha Rekhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:135
+  :cite-key: STMC:135
   :END:
 
 #+BEGIN_VERSE
@@ -3038,10 +3038,10 @@ Parashanti pabena hai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:136
+  :cite-key: STMC:136
   :END:
 
 #+BEGIN_VERSE
@@ -3062,10 +3062,10 @@ And Your own.
 * Madhu Diye Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:137
+  :cite-key: STMC:137
   :END:
 
 #+BEGIN_VERSE
@@ -3083,10 +3083,10 @@ Madhu diye dao bhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:138
+  :cite-key: STMC:138
   :END:
 
 #+BEGIN_VERSE
@@ -3104,10 +3104,10 @@ Fill up my heart with inner honey.
 * Nil Pakhi Bale Ai Ai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:139
+  :cite-key: STMC:139
   :END:
 
 #+BEGIN_VERSE
@@ -3124,10 +3124,10 @@ Ghire achhe jena satata sethai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:140
+  :cite-key: STMC:140
   :END:
 
 #+BEGIN_VERSE
@@ -3145,10 +3145,10 @@ Is nothing but the darkness of pleasure-night.
 * Ke Jena Kahichhe Ati Khina Sware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:141
+  :cite-key: STMC:141
   :END:
 
 #+BEGIN_VERSE
@@ -3163,10 +3163,10 @@ Sukher swapan bhengechhe jakhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:142
+  :cite-key: STMC:142
   :END:
 
 #+BEGIN_VERSE
@@ -3185,10 +3185,10 @@ In the world of Immortality!”
 * Jyoti Sandhane Jabe Jadi Chalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:143
+  :cite-key: STMC:143
   :END:
 
 #+BEGIN_VERSE
@@ -3203,10 +3203,10 @@ Khaniker sukhe bhulona bandhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:144
+  :cite-key: STMC:144
   :END:
 
 #+BEGIN_VERSE
@@ -3223,10 +3223,10 @@ Time is leaving you fast, very fast.
 * Akashe Nai Rabi Shashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:145
+  :cite-key: STMC:145
   :END:
 
 #+BEGIN_VERSE
@@ -3245,10 +3245,10 @@ Mithya moha kaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:146
+  :cite-key: STMC:146
   :END:
 
 #+BEGIN_VERSE
@@ -3266,10 +3266,10 @@ And the body of ignorance and falsehood-delusion.
 * Diner Sheshe Rater Sheshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:147
+  :cite-key: STMC:147
   :END:
 
 #+BEGIN_VERSE
@@ -3286,10 +3286,10 @@ Swapan kusum phutbe jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:148
+  :cite-key: STMC:148
   :END:
 
 #+BEGIN_VERSE
@@ -3307,10 +3307,10 @@ With a sweet smile?
 * Ei Dharanir Kichu Nahi Lage Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:149
+  :cite-key: STMC:149
   :END:
 
 #+BEGIN_VERSE
@@ -3325,10 +3325,10 @@ Nahi chahi ar basanar moha-dore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:150
+  :cite-key: STMC:150
   :END:
 
 #+BEGIN_VERSE
@@ -3345,10 +3345,10 @@ No more do I want this world of binding desires.
 * Asim Jatana Kemane Sahibo Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:151
+  :cite-key: STMC:151
   :END:
 
 #+BEGIN_VERSE
@@ -3363,10 +3363,10 @@ Tabu e bishwa pran mor nahi chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:152
+  :cite-key: STMC:152
   :END:
 
 #+BEGIN_VERSE
@@ -3383,10 +3383,10 @@ Yet my heart does not want this world.
 * Jani Ami Jani Alik Swapan Jiban Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:153
+  :cite-key: STMC:153
   :END:
 
 #+BEGIN_VERSE
@@ -3405,10 +3405,10 @@ Tar sathe shudhu mishi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:154
+  :cite-key: STMC:154
   :END:
 
 #+BEGIN_VERSE
@@ -3427,10 +3427,10 @@ Only one friend I have:
 * Ai Ai Ai Chandra Taraka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:155
+  :cite-key: STMC:155
   :END:
 
 #+BEGIN_VERSE
@@ -3451,10 +3451,10 @@ Nil nabha rabi ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:156
+  :cite-key: STMC:156
   :END:
 
 #+BEGIN_VERSE
@@ -3477,10 +3477,10 @@ Come, come, come, O moon, O stars,
 * Phanki Amar Maner Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:157
+  :cite-key: STMC:157
   :END:
 
 #+BEGIN_VERSE
@@ -3497,10 +3497,10 @@ Tabu ami tomar ankhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:158
+  :cite-key: STMC:158
   :END:
 
 #+BEGIN_VERSE
@@ -3518,10 +3518,10 @@ Yet I am Your darling.
 * Tumi Amai Khama Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:159
+  :cite-key: STMC:159
   :END:
 
 #+BEGIN_VERSE
@@ -3540,10 +3540,10 @@ Taito benche achhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:160
+  :cite-key: STMC:160
   :END:
 
 #+BEGIN_VERSE
@@ -3563,10 +3563,10 @@ Therefore, I am still alive.
 * Bela Mor Chale Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:161
+  :cite-key: STMC:161
   :END:
 
 #+BEGIN_VERSE
@@ -3583,10 +3583,10 @@ Tomare e hiya chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:162
+  :cite-key: STMC:162
   :END:
 
 #+BEGIN_VERSE
@@ -3606,10 +3606,10 @@ My heart longs for You alone.
 * Tumi Kanda Bhul Kareo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:163
+  :cite-key: STMC:163
   :END:
 
 #+BEGIN_VERSE
@@ -3626,10 +3626,10 @@ Tumi nacho jakhan tomai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:164
+  :cite-key: STMC:164
   :END:
 
 #+BEGIN_VERSE
@@ -3647,10 +3647,10 @@ I invoke You.
 * Tomar Dekha Pabo Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:165
+  :cite-key: STMC:165
   :END:
 
 #+BEGIN_VERSE
@@ -3669,10 +3669,10 @@ Sarbahara shoke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:166
+  :cite-key: STMC:166
   :END:
 
 #+BEGIN_VERSE
@@ -3690,10 +3690,10 @@ Having sorrow and grief as my only friends?
 * Tomar Pulaka Palake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:167
+  :cite-key: STMC:167
   :END:
 
 #+BEGIN_VERSE
@@ -3710,10 +3710,10 @@ Nehari amar ashoke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:168
+  :cite-key: STMC:168
   :END:
 
 #+BEGIN_VERSE
@@ -3732,10 +3732,10 @@ The grip of sorrow and grief.
 * Tomar Charana Tale Atmatyager Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:169
+  :cite-key: STMC:169
   :END:
 
 #+BEGIN_VERSE
@@ -3752,10 +3752,10 @@ Unmad kolahale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:170
+  :cite-key: STMC:170
   :END:
 
 #+BEGIN_VERSE
@@ -3774,10 +3774,10 @@ Of dark ignorance-night.
 * Sombare Mor Dharechhila Matha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:171
+  :cite-key: STMC:171
   :END:
 
 #+BEGIN_VERSE
@@ -3804,10 +3804,10 @@ Chhutir dibase parite parina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:172
+  :cite-key: STMC:172
   :END:
 
 #+BEGIN_VERSE
@@ -3838,10 +3838,10 @@ Is it not a real cause of annoyment?
 * Sapta Baridhi Sapta Bhudhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:173
+  :cite-key: STMC:173
   :END:
 
 #+BEGIN_VERSE
@@ -3859,10 +3859,10 @@ Heri shudhu mago tomar anchale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:174
+  :cite-key: STMC:174
   :END:
 
 #+BEGIN_VERSE
@@ -3881,10 +3881,10 @@ Mother Divine, I see myself enveloped
 * Sandhya Sakal Bela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:175
+  :cite-key: STMC:175
   :END:
 
 #+BEGIN_VERSE
@@ -3903,10 +3903,10 @@ Shantir dhara labhi jena mago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:176
+  :cite-key: STMC:176
   :END:
 
 #+BEGIN_VERSE
@@ -3927,10 +3927,10 @@ At Your red Lotus-Feet.
 * Basana Hase Basana Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:177
+  :cite-key: STMC:177
   :END:
 
 #+BEGIN_VERSE
@@ -3949,10 +3949,10 @@ Basana moha ek nimeshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:178
+  :cite-key: STMC:178
   :END:
 
 #+BEGIN_VERSE
@@ -3975,10 +3975,10 @@ Will come to its final end.
 * Tomar Ashish Mala Amai Karbe Ala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:179
+  :cite-key: STMC:179
   :END:
 
 #+BEGIN_VERSE
@@ -3998,10 +3998,10 @@ Tumi amar abhay barabhay
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:180
+  :cite-key: STMC:180
   :END:
 
 #+BEGIN_VERSE
@@ -4022,10 +4022,10 @@ You are the identification of my heart.
 * Rag Kare Ma Ekla Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:181
+  :cite-key: STMC:181
   :END:
 
 #+BEGIN_VERSE
@@ -4050,10 +4050,10 @@ Amar hasi pabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:182
+  :cite-key: STMC:182
   :END:
 
 #+BEGIN_VERSE
@@ -4078,10 +4078,10 @@ To return to You.
 * Sabar Majhe Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1974
-  :CITE-KEY: STMC:183
+  :cite-key: STMC:183
   :END:
 
 #+BEGIN_VERSE
@@ -4101,10 +4101,10 @@ Nitya pranipat
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1974
-  :CITE-KEY: STMC:184
+  :cite-key: STMC:184
   :END:
 
 #+BEGIN_VERSE
@@ -4127,10 +4127,10 @@ I know I shall always bow to You.
 * Ranga Jaba Enechhi Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:185
+  :cite-key: STMC:185
   :END:
 
 #+BEGIN_VERSE
@@ -4145,10 +4145,10 @@ Parashe tor rishi habo phutbe debo ankhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:186
+  :cite-key: STMC:186
   :END:
 
 #+BEGIN_VERSE
@@ -4169,10 +4169,10 @@ And I become the eye of the cosmic gods.
 * Purba Chaler Alo Jwala Malarabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:187
+  :cite-key: STMC:187
   :END:
 
 #+BEGIN_VERSE
@@ -4196,10 +4196,10 @@ Taba bhalobasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:188
+  :cite-key: STMC:188
   :END:
 
 #+BEGIN_VERSE
@@ -4221,10 +4221,10 @@ Admires You and Your Soul-Smile.
 * Surjya Jakhan Mudbe Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:189
+  :cite-key: STMC:189
   :END:
 
 #+BEGIN_VERSE
@@ -4241,10 +4241,10 @@ Kon sagarer gabhir jale amai khunje pele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:190
+  :cite-key: STMC:190
   :END:
 
 #+BEGIN_VERSE
@@ -4263,10 +4263,10 @@ Have You discovered me at last?
 * Bela Shesher Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:191
+  :cite-key: STMC:191
   :END:
 
 #+BEGIN_VERSE
@@ -4283,10 +4283,10 @@ Shanti aphuran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:192
+  :cite-key: STMC:192
   :END:
 
 #+BEGIN_VERSE
@@ -4304,10 +4304,10 @@ As my own, very own.
 * Swalpe Tushti Bale Bhai Brihater Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:193
+  :cite-key: STMC:193
   :END:
 
 #+BEGIN_VERSE
@@ -4326,10 +4326,10 @@ Amar mitabe sadh baikunter rani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:194
+  :cite-key: STMC:194
   :END:
 
 #+BEGIN_VERSE
@@ -4353,10 +4353,10 @@ My vast hunger.
 * Tomai Ami Bhebechhilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:195
+  :cite-key: STMC:195
   :END:
 
 #+BEGIN_VERSE
@@ -4375,10 +4375,10 @@ Amai khunje nite habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:196
+  :cite-key: STMC:196
   :END:
 
 #+BEGIN_VERSE
@@ -4398,10 +4398,10 @@ I have to discover my own light-world.
 * Tanu Amar Tariy Tanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:197
+  :cite-key: STMC:197
   :END:
 
 #+BEGIN_VERSE
@@ -4420,10 +4420,10 @@ Taito mora hayechhi aj
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:198
+  :cite-key: STMC:198
   :END:
 
 #+BEGIN_VERSE
@@ -4443,10 +4443,10 @@ The seekers of Infinity’s Beauty.
 * Tomar Charana Tale Amare Harabo Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:199
+  :cite-key: STMC:199
   :END:
 
 #+BEGIN_VERSE
@@ -4466,10 +4466,10 @@ Kato shatabar cheyechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: STMC:200
+  :cite-key: STMC:200
   :END:
 
 #+BEGIN_VERSE

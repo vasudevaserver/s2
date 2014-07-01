@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0281
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-7
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0281
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-7
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCS:171e1
+  :genre: note
+  :keywords:
+  :cite-key: SCS:171e1
   :END:
   
 
@@ -34,17 +34,17 @@
 * Part I - Talks
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:171e2
+  :genre: section
+  :keywords:
+  :cite-key: SCS:171e2
   :END:
 
 * Hope human and faith divine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:171
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:171
   :END:
 
 
@@ -61,9 +61,9 @@ Human hope is like human desire. When today's hope is fulfilled, tomorrow there 
 * Fatigue and meditation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:172
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:172
   :END:
 
 
@@ -82,9 +82,9 @@ Also, please make your car more divine, more spiritual, with flowers and picture
 * Overcoming anger and hatred
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:173
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:173
   :END:
 
 
@@ -101,9 +101,9 @@ Do the same with hatred. Feel that it is something you are offering to someone w
 * Part II - Sri Chinmoy's path - disciples' questions
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:174e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:174e1
   :END:
 
 
@@ -111,9 +111,9 @@ Do the same with hatred. Feel that it is something you are offering to someone w
 * Question: What is your path all about?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:174
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:174
   :END:
 
 
@@ -124,9 +124,9 @@ Do the same with hatred. Feel that it is something you are offering to someone w
 * Question: How can I tell if you are meant to be my Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:175
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:175
   :END:
 
 
@@ -139,9 +139,9 @@ I accept most of the seekers who come to me and want to accept me as their Maste
 * Question: Sometimes you speak of the human and the divine or the Supreme in yourself and distinguish between these two aspects. Should a disciple try to distinguish the two or regard them as one and feel that everything is divine?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:176
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:176
   :END:
 
 
@@ -152,9 +152,9 @@ I accept most of the seekers who come to me and want to accept me as their Maste
 * Question: Is it possible for a disciple to learn from a more advanced seeker?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:177
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:177
   :END:
 
 
@@ -167,9 +167,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: In your life do you show negativity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:178
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:178
   :END:
 
 
@@ -180,9 +180,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: When I am not meditating and when I have no work to do, there are vacant spaces which I can no longer fill with things I used to do before I became a disciple. I don't know what to do with this spare time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:179
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:179
   :END:
 
 
@@ -193,9 +193,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: What is the best way to think of you and the Supreme during the day?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:180
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:180
   :END:
 
 
@@ -206,9 +206,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: The love that we have for you, Master, is it the same love that we should have for Mother Kali?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:181
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:181
   :END:
 
 
@@ -219,9 +219,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: Why is it that whenever you ask for questions my mind suddenly goes blank?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:182
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:182
   :END:
 
 
@@ -232,9 +232,9 @@ If a beginner takes the advice of an advanced seeker, it will take him less time
 * Question: What is the significance of children in the fulfilment of your mission?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:183
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:183
   :END:
 
 
@@ -247,9 +247,9 @@ A child means God's Dream, God's Vision. That is why I ask everybody to act like
 * Question: Sometimes we want to do something for the mission which requires money, but we have difficulty getting it. Is it the Will of the Supreme or the hostile forces?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:184
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:184
   :END:
 
 
@@ -262,9 +262,9 @@ A child means God's Dream, God's Vision. That is why I ask everybody to act like
 * Question: How can we maintain our inner cry and intensity when we're not around you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:185
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:185
   :END:
  
 
@@ -283,9 +283,9 @@ Do not think about success. Success ends your journey, but progress never ends. 
 * Question: When we feel joy in working for you, can we take this as pleasing you in your own way?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:186
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:186
   :END:
 
 
@@ -298,9 +298,9 @@ Very often you may not or cannot know what my wish is. Then what can you do? Rem
 * Question: Could you talk about the meaning of the line in the Invocation, "My breath, Thy Vision's kite"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:187
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:187
   :END:
  
 
@@ -313,9 +313,9 @@ God existed as the Absolute unmanifested. He wanted to manifest Himself constant
 * Question: Sometimes I'm very happy and joyous, like at circus practice when I'm having fun with my brothers and sisters, but I don't feel that I'm soulfully happy because I'm not consciously thinking of you.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:188
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:188
   :END:
 
 
@@ -326,9 +326,9 @@ God existed as the Absolute unmanifested. He wanted to manifest Himself constant
 * Question: It seems in my office that the people most receptive to you are the people I have the most conflicts with.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:189
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:189
   :END:
 
 
@@ -341,9 +341,9 @@ Ten people from your office have come to our meditation. Some received most powe
 * Part III - General spiritual questions
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:190e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:190e1
   :END:
 
 
@@ -351,9 +351,9 @@ Ten people from your office have come to our meditation. Some received most powe
 * Question: How can I know if I am executing God's Will or I am fulfilling my own ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:190
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:190
   :END:
  
 
@@ -366,9 +366,9 @@ But when you execute the Will of God, the question of superiority or inferiority
 * Question: What is the difference between desire and aspiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:191
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:191
   :END:
 
 
@@ -385,9 +385,9 @@ We have to know that there is no end to our desires. Before we fulfil today's de
 * Question: What is the significance of marriage, and can a married couple follow spirituality together?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:192
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:192
   :END:
 
 
@@ -402,9 +402,9 @@ But it becomes infinitely easier if both husband and wife follow the same path. 
 * Question: Why has God made women so insecure that it is hard for them to become detached?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:193
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:193
   :END:
 
 
@@ -425,9 +425,9 @@ So in the spiritual life we always have to be aware of the Reality. This Reality
 * Question: What is the best way to deal with dry periods in one's sadhana? That is, how does one maintain aspiration and good feelings while one experiences a dryness in his meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:194
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:194
   :END:
 
 
@@ -442,9 +442,9 @@ This dryness can be avoided by doing only one thing: shedding tears of gratitude
 * Question: What is the quickest way to silence the doubting mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:195
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:195
   :END:
 
 
@@ -457,9 +457,9 @@ But in your case, it is not the mind that is the problem. Your vital does not as
 * Question: Right now I am under psychoanalysis, but it seems that the more I become involved in spirituality, the harder it is for me to talk about it with my analyst. I feel that the things offered by analysis are not really what I want. And yet my analyst, who seems to be a very strong person, is reluctant to let me go free. And I don't know if there is any reconciliation between myself and him.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:196
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:196
   :END:
 
 
@@ -474,9 +474,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: Does one use a mantra during meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:197
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:197
   :END:
 
 
@@ -487,9 +487,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: In the last couple of days, when I have been meditating I have been getting a desire not to breathe. Can you tell me what this is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:198
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:198
   :END:
 
 
@@ -500,9 +500,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: Sometimes when I'm meditating I see different visual perceptions, shaking and concentric circles that seem to rise up. What are they?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:199
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:199
   :END:
 
 
@@ -513,9 +513,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: How many incarnations do souls usually have to go through before they realise God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:200
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:200
   :END:
 
 
@@ -526,9 +526,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: Why is it that limited light has to expand into the unlimited Light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:201
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:201
   :END:
 
 
@@ -539,9 +539,9 @@ So if you really want to follow the spiritual life, you have to remain in the he
 * Question: What is the relationship between morality and the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:202
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:202
   :END:
 
 
@@ -554,9 +554,9 @@ Morality is extremely necessary when we are transcending our animal life. But on
 * Question: Why do so many Americans, especially young men and women, seem to be turning to Indian spiritual leaders when there are so many churches and religions in the West?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:203
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:203
   :END:
 
 
@@ -569,9 +569,9 @@ Spiritual Masters are offering Yoga to Americans, but Yoga is not a new religion
 * Question: Guru, what is the difference between a soul leaving the body when someone dies and our souls coming to you to give you a message?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:204
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:204
   :END:
 
 
@@ -582,9 +582,9 @@ Spiritual Masters are offering Yoga to Americans, but Yoga is not a new religion
 * Question: Can a soul transmit messages without leaving the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:205
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:205
   :END:
 
 
@@ -595,9 +595,9 @@ Spiritual Masters are offering Yoga to Americans, but Yoga is not a new religion
 * Question: Is it better to go deep within or to go high during meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:206
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:206
   :END:
 
 
@@ -608,9 +608,9 @@ Spiritual Masters are offering Yoga to Americans, but Yoga is not a new religion
 * Question: How does one best move the consciousness from the mind to the heart?
 
   :PROPERTIES: 
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:207
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:207
   :END:
 
 
@@ -621,9 +621,9 @@ Spiritual Masters are offering Yoga to Americans, but Yoga is not a new religion
 * Question: Is it difficult for intellectual people to have faith?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:208
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:208
   :END:
 
 
@@ -636,9 +636,9 @@ Again, if a person has tremendous aspiration, even if he is intellectually devel
 * Question: Why does our evolution go so slowly that it takes us many hundreds of incarnations to realise God? Why do we have to go through so much struggle?
 
   :PROPERTIES: 
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:209
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:209
   :END:
 
 
@@ -651,9 +651,9 @@ Again, thousands of years is nothing when compared with God's eternal Time. When
 * Question: I've been getting sensations in the middle of my forehead and I wanted to know if this indicates that my third eye is opening?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:210
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:210
   :END:
 
 
@@ -664,9 +664,9 @@ Again, thousands of years is nothing when compared with God's eternal Time. When
 * Question: While I am working, is it possible to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:211
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:211
   :END:
 
 
@@ -677,9 +677,9 @@ Again, thousands of years is nothing when compared with God's eternal Time. When
 * Question: Should I meditate on my navel to purify the vital?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:212
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:212
   :END:
  
 

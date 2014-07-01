@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1090
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1995
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-3
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1090
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1995
+  :publisher: Agni Press
+  :cite-key: SCA-3
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I - Interview by /Art Speaks/ magazine
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:55e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:55e1
   :END:
 
   [fn:part-1]
@@ -33,9 +33,9 @@
 * Interviewer: Does the work of pop art have any relevance to your art -- in other words, to very directly spiritual art?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:55
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:55
   :END:
 
 
@@ -52,9 +52,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Interviewer: That is wonderful! I don't think you need it, obviously.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:56
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:56
   :END:
 
 
@@ -71,9 +71,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Part II - Questions and answers at the Jharna-Kala exhibition
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:57e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:57e1
   :END:
 
   [fn:part-2]
@@ -81,9 +81,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: How do you find the time to draw, to write, to do everything you do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:57
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:57
   :END:
 
 
@@ -94,9 +94,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: I notice the drawings are all birds. Why birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:58
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:58
   :END:
 
 
@@ -107,9 +107,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: I come from Puerto Rico and I was wondering if you could say something about the Spanish culture.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:59
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:59
   :END:
 
 
@@ -120,9 +120,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: When you first went to Puerto Rico, was it difficult for the people to accept you or difficult for you to get accustomed to them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:60
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:60
   :END:
 
 
@@ -133,9 +133,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: What gives you the most satisfaction?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:61
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:61
   :END:
 
 
@@ -146,9 +146,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: Among your disciples are there people who not only share your beliefs but also whom you are very proud of?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:62
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:62
   :END:
 
 
@@ -159,9 +159,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: In the span of a 24-hour day, how many hours do you meditate, how many hours do you paint, how many hours do you write and how many hours do you have left for leisure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:63
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:63
   :END:
 
 
@@ -172,9 +172,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Question: What is the most important message that you want to offer to humanity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:64
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:64
   :END:
 
 
@@ -185,9 +185,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Part III - Interview by /The New Yorker/ magazine
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:65e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:65e1
   :END:
   
   [fn:part-3]
@@ -196,9 +196,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Interviewer: Is there one thing that inspired you to do all these small drawings of birds?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:65
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:65
   :END:
 
 
@@ -209,9 +209,9 @@ Everything I do is entirely the result of God's Grace. Out of His infinite Compa
 * Interviewer: So as part of this inspiration, did you feel that birds were something that you should draw?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:66
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:66
   :END:
 
 
@@ -225,9 +225,9 @@ If we buy a cage and put a bird inside it, the bird is limited. But if we releas
 * Interviewer: By sharing these birds with the public, are you trying to inspire people with that message?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:67
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:67
   :END:
 
 
@@ -247,9 +247,9 @@ In exactly the same way, we human beings move from one place to another apprecia
 * Interviewer: Does it make you happy to see people looking at your exhibit and walking through it?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:68
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:68
   :END:
 
 
@@ -260,9 +260,9 @@ In exactly the same way, we human beings move from one place to another apprecia
 * Interviewer: It is very peaceful, despite the fact that it is in the middle of New York City.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:69
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:69
   :END:
 
 
@@ -273,9 +273,9 @@ In exactly the same way, we human beings move from one place to another apprecia
 * Interviewer: When I approached you earlier, you were sitting and drawing. Is this how most of these were done, just sitting?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:70
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:70
   :END:
 
 
@@ -286,9 +286,9 @@ In exactly the same way, we human beings move from one place to another apprecia
 * Interviewer: Do you have a bird in mind when you draw?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:71
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:71
   :END:
 
 
@@ -317,9 +317,9 @@ These birds reflect the heart's oneness. They represent unity in multiplicity. E
 * Interviewer: Do you have any sense of what your next project will be when this is over?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:72
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:72
   :END:
 
 
@@ -336,9 +336,9 @@ These birds reflect the heart's oneness. They represent unity in multiplicity. E
 * Part IV - Interview by the Canadian Broadcasting Corporation
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:73e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:73e1
   :END:
   
   [fn:part-4]
@@ -347,9 +347,9 @@ These birds reflect the heart's oneness. They represent unity in multiplicity. E
 * Interviewer: Sri Chinmoy is not your ordinary, everyday Guru. He and his disciples are known for completing tasks of amazing magnitude. Record-setting feats of endurance are among the ways Sri Chinmoy and his followers pursue inner calm. The latest feat was just finished: one million sketches, and every one a bird -- a million birds of peace. Sri Chinmoy himself has completed the sketches to celebrate the birthday today of Raisa Gorbachev. We have reached international artist and peace ambassador, Sri Chinmoy, in Suva, Fiji. Sri Chinmoy, you must be very pleased that you successfully drew one million birds. You must be glad that it is over.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:73
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:73
   :END:
 
 
@@ -360,9 +360,9 @@ These birds reflect the heart's oneness. They represent unity in multiplicity. E
 * Interviewer: Can you tell me how you came up with the idea for this project? How long ago was it, and why did you decide to do this?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:74
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:74
   :END:
 
 
@@ -408,18 +408,18 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Part V - Questions and answers on the Dream-Freedom-Peace-Bird drawings
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:75e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:75e1
   :END:
 
 
 * Question: How can we soar like your birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:75
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:75
   :END:
 
 
@@ -430,9 +430,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: How can I best meditate on your bird drawings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:76
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:76
   :END:
 
 
@@ -443,9 +443,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: What do the birds teach us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:77
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:77
   :END:
 
 
@@ -456,9 +456,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: How will your birds change the consciousness of earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:78
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:78
   :END:
 
 
@@ -469,9 +469,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: Are your birds created from human aspiration or from some other plane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:79
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:79
   :END:
 
 
@@ -482,9 +482,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: How can we feel your birds in our everyday life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:80
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:80
   :END:
 
 
@@ -495,9 +495,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: How can we become more like your birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:81
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:81
   :END:
 
 
@@ -508,9 +508,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: How can I give you as much joy as your birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:82
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:82
   :END:
 
 
@@ -521,9 +521,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: Does each of your soul-birds have its own particular role or destiny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:83
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:83
   :END:
 
 
@@ -534,9 +534,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: In the inner world, what do your friends of the highest magnitude say about your soul-birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:84
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:84
   :END:
 
 
@@ -547,9 +547,9 @@ I wish to tell you that Canada has a very special place in my art-life. About 19
 * Question: What are your birds and what do they mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:85
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:85
   :END:
   
 
@@ -564,9 +564,9 @@ From the human point of view, a million birds is more than enough. But anything 
 * Part VI - Meeting with Lindsay Clennell
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:86e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:86e1
   :END:
 
   [fn:part-6]
@@ -576,9 +576,9 @@ From the human point of view, a million birds is more than enough. But anything 
 * /Mr. Clennell:/ Thank you very much. This drawing is a real inspiration. The power of inspiration that you have for people is very, very important.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:86
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:86
   :END:
 
 
@@ -595,9 +595,9 @@ That is why I tell God, "Kick me as hard as possible. Then only can I claim You 
 * Mr. Clennell: What you have said is very striking for me, and it is a great comfort. There is something that I wanted to ask before I came to see you. You have drawn three million birds. This is genuinely inspiring, but it is also quite extreme. Could you explain it to me?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:87
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:87
   :END:
 
 
@@ -614,9 +614,9 @@ The mind is always telling us that we can only reach a certain height, but how d
 * Mr. Clennell: Yes, it makes very good sense. It is about spirituality and limitlessness. It is a definition. By breaking down the barriers and considering three million birds as something possible to draw, one is asserting spiritual reality. Is that correct?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:88
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:88
   :END:
 
 
@@ -641,9 +641,9 @@ My body has hands, legs, eyes and so forth. Shall I give importance only to my h
 * Part VII - My Art
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:89e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:89e1
   :END:
 
   [fn:part-7]
@@ -652,9 +652,9 @@ My body has hands, legs, eyes and so forth. Shall I give importance only to my h
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:89
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:89
   :END:
 
 
@@ -669,9 +669,9 @@ Without my soul's luminosity.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:90
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:90
   :END:
 
 
@@ -686,9 +686,9 @@ Without my heart's purity.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:91
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:91
   :END:
 
 
@@ -703,9 +703,9 @@ Without my mind's simplicity.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:92
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:92
   :END:
 
 
@@ -721,9 +721,9 @@ And my heart's streaming tears.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:93
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:93
   :END:
 
 
@@ -741,9 +741,9 @@ And a fulness-life.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:94
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:94
   :END:
 
 
@@ -762,9 +762,9 @@ They are interdependent, sleeplessly.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:95
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:95
   :END:
 
 
@@ -790,9 +790,9 @@ This includes my Artwork.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:96
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:96
   :END:
 
 
@@ -809,9 +809,9 @@ Commands the world.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:97
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:97
   :END:
 
 
@@ -828,9 +828,9 @@ For a dream-flooded Reality-Shore.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:98
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:98
   :END:
 
 
@@ -846,9 +846,9 @@ Completely free of self-doubt-weeds.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:99
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:99
   :END:
 
 
@@ -865,9 +865,9 @@ And meditation-blooms.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:100
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:100
   :END:
 
 
@@ -884,9 +884,9 @@ My heart-aspiration-flames.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:101
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:101
   :END:
 
 
@@ -904,9 +904,9 @@ His heart's aspiration-express.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:102
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:102
   :END:
 
 
@@ -924,9 +924,9 @@ More, infinitely more.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:103
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:103
   :END:
 
 
@@ -956,9 +956,9 @@ Of my Art.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:104
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:104
   :END:
 
 
@@ -991,9 +991,9 @@ In all my activities."
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:105
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:105
   :END:
 
 
@@ -1015,9 +1015,9 @@ Of its self-transcendence-goal.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:106
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:106
   :END:
 
 
@@ -1037,9 +1037,9 @@ On Compassion-Tiptoe.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:107
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:107
   :END:
 
 
@@ -1065,9 +1065,9 @@ In my Art-life.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:108
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:108
   :END:
 
 
@@ -1083,9 +1083,9 @@ Of peace-blossoms.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SCA:109
+  :genre: poem
+  :keywords:
+  :cite-key: SCA:109
   :END:
 
 
@@ -1105,17 +1105,17 @@ In Infinity's Freedom-Sky.
 * Part VIII - Prayer offered on the completion of one million Dream-Freedom-Peace-Birds
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:110e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:110e1
   :END: 
 
 * 1.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: SCA:110
+  :genre: prayer
+  :keywords:
+  :cite-key: SCA:110
   :END: 
   
   
@@ -1148,9 +1148,9 @@ In Eternity's Peace, Peace, Peace.
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:111e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:111e1
   :END:
 
 

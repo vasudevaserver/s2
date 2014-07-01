@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0062
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SJP
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0062
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: SJP
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SJP:1e1
+  :genre: note
+  :keywords:
+  :cite-key: SJP:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Japan's Body And Japan's Soul
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:1
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:1
   :END:
 
 
@@ -58,9 +58,9 @@ in you, without you!
 * Japan Has Won
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:2
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:2
   :END:
 
 
@@ -84,9 +84,9 @@ Japan has won.
 * Tokyo's Goals
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:3
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:3
   :END:
 
 
@@ -111,9 +111,9 @@ Silence-Light.
 * Three Into Three Cheers For Japan!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:4
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:4
   :END:
 
 
@@ -139,9 +139,9 @@ Japan is.
 * The Home Of Awakened Mankind
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:5
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:5
   :END:
 
 
@@ -166,9 +166,9 @@ The Home of awakened mankind.
 * To Kamakura
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:6
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:6
   :END:
 
 
@@ -191,9 +191,9 @@ Of ascending mankind.
 * In You And On You
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:7
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:7
   :END:
 
 
@@ -216,9 +216,9 @@ Purusha, God the Father, meditates on you.
 * My First And Second Realisations
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:8
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:8
   :END:
 
 
@@ -249,9 +249,9 @@ Unreserved salutations!
 * Only A Japanese Policeman Can And Will Do
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:9
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:9
   :END:
 
 
@@ -284,9 +284,9 @@ My Indian heart cried and cried.
 * He Wanted And Needed God For Two Days
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:10
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:10
   :END:
 
 
@@ -321,9 +321,9 @@ rest assured, He will."
 * In The Heart Of The Sky
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:11
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:11
   :END:
 
 
@@ -364,9 +364,9 @@ My Compassion-Father Supreme.
 * When I Saw
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:12
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:12
   :END:
 
 
@@ -387,9 +387,9 @@ My sense of life's assurance multiplied.
 * When
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:13
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:13
   :END:
 
 
@@ -408,9 +408,9 @@ Because it was all Japanese.
 * Alas Or Bravo!
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:14
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:14
   :END:
 
 
@@ -428,9 +428,9 @@ My sincerity's depth.
 * Protection Offered With No Fee
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:15
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:15
   :END:
 
 
@@ -480,9 +480,9 @@ God did listen to my prayer.
 * My Age According To My Human Father And According To My Divine Father
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SJP:16
+  :genre: poem
+  :keywords:
+  :cite-key: SJP:16
   :END:
 
 
@@ -541,9 +541,9 @@ capacity!
 * In You, Japan, I See The Dynamic...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SJP:17
+  :genre: discourse
+  :keywords:
+  :cite-key: SJP:17
   :END:
 
 

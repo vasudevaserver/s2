@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 542
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1983
-  :PUBLISHER:
-  :CITE-KEY: CNSK
-  :GENRE: song
+  :book-number: 542
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1983
+  :publisher:
+  :cite-key: CNSK
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNSK:1e1
+  :genre: note
+  :cite-key: CNSK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNSK:1e2
+  :genre: note
+  :cite-key: CNSK:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Agni Sadhak Agni Sadhika Mora
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:1
+  :cite-key: CNSK:1
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Rakhibo sudure maha bandhana chhaya
 * Chandika Chandika (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:2
+  :cite-key: CNSK:2
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ Asimata amarata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:3
+  :cite-key: CNSK:3
   :END:
 
 #+BEGIN_VERSE
@@ -100,10 +100,10 @@ Immortality You are.
 * Jatra Amar Suru Habe Nil Jamunar Tire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:4
+  :cite-key: CNSK:4
   :END:
 
 #+BEGIN_VERSE
@@ -119,10 +119,10 @@ Bandhbe dhire dhire
 * Kanya Kumari Kanya Tumi Je Anadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:5
+  :cite-key: CNSK:5
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ Urdhe nimne ananya
 * Ami Jagibona Ami Kandibona Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:6
+  :cite-key: CNSK:6
   :END:
 
 #+BEGIN_VERSE
@@ -157,10 +157,10 @@ Prashanti lagi nidra magane
 * Amrita Kutir Shantir Nir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-07-1981
-  :CITE-KEY: CNSK:7
+  :cite-key: CNSK:7
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Bhibhur charane bandhibo
 * Hasi O Kanna Ei Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:8
+  :cite-key: CNSK:8
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ Samukhe amar bhela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:9
+  :cite-key: CNSK:9
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ Both my tears and my smiles.
 * Hiya Sarabare Sudha Santare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:10
+  :cite-key: CNSK:10
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ Parinirbane prashphutibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:11
+  :cite-key: CNSK:11
   :END:
 
 #+BEGIN_VERSE
@@ -256,10 +256,10 @@ In my heart-boat...
 * Jago Rater Sathi Ghumer Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:12
+  :cite-key: CNSK:12
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ Phutao hiyar shatadale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:13
+  :cite-key: CNSK:13
   :END:
 
 #+BEGIN_VERSE
@@ -292,10 +292,10 @@ O friend of my dream-sleep.
 * Nirabe Janabo Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:14
+  :cite-key: CNSK:14
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Shuno shuno mor minati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:15
+  :cite-key: CNSK:15
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Will be blossomed...
 * Abishwashe Sima Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:16
+  :cite-key: CNSK:16
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Dibe more jani amarar sandhan
 * Akash Nithur Batas Nithur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:17
+  :cite-key: CNSK:17
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Pralay anal ban
 * Akashe Urichhe Mor Prabhur Ketan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:18
+  :cite-key: CNSK:18
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ Purnaba sathe mor ami je sabar
 * Amayik Mor Nam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:19
+  :cite-key: CNSK:19
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ Ghume jagarane madhura swapane hasibo
 * Ami Bipine Kari Dhyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:20
+  :cite-key: CNSK:20
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Hriday tale mukti jale bijoy bheri
 * Ami Kalatit Ami Manatit Nai Kichu Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:21
+  :cite-key: CNSK:21
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Urdhe nimne nitya ajit
 * Ami Trishatur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:22
+  :cite-key: CNSK:22
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ Maha bijoyer utsob baji
 * Asha Nadi Chhute Chale Hangsare Bese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:23
+  :cite-key: CNSK:23
   :END:
 
 #+BEGIN_VERSE
@@ -481,10 +481,10 @@ Nahi bhase megh kalo
 * Ashrita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-08-1981
-  :CITE-KEY: CNSK:24
+  :cite-key: CNSK:24
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Durbar srotadhare
 * Bhaja Mukunda Parama Purusha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:25
+  :cite-key: CNSK:25
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Tandaba nartan
 * Bidayer Dine Dibona Tomai Ghor Bedanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:26
+  :cite-key: CNSK:26
   :END:
 
 #+BEGIN_VERSE
@@ -544,10 +544,10 @@ Kritagyatar har
 * Bikashita Karo Mor Hridayer Shatadal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:27
+  :cite-key: CNSK:27
   :END:
 
 #+BEGIN_VERSE
@@ -563,10 +563,10 @@ Maraner halahal
 * Chapalata Niye Jao Kripanata Niye Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:28
+  :cite-key: CNSK:28
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Hiya habe nirabata
 * Chitta Dolai Duli Bale Bhoi Karina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:29
+  :cite-key: CNSK:29
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ Lobhechhe aj atma sudha
 * Diner Sheshe Rater Sheshe Ke Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:30
+  :cite-key: CNSK:30
   :END:
 
 #+BEGIN_VERSE
@@ -624,10 +624,10 @@ Bajai tahar turjya
 * Ghume Asiya Ghume Chaliya Jao Mridu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:31
+  :cite-key: CNSK:31
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Laho amar prema ashrudhar
 * Jadu Madhu Khoka Bola Gurur Kripa Dola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:32
+  :cite-key: CNSK:32
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Gurur ankhi santana
 * Jagiya Uthilo Pran Bibhur Kripar Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:33
+  :cite-key: CNSK:33
   :END:
 
 #+BEGIN_VERSE
@@ -681,10 +681,10 @@ Chidakashe ramdhanu
 * Je Jibane Radha Se Jibane Badha Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:34
+  :cite-key: CNSK:34
   :END:
 
 #+BEGIN_VERSE
@@ -700,10 +700,10 @@ Nache baje
 * Jiban Maran Ashar Swapan Ke Jane Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:35
+  :cite-key: CNSK:35
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Param pitar prem bane
 * Jibaner Shesh Ache Maraner Shesh Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:36
+  :cite-key: CNSK:36
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Sugopane sajatane dile thai
 * Kakhano Chali Tibra Bege Kakhano Dhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:37
+  :cite-key: CNSK:37
   :END:
 
 #+BEGIN_VERSE
@@ -763,10 +763,10 @@ Amare bandho
 * Kamalakanta Sada Aklanta Jarata Bijoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-07-1981
-  :CITE-KEY: CNSK:38
+  :cite-key: CNSK:38
   :END:
 
 #+BEGIN_VERSE
@@ -782,10 +782,10 @@ Shanta sadhaka dhir
 * Kamanar Srote Basibona Kamanar Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:39
+  :cite-key: CNSK:39
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ Kamanar dine phutibona
 * Maran Kande Jiban Lagi Maran Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:40
+  :cite-key: CNSK:40
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Anurage nache sabai anurage
 * Nirmala Ujjwala Sundari Prashanta Kalyani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:41
+  :cite-key: CNSK:41
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ Srikanta
 * Panchash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:42
+  :cite-key: CNSK:42
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Chirakal habo prabhu kritadas
 * Parinirban Sangita Surashri Amar Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:43
+  :cite-key: CNSK:43
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Asime milaye jabe
 * Shanti Jibane Shanti Marane Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:44
+  :cite-key: CNSK:44
   :END:
 
 #+BEGIN_VERSE
@@ -904,10 +904,10 @@ Atma drashta habi
 * Shesher Majhe Ashesh Raje Ei Kathati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:45
+  :cite-key: CNSK:45
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ Hethai hothai peyechhi mor thai
 * Shibaji.. Taba Prane Savita Maji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:46
+  :cite-key: CNSK:46
   :END:
 
 #+BEGIN_VERSE
@@ -942,10 +942,10 @@ Tumi ajanar swapani
 * Chandika Chandika (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:47
+  :cite-key: CNSK:47
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ Asimata amarata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:48
+  :cite-key: CNSK:48
   :END:
 
 #+BEGIN_VERSE
@@ -981,10 +981,10 @@ Immortality You are.
 * Chandika Chandika (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:49
+  :cite-key: CNSK:49
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ Asimata amarata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:50
+  :cite-key: CNSK:50
   :END:
 
 #+BEGIN_VERSE
@@ -1020,10 +1020,10 @@ Immortality You are.
 * Basanar Mane Ghuribona Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:51
+  :cite-key: CNSK:51
   :END:
 
 #+BEGIN_VERSE
@@ -1038,10 +1038,10 @@ Asakti dore bandhibona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:52
+  :cite-key: CNSK:52
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ In the forest of my mind...
 * O Kanaya Balbe Ki Hai Kothai Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:53
+  :cite-key: CNSK:53
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ Amar tumi khama avatar
 * Prem Sagare Pulak Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:54
+  :cite-key: CNSK:54
   :END:
 
 #+BEGIN_VERSE
@@ -1092,10 +1092,10 @@ Tomai ami aj dibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNSK:55
+  :cite-key: CNSK:55
   :END:
 
 #+BEGIN_VERSE
@@ -1111,10 +1111,10 @@ Of Your Infinite Love.
 * Sanjher Tara Ami Sanjher Tara Habona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:56
+  :cite-key: CNSK:56
   :END:
 
 #+BEGIN_VERSE
@@ -1130,10 +1130,10 @@ Ananda dheu nai je bedan bindu
 * Saral Sahaj Bale Nahi Kichu More Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:57
+  :cite-key: CNSK:57
   :END:
 
 #+BEGIN_VERSE
@@ -1149,10 +1149,10 @@ Bidhatar jaya bheri
 * Sonali Jyotir Ami Rupali Chhaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-07-1981
-  :CITE-KEY: CNSK:58
+  :cite-key: CNSK:58
   :END:
 
 #+BEGIN_VERSE
@@ -1166,10 +1166,10 @@ Param prabhur paye sanpinu kaya
 * Sunil Jaladhi Sunil Akash Sunil Pratibhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:59
+  :cite-key: CNSK:59
   :END:
 
 #+BEGIN_VERSE
@@ -1185,10 +1185,10 @@ Dibe more amarata
 * Tulosi Pata Tulosi Nahi Rajani Tamasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CNSK:60
+  :cite-key: CNSK:60
   :END:
 
 #+BEGIN_VERSE
@@ -1204,10 +1204,10 @@ Ekata snato ushasi
 * Vidagdha Man Dyuloker Dhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-09-1981
-  :CITE-KEY: CNSK:61
+  :cite-key: CNSK:61
   :END:
 
 #+BEGIN_VERSE

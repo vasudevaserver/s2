@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0399
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1978
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SH
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0399
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1978
+  :publisher: Agni Press
+  :cite-key: SH
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SH:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SH:1e1
   :END:
 
 
@@ -48,9 +48,9 @@ Here you have the golden opportunity to be of service to me. The significance, t
 * Master's Instruments-Choice
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: SH:1
+  :genre: song
+  :keywords:
+  :cite-key: SH:1
   :END:
 
 
@@ -66,9 +66,9 @@ With him we shine to found 'Supreme'.
 * Chirantan: How May Spiritual Qualities Such As...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:2
+  :genre: qa
+  :keywords:
+  :cite-key: SH:2
   :END:
 
 
@@ -83,9 +83,9 @@ Usually dynamism is closely connected with the masculine aspect of reality; at l
 * Yudhishthira: Is The Joy Of Oneness The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:3
+  :genre: qa
+  :keywords:
+  :cite-key: SH:3
   :END:
 
 
@@ -98,9 +98,9 @@ Usually dynamism is closely connected with the masculine aspect of reality; at l
 * Bhupati: How Can I Create And Then...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:4
+  :genre: qa
+  :keywords:
+  :cite-key: SH:4
   :END:
 
 
@@ -113,9 +113,9 @@ Usually dynamism is closely connected with the masculine aspect of reality; at l
 * Savyasachi: When God Sits On His Throne,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:5
+  :genre: qa
+  :keywords:
+  :cite-key: SH:5
   :END:
 
 
@@ -128,10 +128,10 @@ Usually dynamism is closely connected with the masculine aspect of reality; at l
 * Question: You Have Said That The Hostile...       :noexport:
 
   :PROPERTIES:
-  :GENRE: qa
+  :genre: qa
   :PRIVATE: t
-  :KEYWORDS:
-  :CITE-KEY: SH:6
+  :keywords:
+  :cite-key: SH:6
   :END:
 
 
@@ -144,9 +144,9 @@ Usually dynamism is closely connected with the masculine aspect of reality; at l
 * Dhruva: When Do We Receive The Blessing...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:7
+  :genre: qa
+  :keywords:
+  :cite-key: SH:7
   :END:
 
 
@@ -161,9 +161,9 @@ The moment you receive the prasad, feel that you are at the beginning of the ble
 * Chidananda: What Kind Of Exercise Do The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:8
+  :genre: qa
+  :keywords:
+  :cite-key: SH:8
   :END:
 
 
@@ -176,9 +176,9 @@ The moment you receive the prasad, feel that you are at the beginning of the ble
 * Amal: How Can I Become Anchored In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:9
+  :genre: qa
+  :keywords:
+  :cite-key: SH:9
   :END:
 
 
@@ -193,9 +193,9 @@ The other way is to utter the word 'purity' most soulfully, even spelling it let
 * Kanan: What Psychic Technique Do Plants And...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:10
+  :genre: qa
+  :keywords:
+  :cite-key: SH:10
   :END:
 
 
@@ -208,9 +208,9 @@ The other way is to utter the word 'purity' most soulfully, even spelling it let
 * Udayan: Guru, When You Ask Us If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:11
+  :genre: qa
+  :keywords:
+  :cite-key: SH:11
   :END:
 
 
@@ -225,9 +225,9 @@ Sometimes I ask you, "How are you?" when I see a wave of undivine forces attacki
 * Question: When I Am Doing Selfless Service...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:12
+  :genre: qa
+  :keywords:
+  :cite-key: SH:12
   :END:
 
 
@@ -242,9 +242,9 @@ There are two ways-the inner attendant's way and the outer attendant's way. The 
 * Sanatan: By What Name Does God Call...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:13
+  :genre: qa
+  :keywords:
+  :cite-key: SH:13
   :END:
 
 
@@ -257,9 +257,9 @@ There are two ways-the inner attendant's way and the outer attendant's way. The 
 * Vajra: Is Love The Purest Form Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:14
+  :genre: qa
+  :keywords:
+  :cite-key: SH:14
   :END:
 
 
@@ -272,9 +272,9 @@ There are two ways-the inner attendant's way and the outer attendant's way. The 
 * Pravin: Will Some Of Us Qualify To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:15
+  :genre: qa
+  :keywords:
+  :cite-key: SH:15
   :END:
 
 
@@ -293,9 +293,9 @@ But never enter into the world of inferiority, frustration, dissatisfaction and 
 * Bhima: What Is The Main Quality Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:16
+  :genre: qa
+  :keywords:
+  :cite-key: SH:16
   :END:
 
 
@@ -308,9 +308,9 @@ But never enter into the world of inferiority, frustration, dissatisfaction and 
 * Tejiyan: Guru, When I Feel An Undivine...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:17
+  :genre: qa
+  :keywords:
+  :cite-key: SH:17
   :END:
 
 
@@ -325,9 +325,9 @@ The most important thing right now is to be alert, conscious, sincere, devoted a
 * Sunil: What Qualities Must I Develop To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:18
+  :genre: qa
+  :keywords:
+  :cite-key: SH:18
   :END:
 
 
@@ -340,9 +340,9 @@ The most important thing right now is to be alert, conscious, sincere, devoted a
 * Tarun: How Can One Develop Constant, Confident...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:19
+  :genre: qa
+  :keywords:
+  :cite-key: SH:19
   :END:
 
 
@@ -355,9 +355,9 @@ The most important thing right now is to be alert, conscious, sincere, devoted a
 * Vishma: Guru, How Can The Things That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:20
+  :genre: qa
+  :keywords:
+  :cite-key: SH:20
   :END:
 
 
@@ -370,9 +370,9 @@ The most important thing right now is to be alert, conscious, sincere, devoted a
 * Satyakarma: Which Is More Important In Our...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:21
+  :genre: qa
+  :keywords:
+  :cite-key: SH:21
   :END:
 
 
@@ -389,9 +389,9 @@ Aspiration and gratitude are inseparable. They are like the obverse and reverse 
 * Ashrita: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:22
+  :genre: qa
+  :keywords:
+  :cite-key: SH:22
   :END:
 
 
@@ -404,9 +404,9 @@ Aspiration and gratitude are inseparable. They are like the obverse and reverse 
 * Question: Would You Say That The Invocation...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:23
+  :genre: qa
+  :keywords:
+  :cite-key: SH:23
   :END:
 
 
@@ -421,9 +421,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Sadhak: Many People Who Have Close Calls...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:24
+  :genre: qa
+  :keywords:
+  :cite-key: SH:24
   :END:
 
 
@@ -436,9 +436,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Phil: Guru In Meditation I Seem To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:25
+  :genre: qa
+  :keywords:
+  :cite-key: SH:25
   :END:
 
 
@@ -451,9 +451,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Abakash: What Is My Role?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:26
+  :genre: qa
+  :keywords:
+  :cite-key: SH:26
   :END:
 
 
@@ -466,9 +466,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Rich: At What Point Does God's Compassion...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:27
+  :genre: qa
+  :keywords:
+  :cite-key: SH:27
   :END:
 
 
@@ -481,9 +481,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Bill S....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:28
+  :genre: qa
+  :keywords:
+  :cite-key: SH:28
   :END:
 
 
@@ -496,9 +496,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Adhiratha: How Can I Constantly Feel I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:29
+  :genre: qa
+  :keywords:
+  :cite-key: SH:29
   :END:
 
 
@@ -511,9 +511,9 @@ But you have to know that the /Invocation/ was composed on an infinitely higher 
 * Prabhat: Does The So-Called Garden Of Eden...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:30
+  :genre: qa
+  :keywords:
+  :cite-key: SH:30
   :END:
 
 
@@ -530,9 +530,9 @@ This Garden of Eden gives satisfaction-delight in the will-world, in the compass
 * Sahishnu: In Our Roles As Your Assistants,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:31
+  :genre: qa
+  :keywords:
+  :cite-key: SH:31
   :END:
 
 
@@ -547,9 +547,9 @@ But tolerance is entirely different. We tolerate something because we are under 
 * Sam: What Quality Does The Supreme Most...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:32
+  :genre: qa
+  :keywords:
+  :cite-key: SH:32
   :END:
 
 
@@ -562,9 +562,9 @@ But tolerance is entirely different. We tolerate something because we are under 
 * Jeff: When Sweetness Is Lacking, What Can...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:33
+  :genre: qa
+  :keywords:
+  :cite-key: SH:33
   :END:
 
 
@@ -579,9 +579,9 @@ Sweetness is of great importance in the spiritual life. So try to mix with child
 * Alan M....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:34
+  :genre: qa
+  :keywords:
+  :cite-key: SH:34
   :END:
 
 
@@ -598,9 +598,9 @@ But if the disciples aspire while I am painting and dive deep within, then they 
 * Shambhu: Which Of Your Songs Does The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:35
+  :genre: qa
+  :keywords:
+  :cite-key: SH:35
   :END:
 
 
@@ -613,9 +613,9 @@ But if the disciples aspire while I am painting and dive deep within, then they 
 * Steve D....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:36
+  :genre: qa
+  :keywords:
+  :cite-key: SH:36
   :END:
 
 
@@ -628,9 +628,9 @@ But if the disciples aspire while I am painting and dive deep within, then they 
 * Bob K....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:37
+  :genre: qa
+  :keywords:
+  :cite-key: SH:37
   :END:
 
 
@@ -645,9 +645,9 @@ So it is very easy to know whether it is inspiration assisted by imagination or 
 * Larry S....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:38
+  :genre: qa
+  :keywords:
+  :cite-key: SH:38
   :END:
 
 
@@ -660,9 +660,9 @@ So it is very easy to know whether it is inspiration assisted by imagination or 
 * Rupantar: Should A Guard Expect A Smile...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:39
+  :genre: qa
+  :keywords:
+  :cite-key: SH:39
   :END:
 
 
@@ -677,9 +677,9 @@ As soon as you do something for me, you are bound to see and feel an inner smile
 * Pahar: Why Does It Seem So Difficult...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:40
+  :genre: qa
+  :keywords:
+  :cite-key: SH:40
   :END:
 
 
@@ -692,9 +692,9 @@ As soon as you do something for me, you are bound to see and feel an inner smile
 * Santosh: Guru, How Can I Serve You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:41
+  :genre: qa
+  :keywords:
+  :cite-key: SH:41
   :END:
 
 
@@ -707,9 +707,9 @@ As soon as you do something for me, you are bound to see and feel an inner smile
 * Pat B: How Can I Meditate With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:42
+  :genre: qa
+  :keywords:
+  :cite-key: SH:42
   :END:
 
 
@@ -724,9 +724,9 @@ When intensity is used to push or pull the divine force, then it creates tremend
 * Mukunda: Is The One Who Does The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:43
+  :genre: qa
+  :keywords:
+  :cite-key: SH:43
   :END:
 
 
@@ -745,9 +745,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Alan S....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:44
+  :genre: qa
+  :keywords:
+  :cite-key: SH:44
   :END:
 
 
@@ -760,9 +760,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Martin B....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:45
+  :genre: qa
+  :keywords:
+  :cite-key: SH:45
   :END:
 
 
@@ -775,9 +775,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Gangadhar: Are There Any Guards In The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:46
+  :genre: qa
+  :keywords:
+  :cite-key: SH:46
   :END:
 
 
@@ -790,9 +790,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Joe L....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:47
+  :genre: qa
+  :keywords:
+  :cite-key: SH:47
   :END:
 
 
@@ -805,9 +805,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Bill P....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:48
+  :genre: qa
+  :keywords:
+  :cite-key: SH:48
   :END:
 
 
@@ -820,9 +820,9 @@ You have to know your own capacity, your highest in selfless service and your hi
 * Bill K: What Is The Best Way...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SH:49
+  :genre: qa
+  :keywords:
+  :cite-key: SH:49
   :END:
 
 

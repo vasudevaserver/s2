@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 245
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1977
-  :PUBLISHER:
-  :CITE-KEY: PSPL-4
-  :GENRE: song
+  :book-number: 245
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1977
+  :publisher:
+  :cite-key: PSPL-4
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PSPL:299e1
+  :genre: note
+  :cite-key: PSPL:299e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PSPL:299e2
+  :genre: note
+  :cite-key: PSPL:299e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Kavya Kusum Chayan Karibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:299
+  :cite-key: PSPL:299
   :END:
 
 #+BEGIN_VERSE
@@ -63,10 +63,10 @@ Dur hate dure megher arale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:300
+  :cite-key: PSPL:300
   :END:
 
 #+BEGIN_VERSE
@@ -86,10 +86,10 @@ And I am all lost in the beauty
 * Akasher Pare Akash Rayeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:301
+  :cite-key: PSPL:301
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Bhule jena ami jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:302
+  :cite-key: PSPL:302
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ That have to be forgotten.
 * Dhara Jadi Tumi Nahi Dite Chao (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:303
+  :cite-key: PSPL:303
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Shudhu abhilash sri charane jena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:304
+  :cite-key: PSPL:304
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ And that is to be always at Your Feet.
 * Mandire Masjide
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:305
+  :cite-key: PSPL:305
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ Ashroy bihin pangu dinhin
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:306
+  :cite-key: PSPL:306
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ I know not. It is beyond my imagination.
 * Jahar Mangal Hasta Ashish Barshan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:307
+  :cite-key: PSPL:307
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Sahitecha kon abhipraye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:308
+  :cite-key: PSPL:308
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ I wish to hear from Him.
 * Lakka Lakka Grihahin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:309
+  :cite-key: PSPL:309
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Sukhe dukhe niret pashan prai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:310
+  :cite-key: PSPL:310
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ How can You act like an indifferent,
 * Juga Juga Dhari Katobyetha Sahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:311
+  :cite-key: PSPL:311
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Milaye diyechi apanar chhaya rup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:312
+  :cite-key: PSPL:312
   :END:
 
 #+BEGIN_VERSE
@@ -358,10 +358,10 @@ And embrace all-fulfilling silence-life?
 * Amal Dhabal Charan Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:313
+  :cite-key: PSPL:313
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Ache shudhu hai katha balibar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:314
+  :cite-key: PSPL:314
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ I have only a quenchless inner urge.
 * Bhoi Nai Kichu Bhoi Nai Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:315
+  :cite-key: PSPL:315
   :END:
 
 #+BEGIN_VERSE
@@ -426,10 +426,10 @@ Ek sathe mile gahe bidhatar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:316
+  :cite-key: PSPL:316
   :END:
 
 #+BEGIN_VERSE
@@ -449,10 +449,10 @@ Has joined me to sing this victory-song
 * Shashwata Ogo Chira Bhashwar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:317
+  :cite-key: PSPL:317
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ Shanta hridaye rayechi chup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:318
+  :cite-key: PSPL:318
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ I am always waiting in calm silence
 * Hriday Puja Sanga Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:319
+  :cite-key: PSPL:319
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Sukha dukha dhewer majhe nitya jena nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:320
+  :cite-key: PSPL:320
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ This is my constant prayer.
 * Jiban Sandhya Dekeche Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:321
+  :cite-key: PSPL:321
   :END:
 
 #+BEGIN_VERSE
@@ -557,10 +557,10 @@ Kane kane koy heribe sahasa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:322
+  :cite-key: PSPL:322
   :END:
 
 #+BEGIN_VERSE
@@ -583,10 +583,10 @@ Tells me in a whispering manner,
 * Milaner Banshi Jachi Ami Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:323
+  :cite-key: PSPL:323
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Bijoy tomar pratishtha lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:324
+  :cite-key: PSPL:324
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ May I remain always alert and awake.
 * Hriday Pakhi Na Jadi Gahe Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:325
+  :cite-key: PSPL:325
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Mago tomar shanti sudha kon sudure rahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:326
+  :cite-key: PSPL:326
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ From You, from You.
 * Janani Tomar Heribona Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:327
+  :cite-key: PSPL:327
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Shashwata smriti bhule gechi hai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:328
+  :cite-key: PSPL:328
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Perhaps for this I am sulking today
 * Joy Gane Bidhatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:329
+  :cite-key: PSPL:329
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Hiya tar shudhu ala
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:330
+  :cite-key: PSPL:330
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Will illumine my heart, my all-existence.
 * Abhiman More Niye Jai Dure (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:331
+  :cite-key: PSPL:331
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ Chale jai jabe timir dainya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:332
+  :cite-key: PSPL:332
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ All dark weaknesses dance before me
 * Bhuler Anta Nai Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:333
+  :cite-key: PSPL:333
   :END:
 
 #+BEGIN_VERSE
@@ -823,10 +823,10 @@ Hutashan jwele antare mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:334
+  :cite-key: PSPL:334
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ And wants to illumine my agelong darkness.
 * Hriday Nabhe Andhar Jabe Dhake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:335
+  :cite-key: PSPL:335
   :END:
 
 #+BEGIN_VERSE
@@ -864,10 +864,10 @@ Timir bandhan nimeshe jai tute
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:336
+  :cite-key: PSPL:336
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ Darkness is smashed and illumined all at once.
 * Hriday Gabhire Oi Dake Shuni
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:337
+  :cite-key: PSPL:337
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Jiban amar maha baridhir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:338
+  :cite-key: PSPL:338
   :END:
 
 #+BEGIN_VERSE
@@ -932,10 +932,10 @@ My life is the game of hundreds of waves
 * Antare Mor Phute Nai Shatadal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:339
+  :cite-key: PSPL:339
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ Rahibena kabhu janani dure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:340
+  :cite-key: PSPL:340
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ And You will no longer remain
 * Ki Diye Tomare Pujibo Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:341
+  :cite-key: PSPL:341
   :END:
 
 #+BEGIN_VERSE
@@ -1001,10 +1001,10 @@ Jani ami mago tumiy amar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:342
+  :cite-key: PSPL:342
   :END:
 
 #+BEGIN_VERSE
@@ -1031,10 +1031,10 @@ You are my only goal.
 * Gabhir Asha Prane Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:343
+  :cite-key: PSPL:343
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Rup sagare bhasbe jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:344
+  :cite-key: PSPL:344
   :END:
 
 #+BEGIN_VERSE
@@ -1078,10 +1078,10 @@ On the sea of Your translucent Beauty,
 * Amare Keha Chahena Jani Sabare Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:345
+  :cite-key: PSPL:345
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ Tomar majhe pratiti jibe herite je ma pai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:346
+  :cite-key: PSPL:346
   :END:
 
 #+BEGIN_VERSE
@@ -1116,10 +1116,10 @@ And love them as my own.
 * Nil Akasher Alor Tari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:347
+  :cite-key: PSPL:347
   :END:
 
 #+BEGIN_VERSE
@@ -1134,10 +1134,10 @@ Moder majhe tomai jena nitya mago rakhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:348
+  :cite-key: PSPL:348
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ All-illumining and all-fulfilling unity.
 * Dhyane Magna Kajer Phanke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:349
+  :cite-key: PSPL:349
   :END:
 
 #+BEGIN_VERSE
@@ -1175,10 +1175,10 @@ Dhanya hate chai ma ami ratul charan chumi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:350
+  :cite-key: PSPL:350
   :END:
 
 #+BEGIN_VERSE
@@ -1198,10 +1198,10 @@ Kissing Your Feet and claiming Your Feet
 * Kato Jatil Chinta Mane Paina Samadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:351
+  :cite-key: PSPL:351
   :END:
 
 #+BEGIN_VERSE
@@ -1216,10 +1216,10 @@ Bhul pathe jai nitya amar man
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:352
+  :cite-key: PSPL:352
   :END:
 
 #+BEGIN_VERSE
@@ -1237,10 +1237,10 @@ Along a wrong road.
 * Mukti Shudhu Amar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:353
+  :cite-key: PSPL:353
   :END:
 
 #+BEGIN_VERSE
@@ -1255,10 +1255,10 @@ Keman kare tripta habe bishal mama pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:354
+  :cite-key: PSPL:354
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ Am I not for them?
 * Asimer Dake Nahi Dei Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:355
+  :cite-key: PSPL:355
   :END:
 
 #+BEGIN_VERSE
@@ -1297,10 +1297,10 @@ Tai bujhi mago khule nahi dao
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:356
+  :cite-key: PSPL:356
   :END:
 
 #+BEGIN_VERSE
@@ -1316,10 +1316,10 @@ I know, I know.
 * Hriday Dware Rayecha Daraye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:357
+  :cite-key: PSPL:357
   :END:
 
 #+BEGIN_VERSE
@@ -1338,10 +1338,10 @@ Pabo ami mago jatil maner
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:358
+  :cite-key: PSPL:358
   :END:
 
 #+BEGIN_VERSE
@@ -1362,10 +1362,10 @@ That You will solve all my mental problems.
 * Akarane Taba Prane Kena Sada Hani (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:359
+  :cite-key: PSPL:359
   :END:
 
 #+BEGIN_VERSE
@@ -1380,10 +1380,10 @@ Tai bujhi niye jao mor sab kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:360
+  :cite-key: PSPL:360
   :END:
 
 #+BEGIN_VERSE
@@ -1403,10 +1403,10 @@ All the darkness that I have and I treasure
 * Ekti Katha Balo Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:361
+  :cite-key: PSPL:361
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Barek dekha dile amai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:362
+  :cite-key: PSPL:362
   :END:
 
 #+BEGIN_VERSE
@@ -1450,10 +1450,10 @@ Toward Your Reality-height.
 * Nil Akasher Alor Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:363
+  :cite-key: PSPL:363
   :END:
 
 #+BEGIN_VERSE
@@ -1468,10 +1468,10 @@ Tomai pele habo ami jyoti parabar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:364
+  :cite-key: PSPL:364
   :END:
 
 #+BEGIN_VERSE
@@ -1491,10 +1491,10 @@ Into the ocean of Light.
 * Shanta Saral Hate Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:365
+  :cite-key: PSPL:365
   :END:
 
 #+BEGIN_VERSE
@@ -1511,10 +1511,10 @@ Thai pabo ma takhan ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:366
+  :cite-key: PSPL:366
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ Then You will offer me Your
 * Juktir Majhe Samasya Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:367
+  :cite-key: PSPL:367
   :END:
 
 #+BEGIN_VERSE
@@ -1554,10 +1554,10 @@ Jukti kebal murkha manabe bhul pathe niye jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:368
+  :cite-key: PSPL:368
   :END:
 
 #+BEGIN_VERSE
@@ -1581,10 +1581,10 @@ To swerve from the path of Truth.
 * Kon Sudure Mago Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:369
+  :cite-key: PSPL:369
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ Shanta karo chapal prane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:370
+  :cite-key: PSPL:370
   :END:
 
 #+BEGIN_VERSE
@@ -1632,10 +1632,10 @@ Do accept what I have for You.
 * Nil Baridhir Atal Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:371
+  :cite-key: PSPL:371
   :END:
 
 #+BEGIN_VERSE
@@ -1652,10 +1652,10 @@ Khudra praner timir nashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:372
+  :cite-key: PSPL:372
   :END:
 
 #+BEGIN_VERSE
@@ -1676,10 +1676,10 @@ By destroying all finite darkness in me.
 * Chapal Prane Shanti Jachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:373
+  :cite-key: PSPL:373
   :END:
 
 #+BEGIN_VERSE
@@ -1698,10 +1698,10 @@ Charam gyaner dibya hasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:374
+  :cite-key: PSPL:374
   :END:
 
 #+BEGIN_VERSE
@@ -1723,10 +1723,10 @@ I shall never learn the smile
 * Ratri Nai Diba Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:375
+  :cite-key: PSPL:375
   :END:
 
 #+BEGIN_VERSE
@@ -1756,10 +1756,10 @@ Kon marichika sei kon
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:376
+  :cite-key: PSPL:376
   :END:
 
 #+BEGIN_VERSE
@@ -1779,10 +1779,10 @@ Are building their hopes
 * Tapane Gheri Jimut Dole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:377
+  :cite-key: PSPL:377
   :END:
 
 #+BEGIN_VERSE
@@ -1799,10 +1799,10 @@ Chhute gelam gharer pane chhere sindhu tire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:378
+  :cite-key: PSPL:378
   :END:
 
 #+BEGIN_VERSE
@@ -1825,10 +1825,10 @@ Leaving aside the Golden Shore
 * Tomar Parane Aghat Haniya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:379
+  :cite-key: PSPL:379
   :END:
 
 #+BEGIN_VERSE
@@ -1847,10 +1847,10 @@ Antare mor bhase nirabadhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:380
+  :cite-key: PSPL:380
   :END:
 
 #+BEGIN_VERSE
@@ -1870,10 +1870,10 @@ In my heart constantly flows
 * Phul Haye Mor Phutibe Sakal Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:381
+  :cite-key: PSPL:381
   :END:
 
 #+BEGIN_VERSE
@@ -1888,10 +1888,10 @@ Jachile shanti manas bhramyaman
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:382
+  :cite-key: PSPL:382
   :END:
 
 #+BEGIN_VERSE
@@ -1911,10 +1911,10 @@ Then my life will grow into
 * Rajanir Buke Snigdha Prabhat Alo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:383
+  :cite-key: PSPL:383
   :END:
 
 #+BEGIN_VERSE
@@ -1929,10 +1929,10 @@ Kuruper prane aruper rup bhase
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:384
+  :cite-key: PSPL:384
   :END:
 
 #+BEGIN_VERSE
@@ -1952,10 +1952,10 @@ Inside teeming ugliness floats
 * Puratan Smriti Mane Mor Jage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:385
+  :cite-key: PSPL:385
   :END:
 
 #+BEGIN_VERSE
@@ -1974,10 +1974,10 @@ Bishal hriday jachi ami mago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:386
+  :cite-key: PSPL:386
   :END:
 
 #+BEGIN_VERSE
@@ -1998,10 +1998,10 @@ Illumining and fulfilling, of Yours.
 * Ure Amar Chitta Pakhi Gagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:387
+  :cite-key: PSPL:387
   :END:
 
 #+BEGIN_VERSE
@@ -2016,10 +2016,10 @@ Pran pakhi mor rabena ar sputa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:388
+  :cite-key: PSPL:388
   :END:
 
 #+BEGIN_VERSE
@@ -2039,10 +2039,10 @@ Throughout Eternity.
 * Bipul Harashe Nabin Barashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:389
+  :cite-key: PSPL:389
   :END:
 
 #+BEGIN_VERSE
@@ -2069,10 +2069,10 @@ Chira adrita arjya rishir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:390
+  :cite-key: PSPL:390
   :END:
 
 #+BEGIN_VERSE
@@ -2101,10 +2101,10 @@ From the Aryan sages of the hoary past.
 * Saral Parane Gahibar Ajo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:391
+  :cite-key: PSPL:391
   :END:
 
 #+BEGIN_VERSE
@@ -2123,10 +2123,10 @@ Anrita srote nahi jena bhasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:392
+  :cite-key: PSPL:392
   :END:
 
 #+BEGIN_VERSE
@@ -2147,10 +2147,10 @@ To cause displeasure and anger in You.
 * Sabai Amai Pagol Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:393
+  :cite-key: PSPL:393
   :END:
 
 #+BEGIN_VERSE
@@ -2169,10 +2169,10 @@ Bishwajayi habo ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:394
+  :cite-key: PSPL:394
   :END:
 
 #+BEGIN_VERSE
@@ -2195,10 +2195,10 @@ And another Buddha of
 * Na Jani Hai Kiser Lagi Rayechi Ei Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:395
+  :cite-key: PSPL:395
   :END:
 
 #+BEGIN_VERSE
@@ -2217,10 +2217,10 @@ Jogomaya joga bale shunao tomar dhwani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:396
+  :cite-key: PSPL:396
   :END:
 
 #+BEGIN_VERSE
@@ -2247,10 +2247,10 @@ Which you do in the inner world.
 * Swapane Nehari Atmaswarup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:397
+  :cite-key: PSPL:397
   :END:
 
 #+BEGIN_VERSE
@@ -2269,10 +2269,10 @@ Nahi pari tai sampite amai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:398
+  :cite-key: PSPL:398
   :END:
 
 #+BEGIN_VERSE

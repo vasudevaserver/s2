@@ -7,13 +7,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1566
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2007
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MDDA
-  :GENRE: tribute, anecdote-autobiography
+  :book-number: 1566
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2007
+  :publisher: Agni Press
+  :cite-key: MDDA
+  :genre: tribute, anecdote-autobiography
   :END:
 
 
@@ -21,8 +21,8 @@
 * Author's preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :CITE-KEY: MDDA:1e1
+  :genre: preface
+  :cite-key: MDDA:1e1
   :END:
 
 
@@ -35,8 +35,8 @@ I beg to be excused for taking the liberty of paraphrasing some conversations be
 * Part I -- My personal connection with Dilip-da
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:1e2
+  :genre: section
+  :cite-key: MDDA:1e2
   :END:
 
 
@@ -44,8 +44,8 @@ I beg to be excused for taking the liberty of paraphrasing some conversations be
 * Dilip-da's compassion for a young poet
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:1
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:1
   :END:
 
 
@@ -67,8 +67,8 @@ This experience was nothing other than Dilip-da's boundless affection and compas
 * My article about Dilip-da
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:2
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:2
   :END:
 
 
@@ -81,8 +81,8 @@ This time I gave the article directly to my teacher and she gave it to him. Dili
 * Dilip-da's harmonium
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:3
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:3
   :END:
 
 
@@ -97,8 +97,8 @@ Anyway, Manodhar was the first one to teach me how to play on the harmonium -—
 * My sad experience with Sahana-di
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:4
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:4
   :END:
 
 
@@ -133,8 +133,8 @@ I immediately translated both the poems into English. When I gave her the whole 
 * Dilip-da performs my song for the mother
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:5
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:5
   :END:
 
 
@@ -264,8 +264,8 @@ And about the disciples, Dilip-da is so fortunate to have found so many devoted 
 * Saturday evening soirées at Dilip-da's house
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:6
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:6
   :END:
 
 
@@ -282,8 +282,8 @@ When we used to go to his place, Dilip-da would sing four or five songs. They we
 * Ravi Shankar's unforgettable performance
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:7
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:7
   :END:
 
 
@@ -302,8 +302,8 @@ Then Ravi Shankar was asking me about Sahana-di and Nishikanto. All the names of
 * Dilip-da and his friend Yogi Krishnaprem
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:8
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:8
   :END:
 
 
@@ -332,8 +332,8 @@ Between Krishnaprem and the husband there was a great difference of age, but the
 * A chance encounter with Dilip-da
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:9
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:9
   :END:
 
 
@@ -358,8 +358,8 @@ When we approached Prabhakar-da's house, I screamed and screamed, "Prabhakar-da!
 * Delivering letters to Dilip-da
 
   :PROPERTIES:
-  :GENRE:
-  :CITE-KEY: MDDA:10
+  :genre:
+  :cite-key: MDDA:10
   :END:
 
 
@@ -374,8 +374,8 @@ Then he would call me up and I would give him the letter. What a beautiful, bles
 * Nolini-da defends Dilip Roy
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:11
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:11
   :END:
 
 
@@ -398,8 +398,8 @@ Always Dilip-da used to make that kind of affectionate demand. And he was at tha
 * Dilip-da receives payment for an article
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:12
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:12
   :END:
 
 
@@ -416,8 +416,8 @@ Fame is, indeed, gain. Because of his fame, Dilip-da brought tremendous glory to
 * The dearest disciple of Sri Aurobindo
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:13
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:13
   :END:
 
 
@@ -452,8 +452,8 @@ In Sri Krishna's case, his dearest one was Arjuna. In Lord Buddha's case, it was
 * Dilip the golden voice
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:14
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:14
   :END:
 
 
@@ -472,8 +472,8 @@ Even now, when I hear Dilip-da's voice on tapes and CD's, it is unique, unique. 
 * Dilip-da's physical appearance
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:15
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:15
   :END:
 
 
@@ -486,8 +486,8 @@ In the Ashram, people did not appreciate it if you wore tulsi beads, japa beads.
 * Dilip-da's manner of walking
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:16
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:16
   :END:
 
 
@@ -500,8 +500,8 @@ Many times I met him face to face when he was walking in the street and he bless
 * Dilip-da's free advice to me
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:17
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:17
   :END:
 
 
@@ -524,8 +524,8 @@ That letter was my last contact with Dilip-da.
 * The magic of Dilip-Da's name
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:18
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:18
   :END:
 
 
@@ -560,8 +560,8 @@ About fifteen years earlier, Dilip-da went through the same thing when he left t
 * Dilip-da's birthday
 
   :PROPERTIES:
-  :GENRE:
-  :CITE-KEY: MDDA:19
+  :genre:
+  :cite-key: MDDA:19
   :END:
 
 
@@ -576,8 +576,8 @@ In 1997, on the occasion of their Birth Centenaries, I wrote a series of poems e
 * I discover a great admirer of Dilip-da
 
   :PROPERTIES:
-  :GENRE: anecdote-autobiography
-  :CITE-KEY: MDDA:20
+  :genre: anecdote-autobiography
+  :cite-key: MDDA:20
   :END:
 
 
@@ -597,8 +597,8 @@ I told him that I knew Dilip-da in my adolescent years at the Ashram. Then I was
 Part II -- My favourite stories about Dilip-da
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:21e1
+  :genre: section
+  :cite-key: MDDA:21e1
   :END:
 
 
@@ -606,8 +606,8 @@ Part II -- My favourite stories about Dilip-da
 * Tagore showers his affection on Dilip
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: MDDA:21
+  :genre: story
+  :cite-key: MDDA:21
   :END:
 
 
@@ -644,8 +644,8 @@ This was Tagore's great nobility. Everybody will remember Tagore's greatness.
 * Dilip's conversations with Tagore
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: MDDA:22
+  :genre: story
+  :cite-key: MDDA:22
   :END:
 
 
@@ -666,8 +666,8 @@ To Dilip Roy, Tagore had to say that words come first, he did not care for melod
 * Tagore entertains Dilip and his friends
 
   :PROPERTIES:
-  :GENRE: story
-  :CITE-KEY: MDDA:23
+  :genre: story
+  :cite-key: MDDA:23
   :END:
 
 
@@ -712,8 +712,8 @@ By the way, I have recently come to learn that Atul Prasad's cousin was Sahana-d
 * Part III - Subhas and Dilip:  The mystic friend versus the psychic friend
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:24e1
+  :genre: section
+  :cite-key: MDDA:24e1
   :END:
 
 
@@ -721,8 +721,8 @@ By the way, I have recently come to learn that Atul Prasad's cousin was Sahana-d
 * 1.
 
   :PROPERTIES:
-  :GENRE: tribute
-  :CITE-KEY: MDDA:24
+  :genre: tribute
+  :cite-key: MDDA:24
   :END:
 
 
@@ -822,8 +822,8 @@ In return, Subhas offered his gratitude-heart to Dilip. Something is at once int
 * Part IV -- The birthday of Dilip-da
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:25e1
+  :genre: section
+  :cite-key: MDDA:25e1
   :END:
 
 
@@ -831,8 +831,8 @@ In return, Subhas offered his gratitude-heart to Dilip. Something is at once int
 * The birthday of Dilip-da
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MDDA:25
+  :genre: poem
+  :cite-key: MDDA:25
   :END:
 
 
@@ -873,16 +873,16 @@ To conquer his affection.
 * Part V -- My soulful song-offerings for Dilip-da
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:26e1
+  :genre: section
+  :cite-key: MDDA:26e1
   :END:
 
 
 * Dilip-da
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MDDA:26
+  :genre: poem
+  :cite-key: MDDA:26
   :END:
 
 
@@ -907,8 +907,8 @@ Tomar lagi animesh karuna dayal
 * Amader Dilip-da
 
   :PROPERTIES:
-  :GENRE: poem
-  :CITE-KEY: MDDA:27
+  :genre: poem
+  :cite-key: MDDA:27
   :END:
 
 
@@ -933,8 +933,8 @@ Amader Dilip-da amader
 * Sri Aurobindo sneher baridhi Dilip Dilip Dilip
 
   :PROPERTIES:
-  :GENRE: song
-  :CITE-KEY: MDDA:28
+  :genre: song
+  :cite-key: MDDA:28
   :END:
 
 
@@ -975,8 +975,8 @@ Sleeplessly your life was for
 * Notes
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY: MDDA:29e1
+  :genre: section
+  :cite-key: MDDA:29e1
   :END:
 
 
@@ -984,8 +984,8 @@ Sleeplessly your life was for
 * Footnotes
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MDDA:29e2
+  :genre: note
+  :cite-key: MDDA:29e2
   :END:
 
 

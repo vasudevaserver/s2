@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0015
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GNS
-  :GENRE: discourse, prayer
-  :KEYWORDS:
+  :book-number: 0015
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: GNS
+  :genre: discourse, prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction by the editor
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:1
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:1
   :END:
 
 
@@ -204,9 +204,9 @@ November 23, 1972
 * United Nations Meditation Group
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:2
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:2
   :END:
 
 
@@ -221,9 +221,9 @@ WE BELIEVE
 * The garland of nation-souls
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:3
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:3
   :END:
 
 
@@ -279,9 +279,9 @@ July 15, 1970
 * The Song Universal
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:4
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:4
   :END:
 
 
@@ -358,9 +358,9 @@ November 26, 1968
 * Talks from the peace room
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GNS:5e1
+  :genre: section
+  :keywords:
+  :cite-key: GNS:5e1
   :END:
 
 
@@ -368,9 +368,9 @@ November 26, 1968
 * Truth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:5
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:5
   :END:
 
 
@@ -395,9 +395,9 @@ May 12, 1970
 * God and Truth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:6
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:6
   :END:
 
 
@@ -422,9 +422,9 @@ May 19, 1970
 * The inner way
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:7
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:7
   :END:
 
 
@@ -449,9 +449,9 @@ May 26, 1970
 * No chance but God's concern
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:8
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:8
   :END:
 
 
@@ -482,9 +482,9 @@ June 2, 1970
 * God's brightest heaven and man's surest haven
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:9
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:9
   :END:
 
 
@@ -503,9 +503,9 @@ June 9, 1970
 * Meditation: Self-Transcendence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:10
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:10
   :END:
 
 
@@ -536,9 +536,9 @@ February 12, 1971
 * Is the spiritual life an escape from reality?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:11
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:11
   :END:
 
 
@@ -581,9 +581,9 @@ New York March 4, 1971
 * Does meditation really accomplish anything?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:12
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:12
   :END:
 
 
@@ -632,9 +632,9 @@ April 1, 1971
 * A spiritual Goal for the United Nations: Is it practical?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:13
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:13
   :END:
 
 
@@ -674,9 +674,9 @@ August 5, 1971
 * Peace is our birthright: How can we have it?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:14
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:14
   :END:
 
 
@@ -741,9 +741,9 @@ May 13, 1971
 * Spirituality: Is it only for the chosen few?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:15
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:15
   :END:
 
 
@@ -775,9 +775,9 @@ June 4, 1971
 * Spirituality: The fount of world peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:16
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:16
   :END:
 
 
@@ -839,9 +839,9 @@ July 1, 1971
 * Mediation and meditation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:17
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:17
   :END:
 
 
@@ -897,9 +897,9 @@ November 4, 1971
 * God's power of love in today's world
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:18
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:18
   :END:
 
 
@@ -935,9 +935,9 @@ New York October 7, 1971
 * Western dynamism and Eastern spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:19
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:19
   :END:
 
 
@@ -975,9 +975,9 @@ December 2, 1971
 * The Court of Divine Justice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:20
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:20
   :END:
 
 
@@ -1024,9 +1024,9 @@ January 4, 19 72
 * God: The Supreme Actor World: The divine audience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:21
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:21
   :END:
 
 
@@ -1077,9 +1077,9 @@ February 3, 1972
 * God's Compassion and the United Nations' dedication
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:22
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:22
   :END:
 
 
@@ -1122,9 +1122,9 @@ March 2, 19 72
 * The right to happiness: A human right?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:23
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:23
   :END:
 
 
@@ -1163,9 +1163,9 @@ May 10, 1972
 * Why is it easier to disbelieve than to believe?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:24
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:24
   :END:
 
 
@@ -1234,9 +1234,9 @@ June 1, 1972
 * Does belief come spontaneously or by effort?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GNS:25
+  :genre: discourse
+  :keywords:
+  :cite-key: GNS:25
   :END:
 
 
@@ -1281,9 +1281,9 @@ October 2, 1972
 * Meditations from the United Nations
 
   :PROPERTIES:
-  :GENRE: prayers
-  :KEYWORDS:
-  :CITE-KEY: GNS:26
+  :genre: prayers
+  :keywords:
+  :cite-key: GNS:26
   :END:
 
 
@@ -1291,9 +1291,9 @@ October 2, 1972
 * 1.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:27
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:27
   :END:
 
 
@@ -1326,9 +1326,9 @@ The presence of oneness is the glorious beginning of man's perfect Perfection.
 * 2.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:28
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:28
   :END:
 
 
@@ -1351,9 +1351,9 @@ God is the Child of my breathless meditation.
 * 3.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:29
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:29
   :END:
 
 
@@ -1371,9 +1371,9 @@ I quote God because He alone instantly knows.
 * 4.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:30
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:30
   :END:
 
 
@@ -1390,9 +1390,9 @@ A conscious self-dedicated oneness with mankind for mankind can alone make the a
 * 5.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:31
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:31
   :END:
 
 
@@ -1411,9 +1411,9 @@ The universal oneness is our God-Realisation without, embodied, revealed and man
 * 6.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:32
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:32
   :END:
 
 
@@ -1430,9 +1430,9 @@ The universal oneness is the Son of Immortality. This is what we learn from God'
 * 7.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:33
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:33
   :END:
 
 
@@ -1453,9 +1453,9 @@ God's eternal Concern fulfils man the evolving soul and God the Transcendental S
 * 8.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:34
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:34
   :END:
 
 
@@ -1474,9 +1474,9 @@ I hesitate to speak to the world because I think the world is a stranger to me.
 * 9.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:35
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:35
   :END:
 
 
@@ -1495,9 +1495,9 @@ When a seeker meditates on God, he feels his inner divinity and sees his outer r
 * 10.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:36
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:36
   :END:
 
 
@@ -1518,9 +1518,9 @@ God demands my life. How can I deny Him His eternal Right?
 * 11.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:37
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:37
   :END:
 
 
@@ -1545,9 +1545,9 @@ The soul loves the fulfilling God.
 * 12
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: GNS:38
+  :genre: prayer
+  :keywords:
+  :cite-key: GNS:38
   :END:
 
 

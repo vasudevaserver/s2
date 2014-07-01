@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0369
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1978
-  :PUBLISHER: Agni Press
-  :CITE-KEY: UNMF
-  :GENRE: discourse, aphorism, poem
-  :KEYWORDS:
+  :book-number: 0369
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1978
+  :publisher: Agni Press
+  :cite-key: UNMF
+  :genre: discourse, aphorism, poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: UNMF:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: UNMF:1e1
   :END:
 
 Since the spring of 1970, Sri Chinmoy has been conduction meditations and lecturing at the United Nations as spiritual leader of the United Nations Meditation Group, recently renamed Sri Chinmoy Meditation at the United Nations. This book is a collection of some of Sri Chinmoy's inspirational talks, essays and aphorisms published during 1977 in the monthly bulletin of the meditation group under the titles "United Nations Meditation-Flowers" and "To-morrow's Noon."
@@ -35,9 +35,9 @@ Other volumes of Sri Chinmoy's lectures and answers to questions which he was as
 * Sri Chinmoy Meditation at the United Nations
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: UNMF:1e2
+  :genre: preface
+  :keywords:
+  :cite-key: UNMF:1e2
   :END:
 
 
@@ -50,9 +50,9 @@ WE BELIEVE and we hold that each man has the potentiality of reaching the Ultima
 * United Nations Meditation-Flowers and To-morrow's Noon
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UNMF:1e3
+  :genre: section
+  :keywords:
+  :cite-key: UNMF:1e3
   :END:
 
 /Sri Chinmoy delivered the following short inspirational talks during meditations that he held at the United Nations./
@@ -61,9 +61,9 @@ WE BELIEVE and we hold that each man has the potentiality of reaching the Ultima
 * The Seeker In Me
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:1
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:1
   :END:
 
 
@@ -88,9 +88,9 @@ Dream is God the cosmic Seed. Reality is God the cosmic Fruit. Progress is God t
 * Possibility-Seed
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:2
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:2
   :END:
 
 
@@ -137,9 +137,9 @@ And granting me the transcendental picture
 * Sorrow
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:3
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:3
   :END:
 
 
@@ -175,9 +175,9 @@ The infinite Light and Delight of my
 * Now Is The Only Time
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:4
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:4
   :END:
 
 
@@ -244,9 +244,9 @@ Your gratitude-heart is my cosmic Reality-Fruit.
 * Aphorisms
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UNMF:5e1
+  :genre: section
+  :keywords:
+  :cite-key: UNMF:5e1
   :END:
 
 
@@ -254,9 +254,9 @@ Your gratitude-heart is my cosmic Reality-Fruit.
 * 1
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:5
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:5
   :END:
 
 
@@ -267,9 +267,9 @@ To love is to see man in God. To serve is to see God in man.
 * 2
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:6
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:6
   :END:
 
 
@@ -280,9 +280,9 @@ Ungratefulness strengthens the animal in us, weakens the human in us and shorten
 * 3
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:7
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:7
   :END:
 
 
@@ -293,9 +293,9 @@ Do you want to be happy? If so, then either push your desire-life aside or pull 
 * 4
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:8
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:8
   :END:
 
 
@@ -306,9 +306,9 @@ To err is human, but only a special person has the God-given capacity to forgive
 * 5
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:9
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:9
   :END:
 
 
@@ -319,9 +319,9 @@ We shall eventually give to God what He has already given to us: Eternity’s so
 * 6
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:10
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:10
   :END:
 
 
@@ -332,9 +332,9 @@ To have cheerfulness in utter helplessness is to start climbing up the Realisati
 * 7
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:11
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:11
   :END:
 
 
@@ -345,9 +345,9 @@ I have discovered two places where God is not. He is not in my ingratitude-heart
 * 8
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:12
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:12
   :END:
 
 
@@ -358,9 +358,9 @@ Yesterday my cheerfulness was my unparalleled achievement. Today my soulfulness 
 * 9
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:13
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:13
   :END:
 
 
@@ -371,9 +371,9 @@ No two friends are as intimate as cheerfulness and confidence.
 * 10
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:14
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:14
   :END:
 
 
@@ -384,9 +384,9 @@ A spiritual Master was once asked: “Why do you talk so much?” His immediate 
 * 11
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:15
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:15
   :END:
 
 
@@ -400,9 +400,9 @@ Our best performance on earth is to employ God’s Compassion. God’s best perf
 * Like Me
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UNMF:16
+  :genre: poem
+  :keywords:
+  :cite-key: UNMF:16
   :END:
 
 
@@ -428,9 +428,9 @@ For revealing the life of Delight?
 * How Do I Know?
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UNMF:17
+  :genre: poem
+  :keywords:
+  :cite-key: UNMF:17
   :END:
 
 
@@ -483,9 +483,9 @@ For now, my perfection glows.
 * I Am Happy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UNMF:18
+  :genre: poem
+  :keywords:
+  :cite-key: UNMF:18
   :END:
 
 
@@ -543,9 +543,9 @@ I am happy not because I am for my Supreme Pilot, not because my Supreme Pilot i
 * Spirituality speaks to simplicity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:19
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:19
   :END:
 
 
@@ -568,9 +568,9 @@ Simplicity, you are great. You do not house mental narrowness, vital laziness or
 * Courage Versus Humility
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:20
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:20
   :END:
 
 
@@ -595,9 +595,9 @@ With courage we manifest God in our own way. With humility, God manifests Himsel
 * We Must Not Give Up!
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:21
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:21
   :END:
 
 
@@ -622,9 +622,9 @@ We must not give up! Let us prepare ourselves for God’s choice Hour. We must n
 * What Is My Next Duty?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:22
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:22
   :END:
 
 
@@ -649,9 +649,9 @@ What is my next duty? My next duty, my only duty, is to beg the present God the 
 * On A Birthday
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:23
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:23
   :END:
 
 
@@ -666,9 +666,9 @@ The soul’s promise to the Absolute Supreme is God-manifestation through consci
 * A Special Meditation
 
   :PROPERTIES:
-  :GENRE: technique
-  :KEYWORDS:
-  :CITE-KEY: UNMF:24
+  :genre: technique
+  :keywords:
+  :cite-key: UNMF:24
   :END:
 
 
@@ -689,9 +689,9 @@ So let us start with the boat. We shall imagine the boat inside the heart. This 
 * My Lifelong Friends
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:25
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:25
   :END:
 
 
@@ -716,9 +716,9 @@ O my simplicity, sincerity, purity, divinity, Immortality and Beloved Supreme fr
 * Expectation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UNMF:26
+  :genre: discourse
+  :keywords:
+  :cite-key: UNMF:26
   :END:
 
 
@@ -737,9 +737,9 @@ When I use the human in me to serve any purpose, my expectation becomes frustrat
 * To-Morrow’s Noon
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UNMF:27e1
+  :genre: section
+  :keywords:
+  :cite-key: UNMF:27e1
   :END:
 
 
@@ -747,9 +747,9 @@ When I use the human in me to serve any purpose, my expectation becomes frustrat
 * 1. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:27
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:27
   :END:
 
 
@@ -760,9 +760,9 @@ Altruism is good, but to know what God’s Will is and act accordingly is infini
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:28
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:28
   :END:
 
 
@@ -773,9 +773,9 @@ If you feel ambivalence towards humanity, I assure you, God will forgive you, hu
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:29
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:29
   :END:
 
 
@@ -786,9 +786,9 @@ It seems that we are in an absurd situation: on the one hand we desperately try 
 * 4. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:30
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:30
   :END:
 
 
@@ -799,9 +799,9 @@ If you are amenable to the reasoning mind, then your life will be a fruitless, c
 * 5. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:31
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:31
   :END:
 
 
@@ -812,9 +812,9 @@ Although you are amoral, you have a fair chance for your nature’s transformati
 * 6. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:32
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:32
   :END:
 
 
@@ -825,9 +825,9 @@ To have aplomb is to compel success to come and touch your feet instead of your 
 * 7. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:33
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:33
   :END:
 
 
@@ -838,9 +838,9 @@ O ascetic soul, I did love you once upon a time, but now I love to live with and
 * 8. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:34
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:34
   :END:
 
 
@@ -851,9 +851,9 @@ As God’s unconditional Compassion permeates humanity’s entire being, even so
 * 9. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:35
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:35
   :END:
 
 
@@ -864,9 +864,9 @@ The study of etymology will undoubtedly make you a learned and great man. But if
 * 10. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:36
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:36
   :END:
 
 
@@ -877,9 +877,9 @@ A prevaricator is he who not only exploits God’s Transcendental Truth, but als
 * 11. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:37
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:37
   :END:
 
 
@@ -890,9 +890,9 @@ A nefarious person is he who has destroyed his heart’s beauty long before he h
 * 12. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:38
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:38
   :END:
 
 
@@ -903,9 +903,9 @@ If you are spontaneously gregarious, that means you have already taken a long st
 * 13. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:39
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:39
   :END:
 
 
@@ -916,9 +916,9 @@ A simple and sincere seeker finds it extremely difficult to mix with either the 
 * 14. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:40
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:40
   :END:
 
 
@@ -929,9 +929,9 @@ When there is a fight between impurity and purity, humility’s role as the inte
 * 15. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:41
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:41
   :END:
 
 
@@ -942,9 +942,9 @@ An intransigent person can never have peace of mind.
 * 16. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:42
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:42
   :END:
 
 
@@ -955,9 +955,9 @@ In the inner world, there is but one intrepid hero and that hero is our sterling
 * 17. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:43
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:43
   :END:
 
 
@@ -968,9 +968,9 @@ Only a true and genuine seeker will not and cannot foment trouble for any human 
 * 18. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:44
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:44
   :END:
 
 
@@ -981,9 +981,9 @@ If you get a thing in a fortuitous manner, your happiness will not or cannot las
 * 19. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:45
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:45
   :END:
 
 
@@ -994,9 +994,9 @@ With aplomb, you entered into the world. With aplomb, you can easily return to t
 * 20. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:46
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:46
   :END:
 
 
@@ -1007,9 +1007,9 @@ Do not speak ill of humanity. Humanity will ostracise you. But if you speak ill 
 * 21. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:47
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:47
   :END:
 
 
@@ -1020,9 +1020,9 @@ The human way is bound to remain stereotyped, unless the divine way liberates th
 * 22. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:48
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:48
   :END:
 
 
@@ -1033,9 +1033,9 @@ A stilted life casts a slur on humanity’s inner progress and divinity’s prid
 * 23. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:49
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:49
   :END:
 
 
@@ -1046,9 +1046,9 @@ Since God’s Will is inscrutable, the best thing for us is to pray to become on
 * 24. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:50
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:50
   :END:
 
 
@@ -1059,9 +1059,9 @@ To say that God is only for others and not for you is the height of your insidio
 * 25. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:51
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:51
   :END:
 
 
@@ -1072,9 +1072,9 @@ A life of insouciance indicates an abrupt end of oneness-beauty inside the unive
 * 26. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:52
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:52
   :END:
 
 
@@ -1085,9 +1085,9 @@ The maudlin sentiments of humanity are the cause of the world’s downfall in Re
 * 27. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:53
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:53
   :END:
 
 
@@ -1098,9 +1098,9 @@ You will realise God only when your aspiration carries all its appurtenances -- 
 * 28. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:54
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:54
   :END:
 
 
@@ -1111,9 +1111,9 @@ The outer laughter creates pandemonium when the inner cry is totally dead.
 * 29. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:55
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:55
   :END:
 
 
@@ -1124,9 +1124,9 @@ If you deliver a panegyric and don’t mean it, then your insincerity-dog will a
 * 30. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:56
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:56
   :END:
 
 
@@ -1137,9 +1137,9 @@ Needless to say, each human life is fraught with teeming dangers; but the brave 
 * 31. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:57
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:57
   :END:
 
 
@@ -1150,9 +1150,9 @@ To do the wrong thing and to try to escape nemesis is nothing short of futility.
 * 32. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:58
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:58
   :END:
 
 
@@ -1163,9 +1163,9 @@ If you want to claim the whole world, then become a perfect stranger to nepotism
 * 33. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:59
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:59
   :END:
 
 
@@ -1176,9 +1176,9 @@ God-realisation will always remain a far cry if you are niggardly at every momen
 * 34. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:60
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:60
   :END:
 
 
@@ -1189,9 +1189,9 @@ An insincere and impure person carries with him a noisome odour.
 * 35. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:61
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:61
   :END:
 
 
@@ -1202,9 +1202,9 @@ The nominal president of our life is the mind. The actual president of our life 
 * 36. The Cosmic Gods Were Nonplused When They...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:62
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:62
   :END:
 
 
@@ -1215,9 +1215,9 @@ The cosmic gods were nonplussed when they saw our faith-warrior losing to the do
 * 37. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:63
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:63
   :END:
 
 
@@ -1228,9 +1228,9 @@ His life is nothing but a hackneyed expression of his self-styled pious and comp
 * 38. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:64
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:64
   :END:
 
 
@@ -1241,9 +1241,9 @@ The inner life of aspiration is more than willing to constantly give and make th
 * 39. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:65
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:65
   :END:
 
 
@@ -1254,9 +1254,9 @@ If you follow verbatim the Master’s instructions, then your goal can never rem
 * 40. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:66
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:66
   :END:
 
 
@@ -1267,9 +1267,9 @@ The real fool is he who thinks that the act of surrender is an exorbitant price 
 * 41. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:67
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:67
   :END:
 
 
@@ -1280,9 +1280,9 @@ Do not yield to frustration, for God-Compassion is running very fast towards you
 * 42. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:68
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:68
   :END:
 
 
@@ -1293,9 +1293,9 @@ Neither your aridity nor your austerity can bring God closer to you, for that ta
 * 43. A
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:69
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:69
   :END:
 
 
@@ -1306,9 +1306,9 @@ A sophisticated life is not only a divine failure but also a human failure.
 * 44. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:70
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:70
   :END:
 
 
@@ -1319,9 +1319,9 @@ Our doubting mind is usually distraught by the absence of its brood: frustration
 * 45. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:71
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:71
   :END:
 
 
@@ -1332,9 +1332,9 @@ Nothing is so hard as to dissuade the mind from doubting the reality’s Existen
 * 46. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:72
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:72
   :END:
 
 
@@ -1345,9 +1345,9 @@ A seeker of all-illumining and all-fulfilling harmony must have a discerning ear
 * 47. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:73
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:73
   :END:
 
 
@@ -1358,9 +1358,9 @@ Love and serve humanity sincerely. Your name will be disseminated constantly ove
 * 48. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:74
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:74
   :END:
 
 
@@ -1371,9 +1371,9 @@ If you have a solicitous heart, then rest assured that God has a blessingful Eye
 * 49. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:75
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:75
   :END:
 
 
@@ -1384,9 +1384,9 @@ Sobriety in all things may not always be attainable, but it is always desirable.
 * 50. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:76
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:76
   :END:
 
 
@@ -1397,9 +1397,9 @@ A sincere seeker must never be afraid of the doubting mind. On the contrary, he 
 * 51. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:77
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:77
   :END:
 
 
@@ -1410,9 +1410,9 @@ A sceptical person has to remain always a stranger to the bliss of oneness-reali
 * 52. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:78
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:78
   :END:
 
 
@@ -1423,9 +1423,9 @@ It is the height of stupidity to attempt to dissemble fear, doubt, anxiety and f
 * 53. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:79
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:79
   :END:
 
 
@@ -1436,9 +1436,9 @@ Insincerity and impurity are undoubtedly sinister forces in the life of a seeker
 * 54. 
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: UNMF:80
+  :genre: aphorism
+  :keywords:
+  :cite-key: UNMF:80
   :END:
 
 
@@ -1449,8 +1449,8 @@ It is a deplorable mistake to think that faith’s position as the chief leader 
 * Editorial note
 
  :PROPERTIES:
- :GENRE: note
- :CITE-KEY: UNMF:81e1
+ :genre: note
+ :cite-key: UNMF:81e1
  :END:
 
 The book, in an edition following the first, has the following editorial comment:

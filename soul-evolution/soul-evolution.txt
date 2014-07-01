@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0345
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SE
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0345
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SE
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * What Is The Spiritual Life?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SE:1
+  :genre: discourse
+  :keywords:
+  :cite-key: SE:1
   :END:
 
 
@@ -53,9 +53,9 @@ Northwestern University
 * The Soul's Evolution
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SE:2e1
+  :genre: section
+  :keywords:
+  :cite-key: SE:2e1
   :END:
 
 
@@ -63,9 +63,9 @@ Northwestern University
 * Question: Can You Please Explain The Nature...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:2
+  :genre: qa
+  :keywords:
+  :cite-key: SE:2
   :END:
 
 
@@ -80,9 +80,9 @@ A farmer needs a field in order to cultivate his crops. The soul comes down here
 * Question: Can You Tell Me What I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:3
+  :genre: qa
+  :keywords:
+  :cite-key: SE:3
   :END:
 
 
@@ -95,9 +95,9 @@ A farmer needs a field in order to cultivate his crops. The soul comes down here
 * Question: Sometimes When I Go To A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:4
+  :genre: qa
+  :keywords:
+  :cite-key: SE:4
   :END:
 
 
@@ -110,9 +110,9 @@ A farmer needs a field in order to cultivate his crops. The soul comes down here
 * Question: Do The Physical Abilities We Possess...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:5
+  :genre: qa
+  :keywords:
+  :cite-key: SE:5
   :END:
 
 
@@ -127,9 +127,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: Is It Because We Don't Practise...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:6
+  :genre: qa
+  :keywords:
+  :cite-key: SE:6
   :END:
 
 
@@ -142,9 +142,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: Will There Always Be An Animal...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:7
+  :genre: qa
+  :keywords:
+  :cite-key: SE:7
   :END:
 
 
@@ -157,9 +157,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: The Other Night We Were Meditating...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:8
+  :genre: qa
+  :keywords:
+  :cite-key: SE:8
   :END:
 
 
@@ -172,9 +172,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: Can We Change Our Karmic Law?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:9
+  :genre: qa
+  :keywords:
+  :cite-key: SE:9
   :END:
 
 
@@ -187,9 +187,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: Do We Suffer Because Of Our...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:10
+  :genre: qa
+  :keywords:
+  :cite-key: SE:10
   :END:
 
 
@@ -202,9 +202,9 @@ Today I was very sad about the standard of our sports. It is not going higher. I
 * Question: Does The Law Of Karma Bind...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:11
+  :genre: qa
+  :keywords:
+  :cite-key: SE:11
   :END:
 
 
@@ -219,9 +219,9 @@ It is the physical, the vital and the mind that compel or motivate us to say and
 * Question: How Much Of Illness Is Due...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:12
+  :genre: qa
+  :keywords:
+  :cite-key: SE:12
   :END:
 
 
@@ -238,9 +238,9 @@ But even if we are cautious, still the wrong forces can attack. We have bolted t
 * Question: If Earth Is The Place For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:13
+  :genre: qa
+  :keywords:
+  :cite-key: SE:13
   :END:
 
 
@@ -253,9 +253,9 @@ But even if we are cautious, still the wrong forces can attack. We have bolted t
 * Love And Aspiration
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SE:14e1
+  :genre: section
+  :keywords:
+  :cite-key: SE:14e1
   :END:
 
 
@@ -263,9 +263,9 @@ But even if we are cautious, still the wrong forces can attack. We have bolted t
 * Question: Could You Say Something About Divine...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:14
+  :genre: qa
+  :keywords:
+  :cite-key: SE:14
   :END:
 
 
@@ -284,9 +284,9 @@ But we have to possess it first, and for that we have to meditate. To enter into
 * Question: Why Does Loving Kindness Lead Us...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:15
+  :genre: qa
+  :keywords:
+  :cite-key: SE:15
   :END:
 
 
@@ -299,9 +299,9 @@ But we have to possess it first, and for that we have to meditate. To enter into
 * Question: How Do You Tell Whether You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:16
+  :genre: qa
+  :keywords:
+  :cite-key: SE:16
   :END:
 
 
@@ -316,9 +316,9 @@ At first I only want to achieve something, but if I get the feeling that I want 
 * Question: Why Is It That You Accepted...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:17
+  :genre: qa
+  :keywords:
+  :cite-key: SE:17
   :END:
 
 
@@ -331,9 +331,9 @@ At first I only want to achieve something, but if I get the feeling that I want 
 * Question: While I Was Meditating With You,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:18
+  :genre: qa
+  :keywords:
+  :cite-key: SE:18
   :END:
 
 
@@ -348,9 +348,9 @@ When you come here, you come with tremendous aspiration, but when you meditate a
 * Question: What Does Acceptance Mean From The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:19
+  :genre: qa
+  :keywords:
+  :cite-key: SE:19
   :END:
 
 
@@ -363,9 +363,9 @@ When you come here, you come with tremendous aspiration, but when you meditate a
 * Question: What Is Awareness?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:20
+  :genre: qa
+  :keywords:
+  :cite-key: SE:20
   :END:
 
 
@@ -378,9 +378,9 @@ When you come here, you come with tremendous aspiration, but when you meditate a
 * Question: What Is The Relationship Between Faith...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:21
+  :genre: qa
+  :keywords:
+  :cite-key: SE:21
   :END:
 
 
@@ -393,9 +393,9 @@ When you come here, you come with tremendous aspiration, but when you meditate a
 * Question: Would You Please Explain The Difference...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:22
+  :genre: qa
+  :keywords:
+  :cite-key: SE:22
   :END:
 
 
@@ -408,9 +408,9 @@ When you come here, you come with tremendous aspiration, but when you meditate a
 * Question: Guru, How Can We Have Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:23
+  :genre: qa
+  :keywords:
+  :cite-key: SE:23
   :END:
 
 
@@ -431,9 +431,9 @@ Human pride is only a form of separation: I am this, you are that. I separate my
 * Question: Guru, Is It Good To Imagine?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:24
+  :genre: qa
+  :keywords:
+  :cite-key: SE:24
   :END:
 
 
@@ -446,9 +446,9 @@ Human pride is only a form of separation: I am this, you are that. I separate my
 * Divine Qualities
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SE:25e1
+  :genre: section
+  :keywords:
+  :cite-key: SE:25e1
   :END:
 
 
@@ -456,9 +456,9 @@ Human pride is only a form of separation: I am this, you are that. I separate my
 * Question: In The Conflict Between Intuition And...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:25
+  :genre: qa
+  :keywords:
+  :cite-key: SE:25
   :END:
 
 
@@ -477,9 +477,9 @@ Some of your parents may think that the spiritual life is silly; that is their c
 * Question: How Can I Make The Silence...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:26
+  :genre: qa
+  :keywords:
+  :cite-key: SE:26
   :END:
 
 
@@ -496,9 +496,9 @@ So, please feel that something has to come out of silence; then only will the si
 * Question: How Can I Know My Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:27
+  :genre: qa
+  :keywords:
+  :cite-key: SE:27
   :END:
 
 
@@ -511,9 +511,9 @@ So, please feel that something has to come out of silence; then only will the si
 * Question: Can Our Emotions Be Developed Like...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:28
+  :genre: qa
+  :keywords:
+  :cite-key: SE:28
   :END:
 
 
@@ -526,9 +526,9 @@ So, please feel that something has to come out of silence; then only will the si
 * Question: Is Expressing My Creative Capacity Important...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:29
+  :genre: qa
+  :keywords:
+  :cite-key: SE:29
   :END:
 
 
@@ -541,9 +541,9 @@ So, please feel that something has to come out of silence; then only will the si
 * Question: Sometimes When I Have Good Experiences,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:30
+  :genre: qa
+  :keywords:
+  :cite-key: SE:30
   :END:
 
 
@@ -560,9 +560,9 @@ In the ordinary life, a kindergarten teacher is enough for a kindergarten studen
 * Question: How Can I Be More Conscious...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:31
+  :genre: qa
+  :keywords:
+  :cite-key: SE:31
   :END:
 
 
@@ -575,9 +575,9 @@ In the ordinary life, a kindergarten teacher is enough for a kindergarten studen
 * Question: How Do We Know Which Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:32
+  :genre: qa
+  :keywords:
+  :cite-key: SE:32
   :END:
 
 
@@ -590,9 +590,9 @@ In the ordinary life, a kindergarten teacher is enough for a kindergarten studen
 * Negative Thoughts
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SE:33e1
+  :genre: section
+  :keywords:
+  :cite-key: SE:33e1
   :END:
 
 
@@ -600,9 +600,9 @@ In the ordinary life, a kindergarten teacher is enough for a kindergarten studen
 * Negative Thoughts
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SE:33
+  :genre: discourse
+  :keywords:
+  :cite-key: SE:33
   :END:
 
 
@@ -619,9 +619,9 @@ Sometimes people cherish negative thoughts. They get a kind of pleasure from the
 * Question: When I Become Aware That My...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:34
+  :genre: qa
+  :keywords:
+  :cite-key: SE:34
   :END:
 
 
@@ -638,9 +638,9 @@ So when your meditation is not profound and you feel that you are descending, tr
 * Question: Is The Ability To Fight Hostile...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:35
+  :genre: qa
+  :keywords:
+  :cite-key: SE:35
   :END:
 
 
@@ -655,9 +655,9 @@ God's Will does everything, provided you know what Grace is and what its capacit
 * Question: In Our Relationships With Others, Sometimes...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:36
+  :genre: qa
+  :keywords:
+  :cite-key: SE:36
   :END:
 
 
@@ -672,9 +672,9 @@ The mind constantly says, "I have done this," or "l have not done that because o
 * Question: How Can We Tell The Difference...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:37
+  :genre: qa
+  :keywords:
+  :cite-key: SE:37
   :END:
 
 
@@ -687,9 +687,9 @@ The mind constantly says, "I have done this," or "l have not done that because o
 * Question: Many Times I Complain To You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:38
+  :genre: qa
+  :keywords:
+  :cite-key: SE:38
   :END:
 
 
@@ -702,9 +702,9 @@ The mind constantly says, "I have done this," or "l have not done that because o
 * Question: What Is The Difference Between Complacency...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:39
+  :genre: qa
+  :keywords:
+  :cite-key: SE:39
   :END:
 
 
@@ -723,9 +723,9 @@ Attachment comes when you are motivated by your vital. If your vital desires som
 * Interview On Kpfa Radio
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SE:40
+  :genre: interview
+  :keywords:
+  :cite-key: SE:40
   :END:
 
 
@@ -736,9 +736,9 @@ Attachment comes when you are motivated by your vital. If your vital desires som
 * Question: I Would Like To Ask You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:41
+  :genre: qa
+  :keywords:
+  :cite-key: SE:41
   :END:
 
 
@@ -753,9 +753,9 @@ There is an inner urge in the human in us, as well as in the divine in us, to tr
 * Question: Is There Then Something Which Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:42
+  :genre: qa
+  :keywords:
+  :cite-key: SE:42
   :END:
 
 
@@ -768,9 +768,9 @@ There is an inner urge in the human in us, as well as in the divine in us, to tr
 * Question: In Your Own Personal Life-History, Was...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:43
+  :genre: qa
+  :keywords:
+  :cite-key: SE:43
   :END:
 
 
@@ -783,9 +783,9 @@ There is an inner urge in the human in us, as well as in the divine in us, to tr
 * Question: While I Was Watching The Film...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:44
+  :genre: qa
+  :keywords:
+  :cite-key: SE:44
   :END:
 
 
@@ -798,9 +798,9 @@ There is an inner urge in the human in us, as well as in the divine in us, to tr
 * Question: Let Me Ask You Some Questions...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:45
+  :genre: qa
+  :keywords:
+  :cite-key: SE:45
   :END:
 
 
@@ -815,9 +815,9 @@ Both the outer method and the inner method of bringing about peace are effective
 * Question: Can You Comment Specifically On The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:46
+  :genre: qa
+  :keywords:
+  :cite-key: SE:46
   :END:
 
 
@@ -830,9 +830,9 @@ Both the outer method and the inner method of bringing about peace are effective
 * Question: Would You Say That In Order...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:47
+  :genre: qa
+  :keywords:
+  :cite-key: SE:47
   :END:
 
 
@@ -847,9 +847,9 @@ About sex I wish to say that one has to transcend it slowly and steadily. If one
 * Question: There Are Many Paths In The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:48
+  :genre: qa
+  :keywords:
+  :cite-key: SE:48
   :END:
 
 
@@ -864,9 +864,9 @@ I can speak only on my philosophy; you can speak on your philosophy or your reli
 * Question: In Your Writings You Quote Quite...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:49
+  :genre: qa
+  :keywords:
+  :cite-key: SE:49
   :END:
 
 
@@ -881,9 +881,9 @@ When it comes to Truth, there are no such things as East or West. We have got li
 * Question: I Would Like To Know How...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:50
+  :genre: qa
+  :keywords:
+  :cite-key: SE:50
   :END:
 
 
@@ -902,9 +902,9 @@ We know that everybody wants satisfaction, but it depends on how the individual 
 * Question: Would You Please Comment On Something...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SE:51
+  :genre: qa
+  :keywords:
+  :cite-key: SE:51
   :END:
 
 

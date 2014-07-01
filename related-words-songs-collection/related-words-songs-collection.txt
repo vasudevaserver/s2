@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 946
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: RWS
-  :GENRE: song
+  :book-number: 946
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: RWS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: RWS:1e1
+  :genre: note
+  :cite-key: RWS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: RWS:1e2
+  :genre: note
+  :cite-key: RWS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ Related Words Songs
 * Jete Habe Jete Sabakar Sheshe Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:1
+  :cite-key: RWS:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Tomare tushite mago
 * Habe Amar Ahamika Samapti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:2
+  :cite-key: RWS:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Habe amar ahamika samapti
 * Ahamika Dure Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:3
+  :cite-key: RWS:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ Dure bahu dure
 * Dure Dure Swapan Deshe Tomar Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:4
+  :cite-key: RWS:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ Tomar kripa raje
 * Kripar Baridhi Tumije Bidhata Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:5
+  :cite-key: RWS:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Kripar baridhi
 * Bidhata Amai Kareche Srijan Tahar Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:6
+  :cite-key: RWS:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Tahar tripti lagi
 * Kothai Shanti Kothai Mukti Kothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:7
+  :cite-key: RWS:7
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Kothai rupantar
 * Hiya Diye Pujte Habe Mago Tomai Bhore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:8
+  :cite-key: RWS:8
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Tomai bhore sanjhe
 * Dake Jadi Sandeha Nahi Dibo Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:9
+  :cite-key: RWS:9
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Nahi dibo sara kabhu
 * Jane Jane Janani Mor Amar Sakal Gopan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:10
+  :cite-key: RWS:10
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ Amar sakal gopan katha
 * Gopane Kandi Gopane Hasi Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:11
+  :cite-key: RWS:11
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Gopane gahi gan
 * Gahi Jena Animeshe Tomar Bijoy Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:12
+  :cite-key: RWS:12
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Tomar bijoy gan
 * Animesh Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:13
+  :cite-key: RWS:13
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Tomare pujibo janani
 * Maraner Deshe Jabo Ami Aj Marane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:14
+  :cite-key: RWS:14
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ Marane karite joy
 * Maran Jatan Keno Kari Bhoy Maran Jatan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:15
+  :cite-key: RWS:15
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Maran jatan
 * Keno Nahi Dhari Tomar Charan Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:16
+  :cite-key: RWS:16
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Shanti labhite
 * Kothai Kothai Kanur Benu Kanur Dhenu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:17
+  :cite-key: RWS:17
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Kanur benu Kanur dhenu
 * Kanur Lagi Kebal Amai Jiban Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:18
+  :cite-key: RWS:18
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Jiban maran
 * Jibaner Sheshe Hese Hese Hese Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:19
+  :cite-key: RWS:19
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Shanti sagare dubibo
 * Chahigo Janani Nidra Bihin Tomar Karuna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:20
+  :cite-key: RWS:20
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Tomar karuna ankhi
 * Nidra Bihin Sangi Bihin Shanti Bihin Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:21
+  :cite-key: RWS:21
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Shanti bihin ami
 * Atma Bijoyi Dharai Je Pabe Amarar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:22
+  :cite-key: RWS:22
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Amarar sandhan
 * Pabe Je Amar Ashanta Man Ekada Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:23
+  :cite-key: RWS:23
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Ekada shanti bhabe
 * Man Kande Na Hiya Lagi Hiya Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:24
+  :cite-key: RWS:24
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ Hiya kande dibanishi maner lagi
 * Dibanishi Ami Kena Bhule Thaki Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:25
+  :cite-key: RWS:25
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ Tomar amiya charane
 * Bhule Jete Chahi Bhule Jete Chahi Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:26
+  :cite-key: RWS:26
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Maner sakal truti
 * Byatha.. Ei Duniyar Pratiti Jibane Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:27
+  :cite-key: RWS:27
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ Ei duniyar pratiti jibane byatha
 * Ananda Srot Kothai Tomar He Mor Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:28
+  :cite-key: RWS:28
   :END:
 
 #+BEGIN_VERSE
@@ -516,10 +516,10 @@ He mor jiban tatini
 * Jiban Tarani Jiban Tatini Chale Druta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:29
+  :cite-key: RWS:29
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Asime basiya bhalo
 * Shanti Kothai Shanti Kothai Kebal Malin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:30
+  :cite-key: RWS:30
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Kebal malin bhranti
 * Tomar Kache Jete Mago Kare Amar Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:31
+  :cite-key: RWS:31
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Kare amar bhoy
 * Tripti Kothai Tripti Kothai Kebal Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:32
+  :cite-key: RWS:32
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Kebal khudha
 * Rupantarer Banshari Bajai Kanurai Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:33
+  :cite-key: RWS:33
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Kanurai hiya pure
 * Sanjher Tara Amai Dake Hese Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:34
+  :cite-key: RWS:34
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Hese hese neche neche
 * Sandeha Chor Tumije Kurup Ekatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:35
+  :cite-key: RWS:35
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ E katha sabai jane
 * Pujibo Tomare Jibane Marane Ei Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1990
-  :CITE-KEY: RWS:36
+  :cite-key: RWS:36
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Ei mor puta pan
 * Sagarer Sathe Budharer Sathe Bishaler
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:37
+  :cite-key: RWS:37
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Khelite chahigo khelite
 * Sangi Chahina Bhakta Chahina Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:38
+  :cite-key: RWS:38
   :END:
 
 #+BEGIN_VERSE
@@ -689,10 +689,10 @@ Chahi shudhu hate atma bijoyi
 * Sakal Byatha Saite Pari Ektu Tomar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:39
+  :cite-key: RWS:39
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Ektu tomar hasi pele
 * Pratiti Jibane Ananda Dheu Herite Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1990
-  :CITE-KEY: RWS:40
+  :cite-key: RWS:40
   :END:
 
 #+BEGIN_VERSE

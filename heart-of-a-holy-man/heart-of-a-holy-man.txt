@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0025
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY:HHM
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0025
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key:HHM
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: The heart of a holy man
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The heart of a holy man (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:1
+  :genre: play
+  :keywords:
+  :cite-key: HHM:1
   :END:
 
 
@@ -52,9 +52,9 @@ THIRD DISCIPLE
 
   :PROPERTIES:
   :SUBTITLE: Scene I
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:2
+  :genre: play
+  :keywords:
+  :cite-key: HHM:2
   :END:
 
 
@@ -95,9 +95,9 @@ MASTER: From now on, every day try to be always ready to open your heart's door 
 * Part II: Aruni
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:3e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:3e1
   :END:
 
 
@@ -105,9 +105,9 @@ MASTER: From now on, every day try to be always ready to open your heart's door 
 * Aruni (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:3
+  :genre: play
+  :keywords:
+  :cite-key: HHM:3
   :END:
 
 
@@ -122,9 +122,9 @@ WIFE OF AYODADHOMMYA
 * Aruni (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:4
+  :genre: play
+  :keywords:
+  :cite-key: HHM:4
   :END:
 
 
@@ -173,9 +173,9 @@ AYODADHOMMYA: Let us see.
 * Aruni (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:5
+  :genre: play
+  :keywords:
+  :cite-key: HHM:5
   :END:
 
 
@@ -192,9 +192,9 @@ AYODADHOMMYA: You stay home and make a meal for us. Let me go and bring him back
 * Aruni (act I, Scene Iii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:6
+  :genre: play
+  :keywords:
+  :cite-key: HHM:6
   :END:
 
 
@@ -221,9 +221,9 @@ AYODADHOMMYA /(blessing him):/ Aruni, you have pleased me beyond your imaginatio
 * Part III: Don't encourage the undeserving ones
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:7e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:7e1
   :END:
 
 
@@ -231,9 +231,9 @@ AYODADHOMMYA /(blessing him):/ Aruni, you have pleased me beyond your imaginatio
 * Don't encourage the undeserving ones (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:7
+  :genre: play
+  :keywords:
+  :cite-key: HHM:7
   :END:
 
 
@@ -256,9 +256,9 @@ ANGEL
 * Don't encourage the undeserving ones (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:8
+  :genre: play
+  :keywords:
+  :cite-key: HHM:8
   :END:
 
 
@@ -339,9 +339,9 @@ So be wise, O Sage. Only help those who deserve your love, affection and blessin
 * Part IV: Light is the only wealth worth having
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:9e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:9e1
   :END:
 
 
@@ -349,9 +349,9 @@ So be wise, O Sage. Only help those who deserve your love, affection and blessin
 * Light is the only wealth worth having (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:9
+  :genre: play
+  :keywords:
+  :cite-key: HHM:9
   :END:
 
 
@@ -376,9 +376,9 @@ AN ANGEL
 * Light is the only wealth worth having (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:10
+  :genre: play
+  :keywords:
+  :cite-key: HHM:10
   :END:
 
 
@@ -399,9 +399,9 @@ KING: Ah, that is a splendid idea! I, too, thought of it. Tomorrow morning let u
 * Light is the only wealth worth having (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:11
+  :genre: play
+  :keywords:
+  :cite-key: HHM:11
   :END:
 
 
@@ -430,9 +430,9 @@ PRIME MINISTER: It is not necessary at all, since this is the first time. Let me
 * Light is the only wealth worth having (act I, Scene Iii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:12
+  :genre: play
+  :keywords:
+  :cite-key: HHM:12
   :END:
 
 
@@ -469,9 +469,9 @@ THIRD SEEKER /(to the thief):/ It is beneath our dignity to sit beside you. You 
 * Light is the only wealth worth having (act I, Scene Iv)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:13
+  :genre: play
+  :keywords:
+  :cite-key: HHM:13
   :END:
 
 
@@ -494,9 +494,9 @@ ANGEL: I am most pleased with you, my son. Take the inner wealth I give to you: 
 * Part V: Saraswati
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:14e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:14e1
   :END:
 
 
@@ -504,9 +504,9 @@ ANGEL: I am most pleased with you, my son. Take the inner wealth I give to you: 
 * Saraswati (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:14
+  :genre: play
+  :keywords:
+  :cite-key: HHM:14
   :END:
 
 
@@ -535,9 +535,9 @@ SHIVA
 * Saraswati (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:15
+  :genre: play
+  :keywords:
+  :cite-key: HHM:15
   :END:
 
 
@@ -570,9 +570,9 @@ SARASWATI: O Sage, certainly I shall do it.
 * Saraswati (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:16
+  :genre: play
+  :keywords:
+  :cite-key: HHM:16
   :END:
 
 
@@ -593,9 +593,9 @@ VASHISHTHA: Saraswati, do not worry. I will come with you.
 * Saraswati (act I, Scene Iii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:17
+  :genre: play
+  :keywords:
+  :cite-key: HHM:17
   :END:
 
 
@@ -614,9 +614,9 @@ SARASWATI /(grabbing Vashishtha):/ Come! Come! Come! Let us go!
 * Saraswati (act I, Scene Iv)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:18
+  :genre: play
+  :keywords:
+  :cite-key: HHM:18
   :END:
 
 
@@ -639,9 +639,9 @@ SARASWATI: Yes, you went, and you are ready to go again. You are most kind to me
 * Saraswati (act I, Scene V)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:19
+  :genre: play
+  :keywords:
+  :cite-key: HHM:19
   :END:
 
 
@@ -658,9 +658,9 @@ VISHWAMITRA: Yes, everybody will loathe you. Nobody will come near you. Nobody w
 * Saraswati (act I, Scene Vi)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:20
+  :genre: play
+  :keywords:
+  :cite-key: HHM:20
   :END:
 
 
@@ -681,9 +681,9 @@ SHIVA: I have heard your prayer. I am making Saraswati once again clear and pure
 * Part VI: The saint and the King
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:21e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:21e1
   :END:
 
 
@@ -691,9 +691,9 @@ SHIVA: I have heard your prayer. I am making Saraswati once again clear and pure
 * The saint and the King (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:21
+  :genre: play
+  :keywords:
+  :cite-key: HHM:21
   :END:
 
 
@@ -708,9 +708,9 @@ A SERVANT OF THE KING
 * The saint and the King (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:22
+  :genre: play
+  :keywords:
+  :cite-key: HHM:22
   :END:
 
 
@@ -729,9 +729,9 @@ KING: Yes, O Guru, I shall do it. Every day I shall come in the morning and in t
 * The saint and the King (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:23
+  :genre: play
+  :keywords:
+  :cite-key: HHM:23
   :END:
 
 
@@ -742,9 +742,9 @@ KING: Yes, O Guru, I shall do it. Every day I shall come in the morning and in t
 * The saint and the King (act I, Scene Iii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:24
+  :genre: play
+  :keywords:
+  :cite-key: HHM:24
   :END:
 
 
@@ -773,9 +773,9 @@ SAINT: The real culprit is your Guru. He allowed this ignorance. He allowed this
 * Part VII: The seeker and the thief
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:25e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:25e1
   :END:
 
 
@@ -783,9 +783,9 @@ SAINT: The real culprit is your Guru. He allowed this ignorance. He allowed this
 * The seeker and the thief (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:25
+  :genre: play
+  :keywords:
+  :cite-key: HHM:25
   :END:
 
 
@@ -798,9 +798,9 @@ THIEF
 * The seeker and the thief (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:26
+  :genre: play
+  :keywords:
+  :cite-key: HHM:26
   :END:
 
 
@@ -835,9 +835,9 @@ SEEKER: Those are both excellent ideas. Use this watch to see that you get up ea
 * Part VIII: Gautami
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:27e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:27e1
   :END:
 
 
@@ -845,9 +845,9 @@ SEEKER: Those are both excellent ideas. Use this watch to see that you get up ea
 * Gautami (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:27
+  :genre: play
+  :keywords:
+  :cite-key: HHM:27
   :END:
 
 
@@ -868,9 +868,9 @@ TIME
 * Gautami (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:28
+  :genre: play
+  :keywords:
+  :cite-key: HHM:28
   :END:
 
 
@@ -941,9 +941,9 @@ GAUTAMI: O hunter, go away. I knew this; I felt it. Everything here on earth is 
 * Part IX: Kuru
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:29e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:29e1
   :END:
 
 
@@ -951,9 +951,9 @@ GAUTAMI: O hunter, go away. I knew this; I felt it. Everything here on earth is 
 * Kuru (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:29
+  :genre: play
+  :keywords:
+  :cite-key: HHM:29
   :END:
 
 
@@ -968,9 +968,9 @@ INDRA
 * Kuru (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:30
+  :genre: play
+  :keywords:
+  :cite-key: HHM:30
   :END:
 
 
@@ -997,9 +997,9 @@ INDRA: I fulfil your desire. This will be one of the most sacred places in India
 * Part X: Udpantirtha
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:31e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:31e1
   :END:
 
 
@@ -1007,9 +1007,9 @@ INDRA: I fulfil your desire. This will be one of the most sacred places in India
 * Udpantirtha (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:31
+  :genre: play
+  :keywords:
+  :cite-key: HHM:31
   :END:
 
 
@@ -1028,9 +1028,9 @@ THE SUPREME GOD
 * Udpantirtha (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:32
+  :genre: play
+  :keywords:
+  :cite-key: HHM:32
   :END:
 
 
@@ -1051,9 +1051,9 @@ DWITA: That is a splendid idea. Let us go and get all we can, whatever wealth hi
 * Udpantirtha (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:33
+  :genre: play
+  :keywords:
+  :cite-key: HHM:33
   :END:
 
 
@@ -1096,9 +1096,9 @@ TRITA: Thank you, O Lord. I shall do nothing but pray and meditate until you com
 * Udpantirtha (act I, Scene Iii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:34
+  :genre: play
+  :keywords:
+  :cite-key: HHM:34
   :END:
 
 
@@ -1115,9 +1115,9 @@ GAUTAMA: I understand, O Lord, that my real sons are those who think of You and 
 * Udpantirtha (act I, Scene Iv)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:35
+  :genre: play
+  :keywords:
+  :cite-key: HHM:35
   :END:
 
 
@@ -1136,9 +1136,9 @@ COSMIC GOD: Granted.
 * Udpantirtha (act I, Scene V)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:36
+  :genre: play
+  :keywords:
+  :cite-key: HHM:36
   :END:
 
 
@@ -1177,9 +1177,9 @@ TRITA: More lies? Still? Now listen. If you really did not hear me crying for he
 * Part XI: The discovery of shoes and umbrella
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:37e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:37e1
   :END:
 
 
@@ -1187,9 +1187,9 @@ TRITA: More lies? Still? Now listen. If you really did not hear me crying for he
 * The discovery of shoes and umbrella (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:37
+  :genre: play
+  :keywords:
+  :cite-key: HHM:37
   :END:
 
 
@@ -1204,9 +1204,9 @@ SURYA, THE SUN GOD
 * The discovery of shoes and umbrella (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:38
+  :genre: play
+  :keywords:
+  :cite-key: HHM:38
   :END:
 
 
@@ -1233,9 +1233,9 @@ RENUKA: If you want to practise all day, I have no objection. On the contrary, I
 * The discovery of shoes and umbrella (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:39
+  :genre: play
+  :keywords:
+  :cite-key: HHM:39
   :END:
 
 
@@ -1292,9 +1292,9 @@ JAMADAGNI AND RENUKA /(together):/ O Lord Surya, you came to us in the garb of a
 * Part XII: The master with his four disciples
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: HHM:40e1
+  :genre: section
+  :keywords:
+  :cite-key: HHM:40e1
   :END:
 
 
@@ -1302,9 +1302,9 @@ JAMADAGNI AND RENUKA /(together):/ O Lord Surya, you came to us in the garb of a
 * The master with his four disciples (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:40
+  :genre: play
+  :keywords:
+  :cite-key: HHM:40
   :END:
 
 
@@ -1323,9 +1323,9 @@ INSECURITY
 * The master with his four disciples (act I, Scene I)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:41
+  :genre: play
+  :keywords:
+  :cite-key: HHM:41
   :END:
 
 
@@ -1354,9 +1354,9 @@ MASTER: Don't eat anything today. Fast. Don't have even a glass of water. Come b
 * The master with his four disciples (act I, Scene Ii)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: HHM:42
+  :genre: play
+  :keywords:
+  :cite-key: HHM:42
   :END:
 
 

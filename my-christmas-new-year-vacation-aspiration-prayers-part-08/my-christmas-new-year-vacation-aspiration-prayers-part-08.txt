@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1414
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2002
-  :PUBLISHER: Agni Press
-  :CITE-KEY: APR-8
-  :GENRE: prayer
-  :KEYWORDS:
+  :book-number: 1414
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2002
+  :publisher: Agni Press
+  :cite-key: APR-8
+  :genre: prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:755e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:755e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * 24 November 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:755e2
+  :genre: note
+  :keywords:
+  :cite-key: APR:755e2
   :END:
 
 
@@ -50,9 +50,9 @@ KAUAI, HAWAII
 * 1 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:755
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:755
   :END:
 
 
@@ -68,9 +68,9 @@ Compassion-Light.
 * 2 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:756
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:756
   :END:
 
 
@@ -86,9 +86,9 @@ Rejection-pride.
 * 3 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:757
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:757
   :END:
 
 
@@ -104,9 +104,9 @@ Mother-Advice.
 * 4 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:758
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:758
   :END:
 
 
@@ -122,9 +122,9 @@ Disobedience-pleasure.
 * 5 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:759
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:759
   :END:
 
 
@@ -140,9 +140,9 @@ Illumination-Boon.
 * 6 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:760
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:760
   :END:
 
 
@@ -158,9 +158,9 @@ Ignorance-choice.
 * 7 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:761
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:761
   :END:
 
 
@@ -176,9 +176,9 @@ Are streaming tears.
 * 8 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:762
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:762
   :END:
 
 
@@ -194,9 +194,9 @@ Uncaring mind.
 * 9 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:763
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:763
   :END:
 
 
@@ -212,9 +212,9 @@ Sweetness-Whisper.
 * 10 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:764
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:764
   :END:
 
 
@@ -230,9 +230,9 @@ Deafness-ears.
 * 11 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:765
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:765
   :END:
 
 
@@ -248,9 +248,9 @@ Forward-marching Will.
 * 12 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:766
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:766
   :END:
 
 
@@ -266,9 +266,9 @@ Backward-crawling desire.
 * 13 I Am Convinced ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:767
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:767
   :END:
 
 
@@ -284,9 +284,9 @@ Pleased with me.
 * 14 Alas, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:768
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:768
   :END:
 
 
@@ -302,9 +302,9 @@ With myself.
 * 15 God Takes Pride ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:769
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:769
   :END:
 
 
@@ -320,9 +320,9 @@ As His partner.
 * 16 I Take Pride ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:770
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:770
   :END:
 
 
@@ -338,9 +338,9 @@ God's servitor.
 * 17 God Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:771
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:771
   :END:
 
 
@@ -358,9 +358,9 @@ Tell Me what you have to say."
 * 18 I Tell God, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:772
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:772
   :END:
 
 
@@ -379,9 +379,9 @@ Is waiting for me."
 * 19 God Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:773
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:773
   :END:
 
 
@@ -400,9 +400,9 @@ Even an iota of peace."
 * 20 I Tell God, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:774
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:774
   :END:
 
 
@@ -423,9 +423,9 @@ In You and for You."
 * 21 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:775
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:775
   :END:
 
 
@@ -441,9 +441,9 @@ Of God's Anger-Eye.
 * 22 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:776
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:776
   :END:
 
 
@@ -459,9 +459,9 @@ Of man's sorrow-heart.
 * 23 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:777
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:777
   :END:
 
 
@@ -478,9 +478,9 @@ Even once a month.
 * 24 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:778
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:778
   :END:
 
 
@@ -496,9 +496,9 @@ God hides all the time.
 * 25 November 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:779e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:779e1
   :END:
 
 
@@ -511,9 +511,9 @@ KAUAI, HAWAII
 * 25 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:779
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:779
   :END:
 
 
@@ -533,9 +533,9 @@ And evening Meals.
 * 26 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:780
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:780
   :END:
 
 
@@ -552,9 +552,9 @@ In my life.
 * 27 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:781
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:781
   :END:
 
 
@@ -575,9 +575,9 @@ I am wide awake."
 * 28 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:782
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:782
   :END:
 
 
@@ -597,9 +597,9 @@ To manifest You.
 * 29 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:783
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:783
   :END:
 
 
@@ -617,9 +617,9 @@ In oblivion-cave.
 * 26 November 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:784e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:784e1
   :END:
 
 
@@ -632,9 +632,9 @@ KAUAI, HAWAII
 * 30 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:784
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:784
   :END:
 
 
@@ -651,9 +651,9 @@ Its bleeding tears to God.
 * 31 Hope And Faith ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:785
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:785
   :END:
 
 
@@ -670,9 +670,9 @@ The outer cruel fate.
 * 32 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:786
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:786
   :END:
 
 
@@ -690,9 +690,9 @@ His God-identification-life.
 * 33 The Inner God-Surrender-Heart ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:787
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:787
   :END:
 
 
@@ -708,9 +708,9 @@ The outer world-prosperity-life.
 * 34 The Mind-Admirer ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:788
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:788
   :END:
 
 
@@ -727,9 +727,9 @@ The heart-sky-climber.
 * 35 My Prayer-Life ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:789
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:789
   :END:
 
 
@@ -745,9 +745,9 @@ Where it must go.
 * 36 My Meditation-Life ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:790
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:790
   :END:
 
 
@@ -763,9 +763,9 @@ What it must become.
 * 37 Aspire, Aspire! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:791
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:791
   :END:
 
 
@@ -782,9 +782,9 @@ All His supreme Secrets.
 * 38 My Prayer Loves ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:792
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:792
   :END:
 
 
@@ -800,9 +800,9 @@ Inside my mind-cave.
 * 39 My Meditation Loves ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:793
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:793
   :END:
 
 
@@ -818,9 +818,9 @@ Inside my soul-temple.
 * 28 November 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:794e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:794e1
   :END:
 
 
@@ -833,9 +833,9 @@ KAUAI, HAWAII
 * 40 Wherever I Go, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:794
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:794
   :END:
 
 
@@ -853,9 +853,9 @@ Walks side by side with me.
 * 41 There Is Only ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:795
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:795
   :END:
 
 
@@ -871,9 +871,9 @@ God-Infinity's Delight.
 * 42 My Faith In God ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:796
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:796
   :END:
 
 
@@ -890,9 +890,9 @@ Is my outer confidence.
 * 43 My God-Obedience ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:797
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:797
   :END:
 
 
@@ -907,9 +907,9 @@ Is my God-centred life.
 * 44 God And I Always Speak ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:798
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:798
   :END:
 
 
@@ -925,9 +925,9 @@ And life-oneness.
 * 45 The Love Of Power ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:799
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:799
   :END:
 
 
@@ -944,9 +944,9 @@ Liberates the inner world.
 * 46 Alas, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:800
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:800
   :END:
 
 
@@ -966,9 +966,9 @@ Finally, I decline the invitation.
 * 47 My Prayer-Tears ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:801
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:801
   :END:
 
 
@@ -985,9 +985,9 @@ Immediately bring God to me.
 * 48 I Must Keep My Aspiration-Heart ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:802
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:802
   :END:
 
 
@@ -1004,9 +1004,9 @@ The limitations of my fate.
 * 49 The Sweetness Of The Heart ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:803
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:803
   :END:
 
 
@@ -1022,9 +1022,9 @@ The bitterness of the mind.
 * 30 November 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:804e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:804e1
   :END:
 
 
@@ -1037,9 +1037,9 @@ KAUAI, HAWAII
 * 50 My Heart-Tears ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:804
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:804
   :END:
 
 
@@ -1056,9 +1056,9 @@ Pride-walls.
 * 51 I Am Hopeless, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:805
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:805
   :END:
 
 
@@ -1076,9 +1076,9 @@ And I am for God.
 * 52 My Heart-Flower ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:806
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:806
   :END:
 
 
@@ -1095,9 +1095,9 @@ Is God-Duty.
 * 53 I Am My ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:807
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:807
   :END:
 
 
@@ -1116,9 +1116,9 @@ From me.
 * 54 My Lord Supreme Tells Me ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:808
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:808
   :END:
 
 
@@ -1134,9 +1134,9 @@ Embodies His complete Fulness.
 * 55 To Have The Mind ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:809
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:809
   :END:
 
 
@@ -1153,9 +1153,9 @@ Is to invite confusion-disaster.
 * 56 With My Heart's ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:810
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:810
   :END:
 
 
@@ -1172,9 +1172,9 @@ Of my Beloved Lord's Feet.
 * 1 December 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:811e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:811e1
   :END:
 
 
@@ -1187,9 +1187,9 @@ KAUAI, HAWAII
 * 57 Supreme! ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:811
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:811
   :END:
 
 
@@ -1207,9 +1207,9 @@ In love and trust.
 * 58 My Lord, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:812
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:812
   :END:
 
 
@@ -1227,9 +1227,9 @@ And outer problems.
 * 59 My Lord, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:813
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:813
   :END:
 
 
@@ -1245,9 +1245,9 @@ To mar my heart's inner peace.
 * 60 My Lord, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:814
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:814
   :END:
 
 
@@ -1264,9 +1264,9 @@ To eclipse my heart-sun.
 * 61 Every Day The Compassion-Eye ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:815
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:815
   :END:
 
 
@@ -1283,9 +1283,9 @@ In so many unexpected ways.
 * 62 Every Day My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:816
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:816
   :END:
 
 
@@ -1305,9 +1305,9 @@ And startling.
 * 63 My Lord Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:817
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:817
   :END:
 
 
@@ -1325,9 +1325,9 @@ I shall do the rest."
 * 64 God Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:818
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:818
   :END:
 
 
@@ -1345,9 +1345,9 @@ Is My immediate Choice."
 * 65 My Love Of God ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:819
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:819
   :END:
 
 
@@ -1365,9 +1365,9 @@ Religion-curtains.
 * 66 For Me ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:820
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:820
   :END:
 
 
@@ -1387,9 +1387,9 @@ And my God-dedication.
 * 67 I Must Keep Quiet....
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:821
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:821
   :END:
 
 
@@ -1407,9 +1407,9 @@ To come and speak to me.
 * 2 December 2001 ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: APR:822e1
+  :genre: note
+  :keywords:
+  :cite-key: APR:822e1
   :END:
 
 
@@ -1422,9 +1422,9 @@ KAUAI, HAWAII
 * 68 My Lord Tells Me ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:822
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:822
   :END:
 
 
@@ -1445,9 +1445,9 @@ In loving watchfulness.
 * 69 My Lord Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:823
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:823
   :END:
 
 
@@ -1466,9 +1466,9 @@ Your heavy burden-bearer."
 * 70 I Must Realise ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:824
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:824
   :END:
 
 
@@ -1485,9 +1485,9 @@ To my tears.
 * 71 I Must Realise ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:825
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:825
   :END:
 
 
@@ -1504,9 +1504,9 @@ To my cries.
 * 72 My Lord Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:826
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:826
   :END:
 
 
@@ -1526,9 +1526,9 @@ Your cheerful and sure supplies."
 * 73 My Lord Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:827
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:827
   :END:
 
 
@@ -1548,9 +1548,9 @@ Trials and tribulations?"
 * 74 No Matter What The World ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:828
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:828
   :END:
 
 
@@ -1572,9 +1572,9 @@ As long as I am in the world of the living.
 * 75 My Lord Tells Me, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:829
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:829
   :END:
 
 
@@ -1595,9 +1595,9 @@ Of the world."
 * 76 My Lord, ...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:830
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:830
   :END:
 
 
@@ -1620,9 +1620,9 @@ And I am Your divine instrument.
 * 77 Why Does God Have To Tell Me...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: APR:831
+  :genre: prayer
+  :keywords:
+  :cite-key: APR:831
   :END:
 
 

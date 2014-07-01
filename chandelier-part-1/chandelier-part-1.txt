@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 442
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1980
-  :PUBLISHER:
-  :CITE-KEY: CH-1
-  :GENRE: song
+  :book-number: 442
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1980
+  :publisher:
+  :cite-key: CH-1
+  :genre: song
   :END:
 
 
@@ -21,8 +21,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CH:1e1
+  :genre: note
+  :cite-key: CH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CH:1e2
+  :genre: note
+  :cite-key: CH:1e2
   :END:
 
 
@@ -44,10 +44,10 @@ A collection of English songs from “My Flute” and “The Dance of Life”, p
 * My Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-08-1973
-  :CITE-KEY: CH:1
+  :cite-key: CH:1
   :END:
 
 #+BEGIN_VERSE
@@ -67,10 +67,10 @@ Is immortal in God.
 * To See Her Is to Own Her
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-08-1973
-  :CITE-KEY: CH:2
+  :cite-key: CH:2
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ But one sweet fact they all affirmed:
 * Although
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:3
+  :cite-key: CH:3
   :END:
 
 #+BEGIN_VERSE
@@ -115,10 +115,10 @@ We fly in His Bosom vast, in us He flies.
 * Body, Be Not Impure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:4
+  :cite-key: CH:4
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ Death, be not so sure.
 * The Golden Flute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:5
+  :cite-key: CH:5
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ Now safe am I, O Absolute!
 * A Hundred Years
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:6
+  :cite-key: CH:6
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ My Lord with my Spirit’s Key.
 * I Am a Fool
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:7
+  :cite-key: CH:7
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ Yet I am a fool, they say.
 * I Am a Thief
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:8
+  :cite-key: CH:8
   :END:
 
 #+BEGIN_VERSE
@@ -240,10 +240,10 @@ With the Nectar of His shadowless Ray.
 * I Cry, I Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:9
+  :cite-key: CH:9
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Shall sing and dance, to clasp Thy Victory-Height.
 * I Shall Not Sleep
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:10
+  :cite-key: CH:10
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ I shall now touch my freedom-sky.
 * I Sit Alone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:11
+  :cite-key: CH:11
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ I fly alone in the earth-bound sky.
 * Into the World I Came, Not for Enormous Fame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:12
+  :cite-key: CH:12
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ To see Thy earthly frame.
 * My Body Sleeps
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:13
+  :cite-key: CH:13
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ Keeps crying in bondage-mart.
 * My Ego and My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:14
+  :cite-key: CH:14
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ My soul and my Spirit’s flame.
 * At Last I Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:15
+  :cite-key: CH:15
   :END:
 
 #+BEGIN_VERSE
@@ -388,10 +388,10 @@ My home is where my flame-worlds roam.
 * My Task
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:16
+  :cite-key: CH:16
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Victory all-where when surrender sure.”
 * No Good
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:17
+  :cite-key: CH:17
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ And pure perfection-height.
 * The Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:18
+  :cite-key: CH:18
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Father, I Am.
 * O United Nations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:19
+  :cite-key: CH:19
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ O Vision-Perfection in all!
 * O Wilson’s League of Nations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:20
+  :cite-key: CH:20
   :END:
 
 #+BEGIN_VERSE
@@ -498,10 +498,10 @@ Dancing in the world of oneness-hour!
 * The Absolute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:21
+  :cite-key: CH:21
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ I barter nothing with time and deeds;
 * The First Woman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:22
+  :cite-key: CH:22
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ To be supreme.
 * I Am an Idiot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:23
+  :cite-key: CH:23
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ To human death His Soul He’ll give.
 * I Know Now
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:24
+  :cite-key: CH:24
   :END:
 
 #+BEGIN_VERSE
@@ -600,10 +600,10 @@ My heart can be the Light Chinmoy.
 * I Say, I Say
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:25
+  :cite-key: CH:25
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ In me You glow
 * Marriage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:26
+  :cite-key: CH:26
   :END:
 
 #+BEGIN_VERSE
@@ -647,10 +647,10 @@ In Silence and Power
 * O, Come and Sing With Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:27
+  :cite-key: CH:27
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ We shall shine, we shall shine
 * To Think of Her
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:28
+  :cite-key: CH:28
   :END:
 
 #+BEGIN_VERSE
@@ -697,10 +697,10 @@ Is to become Immortality’s Bliss.
 * Supreme Bhagaban Supremo Gott
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:29
+  :cite-key: CH:29
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Ishwara
 * Sweet, Sweeter, Sweetest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:30
+  :cite-key: CH:30
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Him I have realised as the Enjoyer Supreme.
 * Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1973
-  :CITE-KEY: CH:31
+  :cite-key: CH:31
   :END:
 
 #+BEGIN_VERSE
@@ -763,10 +763,10 @@ Tears, determined tears,
 * Heaven Is Afraid of Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:32
+  :cite-key: CH:32
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ My body’s Eternity
 * O Dream of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:33
+  :cite-key: CH:33
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +817,10 @@ Of dance above.
 * I Pray for You, O U.N. Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:34
+  :cite-key: CH:34
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +836,10 @@ No cry, no sigh, no darkness-role.
 * O Body of the World (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:35
+  :cite-key: CH:35
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ In your duty’s vision-glow.
 * I Know You Surely Can
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:36
+  :cite-key: CH:36
   :END:
 
 #+BEGIN_VERSE
@@ -879,10 +879,10 @@ To clasp your Promise-Dream.
 * With You Began
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:37
+  :cite-key: CH:37
   :END:
 
 #+BEGIN_VERSE
@@ -900,10 +900,10 @@ A flood-ecstasy.
 * Our Ascending Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:38
+  :cite-key: CH:38
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +922,10 @@ Shows us the Silence-Height.
 * The Lord’s Sun-Vision-Plan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:39
+  :cite-key: CH:39
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ A world-body’s translucent glow.
 * Our U.N. Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:40
+  :cite-key: CH:40
   :END:
 
 #+BEGIN_VERSE
@@ -962,10 +962,10 @@ A quest for the oneness-sky.
 * O Great U.N.!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:41
+  :cite-key: CH:41
   :END:
 
 #+BEGIN_VERSE
@@ -983,10 +983,10 @@ And God-Waves high beyond surmise.
 * They Say
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:42
+  :cite-key: CH:42
   :END:
 
 #+BEGIN_VERSE
@@ -1002,10 +1002,10 @@ I say, U.N. our Father’s constant Choice.
 * UNICEF
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:43
+  :cite-key: CH:43
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ A true triumph of the Lord Supreme.
 * O Human Rights
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:44
+  :cite-key: CH:44
   :END:
 
 #+BEGIN_VERSE
@@ -1050,10 +1050,10 @@ All oneness-bloom.
 * U.N. Meditation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:45
+  :cite-key: CH:45
   :END:
 
 #+BEGIN_VERSE
@@ -1071,10 +1071,10 @@ To stop for good the birth of cosmos-doom.
 * O World Gratitude Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-09-1977
-  :CITE-KEY: CH:46
+  :cite-key: CH:46
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ Can feed man and God’s need.
 * Oneness-Earth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-12-1977
-  :CITE-KEY: CH:47
+  :cite-key: CH:47
   :END:
 
 #+BEGIN_VERSE
@@ -1117,10 +1117,10 @@ Tomorrow’s God-man.
 * O Diplomat, O Delegate!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:48
+  :cite-key: CH:48
   :END:
 
 #+BEGIN_VERSE
@@ -1138,10 +1138,10 @@ Long live its pure delight.
 * We Believe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:49
+  :cite-key: CH:49
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ uncertain reality into all-fulfilling Divinity.
 * The United Nations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:50
+  :cite-key: CH:50
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ The United Nations is the Supreme Law of the world.
 * May I Be Offered
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:51
+  :cite-key: CH:51
   :END:
 
 #+BEGIN_VERSE
@@ -1199,10 +1199,10 @@ God took the form of man in the victim who chose to be sacrificed.
 * In the Wake of the Most Catastrophic War
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:52
+  :cite-key: CH:52
   :END:
 
 #+BEGIN_VERSE
@@ -1218,10 +1218,10 @@ it saw the glimmer of dawn of a warless world.
 * Gone Are the Days
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:53
+  :cite-key: CH:53
   :END:
 
 #+BEGIN_VERSE
@@ -1235,10 +1235,10 @@ Gone are the days when each Nation was an island unto itself.
 * I Know That the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:54
+  :cite-key: CH:54
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ I know that the world cannot do without the United Nations.
 * We Are Men and Women
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:55
+  :cite-key: CH:55
   :END:
 
 #+BEGIN_VERSE
@@ -1273,10 +1273,10 @@ progress of mankind.
 * Forward, Upward, Onward, Together
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:56
+  :cite-key: CH:56
   :END:
 
 #+BEGIN_VERSE
@@ -1290,10 +1290,10 @@ Forward, upward, onward, together.
 * Honour, Justice and Liberty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-09-1979
-  :CITE-KEY: CH:57
+  :cite-key: CH:57
   :END:
 
 #+BEGIN_VERSE
@@ -1307,10 +1307,10 @@ Honour, Justice and Liberty.
 * The League of Nations
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:58
+  :cite-key: CH:58
   :END:
 
 #+BEGIN_VERSE
@@ -1326,10 +1326,10 @@ but I am always thankful that it exists.
 * Make a Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:59
+  :cite-key: CH:59
   :END:
 
 #+BEGIN_VERSE
@@ -1343,10 +1343,10 @@ Make a peace that does not conceal a future war.
 * Nothing I Can Do or Say
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:60
+  :cite-key: CH:60
   :END:
 
 #+BEGIN_VERSE
@@ -1363,10 +1363,10 @@ among men and peace on earth.
 * Our Physical Separateness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:61
+  :cite-key: CH:61
   :END:
 
 #+BEGIN_VERSE
@@ -1381,10 +1381,10 @@ more clearly perceive our psychic interdependence.
 * My Fellow Inhabitants
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:62
+  :cite-key: CH:62
   :END:
 
 #+BEGIN_VERSE
@@ -1401,10 +1401,10 @@ world towards a just and lasting peace.
 * In Order to Have a Free Access
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:63
+  :cite-key: CH:63
   :END:
 
 #+BEGIN_VERSE
@@ -1422,10 +1422,10 @@ ultimately, the self-transcendent man.
 * All Men Are Created Equal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:64
+  :cite-key: CH:64
   :END:
 
 #+BEGIN_VERSE
@@ -1441,10 +1441,10 @@ and come home.
 * I Have a Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:65
+  :cite-key: CH:65
   :END:
 
 #+BEGIN_VERSE
@@ -1461,10 +1461,10 @@ knowing that we will be free one day.
 * The Threat of Self-Extinction
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:66
+  :cite-key: CH:66
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ Humanity will have to follow it or perish.
 * We Are Confident
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:67
+  :cite-key: CH:67
   :END:
 
 #+BEGIN_VERSE
@@ -1503,10 +1503,10 @@ humanity in its progress towards world peace based on freedom.
 * We Come with an Open Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:68
+  :cite-key: CH:68
   :END:
 
 #+BEGIN_VERSE
@@ -1525,10 +1525,10 @@ wholly on the moral content of our stand.
 * Co-existence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:69
+  :cite-key: CH:69
   :END:
 
 #+BEGIN_VERSE

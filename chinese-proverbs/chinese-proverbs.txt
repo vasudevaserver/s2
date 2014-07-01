@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 950
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1994
-  :PUBLISHER:
-  :CITE-KEY: CHPR
-  :GENRE: song
+  :book-number: 950
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1994
+  :publisher:
+  :cite-key: CHPR
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CHPR:1e1
+  :genre: note
+  :cite-key: CHPR:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CHPR:1e2
+  :genre: note
+  :cite-key: CHPR:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ Chinese Proverbs
 * To Bow the Body Is Easy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:1
+  :cite-key: CHPR:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ To bow the body is easy. To bow the will is hard.
 * The Conquerors Are Kings
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:2
+  :cite-key: CHPR:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ The defeated are bandits.
 * If You Wish To Succeed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:3
+  :cite-key: CHPR:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ If you wish to succeed, consult three old people.
 * Dogs Show No Aversion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:4
+  :cite-key: CHPR:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Dogs show no aversion to poor families.
 * I Heard
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:5
+  :cite-key: CHPR:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Dogs show no aversion to poor families.
 * The Rich Add Riches to Riches
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:6
+  :cite-key: CHPR:6
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ The poor add years to years.
 * A Lean Dog Shames His Master
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:7
+  :cite-key: CHPR:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ A lean dog shames his master.
 * Men Know Not Their Own Faults
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:8
+  :cite-key: CHPR:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Oxen know not their own strength.
 * Beautiful or Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:9
+  :cite-key: CHPR:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Beautiful or not, it is my native land.
 * With Clothes, the New Are Best
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:10
+  :cite-key: CHPR:10
   :END:
 
 #+BEGIN_VERSE
@@ -215,10 +215,10 @@ With friends, the old are best.
 * Work Is Afraid
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:11
+  :cite-key: CHPR:11
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ Work is afraid of a resolute man.
 * At Birth We Bring Nothing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:12
+  :cite-key: CHPR:12
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ At death we take away nothing.
 * The Mind Is the Lord of Man’s Body
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:13
+  :cite-key: CHPR:13
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ The mind is the lord of man’s body.
 * A Good Talker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:14
+  :cite-key: CHPR:14
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ A good talker does not equal a good listener.
 * If You Flatter Anyone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:15
+  :cite-key: CHPR:15
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ If you flatter anyone, who will be your enemy?
 * Rich Men Have Short Memories
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:16
+  :cite-key: CHPR:16
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ Rich men have short memories.
 * Poverty Is the Common Fate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:17
+  :cite-key: CHPR:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Poverty is the common fate of scholars.
 * Books Do Not Exhaust Words
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:18
+  :cite-key: CHPR:18
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ Words do not exhaust thoughts.
 * The Heart of a Little Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:19
+  :cite-key: CHPR:19
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ The heart of a little child is like the heart of the Buddha.
 * To Save a Single Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:20
+  :cite-key: CHPR:20
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ To save a single life is better than building a seven-story pagoda.
 * Learning Is a Treasure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:21
+  :cite-key: CHPR:21
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ Learning is a treasure which follows its owner everywhere.
 * Without Sorrows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:22
+  :cite-key: CHPR:22
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ Without sorrows, none can become the Buddha.
 * The Best Way to Avoid Punishment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:23
+  :cite-key: CHPR:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ The best way to avoid punishment is to fear it.
 * The Bamboo Stick
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:24
+  :cite-key: CHPR:24
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ The bamboo stick makes a good child.
 * Preserve the Old
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:25
+  :cite-key: CHPR:25
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Preserve the old, but know the new.
 * Brothers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:26
+  :cite-key: CHPR:26
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Brothers are like hands and feet.
 * You Burn Incense
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:27
+  :cite-key: CHPR:27
   :END:
 
 #+BEGIN_VERSE
@@ -506,10 +506,10 @@ You burn incense and overturn the Buddha.
 * An Image Maker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:28
+  :cite-key: CHPR:28
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ An image maker never worships the Buddha.
 * Don’t Burn False Incense
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:29
+  :cite-key: CHPR:29
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ Don’t burn false incense before a true God.
 * Talk of Music
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:30
+  :cite-key: CHPR:30
   :END:
 
 #+BEGIN_VERSE
@@ -557,10 +557,10 @@ Talk of music only to a musician.
 * A Frog in a Well
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CHPR:31
+  :cite-key: CHPR:31
   :END:
 
 #+BEGIN_VERSE

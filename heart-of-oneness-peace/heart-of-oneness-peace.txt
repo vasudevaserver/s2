@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1316
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: HOP
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1316
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: HOP
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's preface to the first edition
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:1e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ Sri Chinmoy offered the poems in this book during Peace Concerts in the United S
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:1e2
+  :genre: note
+  :keywords:
+  :cite-key: HOP:1e2
   :END:
 
 
@@ -49,9 +49,9 @@ New Haven, Connecticut \\
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:1
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:1
   :END:
 
 
@@ -68,9 +68,9 @@ God-hunger-life.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:2
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:2
   :END:
 
 
@@ -86,9 +86,9 @@ My mind's doubt-thunder.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:3
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:3
   :END:
 
 
@@ -105,9 +105,9 @@ Happiness-reality.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:4
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:4
   :END:
 
 
@@ -123,9 +123,9 @@ Of a truth-seeker and a God-lover.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:5
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:5
   :END:
 
 
@@ -142,9 +142,9 @@ Eternal life and infinite breath.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:6e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:6e1
   :END:
 
 
@@ -157,9 +157,9 @@ Providence, Rhode Island \\
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:6
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:6
   :END:
 
 
@@ -176,9 +176,9 @@ Lord Beloved Supreme.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:7
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:7
   :END:
 
 
@@ -194,9 +194,9 @@ My ego-mind's eclipse.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:8
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:8
   :END:
 
 
@@ -214,9 +214,9 @@ Unwillingness-weight.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:9
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:9
   :END:
 
 
@@ -233,9 +233,9 @@ Give me fruitful peace.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:10
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:10
   :END:
 
 
@@ -255,9 +255,9 @@ Peace in infinite measure.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:11e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:11e1
   :END:
 
 
@@ -270,9 +270,9 @@ New York City \\
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:11
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:11
   :END:
 
 
@@ -289,9 +289,9 @@ Sorrowful sigh.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:12
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:12
   :END:
 
 
@@ -318,9 +318,9 @@ And during the entire day."
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:13e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:13e1
   :END:
 
 
@@ -333,9 +333,9 @@ New York City \\
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:13
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:13
   :END:
 
 
@@ -353,9 +353,9 @@ My mind's ego-thunder.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:14
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:14
   :END:
 
 
@@ -374,9 +374,9 @@ In the very depths of my heart.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:15
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:15
   :END:
 
 
@@ -404,9 +404,9 @@ In infinite measure.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:16e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:16e1
   :END:
 
 
@@ -419,9 +419,9 @@ Ithaca, New York \\
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:16
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:16
   :END:
 
 
@@ -439,9 +439,9 @@ Peace, abundant peace.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:17
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:17
   :END:
 
 
@@ -458,9 +458,9 @@ Rings the oneness-bell.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:18
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:18
   :END:
 
 
@@ -481,9 +481,9 @@ Is what I eternally need.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:19
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:19
   :END:
 
 
@@ -503,9 +503,9 @@ To one another.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:20e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:20e1
   :END:
 
 
@@ -518,9 +518,9 @@ Princeton, New Jersey \\
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:20
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:20
   :END:
 
 
@@ -536,9 +536,9 @@ To God's Homeland.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:21
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:21
   :END:
 
 
@@ -554,9 +554,9 @@ To God's Compassion-Eye.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:22
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:22
   :END:
 
 
@@ -572,9 +572,9 @@ And His Compassion-Eye.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:23
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:23
   :END:
 
 
@@ -592,9 +592,9 @@ To attack my heart-lamb.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:24
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:24
   :END:
 
 
@@ -612,9 +612,9 @@ At His sweet Will.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:25e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:25e1
   :END:
 
 
@@ -627,9 +627,9 @@ Vienna, Austria \\
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:25
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:25
   :END:
 
 
@@ -647,9 +647,9 @@ To start singing.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:26
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:26
   :END:
 
 
@@ -670,9 +670,9 @@ Protection and Satisfaction.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:27
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:27
   :END:
 
 
@@ -691,9 +691,9 @@ A mounting flame of aspiration.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:28e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:28e1
   :END:
 
 
@@ -706,9 +706,9 @@ Vienna, Austria \\
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:28
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:28
   :END:
 
 
@@ -726,9 +726,9 @@ Of my Lord Beloved Supreme.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:29
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:29
   :END:
 
 
@@ -745,9 +745,9 @@ A better world.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:30
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:30
   :END:
 
 
@@ -764,9 +764,9 @@ His blessingful surprise Visit.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:31
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:31
   :END:
 
 
@@ -782,9 +782,9 @@ To my supreme gratitude-destination.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:32e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:32e1
   :END:
 
 
@@ -797,9 +797,9 @@ Ludwigshafen, Germany \\
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:32
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:32
   :END:
 
 
@@ -817,9 +817,9 @@ Of my soul.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:33
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:33
   :END:
 
 
@@ -837,9 +837,9 @@ Of my gratitude-heart.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:34
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:34
   :END:
 
 
@@ -857,9 +857,9 @@ With His Compassion-flooded Peace.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:35e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:35e1
   :END:
 
 
@@ -872,9 +872,9 @@ Heidelberg, Germany \\
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:35
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:35
   :END:
 
 
@@ -891,9 +891,9 @@ Have given me immense peace.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:36
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:36
   :END:
 
 
@@ -910,9 +910,9 @@ Along the road of self-doubt.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:37
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:37
   :END:
 
 
@@ -928,9 +928,9 @@ Of the heart's satisfaction-peace.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:38e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:38e1
   :END:
 
 
@@ -943,9 +943,9 @@ Baltimore, Maryland \\
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:38
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:38
   :END:
 
 
@@ -967,9 +967,9 @@ I need peace.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:39
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:39
   :END:
 
 
@@ -987,9 +987,9 @@ I need peace.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:40
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:40
   :END:
 
 
@@ -1006,9 +1006,9 @@ I need them; I need peace.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:41
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:41
   :END:
 
 
@@ -1025,9 +1025,9 @@ I am all peace.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:42
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:42
   :END:
 
 
@@ -1046,9 +1046,9 @@ Of peace infinite.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:43e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:43e1
   :END:
 
 
@@ -1061,9 +1061,9 @@ Palo Alto, California \\
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:43
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:43
   :END:
 
 
@@ -1081,9 +1081,9 @@ Without fail.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:44
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:44
   :END:
 
 
@@ -1101,9 +1101,9 @@ Every day.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:45
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:45
   :END:
 
 
@@ -1121,9 +1121,9 @@ To my age-old restlessness.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:46
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:46
   :END:
 
 
@@ -1141,9 +1141,9 @@ To my age-old insecurity.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:47e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:47e1
   :END:
 
 
@@ -1156,9 +1156,9 @@ Montreal, Canada \\
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:47
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:47
   :END:
 
 
@@ -1174,9 +1174,9 @@ Of my gratitude-heart.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:48
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:48
   :END:
 
 
@@ -1194,9 +1194,9 @@ In His Infinity's Sky.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:49
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:49
   :END:
 
 
@@ -1213,9 +1213,9 @@ Of my mind's teeming doubts.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:50
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:50
   :END:
 
 
@@ -1233,9 +1233,9 @@ Of my wisdom-flooded soul.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:51e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:51e1
   :END:
 
 
@@ -1248,9 +1248,9 @@ Portland, Oregon \\
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:51
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:51
   :END:
 
 
@@ -1268,9 +1268,9 @@ Oneness-light and fulness-delight.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:52
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:52
   :END:
 
 
@@ -1286,9 +1286,9 @@ With His Infinity's Peace.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:53
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:53
   :END:
 
 
@@ -1308,9 +1308,9 @@ And our life's dedication?
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:54
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:54
   :END:
 
 
@@ -1331,9 +1331,9 @@ All over the world.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:55
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:55
   :END:
 
 
@@ -1355,9 +1355,9 @@ Infinite and immortal.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:56e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:56e1
   :END:
 
 
@@ -1370,9 +1370,9 @@ Sydney, Australia \\
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:56
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:56
   :END:
 
 
@@ -1388,9 +1388,9 @@ Of my ceaseless prayer.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:57
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:57
   :END:
 
 
@@ -1406,9 +1406,9 @@ Of my sleepless meditation.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:58
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:58
   :END:
 
 
@@ -1425,9 +1425,9 @@ And deathless dream.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:59
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:59
   :END:
 
 
@@ -1443,9 +1443,9 @@ From the slumber of millennia.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:60
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:60
   :END:
 
 
@@ -1465,9 +1465,9 @@ Of my gratitude-sea.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:61e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:61e1
   :END:
 
 
@@ -1480,9 +1480,9 @@ Auckland, New Zealand \\
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:61
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:61
   :END:
 
 
@@ -1499,9 +1499,9 @@ In the depths of my heart.
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:62
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:62
   :END:
 
 
@@ -1518,9 +1518,9 @@ If I want to have peace of mind.
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:63
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:63
   :END:
 
 
@@ -1540,9 +1540,9 @@ Of my heart's constant cry.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:64
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:64
   :END:
 
 
@@ -1559,9 +1559,9 @@ Soulful rainbow-faith.
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:65
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:65
   :END:
 
 
@@ -1578,9 +1578,9 @@ Can never remain a far cry.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:66e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:66e1
   :END:
 
 
@@ -1593,9 +1593,9 @@ Auckland, New Zealand \\
 * 66.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:66
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:66
   :END:
 
 
@@ -1611,9 +1611,9 @@ I can and I shall have peace.
 * 67.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:67
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:67
   :END:
 
 
@@ -1629,9 +1629,9 @@ Of my sleeplessly aspiring heart.
 * 68.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:68
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:68
   :END:
 
 
@@ -1649,9 +1649,9 @@ Abundant peace.
 * 69.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:69
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:69
   :END:
 
 
@@ -1678,9 +1678,9 @@ Daily and sleeplessly.
 * 70.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:70
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:70
   :END:
 
 
@@ -1703,9 +1703,9 @@ Will be flooded with peace.
 * 71.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:71
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:71
   :END:
 
 
@@ -1728,9 +1728,9 @@ Peace.
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: HOP:72e1
+  :genre: note
+  :keywords:
+  :cite-key: HOP:72e1
   :END:
 
 
@@ -1743,9 +1743,9 @@ Chicago, Illinois \\
 * 72
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:72
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:72
   :END:
 
 
@@ -1761,9 +1761,9 @@ Of a doubting mind.
 * 73.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:73
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:73
   :END:
 
 
@@ -1779,9 +1779,9 @@ Immediately.
 * 74.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:74
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:74
   :END:
 
 
@@ -1799,9 +1799,9 @@ My ignorance-mind-sound.
 * 75.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: HOP:75
+  :genre: poem
+  :keywords:
+  :cite-key: HOP:75
   :END:
 
 

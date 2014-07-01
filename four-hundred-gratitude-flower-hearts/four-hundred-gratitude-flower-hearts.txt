@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0400
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1979
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FHGF
-  :GENRE: poem, discourse, prayer
-  :KEYWORDS:
+  :book-number: 0400
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1979
+  :publisher: Agni Press
+  :cite-key: FHGF
+  :genre: poem, discourse, prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:1
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:1
   :END:
 
 
@@ -40,9 +40,9 @@ God's Beauty.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:2
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:2
   :END:
 
 
@@ -58,9 +58,9 @@ God's Wisdom.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:3
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:3
   :END:
 
 
@@ -76,9 +76,9 @@ God's Smile.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:4
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:4
   :END:
 
 
@@ -94,9 +94,9 @@ God's Song.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:5
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:5
   :END:
 
 
@@ -112,9 +112,9 @@ God's Silence-Sound.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:6
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:6
   :END:
 
 
@@ -130,9 +130,9 @@ God's Perfection-Height.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:7
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:7
   :END:
 
 
@@ -148,9 +148,9 @@ God's Oneness-Delight.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:8
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:8
   :END:
 
 
@@ -168,9 +168,9 @@ Who I am?
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:9
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:9
   :END:
 
 
@@ -186,9 +186,9 @@ While smiling.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:10
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:10
   :END:
 
 
@@ -204,9 +204,9 @@ While crying.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:11
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:11
   :END:
 
 
@@ -224,9 +224,9 @@ The fleeting time.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:12
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:12
   :END:
 
 
@@ -244,9 +244,9 @@ Frightening distance.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:13
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:13
   :END:
 
 
@@ -264,9 +264,9 @@ With the thought-world.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:14
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:14
   :END:
 
 
@@ -282,9 +282,9 @@ Succeeds.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:15
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:15
   :END:
 
 
@@ -300,9 +300,9 @@ Proceeds.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:16
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:16
   :END:
 
 
@@ -319,9 +319,9 @@ Determination.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:17
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:17
   :END:
 
 
@@ -338,9 +338,9 @@ Perfection.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:18
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:18
   :END:
 
 
@@ -358,9 +358,9 @@ Fulness-Smile.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:19
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:19
   :END:
 
 
@@ -376,9 +376,9 @@ Unparalleled victory.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:20
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:20
   :END:
 
 
@@ -396,9 +396,9 @@ Separately.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:21
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:21
   :END:
 
 
@@ -415,9 +415,9 @@ You are great.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:22
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:22
   :END:
 
 
@@ -434,9 +434,9 @@ You are good.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:23
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:23
   :END:
 
 
@@ -453,9 +453,9 @@ You are supremely wise.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:24
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:24
   :END:
 
 
@@ -472,9 +472,9 @@ An impossible task.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:25
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:25
   :END:
 
 
@@ -490,9 +490,9 @@ On earth.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:26
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:26
   :END:
 
 
@@ -508,9 +508,9 @@ In Heaven.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:27
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:27
   :END:
 
 
@@ -526,9 +526,9 @@ For my sad failure in life?
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:28
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:28
   :END:
 
 
@@ -544,9 +544,9 @@ For my sad failure in life?
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:29
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:29
   :END:
 
 
@@ -562,9 +562,9 @@ The usual fool in me?
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:30
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:30
   :END:
 
 
@@ -580,9 +580,9 @@ In the outer world.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:31
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:31
   :END:
 
 
@@ -598,9 +598,9 @@ In the inner world.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:32
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:32
   :END:
 
 
@@ -617,9 +617,9 @@ In me.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:33
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:33
   :END:
 
 
@@ -636,9 +636,9 @@ In me.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:34
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:34
   :END:
 
 
@@ -655,9 +655,9 @@ Capacity.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:35
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:35
   :END:
 
 
@@ -674,9 +674,9 @@ Receptivity.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:36
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:36
   :END:
 
 
@@ -691,9 +691,9 @@ Preparation-struggle.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:37
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:37
   :END:
 
 
@@ -708,9 +708,9 @@ Satisfaction-smile.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:38
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:38
   :END:
 
 
@@ -725,9 +725,9 @@ I adore.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:39
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:39
   :END:
 
 
@@ -742,9 +742,9 @@ I love.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:40
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:40
   :END:
 
 
@@ -759,9 +759,9 @@ I need.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:41
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:41
   :END:
 
 
@@ -777,9 +777,9 @@ When I am in trouble.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:42
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:42
   :END:
 
 
@@ -795,9 +795,9 @@ In keeping me out of trouble.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:43
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:43
   :END:
 
 
@@ -813,9 +813,9 @@ In the battlefield of life.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:44
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:44
   :END:
 
 
@@ -831,9 +831,9 @@ Of the Absolute Supreme.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:45
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:45
   :END:
 
 
@@ -848,9 +848,9 @@ Frightens the human in us.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:46
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:46
   :END:
 
 
@@ -865,9 +865,9 @@ Strengthens the divine in us.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:47
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:47
   :END:
 
 
@@ -883,9 +883,9 @@ Hide-and-Seek.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:48
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:48
   :END:
 
 
@@ -902,9 +902,9 @@ Of strangling humiliation.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:49
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:49
   :END:
 
 
@@ -922,9 +922,9 @@ My cheerful soul.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:50
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:50
   :END:
 
 
@@ -940,9 +940,9 @@ My mind.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:51
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:51
   :END:
 
 
@@ -958,9 +958,9 @@ My life.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:52
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:52
   :END:
 
 
@@ -979,9 +979,9 @@ Deliberately.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:53
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:53
   :END:
 
 
@@ -997,9 +997,9 @@ The benefit.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:54
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:54
   :END:
 
 
@@ -1020,9 +1020,9 @@ Unconditionally?
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:55
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:55
   :END:
 
 
@@ -1039,9 +1039,9 @@ From struggle to struggle.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:56
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:56
   :END:
 
 
@@ -1058,9 +1058,9 @@ From strength to strength.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:57
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:57
   :END:
 
 
@@ -1076,9 +1076,9 @@ To learn and unlearn.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:58
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:58
   :END:
 
 
@@ -1095,9 +1095,9 @@ Always?
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:59
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:59
   :END:
 
 
@@ -1113,9 +1113,9 @@ To protect you?
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:60
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:60
   :END:
 
 
@@ -1130,9 +1130,9 @@ Is promise.
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:61
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:61
   :END:
 
 
@@ -1147,9 +1147,9 @@ Is hope.
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:62
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:62
   :END:
 
 
@@ -1167,9 +1167,9 @@ Prosperity.
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:63
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:63
   :END:
 
 
@@ -1187,9 +1187,9 @@ God's chosen drum.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:64
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:64
   :END:
 
 
@@ -1209,9 +1209,9 @@ In the inner world.
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:65
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:65
   :END:
 
 
@@ -1230,9 +1230,9 @@ In the battlefield of life.
 * 66. Forgiveness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:66
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:66
   :END:
 
 
@@ -1257,9 +1257,9 @@ Forgive the world. The world will sit at your compassion-feet. Forgive yourself.
 * 67. Faithfulness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:67
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:67
   :END:
 
 
@@ -1290,9 +1290,9 @@ Today faithfulness is my victory's goal. Tomorrow faithfulness shall be my self-
 * 68. Purity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:68
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:68
   :END:
 
 
@@ -1319,9 +1319,9 @@ A pure God-lover carries the crying earth up to Heaven in the morning and brings
 * 69. Time
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:69
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:69
   :END:
 
 
@@ -1348,9 +1348,9 @@ Time touches the God-lover in me to inspire my slow body, my weak vital, my unco
 * 70. Pride
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:70
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:70
   :END:
 
 
@@ -1375,9 +1375,9 @@ Your body is proud of its simplicity. Your vital is proud of its vitality. Your 
 * 71. Humility
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:71
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:71
   :END:
 
 
@@ -1403,9 +1403,9 @@ Because of my sincere incapacity, humility and its closest friend, divinity, hav
 * 72. Generosity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:72
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:72
   :END:
 
 
@@ -1435,9 +1435,9 @@ Generosity increases human capacity, strengthens divine Unity and satisfies the 
 * 73. Worship
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FHGF:73
+  :genre: discourse
+  :keywords:
+  :cite-key: FHGF:73
   :END:
 
 
@@ -1460,9 +1460,9 @@ We worship. Unconsciously we worship ignorance-night around us. Consciously we w
 * 74. I love you
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:74
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:74
   :END:
 
 
@@ -1483,9 +1483,9 @@ Perfection-glow.
 * 75. Ambition-determination-realisation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:75
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:75
   :END:
 
 
@@ -1504,9 +1504,9 @@ Is eternally priceless.
 * 76. They say and I say
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:76
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:76
   :END:
 
 
@@ -1530,9 +1530,9 @@ More beautiful.
 * 77. I am not afraid
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:77
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:77
   :END:
 
 
@@ -1552,9 +1552,9 @@ The emptiness of darkness.
 * 78. Yesterday-today-tomorrow
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:78
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:78
   :END:
 
 
@@ -1579,9 +1579,9 @@ Victory.
 * 79. When
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:79
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:79
   :END:
 
 
@@ -1601,9 +1601,9 @@ Without.
 * 80. Justice-sun and compassion-sea
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FHGF:80
+  :genre: poem
+  :keywords:
+  :cite-key: FHGF:80
   :END:
 
 
@@ -1625,9 +1625,9 @@ His Compassion-Sea.
 * Twelve Prayers For 1979
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FHGF:81e1
+  :genre: section
+  :keywords:
+  :cite-key: FHGF:81e1
   :END:
 
 
@@ -1635,9 +1635,9 @@ His Compassion-Sea.
 * 81.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:81
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:81
   :END:
 
 
@@ -1651,9 +1651,9 @@ My Lord Supreme, You blessed me with an inspiration-bird in the month of January
 * 82.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:82
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:82
   :END:
 
 
@@ -1667,9 +1667,9 @@ My Lord Supreme, in the month of February You blessed me with a flame of aspirat
 * 83.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:83
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:83
   :END:
 
 
@@ -1683,9 +1683,9 @@ My Lord Supreme, in March You taught me how to be faithful, cheerful and soulful
 * 84.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:84
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:84
   :END:
 
 
@@ -1699,9 +1699,9 @@ My Lord Supreme, in April You took away from me my impurity-breath and my insecu
 * 85.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:85
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:85
   :END:
 
 
@@ -1715,9 +1715,9 @@ My Lord Supreme, in May I placed at Your Feet my entire ingratitude-world.
 * 86.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:86
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:86
   :END:
 
 
@@ -1731,9 +1731,9 @@ My Lord Supreme, out of Your infinite Compassion, in June You said to me: "My so
 * 87.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:87
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:87
   :END:
 
 
@@ -1747,9 +1747,9 @@ My Lord Supreme, in July You forced me to stop drinking doubt-poison and You hel
 * 88.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:88
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:88
   :END:
 
 
@@ -1765,9 +1765,9 @@ You said to me, "To miss an opportunity, My child, is to be farther than the far
 * 89.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:89
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:89
   :END:
 
 
@@ -1781,9 +1781,9 @@ My Lord Supreme, if I have an iota of gratitude, then I place it at Your Compass
 * 90.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:90
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:90
   :END:
 
 
@@ -1797,9 +1797,9 @@ My Lord Supreme, in October You gave me the capacity to love You sincerely, to d
 * 91.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:91
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:91
   :END:
 
 
@@ -1813,9 +1813,9 @@ My Lord Supreme, in November You said, "Don't think, My child. I shall think for
 * 92.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: FHGF:92
+  :genre: prayer
+  :keywords:
+  :cite-key: FHGF:92
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0271
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MHSA-2
-  :GENRE: discourse, qa, interview
-  :KEYWORDS:
+  :book-number: 0271
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: MHSA-2
+  :genre: discourse, qa, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:27
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:27
   :END:
 
 
@@ -62,9 +62,9 @@ India's greatest poet, Tagore, wrote a soulful poem: In front of me is the sea o
 
   :PROPERTIES:
   :SUBTITLE: Sri Chinmoy Sydney Centre
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MHSA:28e1
+  :genre: section
+  :keywords:
+  :cite-key: MHSA:28e1
   :END:
 
 
@@ -72,9 +72,9 @@ India's greatest poet, Tagore, wrote a soulful poem: In front of me is the sea o
 * Question: Why Is It So Hard For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:28
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:28
   :END:
 
 
@@ -87,9 +87,9 @@ India's greatest poet, Tagore, wrote a soulful poem: In front of me is the sea o
 * Question: Guru, Does The Soul Cry?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:29
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:29
   :END:
 
 
@@ -102,9 +102,9 @@ India's greatest poet, Tagore, wrote a soulful poem: In front of me is the sea o
 * Question: When We Have Feelings Of 'my'...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:30
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:30
   :END:
 
 
@@ -119,9 +119,9 @@ So it is best always to take the positive side. But it has to be done on the str
 * Question: Guru, What Should We Do About...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:31
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:31
   :END:
 
 
@@ -136,9 +136,9 @@ But there is also something called divine pride. "I am God's son, so how can I a
 * Question: Why Doesn't The Mind Listen To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:32
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:32
   :END:
 
 
@@ -153,9 +153,9 @@ So, all of you should feel that it is your duty to direct the mind; not the othe
 * Question: What Is Humility And How Can...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:33
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:33
   :END:
 
 
@@ -170,9 +170,9 @@ We become humble only when we really have something; again, only when we are hum
 * Question: Guru, Could You Explain The Difference...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:34
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:34
   :END:
 
 
@@ -185,9 +185,9 @@ We become humble only when we really have something; again, only when we are hum
 * Question: What Is The Difference Between Divine...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:35
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:35
   :END:
 
 
@@ -200,9 +200,9 @@ We become humble only when we really have something; again, only when we are hum
 * The Eternal Seeker
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:36
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:36
   :END:
 
 
@@ -249,9 +249,9 @@ In the outer life, aspiration plays the role of the tree. In the inner life, in 
 * The Reality Within
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:37
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:37
   :END:
 
 
@@ -294,9 +294,9 @@ In each seeker, there is a promise to God, a promise to the inner Reality, to th
 * Simplicity, Sincerity, Purity And Divinity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:38
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:38
   :END:
 
 
@@ -337,9 +337,9 @@ The seeker starts with simplicity and goes along the road of sincerity, purity a
 * Happiness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:39
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:39
   :END:
 
 
@@ -364,9 +364,9 @@ We have two main instruments: the mind and the heart. The mind finds it difficul
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:40
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:40
   :END:
 
 
@@ -405,9 +405,9 @@ Each seeker is God's choice instrument. Each seeker is God-preparation growing i
 * Possession And Satisfaction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MHSA:41
+  :genre: discourse
+  :keywords:
+  :cite-key: MHSA:41
   :END:
 
 
@@ -446,9 +446,9 @@ The same seeker also discovers something else that gives him ceaseless satisfact
 * Meeting With The Bishop Of Adelaide
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MHSA:42e1
+  :genre: note
+  :keywords:
+  :cite-key: MHSA:42e1
   :END:
 
 
@@ -459,9 +459,9 @@ The same seeker also discovers something else that gives him ceaseless satisfact
 * Greeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:42
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:42
   :END:
 
 
@@ -492,9 +492,9 @@ The same seeker also discovers something else that gives him ceaseless satisfact
 * The West
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:43
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:43
   :END:
 
 
@@ -513,9 +513,9 @@ Again, if not one person received anything from my talk, from my prayer, I shall
 * Meditation
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:44
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:44
   :END:
 
 
@@ -540,9 +540,9 @@ Again, if not one person received anything from my talk, from my prayer, I shall
 * The Path Of The Heart
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:45
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:45
   :END:
 
 
@@ -559,9 +559,9 @@ I tell my students that there is only one teacher and that teacher is God. I say
 * Studying With Sri Chinmoy
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:46
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:46
   :END:
 
 
@@ -598,9 +598,9 @@ I tell my students that there is only one teacher and that teacher is God. I say
 * Public Meditations
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:47
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:47
   :END:
 
 
@@ -627,9 +627,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Other Teachers
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:48
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:48
   :END:
 
 
@@ -644,9 +644,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Meditation Is Natural
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:49
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:49
   :END:
 
 
@@ -657,9 +657,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Pope Paul
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:50
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:50
   :END:
 
 
@@ -674,9 +674,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Each Religion Is A House
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:51
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:51
   :END:
 
 
@@ -694,9 +694,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 
   :PROPERTIES:
   :SUBTITLE: Adelaide, Australia
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MHSA:52
+  :genre: interview
+  :keywords:
+  :cite-key: MHSA:52
   :END:
 
 
@@ -704,9 +704,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MHSA:53e1
+  :genre: note
+  :keywords:
+  :cite-key: MHSA:53e1
   :END:
 
 
@@ -717,9 +717,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: It Is An Extremely Hectic Life...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:53
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:53
   :END:
 
 
@@ -732,9 +732,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: What Part Do You Most Enjoy?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:54
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:54
   :END:
 
 
@@ -747,9 +747,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: So Which Life Do You Prefer?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:55
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:55
   :END:
 
 
@@ -762,9 +762,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: You Have Probably Heard Of The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:56
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:56
   :END:
 
 
@@ -777,9 +777,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: You Don't....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:57
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:57
   :END:
 
 
@@ -792,9 +792,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: They Are Not Seeing You As...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:58
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:58
   :END:
 
 
@@ -807,9 +807,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: How Is Your Message Different From...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:59
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:59
   :END:
 
 
@@ -822,9 +822,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: Now, Meditation Is A Crucial Part...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:60
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:60
   :END:
 
 
@@ -837,9 +837,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: Then Our Traditional Religions Are In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:61
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:61
   :END:
 
 
@@ -852,9 +852,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: Is There A Difference Between Them?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:62
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:62
   :END:
 
 
@@ -867,9 +867,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: As Well As A Guru You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:63
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:63
   :END:
 
 
@@ -882,9 +882,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: Do You Feel That If You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:64
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:64
   :END:
 
 
@@ -897,9 +897,9 @@ Most of the time I will meditate. Sometimes they will just observe me, and somet
 * Interviewer: You Live From Donations, I Understand,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MHSA:65
+  :genre: qa
+  :keywords:
+  :cite-key: MHSA:65
   :END:
 
 

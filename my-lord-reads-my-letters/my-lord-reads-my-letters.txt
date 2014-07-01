@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1277
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MLRL
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1277
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: MLRL
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:1
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:1
   :END:
 
 
@@ -41,9 +41,9 @@ He does anything else.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:2
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:2
   :END:
 
 
@@ -59,9 +59,9 @@ By criticising God.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:3
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:3
   :END:
 
 
@@ -77,9 +77,9 @@ By disobeying God.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:4
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:4
   :END:
 
 
@@ -95,9 +95,9 @@ By forgetting God.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:5
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:5
   :END:
 
 
@@ -113,9 +113,9 @@ By worshipping God.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:6
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:6
   :END:
 
 
@@ -131,9 +131,9 @@ By manifesting God.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:7
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:7
   :END:
 
 
@@ -149,9 +149,9 @@ The dust of God's Feet.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:8
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:8
   :END:
 
 
@@ -167,9 +167,9 @@ God's Height.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:9
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:9
   :END:
 
 
@@ -185,9 +185,9 @@ By God's Depth.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:10
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:10
   :END:
 
 
@@ -203,9 +203,9 @@ An independent life.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:11
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:11
   :END:
 
 
@@ -221,9 +221,9 @@ An interdependent existence.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:12
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:12
   :END:
 
 
@@ -240,9 +240,9 @@ Supremacy-mind.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:13
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:13
   :END:
 
 
@@ -259,9 +259,9 @@ Intimacy-Heart.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:14
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:14
   :END:
 
 
@@ -277,9 +277,9 @@ Of diving.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:15
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:15
   :END:
 
 
@@ -295,9 +295,9 @@ Of climbing.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:16
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:16
   :END:
 
 
@@ -313,9 +313,9 @@ Of surrendering.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:17
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:17
   :END:
 
 
@@ -331,9 +331,9 @@ Of waking.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:18
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:18
   :END:
 
 
@@ -349,9 +349,9 @@ Of transcending.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:19
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:19
   :END:
 
 
@@ -367,9 +367,9 @@ I do not understand Him.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:20
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:20
   :END:
 
 
@@ -385,9 +385,9 @@ I do not believe Him.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:21
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:21
   :END:
 
 
@@ -403,9 +403,9 @@ I ignore Him.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:22
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:22
   :END:
 
 
@@ -421,9 +421,9 @@ I ridicule Him.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:23
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:23
   :END:
 
 
@@ -439,9 +439,9 @@ I hide from Him.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:24
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:24
   :END:
 
 
@@ -457,9 +457,9 @@ I run away from Him.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:25
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:25
   :END:
 
 
@@ -475,9 +475,9 @@ I instruct Him.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:26
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:26
   :END:
 
 
@@ -493,9 +493,9 @@ I betray Him.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:27
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:27
   :END:
 
 
@@ -511,9 +511,9 @@ I love Him.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:28
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:28
   :END:
 
 
@@ -529,9 +529,9 @@ I treasure Him.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:29
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:29
   :END:
 
 
@@ -547,9 +547,9 @@ I immediately become Him.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:30
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:30
   :END:
 
 
@@ -565,9 +565,9 @@ That I love Him.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:31
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:31
   :END:
 
 
@@ -583,9 +583,9 @@ That He needs me.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:32
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:32
   :END:
 
 
@@ -601,9 +601,9 @@ That He is extraordinary.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:33
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:33
   :END:
 
 
@@ -619,9 +619,9 @@ That I am not transitory.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:34
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:34
   :END:
 
 
@@ -637,9 +637,9 @@ That He is always perfect.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:35
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:35
   :END:
 
 
@@ -655,9 +655,9 @@ That I am always correct.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:36
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:36
   :END:
 
 
@@ -673,9 +673,9 @@ That He is indispensable.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:37
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:37
   :END:
 
 
@@ -691,9 +691,9 @@ That we are inseparable.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:38
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:38
   :END:
 
 
@@ -709,9 +709,9 @@ God's blessingful Feet.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:39
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:39
   :END:
 
 
@@ -727,9 +727,9 @@ My boastful mind.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:40
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:40
   :END:
 
 
@@ -745,9 +745,9 @@ Who I am to Him.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:41
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:41
   :END:
 
 
@@ -763,9 +763,9 @@ What I have for Him.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:42
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:42
   :END:
 
 
@@ -781,9 +781,9 @@ God does not announce.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:43
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:43
   :END:
 
 
@@ -800,9 +800,9 @@ Denounce.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:44
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:44
   :END:
 
 
@@ -819,9 +819,9 @@ Of my spiritual life.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:45
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:45
   :END:
 
 
@@ -839,9 +839,9 @@ Forgiveness-Heart."
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:46
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:46
   :END:
 
 
@@ -858,9 +858,9 @@ If You really love me.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:47
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:47
   :END:
 
 
@@ -879,9 +879,9 @@ Remain far away from Me?"
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:48
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:48
   :END:
 
 
@@ -898,9 +898,9 @@ Can be so self-giving.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:49
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:49
   :END:
 
 
@@ -917,9 +917,9 @@ Can be so unwilling.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:50
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:50
   :END:
 
 
@@ -936,9 +936,9 @@ Inspires my heart.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:51
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:51
   :END:
 
 
@@ -955,9 +955,9 @@ Bewilders my mind.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:52
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:52
   :END:
 
 
@@ -974,9 +974,9 @@ Is divinely beautiful.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:53
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:53
   :END:
 
 
@@ -993,9 +993,9 @@ Is supremely fruitful.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:54
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:54
   :END:
 
 
@@ -1011,9 +1011,9 @@ His eternally blissful creation.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:55
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:55
   :END:
 
 
@@ -1029,9 +1029,9 @@ Play its role nobly.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:56
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:56
   :END:
 
 
@@ -1047,9 +1047,9 @@ Play its role prayerfully.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:57
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:57
   :END:
 
 
@@ -1065,9 +1065,9 @@ Play its role unreservedly.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:58
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:58
   :END:
 
 
@@ -1083,9 +1083,9 @@ Play my role unconditionally.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:59
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:59
   :END:
 
 
@@ -1101,9 +1101,9 @@ The highest height.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:60
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:60
   :END:
 
 
@@ -1120,9 +1120,9 @@ The longest length.
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:61
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:61
   :END:
 
 
@@ -1138,9 +1138,9 @@ To Eternity's Tears.
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:62
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:62
   :END:
 
 
@@ -1156,9 +1156,9 @@ To Immortality's Smiles.
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:63
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:63
   :END:
 
 
@@ -1174,9 +1174,9 @@ With the world.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:64
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:64
   :END:
 
 
@@ -1192,9 +1192,9 @@ The world.
 * 65.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:65
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:65
   :END:
 
 
@@ -1210,9 +1210,9 @@ A possession-hunger.
 * 66.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:66
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:66
   :END:
 
 
@@ -1228,9 +1228,9 @@ A renunciation-meal.
 * 67.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:67
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:67
   :END:
 
 
@@ -1246,9 +1246,9 @@ Backward march.
 * 68.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:68
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:68
   :END:
 
 
@@ -1264,9 +1264,9 @@ Forward run.
 * 69.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:69
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:69
   :END:
 
 
@@ -1283,9 +1283,9 @@ Does not want me to have."
 * 70.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:70
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:70
   :END:
 
 
@@ -1302,9 +1302,9 @@ Wants me to need."
 * 71.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:71
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:71
   :END:
 
 
@@ -1320,9 +1320,9 @@ The desiring mind.
 * 72.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:72
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:72
   :END:
 
 
@@ -1338,9 +1338,9 @@ The aspiring heart.
 * 73.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:73
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:73
   :END:
 
 
@@ -1357,9 +1357,9 @@ Is useless.
 * 74.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:74
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:74
   :END:
 
 
@@ -1377,9 +1377,9 @@ For the aspiring heart.
 * 75.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:75
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:75
   :END:
 
 
@@ -1395,9 +1395,9 @@ Kiss of death.
 * 76.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:76
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:76
   :END:
 
 
@@ -1413,9 +1413,9 @@ Embrace of life.
 * 77.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:77
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:77
   :END:
 
 
@@ -1431,9 +1431,9 @@ Of our inner life.
 * 78.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:78
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:78
   :END:
 
 
@@ -1449,9 +1449,9 @@ In our outer life.
 * 79.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:79
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:79
   :END:
 
 
@@ -1467,9 +1467,9 @@ Are not destined to meet.
 * 80.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:80
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:80
   :END:
 
 
@@ -1487,9 +1487,9 @@ Inseparably one.
 * 81.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:81
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:81
   :END:
 
 
@@ -1507,9 +1507,9 @@ Come back again?"
 * 82.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:82
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:82
   :END:
 
 
@@ -1527,9 +1527,9 @@ Come back again!"
 * 83.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:83
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:83
   :END:
 
 
@@ -1547,9 +1547,9 @@ Who you really are?"
 * 84.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:84
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:84
   :END:
 
 
@@ -1567,9 +1567,9 @@ What I am suffering from?"
 * 85.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:85
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:85
   :END:
 
 
@@ -1585,9 +1585,9 @@ God's unimaginable Hospitality.
 * 86.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:86
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:86
   :END:
 
 
@@ -1603,9 +1603,9 @@ My irresponsible unreceptivity.
 * 87.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:87
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:87
   :END:
 
 
@@ -1623,9 +1623,9 @@ To Me today?"
 * 88.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:88
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:88
   :END:
 
 
@@ -1643,9 +1643,9 @@ For such a long time?"
 * 89.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:89
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:89
   :END:
 
 
@@ -1663,9 +1663,9 @@ His partner and collaborator.
 * 90.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:90
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:90
   :END:
 
 
@@ -1684,9 +1684,9 @@ Is His breathless worshipper.
 * 91.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:91
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:91
   :END:
 
 
@@ -1702,9 +1702,9 @@ Everywhere.
 * 92.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:92
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:92
   :END:
 
 
@@ -1720,9 +1720,9 @@ Everywhere.
 * 93.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:93
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:93
   :END:
 
 
@@ -1738,9 +1738,9 @@ God's Mind.
 * 94.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:94
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:94
   :END:
 
 
@@ -1756,9 +1756,9 @@ My mind's eye.
 * 95.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:95
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:95
   :END:
 
 
@@ -1775,9 +1775,9 @@ Perhaps in Heaven.
 * 96.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:96
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:96
   :END:
 
 
@@ -1794,9 +1794,9 @@ Here on earth.
 * 97.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:97
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:97
   :END:
 
 
@@ -1812,9 +1812,9 @@ All that He has and is.
 * 98.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:98
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:98
   :END:
 
 
@@ -1830,9 +1830,9 @@ All that I do not actually need.
 * 99.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:99
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:99
   :END:
 
 
@@ -1848,9 +1848,9 @@ His Beauty and Divinity.
 * 100.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:100
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:100
   :END:
 
 
@@ -1866,9 +1866,9 @@ My duty and responsibility.
 * 101.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:101
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:101
   :END:
 
 
@@ -1886,9 +1886,9 @@ Easily can.
 * 102.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:102
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:102
   :END:
 
 
@@ -1906,9 +1906,9 @@ Easily can.
 * 103.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:103
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:103
   :END:
 
 
@@ -1926,9 +1926,9 @@ Easily can.
 * 104.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:104
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:104
   :END:
 
 
@@ -1946,9 +1946,9 @@ Easily can.
 * 105.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:105
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:105
   :END:
 
 
@@ -1966,9 +1966,9 @@ Easily can.
 * 106.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:106
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:106
   :END:
 
 
@@ -1986,9 +1986,9 @@ Easily can.
 * 107.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:107
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:107
   :END:
 
 
@@ -2007,9 +2007,9 @@ And lovingly can.
 * 108.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:108
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:108
   :END:
 
 
@@ -2027,9 +2027,9 @@ Cannot.
 * 109.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:109
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:109
   :END:
 
 
@@ -2047,9 +2047,9 @@ Cannot.
 * 110.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:110
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:110
   :END:
 
 
@@ -2067,9 +2067,9 @@ Cannot.
 * 111.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:111
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:111
   :END:
 
 
@@ -2087,9 +2087,9 @@ Cannot.
 * 112.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:112
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:112
   :END:
 
 
@@ -2107,9 +2107,9 @@ Cannot.
 * 113.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:113
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:113
   :END:
 
 
@@ -2127,9 +2127,9 @@ Cannot.
 * 114.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:114
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:114
   :END:
 
 
@@ -2147,9 +2147,9 @@ Cannot.
 * 115.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:115
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:115
   :END:
 
 
@@ -2167,9 +2167,9 @@ He fails to answer.
 * 116.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:116
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:116
   :END:
 
 
@@ -2187,9 +2187,9 @@ He immediately answers.
 * 117.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:117
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:117
   :END:
 
 
@@ -2205,9 +2205,9 @@ Who unburden your life.
 * 118.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:118
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:118
   :END:
 
 
@@ -2223,9 +2223,9 @@ Who minimise your sorrows.
 * 119.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:119
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:119
   :END:
 
 
@@ -2241,9 +2241,9 @@ Who maximise your joys.
 * 120.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:120
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:120
   :END:
 
 
@@ -2261,9 +2261,9 @@ Thrust upon you.
 * 121.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:121
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:121
   :END:
 
 
@@ -2280,9 +2280,9 @@ And progress.
 * 122.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:122
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:122
   :END:
 
 
@@ -2299,9 +2299,9 @@ To save you.
 * 123.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:123
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:123
   :END:
 
 
@@ -2318,9 +2318,9 @@ Of sacrifice-delight.
 * 124.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:124
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:124
   :END:
 
 
@@ -2339,9 +2339,9 @@ In secrecy supreme.
 * 125.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:125
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:125
   :END:
 
 
@@ -2358,9 +2358,9 @@ At your mistakes.
 * 126.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:126
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:126
   :END:
 
 
@@ -2377,9 +2377,9 @@ As short as anthill foibles.
 * 127.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:127
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:127
   :END:
 
 
@@ -2397,9 +2397,9 @@ Of the real friends.
 * 128.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:128
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:128
   :END:
 
 
@@ -2416,9 +2416,9 @@ Of the real friends.
 * 129.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:129
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:129
   :END:
 
 
@@ -2434,9 +2434,9 @@ Our Godward journey.
 * 130.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:130
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:130
   :END:
 
 
@@ -2452,9 +2452,9 @@ Our Godward journey.
 * 131.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:131
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:131
   :END:
 
 
@@ -2470,9 +2470,9 @@ Our Godward journey.
 * 132.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:132
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:132
   :END:
 
 
@@ -2488,9 +2488,9 @@ Our Godward journey.
 * 133.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:133
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:133
   :END:
 
 
@@ -2506,9 +2506,9 @@ Our Godward journey.
 * 134.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:134
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:134
   :END:
 
 
@@ -2525,9 +2525,9 @@ Our Godward journey.
 * 135.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:135
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:135
   :END:
 
 
@@ -2544,9 +2544,9 @@ And not:
 * 136.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:136
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:136
   :END:
 
 
@@ -2563,9 +2563,9 @@ And:
 * 137.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:137
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:137
   :END:
 
 
@@ -2582,9 +2582,9 @@ A big favour:
 * 138.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:138
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:138
   :END:
 
 
@@ -2603,9 +2603,9 @@ Free of charge:
 * 139.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:139
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:139
   :END:
 
 
@@ -2621,9 +2621,9 @@ Everything that it knows.
 * 140.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:140
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:140
   :END:
 
 
@@ -2639,9 +2639,9 @@ Whom to love: God.
 * 141.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:141
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:141
   :END:
 
 
@@ -2657,9 +2657,9 @@ My morning God-queries.
 * 142.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:142
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:142
   :END:
 
 
@@ -2675,9 +2675,9 @@ My evening God-answers.
 * 143.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:143
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:143
   :END:
 
 
@@ -2693,9 +2693,9 @@ Perfect.
 * 144.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:144
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:144
   :END:
 
 
@@ -2711,9 +2711,9 @@ Our Lord Supreme.
 * 145.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:145
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:145
   :END:
 
 
@@ -2729,9 +2729,9 @@ To my heart.
 * 146.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:146
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:146
   :END:
 
 
@@ -2747,9 +2747,9 @@ To my mind.
 * 147.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:147
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:147
   :END:
 
 
@@ -2765,9 +2765,9 @@ Scolds me.
 * 148.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:148
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:148
   :END:
 
 
@@ -2783,9 +2783,9 @@ Praises me.
 * 149.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:149
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:149
   :END:
 
 
@@ -2801,9 +2801,9 @@ Pulling my life upward.
 * 150.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:150
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:150
   :END:
 
 
@@ -2819,9 +2819,9 @@ Worries chase me.
 * 151.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:151
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:151
   :END:
 
 
@@ -2838,9 +2838,9 @@ And embraces me.
 * 152.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:152
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:152
   :END:
 
 
@@ -2856,9 +2856,9 @@ Superiority-hunger.
 * 153.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:153
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:153
   :END:
 
 
@@ -2874,9 +2874,9 @@ God-Compassion-hunger.
 * 154.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:154
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:154
   :END:
 
 
@@ -2892,9 +2892,9 @@ Love me.
 * 155.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:155
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:155
   :END:
 
 
@@ -2910,9 +2910,9 @@ Only God.
 * 156.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:156
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:156
   :END:
 
 
@@ -2928,9 +2928,9 @@ All illumination.
 * 157.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:157
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:157
   :END:
 
 
@@ -2946,9 +2946,9 @@ All aspiration.
 * 158.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:158
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:158
   :END:
 
 
@@ -2964,9 +2964,9 @@ All inspiration.
 * 159.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:159
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:159
   :END:
 
 
@@ -2982,9 +2982,9 @@ All determination.
 * 160.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:160
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:160
   :END:
 
 
@@ -3001,9 +3001,9 @@ All frustration.
 * 161.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:161
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:161
   :END:
 
 
@@ -3019,9 +3019,9 @@ Failure.
 * 162.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:162
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:162
   :END:
 
 
@@ -3037,9 +3037,9 @@ God's Smile.
 * 163.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:163
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:163
   :END:
 
 
@@ -3055,9 +3055,9 @@ Perfection-Shore.
 * 164.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:164
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:164
   :END:
 
 
@@ -3073,9 +3073,9 @@ Satisfaction-Shore.
 * 165.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:165
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:165
   :END:
 
 
@@ -3091,9 +3091,9 @@ Self-transcendence-shore.
 * 166.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:166
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:166
   :END:
 
 
@@ -3109,9 +3109,9 @@ His special Love.
 * 167.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:167
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:167
   :END:
 
 
@@ -3127,9 +3127,9 @@ His special Peace.
 * 168.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:168
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:168
   :END:
 
 
@@ -3145,9 +3145,9 @@ With its devotion-tears.
 * 169.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:169
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:169
   :END:
 
 
@@ -3163,9 +3163,9 @@ With His Compassion-Smiles.
 * 170.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:170
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:170
   :END:
 
 
@@ -3181,9 +3181,9 @@ Gives.
 * 171.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:171
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:171
   :END:
 
 
@@ -3199,9 +3199,9 @@ Refuses.
 * 172.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:172
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:172
   :END:
 
 
@@ -3217,9 +3217,9 @@ Does not care to listen.
 * 173.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:173
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:173
   :END:
 
 
@@ -3236,9 +3236,9 @@ Cares to listen.
 * 174.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:174
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:174
   :END:
 
 
@@ -3254,9 +3254,9 @@ For its streaming tears.
 * 175.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:175
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:175
   :END:
 
 
@@ -3272,9 +3272,9 @@ For its Fountain-Forgiveness.
 * 176.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:176
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:176
   :END:
 
 
@@ -3290,9 +3290,9 @@ The animal in us.
 * 177.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:177
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:177
   :END:
 
 
@@ -3308,9 +3308,9 @@ The human in us.
 * 178.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:178
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:178
   :END:
 
 
@@ -3326,9 +3326,9 @@ The divine in us.
 * 179.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:179
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:179
   :END:
 
 
@@ -3345,9 +3345,9 @@ Of God.
 * 180.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:180
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:180
   :END:
 
 
@@ -3364,9 +3364,9 @@ Of God.
 * 181.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:181
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:181
   :END:
 
 
@@ -3382,9 +3382,9 @@ Of the present generation.
 * 182.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:182
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:182
   :END:
 
 
@@ -3400,9 +3400,9 @@ For the future generation.
 * 183.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:183
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:183
   :END:
 
 
@@ -3418,9 +3418,9 @@ The wrong way.
 * 184.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:184
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:184
   :END:
 
 
@@ -3436,9 +3436,9 @@ The right way.
 * 185.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLRL:185
+  :genre: poem
+  :keywords:
+  :cite-key: MLRL:185
   :END:
 
 

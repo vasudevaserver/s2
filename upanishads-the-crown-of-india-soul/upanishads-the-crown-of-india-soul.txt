@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0013
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: UPA
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0013
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: UPA
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -40,9 +40,9 @@ The Upanishadic seers are proud of Sri Chinmoy because he /is/. Sri Chinmoy is p
 * India’s Soul-Offering
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:1
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:1
   :END:
 
 
@@ -159,9 +159,9 @@ October 22, 1971/
 * The Revelation Of India’s Light
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:2
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:2
   :END:
 
 
@@ -236,9 +236,9 @@ November 7, 1971
 * The Beauty And Duty Of India’s Soul
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:3
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:3
   :END:
 
 
@@ -315,9 +315,9 @@ November 17, 1971
 * Glimpses From The Vedas And The Upanishads
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:4
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:4
   :END:
 
 
@@ -373,9 +373,9 @@ November 30, 1971
 * The Crown Of India’s Soul
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:5
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:5
   :END:
 
 
@@ -464,9 +464,9 @@ December 3, 1971
 * The Brahman Of The Upanishads
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:6
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:6
   :END:
 
 
@@ -569,9 +569,9 @@ December 8, 1971
 * The Gayatri Mantra
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:7
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:7
   :END:
   
   
@@ -641,9 +641,9 @@ December 10, 1971
 * The Journey’s Start, The Journey’s Close
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:8
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:8
   :END:
 
 
@@ -694,9 +694,9 @@ January 26, 1972
 * Life And Death, Atman And Paramatman
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:9
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:9
   :END:
 
 
@@ -751,9 +751,9 @@ February 9, 1972/
 * Existence, Non-Existence, And The Source
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:10
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:10
   :END:
 
 
@@ -792,9 +792,9 @@ February 11, 1972
 * Flame Waves From The Upanishad-Sea, Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UPA:11e1
+  :genre: section
+  :keywords:
+  :cite-key: UPA:11e1
   :END:
   
 
@@ -802,9 +802,9 @@ February 11, 1972
 * I 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:11
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:11
   :END:
 
 
@@ -831,9 +831,9 @@ Illumination needed; here is the answer. Transcendental illumination transforms 
 * II 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:12
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:12
   :END:
 
 
@@ -869,9 +869,9 @@ Infinity is the fulfilled Body of the Goal Supreme.
 * III 
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:13
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:13
   :END:
   
 
@@ -905,9 +905,9 @@ Death -- where is the cat? Miaowing nowhere. Immortality -- where is the lion? R
 * IV Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:14
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:14
   :END:
 
 
@@ -939,9 +939,9 @@ As man’s eternal grandfather the soul perpetually enjoys.
 * V Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:15
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:15
   :END:
 
 
@@ -969,9 +969,9 @@ After our realisation we feed the soul’s hunger of this Great Being.
 * VI Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:16
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:16
   :END:
 
 
@@ -997,9 +997,9 @@ Truth realised, God is forever caught.
 * VII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:17
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:17
   :END:
 
 
@@ -1027,9 +1027,9 @@ Brihaspati houses the flowing life of the gods and treasures the glowing love of
 * VIII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:18
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:18
   :END:
 
 
@@ -1061,9 +1061,9 @@ God’s Compassion is the freedom of our body. God’s Concern is the freedom of
 * IX Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:19
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:19
   :END:
 
 
@@ -1099,9 +1099,9 @@ Light is God fulfilled.
 * IX Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:20
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:20
   :END:
 
 
@@ -1133,9 +1133,9 @@ God has written an open letter to His human children. His letter runs: “My swe
 * XI Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:21
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:21
   :END:
 
 
@@ -1165,9 +1165,9 @@ The Heart of Truth builds us.
 * XII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:22
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:22
   :END:
 
 
@@ -1205,9 +1205,9 @@ When these three work together, perfect Perfection shines, and it will shine thr
 * XIII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:23
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:23
   :END:
 
 
@@ -1233,9 +1233,9 @@ God is eternally proud of man because he embodies God s Immortality.
 * XIV Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:24
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:24
   :END:
 
 
@@ -1271,9 +1271,9 @@ My sweet return to my eternal home shall make me feel how fortunate I am.
 * Flame Waves From The Upanishad-Sea, Part Ii
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: UPA:25e1
+  :genre: section
+  :keywords:
+  :cite-key: UPA:25e1
   :END:
 
 
@@ -1285,9 +1285,9 @@ My sweet return to my eternal home shall make me feel how fortunate I am.
 * I Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:25
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:25
   :END:
 
 
@@ -1331,9 +1331,9 @@ In our prayers and salutations abides God the illumining Saviour.
 * II Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:26
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:26
   :END:
 
 
@@ -1371,9 +1371,9 @@ A wise sage is he whose outer life is the manifestation of the Truth’s inner l
 * III Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:27
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:27
   :END:
 
 
@@ -1411,9 +1411,9 @@ Delight without Infinity means the Creator without the creation. Indeed, this is
 * IV Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:28
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:28
   :END:
 
 
@@ -1451,9 +1451,9 @@ The inner sun makes us see what we eternally are: the Light Infinite.
 * V Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:29
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:29
   :END:
 
 
@@ -1481,9 +1481,9 @@ A strong aspirant is God in His manifesting realisation.
 * VI Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:30
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:30
   :END:
 
 
@@ -1517,9 +1517,9 @@ The divine Being is the concealed Breath and revealed of the universe.
 * VII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:31
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:31
   :END:
 
 
@@ -1549,9 +1549,9 @@ When the physical mind surrenders its existence to the illumination of the soul,
 * VIII Transliteration...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: UPA:32
+  :genre: poem
+  :keywords:
+  :cite-key: UPA:32
   :END:
 
 
@@ -1593,9 +1593,9 @@ To see an auspicious thing is to feel God the Light and God the Delight.
 * The Philosophy, The Religion, The Spirituality, And The Yoga Of The Upanishads
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: UPA:33
+  :genre: discourse
+  :keywords:
+  :cite-key: UPA:33
   :END:
 
 

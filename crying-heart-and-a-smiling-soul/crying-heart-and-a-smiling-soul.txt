@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1431
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2002
-  :PUBLISHER:
-  :CITE-KEY: CHSS
-  :GENRE: song
+  :book-number: 1431
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2002
+  :publisher:
+  :cite-key: CHSS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CHSS:1e1
+  :genre: note
+  :cite-key: CHSS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CHSS:1e2
+  :genre: note
+  :cite-key: CHSS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Gahi Kebal Dibanishi Amar Bijoy Giti Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:1
+  :cite-key: CHSS:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Bhul kareo ei dharare nahi dani priti
 * Bishwa Matar Angsha Ami Bishwa Matar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:2
+  :cite-key: CHSS:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Agyanatar karagare nahi habo dhangsa
 * Bahubar Tumi Kariyacho Khama Ei Sheshbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:3
+  :cite-key: CHSS:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Mago more aji dharo
 * Jiban Maran Kebal Swapan Kebal Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:4
+  :cite-key: CHSS:4
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ Dibas rati bhitar bahir tibra jatan
 * Jara Kare Dibanishi Amar Bad Nam Tarao Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:5
+  :cite-key: CHSS:5
   :END:
 
 #+BEGIN_VERSE
@@ -128,10 +128,10 @@ Tarao jeno pai go tomar jyoti dham
 * Na Bhangile Maya Moher Supti Raibe Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:6
+  :cite-key: CHSS:6
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ Raibe dure bahu dure tripti
 * Jani Jani Jiban Amar Hiya Purir Dipika Taito Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:7
+  :cite-key: CHSS:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Taito ami nitya labhi bishwa prabhur lipika
 * Kanur Benu Kanur Dhenu Hane Amar Basona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:8
+  :cite-key: CHSS:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ Dane amar urdha loker jyoti bhara eshana
 * Barai Bhalo Lage Amar Tomar Tiraskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:9
+  :cite-key: CHSS:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Tiraskarer maje raje oishi purashkar
 * Jiban Pathe Mridu Hese Ke Chale Go Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:10
+  :cite-key: CHSS:10
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Nitya sathi hate amai ke bale go ke bale
 * Charidike Bipad Heri Taito Kari Bhoy Bhaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:11
+  :cite-key: CHSS:11
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Bhoye bhoye jiban katai kothai khamamoy
 * Man Pran Dehe Ami Hate Durbal Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:12
+  :cite-key: CHSS:12
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Kemane pujibo taba charan kamal
 * Cheyechilam Hate Dhani Pashari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:13
+  :cite-key: CHSS:13
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Tomar kripa karlo amai dishari
 * Tomar Puja Nitya Kari Ami Barai Bhagyaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:14
+  :cite-key: CHSS:14
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ Jani jani sabiy tomar ahoituki kripar dan
 * Sabare Diyecho Prachurjya hasi Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:15
+  :cite-key: CHSS:15
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ Karo go ajike soja prabhu soja
 * Ami Hate Chahi Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:16
+  :cite-key: CHSS:16
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Jao ma niye chiratare mor jibaner sharbari
 * Shikkha Dao Go Shikkha Dao Go Sushikkha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:17
+  :cite-key: CHSS:17
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Amar hiyai uthbe phute tirtikkha
 * Nahi Chahi Hate Kabhu Ami Chatur Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:18
+  :cite-key: CHSS:18
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ Chahi shudhu chinta bachan hriday madhur
 * Amar Hridaye Phutibe Ajike Chand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:19
+  :cite-key: CHSS:19
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ Nahi rabe ar manas purite bandh
 * Chaho Jadi Hate Dharar Pitar Gaurab Haye Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:20
+  :cite-key: CHSS:20
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ Haye jao go tomar hiyar saurabh
 * Jara Kare Mago Tomar Banchana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:21
+  :cite-key: CHSS:21
   :END:
 
 #+BEGIN_VERSE
@@ -402,10 +402,10 @@ Pabe tara bhitar bahir lanchana
 * Gopan Katha Rakhi Ami Gopane Nitya Dekhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:22
+  :cite-key: CHSS:22
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Nitya dekhi prabhure mor swapane
 * Hiya Nadi Druta Chale Shanti Sagar Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:23
+  :cite-key: CHSS:23
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Pather jato badhar bandhan nahi kabhu mane
 * He Amar Hiya Hao Aguan Hao Aguan Pather
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:24
+  :cite-key: CHSS:24
   :END:
 
 #+BEGIN_VERSE
@@ -453,10 +453,10 @@ Pather majhare nahi jena hao kabhu hoyran
 * Nahi Ami Hate Chahi Manas Abhidan Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:25
+  :cite-key: CHSS:25
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Ami hate chahi prabhur hriday abhijan
 * Mago Amar Bhitar Bahir Tomar Prati Abhakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:26
+  :cite-key: CHSS:26
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Taito amar mane prane piradayi asakti
 * Ogo Amar Kathor Nithur Kutil Jatil Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:27
+  :cite-key: CHSS:27
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +504,10 @@ Akarane hiyare mor karo akraman
 * Jara Amar Ninda Kare Ninda Kare Ninda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:28
+  :cite-key: CHSS:28
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Thamao thamao tader aghat ogo mor govinda
 * Chalar Pathe Ekla Ami Vir Vikrame Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:29
+  :cite-key: CHSS:29
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ Pather sakal badhar bandhan ek nimeshe dali
 * Kruddha Manas Kruddha Paran Kruddha Sharir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:30
+  :cite-key: CHSS:30
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ Tader majhare nahi go biraje prabhur nayan shuddha
 * Param Pitar Bijoy Nishan Kari Jakhan Bahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:31
+  :cite-key: CHSS:31
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Takhan ami thaki shudhu mahanande magan
 * Je Peyeche Mago Tomar Khama Barabhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:32
+  :cite-key: CHSS:32
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Tahar habe bhitar bahir kebal jay jay jay
 * Chahigo Prerana.. Amar Majhare Phutate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:33
+  :cite-key: CHSS:33
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Amar majhare phutate chahigo tibra eshana
 * Bishwa Matar Peyechi Ajike Bishwa Priti Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:34
+  :cite-key: CHSS:34
   :END:
 
 #+BEGIN_VERSE
@@ -623,10 +623,10 @@ Dure bahu dure pheliya rekhechi sakal bhiti
 * Pashupati.. Pale Pale Laho Mama Hiya Nati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:35
+  :cite-key: CHSS:35
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ Pale pale laho mama hiya nati
 * Ami Nirupai Ami Asohai Nahi Heri Kono Kul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:36
+  :cite-key: CHSS:36
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Jiban amar bandhiya rekheche agyanatar bhul
 * Lagbe Amar Atal Bishwas Ta Na Hale Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:37
+  :cite-key: CHSS:37
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Ta na hale habo binash
 * Bhangte Habe Supti Maya Bhangte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:38
+  :cite-key: CHSS:38
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Prabhur nishan urate chai birat bhabe
 * Tomar Paye Peyeche Ma Jiban Amar Ashroy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:39
+  :cite-key: CHSS:39
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Taito amar bhitar jiban bahir jiban abhoy
 * Jash Apajash Bahu Dure Mago Pheliya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:40
+  :cite-key: CHSS:40
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ Tomar charane amar khudra amire bendhechi
 * Maner Mato Lok Je Kothao Dekhte Nahi Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:41
+  :cite-key: CHSS:41
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Hethai hothai ghure berai nai je keha nai
 * Param Priya Tumi Amar Kebal Upadeshta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:42
+  :cite-key: CHSS:42
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Pujte tomai tushte tomai nitui kari chesta
 * Pran Gabhire Bhakti Bhare Daki Tomai Isha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:43
+  :cite-key: CHSS:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Eso eso jao go niye amar maner nisha
 * Dekhte Peye Nitya Nutan Amar Hiyar Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:44
+  :cite-key: CHSS:44
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ Tumi bajao hiya pure rupantarer banshi
 * Mago Tomar Bhalo Lage Amar Abol Tabol
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:45
+  :cite-key: CHSS:45
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Amar barai bhalo lage tomar hiyar khagol
 * Pujte Tomai Nahi Jani Kiba Prayojan Balo Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:46
+  :cite-key: CHSS:46
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ Balo balo param pita karbo ayojan
 * Habe Jabe Chaowa Paowar Purna Samapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:47
+  :cite-key: CHSS:47
   :END:
 
 #+BEGIN_VERSE
@@ -844,10 +844,10 @@ Turiya dham je asbe neme karte alapan
 * Paran Bhare Tomar Katha Balte Chahi Nishidin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:48
+  :cite-key: CHSS:48
   :END:
 
 #+BEGIN_VERSE
@@ -861,10 +861,10 @@ Param pita dao go more ekti hiya amalin
 * Ogo Bhutanath Ogo Bholanath Ogo Shib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:49
+  :cite-key: CHSS:49
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ Tomare pujite parile nitui habo ami santosh
 * Sharir Paran Manas Hriday Chalre Chalre Chal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:50
+  :cite-key: CHSS:50
   :END:
 
 #+BEGIN_VERSE
@@ -895,10 +895,10 @@ Bishwa prabhur dak eseche thakishna nishchal
 * Niribili Nitui Tomar Karte Aradhan Dao Go More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-02-2002
-  :CITE-KEY: CHSS:51
+  :cite-key: CHSS:51
   :END:
 
 #+BEGIN_VERSE

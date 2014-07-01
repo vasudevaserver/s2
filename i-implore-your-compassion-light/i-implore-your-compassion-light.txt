@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 916
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: IIYC
-  :GENRE: song
+  :book-number: 916
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: IIYC
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IIYC:1e1
+  :genre: note
+  :cite-key: IIYC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IIYC:1e2
+  :genre: note
+  :cite-key: IIYC:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ami Jachi Taba Kripa Jyoti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:1
+  :cite-key: IIYC:1
   :END:
 
 #+BEGIN_VERSE
@@ -55,10 +55,10 @@ Ami jachi taba kripa jyoti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:2
+  :cite-key: IIYC:2
   :END:
 
 #+BEGIN_VERSE
@@ -71,10 +71,10 @@ I implore Your Compassion-Light.
 * Ami Kandi Amar Hiyar Nire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:3
+  :cite-key: IIYC:3
   :END:
 
 #+BEGIN_VERSE
@@ -86,10 +86,10 @@ Ami kandi amar hiyar nire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:4
+  :cite-key: IIYC:4
   :END:
 
 #+BEGIN_VERSE
@@ -102,10 +102,10 @@ I cry inside my heart-nest.
 * I Cry Inside My Heart-Nest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:5
+  :cite-key: IIYC:5
   :END:
 
 #+BEGIN_VERSE
@@ -118,10 +118,10 @@ I cry inside my heart-nest.
 * Ke Amare Baliche Ai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:6
+  :cite-key: IIYC:6
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ Ke amare baliche ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:7
+  :cite-key: IIYC:7
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +149,10 @@ Who is telling me: "Come"?
 * Kato Katha Balar Ache Balte Kare Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:8
+  :cite-key: IIYC:8
   :END:
 
 #+BEGIN_VERSE
@@ -164,10 +164,10 @@ Kato batha balar ache balte kare bhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:9
+  :cite-key: IIYC:9
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ But I am afraid to tell.
 * Doubt-Thief, No More!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:10
+  :cite-key: IIYC:10
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Doubt-thief, no more!
 * Bhishan Aghat Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:11
+  :cite-key: IIYC:11
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Khulo amar hiyar dwar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:12
+  :cite-key: IIYC:12
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Open my heart-door.
 * Nimesh Hara Kripar Bale Benche Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:13
+  :cite-key: IIYC:13
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Nimesh hara kripar bale benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:14
+  :cite-key: IIYC:14
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Sleepless compassion keeps me alive.
 * Sleepless Compassion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:15
+  :cite-key: IIYC:15
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Keeps me alive.
 * Hiya Hok Mor Taba Pada Dhule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:16
+  :cite-key: IIYC:16
   :END:
 
 #+BEGIN_VERSE
@@ -293,10 +293,10 @@ Hiya hok mor taba pada dhule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:17
+  :cite-key: IIYC:17
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ The dust of Your Feet.
 * May My Heart Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:18
+  :cite-key: IIYC:18
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ The dust of Your Feet.
 * Chetanar Rupantar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:19
+  :cite-key: IIYC:19
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ Chetanar rupantar ei dhyan nirantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:20
+  :cite-key: IIYC:20
   :END:
 
 #+BEGIN_VERSE
@@ -359,10 +359,10 @@ Is my constant meditation.
 * After a Long Time, I See Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:21
+  :cite-key: IIYC:21
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ The Goddess of Peace.
 * Chalte Hale Chalbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:22
+  :cite-key: IIYC:22
   :END:
 
 #+BEGIN_VERSE
@@ -393,10 +393,10 @@ Andhar rate bhoyer sathe noy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:23
+  :cite-key: IIYC:23
   :END:
 
 #+BEGIN_VERSE
@@ -410,10 +410,10 @@ I shall walk never with fear.
 * If I Have to Walk in Darkness-Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:24
+  :cite-key: IIYC:24
   :END:
 
 #+BEGIN_VERSE
@@ -427,10 +427,10 @@ I shall walk never with fear.
 * Ashar Pradip Halo Aji Hasi Pradip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:25
+  :cite-key: IIYC:25
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Hasi pradip
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:26
+  :cite-key: IIYC:26
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Hope-lamp has become today smile-lamp.
 * Hope-Lamp
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:27
+  :cite-key: IIYC:27
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ Hope-lamp has become today
 * May I Know at Every Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:28
+  :cite-key: IIYC:28
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ That You are Your Compassion-Ocean.
 * I Shall Worship You, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:29
+  :cite-key: IIYC:29
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ With my heart-garland today.
 * Jani Jani Chapalatar Sugopanam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:30
+  :cite-key: IIYC:30
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ Sugopanam durbalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:31
+  :cite-key: IIYC:31
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ The secret name of restlessness is weakness.
 * Amar Sathi Nitya Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:32
+  :cite-key: IIYC:32
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ Jiban hasir gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:33
+  :cite-key: IIYC:33
   :END:
 
 #+BEGIN_VERSE
@@ -576,10 +576,10 @@ Life-happiness-song.
 * Jibane Marane Bajabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:34
+  :cite-key: IIYC:34
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ Kebal kanur premer murali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:35
+  :cite-key: IIYC:35
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ I shall play only on Lord Krishna’s Love-Flute.
 * In Life and in Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:36
+  :cite-key: IIYC:36
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ I shall play only on Lord Krishna’s
 * Ashar Pathe Chalbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:37
+  :cite-key: IIYC:37
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Ashar pathe chalbo ami ashar pathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:38
+  :cite-key: IIYC:38
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Along the path of hope I shall walk.
 * Along the Path of Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:39
+  :cite-key: IIYC:39
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ I shall walk.
 * Maner Bane Kantar Sane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:40
+  :cite-key: IIYC:40
   :END:
 
 #+BEGIN_VERSE
@@ -692,10 +692,10 @@ Thakbona ar thakbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:41
+  :cite-key: IIYC:41
   :END:
 
 #+BEGIN_VERSE
@@ -709,10 +709,10 @@ I shall no more live, no more.
 * In the Mind-Forest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:42
+  :cite-key: IIYC:42
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ I shall no more live, no more.
 * Janma Dibas Shapath Harash Ek Ek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:43
+  :cite-key: IIYC:43
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Janma dibas shapath harash ek ek
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:44
+  :cite-key: IIYC:44
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Birthday and promise-ecstasy - one, one.
 * Birthday and Promise-Ecstasy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:45
+  :cite-key: IIYC:45
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ One, one.
 * Jug Jug Dhari Hiyar Bhakati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:46
+  :cite-key: IIYC:46
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Jibana shakati ek sathe chale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:47
+  :cite-key: IIYC:47
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Together move on.
 * Eternally Devotion-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:48
+  :cite-key: IIYC:48
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Together move on.
 * Andhar Sathe Kheli Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:49
+  :cite-key: IIYC:49
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ Taito alok rahe dure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:50
+  :cite-key: IIYC:50
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Therefore, light remains away.
 * Atma Tyager Bishal Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:51
+  :cite-key: IIYC:51
   :END:
 
 #+BEGIN_VERSE
@@ -874,10 +874,10 @@ Atma tyager bishal hiya habe amar nam
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:52
+  :cite-key: IIYC:52
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ My name shall be the vastness-heart
 * I Implore Your Compassion-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:53
+  :cite-key: IIYC:53
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ I implore Your Compassion-Light.
 * Who Is Telling Me: Come?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:54
+  :cite-key: IIYC:54
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Who is telling me:
 * Swapan Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:55
+  :cite-key: IIYC:55
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ Tomai ami bhalobasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:56
+  :cite-key: IIYC:56
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ You I love.
 * O Dream-Companion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:57
+  :cite-key: IIYC:57
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ You I love.
 * So Much to Say
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:58
+  :cite-key: IIYC:58
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ But I am afraid to tell.
 * Sandeha Taskar Nai Ar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:59
+  :cite-key: IIYC:59
   :END:
 
 #+BEGIN_VERSE
@@ -1007,10 +1007,10 @@ Sandeha taskar nai ar nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:60
+  :cite-key: IIYC:60
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ Doubt-thief no more!
 * Striking Me Hard
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:61
+  :cite-key: IIYC:61
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ Open my heart-door.
 * My Nature’s Transformation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-10-1987
-  :CITE-KEY: IIYC:62
+  :cite-key: IIYC:62
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ Is my constant meditation.
 * Bahudin Pare Pelam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:63
+  :cite-key: IIYC:63
   :END:
 
 #+BEGIN_VERSE
@@ -1073,10 +1073,10 @@ Ajike shantir darashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:64
+  :cite-key: IIYC:64
   :END:
 
 #+BEGIN_VERSE
@@ -1090,10 +1090,10 @@ I see today the Goddess of Peace.
 * Tomar Charan Amar Bhuban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:65
+  :cite-key: IIYC:65
   :END:
 
 #+BEGIN_VERSE
@@ -1106,10 +1106,10 @@ Ei kathati jante shudhu chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:66
+  :cite-key: IIYC:66
   :END:
 
 #+BEGIN_VERSE
@@ -1123,10 +1123,10 @@ Only this I want to hear.
 * My World Is Your Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:67
+  :cite-key: IIYC:67
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ Only this I want to hear.
 * Tumi Je Tomar Kripar Baridhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:68
+  :cite-key: IIYC:68
   :END:
 
 #+BEGIN_VERSE
@@ -1156,10 +1156,10 @@ Jani jena taha nirabaradhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:69
+  :cite-key: IIYC:69
   :END:
 
 #+BEGIN_VERSE
@@ -1173,10 +1173,10 @@ That You are Your Compassion-Ocean.
 * Pujbo Tomari Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:70
+  :cite-key: IIYC:70
   :END:
 
 #+BEGIN_VERSE
@@ -1188,10 +1188,10 @@ Pujbo tomai prabhu aji hiya phuler mala diye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:71
+  :cite-key: IIYC:71
   :END:
 
 #+BEGIN_VERSE
@@ -1205,10 +1205,10 @@ With my heart-garland today.
 * The Secret Name of Restlessness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:72
+  :cite-key: IIYC:72
   :END:
 
 #+BEGIN_VERSE
@@ -1223,10 +1223,10 @@ Is weakness.
 * My Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:73
+  :cite-key: IIYC:73
   :END:
 
 #+BEGIN_VERSE
@@ -1240,10 +1240,10 @@ Life-happiness-song.
 * Sara Ami Dibona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:74
+  :cite-key: IIYC:74
   :END:
 
 #+BEGIN_VERSE
@@ -1255,10 +1255,10 @@ Sara ami dibona ar purataner dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:75
+  :cite-key: IIYC:75
   :END:
 
 #+BEGIN_VERSE
@@ -1271,10 +1271,10 @@ I shall never respond to the call of the old.
 * I Shall Never Respond
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1987
-  :CITE-KEY: IIYC:76
+  :cite-key: IIYC:76
   :END:
 
 #+BEGIN_VERSE
@@ -1288,10 +1288,10 @@ To the call of the old.
 * Tumi Amai Karecho Khama Taito Benche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:77
+  :cite-key: IIYC:77
   :END:
 
 #+BEGIN_VERSE
@@ -1304,10 +1304,10 @@ Taito benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:78
+  :cite-key: IIYC:78
   :END:
 
 #+BEGIN_VERSE
@@ -1321,10 +1321,10 @@ Therefore I am alive.
 * You Have Forgiven Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:79
+  :cite-key: IIYC:79
   :END:
 
 #+BEGIN_VERSE
@@ -1338,10 +1338,10 @@ Therefore, I am alive.
 * I Play with Darkness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:80
+  :cite-key: IIYC:80
   :END:
 
 #+BEGIN_VERSE
@@ -1355,10 +1355,10 @@ Therefore, light remains away.
 * My Name Shall Be
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1990
-  :CITE-KEY: IIYC:81
+  :cite-key: IIYC:81
   :END:
 
 #+BEGIN_VERSE

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1345
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2000
-  :PUBLISHER:
-  :CITE-KEY: ES-1
-  :GENRE: song
+  :book-number: 1345
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2000
+  :publisher:
+  :cite-key: ES-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:1e1
+  :genre: note
+  :cite-key: ES:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:1e2
+  :genre: note
+  :cite-key: ES:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Am My Soul-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:1
+  :cite-key: ES:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ I do nothing wrong.
 * My Mind Is Full of Failure-Sobs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:2
+  :cite-key: ES:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ My heart is full of gratitude-throbs.
 * I Serve God’s Life Self-Givingly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:3
+  :cite-key: ES:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ And enjoy His Heart thrillingly.
 * My End Came
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:4
+  :cite-key: ES:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ With my rise to summit-fame.
 * Today’s God Is God-Request
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:5
+  :cite-key: ES:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Tomorrow’s God, God-Behest.
 * God-Talker, God-Preacher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:6
+  :cite-key: ES:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ You are your self-deception taut.
 * Alas, Alas, Frustration-Sea
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:7
+  :cite-key: ES:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Drowning me.
 * Enthusiasm, God’s Main Food
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-12-1999
-  :CITE-KEY: ES:8
+  :cite-key: ES:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ For my good.
 * Your Victory Is My Heart’s Only Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:9
+  :cite-key: ES:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Your Victory is my heart’s only dream.
 * My Supreme Beloved Lord’s Moonlit Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:10
+  :cite-key: ES:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ My heart is flying to have its seat.
 * My Supreme Lord Is Ready
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:11
+  :cite-key: ES:11
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Am I ready to cast aside my anger-dart?
 * My Himalayan Pride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:12
+  :cite-key: ES:12
   :END:
 
 #+BEGIN_VERSE
@@ -248,10 +248,10 @@ You and your heart in no time hide.
 * A Heart of Peace-Contentment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:13
+  :cite-key: ES:13
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ I love my life’s bliss-enlightenment.
 * Oh, Take a Break
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1999
-  :CITE-KEY: ES:14
+  :cite-key: ES:14
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ No, never stay behind.
 * Smiling, My Lord’s Big Ear Hears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1999
-  :CITE-KEY: ES:15
+  :cite-key: ES:15
   :END:
 
 #+BEGIN_VERSE
@@ -303,10 +303,10 @@ My Lord’s biggest Heart appears.
 * Age Is Not a Downward Slope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:16
+  :cite-key: ES:16
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ Age is an unknown scope.
 * Age Is Not a Bold Bar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:17
+  :cite-key: ES:17
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ Age is another star.
 * The Master’s Heart and Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:18
+  :cite-key: ES:18
   :END:
 
 #+BEGIN_VERSE
@@ -354,10 +354,10 @@ Do not object, do not object, do not object.
 * Mine Is the Vital That Wants to Terrorise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:19
+  :cite-key: ES:19
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Mine is the heart that wants to harmonise.
 * Be Not Frantic
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:20
+  :cite-key: ES:20
   :END:
 
 #+BEGIN_VERSE
@@ -388,10 +388,10 @@ Just be dynamic, just be dynamic, just be dynamic.
 * Blame Not Your Fate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-12-1999
-  :CITE-KEY: ES:21
+  :cite-key: ES:21
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ If you want to see God’s Golden Gate.
 * Because My Master’s Voice Is My Choice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2000
-  :CITE-KEY: ES:22
+  :cite-key: ES:22
   :END:
 
 #+BEGIN_VERSE
@@ -423,10 +423,10 @@ I rejoice, I rejoice, I rejoice.
 * Even For Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2000
-  :CITE-KEY: ES:23
+  :cite-key: ES:23
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +440,10 @@ He is turning me into His fondness-dove.
 * Cry, You Will Soon Fly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: ES:24
+  :cite-key: ES:24
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ In God’s Infinity’s blue sky.
 * My Earth Has My Mind-Noise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: ES:25
+  :cite-key: ES:25
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ My Heaven has my heart-voice.
 * Captain, Captain, My Heart-Captain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: ES:26
+  :cite-key: ES:26
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ You have freed my life from bondage-chain.
 * Alas, How Quickly We All Fall
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: ES:27
+  :cite-key: ES:27
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ How slowly we gain back all.
 * Tomorrow Is for Those
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: ES:28
+  :cite-key: ES:28
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ Every day who only borrow and borrow.
 * A Chatting Life I Have
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2000
-  :CITE-KEY: ES:29
+  :cite-key: ES:29
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ A chanting heart I have not.
 * God Himself Sets the Pace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-2000
-  :CITE-KEY: ES:30
+  :cite-key: ES:30
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ God Himself sets the pace.
 * The Tears of My Climbing Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-2000
-  :CITE-KEY: ES:31
+  :cite-key: ES:31
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Are stronger than any dart.
 * The Divine in Me Loses
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:32
+  :cite-key: ES:32
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ When the human in me chooses.
 * I Have Tamed My Outer Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:33
+  :cite-key: ES:33
   :END:
 
 #+BEGIN_VERSE
@@ -613,10 +613,10 @@ I have trained my inner heart
 * Enthusiasm Is Second to None
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:34
+  :cite-key: ES:34
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ Enthusiasm is
 * Enthusiasm
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:35
+  :cite-key: ES:35
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ You have freed my life from my mind-chasm.
 * Enthusiasm Is My Soul’s Mightiest Roar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:36
+  :cite-key: ES:36
   :END:
 
 #+BEGIN_VERSE
@@ -668,10 +668,10 @@ My life’s brightest shore.
 * Enthusiasm Says to Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-2000
-  :CITE-KEY: ES:37
+  :cite-key: ES:37
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Be not dumb.”
 * Man-Made Friendship
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:38
+  :cite-key: ES:38
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Is a rainbow-boat-trip.
 * Love-Beauty Prevails
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:39
+  :cite-key: ES:39
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Hate-dart assails love.
 * The Weakness-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:40
+  :cite-key: ES:40
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ The strength-heart reveals.
 * My Supreme Came Down
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:41
+  :cite-key: ES:41
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Only to bless my frown.
 * My Lord Loves to Hear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:42
+  :cite-key: ES:42
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ My life’s mystery.
 * My Impurity-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:43
+  :cite-key: ES:43
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ My purity-heart flies.
 * God the Eye Examines Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-2000
-  :CITE-KEY: ES:44
+  :cite-key: ES:44
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ God the Heart passes me easily.
 * Spirituality Blind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2000
-  :CITE-KEY: ES:45
+  :cite-key: ES:45
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ A computerised mind.
 * A Computerised Mind, Alas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2000
-  :CITE-KEY: ES:46
+  :cite-key: ES:46
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ A total failure-sigh.
 * A Computerised Mind Remains Farthest Behind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2000
-  :CITE-KEY: ES:47
+  :cite-key: ES:47
   :END:
 
 #+BEGIN_VERSE
@@ -865,10 +865,10 @@ And God hides His Heart-Nest.
 * A Computerised Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2000
-  :CITE-KEY: ES:48
+  :cite-key: ES:48
   :END:
 
 #+BEGIN_VERSE
@@ -884,10 +884,10 @@ God-joy his only goal.
 * My Heart Is Begging God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2000
-  :CITE-KEY: ES:49
+  :cite-key: ES:49
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +903,10 @@ In His boundless Heart-Sky.
 * Never Allow Anyone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2000
-  :CITE-KEY: ES:50
+  :cite-key: ES:50
   :END:
 
 #+BEGIN_VERSE
@@ -921,10 +921,10 @@ Of your golden dreams.
 * Patience-Light Exhausted
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:51
+  :cite-key: ES:51
   :END:
 
 #+BEGIN_VERSE
@@ -938,10 +938,10 @@ Justice-night descended.
 * Man Is Waiting
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:52
+  :cite-key: ES:52
   :END:
 
 #+BEGIN_VERSE
@@ -955,10 +955,10 @@ God’s Hour is watching, watching, watching.
 * No More, No More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:53
+  :cite-key: ES:53
   :END:
 
 #+BEGIN_VERSE
@@ -974,10 +974,10 @@ My heart enjoys God-Delight.
 * Patience Fails
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:54
+  :cite-key: ES:54
   :END:
 
 #+BEGIN_VERSE
@@ -991,10 +991,10 @@ Justice assails, justice assails, justice assails.
 * Patience Is the Beauty of Secrecy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:55
+  :cite-key: ES:55
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ Patience is the fragrance of ecstasy.
 * At God’s Choice Hour
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:56
+  :cite-key: ES:56
   :END:
 
 #+BEGIN_VERSE
@@ -1025,10 +1025,10 @@ Patience stops; justice starts.
 * Patience Is Eternity’s Goodness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:57
+  :cite-key: ES:57
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Patience is Infinity’s fulness.
 * Patience Is Immortality’s Beckoning Hand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:58
+  :cite-key: ES:58
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Immortality’s beckoning Hand.
 * O Heart-Rending Inner Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:59
+  :cite-key: ES:59
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ God is calling you, “Fly, fly, fly!”
 * Patience-Atrophy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2000
-  :CITE-KEY: ES:60
+  :cite-key: ES:60
   :END:
 
 #+BEGIN_VERSE

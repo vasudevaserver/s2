@@ -8,22 +8,22 @@
 
 
   :PROPERTIES
-  :BOOK-NUMBER: 1455
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2003
-  :PUBLISHER: Agni Press
-  :CITE-KEY: EHWM-1
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1455
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2003
+  :publisher: Agni Press
+  :cite-key: EHWM-1
+  :genre: poem
+  :keywords:
   :END:
 
 
 * Section: Australia
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -31,8 +31,8 @@
 * Philosophy, spirituality and yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -67,8 +67,8 @@ But eventually there comes a time when the seeker realises that imagination and 
 * The eternal seeker
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -111,8 +111,8 @@ In the outer life, aspiration plays the role of the tree. In the inner life, in 
 * The reality within
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -152,8 +152,8 @@ In each seeker, there is a promise to God, a promise to the inner Reality, to th
 * Happiness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -175,8 +175,8 @@ We have two main instruments: the mind and the heart. The mind finds it difficul
 * Possession and satisfaction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -219,8 +219,8 @@ The same seeker also discovers something else that gives him ceaseless satisfact
 * Section: Austria
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -228,8 +228,8 @@ The same seeker also discovers something else that gives him ceaseless satisfact
 * A peaceful mind, a useful life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -256,8 +256,8 @@ It is on the strength of the prayer and meditation of God-lovers and God-seekers
 * My success-life and my progress-life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -298,8 +298,8 @@ May the beauty and the fragrance of my heart-rose please You, my Lord Supreme, i
 * Section: Canada
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -307,8 +307,8 @@ May the beauty and the fragrance of my heart-rose please You, my Lord Supreme, i
 * Self-control: self-offering to God
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -339,8 +339,8 @@ Self-control. Self-control means self-giving to God. Let us play our part. Let u
 * Attachment and detachment
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -396,8 +396,8 @@ When we do the wise thing, we are fulfilled.
 * Perfection
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -426,8 +426,8 @@ My imperfect gift to God is yesterday, yesterday’s experience. God’s perfect
 * Inspiration, aspiration and realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -464,8 +464,8 @@ When a man realises the highest Truth, he tries to offer the highest Truth to hu
 * Realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -519,8 +519,8 @@ At the end of our journey’s close, into Delight we retire.
 * Give, receive and become
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -593,8 +593,8 @@ When I become a chosen instrument, I embody God the One, the sole Reality, the T
 * Oneness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -626,8 +626,8 @@ Our sense of immortality, our sense of spirituality and our sense of an inner bo
 * The human, the Divine and the Supreme
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -676,8 +676,8 @@ As seekers we know that the human in us has to be transcended so that the divine
 * Freedom
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -723,8 +723,8 @@ Freedom we need, precisely because the Inner Pilot within us wants us to be free
 * Purity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -762,8 +762,8 @@ Purity is the shrine within us. In this shrine we see the living spirit of the S
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -793,8 +793,8 @@ With aspiration we begin our journey, and with aspiration we continue our journe
 * Limitation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -824,8 +824,8 @@ Right now we are limited. But limitation is not and cannot be our eternal Realit
 * Progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -861,8 +861,8 @@ As seekers, at every moment we are devotedly doing selfless service. The result 
 * Beauty
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -910,8 +910,8 @@ In ugliness there is beauty, in imperfection there is beauty, in everything that
 * Spirituality and satisfaction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -957,8 +957,8 @@ As in the ordinary human world, in the spiritual world also somebody may be very
 * Bliss
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1028,8 +1028,8 @@ The Christ said, “Let Thy Will be done.” This is the highest form of prayer.
 * Service
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1067,8 +1067,8 @@ A seeker serves God so that he can be God’s chosen, perfect instrument. God se
 * Spiritual seekers
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1114,8 +1114,8 @@ Those who have a genuine inner cry, God will bless with the capacity of receptiv
 * Desire-man, aspiration-man, dream-man, reality-man
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1157,8 +1157,8 @@ As desire-man we treasured dream, only dream. We desired, but we did not want to
 * Yoga and faith
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1229,8 +1229,8 @@ Sweet be my return.
 * Love and serve
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1266,8 +1266,8 @@ When the seeker is on the verge of realisation, he sees goodness within and good
 * Imagination, inspiration, aspiration and realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1318,8 +1318,8 @@ Usually, imagination is in the mind, inspiration is in the dynamic vital, aspira
 * Warriors of the inner world
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1376,8 +1376,8 @@ But there comes a time when the inner and outer warriors become one, inseparably
 * God the universal beauty
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1402,8 +1402,8 @@ My soul unconditionally loves my Lord Beloved Supreme. My heart faithfully loves
 * Poetry the winner
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1529,8 +1529,8 @@ Being both a prose-mind-writer and a poetry-heart-writer, I have made a supreme 
 * Creativity: The amalgam of sorrows and joys
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1629,8 +1629,8 @@ O aspiring world, Him I have found, my Lord Supreme, in the aspiration-beauty an
 * Section: England
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -1638,8 +1638,8 @@ O aspiring world, Him I have found, my Lord Supreme, in the aspiration-beauty an
 * Is death the end?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1732,8 +1732,8 @@ There will come a time when rest will not be necessary at all. Only Life will re
 * The end of all knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1824,8 +1824,8 @@ To see God constantly face to face is the beginning and blossoming of the Transc
 * Perfection-goal
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1917,8 +1917,8 @@ In aspiration lies the key that can ultimately open up the door of perfect Perfe
 * The inner promise
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -1995,8 +1995,8 @@ Each individual can make a solemn promise to himself and to humanity at large. T
 * The inner teaching
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2077,8 +2077,8 @@ It is here on earth that we shall hear the message of the soul-stirring flute of
 * The universe
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2226,8 +2226,8 @@ The discovery of the scientist, the discovery of religion and spirituality, and 
 * The higher worlds
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2334,8 +2334,8 @@ At the end of our journey’s close, into Delight we shall retire.
 * The permanent and the impermanent
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2401,8 +2401,8 @@ O Lord Supreme!
 * Three lessons in spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2448,8 +2448,8 @@ The mind thinks for some time, and then says, “All right. I will listen to you
 * The seeker’s journey
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2503,8 +2503,8 @@ At the beginning, we start our journey to please ourselves. In order to please o
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2546,8 +2546,8 @@ We are now living in the world of dreams, but these dreams are not mental halluc
 * God and love
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2589,8 +2589,8 @@ We are eternal travellers. In Heaven, we were dreamers, and on earth we are trav
 * Yesterday, today and tomorrow
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2636,8 +2636,8 @@ Experience tells us something more. The mistakes that we made in the past can ea
 * Failure
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2679,8 +2679,8 @@ When a seeker assimilates his realisation, he feels that there can be no failure
 * Love divine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2718,8 +2718,8 @@ It is our inner obligation, our bounden duty to be totally illumined from the so
 * Spirituality as an art
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2756,8 +2756,8 @@ Here we are all seekers; we are all spiritual artists. Let us dive deep within a
 * Confidence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2788,8 +2788,8 @@ In the spiritual life we have two giant friends: faith and confidence. Faith can
 * Death
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2828,8 +2828,8 @@ When one lived the life of desire, death stood as an obstacle, an ignorance- for
 * Inner obedience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2872,8 +2872,8 @@ Aspiration-life is the life of inner obedience. When we obey someone outwardly, 
 * Yesterday, today, tomorrow
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2900,8 +2900,8 @@ I have seen God once; therefore, I wish to see Him again. I have loved God once;
 * Greatness and goodness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2941,8 +2941,8 @@ Goodness is not in competing with the world around us; it only offers the messag
 * Confidence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -2992,8 +2992,8 @@ But the heart constantly feels that it can house something more, that it can see
 * Progress-delight
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3062,8 +3062,8 @@ Soulfully let us pray, fruitfully let us meditate, and ours will be the Goal of 
 * Success-height
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3100,8 +3100,8 @@ Progress-life alone can satisfy a seeker’s Lord Supreme. His Lord Supreme tell
 * A conversation with my Lord Supreme
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3167,8 +3167,8 @@ In my surrender-life is the peace-tree.
 * Oneness-education
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3212,8 +3212,8 @@ No, my friend, since we wish to sail in the same boat, the boat of aspiration, t
 * Sri Aurobindo: a glimpse (abridged)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3396,8 +3396,8 @@ The entire world claims you as its very own.
 * Aurobindo versus Sri Aurobindo
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3504,8 +3504,8 @@ God for His manifestation.
 * Section -- Finland
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3513,8 +3513,8 @@ God for His manifestation.
 * I need peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3539,8 +3539,8 @@ I must not live in my superficial mind if I truly and sincerely want and need pe
 * Section -- France
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3548,8 +3548,8 @@ I must not live in my superficial mind if I truly and sincerely want and need pe
 * How to conquer fear
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3600,8 +3600,8 @@ There can be no fear, there cannot be even an iota of fear when we live in the e
 * Section -- Germany
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3609,8 +3609,8 @@ There can be no fear, there cannot be even an iota of fear when we live in the e
 * Spiritual strength
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3644,8 +3644,8 @@ It is only through prayer and meditation that we can eventually discover our Dea
 * Inner peace and world peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3698,8 +3698,8 @@ One can talk for hours on peace. The curious mind may get some satisfaction, but
 * I pray for peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3722,8 +3722,8 @@ I must also be aware of the fight that has been going on since the beginning of 
 * Peace individual and collective
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3756,8 +3756,8 @@ Our prayer-life will grant us peace for ourselves, and our meditation-life will 
 * My passport
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3782,8 +3782,8 @@ Lo and behold, I am now the holder of a lifelong passport to humanity’s heart-
 * Section: Iceland
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -3791,8 +3791,8 @@ Lo and behold, I am now the holder of a lifelong passport to humanity’s heart-
 * Aspiration and dedication
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3833,8 +3833,8 @@ I am a spiritual farmer. God, out of His infinite Bounty, has entrusted me with 
 * Section: Ireland
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -3842,8 +3842,8 @@ I am a spiritual farmer. God, out of His infinite Bounty, has entrusted me with 
 * Attachment and detachment
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3899,8 +3899,8 @@ We fulfil the Supreme on earth. He treasures us in His Heart’s Heaven.
 * Transcendental height and aspiration-light
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -3950,8 +3950,8 @@ It is God who has taught us the secret of expectation. It is He who has taken th
 * The inner hunger
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4003,8 +4003,8 @@ Human hunger starts with ‘I’, but when it turns spiritual it becomes ‘we�
 * Section: Jamaica
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4012,8 +4012,8 @@ Human hunger starts with ‘I’, but when it turns spiritual it becomes ‘we�
 * Spirituality: What it is and what it is not
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4058,8 +4058,8 @@ In God I am.
 * Fear of the inner life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4090,8 +4090,8 @@ If you want to truly possess the outer world, you have to possess the inner worl
 * Mahatma Gandhi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4232,8 +4232,8 @@ Some of the world figures have called him the Saint Paul, Saint Thomas and Saint
 * Section: Japan
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4241,8 +4241,8 @@ Some of the world figures have called him the Saint Paul, Saint Thomas and Saint
 * New creation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4271,8 +4271,8 @@ The thing of paramount importance is that God comes first, then comes humanity. 
 * Peace: God’s universal language
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4310,8 +4310,8 @@ Peace, Peace, Peace.
 * Section: New Zealand
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4319,8 +4319,8 @@ Peace, Peace, Peace.
 * Stupidity, insecurity and fear
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4348,8 +4348,8 @@ Each problem is an inner ailment, an inner disease, and only an inner doctor can
 * Section: Norway
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4357,8 +4357,8 @@ Each problem is an inner ailment, an inner disease, and only an inner doctor can
 * World peace through culture
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4433,8 +4433,8 @@ I have boundless peace when I succeed in pleasing the human in me: God the Creat
 * Section: The Philippines
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4442,8 +4442,8 @@ I have boundless peace when I succeed in pleasing the human in me: God the Creat
 * Self-knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4472,8 +4472,8 @@ When we live in the soul, we feel that our soul has all responsibility for us. W
 * God, truth and love
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4506,8 +4506,8 @@ I am Thy Vision’s Kite.
 * The body’s reality and the soul’s reality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4538,8 +4538,8 @@ The ordinary human body is imperfection incarnate. This imperfection can be tran
 * University: The wisdom-source of world peace-makers
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4640,8 +4640,8 @@ Infinity remains.
 *Section: Puerto Rico
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4649,8 +4649,8 @@ Infinity remains.
 * Know thyself
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4683,8 +4683,8 @@ We must cherish positive thoughts, positive ideas, positive ideals. Only then wi
 * The meaning of life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4741,8 +4741,8 @@ My life has three Gods: God the Existence, God the Consciousness and God the Bli
 * Section: Scotland
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -4750,8 +4750,8 @@ My life has three Gods: God the Existence, God the Consciousness and God the Bli
 * How to conquer doubt
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4824,8 +4824,8 @@ Doubt can be conquered. It has to be conquered. How? The only answer is constant
 * Divine duty and supreme reward
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4877,8 +4877,8 @@ When we realise this Truth, we fulfil all our duties. There can be no greater du
 * God’s school
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4926,8 +4926,8 @@ There is no end to a seeker’s journey. Every day we are surpassing our past ac
 * Desire and aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -4971,8 +4971,8 @@ If we really want to walk along the path of spirituality, then constantly we wil
 * Divine hope
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5014,8 +5014,8 @@ In his aspiration-light, the seeker enters into the Supreme’s Cosmic Dream to 
 * The way, the truth, the life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5092,8 +5092,8 @@ When we follow the divine life, when we lead a divine life, we always place God 
 * Ignorance and knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5127,8 +5127,8 @@ Knowledge tells us something more. Divine knowledge tells us that the many and t
 * Ingratitude and gratitude
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5166,8 +5166,8 @@ This gratitude-power is our expansion-power, our self-expansion-power. Each time
 * Section: Sweden
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -5175,8 +5175,8 @@ This gratitude-power is our expansion-power, our self-expansion-power. Each time
 * The secret of joy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5218,8 +5218,8 @@ If we are in the mind-room, we have to pray to enter into the heart-room. If we 
 * My peace-life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5246,8 +5246,8 @@ My inner world also has a Creator. My Lord Beloved Supreme is the Creator of my 
 * Who can grant me peace?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5276,8 +5276,8 @@ There is one more thing I can do to get peace in my day-to-day life. Early in th
 * Poetry—poem—poet
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5342,8 +5342,8 @@ Of My Infinity.”
 * Section: Switzerland
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -5351,8 +5351,8 @@ Of My Infinity.”
 * Love, devotion and surrender
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5441,8 +5441,8 @@ Immortality is all-fulfilling.
 * The seeker’s four lives
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5496,8 +5496,8 @@ In the spiritual life, conscious and divine surrender is the only way to realise
 * Spiritual purity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5527,8 +5527,8 @@ A child, before his mind is developed, before he knows what thought is, breathes
 * Miracles
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5582,8 +5582,8 @@ We do not need miracles. We do not need occult powers. What we need is God’s C
 * The aspiring life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5643,8 +5643,8 @@ We have seen that the world’s richest man wants to become still richer. No mat
 * Unreality and reality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5677,8 +5677,8 @@ In the inner world, the same individual offers love to God on the strength of hi
 * Fear and courage
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5715,8 +5715,8 @@ Then He tells us, “Children, do not be afraid of the known, do not be afraid o
 * How can I have peace?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5767,8 +5767,8 @@ My sweet Lord Beloved Supreme, how can the animal kingdom, the human kingdom, th
 * Peace, happiness and freedom
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5801,8 +5801,8 @@ A Truth-seeker and God-lover can have peace only on the strength of his surrende
 * Section: Wales
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -5810,8 +5810,8 @@ A Truth-seeker and God-lover can have peace only on the strength of his surrende
 * Curiosity or necessity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5892,8 +5892,8 @@ Today’s aspiration is tomorrow’s realisation. This is the only truth. This i
 * Force
 
   :PROPERTIES:
-  :GENRE: discourse
-  :CITE-KEY:
+  :genre: discourse
+  :cite-key:
   :END:
 
 
@@ -5932,8 +5932,8 @@ The force that is used by spiritual Masters is not physical force; it is not vit
 * Section: Notes
 
   :PROPERTIES:
-  :GENRE: section
-  :CITE-KEY:
+  :genre: section
+  :cite-key:
   :END:
 
 
@@ -5941,8 +5941,8 @@ The force that is used by spiritual Masters is not physical force; it is not vit
 * Alphabetical listing by country and by university
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY:
+  :genre: note
+  :cite-key:
   :END:
 
 

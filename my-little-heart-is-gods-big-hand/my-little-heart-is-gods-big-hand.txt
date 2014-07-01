@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 934
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: MLHG
-  :GENRE: song
+  :book-number: 934
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: MLHG
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MLHG:1e1
+  :genre: note
+  :cite-key: MLHG:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MLHG:1e2
+  :genre: note
+  :cite-key: MLHG:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Faithless Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:1
+  :cite-key: MLHG:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ My faithless life starves God.
 * My Idle Body
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:2
+  :cite-key: MLHG:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ My idle body puzzles God.
 * My Wild Vital
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:3
+  :cite-key: MLHG:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ My wild vital confuses God.
 * My Big Ears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:4
+  :cite-key: MLHG:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ God’s streaming Tears.
 * My Big Mouth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:5
+  :cite-key: MLHG:5
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ My big mouth is God’s Heart-failure.
 * My Stiff Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:6
+  :cite-key: MLHG:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ God’s severe headache!
 * My Little Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-07-1993
-  :CITE-KEY: MLHG:7
+  :cite-key: MLHG:7
   :END:
 
 #+BEGIN_VERSE

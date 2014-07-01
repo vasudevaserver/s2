@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1166
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: NNNS
-  :GENRE: song
+  :book-number: 1166
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: NNNS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NNNS:1e1
+  :genre: note
+  :cite-key: NNNS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: NNNS:1e2
+  :genre: note
+  :cite-key: NNNS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * America! Great You Are, Good You are
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1974
-  :CITE-KEY: NNNS:1
+  :cite-key: NNNS:1
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ With you, in you, is God-Hour’s Victory-Voice.
 * America America Tomai Namaskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: NNNS:2
+  :cite-key: NNNS:2
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ Tomar majhe peyechi mora shantir sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:3
+  :cite-key: NNNS:3
   :END:
 
 #+BEGIN_VERSE
@@ -104,10 +104,10 @@ In you, we have discovered the flood of peace.
 * Ajanar Trishatur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:4
+  :cite-key: NNNS:4
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ Shashwata
 * Amar Janani Bharata Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:5
+  :cite-key: NNNS:5
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Nashibe dharar sima bandhan
 * America Hiya Taba Akutir Hema Shikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:6
+  :cite-key: NNNS:6
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Paramer pratishtha maha bhasha
 * America Taba Bhale Paramer Joyatika
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:7
+  :cite-key: NNNS:7
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Taba bhale paramer joyatika
 * America Tumi Diyecho Amai Tomar Bishal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:8
+  :cite-key: NNNS:8
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Paramer vijayer gane nirbhoy
 * Americar Chidakashe Nutan Surjyadoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:9
+  :cite-key: NNNS:9
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Ei dharanite naba chetanar habeje abhyudoy
 * Ami Hetha America
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:10
+  :cite-key: NNNS:10
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ E dharar ananda ban
 * Asha Niye Bhasha Niye Antare Taba Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:11
+  :cite-key: NNNS:11
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Prem diye bandhiyachi
 * Bahu Bal Hiya Bal Ek Haye Ek Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:12
+  :cite-key: NNNS:12
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Maha swapaner ankhi phutibe
 * Esona Diye Tomai Ami Apan Kare Niyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:13
+  :cite-key: NNNS:13
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ Naba bhorer swadhin hasi tomar majhe dekhechi
 * Jago.. Shantir Bani Niye Jago Paramer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:14
+  :cite-key: NNNS:14
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Sudha hriday gabhire mago
 * Kuri Bachhar Kuri Bachhar Americar Sneha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: NNNS:15
+  :cite-key: NNNS:15
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Joy joy joy americar joy
 * Maha Shaktir Tumi Adhikari Nache Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:16
+  :cite-key: NNNS:16
   :END:
 
 #+BEGIN_VERSE
@@ -343,10 +343,10 @@ Nache tai kanurai giridhari
 * Markin Desh.. Param Prabhur Maha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:17
+  :cite-key: NNNS:17
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Nahi habe kabhu shesh
 * Mora Moder Americar Puto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: NNNS:18
+  :cite-key: NNNS:18
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Bishwa premer sandhyaratir dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:19
+  :cite-key: NNNS:19
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Of the world-love.
 * Namo Namo Namo Shakti Pujari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-06-1976
-  :CITE-KEY: NNNS:20
+  :cite-key: NNNS:20
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ Berai nachiya tumi lelihan shikha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-06-1976
-  :CITE-KEY: NNNS:21
+  :cite-key: NNNS:21
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ With ever-glowing flames of aspiration.
 * Ogo America Ogo Ananda Bhumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: NNNS:22
+  :cite-key: NNNS:22
   :END:
 
 #+BEGIN_VERSE
@@ -461,10 +461,10 @@ Prema ankhi subhatama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:23
+  :cite-key: NNNS:23
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ A most auspicious vision-light.
 * Ogo Bidhatar Sundar America
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-06-1970
-  :CITE-KEY: NNNS:24
+  :cite-key: NNNS:24
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ Akash phuler ananda chaanika
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-06-1970
-  :CITE-KEY: NNNS:25
+  :cite-key: NNNS:25
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ in the blue-vast-sky.
 * Paramer Turiyer Bani Niye Ami Hetha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:26
+  :cite-key: NNNS:26
   :END:
 
 #+BEGIN_VERSE
@@ -541,10 +541,10 @@ Mor hiya mor man mor pran mor tanu sanpiyachi
 * Shanti Dite Shakti Nite Tomar Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:27
+  :cite-key: NNNS:27
   :END:
 
 #+BEGIN_VERSE
@@ -558,10 +558,10 @@ Ek sathe aj swarga duar harsha bhare khulechi
 * Vir Vikrame Nashibe Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:28
+  :cite-key: NNNS:28
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Bhitare bahire kanurai banshi
 * Washington, Jefferson, Wilson
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 13-04-1984
-  :CITE-KEY: NNNS:29
+  :cite-key: NNNS:29
   :END:
 
 #+BEGIN_VERSE
@@ -600,10 +600,10 @@ Tumi dharar mukti shikha
 * April 13th, 1964
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: None
-  :CITE-KEY: NNNS:30
+  :cite-key: NNNS:30
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ April 13th, 1964!
 * April 13th, 1964
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1990
-  :CITE-KEY: NNNS:31
+  :cite-key: NNNS:31
   :END:
 
 #+BEGIN_VERSE
@@ -648,10 +648,10 @@ My Supreme’s Vision-blossoming Thrill.
 * Dear Jefferson, Sir Washington
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:32
+  :cite-key: NNNS:32
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Jefferson: You have given us nectar-delight.
 * Fifty Oneness-State-Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:33
+  :cite-key: NNNS:33
   :END:
 
 #+BEGIN_VERSE
@@ -695,10 +695,10 @@ To reveal America’s perfection-sky.
 * Nineteen Sixty-Four, April Thirteenth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1989
-  :CITE-KEY: NNNS:34
+  :cite-key: NNNS:34
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Eureka, Eureka, Eureka, Eureka!
 * O Green-Blue Sacred Fire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:35
+  :cite-key: NNNS:35
   :END:
 
 #+BEGIN_VERSE
@@ -733,10 +733,10 @@ My supreme promise-seed.
 * O Star-Spangled Banner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-04-1975
-  :CITE-KEY: NNNS:36
+  :cite-key: NNNS:36
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ For you is the world-Pilot’s Transcendence-Dream.
 * O Sweet Liberty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:37
+  :cite-key: NNNS:37
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ I know, I know, you alone are the world-hunger’s unerring need.
 * Seventeen Seventy-Six, O Fourth of July
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:38
+  :cite-key: NNNS:38
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ Three hearts grow into the Lord’s Satisfaction-Face.
 * The Fourth of July
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-07-1996
-  :CITE-KEY: NNNS:39
+  :cite-key: NNNS:39
   :END:
 
 #+BEGIN_VERSE
@@ -813,10 +813,10 @@ Arrived at freedom’s ectasy-shore.
 * California.. Prerana Pelam Tomar Duare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-09-1985
-  :CITE-KEY: NNNS:40
+  :cite-key: NNNS:40
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +836,10 @@ Tripti pelam tomar swarupe janiya
 * Chicago, Chicago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-07-1978
-  :CITE-KEY: NNNS:41
+  :cite-key: NNNS:41
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ Marks your lofty vision-sky.
 * Congress, Congress
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:42
+  :cite-key: NNNS:42
   :END:
 
 #+BEGIN_VERSE
@@ -875,10 +875,10 @@ You are your nation’s hope-promise-role.
 * Hawaii
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1979
-  :CITE-KEY: NNNS:43
+  :cite-key: NNNS:43
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Truth-seekers, life-lovers, in you find.
 * Hawaii... Phire Asi Bare Bare Taba Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1993
-  :CITE-KEY: NNNS:44
+  :cite-key: NNNS:44
   :END:
 
 #+BEGIN_VERSE
@@ -913,10 +913,10 @@ Ek bhati ek gati maha chetanai
 * I Bow to the Body of New York
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-04-1994
-  :CITE-KEY: NNNS:45
+  :cite-key: NNNS:45
   :END:
 
 #+BEGIN_VERSE
@@ -933,10 +933,10 @@ Of my Absolute Lord Beloved Supreme.
 * Miami... Mor Bahu Dure Tumi Rakho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1996
-  :CITE-KEY: NNNS:46
+  :cite-key: NNNS:46
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ Sabai apan nohe par keu
 * Minneapolis
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-10-1987
-  :CITE-KEY: NNNS:47
+  :cite-key: NNNS:47
   :END:
 
 #+BEGIN_VERSE
@@ -973,10 +973,10 @@ We fly your victory’s banner high.
 * Monticello
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-10-1989
-  :CITE-KEY: NNNS:48
+  :cite-key: NNNS:48
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Stop world-travellers, your journey close.
 * New Paltz
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-04-1991
-  :CITE-KEY: NNNS:49
+  :cite-key: NNNS:49
   :END:
 
 #+BEGIN_VERSE
@@ -1013,10 +1013,10 @@ Proclaim your soul’s ecstasy-flight.
 * O Polestar Statue of Liberty (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1996
-  :CITE-KEY: NNNS:50
+  :cite-key: NNNS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1034,10 +1034,10 @@ World-peace-hunger’s nectar-flooded Goal.
 * O Polestar Statue of Liberty (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-08-1996
-  :CITE-KEY: NNNS:51
+  :cite-key: NNNS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ World-peace-hunger’s nectar-flooded Goal.
 * O Polestar Statue of Liberty (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-1996
-  :CITE-KEY: NNNS:52
+  :cite-key: NNNS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ World-peace-hunger’s nectar-flooded Goal.
 * Pentagon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-07-1988
-  :CITE-KEY: NNNS:53
+  :cite-key: NNNS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1097,10 +1097,10 @@ Earth’s brightest, bravest power-dawn.
 * Philadelphia.. Nehari Tomar Shanti Labhimu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: NNNS:54
+  :cite-key: NNNS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1116,10 +1116,10 @@ Ananda setu urmi nritya dhara adharar
 * Philadelphia
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:55
+  :cite-key: NNNS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ O freedom lovers’ Utopia.
 * Philadelphia.. Tumi Je Amar Pulak Smritir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-05-1992
-  :CITE-KEY: NNNS:56
+  :cite-key: NNNS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1161,10 +1161,10 @@ Kritagya chite amar pranati
 * Philadelphia.. Swadhinata Ghanta Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-11-1996
-  :CITE-KEY: NNNS:57
+  :cite-key: NNNS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1182,10 +1182,10 @@ Prabhatilo prashphutiya
 * Sunshine State Joy Ride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-02-1984
-  :CITE-KEY: NNNS:58
+  :cite-key: NNNS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1203,10 +1203,10 @@ Our heart and lives in your God-stories.
 * Tampa.. Tumi Amar Hiyar Kusum Champa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1996
-  :CITE-KEY: NNNS:59
+  :cite-key: NNNS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1223,10 +1223,10 @@ Pujbo tushbo prabhure mor habo ami ananda bhor
 * World-Peace, Earth-Peace Capital
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1991
-  :CITE-KEY: NNNS:60
+  :cite-key: NNNS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1244,10 +1244,10 @@ Opens God’s Victory-Gate.
 * Alabama Alabama Alabama Alabama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:61
+  :cite-key: NNNS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1261,10 +1261,10 @@ Alabama Alabama Alabama Alabama . . .
 * Alaska Alaska Alaska
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:62
+  :cite-key: NNNS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1278,10 +1278,10 @@ Alaska Alaska Alaska
 * Arizona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:63
+  :cite-key: NNNS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1294,10 +1294,10 @@ Arizona Arizona Arizona
 * Arkansas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:64
+  :cite-key: NNNS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1310,10 +1310,10 @@ Arkansas Arkansas Arkansas Arkansas
 * California
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-09-1985
-  :CITE-KEY: NNNS:65
+  :cite-key: NNNS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1328,10 +1328,10 @@ California, California, California, California!
 * Colorado
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:66
+  :cite-key: NNNS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1345,10 +1345,10 @@ Colorado Colorado Colorado Colorado Colorado
 * Connecticut
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:67
+  :cite-key: NNNS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1363,10 +1363,10 @@ Connecticut, Connecticut, Connecticut,
 * Delaware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:68
+  :cite-key: NNNS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1379,10 +1379,10 @@ Delaware Delaware Delaware Delaware
 * Florida
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:69
+  :cite-key: NNNS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1395,10 +1395,10 @@ Florida
 * Georgia State
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:70
+  :cite-key: NNNS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1411,10 +1411,10 @@ Georgia Georgia Georgia Georgia
 * Hawaii, Hawaii
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:71
+  :cite-key: NNNS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1427,10 +1427,10 @@ Hawaii Hawaii Hawaii
 * Idaho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:72
+  :cite-key: NNNS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1443,10 +1443,10 @@ Idaho Idaho Idaho Idaho
 * Illinois
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:73
+  :cite-key: NNNS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1459,10 +1459,10 @@ Illinois Illinois
 * Indiana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:74
+  :cite-key: NNNS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1475,10 +1475,10 @@ Indiana Indiana Indiana Indiana
 * Iowa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:75
+  :cite-key: NNNS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1491,10 +1491,10 @@ Iowa Iowa Iowa Iowa
 * Kansas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:76
+  :cite-key: NNNS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1507,10 +1507,10 @@ Kansas Kansas Kansas
 * Kentucky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:77
+  :cite-key: NNNS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1523,10 +1523,10 @@ Kentucky Kentucky Kentucky Kentucky Kentucky
 * Louisiana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:78
+  :cite-key: NNNS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ Louisiana Louisiana Louisiana Louisiana
 * Maine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:79
+  :cite-key: NNNS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1555,10 +1555,10 @@ Maine Maine Maine
 * Maryland
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:80
+  :cite-key: NNNS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1571,10 +1571,10 @@ Maryland Maryland Maryland Maryland
 * Massachusetts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:81
+  :cite-key: NNNS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1587,10 +1587,10 @@ Massachusetts Massachusetts Massachusetts
 * Michigan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:82
+  :cite-key: NNNS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ Michigan Michigan Michigan Michigan
 * Minnesota
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:83
+  :cite-key: NNNS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1619,10 +1619,10 @@ Minnesota Minnesota Minnesota
 * Mississippi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:84
+  :cite-key: NNNS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1635,10 +1635,10 @@ Mississippi Mississippi Mississippi
 * Missouri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:85
+  :cite-key: NNNS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1651,10 +1651,10 @@ Missouri Missouri Missouri Missouri
 * Montana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:86
+  :cite-key: NNNS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1667,10 +1667,10 @@ Montana Montana Montana Montana
 * Nebraska
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:87
+  :cite-key: NNNS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1683,10 +1683,10 @@ Nebraska Nebraska Nebraska
 * Nevada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:88
+  :cite-key: NNNS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1699,10 +1699,10 @@ Nevada Nevada Nevada Nevada
 * New Hampshire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:89
+  :cite-key: NNNS:89
   :END:
 
 #+BEGIN_VERSE
@@ -1715,10 +1715,10 @@ New Hampshire New Hampshire New Hampshire
 * New Jersey
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:90
+  :cite-key: NNNS:90
   :END:
 
 #+BEGIN_VERSE
@@ -1731,10 +1731,10 @@ New Jersey New Jersey
 * New Mexico
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:91
+  :cite-key: NNNS:91
   :END:
 
 #+BEGIN_VERSE
@@ -1747,10 +1747,10 @@ New Mexico New Mexico New Mexico
 * New York
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:92
+  :cite-key: NNNS:92
   :END:
 
 #+BEGIN_VERSE
@@ -1763,10 +1763,10 @@ New York New York New York New York New York
 * North Carolina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:93
+  :cite-key: NNNS:93
   :END:
 
 #+BEGIN_VERSE
@@ -1779,10 +1779,10 @@ North Carolina North Carolina North Carolina
 * North Dakota
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:94
+  :cite-key: NNNS:94
   :END:
 
 #+BEGIN_VERSE
@@ -1795,10 +1795,10 @@ North Dakota
 * Ohio
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:95
+  :cite-key: NNNS:95
   :END:
 
 #+BEGIN_VERSE
@@ -1811,10 +1811,10 @@ Ohio Ohio Ohio Ohio
 * Oklahoma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:96
+  :cite-key: NNNS:96
   :END:
 
 #+BEGIN_VERSE
@@ -1827,10 +1827,10 @@ Oklahoma Oklahoma Oklahoma
 * Oregon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:97
+  :cite-key: NNNS:97
   :END:
 
 #+BEGIN_VERSE
@@ -1843,10 +1843,10 @@ Oregon Oregon Oregon Oregon Oregon Oregon
 * Pennsylvania
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:98
+  :cite-key: NNNS:98
   :END:
 
 #+BEGIN_VERSE
@@ -1859,10 +1859,10 @@ Pennsylvania Pennsylvania Pennsylvania
 * Rhode Island
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:99
+  :cite-key: NNNS:99
   :END:
 
 #+BEGIN_VERSE
@@ -1875,10 +1875,10 @@ Rhode Island Rhode Island Rhode Island
 * South Carolina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:100
+  :cite-key: NNNS:100
   :END:
 
 #+BEGIN_VERSE
@@ -1891,10 +1891,10 @@ South Carolina South Carolina
 * South Dakota
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:101
+  :cite-key: NNNS:101
   :END:
 
 #+BEGIN_VERSE
@@ -1907,10 +1907,10 @@ South Dakota South Dakota South Dakota
 * Tennessee
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:102
+  :cite-key: NNNS:102
   :END:
 
 #+BEGIN_VERSE
@@ -1923,10 +1923,10 @@ Tennessee Tennessee Tennessee
 * Texas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:103
+  :cite-key: NNNS:103
   :END:
 
 #+BEGIN_VERSE
@@ -1939,10 +1939,10 @@ Texas Texas Texas Texas Texas
 * Utah
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:104
+  :cite-key: NNNS:104
   :END:
 
 #+BEGIN_VERSE
@@ -1955,10 +1955,10 @@ Utah Utah Utah Utah
 * Vermont
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:105
+  :cite-key: NNNS:105
   :END:
 
 #+BEGIN_VERSE
@@ -1971,10 +1971,10 @@ Vermont Vermont Vermont Vermont
 * Virginia
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:106
+  :cite-key: NNNS:106
   :END:
 
 #+BEGIN_VERSE
@@ -1987,10 +1987,10 @@ Virginia
 * Washington
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:107
+  :cite-key: NNNS:107
   :END:
 
 #+BEGIN_VERSE
@@ -2003,10 +2003,10 @@ Washington
 * West Virginia
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:108
+  :cite-key: NNNS:108
   :END:
 
 #+BEGIN_VERSE
@@ -2019,10 +2019,10 @@ West Virginia West Virginia West Virginia
 * Wisconsin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:109
+  :cite-key: NNNS:109
   :END:
 
 #+BEGIN_VERSE
@@ -2035,10 +2035,10 @@ Wisconsin Wisconsin Wisconsin
 * Wyoming
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:110
+  :cite-key: NNNS:110
   :END:
 
 #+BEGIN_VERSE
@@ -2051,10 +2051,10 @@ Wyoming Wyoming Wyoming
 * God Enriches
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:111
+  :cite-key: NNNS:111
   :END:
 
 #+BEGIN_VERSE
@@ -2068,10 +2068,10 @@ God enriches.
 * North to the Future
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:112
+  :cite-key: NNNS:112
   :END:
 
 #+BEGIN_VERSE
@@ -2085,10 +2085,10 @@ North to the Future.
 * The People Rule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:113
+  :cite-key: NNNS:113
   :END:
 
 #+BEGIN_VERSE
@@ -2102,10 +2102,10 @@ The people rule.
 * We Dare Defend Our Rights
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:114
+  :cite-key: NNNS:114
   :END:
 
 #+BEGIN_VERSE
@@ -2119,10 +2119,10 @@ We dare defend our rights.
 * We Hold These Truths to Be Self-Evident
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-11-1977
-  :CITE-KEY: NNNS:115
+  :cite-key: NNNS:115
   :END:
 
 #+BEGIN_VERSE
@@ -2136,10 +2136,10 @@ We hold these truths to be self-evident, that all men are created equal, that th
 * Ask Not What Your Country Can Do for You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:116
+  :cite-key: NNNS:116
   :END:
 
 #+BEGIN_VERSE
@@ -2154,10 +2154,10 @@ Ask what you can do for your country.
 * First in War, First in Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:117
+  :cite-key: NNNS:117
   :END:
 
 #+BEGIN_VERSE
@@ -2172,10 +2172,10 @@ of his countrymen.
 * Give Me Liberty, or Give Me Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:118
+  :cite-key: NNNS:118
   :END:
 
 #+BEGIN_VERSE
@@ -2189,10 +2189,10 @@ Give me liberty, or give me death.
 * I Only Regret
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: NNNS:119
+  :cite-key: NNNS:119
   :END:
 
 #+BEGIN_VERSE

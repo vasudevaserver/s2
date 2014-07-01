@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0056
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SSSS
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0056
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: SSSS
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 *  Part I: Something
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SSSS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SSSS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * 1
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:1
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:1
   :END:
 
 
@@ -49,9 +49,9 @@ Something to forget --
 * 2
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:2
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:2
   :END:
 
 
@@ -66,9 +66,9 @@ Something to remember --
 * 3
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:3
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:3
   :END:
 
 
@@ -83,9 +83,9 @@ Something to forget immediately --
 * 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:4
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:4
   :END:
 
 
@@ -100,9 +100,9 @@ Something to remember immediately --
 * 5
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:5
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:5
   :END:
 
 
@@ -118,9 +118,9 @@ Something to forget today, tomorrow
 * 6
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:6
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:6
   :END:
 
 
@@ -136,9 +136,9 @@ Something to remember today, tomorrow
 * 7
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:7
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:7
   :END:
 
 
@@ -153,9 +153,9 @@ Something to like --
 * 8
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:8
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:8
   :END:
 
 
@@ -170,9 +170,9 @@ Something to dislike --
 * 9
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:9
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:9
   :END:
 
 
@@ -187,9 +187,9 @@ Something to see --
 * 10
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:10
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:10
   :END:
 
 
@@ -204,9 +204,9 @@ Something to hear --
 * 11
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:11
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:11
   :END:
 
 
@@ -221,9 +221,9 @@ Something to feel --
 * 12
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:12
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:12
   :END:
 
 
@@ -238,9 +238,9 @@ Something to hide --
 * 13
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:13
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:13
   :END:
 
 
@@ -255,9 +255,9 @@ Something to reveal --
 * 14
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:14
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:14
   :END:
 
 
@@ -272,9 +272,9 @@ Something to drink --
 * 15
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:15
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:15
   :END:
 
 
@@ -289,9 +289,9 @@ Something to eat --
 * 16
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:16
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:16
   :END:
 
 
@@ -306,9 +306,9 @@ Something never to treasure --
 * 17
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:17
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:17
   :END:
 
 
@@ -323,9 +323,9 @@ Something ever to treasure --
 * 18
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:18
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:18
   :END:
 
 
@@ -340,9 +340,9 @@ Something can be liberated --
 * 19
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:19
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:19
   :END:
 
 
@@ -357,9 +357,9 @@ Something can be perfected --
 * 20
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:20
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:20
   :END:
 
 
@@ -374,9 +374,9 @@ Something man likes --
 * 21
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:21
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:21
   :END:
 
 
@@ -392,9 +392,9 @@ Something God likes --
 * 22
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:22
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:22
   :END:
 
 
@@ -410,9 +410,9 @@ Something I saw --
 * 23
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:23
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:23
   :END:
 
 
@@ -428,9 +428,9 @@ Something I see --
 * 24
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:24
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:24
   :END:
 
 
@@ -446,9 +446,9 @@ Something I shall see --
 * 25
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:25
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:25
   :END:
 
 
@@ -463,9 +463,9 @@ Something can destroy humanity --
 * 26
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:26
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:26
   :END:
 
 
@@ -480,9 +480,9 @@ Something can immortalise humanity --
 * 27
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:27
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:27
   :END:
 
 
@@ -497,9 +497,9 @@ Something to think about --
 * 28
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:28
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:28
   :END:
 
 
@@ -514,9 +514,9 @@ Something to talk about --
 * 29
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:29
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:29
   :END:
 
 
@@ -531,9 +531,9 @@ Something essential --
 * 30
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:30
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:30
   :END:
 
 
@@ -548,9 +548,9 @@ Something non-essential --
 * 31
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:31
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:31
   :END:
 
 
@@ -565,9 +565,9 @@ Something indispensable --
 * 32
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:32
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:32
   :END:
 
 
@@ -582,9 +582,9 @@ Something to strangle --
 * 33
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:33
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:33
   :END:
 
 
@@ -599,9 +599,9 @@ Something to embrace --
 * 34
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:34
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:34
   :END:
 
 
@@ -616,9 +616,9 @@ Something to learn --
 * 35
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:35
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:35
   :END:
 
 
@@ -633,9 +633,9 @@ Something to unlearn --
 * 36
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:36
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:36
   :END:
 
 
@@ -650,9 +650,9 @@ Something I saw in God's Palace --
 * 37
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:37
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:37
   :END:
 
 
@@ -667,9 +667,9 @@ Something I saw in God's Court --
 * 38
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:38
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:38
   :END:
 
 
@@ -684,9 +684,9 @@ Something I saw on God's Throne --
 * 39
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:39
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:39
   :END:
 
 
@@ -701,9 +701,9 @@ Something I saw in God's Crown --
 * 40
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:40
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:40
   :END:
 
 
@@ -718,9 +718,9 @@ Something past correction --
 * 41
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:41
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:41
   :END:
 
 
@@ -735,9 +735,9 @@ Something needing no correction --
 * 42
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:42
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:42
   :END:
 
 
@@ -752,9 +752,9 @@ Something to please God --
 * 43
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:43
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:43
   :END:
 
 
@@ -769,9 +769,9 @@ Something to please man --
 * 44
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:44
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:44
   :END:
 
 
@@ -786,9 +786,9 @@ Something to love --
 * 45
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:45
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:45
   :END:
 
 
@@ -803,9 +803,9 @@ Something to be loved by --
 * 46
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:46
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:46
   :END:
 
 
@@ -820,9 +820,9 @@ Something I chose --
 * 47
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:47
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:47
   :END:
 
 
@@ -837,9 +837,9 @@ Something I choose --
 * 48
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:48
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:48
   :END:
 
 
@@ -854,9 +854,9 @@ Something I shall choose --
 * 49
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:49
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:49
   :END:
 
 
@@ -871,9 +871,9 @@ Something I was --
 * 50
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:50
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:50
   :END:
 
 
@@ -888,9 +888,9 @@ Something I am --
 * 51
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:51
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:51
   :END:
 
 
@@ -905,9 +905,9 @@ Something I shall become --
 * Part II: Somehow
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SSSS:52e1
+  :genre: section
+  :keywords:
+  :cite-key: SSSS:52e1
   :END:
 
 
@@ -915,9 +915,9 @@ Something I shall become --
 * 1
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:52
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:52
   :END:
 
 
@@ -932,9 +932,9 @@ Somehow --
 * 2
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:53
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:53
   :END:
 
 
@@ -951,9 +951,9 @@ Somehow --
 * 3
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:54
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:54
   :END:
 
 
@@ -969,9 +969,9 @@ Somehow --
 * 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:55
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:55
   :END:
 
 
@@ -987,9 +987,9 @@ Somehow --
 * 5
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:56
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:56
   :END:
 
 
@@ -1004,9 +1004,9 @@ Somehow --
 * 6
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:57
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:57
   :END:
 
 
@@ -1021,9 +1021,9 @@ Somehow --
 * 7
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:58
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:58
   :END:
 
 
@@ -1038,9 +1038,9 @@ Somehow --
 * 8
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:59
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:59
   :END:
 
 
@@ -1055,9 +1055,9 @@ Somehow --
 * 9
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:60
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:60
   :END:
 
 
@@ -1072,9 +1072,9 @@ Somehow --
 * 10
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:61
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:61
   :END:
 
 
@@ -1089,9 +1089,9 @@ Somehow --
 * 11
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:62
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:62
   :END:
 
 
@@ -1107,9 +1107,9 @@ Somehow --
 * 12
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:63
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:63
   :END:
 
 
@@ -1125,9 +1125,9 @@ Somehow --
 * 13
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:64
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:64
   :END:
 
 
@@ -1143,9 +1143,9 @@ Somehow --
 * 14
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:65
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:65
   :END:
 
 
@@ -1161,9 +1161,9 @@ Somehow --
 * 15
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:66
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:66
   :END:
 
 
@@ -1179,9 +1179,9 @@ Somehow --
 * 16
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:67
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:67
   :END:
 
 
@@ -1197,9 +1197,9 @@ Somehow --
 * 17
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:68
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:68
   :END:
 
 
@@ -1215,9 +1215,9 @@ Somehow --
 * 18
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:69
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:69
   :END:
 
 
@@ -1233,9 +1233,9 @@ Somehow --
 * 19
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:70
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:70
   :END:
 
 
@@ -1251,9 +1251,9 @@ Somehow --
 * 20
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:71
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:71
   :END:
 
 
@@ -1270,9 +1270,9 @@ Somehow --
 * 21
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:72
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:72
   :END:
 
 
@@ -1288,9 +1288,9 @@ Somehow --
 * 22
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:73
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:73
   :END:
 
 
@@ -1306,9 +1306,9 @@ Somehow --
 * 23
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:74
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:74
   :END:
 
 
@@ -1325,9 +1325,9 @@ Somehow --
 * 24
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:75
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:75
   :END:
 
 
@@ -1345,9 +1345,9 @@ Somehow --
 * 25
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:76
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:76
   :END:
 
 
@@ -1363,9 +1363,9 @@ Somehow --
 * 26
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:77
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:77
   :END:
 
 
@@ -1381,9 +1381,9 @@ Somehow --
 * 27
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:78
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:78
   :END:
 
 
@@ -1399,9 +1399,9 @@ Somehow --
 * 28
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:79
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:79
   :END:
 
 
@@ -1417,9 +1417,9 @@ Somehow --
 * 29
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:80
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:80
   :END:
 
 
@@ -1435,9 +1435,9 @@ Somehow --
 * 30
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:81
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:81
   :END:
 
 
@@ -1453,9 +1453,9 @@ Somehow --
 * 31
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:82
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:82
   :END:
 
 
@@ -1471,9 +1471,9 @@ Somehow --
 * 32
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:83
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:83
   :END:
 
 
@@ -1490,9 +1490,9 @@ Somehow --
 * 33
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:84
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:84
   :END:
 
 
@@ -1508,9 +1508,9 @@ Somehow --
 * 34
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:85
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:85
   :END:
 
 
@@ -1527,9 +1527,9 @@ Somehow --
 * 35
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:86
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:86
   :END:
 
 
@@ -1546,9 +1546,9 @@ Somehow --
 * 36
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:87
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:87
   :END:
 
 
@@ -1565,9 +1565,9 @@ Somehow --
 * 37
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:88
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:88
   :END:
 
 
@@ -1584,9 +1584,9 @@ Somehow --
 * 38
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:89
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:89
   :END:
 
 
@@ -1603,9 +1603,9 @@ Somehow --
 * 39
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:90
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:90
   :END:
 
 
@@ -1621,9 +1621,9 @@ Somehow --
 * 40
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:91
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:91
   :END:
 
 
@@ -1639,9 +1639,9 @@ Somehow --
 * 41
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:92
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:92
   :END:
 
 
@@ -1657,9 +1657,9 @@ Somehow --
 * 42
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:93
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:93
   :END:
 
 
@@ -1676,9 +1676,9 @@ Somehow --
 * 43
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:94
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:94
   :END:
 
 
@@ -1695,9 +1695,9 @@ Somehow --
 * 44
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:95
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:95
   :END:
 
 
@@ -1714,9 +1714,9 @@ Somehow --
 * 45
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:96
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:96
   :END:
 
 
@@ -1733,9 +1733,9 @@ Somehow --
 * 46
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:97
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:97
   :END:
 
 
@@ -1752,9 +1752,9 @@ Somehow --
 * 47
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:98
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:98
   :END:
 
 
@@ -1770,9 +1770,9 @@ Somehow --
 * 48
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:99
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:99
   :END:
 
 
@@ -1788,9 +1788,9 @@ Somehow --
 * 49
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:100
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:100
   :END:
 
 
@@ -1805,9 +1805,9 @@ Somehow --
 * 50
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:101
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:101
   :END:
 
 
@@ -1822,9 +1822,9 @@ Somehow --
 * 51
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:102
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:102
   :END:
 
 
@@ -1844,9 +1844,9 @@ Somehow --
 * 52
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:103
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:103
   :END:
 
 
@@ -1863,9 +1863,9 @@ Somehow --
 * 53
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:104
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:104
   :END:
 
 
@@ -1883,9 +1883,9 @@ Somehow --
 * 54
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:105
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:105
   :END:
 
 
@@ -1901,9 +1901,9 @@ Somehow --
 * 55
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:106
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:106
   :END:
 
 
@@ -1919,9 +1919,9 @@ Somehow --
 * 56
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:107
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:107
   :END:
 
 
@@ -1938,9 +1938,9 @@ Somehow --
 * 57
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:108
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:108
   :END:
 
 
@@ -1956,9 +1956,9 @@ Somehow --
 * 58
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:109
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:109
   :END:
 
 
@@ -1975,9 +1975,9 @@ Somehow --
 * 59
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:110
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:110
   :END:
 
 
@@ -1994,9 +1994,9 @@ Somehow --
 * Part III: Somewhere
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SSSS:111e1
+  :genre: section
+  :keywords:
+  :cite-key: SSSS:111e1
   :END:
 
 
@@ -2004,9 +2004,9 @@ Somehow --
 * 1
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:111
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:111
   :END:
 
 
@@ -2021,9 +2021,9 @@ Somewhere to go --
 * 2
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:112
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:112
   :END:
 
 
@@ -2038,9 +2038,9 @@ Somewhere to start --
 * 3
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:113
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:113
   :END:
 
 
@@ -2055,9 +2055,9 @@ Somewhere to stop --
 * 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:114
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:114
   :END:
 
 
@@ -2073,9 +2073,9 @@ Somewhere God can be seen first --
 * 5
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:115
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:115
   :END:
 
 
@@ -2091,9 +2091,9 @@ Somewhere God can be seen next --
 * 6
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:116
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:116
   :END:
 
 
@@ -2109,9 +2109,9 @@ Somewhere God can be seen later on --
 * 7
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:117
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:117
   :END:
 
 
@@ -2127,9 +2127,9 @@ Somewhere God can be seen last --
 * 8
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:118
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:118
   :END:
 
 
@@ -2145,9 +2145,9 @@ Somewhere the world can see God's Beauty --
 * 9
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:119
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:119
   :END:
 
 
@@ -2164,9 +2164,9 @@ Somewhere the world can see God's Power --
 * 10
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:120
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:120
   :END:
 
 
@@ -2183,9 +2183,9 @@ Somewhere the world can see God's Light --
 * 11
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:121
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:121
   :END:
 
 
@@ -2202,9 +2202,9 @@ Somewhere God's Bliss can be seen  --
 * 12
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:122
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:122
   :END:
 
 
@@ -2221,9 +2221,9 @@ Somewhere God's Peace can be seen  --
 * 13
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:123
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:123
   :END:
 
 
@@ -2238,9 +2238,9 @@ Somewhere God's Justice exists  --
 * 14
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:124
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:124
   :END:
 
 
@@ -2255,9 +2255,9 @@ Somewhere God's Forgiveness exists  --
 * 15
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:125
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:125
   :END:
 
 
@@ -2273,9 +2273,9 @@ Somewhere I am invited to sing --
 * 16
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:126
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:126
   :END:
 
 
@@ -2291,9 +2291,9 @@ Somewhere I am not invited to sing --
 * 17
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:127
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:127
   :END:
 
 
@@ -2309,9 +2309,9 @@ Somewhere I saw the face of doubt --
 * 18
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:128
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:128
   :END:
 
 
@@ -2327,9 +2327,9 @@ Somewhere I saw the face of depression --
 * 19
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:129
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:129
   :END:
 
 
@@ -2349,9 +2349,9 @@ Somewhere I saw the face of failure --
 * 20
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:130
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:130
   :END:
 
 
@@ -2367,9 +2367,9 @@ Somewhere I lost myself --
 * 21
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:131
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:131
   :END:
 
 
@@ -2385,9 +2385,9 @@ Somewhere I find myself --
 * 22
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:132
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:132
   :END:
 
 
@@ -2406,9 +2406,9 @@ Somewhere I want to drink nectar --
 * 23
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:133
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:133
   :END:
 
 
@@ -2425,9 +2425,9 @@ Somewhere divine realisation can play --
 * 24
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:134
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:134
   :END:
 
 
@@ -2444,9 +2444,9 @@ Somewhere divine revelation can sing --
 * 25
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:135
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:135
   :END:
 
 
@@ -2465,9 +2465,9 @@ Somewhere divine manifestation can dance --
 * 26
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:136
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:136
   :END:
 
 
@@ -2483,9 +2483,9 @@ Somewhere to go to see the divine Light --
 * 27
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:137
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:137
   :END:
 
 
@@ -2501,9 +2501,9 @@ Somewhere to go to see the divine Peace --
 * 28
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:138
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:138
   :END:
 
 
@@ -2519,9 +2519,9 @@ Somewhere to go to see the divine Power --
 * 29
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:139
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:139
   :END:
 
 
@@ -2538,9 +2538,9 @@ Somewhere to go to see the divine Bliss --
 * 30
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:140
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:140
   :END:
 
 
@@ -2558,9 +2558,9 @@ Somewhere --
 * 31
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:141
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:141
   :END:
 
 
@@ -2576,9 +2576,9 @@ Somewhere God must be seen --
 * 32
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:142
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:142
   :END:
 
 
@@ -2594,9 +2594,9 @@ Somewhere God must be felt --
 * 33
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:143
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:143
   :END:
 
 
@@ -2612,9 +2612,9 @@ Somewhere God must be realised --
 * 34
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:144
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:144
   :END:
 
 
@@ -2631,9 +2631,9 @@ Somewhere the body is great --
 * 35
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:145
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:145
   :END:
 
 
@@ -2650,9 +2650,9 @@ Somewhere the vital is great --
 * 36
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:146
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:146
   :END:
 
 
@@ -2669,9 +2669,9 @@ Somewhere the mind is great --
 * 37
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:147
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:147
   :END:
 
 
@@ -2688,9 +2688,9 @@ Somewhere the heart is great --
 * 38
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:148
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:148
   :END:
 
 
@@ -2710,9 +2710,9 @@ Somewhere the soul is great --
 * 39
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:149
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:149
   :END:
 
 
@@ -2728,9 +2728,9 @@ Somewhere there is rest --
 * 40
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:150
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:150
   :END:
 
 
@@ -2746,9 +2746,9 @@ Somewhere there is God's Nest --
 * 41
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:151
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:151
   :END:
 
 
@@ -2763,9 +2763,9 @@ Somewhere there should be some beauty --
 * 42
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:152
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:152
   :END:
 
 
@@ -2782,9 +2782,9 @@ Somewhere there should be some purity --
 * 43
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:153
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:153
   :END:
 
 
@@ -2801,9 +2801,9 @@ Somewhere there should be some humility --
 * 44
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:154
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:154
   :END:
 
 
@@ -2819,9 +2819,9 @@ Somewhere there is no God --
 * 45
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:155
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:155
   :END:
 
 
@@ -2838,9 +2838,9 @@ Somewhere there is only God --
 * 46
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:156
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:156
   :END:
 
 
@@ -2858,9 +2858,9 @@ Somewhere God surrenders to man's will --
 * 47
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:157
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:157
   :END:
 
 
@@ -2880,9 +2880,9 @@ Somewhere man-made wars will end --
 * 48
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:158
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:158
   :END:
 
 
@@ -2902,9 +2902,9 @@ earth's hope and Heaven's love --
 * 49
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:159
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:159
   :END:
 
 
@@ -2924,9 +2924,9 @@ man will be Immortality's pride --
 *  Part IV: Someday
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SSSS:160e1
+  :genre: section
+  :keywords:
+  :cite-key: SSSS:160e1
   :END:
 
 
@@ -2934,9 +2934,9 @@ man will be Immortality's pride --
 * 1
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:160
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:160
   :END:
 
 
@@ -2952,9 +2952,9 @@ Someday --
 * 2
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:161
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:161
   :END:
 
 
@@ -2971,9 +2971,9 @@ Someday --
 * 3
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:162
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:162
   :END:
 
 
@@ -2990,9 +2990,9 @@ Someday --
 * 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:163
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:163
   :END:
 
 
@@ -3009,9 +3009,9 @@ Someday --
 * 5
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:164
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:164
   :END:
 
 
@@ -3028,9 +3028,9 @@ Someday --
 * 6
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:165
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:165
   :END:
 
 
@@ -3047,9 +3047,9 @@ Someday --
 * 7
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:166
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:166
   :END:
 
 
@@ -3066,9 +3066,9 @@ Someday --
 * 8
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:167
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:167
   :END:
 
 
@@ -3085,9 +3085,9 @@ Someday --
 * 9
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:168
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:168
   :END:
 
 
@@ -3104,9 +3104,9 @@ Someday --
 * 10
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:169
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:169
   :END:
 
 
@@ -3123,9 +3123,9 @@ Someday --
 * 11
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:170
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:170
   :END:
 
 
@@ -3141,9 +3141,9 @@ Someday --
 * 12
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:171
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:171
   :END:
 
 
@@ -3161,9 +3161,9 @@ Someday --
 * 13
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:172
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:172
   :END:
 
 
@@ -3179,9 +3179,9 @@ Someday --
 * 14
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:173
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:173
   :END:
 
 
@@ -3197,9 +3197,9 @@ Someday --
 * 15
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:174
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:174
   :END:
 
 
@@ -3215,9 +3215,9 @@ Someday --
 * 16
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:175
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:175
   :END:
 
 
@@ -3235,9 +3235,9 @@ Someday --
 * 17
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:176
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:176
   :END:
 
 
@@ -3253,9 +3253,9 @@ Someday --
 * 18
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:177
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:177
   :END:
 
 
@@ -3271,9 +3271,9 @@ Someday --
 * 19
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:178
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:178
   :END:
 
 
@@ -3289,9 +3289,9 @@ Someday --
 * 20
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:179
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:179
   :END:
 
 
@@ -3307,9 +3307,9 @@ Someday --
 * 21
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:180
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:180
   :END:
 
 
@@ -3325,9 +3325,9 @@ Someday --
 * 22
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:181
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:181
   :END:
 
 
@@ -3343,9 +3343,9 @@ Someday --
 * 23
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:182
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:182
   :END:
 
 
@@ -3361,9 +3361,9 @@ Someday --
 * 24
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:183
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:183
   :END:
 
 
@@ -3379,9 +3379,9 @@ Someday --
 * 25
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:184
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:184
   :END:
 
 
@@ -3397,9 +3397,9 @@ Someday --
 * 26
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:185
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:185
   :END:
 
 
@@ -3416,9 +3416,9 @@ Someday --
 * 27
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:186
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:186
   :END:
 
 
@@ -3435,9 +3435,9 @@ Someday --
 * 28
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:187
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:187
   :END:
 
 
@@ -3455,9 +3455,9 @@ Someday --
 * 29
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:188
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:188
   :END:
 
 
@@ -3474,9 +3474,9 @@ Someday --
 * 30
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:189
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:189
   :END:
 
 
@@ -3494,9 +3494,9 @@ Someday --
 * 31
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:190
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:190
   :END:
 
 
@@ -3513,9 +3513,9 @@ Someday --
 * 32
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:191
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:191
   :END:
 
 
@@ -3532,9 +3532,9 @@ Someday --
 * 33
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:192
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:192
   :END:
 
 
@@ -3551,9 +3551,9 @@ Someday --
 * 34
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:193
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:193
   :END:
 
 
@@ -3570,9 +3570,9 @@ Someday --
 * 35
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:194
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:194
   :END:
 
 
@@ -3590,9 +3590,9 @@ Someday --
 * 36
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:195
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:195
   :END:
 
 
@@ -3613,9 +3613,9 @@ Someday --
 * 37
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:196
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:196
   :END:
 
 
@@ -3637,9 +3637,9 @@ Someday --
 * 38
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:197
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:197
   :END:
 
 
@@ -3667,9 +3667,9 @@ Someday --
 * 39
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:198
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:198
   :END:
 
 
@@ -3686,9 +3686,9 @@ Someday --
 * 40
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:199
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:199
   :END:
 
 
@@ -3705,9 +3705,9 @@ Someday --
 * 41
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:200
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:200
   :END:
 
 
@@ -3724,9 +3724,9 @@ Someday --
 * 42
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:201
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:201
   :END:
 
 
@@ -3743,9 +3743,9 @@ Someday --
 * 43
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:202
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:202
   :END:
 
 
@@ -3762,9 +3762,9 @@ Someday --
 * 44
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:203
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:203
   :END:
 
 
@@ -3781,9 +3781,9 @@ Someday --
 * 45
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:204
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:204
   :END:
 
 
@@ -3800,9 +3800,9 @@ Someday --
 * 46
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:205
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:205
   :END:
 
 
@@ -3819,9 +3819,9 @@ Someday --
 * 47
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:206
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:206
   :END:
 
 
@@ -3838,9 +3838,9 @@ Someday --
 * 48
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:207
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:207
   :END:
 
 
@@ -3857,9 +3857,9 @@ Someday --
 * 49
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:208
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:208
   :END:
 
 
@@ -3876,9 +3876,9 @@ Someday --
 * 50
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:209
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:209
   :END:
 
 
@@ -3895,9 +3895,9 @@ Someday --
 * 51
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:210
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:210
   :END:
 
 
@@ -3914,9 +3914,9 @@ Someday --
 * 52
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:211
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:211
   :END:
 
 
@@ -3933,9 +3933,9 @@ Someday --
 * 53
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: SSSS:212
+  :genre: poem
+  :keywords:
+  :cite-key: SSSS:212
   :END:
 
 

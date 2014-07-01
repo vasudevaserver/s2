@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0513
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1982
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MST
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0513
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1982
+  :publisher: Agni Press
+  :cite-key: MST
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:1
+  :genre: poem
+  :keywords:
+  :cite-key: MST:1
   :END:
 
 
@@ -44,9 +44,9 @@ Surrender-examination.
 * 2 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:2
+  :genre: poem
+  :keywords:
+  :cite-key: MST:2
   :END:
 
 
@@ -63,9 +63,9 @@ My life.
 * 3 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:3
+  :genre: poem
+  :keywords:
+  :cite-key: MST:3
   :END:
 
 
@@ -83,9 +83,9 @@ Desperately need.
 * 4 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:4
+  :genre: poem
+  :keywords:
+  :cite-key: MST:4
   :END:
 
 
@@ -102,9 +102,9 @@ That are still haunting me.
 * 5 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:5
+  :genre: poem
+  :keywords:
+  :cite-key: MST:5
   :END:
 
 
@@ -124,9 +124,9 @@ Diving inward.
 * 6 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:6
+  :genre: poem
+  :keywords:
+  :cite-key: MST:6
   :END:
 
 
@@ -144,9 +144,9 @@ With ignorance.
 * 7 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:7
+  :genre: poem
+  :keywords:
+  :cite-key: MST:7
   :END:
 
 
@@ -165,9 +165,9 @@ My Heaven-free life.
 * 8 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:8
+  :genre: poem
+  :keywords:
+  :cite-key: MST:8
   :END:
 
 
@@ -187,9 +187,9 @@ His entire creation.
 * 9 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:9
+  :genre: poem
+  :keywords:
+  :cite-key: MST:9
   :END:
 
 
@@ -207,9 +207,9 @@ Power of peace.
 * 10 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:10
+  :genre: poem
+  :keywords:
+  :cite-key: MST:10
   :END:
 
 
@@ -227,9 +227,9 @@ To God's Will Power-Life.
 * 11 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:11
+  :genre: poem
+  :keywords:
+  :cite-key: MST:11
   :END:
 
 
@@ -246,9 +246,9 @@ Human in me.
 * 12 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:12
+  :genre: poem
+  :keywords:
+  :cite-key: MST:12
   :END:
 
 
@@ -266,9 +266,9 @@ God-love.
 * 13 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:13
+  :genre: poem
+  :keywords:
+  :cite-key: MST:13
   :END:
 
 
@@ -285,9 +285,9 @@ With my heart's aspiration-key.
 * 14 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:14
+  :genre: poem
+  :keywords:
+  :cite-key: MST:14
   :END:
 
 
@@ -304,9 +304,9 @@ Of God's Perfection-Dream.
 * 15 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:15
+  :genre: poem
+  :keywords:
+  :cite-key: MST:15
   :END:
 
 
@@ -326,9 +326,9 @@ Beautiful creation.
 * 16 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:16
+  :genre: poem
+  :keywords:
+  :cite-key: MST:16
   :END:
 
 
@@ -345,9 +345,9 @@ On my way to God-discovery.
 * 17 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:17
+  :genre: poem
+  :keywords:
+  :cite-key: MST:17
   :END:
 
 
@@ -367,9 +367,9 @@ Of the higher worlds.
 * 18 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:18
+  :genre: poem
+  :keywords:
+  :cite-key: MST:18
   :END:
 
 
@@ -388,9 +388,9 @@ And proceeding in my inner life.
 * 19 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:19
+  :genre: poem
+  :keywords:
+  :cite-key: MST:19
   :END:
 
 
@@ -412,9 +412,9 @@ Appears before me.
 * 20 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:20
+  :genre: poem
+  :keywords:
+  :cite-key: MST:20
   :END:
 
 
@@ -435,9 +435,9 @@ Inside my aspiration-heart.
 * 21 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:21
+  :genre: poem
+  :keywords:
+  :cite-key: MST:21
   :END:
 
 
@@ -458,9 +458,9 @@ To humanity.
 * 22 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:22
+  :genre: poem
+  :keywords:
+  :cite-key: MST:22
   :END:
 
 
@@ -478,9 +478,9 @@ The roses of my aspiration-life.
 * 23 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:23
+  :genre: poem
+  :keywords:
+  :cite-key: MST:23
   :END:
 
 
@@ -501,9 +501,9 @@ Forgiveness-Light.
 * 24 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:24
+  :genre: poem
+  :keywords:
+  :cite-key: MST:24
   :END:
 
 
@@ -522,9 +522,9 @@ Recesses of my heart.
 * 25 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:25
+  :genre: poem
+  :keywords:
+  :cite-key: MST:25
   :END:
 
 
@@ -543,9 +543,9 @@ World with its dynamism.
 * 26 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:26
+  :genre: poem
+  :keywords:
+  :cite-key: MST:26
   :END:
 
 
@@ -562,9 +562,9 @@ And never, never my views.
 * 27 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:27
+  :genre: poem
+  :keywords:
+  :cite-key: MST:27
   :END:
 
 
@@ -583,9 +583,9 @@ Consoling Oneness-Home.
 * 28 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:28
+  :genre: poem
+  :keywords:
+  :cite-key: MST:28
   :END:
 
 
@@ -603,9 +603,9 @@ Delight.
 * 29 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:29
+  :genre: poem
+  :keywords:
+  :cite-key: MST:29
   :END:
 
 
@@ -624,9 +624,9 @@ Constantly in His own Way.
 * 30 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:30
+  :genre: poem
+  :keywords:
+  :cite-key: MST:30
   :END:
 
 
@@ -646,9 +646,9 @@ Divinity.
 * 31 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:31
+  :genre: poem
+  :keywords:
+  :cite-key: MST:31
   :END:
 
 
@@ -667,9 +667,9 @@ Delusion.
 * 32 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:32
+  :genre: poem
+  :keywords:
+  :cite-key: MST:32
   :END:
 
 
@@ -690,9 +690,9 @@ The Golden Shore.
 * 33 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:33
+  :genre: poem
+  :keywords:
+  :cite-key: MST:33
   :END:
 
 
@@ -711,9 +711,9 @@ To gain world-attention.
 * 34 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:34
+  :genre: poem
+  :keywords:
+  :cite-key: MST:34
   :END:
 
 
@@ -730,9 +730,9 @@ My only duty.
 * 35 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:35
+  :genre: poem
+  :keywords:
+  :cite-key: MST:35
   :END:
 
 
@@ -749,9 +749,9 @@ To God's Heart.
 * 36 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:36
+  :genre: poem
+  :keywords:
+  :cite-key: MST:36
   :END:
 
 
@@ -769,9 +769,9 @@ And my dedication-beauty.
 * 37 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:37
+  :genre: poem
+  :keywords:
+  :cite-key: MST:37
   :END:
 
 
@@ -790,9 +790,9 @@ Pitiful world.
 * 38 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:38
+  :genre: poem
+  :keywords:
+  :cite-key: MST:38
   :END:
 
 
@@ -811,9 +811,9 @@ Of my inner life.
 * 39 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:39
+  :genre: poem
+  :keywords:
+  :cite-key: MST:39
   :END:
 
 
@@ -834,9 +834,9 @@ Of Satan's universal frown.
 * 40 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:40
+  :genre: poem
+  :keywords:
+  :cite-key: MST:40
   :END:
 
 
@@ -854,9 +854,9 @@ Express Choice.
 * 41 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:41
+  :genre: poem
+  :keywords:
+  :cite-key: MST:41
   :END:
 
 
@@ -873,9 +873,9 @@ My entire being.
 * 42 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:42
+  :genre: poem
+  :keywords:
+  :cite-key: MST:42
   :END:
 
 
@@ -892,9 +892,9 @@ In the Angels' World.
 * 43 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:43
+  :genre: poem
+  :keywords:
+  :cite-key: MST:43
   :END:
 
 
@@ -912,9 +912,9 @@ Realities with my heart-power.
 * 44 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:44
+  :genre: poem
+  :keywords:
+  :cite-key: MST:44
   :END:
 
 
@@ -932,9 +932,9 @@ To better human life.
 * 45 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:45
+  :genre: poem
+  :keywords:
+  :cite-key: MST:45
   :END:
 
 
@@ -953,9 +953,9 @@ The animal in me.
 * 46 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:46
+  :genre: poem
+  :keywords:
+  :cite-key: MST:46
   :END:
 
 
@@ -973,9 +973,9 @@ In this incarnation.
 * 47 I Meditate ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MST:47
+  :genre: poem
+  :keywords:
+  :cite-key: MST:47
   :END:
 
 

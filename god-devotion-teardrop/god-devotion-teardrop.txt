@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1542
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2006
-  :PUBLISHER:
-  :CITE-KEY: GDT
-  :GENRE: song
+  :book-number: 1542
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2006
+  :publisher:
+  :cite-key: GDT
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GDT:1e1
+  :genre: note
+  :cite-key: GDT:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GDT:1e2
+  :genre: note
+  :cite-key: GDT:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * A God-Devotion-Teardrop
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:1
+  :cite-key: GDT:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Is what I need every day.
 * At the End of God’s Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:2
+  :cite-key: GDT:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ In ecstasy-sky.
 * At the End of My Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:3
+  :cite-key: GDT:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ In bitter disappointment.
 * Every Morning I Weave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:4
+  :cite-key: GDT:4
   :END:
 
 #+BEGIN_VERSE
@@ -116,10 +116,10 @@ At the Feet of my Lord Supreme.
 * Finally, My Lord Has Removed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:5
+  :cite-key: GDT:5
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ His world-complaint-acceptance-box.
 * God Does Not Take Any Intermission
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:6
+  :cite-key: GDT:6
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ That I am His beloved child.
 * God Gives Surrender-Lessons
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:7
+  :cite-key: GDT:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Only to the first-class seekers.
 * God Is Not Disturbed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:8
+  :cite-key: GDT:8
   :END:
 
 #+BEGIN_VERSE
@@ -187,10 +187,10 @@ So should I be?
 * God Loves to Examine My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:9
+  :cite-key: GDT:9
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ God’s Eye loves to embrace my heart.
 * God’s Feet Love to Show Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:10
+  :cite-key: GDT:10
   :END:
 
 #+BEGIN_VERSE
@@ -221,10 +221,10 @@ The way to my Destination.
 * God Pretends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:11
+  :cite-key: GDT:11
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ But actually He does not.
 * God Pushes and Pulls
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:12
+  :cite-key: GDT:12
   :END:
 
 #+BEGIN_VERSE
@@ -256,10 +256,10 @@ The unwilling.
 * God Protects and Leads
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:13
+  :cite-key: GDT:13
   :END:
 
 #+BEGIN_VERSE
@@ -273,10 +273,10 @@ The willing.
 * God the Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:14
+  :cite-key: GDT:14
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ Prepaid my earth-journey.
 * God the Pride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:15
+  :cite-key: GDT:15
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Will prepay my Heaven-pilgrimage.
 * God’s Scoldings
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:16
+  :cite-key: GDT:16
   :END:
 
 #+BEGIN_VERSE
@@ -325,10 +325,10 @@ And illumine the heart.
 * I Am Alive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:17
+  :cite-key: GDT:17
   :END:
 
 #+BEGIN_VERSE
@@ -342,10 +342,10 @@ That is God’s outer miracle.
 * God’s Inner Miracle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:18
+  :cite-key: GDT:18
   :END:
 
 #+BEGIN_VERSE
@@ -359,10 +359,10 @@ That is God’s inner miracle.
 * I Need God the Companion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:19
+  :cite-key: GDT:19
   :END:
 
 #+BEGIN_VERSE
@@ -376,10 +376,10 @@ And not God the Magician.
 * I Was Born of God-Grace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:20
+  :cite-key: GDT:20
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ And in the beaming smiles of my soul.
 * Last Time When I Saw God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:21
+  :cite-key: GDT:21
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ That He also does the same, vice versa.
 * Light Eventually Conquers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:22
+  :cite-key: GDT:22
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Light eventually conquers.
 * Power Eventually Surrenders
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:23
+  :cite-key: GDT:23
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Power eventually surrenders.
 * Millennia Come and Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:24
+  :cite-key: GDT:24
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ Remains a far cry.
 * Morning Prayers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:25
+  :cite-key: GDT:25
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Are God-Whispers.
 * My Life Begins
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:26
+  :cite-key: GDT:26
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ And ends at my Master’s Feet.
 * My Lord and I Are Two Experts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:27
+  :cite-key: GDT:27
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ We two deserve life-long imprisonment.
 * My Lord, Blame Me, Shame Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:28
+  :cite-key: GDT:28
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ But please do not forget to tame me.
 * My Mind Ridicules God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:29
+  :cite-key: GDT:29
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ And I question God.
 * Nobody Is Perfect
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:30
+  :cite-key: GDT:30
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ By God Himself.
 * Prayer Means God-Supplication
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:31
+  :cite-key: GDT:31
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ God-supplication.
 * Meditation Means God-Invitation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:32
+  :cite-key: GDT:32
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ God-invitation.
 * Regularity Runs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:33
+  :cite-key: GDT:33
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Punctuality sprints.
 * The Heart of Each Human Being
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:34
+  :cite-key: GDT:34
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Is a masterpiece of God.
 * Two Things Do Not Run Short
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:35
+  :cite-key: GDT:35
   :END:
 
 #+BEGIN_VERSE
@@ -661,10 +661,10 @@ And my doubts.
 * When I Go to God Walking
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:36
+  :cite-key: GDT:36
   :END:
 
 #+BEGIN_VERSE
@@ -681,10 +681,10 @@ Heaving heavy sighs.
 * When I go to God Whistling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:37
+  :cite-key: GDT:37
   :END:
 
 #+BEGIN_VERSE
@@ -699,10 +699,10 @@ With His open Arms.
 * When I Look at My Lord’s Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:38
+  :cite-key: GDT:38
   :END:
 
 #+BEGIN_VERSE
@@ -716,10 +716,10 @@ I become a tiny, tender plant.
 * When I Enter into My Lord’s Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:39
+  :cite-key: GDT:39
   :END:
 
 #+BEGIN_VERSE
@@ -733,10 +733,10 @@ I become a fully blossomed tree.
 * When I Pray, I Become My Heart-Rose
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:40
+  :cite-key: GDT:40
   :END:
 
 #+BEGIN_VERSE
@@ -750,10 +750,10 @@ I become my heart-rose.
 * When I Meditate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:41
+  :cite-key: GDT:41
   :END:
 
 #+BEGIN_VERSE
@@ -767,10 +767,10 @@ I become my life-lotus.
 * When I Am Slowly Walking
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:42
+  :cite-key: GDT:42
   :END:
 
 #+BEGIN_VERSE
@@ -785,10 +785,10 @@ I learn the geography of earth.
 * When I Am Speedily Running
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:43
+  :cite-key: GDT:43
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ I learn the history of Heaven.
 * My Lord, My Only Prayer to You (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:44
+  :cite-key: GDT:44
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Fully in charge of my life.
 * Every Little Thing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:45
+  :cite-key: GDT:45
   :END:
 
 #+BEGIN_VERSE
@@ -841,10 +841,10 @@ My very existence.
 * My Heart Is Made Of
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:46
+  :cite-key: GDT:46
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ My Lord’s sweet Dreams
 * I Belong to God’s Will
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:47
+  :cite-key: GDT:47
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ What more do I care for?
 * A True God-Lover
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:48
+  :cite-key: GDT:48
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Without self-giving.
 * I Must Pray, Not Only for Myself (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:49
+  :cite-key: GDT:49
   :END:
 
 #+BEGIN_VERSE
@@ -912,10 +912,10 @@ Who do not care to pray.
 * Do Not Blame Anybody
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:50
+  :cite-key: GDT:50
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +929,10 @@ The world is entirely God’s Creation.
 * My Heartbeat and God’s Heartbeat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:51
+  :cite-key: GDT:51
   :END:
 
 #+BEGIN_VERSE
@@ -946,10 +946,10 @@ Love to speak in whispers.
 * It Matters Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:52
+  :cite-key: GDT:52
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ About God.
 * It Matters Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:53
+  :cite-key: GDT:53
   :END:
 
 #+BEGIN_VERSE
@@ -982,10 +982,10 @@ To God.
 * There Is Only One Home
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:54
+  :cite-key: GDT:54
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ And that home is our love of God.
 * God’s Greatest Treasure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:55
+  :cite-key: GDT:55
   :END:
 
 #+BEGIN_VERSE
@@ -1016,10 +1016,10 @@ Is man’s smile.
 * Just One Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:56
+  :cite-key: GDT:56
   :END:
 
 #+BEGIN_VERSE
@@ -1034,10 +1034,10 @@ The beauty of the universe.
 * Do Not Depend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:57
+  :cite-key: GDT:57
   :END:
 
 #+BEGIN_VERSE
@@ -1051,10 +1051,10 @@ On earthly applause.
 * Depend Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:58
+  :cite-key: GDT:58
   :END:
 
 #+BEGIN_VERSE
@@ -1068,10 +1068,10 @@ On God’s Compassion-Smile.
 * My Lord’s Constant Miracle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:59
+  :cite-key: GDT:59
   :END:
 
 #+BEGIN_VERSE
@@ -1085,10 +1085,10 @@ Is my Lord’s constant miracle.
 * The Children of Happiness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:60
+  :cite-key: GDT:60
   :END:
 
 #+BEGIN_VERSE
@@ -1102,10 +1102,10 @@ Will create a new world.
 * When the Flowers Sing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:61
+  :cite-key: GDT:61
   :END:
 
 #+BEGIN_VERSE
@@ -1119,10 +1119,10 @@ I feel a new dawn in my heart.
 * My Faith in God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:62
+  :cite-key: GDT:62
   :END:
 
 #+BEGIN_VERSE
@@ -1136,10 +1136,10 @@ Is my only reality.
 * The Visible Miracles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:63
+  :cite-key: GDT:63
   :END:
 
 #+BEGIN_VERSE
@@ -1153,10 +1153,10 @@ Do not last for long.
 * The Invisible Miracles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:64
+  :cite-key: GDT:64
   :END:
 
 #+BEGIN_VERSE
@@ -1171,10 +1171,10 @@ In our inner and outer life.
 * Science Is a Modern Discovery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:65
+  :cite-key: GDT:65
   :END:
 
 #+BEGIN_VERSE
@@ -1188,10 +1188,10 @@ A modern discovery.
 * Spirituality Is an Ancient Discovery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:66
+  :cite-key: GDT:66
   :END:
 
 #+BEGIN_VERSE
@@ -1205,10 +1205,10 @@ An ancient discovery.
 * I Long for a Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:67
+  :cite-key: GDT:67
   :END:
 
 #+BEGIN_VERSE
@@ -1224,10 +1224,10 @@ Privately.
 * Every Day God Descends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:68
+  :cite-key: GDT:68
   :END:
 
 #+BEGIN_VERSE
@@ -1242,10 +1242,10 @@ But, alas, we fail to accept them.
 * God Comes Only to See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:69
+  :cite-key: GDT:69
   :END:
 
 #+BEGIN_VERSE
@@ -1261,10 +1261,10 @@ That the heart is dancing in ecstasy.
 * God Has Asked Himself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:70
+  :cite-key: GDT:70
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ Why have I created this world?
 * The Outer Fire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:71
+  :cite-key: GDT:71
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ Burns our existence.
 * The Inner Fire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:72
+  :cite-key: GDT:72
   :END:
 
 #+BEGIN_VERSE
@@ -1313,10 +1313,10 @@ Illumines and fulfils our existence.
 * The Outer Long Distance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:73
+  :cite-key: GDT:73
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ Frightens us.
 * The Outer Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:74
+  :cite-key: GDT:74
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ Dazzles us.
 * The Inner Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:75
+  :cite-key: GDT:75
   :END:
 
 #+BEGIN_VERSE
@@ -1364,10 +1364,10 @@ Immediately embraces us.
 * The Medical World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:76
+  :cite-key: GDT:76
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ Success-pride.
 * The Spiritual World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:77
+  :cite-key: GDT:77
   :END:
 
 #+BEGIN_VERSE
@@ -1400,10 +1400,10 @@ Progress-ride.
 * Difficult to Preserve
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:78
+  :cite-key: GDT:78
   :END:
 
 #+BEGIN_VERSE
@@ -1417,10 +1417,10 @@ As the flying wind.
 * God’s Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:79
+  :cite-key: GDT:79
   :END:
 
 #+BEGIN_VERSE
@@ -1434,10 +1434,10 @@ Loves the jokers.
 * God’s Heart Loves
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:80
+  :cite-key: GDT:80
   :END:
 
 #+BEGIN_VERSE
@@ -1451,10 +1451,10 @@ Loves the lovers.
 * God’s Feet Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:81
+  :cite-key: GDT:81
   :END:
 
 #+BEGIN_VERSE
@@ -1468,10 +1468,10 @@ Love the worshippers.
 * God Loves
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:82
+  :cite-key: GDT:82
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ The eternal players.
 * When I Pray to God, I Think He Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:83
+  :cite-key: GDT:83
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ A thousand miles over my head.
 * When I Meditate on God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:84
+  :cite-key: GDT:84
   :END:
 
 #+BEGIN_VERSE
@@ -1519,10 +1519,10 @@ Watching me, standing right in front of me.
 * Even When I Am Late
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:85
+  :cite-key: GDT:85
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ God’s Vision-Express-Train does not wait for me.
 * God’s Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:86
+  :cite-key: GDT:86
   :END:
 
 #+BEGIN_VERSE
@@ -1554,10 +1554,10 @@ Even so, God’s Justice.
 * Whenever I Have a Good Meditation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:87
+  :cite-key: GDT:87
   :END:
 
 #+BEGIN_VERSE
@@ -1571,10 +1571,10 @@ I thrill my Lord Supreme.
 * Quite Often
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:88
+  :cite-key: GDT:88
   :END:
 
 #+BEGIN_VERSE
@@ -1588,10 +1588,10 @@ Good news.
 * Be Alert! Be Awake!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:89
+  :cite-key: GDT:89
   :END:
 
 #+BEGIN_VERSE
@@ -1605,10 +1605,10 @@ God is fast approaching.
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:90
+  :cite-key: GDT:90
   :END:
 
 #+BEGIN_VERSE
@@ -1623,10 +1623,10 @@ A Heaven-climbing game.
 * Dedication
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:91
+  :cite-key: GDT:91
   :END:
 
 #+BEGIN_VERSE
@@ -1641,10 +1641,10 @@ An earth-rotating game.
 * I Want Only My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:92
+  :cite-key: GDT:92
   :END:
 
 #+BEGIN_VERSE
@@ -1659,10 +1659,10 @@ Of mine.
 * I Am Trying
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:93
+  :cite-key: GDT:93
   :END:
 
 #+BEGIN_VERSE
@@ -1678,10 +1678,10 @@ And crown
 * The Inner Long Distance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-08-2005
-  :CITE-KEY: GDT:94
+  :cite-key: GDT:94
   :END:
 
 #+BEGIN_VERSE

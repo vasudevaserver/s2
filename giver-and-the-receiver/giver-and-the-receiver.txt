@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0721
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1987
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GVRC
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0721
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1987
+  :publisher: Agni Press
+  :cite-key: GVRC
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Discourse
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GVRC:1e1
+  :genre: section
+  :keywords:
+  :cite-key: GVRC:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The giver and the receiver
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GVRC:1
+  :genre: discourse
+  :keywords:
+  :cite-key: GVRC:1
   :END:
 
 
@@ -71,9 +71,9 @@ I have defeated You? Impossible, my Lord, impossible! How can I ever defeat You?
 * Part II: Questions and answers on heart-power and mind-power
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GVRC:2e1
+  :genre: section
+  :keywords:
+  :cite-key: GVRC:2e1
   :END:
 
 
@@ -81,9 +81,9 @@ I have defeated You? Impossible, my Lord, impossible! How can I ever defeat You?
 * Question: When is mind-power equal to heart-power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:2
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:2
   :END:
 
 
@@ -98,9 +98,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: Is it better to use heart-power or mind-power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:3
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:3
   :END:
 
 
@@ -111,9 +111,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: Do occult power and spiritual power originate from heart-power or mind-power, or both?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:4
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:4
   :END:
 
 
@@ -124,9 +124,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: How can we increase the power of the heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:5
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:5
   :END:
 
 
@@ -137,9 +137,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: Can you have an experience in the heart without feeling it in the heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:6
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:6
   :END:
 
 
@@ -150,9 +150,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: If a person who cares for mind-power asks a question about heart-power of a person who cares for heart-power, can the heart-power person satisfy the mind-power person with his answer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:7
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:7
   :END:
 
 
@@ -163,9 +163,9 @@ Let us not try to create competition between the mind and the heart. The mind an
 * Question: Will the exclusive use of heart-power alone end wars and inter-personal conflict?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:8
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:8
   :END:
 
 
@@ -184,9 +184,9 @@ Manifestation has to take place through mind-power. If the mind does not accept 
 * Question: At the present stage of man's evolution, which prevails: mind-power or heart-power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:9
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:9
   :END:
 
 
@@ -197,9 +197,9 @@ Manifestation has to take place through mind-power. If the mind does not accept 
 * Part III: Love and serve
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GVRC:10e1
+  :genre: section
+  :keywords:
+  :cite-key: GVRC:10e1
   :END:
 
 
@@ -207,9 +207,9 @@ Manifestation has to take place through mind-power. If the mind does not accept 
 * Love and serve
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GVRC:10
+  :genre: discourse
+  :keywords:
+  :cite-key: GVRC:10
   :END:
 
 
@@ -243,9 +243,9 @@ When the seeker is on the verge of realisation, he sees goodness within and good
 * Love and serve: questions and answers
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: GVRC:11e1
+  :genre: note
+  :keywords:
+  :cite-key: GVRC:11e1
   :END:
 
 
@@ -256,9 +256,9 @@ When the seeker is on the verge of realisation, he sees goodness within and good
 * Question: Why is God so subtle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:11
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:11
   :END:
 
 
@@ -271,9 +271,9 @@ Just because our oneness-heart -- our heart which is totally, inseparably one wi
 * Question: Throughout illusion, throughout enlightenment, throughout attachment and non-attachment why do we always say that God is good?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:12
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:12
   :END:
 
 
@@ -288,9 +288,9 @@ Finally, he will come to feel that God is good because God Himself is playing in
 * Question: There is a lot of sickness and sadness in the world. What is the best way to seek spiritual healing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:13
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:13
   :END:
 
 
@@ -303,9 +303,9 @@ Illness is all around. How can we cure it? We can cure it only through our grati
 * Question: How can one bring forth gratitude through oneself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:14
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:14
   :END:
 
 
@@ -316,9 +316,9 @@ Illness is all around. How can we cure it? We can cure it only through our grati
 * Question: If I meditate upon the sensation "I am," will this bring realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:15
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:15
   :END:
 
 
@@ -331,9 +331,9 @@ You have to be conscious of what you are doing when you say "I am." When the Chr
 * Question: What level of communication have you found most rewarding regarding the world situation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:16
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:16
   :END:
 
 
@@ -344,9 +344,9 @@ You have to be conscious of what you are doing when you say "I am." When the Chr
 * Question: Why is it that in all the world there are only a few spiritual seekers? And why is it that only perhaps a few of those will ever see God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:17
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:17
   :END:
 
 
@@ -361,9 +361,9 @@ When we become conscious seekers, devoted seekers, unconditional seekers, we acc
 * Question: How do we know what God wants us to manifest, and how can we obtain those qualities or things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:18
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:18
   :END:
 
 
@@ -378,9 +378,9 @@ It is true that if you have Peace or Light, then you can manifest God. But inste
 * Question: During meditation and prayer, some people concentrate on certain objects on the shrine, like photographs or some other things. Is it wise for them to cling to these objects, or is it wiser for them to meditate on something that has no form, that they cannot see?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:19
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:19
   :END:
 
 
@@ -391,9 +391,9 @@ It is true that if you have Peace or Light, then you can manifest God. But inste
 * Question: Eventually, when we realise God, will all these things drop off?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:20
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:20
   :END:
 
 
@@ -406,9 +406,9 @@ I may keep a flower before me when I meditate. The flower is not God, although i
 * Part IV: Questions and answers on happiness
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GVRC:21e1
+  :genre: section
+  :keywords:
+  :cite-key: GVRC:21e1
   :END:
 
 
@@ -419,9 +419,9 @@ I may keep a flower before me when I meditate. The flower is not God, although i
 * Question: Is it better to be sincerely sad or falsely happy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:21
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:21
   :END:
 
 
@@ -436,9 +436,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: Where does true happiness lie?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:22
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:22
   :END:
 
 
@@ -449,9 +449,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: What is the soul's happiness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:23
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:23
   :END:
 
 
@@ -462,9 +462,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: What is the difference between happiness, joy and bliss?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:24
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:24
   :END:
 
 
@@ -475,9 +475,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: How can we feel happiness when we displease you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:25
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:25
   :END:
 
 
@@ -488,9 +488,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: How can we realise that only God's Will can give us happiness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:26
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:26
   :END:
 
 
@@ -501,9 +501,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: When we feel unhappy, is it because we are not listening to our Inner Pilot, or is the Supreme having an experience in us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:27
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:27
   :END:
 
 
@@ -514,9 +514,9 @@ The best thing is for you to be always happy, but not to show off your happiness
 * Question: How can we remain happy in the face of obstacles?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:28
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:28
   :END:
 
 
@@ -529,9 +529,9 @@ This is not actually a test; but if you do not encounter any obstacles, you will
 * Question: Is it possible to experience happiness on the spiritual plane while you are unhappy on the physical plane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:29
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:29
   :END:
 
 
@@ -542,9 +542,9 @@ This is not actually a test; but if you do not encounter any obstacles, you will
 * Question: Could my own inner joy help the rest of my family, like my husband?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:30
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:30
   :END:
 
 
@@ -557,9 +557,9 @@ Sometimes, some of you come here feeling very unhappy. But after you mix with yo
 * Question: Is it more effective to pray for peace of mind or for cheerfulness when you are unhappy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:31
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:31
   :END:
 
 
@@ -572,9 +572,9 @@ You have to know where you are most affected and take care of that place first. 
 * Question: Often when I first wake up in the morning, I don't feel happy.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:32
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:32
   :END:
 
 
@@ -585,9 +585,9 @@ You have to know where you are most affected and take care of that place first. 
 * Question: Will outer happiness help our spiritual progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:33
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:33
   :END:
 
 
@@ -598,9 +598,9 @@ You have to know where you are most affected and take care of that place first. 
 * Question: Sometimes when I am happy I want to share my happiness with others and help them be happy. Is this possible?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:34
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:34
   :END:
 
 
@@ -611,9 +611,9 @@ You have to know where you are most affected and take care of that place first. 
 * Part V: General questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GVRC:35e1
+  :genre: section
+  :keywords:
+  :cite-key: GVRC:35e1
   :END:
 
 
@@ -621,9 +621,9 @@ You have to know where you are most affected and take care of that place first. 
 * Question: Guru, sometimes when I don't see you for a long time and I sit down to meditate on your picture, I feel there is a block that does not let me feel your love and concern that is flowing to me. I feel that you are displeased with me and that you have reason to be so.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:35
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:35
   :END:
 
 
@@ -640,9 +640,9 @@ You must let God's Grace take you to the goal. Put all importance in the Compass
 * Question: Although I am sure that this is my path and I get intense joy in my heart from my devotion to you, sometimes I feel a strong longing for a quiet, monastic life. Where does that longing come from, and if it has a negative origin, how can I best overcome it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:36
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:36
   :END:
 
 
@@ -659,9 +659,9 @@ So what you are experiencing is just your vital trying to pull you away from you
 * Question: If we long to achieve Nirvana -- that is, the total annihilation of the soul-existence -- instead of aspiring for the manifestation of the Divine on earth, is that also an attitude of the deceptive vital?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:37
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:37
   :END:
 
 
@@ -680,9 +680,9 @@ When you have the vision of Nirvana in your mind, you take a mental delight in e
 * Question: Guru, I wish to share with you an experience I had a few weeks ago. I was taking a bath in the river near my house when a voice seemed to call out my name. As I searched for the direction of the sound, a Christ-like figure was sort of delineated in my mind. My heart welcomed the vision by saying, "Brother Jesus, I do not need you; your brother Chinmoy is my Master." At this time, the figure in my mind turned into a black bird of prey and flew out of my mind, sounding off its belching screams.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:38
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:38
   :END:
 
 
@@ -697,9 +697,9 @@ Experience is a remover of doubt. Sri Ramakrishna on his deathbed had to reassur
 * Question: Guru, I also saw the Christ, full of love, light and compassion. I also received a message from Him. Is this all true or is it an illusion? Was my ego interfering? After the experience I wrote a poem.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:39
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:39
   :END:
 
 
@@ -712,9 +712,9 @@ This experience took place because you focused your devotion on the picture of t
 * Question: Does evil exist or is it in our minds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:40
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:40
   :END:
 
 
@@ -731,9 +731,9 @@ The moment the mind declares something to be evil, the mind itself becomes dark.
 * Question: Does the inner light have a power of its own to reveal itself to a seeker even though that person has a Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:41
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:41
   :END:
 
 
@@ -744,9 +744,9 @@ The moment the mind declares something to be evil, the mind itself becomes dark.
 * Question: When I work during the night, I often feel very old. At that time, I also feel everything so clearly. What is that state of clearness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:42
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:42
   :END:
 
 
@@ -759,9 +759,9 @@ The feeling of being old signifies wisdom. You have wisdom at that moment, where
 * Question: I've always thought that the people who did some work using their hands were more conscious than others.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:43
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:43
   :END:
 
 
@@ -776,9 +776,9 @@ When you do something mechanically, it is no good. But if one good thought comes
 * Question: What should be one's attitude when some disciple is a block to one's manifestation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:44
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:44
   :END:
 
 
@@ -791,9 +791,9 @@ If advice comes to him from a third party, such as yourself, immediately jealous
 * Question: Guru, at times I feel that whenever I am about to attend a Centre activity, a resistance presents itself before me and tells me not to go or participate. Am I doomed to feel this resistance, even when I know that the activity will be for my benefit? Sometimes the more I appreciate the benefit, the more strongly the resistance presents itself. Why?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:45
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:45
   :END:
 
 
@@ -806,9 +806,9 @@ Why are you helpless in the face of these attacks? Because you have allowed your
 * Question: My worst qualities are my impurity and impatience that brings bad temper to me. When we come to meditate with you and you look into our souls, do you get a general feeling of impurity or negativity, or do you know exactly if it has been bad temper or impurity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GVRC:46
+  :genre: qa
+  :keywords:
+  :cite-key: GVRC:46
   :END:
 
 

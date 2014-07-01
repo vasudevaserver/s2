@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 452
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: FLRD
-  :GENRE: song
+  :book-number: 452
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: FLRD
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FLRD:1e1
+  :genre: note
+  :cite-key: FLRD:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FLRD:1e2
+  :genre: note
+  :cite-key: FLRD:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Akarane Prabhu Chitte Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:1
+  :cite-key: FLRD:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Khudra jibane bendhechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:2
+  :cite-key: FLRD:2
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ I have bound my little, insignificant life.
 * Akash Batas Chandra Taraka Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:3
+  :cite-key: FLRD:3
   :END:
 
 #+BEGIN_VERSE
@@ -100,10 +100,10 @@ Rakhibo hridaye tahar charan khani
 * Amar Bindu Buke Sindhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:4
+  :cite-key: FLRD:4
   :END:
 
 #+BEGIN_VERSE
@@ -117,10 +117,10 @@ Rayeche luke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:5
+  :cite-key: FLRD:5
   :END:
 
 #+BEGIN_VERSE
@@ -134,10 +134,10 @@ The tiny drop of my heart.
 * Ami Amare Khunjiya Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:6
+  :cite-key: FLRD:6
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +149,10 @@ Ami amare khunjiya mari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:7
+  :cite-key: FLRD:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ I am in constant search of myself.
 * Amije Amar Param Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:8
+  :cite-key: FLRD:8
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Tomar ratul charane smari
 * Asha Bane Ghure Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:9
+  :cite-key: FLRD:9
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ Asha bane ghure mari
 * Asha Kusum Shukaye Gela Maner Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:10
+  :cite-key: FLRD:10
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ Taito kandi pran gabhire nirajane
 * Atit Pichhe Atit Michhe Egiye Chal Egiye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:11
+  :cite-key: FLRD:11
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ Hridaye tor sahasradal
 * Bedan.. Karecho Amar Supti Haran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:12
+  :cite-key: FLRD:12
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Kemane karibo parame pujon
 * Charane Rahibo Prabhu Chira Abanata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:13
+  :cite-key: FLRD:13
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ Janibo hridaye ajana rayeche jato
 * Databir.. Bidhatar Karunar Snehanir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:14
+  :cite-key: FLRD:14
   :END:
 
 #+BEGIN_VERSE
@@ -291,10 +291,10 @@ Hiya jagrata bhor
 * Deha Ache Tai Bandhi Deha Ache Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:15
+  :cite-key: FLRD:15
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Tomare na nath smari
 * Deha Ache Tai Jatana Deha Ache Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:16
+  :cite-key: FLRD:16
   :END:
 
 #+BEGIN_VERSE
@@ -329,10 +329,10 @@ Pabo paramer shobhana
 * Din Chale Jai Britha Kaje Rat Kete Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:17
+  :cite-key: FLRD:17
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Maya moher dhume
 * Diner Alo Nibe Elo Britha Gelo Din Kotha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:18
+  :cite-key: FLRD:18
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Keman kare habo ami asimatai lin
 * Dulal Dulal Karali Bhayal Hridaye Mani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:19
+  :cite-key: FLRD:19
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Paramer joy chira akkhoi
 * Durdam Duranta Nirvik Deha Mor Chhilo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:20
+  :cite-key: FLRD:20
   :END:
 
 #+BEGIN_VERSE
@@ -408,10 +408,10 @@ Kemane ta aji mani
 * E Kajer Bhar Bahite Nahi Ar Tomar Kaj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:21
+  :cite-key: FLRD:21
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ Nahi kajer bhar
 * Ei Deha Ek Din Khoy Klanta Bihin Ei Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:22
+  :cite-key: FLRD:22
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Sutibra jatanai
 * Ekla Chalo Ekla Chalo Ekla Ogo Chalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:23
+  :cite-key: FLRD:23
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ Nibena ki tabu
 * He Amar Deha Janibe Ki Keha Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:24
+  :cite-key: FLRD:24
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Duniyar bojha bahi
 * He Parama Bare Bare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:25
+  :cite-key: FLRD:25
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ He parama bare bare tomai daki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:26
+  :cite-key: FLRD:26
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ I invoke You again and again.
 * Ila Nirvik Ila Nirvik Pranadhika Pranadhik
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:27
+  :cite-key: FLRD:27
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ Ananta sandhane
 * Jani Ami Jani Ajana Reyeche Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:28
+  :cite-key: FLRD:28
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Pabo ami anubhabe taba deba bhabo
 * Jani Tumi Asbe Prabhu Amar Hiya Ghare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:29
+  :cite-key: FLRD:29
   :END:
 
 #+BEGIN_VERSE
@@ -583,10 +583,10 @@ Tomai paran bhare
 * Japi Taba Madhu Nam Abiram Shivaram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:30
+  :cite-key: FLRD:30
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ ananta barabhoi
 * Je Dekhe Kache Se Britha Ache Je Dekhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:31
+  :cite-key: FLRD:31
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Ami tomar tumi amar
 * Jete Nahi Dibo.. Kannar Dheu Tule Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:32
+  :cite-key: FLRD:32
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ Sahasa bandhibo
 * Jibaner Shesh Ache Maraner Shesh Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:33
+  :cite-key: FLRD:33
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ Mahadev animesh
 * Kato Dure Tumi Kato Dure Khunji Toma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:34
+  :cite-key: FLRD:34
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Kemane heribo balo ke go jane
 * Ke Bale Go Paran Amar Barai Durbal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:35
+  :cite-key: FLRD:35
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +702,10 @@ Maran paye phuti ami sahasradal
 * Ke Dekhabe More Deba Path Ke Janabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:36
+  :cite-key: FLRD:36
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +721,10 @@ Deba rupe karo rupayan
 * Kemane Tomare Bandhibo Rishikesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:37
+  :cite-key: FLRD:37
   :END:
 
 #+BEGIN_VERSE
@@ -736,10 +736,10 @@ Kemane tomare bandhibo rishikesh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:38
+  :cite-key: FLRD:38
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ O Lord Supreme, how can I bind You?
 * Khulechi Duar Neme Aso Alo Antare Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:39
+  :cite-key: FLRD:39
   :END:
 
 #+BEGIN_VERSE
@@ -773,10 +773,10 @@ Rekhona kothao bindu matra kalo
 * Ki Diyechi Ki Peyechi Jante Nahi Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:40
+  :cite-key: FLRD:40
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ Dibe ki hai thai
 * Kothai Jiban Kothai Ore Jiban Bhitar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:41
+  :cite-key: FLRD:41
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ Kripar dhara dyulok hate namena
 * Man Kanane Alor Kusum Phutena Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:42
+  :cite-key: FLRD:42
   :END:
 
 #+BEGIN_VERSE
@@ -830,10 +830,10 @@ Tutena hai tutena
 * Ogo Durbal Ogo Banghur Ogo Asahai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:43
+  :cite-key: FLRD:43
   :END:
 
 #+BEGIN_VERSE
@@ -849,10 +849,10 @@ Ananda ramdhanu
 * Ogo Puratan Sathi Kandi Ami Dibarati He
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:44
+  :cite-key: FLRD:44
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ Bedanar kalarab
 * Pagli Mayer Pagla Chele Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:45
+  :cite-key: FLRD:45
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ Kothai kheya kothai neye
 * Prahar Karo.. Ahamika Churna Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:46
+  :cite-key: FLRD:46
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Duhat dharo
 * Pran Gabhire Amar Tare Rakhal Raja Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:47
+  :cite-key: FLRD:47
   :END:
 
 #+BEGIN_VERSE
@@ -925,10 +925,10 @@ Agyanatar saj
 * Sanga Habe Jiban Mamo Asha (version 1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:48
+  :cite-key: FLRD:48
   :END:
 
 #+BEGIN_VERSE
@@ -944,10 +944,10 @@ Shesh aratir dhume
 * Sanga Habe Jiban Mamo Asha (version 2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:49
+  :cite-key: FLRD:49
   :END:
 
 #+BEGIN_VERSE
@@ -963,10 +963,10 @@ Shesh aratir dhume
 * Shakti Pujari Nirvik Kaya Kothai Aji Kothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:50
+  :cite-key: FLRD:50
   :END:
 
 #+BEGIN_VERSE
@@ -982,10 +982,10 @@ Nai je tari nai je majhi
 * Sharirer Bal Hariye Phelechi Mor Sharirer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:51
+  :cite-key: FLRD:51
   :END:
 
 #+BEGIN_VERSE
@@ -1001,10 +1001,10 @@ Prashanti achapal
 * Sushobhan Hiya Ban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:52
+  :cite-key: FLRD:52
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1019,10 @@ Ananda anibar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:53
+  :cite-key: FLRD:53
   :END:
 
 #+BEGIN_VERSE
@@ -1038,10 +1038,10 @@ Joy, bliss, a sleepless hand.
 * Tanu Mana Pran Sada Hoiran Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:54
+  :cite-key: FLRD:54
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Mor parichoy
 * Tomai Bhule Raibona Prananath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:55
+  :cite-key: FLRD:55
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ Tomai bhule raibona prananath
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:56
+  :cite-key: FLRD:56
   :END:
 
 #+BEGIN_VERSE
@@ -1091,10 +1091,10 @@ I cannot live without thinking of You.
 * Tomare Janabo Pranati Dao More Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:57
+  :cite-key: FLRD:57
   :END:
 
 #+BEGIN_VERSE
@@ -1110,10 +1110,10 @@ Dao more prema bhakati
 * Tumi Sundaro Hiya Dibakaro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FLRD:58
+  :cite-key: FLRD:58
   :END:
 
 #+BEGIN_VERSE
@@ -1126,10 +1126,10 @@ Kemane tomare pujibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FLRD:59
+  :cite-key: FLRD:59
   :END:
 
 #+BEGIN_VERSE

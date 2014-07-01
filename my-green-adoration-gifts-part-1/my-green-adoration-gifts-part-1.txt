@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 305
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1977
-  :PUBLISHER:
-  :CITE-KEY: MGG-1
-  :GENRE: song
+  :book-number: 305
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1977
+  :publisher:
+  :cite-key: MGG-1
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MGG:1e1
+  :genre: note
+  :cite-key: MGG:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MGG:1e2
+  :genre: note
+  :cite-key: MGG:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Tomar Charan Tale Amare Harabo Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:1
+  :cite-key: MGG:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Bhasi ami ankhi jale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:2
+  :cite-key: MGG:2
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ In the sea of my own eye-tears.
 * Asha Mor Madhu Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:3
+  :cite-key: MGG:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Dure jiban kuyasa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:4
+  :cite-key: MGG:4
   :END:
 
 #+BEGIN_VERSE
@@ -115,10 +115,10 @@ My life’s teeming fogs.
 * Jiban Pathe Ekla Ami Chalbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:5
+  :cite-key: MGG:5
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ Alor bane priyatame khunjbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:6
+  :cite-key: MGG:6
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ O Beloved Supreme, in the forest of light
 * Hriday Gahane Nayan Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:7
+  :cite-key: MGG:7
   :END:
 
 #+BEGIN_VERSE
@@ -171,10 +171,10 @@ Heri mor priya chira puratane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:8
+  :cite-key: MGG:8
   :END:
 
 #+BEGIN_VERSE
@@ -193,10 +193,10 @@ And the ever-ancient Reality.
 * Jibaner Shesh Dan Abhiman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:9
+  :cite-key: MGG:9
   :END:
 
 #+BEGIN_VERSE
@@ -210,10 +210,10 @@ Bidhatar shesh dan sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:10
+  :cite-key: MGG:10
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ Of the Transcendental Lord.
 * Jukti Amar Maner Bhranti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:11
+  :cite-key: MGG:11
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Kanti amar jiban bhranti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:12
+  :cite-key: MGG:12
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Of my life’s ceaseless cry.
 * Sada Jena Toma Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:13
+  :cite-key: MGG:13
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ Maraner sanjhe thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:14
+  :cite-key: MGG:14
   :END:
 
 #+BEGIN_VERSE
@@ -309,10 +309,10 @@ In Your Heart of light and delight.
 * Asha Dake Mor Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:15
+  :cite-key: MGG:15
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Ami daki mor swapane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:16
+  :cite-key: MGG:16
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ And I call my dream-reality alone.
 * Andhar Aji Supta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:17
+  :cite-key: MGG:17
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Prabhur majhe mukta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:18
+  :cite-key: MGG:18
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ To bind me within and without.
 * Jabona Khabona Habona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:19
+  :cite-key: MGG:19
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Habona habona habona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:20
+  :cite-key: MGG:20
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ I shall never.
 * Jiban Amar Shaman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:21
+  :cite-key: MGG:21
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ Maran amar swapan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:22
+  :cite-key: MGG:22
   :END:
 
 #+BEGIN_VERSE
@@ -457,10 +457,10 @@ Inspiring and illumining dream.
 * Amar Mato Tomai Hate Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:23
+  :cite-key: MGG:23
   :END:
 
 #+BEGIN_VERSE
@@ -474,10 +474,10 @@ Dekhi jena amar jyoti bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:24
+  :cite-key: MGG:24
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ My own world of Light supreme.
 * Sudur Amai Karechhi Pagol
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:25
+  :cite-key: MGG:25
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Jani shudhu taha swapan agol
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:26
+  :cite-key: MGG:26
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Of my life’s cosmic dream.
 * Baroi Anurage Sabar Age
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:27
+  :cite-key: MGG:27
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Pran pakhi mor jage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:28
+  :cite-key: MGG:28
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ With God’s entire universe.
 * Bhulai Amar Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:29
+  :cite-key: MGG:29
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Shudhui brindaban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:30
+  :cite-key: MGG:30
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ In God’s own sports field.
 * Janam Bhalo Maran Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:31
+  :cite-key: MGG:31
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ Sabar prane karbo joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:32
+  :cite-key: MGG:32
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ I shall conquer the loving hearts of all.
 * Hriday Majhe Nupur Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:33
+  :cite-key: MGG:33
   :END:
 
 #+BEGIN_VERSE
@@ -668,10 +668,10 @@ Agyanatar das
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:34
+  :cite-key: MGG:34
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ To my ignorance-master.
 * Andhar Ghare Andhar Ghare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:35
+  :cite-key: MGG:35
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Pujbo tomai paran bhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:36
+  :cite-key: MGG:36
   :END:
 
 #+BEGIN_VERSE
@@ -728,10 +728,10 @@ To my heart’s content.
 * Amar Lagi Tumi Ano
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:37
+  :cite-key: MGG:37
   :END:
 
 #+BEGIN_VERSE
@@ -746,10 +746,10 @@ Amar chapal hasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:38
+  :cite-key: MGG:38
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ And restive smile.
 * Tomar Sathe Dekha Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:39
+  :cite-key: MGG:39
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Param prabhu amar ashar madhur prate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:40
+  :cite-key: MGG:40
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ At the very dawn of my hope-life.
 * Mor Amire Samarpibo Tomar Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:41
+  :cite-key: MGG:41
   :END:
 
 #+BEGIN_VERSE
@@ -819,10 +819,10 @@ Raibona ar praner malin kuyasate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:42
+  :cite-key: MGG:42
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ In the dark, vital fogs of my life.
 * Ta Je Tomar Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:43
+  :cite-key: MGG:43
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ Chup habe sab phanki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:44
+  :cite-key: MGG:44
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Will be compelled to remain silent.
 * Ghuri Dware Dware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:45
+  :cite-key: MGG:45
   :END:
 
 #+BEGIN_VERSE
@@ -899,10 +899,10 @@ Dake mrityu bheri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:46
+  :cite-key: MGG:46
   :END:
 
 #+BEGIN_VERSE
@@ -921,10 +921,10 @@ Of my death-drum.
 * Swapan Amar Krandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:47
+  :cite-key: MGG:47
   :END:
 
 #+BEGIN_VERSE
@@ -939,10 +939,10 @@ Jadio adhara nandan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:48
+  :cite-key: MGG:48
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Although I was of the divine origin.
 * Sindhu Tumi Sindhu Indu Tumi Indu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:49
+  :cite-key: MGG:49
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ Ami shishir bindu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:50
+  :cite-key: MGG:50
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ I am a helpless dew drop.
 * Jani Tumi Isha Murtiman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:51
+  :cite-key: MGG:51
   :END:
 
 #+BEGIN_VERSE
@@ -1013,10 +1013,10 @@ Taba paye sudha sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:52
+  :cite-key: MGG:52
   :END:
 
 #+BEGIN_VERSE
@@ -1035,10 +1035,10 @@ My immortality’s nectar-bliss.
 * Amar Jibana Majhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:53
+  :cite-key: MGG:53
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Amar jibana majhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:54
+  :cite-key: MGG:54
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ In this short span of life.
 * Tomai Dite Rishta Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:55
+  :cite-key: MGG:55
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ Mulya bihin chhai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:56
+  :cite-key: MGG:56
   :END:
 
 #+BEGIN_VERSE
@@ -1114,10 +1114,10 @@ And useless cipher.
 * Tumi Alo Tumi Bhalo Tumi Bhubanmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:57
+  :cite-key: MGG:57
   :END:
 
 #+BEGIN_VERSE
@@ -1130,10 +1130,10 @@ Taito gahi hriday bane nitya tomar joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:58
+  :cite-key: MGG:58
   :END:
 
 #+BEGIN_VERSE
@@ -1151,10 +1151,10 @@ I sing Your Victory-Song.
 * Shuk Tara Go Shuk Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:59
+  :cite-key: MGG:59
   :END:
 
 #+BEGIN_VERSE
@@ -1171,10 +1171,10 @@ Eso neme pran hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:60
+  :cite-key: MGG:60
   :END:
 
 #+BEGIN_VERSE
@@ -1195,10 +1195,10 @@ Hopelessly, helplessly lost heart.
 * Ami Tomai Daki Ke Bale Ta Phanki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:61
+  :cite-key: MGG:61
   :END:
 
 #+BEGIN_VERSE
@@ -1215,10 +1215,10 @@ Raho kachhe raho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:62
+  :cite-key: MGG:62
   :END:
 
 #+BEGIN_VERSE
@@ -1244,10 +1244,10 @@ My heart’s soulful obeisance.
 * Amar Ashru Dhar Dake Barebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:63
+  :cite-key: MGG:63
   :END:
 
 #+BEGIN_VERSE
@@ -1261,10 +1261,10 @@ Ogo bishwer hriday rani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:64
+  :cite-key: MGG:64
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ O eternal Queen of my Eternity’s heart.
 * Chalo Jai Chalo Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:65
+  :cite-key: MGG:65
   :END:
 
 #+BEGIN_VERSE
@@ -1297,10 +1297,10 @@ Hiya bane jetha pabo alo thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:66
+  :cite-key: MGG:66
   :END:
 
 #+BEGIN_VERSE
@@ -1319,10 +1319,10 @@ Of the Lord Supreme.
 * Ke Bale Shaman Amar Patan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:67
+  :cite-key: MGG:67
   :END:
 
 #+BEGIN_VERSE
@@ -1336,10 +1336,10 @@ Prabhur anan bijoy ketan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:68
+  :cite-key: MGG:68
   :END:
 
 #+BEGIN_VERSE
@@ -1356,10 +1356,10 @@ And I see His infinite Victory’s eternal Banner flying.
 * Ami Chira Asahai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:69
+  :cite-key: MGG:69
   :END:
 
 #+BEGIN_VERSE
@@ -1376,10 +1376,10 @@ Mor puta hiya majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:70
+  :cite-key: MGG:70
   :END:
 
 #+BEGIN_VERSE
@@ -1399,10 +1399,10 @@ In the depths of my hallowed heart.
 * Hiya Majhi Dekha Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:71
+  :cite-key: MGG:71
   :END:
 
 #+BEGIN_VERSE
@@ -1417,10 +1417,10 @@ Ami kandi ami puratan khudha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:72
+  :cite-key: MGG:72
   :END:
 
 #+BEGIN_VERSE
@@ -1441,10 +1441,10 @@ With its ancient and birthless
 * Tomare Parabo Bijayer Har
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:73
+  :cite-key: MGG:73
   :END:
 
 #+BEGIN_VERSE
@@ -1459,10 +1459,10 @@ Shikhao ajike tare alo khela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:74
+  :cite-key: MGG:74
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ Of cosmic light and delight.
 * Tomar Sudhar Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:75
+  :cite-key: MGG:75
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ Bishwa oikya bhasha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:76
+  :cite-key: MGG:76
   :END:
 
 #+BEGIN_VERSE
@@ -1526,10 +1526,10 @@ That will cover the length and breadth
 * Taba Madhu Hasi Neharite Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:77
+  :cite-key: MGG:77
   :END:
 
 #+BEGIN_VERSE
@@ -1544,10 +1544,10 @@ Labhibe mukti dhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:78
+  :cite-key: MGG:78
   :END:
 
 #+BEGIN_VERSE
@@ -1565,10 +1565,10 @@ And the liberation-wealth my new life
 * Kato Asha Niye Esechhi Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:79
+  :cite-key: MGG:79
   :END:
 
 #+BEGIN_VERSE
@@ -1583,10 +1583,10 @@ Nahi hai ek mita
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:80
+  :cite-key: MGG:80
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ A far cry.
 * Nil Pakhi Ure Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:81
+  :cite-key: MGG:81
   :END:
 
 #+BEGIN_VERSE
@@ -1621,10 +1621,10 @@ Jare dekhe tare bandhichhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:82
+  :cite-key: MGG:82
   :END:
 
 #+BEGIN_VERSE
@@ -1642,10 +1642,10 @@ With its infinite freedom-light.
 * Premer Thakur Tomar Madhur Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:83
+  :cite-key: MGG:83
   :END:
 
 #+BEGIN_VERSE
@@ -1660,10 +1660,10 @@ Diyechhe tomai taito bishwa chup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:84
+  :cite-key: MGG:84
   :END:
 
 #+BEGIN_VERSE
@@ -1682,10 +1682,10 @@ Therefore, my world of turmoil has forever ceased.
 * Tumi Sthir Tai Tumi Mor Shir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:85
+  :cite-key: MGG:85
   :END:
 
 #+BEGIN_VERSE
@@ -1699,10 +1699,10 @@ Tumi asha tai dhara bhalobasa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:86
+  :cite-key: MGG:86
   :END:
 
 #+BEGIN_VERSE
@@ -1724,10 +1724,10 @@ Therefore, my life is inseparably one with
 * Ami Chahi Shudhu Tomar Paran Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:87
+  :cite-key: MGG:87
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Bahudure aji timir mithya chhal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:88
+  :cite-key: MGG:88
   :END:
 
 #+BEGIN_VERSE
@@ -1764,10 +1764,10 @@ Today far away I have kept aside my darkness,
 * Krandan Krandan Mor Hiya Prangan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:89
+  :cite-key: MGG:89
   :END:
 
 #+BEGIN_VERSE
@@ -1781,10 +1781,10 @@ Krandan krandan prashanti aradhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:90
+  :cite-key: MGG:90
   :END:
 
 #+BEGIN_VERSE
@@ -1800,10 +1800,10 @@ A world of peace for me invokes.
 * Ebar Amar Pala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:91
+  :cite-key: MGG:91
   :END:
 
 #+BEGIN_VERSE
@@ -1823,10 +1823,10 @@ Samarpaner dala
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:92
+  :cite-key: MGG:92
   :END:
 
 #+BEGIN_VERSE
@@ -1845,10 +1845,10 @@ With an unconditional heart.
 * Bhikkha Magi Bhikkha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:93
+  :cite-key: MGG:93
   :END:
 
 #+BEGIN_VERSE
@@ -1865,10 +1865,10 @@ Hok shesh mor pratikkha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:94
+  :cite-key: MGG:94
   :END:
 
 #+BEGIN_VERSE
@@ -1888,10 +1888,10 @@ Meet with satisfaction-bliss.
 * Ekti Shudhu Truti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:95
+  :cite-key: MGG:95
   :END:
 
 #+BEGIN_VERSE
@@ -1908,10 +1908,10 @@ Michha amir joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:96
+  :cite-key: MGG:96
   :END:
 
 #+BEGIN_VERSE
@@ -1931,10 +1931,10 @@ I sing the victory-song of my false
 * Mor Parikkhar Nahi Habe Shesh Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:97
+  :cite-key: MGG:97
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Dhangsa nadir dur simanai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:98
+  :cite-key: MGG:98
   :END:
 
 #+BEGIN_VERSE
@@ -1970,10 +1970,10 @@ Of my life’s destruction-river.
 * Dipti Nivas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MGG:99
+  :cite-key: MGG:99
   :END:
 
 #+BEGIN_VERSE
@@ -1988,10 +1988,10 @@ Bishwa prabhur prema bishwas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MGG:100
+  :cite-key: MGG:100
   :END:
 
 #+BEGIN_VERSE

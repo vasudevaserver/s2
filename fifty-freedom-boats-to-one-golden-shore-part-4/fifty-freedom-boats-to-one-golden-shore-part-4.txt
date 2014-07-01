@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0122
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FFB-4
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0122
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: FFB-4
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:108e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:108e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Service
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:108
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:108
   :END:
 
 
@@ -64,9 +64,9 @@ March 6, 1974; 12:00 noon
 * Renunciation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:109
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:109
   :END:
 
 
@@ -111,9 +111,9 @@ March 6, 1974; 4:00 p.m.
 * Friendship
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:110
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:110
   :END:
 
 
@@ -178,9 +178,9 @@ March 7, 1974; 9:00 a.m.
 * The practical reality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:111
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:111
   :END:
 
 
@@ -214,9 +214,9 @@ April 17, 1974; 2:00 p.m.
 * What has life taught me?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:112
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:112
   :END:
 
 
@@ -262,9 +262,9 @@ April 19,1974 ;8:00 p.m.
 * Transformation, liberation, revelation, manifestation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:113
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:113
   :END:
 
 
@@ -305,9 +305,9 @@ April 22, 1974; 10:00 a.m.
 * Just for today
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:114
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:114
   :END:
 
 
@@ -347,9 +347,9 @@ April 22, 1974; 4:00 p.m.
 * The existence of God
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:115
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:115
   :END:
 
 
@@ -399,9 +399,9 @@ April 22, 1974: 7:30 p.m.
 * Beauty
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:116
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:116
   :END:
 
 
@@ -539,9 +539,9 @@ April 23, 1974, 9:30 a.m.
 * Philosophy, religion and spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:117
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:117
   :END:
 
 
@@ -581,9 +581,9 @@ April 23, 1974; 9:00 p.m.
 * Part II -- Questions and answers: University of Arkansas
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:118e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:118e1
   :END:
 
 
@@ -591,9 +591,9 @@ April 23, 1974; 9:00 p.m.
 * Question: What do you concentrate on?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:118
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:118
   :END:
 
 
@@ -604,9 +604,9 @@ April 23, 1974; 9:00 p.m.
 * Question: Do you respect other religions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:119
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:119
   :END:
 
 
@@ -617,9 +617,9 @@ April 23, 1974; 9:00 p.m.
 * Question: How can one work for God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:120
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:120
   :END:
 
 
@@ -636,9 +636,9 @@ Until we have that kind of feeling, let us try to offer the fruits, the results 
 * Question: I am a vegetarian but I work as a meat handler. Is this increasing my karma?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:121
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:121
   :END:
 
 
@@ -653,9 +653,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Question: How do you see the physical body as entering into the scheme of things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:122
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:122
   :END:
 
 
@@ -666,9 +666,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Part III -- Questions and answers: University of Tulsa
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:123e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:123e1
   :END:
 
 
@@ -676,9 +676,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Question: Is it necessary to transcend all emotions for the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:123
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:123
   :END:
 
 
@@ -689,9 +689,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Question: Is it important for spiritual seekers to spend time with one another?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:124
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:124
   :END:
 
 
@@ -702,9 +702,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Question: How many levels of initiation are there, and how many times will a Master initiate a disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:125
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:125
   :END:
 
 
@@ -715,9 +715,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Part IV -- Questions and answers: Southern Methodist University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:126e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:126e1
   :END:
 
 
@@ -725,9 +725,9 @@ If you are extremely sincere, and if you feel that touching meat lowers your con
 * Question: How important do you think it is to have a spiritual teacher if one is very eager to make fast progress? And also, how long does one have to stay with the teacher?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:126
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:126
   :END:
 
 
@@ -740,9 +740,9 @@ A teacher is necessary unless and until we have reached our own highest goal. In
 * Question: How is it best to cope with the occasional fears and doubts that plague us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:127
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:127
   :END:
 
 
@@ -759,9 +759,9 @@ When the seeker has become very advanced and has travelled far, very far, toward
 * Question: For spiritual beginners, it seems that it is necessary to make some compromise between their family life and their spiritual life. Do you think that this compromise will always have to exist, or can it be transcended by some other kind of relationship?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:128
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:128
   :END:
 
 
@@ -774,9 +774,9 @@ Who looked after your near and dear ones twenty or thirty years ago, before you 
 * Part V -- Questions and answers: University of Nevada
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:129e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:129e1
   :END:
 
 
@@ -784,9 +784,9 @@ Who looked after your near and dear ones twenty or thirty years ago, before you 
 * Question: How can one know the God inside himself without becoming confused by the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:129
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:129
   :END:
 
 
@@ -799,9 +799,9 @@ For the time being the seeker knows that he has two rooms -- one is the mind roo
 * Question: Is there but one/ Sat-guru /in any one age or are there many/ Sat-gurus /at one time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:130
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:130
   :END:
 
 
@@ -812,9 +812,9 @@ For the time being the seeker knows that he has two rooms -- one is the mind roo
 * Question: If we fall asleep during meditation, does that mean we should sleep more at night so we can stay awake?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:131
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:131
   :END:
 
 
@@ -825,9 +825,9 @@ For the time being the seeker knows that he has two rooms -- one is the mind roo
 * Question: How can we see the divine in another human being when each human being has so many faults?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:132
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:132
   :END:
 
 
@@ -842,9 +842,9 @@ If you find it difficult to love the human in someone, then love the divine in h
 * Part VI -- Questions and answers: Stanford University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:133e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:133e1
   :END:
 
 
@@ -852,9 +852,9 @@ If you find it difficult to love the human in someone, then love the divine in h
 * Question: I've heard that when one accepts a spiritual path, there is a point at which one must surrender oneself to a Guru who is higher than himself. But I've also heard that one must constantly question his teachings and listen to his own inner voice. These two injunctions seem to conflict.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:133
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:133
   :END:
 
 
@@ -871,9 +871,9 @@ The questioning mind can never realise the Highest; only the aspiring heart can 
 * Question: How does one begin on the spiritual path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:134
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:134
   :END:
 
 
@@ -886,9 +886,9 @@ The Master and the path are one. If you follow a specific path, naturally there 
 * Question: Why is it that you always speak of God in masculine terms?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:135
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:135
   :END:
 
 
@@ -899,9 +899,9 @@ The Master and the path are one. If you follow a specific path, naturally there 
 * Question: What is the nature and purpose of the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:136
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:136
   :END:
 
 
@@ -912,9 +912,9 @@ The Master and the path are one. If you follow a specific path, naturally there 
 * Question: Was the Christ an avatar?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:137
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:137
   :END:
 
 
@@ -925,9 +925,9 @@ The Master and the path are one. If you follow a specific path, naturally there 
 * Question: Is there a difference between sleep and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:138
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:138
   :END:
 
 
@@ -944,9 +944,9 @@ The great spiritual Masters have a different kind of sleep. It is called Yoga-ni
 * Question: Could you tell us what Christ is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:139
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:139
   :END:
 
 
@@ -957,9 +957,9 @@ The great spiritual Masters have a different kind of sleep. It is called Yoga-ni
 * Question: Why is it so difficult to unite one's worldly work with the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:140
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:140
   :END:
 
 
@@ -970,9 +970,9 @@ The great spiritual Masters have a different kind of sleep. It is called Yoga-ni
 * Question: How should one meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:141
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:141
   :END:
 
 
@@ -983,9 +983,9 @@ The great spiritual Masters have a different kind of sleep. It is called Yoga-ni
 * Part VII -- Questions and answers: North Idaho Junior College
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:142e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:142e1
   :END:
 
 
@@ -993,9 +993,9 @@ The great spiritual Masters have a different kind of sleep. It is called Yoga-ni
 * Question: When a disciple meditates on you or on your photograph, how much does he actually feel your presence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:142
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:142
   :END:
 
 
@@ -1010,9 +1010,9 @@ How does one become a sincere, devoted, genuine seeker? He does so by feeling in
 * Question: What is the Will of the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:143
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:143
   :END:
 
 
@@ -1023,9 +1023,9 @@ How does one become a sincere, devoted, genuine seeker? He does so by feeling in
 * Question: How can we achieve peace in our outer life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:144
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:144
   :END:
 
 
@@ -1038,9 +1038,9 @@ The power of peace is similar to the power of money. If we put money in our pock
 * Part VIII -- Questions and answers: University of Montana
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:145e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:145e1
   :END:
 
 
@@ -1048,9 +1048,9 @@ The power of peace is similar to the power of money. If we put money in our pock
 * Question: What is the difference between seeing God and realising God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:145
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:145
   :END:
 
 
@@ -1061,9 +1061,9 @@ The power of peace is similar to the power of money. If we put money in our pock
 * Question: Could you please talk about attachment and detachment in love?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:146
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:146
   :END:
 
 
@@ -1078,9 +1078,9 @@ Attachment is in the body; detachment is in the soul. If we live in the body-con
 * Question: How may one realise God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:147
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:147
   :END:
 
 
@@ -1091,9 +1091,9 @@ Attachment is in the body; detachment is in the soul. If we live in the body-con
 * Question: How do we deal with negative emotions like anger, jealousy and fear?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:148
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:148
   :END:
 
 
@@ -1110,9 +1110,9 @@ Similarly, with all other undivine qualities, the best way to deal with them is 
 * Part IX -- Questions and answers: University of Colorado
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:149e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:149e1
   :END:
 
 
@@ -1120,9 +1120,9 @@ Similarly, with all other undivine qualities, the best way to deal with them is 
 * Question: Could you please tell us about your path to God-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:149
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:149
   :END:
 
 
@@ -1139,9 +1139,9 @@ Who is God, after all? God is not a third person. God is our own highest and mos
 * Question: How does a person surrender? What does a person do to achieve divine surrender?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:150
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:150
   :END:
 
 
@@ -1154,9 +1154,9 @@ When success comes, if we take it as an experience, and when failure comes, if w
 * Question: In the highest state of samadhi, when you look at other human beings, what kind of consciousness do you feel in them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:151
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:151
   :END:
 
 
@@ -1167,9 +1167,9 @@ When success comes, if we take it as an experience, and when failure comes, if w
 * Question: If God is the only doer, what is the role of man's free will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:152
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:152
   :END:
 
 
@@ -1180,9 +1180,9 @@ When success comes, if we take it as an experience, and when failure comes, if w
 * Question: Why must a seeker love God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:153
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:153
   :END:
 
 

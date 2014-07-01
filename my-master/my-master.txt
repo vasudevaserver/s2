@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1398
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2001
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MM
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1398
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2001
+  :publisher: Agni Press
+  :cite-key: MM
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Section One, My Master
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MM:1e1
   :END:
 
 
@@ -36,9 +36,9 @@
 * 1 My Heart Dies...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:1
+  :genre: poem
+  :keywords:
+  :cite-key: MM:1
   :END:
 
 
@@ -54,9 +54,9 @@ My Master's sadness-tears.
 * 2 My Heart Sings, Plays...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:2
+  :genre: poem
+  :keywords:
+  :cite-key: MM:2
   :END:
 
 
@@ -74,9 +74,9 @@ Gladness-smiles.
 * 3 Time Salutes And Stops...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:3
+  :genre: poem
+  :keywords:
+  :cite-key: MM:3
   :END:
 
 
@@ -93,9 +93,9 @@ And fondness for me.
 * 4 Every Morning...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:4
+  :genre: poem
+  :keywords:
+  :cite-key: MM:4
   :END:
 
 
@@ -112,9 +112,9 @@ With his heart's sunrise-beauty.
 * 5 My Master Cautioned Me...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:5
+  :genre: poem
+  :keywords:
+  :cite-key: MM:5
   :END:
 
 
@@ -131,9 +131,9 @@ Of my disobedience-life.
 * 6 O My Impurity-Mind, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:6
+  :genre: poem
+  :keywords:
+  :cite-key: MM:6
   :END:
 
 
@@ -153,9 +153,9 @@ Is fast approaching us.
 * 7 When The Master Appears, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:7
+  :genre: poem
+  :keywords:
+  :cite-key: MM:7
   :END:
 
 
@@ -178,9 +178,9 @@ World-transformation-responsibilities."
 * 8 The Master Appears And Says:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:8
+  :genre: poem
+  :keywords:
+  :cite-key: MM:8
   :END:
 
 
@@ -199,9 +199,9 @@ Has sadly failed."
 * 9 My Master Does Not Come Alone....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:9
+  :genre: poem
+  :keywords:
+  :cite-key: MM:9
   :END:
 
 
@@ -220,9 +220,9 @@ Inside their mind-jungles.
 * 10 Master, Master, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:10
+  :genre: poem
+  :keywords:
+  :cite-key: MM:10
   :END:
 
 
@@ -247,9 +247,9 @@ Your life's surrender-length."
 * 11 Master, Master, Over The Years...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:11
+  :genre: poem
+  :keywords:
+  :cite-key: MM:11
   :END:
 
 
@@ -275,9 +275,9 @@ Beauty-fountains.
 * 12 Master, Master, Please Tell Me...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:12
+  :genre: poem
+  :keywords:
+  :cite-key: MM:12
   :END:
 
 
@@ -297,9 +297,9 @@ I will do the needful."
 * Section Two, A God-Realised Soul
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MM:13e1
+  :genre: section
+  :keywords:
+  :cite-key: MM:13e1
   :END:
 
 
@@ -311,9 +311,9 @@ I will do the needful."
 * 13 A God-Realised Soul...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:13
+  :genre: poem
+  :keywords:
+  :cite-key: MM:13
   :END:
 
 
@@ -331,9 +331,9 @@ Humanity's donkey-slave.
 * 14 The Soul Of A God-Realised Person...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:14
+  :genre: poem
+  :keywords:
+  :cite-key: MM:14
   :END:
 
 
@@ -353,9 +353,9 @@ Of humanity.
 * 15 A God-Realised Soul...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:15
+  :genre: poem
+  :keywords:
+  :cite-key: MM:15
   :END:
 
 
@@ -373,9 +373,9 @@ Man's responsibility-frustration-reservoir.
 * 16 A God-Realised Person...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:16
+  :genre: poem
+  :keywords:
+  :cite-key: MM:16
   :END:
 
 
@@ -395,9 +395,9 @@ Of humanity.
 * 17 A God-Realised Person...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:17
+  :genre: poem
+  :keywords:
+  :cite-key: MM:17
   :END:
 
 
@@ -418,9 +418,9 @@ From the aspiration-world.
 * 18 The Silence Of The Inner World...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:18
+  :genre: poem
+  :keywords:
+  :cite-key: MM:18
   :END:
 
 
@@ -446,9 +446,9 @@ Not here, not here!"
 * 19 The Immortal Motto...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:19
+  :genre: poem
+  :keywords:
+  :cite-key: MM:19
   :END:
 
 
@@ -465,9 +465,9 @@ Yesterday's Night never ends.
 * 20 A God-Realised Person...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:20
+  :genre: poem
+  :keywords:
+  :cite-key: MM:20
   :END:
 
 
@@ -487,9 +487,9 @@ Winner-Dreamer.
 * 21 A God-Realised Soul...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:21
+  :genre: poem
+  :keywords:
+  :cite-key: MM:21
   :END:
 
 
@@ -508,9 +508,9 @@ Of humanity's frowns.
 * 22 Humanity Does Not Need...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:22
+  :genre: poem
+  :keywords:
+  :cite-key: MM:22
   :END:
 
 
@@ -531,9 +531,9 @@ His supreme Task on earth.
 * 23 Divinity...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:23
+  :genre: poem
+  :keywords:
+  :cite-key: MM:23
   :END:
 
 
@@ -554,9 +554,9 @@ By ferocious slapping.
 * 24 The Heart Of A God-Realised Soul...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:24
+  :genre: poem
+  :keywords:
+  :cite-key: MM:24
   :END:
 
 
@@ -575,9 +575,9 @@ Humanity's jealousy-dragon-eye.
 * 25 A God-Realised Soul...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:25
+  :genre: poem
+  :keywords:
+  :cite-key: MM:25
   :END:
 
 
@@ -597,9 +597,9 @@ In humanity's sky.
 * 26 Consolation Prize...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:26
+  :genre: poem
+  :keywords:
+  :cite-key: MM:26
   :END:
 
 
@@ -622,9 +622,9 @@ Immortality's Reality-Heart."
 * Section Three, Mine Is A God-Dream
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MM:27e1
+  :genre: section
+  :keywords:
+  :cite-key: MM:27e1
   :END:
 
 
@@ -636,9 +636,9 @@ Immortality's Reality-Heart."
 * 27 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:27
+  :genre: poem
+  :keywords:
+  :cite-key: MM:27
   :END:
 
 
@@ -654,9 +654,9 @@ Be shattered.
 * 28 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:28
+  :genre: poem
+  :keywords:
+  :cite-key: MM:28
   :END:
 
 
@@ -672,9 +672,9 @@ Be even shaken.
 * 29 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:29
+  :genre: poem
+  :keywords:
+  :cite-key: MM:29
   :END:
 
 
@@ -690,9 +690,9 @@ My God-appointment book.
 * 30 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:30
+  :genre: poem
+  :keywords:
+  :cite-key: MM:30
   :END:
 
 
@@ -710,9 +710,9 @@ My life's recreation.
 * 31 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:31
+  :genre: poem
+  :keywords:
+  :cite-key: MM:31
   :END:
 
 
@@ -728,9 +728,9 @@ The mountain-silence-peace.
 * 32 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:32
+  :genre: poem
+  :keywords:
+  :cite-key: MM:32
   :END:
 
 
@@ -748,9 +748,9 @@ My heart's setting aspiration-sun.
 * 33 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:33
+  :genre: poem
+  :keywords:
+  :cite-key: MM:33
   :END:
 
 
@@ -766,9 +766,9 @@ Empty of doubt-poison.
 * 34 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:34
+  :genre: poem
+  :keywords:
+  :cite-key: MM:34
   :END:
 
 
@@ -785,9 +785,9 @@ My earthly human fate.
 * 35 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:35
+  :genre: poem
+  :keywords:
+  :cite-key: MM:35
   :END:
 
 
@@ -806,9 +806,9 @@ To God.
 * 36 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:36
+  :genre: poem
+  :keywords:
+  :cite-key: MM:36
   :END:
 
 
@@ -825,9 +825,9 @@ Celestial Country Home.
 * 37 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:37
+  :genre: poem
+  :keywords:
+  :cite-key: MM:37
   :END:
 
 
@@ -845,9 +845,9 @@ To remain unsung.
 * 38 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:38
+  :genre: poem
+  :keywords:
+  :cite-key: MM:38
   :END:
 
 
@@ -865,9 +865,9 @@ Inside my heart-home.
 * 39 Mine Is A God-Dream...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MM:39
+  :genre: poem
+  :keywords:
+  :cite-key: MM:39
   :END:
 
 

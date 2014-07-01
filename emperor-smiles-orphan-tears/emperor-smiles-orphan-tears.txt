@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1342
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2000
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ESOT
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1342
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2000
+  :publisher: Agni Press
+  :cite-key: ESOT
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:1
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:1
   :END:
 
 
@@ -41,9 +41,9 @@ His Emperor-Smiles.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:2
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:2
   :END:
 
 
@@ -60,9 +60,9 @@ His Orphan-Tears.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:3
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:3
   :END:
 
 
@@ -78,9 +78,9 @@ A universal citizen.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:4
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:4
   :END:
 
 
@@ -96,9 +96,9 @@ God's Heartbeat-Thrill.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:5
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:5
   :END:
 
 
@@ -115,9 +115,9 @@ On my world-concern.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:6
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:6
   :END:
 
 
@@ -134,9 +134,9 @@ Their interdependence.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:7
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:7
   :END:
 
 
@@ -153,9 +153,9 @@ My self-effulgence.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:8
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:8
   :END:
 
 
@@ -172,9 +172,9 @@ Of my Lord's starlit Feet.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:9
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:9
   :END:
 
 
@@ -190,9 +190,9 @@ By God's constant Concern.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:10
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:10
   :END:
 
 
@@ -208,9 +208,9 @@ To God.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:11
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:11
   :END:
 
 
@@ -226,9 +226,9 @@ To God.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:12
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:12
   :END:
 
 
@@ -243,9 +243,9 @@ Is a useless zero.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:13
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:13
   :END:
 
 
@@ -260,9 +260,9 @@ Is a real hero.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:14
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:14
   :END:
 
 
@@ -278,9 +278,9 @@ By dreaming the impossible.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:15
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:15
   :END:
 
 
@@ -298,9 +298,9 @@ God's Satisfaction.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:16
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:16
   :END:
 
 
@@ -316,9 +316,9 @@ As the human mind?
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:17
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:17
   :END:
 
 
@@ -335,9 +335,9 @@ On his life.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:18
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:18
   :END:
 
 
@@ -354,9 +354,9 @@ But also inevitable realities.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:19
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:19
   :END:
 
 
@@ -372,9 +372,9 @@ You trust yourself first.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:20
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:20
   :END:
 
 
@@ -390,9 +390,9 @@ The way God wants you to.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:21
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:21
   :END:
 
 
@@ -408,9 +408,9 @@ God's Feet free my heart.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:22
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:22
   :END:
 
 
@@ -426,9 +426,9 @@ Smooth sailing.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:23
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:23
   :END:
 
 
@@ -445,9 +445,9 @@ Its destination.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:24
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:24
   :END:
 
 
@@ -466,9 +466,9 @@ Immortalise my heart.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:25
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:25
   :END:
 
 
@@ -484,9 +484,9 @@ For the modern peace.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:26
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:26
   :END:
 
 
@@ -502,9 +502,9 @@ Soul-satisfaction.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:27
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:27
   :END:
 
 
@@ -520,9 +520,9 @@ Of gain.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:28
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:28
   :END:
 
 
@@ -538,9 +538,9 @@ God-comforting smile.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:29
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:29
   :END:
 
 
@@ -556,9 +556,9 @@ Heart-riches.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:30
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:30
   :END:
 
 
@@ -575,9 +575,9 @@ To wrestle with your doubts.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:31
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:31
   :END:
 
 
@@ -594,9 +594,9 @@ In His Divinity's Firmament.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:32
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:32
   :END:
 
 
@@ -613,9 +613,9 @@ To my God-realisation.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:33
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:33
   :END:
 
 
@@ -633,9 +633,9 @@ Of my life-tree.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:34
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:34
   :END:
 
 
@@ -650,9 +650,9 @@ A thick forest of fears.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:35
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:35
   :END:
 
 
@@ -669,9 +669,9 @@ My God-discovery.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:36
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:36
   :END:
 
 
@@ -688,9 +688,9 @@ The lap of inertia.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:37
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:37
   :END:
 
 
@@ -711,9 +711,9 @@ Our life flying upward.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:38
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:38
   :END:
 
 
@@ -729,9 +729,9 @@ Surrender-life.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:39
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:39
   :END:
 
 
@@ -747,9 +747,9 @@ Every new day.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:40
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:40
   :END:
 
 
@@ -764,9 +764,9 @@ Are world-misguiders.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:41
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:41
   :END:
 
 
@@ -782,9 +782,9 @@ God-discoverers.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:42
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:42
   :END:
 
 
@@ -800,9 +800,9 @@ The God-Heart-winner.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:43
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:43
   :END:
 
 
@@ -817,9 +817,9 @@ Is a broken sleep.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:44
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:44
   :END:
 
 
@@ -834,9 +834,9 @@ Is a golden dream
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:45
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:45
   :END:
 
 
@@ -852,9 +852,9 @@ By a giant doom.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:46
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:46
   :END:
 
 
@@ -870,9 +870,9 @@ By instant bloom.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:47
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:47
   :END:
 
 
@@ -888,9 +888,9 @@ Of His crew members.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:48
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:48
   :END:
 
 
@@ -906,9 +906,9 @@ The fulness of peace.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:49
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:49
   :END:
 
 
@@ -926,9 +926,9 @@ Of gold.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:50
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:50
   :END:
 
 
@@ -944,9 +944,9 @@ Infinite expansion.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:51
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:51
   :END:
 
 
@@ -961,9 +961,9 @@ Strengthen.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:52
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:52
   :END:
 
 
@@ -978,9 +978,9 @@ Enlighten.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:53
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:53
   :END:
 
 
@@ -995,9 +995,9 @@ Is a future tense.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:54
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:54
   :END:
 
 
@@ -1012,9 +1012,9 @@ Is a present tense.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:55
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:55
   :END:
 
 
@@ -1032,9 +1032,9 @@ My evening sunset-meditations.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:56
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:56
   :END:
 
 
@@ -1051,9 +1051,9 @@ Specially on my mind.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:57
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:57
   :END:
 
 
@@ -1072,9 +1072,9 @@ A God-gratitude-bloom.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:58
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:58
   :END:
 
 
@@ -1089,9 +1089,9 @@ I was.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:59
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:59
   :END:
 
 
@@ -1106,9 +1106,9 @@ I now am.
 * 60.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:60
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:60
   :END:
 
 
@@ -1126,9 +1126,9 @@ With the Sahara-thirst.
 * 61.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:61
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:61
   :END:
 
 
@@ -1144,9 +1144,9 @@ World-attention.
 * 62.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:62
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:62
   :END:
 
 
@@ -1162,9 +1162,9 @@ God-Affection.
 * 63.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:63
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:63
   :END:
 
 
@@ -1181,9 +1181,9 @@ Pride is fast approaching you.
 * 64.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESOT:64
+  :genre: poem
+  :keywords:
+  :cite-key: ESOT:64
   :END:
 
 

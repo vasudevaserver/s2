@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1341
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2000
-  :PUBLISHER:
-  :CITE-KEY: GTML
-  :GENRE: song
+  :book-number: 1341
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2000
+  :publisher:
+  :cite-key: GTML
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GTML:1e1
+  :genre: note
+  :cite-key: GTML:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GTML:1e2
+  :genre: note
+  :cite-key: GTML:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Shunte Jara Nahi Chahe Tomar Madhur Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:1
+  :cite-key: GTML:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Tara jena na pai prabhu tomar charan khani
 * Swadhin Haye Bahu Dure Thakte Jara Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:2
+  :cite-key: GTML:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Tomar khama tara jena nahi kabhu pai
 * Samarpaner Giti Geye Sunil Nabhe Urbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:3
+  :cite-key: GTML:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Amaratar bishalatai charan tomar dharbo
 * Bhore Sanjhe Tomar Lagi Keno Nahi Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:4
+  :cite-key: GTML:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Tomar paye amire mor keno nahi bandhi
 * Jiban Rane Maran Sane Karbo Larai Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:5
+  :cite-key: GTML:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Jani jani ahab ante bijoy rathe charbo
 * Hiyar Khudha Barai Tibra Hiyar Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:6
+  :cite-key: GTML:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Param pita niye ase swarger sudha
 * Ogo Amar Hiya Tarir Majhi Kothai Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:7
+  :cite-key: GTML:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Dekhao more param kripai amaratar bhumi
 * Nirabadhi Mane Prane Dehe Chapalata Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:8
+  :cite-key: GTML:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Taito dure bahu dure amar saphalata
 * Ebar Ami Asbo Phire Prabhur Charan Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:9
+  :cite-key: GTML:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Tushbo ami prabhure mor atma samarpaner bale
 * Bhitar Jibane Bahir Jibane Chapalata Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:10
+  :cite-key: GTML:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Tai nahi pari gahite kadapi paramer jaya gan
 * Ogo Amar Bahu Juger Maya Moher Supti Jege
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:11
+  :cite-key: GTML:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Jege utho dake tomai amaratar dipti
 * Dake Amai Bandhan Hara Asimatar Desh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:12
+  :cite-key: GTML:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Dipti nebe tripti debe amai animesh
 * Basana Puran Karechi Baliya Kannar Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:13
+  :cite-key: GTML:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Nutan jiban amare dhaniya laho more paramesh
 * Tomar Giti Gaite Giye Gahi Kebal Atma Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:14
+  :cite-key: GTML:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Tomar priti chaite giye chahi kebal atma priti
 * Swarga Dhame Dite Habe Amar Dhruba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:15
+  :cite-key: GTML:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Dhara tale dibanishi taito amar kare bhoy
 * Chahina Man Chahina Dhan Chahi Kebal Sri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:16
+  :cite-key: GTML:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Chahina sukh chahina bhog chahi kebal bhakti jog
 * Tomar Kripa Sagar Pane Jiban Nadi Druta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:17
+  :cite-key: GTML:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Taito janai tomai prabhu amar hiyar ashesh nati
 * Aghat Karo Aghat Karo Tibra Aghat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:18
+  :cite-key: GTML:18
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Hiya majhe uthbe phute nutan prabhat
 * Jani Jani Bidurite Maner Nibe Kalo Ajanare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:19
+  :cite-key: GTML:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Ajanare achenare baste habe bhalo
 * Sukher Dukher Parapare Jete Hale Baste
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:20
+  :cite-key: GTML:20
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ Baste habe bishwa prabhur charan tale
 * Bhore Sanjhe Maner Katha Balbo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:21
+  :cite-key: GTML:21
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Praner byatha tomar paye dakbo mago dakbo
 * Shanto Habe Chapal Paran Shanto Sudur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:22
+  :cite-key: GTML:22
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Sudur pathe na jadi hai klanto
 * Maner Adesh Manbona Ar Manbona Na Na Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:23
+  :cite-key: GTML:23
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Maner bane ghurbona ar ghurbona na na na
 * Timir Sathe Khelbona Ar Khelbona Na Na Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:24
+  :cite-key: GTML:24
   :END:
 
 #+BEGIN_VERSE
@@ -449,10 +449,10 @@ Lobher sathe chalbona ar chalbona na na na
 * Maner Kara Bhangte Habe Timir Maner Kara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:25
+  :cite-key: GTML:25
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Prabhur hiyai chaho jadi hate atma hara
 * Nil Gagane Pakhir Sane Bhulte Chahe Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:26
+  :cite-key: GTML:26
   :END:
 
 #+BEGIN_VERSE
@@ -483,10 +483,10 @@ Gaite habe samarpaner giti nirabadhi
 * Alap Karite Nahi Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:27
+  :cite-key: GTML:27
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Sakaler sathe khelibo nachibo prabhure rakhiya mathe
 * Dharanir Buke Phutite Haibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:28
+  :cite-key: GTML:28
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ Simar bandhan bhangite haibe bajate kanur banshi
 * Nahi Jani Keman Kare Tomar Nayan Khunjbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:29
+  :cite-key: GTML:29
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Nahi jani keman kare tomar charan pujbo
 * Simar Bandhan Chiratare Karte Bichuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:30
+  :cite-key: GTML:30
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Bishwa prabhur charan tale nilam sharan
 * Sabar Cheye Hate Baro Ei Chhilo Mor Sadh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:31
+  :cite-key: GTML:31
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Khama karo bishwa prabhu amar aparadh
 * Amar Amire Karite Prachar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:32
+  :cite-key: GTML:32
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Prabhure khunjite esechi dharai kusum surabhi chite
 * Ghuri Ami Dibanishi Maya Moher Pichhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:33
+  :cite-key: GTML:33
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Taito amar shir khanire rakhi sada nichu
 * Britha Ami Ghure Berai Dhudhu Marubhume
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:34
+  :cite-key: GTML:34
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Agyanatar malinatar ghor prachanda dhume
 * Sab Asha Mor Churna Halo Dhare Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:35
+  :cite-key: GTML:35
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ Dharar buke dhanya halo amar jiban maran
 * Khulechhi Aj Hiyar Duar Khulechhi Badhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:36
+  :cite-key: GTML:36
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Badhar bandhan ek nimeshe bhulechhi
 * Shishur Mato Khelte Phuler Mato Haste Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:37
+  :cite-key: GTML:37
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Ogo trishul dhari
 * Andhakarer Bakka Chiri Phutechi Aj Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:38
+  :cite-key: GTML:38
   :END:
 
 #+BEGIN_VERSE
@@ -689,10 +689,10 @@ Jiban amar phutbe shudhu priyatamer swapane
 * Swapan Madhur Baroi Madhur Bastabe Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:39
+  :cite-key: GTML:39
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Bishwa janani karuna dayini amare anke nibe
 * Jani Jani Jiban Amar Saphal Habe Phute Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:40
+  :cite-key: GTML:40
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Phute jadi tomar asim kripa bhabe
 * Urdhe Amar Sunil Akash Dake Amar Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:41
+  :cite-key: GTML:41
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Sethai gele dekhte pabo amar jiban tarir majhire
 * Mayer Kripai Dhanya Halo Amar Khudra Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:42
+  :cite-key: GTML:42
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Deepti pabo tripti pabo bishwa sabhai prachar kare mayer bani
 * Tomar Puja Karte Giye Kari Ami Amar Puja
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:43
+  :cite-key: GTML:43
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Tabu amai karo khama kripamoyi dashabhuja
 * Bajra Bina Bajabo Aj Bajra Bina Bharat Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:44
+  :cite-key: GTML:44
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Bharat mata raibena ar shakti hina
 * Trishita Khudita Amar Jiban Khani Enechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:45
+  :cite-key: GTML:45
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Enechi ajike tomar charane tani
 * Nahi Pabe Kabhu Dhan Jash Mane Triptir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:46
+  :cite-key: GTML:46
   :END:
 
 #+BEGIN_VERSE
@@ -825,10 +825,10 @@ Tripti labhite chaho go prabhur sri charan parashan
 * Bhirur Mato Thakbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:47
+  :cite-key: GTML:47
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Ar saibona na na na na
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:48
+  :cite-key: GTML:48
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Like a hero, I shall no more tolerate
 * Paramer Pade Paramanande Parama Pritite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-12-1999
-  :CITE-KEY: GTML:49
+  :cite-key: GTML:49
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Praphulla prane pujibo
 * Mushal Dhare Brishti Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:50
+  :cite-key: GTML:50
   :END:
 
 #+BEGIN_VERSE
@@ -899,10 +899,10 @@ Bhitir bahir nabin alor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:51
+  :cite-key: GTML:51
   :END:
 
 #+BEGIN_VERSE
@@ -917,10 +917,10 @@ With the liberation-message.
 * Tripta Halo Hiya Mama Dipta Halo Abayab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:52
+  :cite-key: GTML:52
   :END:
 
 #+BEGIN_VERSE
@@ -934,10 +934,10 @@ Lupta halo chiratare maner praner kalarab
 * Asha Setu Mor Bhenge Chur Mar Animesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:53
+  :cite-key: GTML:53
   :END:
 
 #+BEGIN_VERSE
@@ -951,10 +951,10 @@ Animesh chite ashru jowar
 * Hiyakashe Ram Dhanu Go Utho Jege
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:54
+  :cite-key: GTML:54
   :END:
 
 #+BEGIN_VERSE
@@ -968,10 +968,10 @@ Ananda dheu karogo dan druta bege
 * Durbalata Asarata Biphalata Ami Jakhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:55
+  :cite-key: GTML:55
   :END:
 
 #+BEGIN_VERSE
@@ -985,10 +985,10 @@ Ami jakhan bhabi kebal amar katha
 * Desh Bideshe Ghure Berai Pete Tader
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:56
+  :cite-key: GTML:56
   :END:
 
 #+BEGIN_VERSE
@@ -1002,10 +1002,10 @@ Mahanande purna kari dibarati sakal sadh
 * Sparshe Tomar Harsha Jagai Amar Sprihar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:57
+  :cite-key: GTML:57
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1019,10 @@ Dekhbo aji prashphutita amar hiyar rabire
 * Chidakashe Surjya Chandra Janai Nati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:58
+  :cite-key: GTML:58
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Pratikhane dao go more subha mati
 * Usha Debi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:59
+  :cite-key: GTML:59
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Taba barabhaye pabo shantir sandhan
 * Sanjher Tara Tomar Ankhi Barai Bhalo Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:60
+  :cite-key: GTML:60
   :END:
 
 #+BEGIN_VERSE
@@ -1070,10 +1070,10 @@ Tomar bijoy gahi ami param anurage
 * Jara Nahi Shune Bidhata Tomar Adesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:61
+  :cite-key: GTML:61
   :END:
 
 #+BEGIN_VERSE
@@ -1086,10 +1086,10 @@ Amar jibane nai je tader prabesh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:62
+  :cite-key: GTML:62
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ Have no entrance into my life.
 * Tomai Jahara Kare Amanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:63
+  :cite-key: GTML:63
   :END:
 
 #+BEGIN_VERSE
@@ -1122,10 +1122,10 @@ mama antara pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:64
+  :cite-key: GTML:64
   :END:
 
 #+BEGIN_VERSE
@@ -1141,10 +1141,10 @@ In my heart-citadel.
 * Rupantarer Chale Geche Din Rupantarer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:65
+  :cite-key: GTML:65
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ Nimna jiban ajo bhalo lage hai tahader
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:66
+  :cite-key: GTML:66
   :END:
 
 #+BEGIN_VERSE
@@ -1174,10 +1174,10 @@ Alas, still they love to enjoy their lower life.
 * Mantra Dao Go.. Mantra Amai Karo Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1999
-  :CITE-KEY: GTML:67
+  :cite-key: GTML:67
   :END:
 
 #+BEGIN_VERSE
@@ -1190,10 +1190,10 @@ Mantra Dao Go Mantra Dao Go Mantra Dao Go Mantra Amai Karo Prabhu tomar param pr
 * Mantra Dao Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:68
+  :cite-key: GTML:68
   :END:
 
 #+BEGIN_VERSE
@@ -1206,10 +1206,10 @@ Amai karo prabhu tomar param priya jantra
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:69
+  :cite-key: GTML:69
   :END:
 
 #+BEGIN_VERSE
@@ -1224,10 +1224,10 @@ to take shelter at God’s Feet.
 * Saral Paran Bhalo Lage Saral Paran Tahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:70
+  :cite-key: GTML:70
   :END:
 
 #+BEGIN_VERSE
@@ -1241,10 +1241,10 @@ Tahar majhe biraj kare phuler bagan
 * Jani Jani Din Rajani Janar Simanai Dhanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:71
+  :cite-key: GTML:71
   :END:
 
 #+BEGIN_VERSE
@@ -1258,10 +1258,10 @@ Dhanya habo pele shudhu mayer paye thai
 * Shunyatar Bakke Pabo Purnatar Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:72
+  :cite-key: GTML:72
   :END:
 
 #+BEGIN_VERSE
@@ -1275,10 +1275,10 @@ Tripti pabe chiratare mor jiban maran
 * Jethai Jai Sethai Pai Tomar Kripa Hasi Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:73
+  :cite-key: GTML:73
   :END:
 
 #+BEGIN_VERSE
@@ -1292,10 +1292,10 @@ Tripti more ditecho prabhu andhar kalo nashi
 * Dui Tarite Ekiy Samoi Hasbe Sabai Hasbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:74
+  :cite-key: GTML:74
   :END:
 
 #+BEGIN_VERSE
@@ -1309,10 +1309,10 @@ Murkhata tor keha kabhu nahi bhalo basbe
 * Tomar Bani Karte Prachar Esechi Ei Dharate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:75
+  :cite-key: GTML:75
   :END:
 
 #+BEGIN_VERSE
@@ -1326,10 +1326,10 @@ Tomar bijoy geye chali virat bishwa sabhate
 * Swapane Khunjechi Swapane Peyechi Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:76
+  :cite-key: GTML:76
   :END:
 
 #+BEGIN_VERSE
@@ -1343,10 +1343,10 @@ Shatek juger bhangiya bandhan taba madhu parashan
 * Madhur Asha Madhur Jaowa Madhur Sabiy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:77
+  :cite-key: GTML:77
   :END:
 
 #+BEGIN_VERSE
@@ -1360,10 +1360,10 @@ Mayer paye rakhi amar kanna hasi prachur
 * Ashar Pathe Chalte Habe Ashar Pathe Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:78
+  :cite-key: GTML:78
   :END:
 
 #+BEGIN_VERSE
@@ -1377,10 +1377,10 @@ Purna habe jiban amar atma tyager brate
 * Namer Jasher Kangal Bale Pelam Nithur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:79
+  :cite-key: GTML:79
   :END:
 
 #+BEGIN_VERSE
@@ -1394,10 +1394,10 @@ Ebar shudhu raite chahi prabhur bijay ketan
 * Dharanir Buke Sabare Karite Apan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:80
+  :cite-key: GTML:80
   :END:
 
 #+BEGIN_VERSE
@@ -1411,10 +1411,10 @@ Ei shudhu mor sonali dipali swapan
 * Amar Chitta Maner Britha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:81
+  :cite-key: GTML:81
   :END:
 
 #+BEGIN_VERSE
@@ -1428,10 +1428,10 @@ Kothai tumi dao go dekha chirantaner dayal
 * Din Rajani Gaite Habe Samarpaner Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:82
+  :cite-key: GTML:82
   :END:
 
 #+BEGIN_VERSE
@@ -1445,10 +1445,10 @@ Pete jadi chaho tumi param prabhur priti
 * Egiye Chal.. Dekhte Pabi Mayer Pada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:83
+  :cite-key: GTML:83
   :END:
 
 #+BEGIN_VERSE
@@ -1462,10 +1462,10 @@ Dekhte pabi mayer pada shatadal
 * Balite Parina Kebal Sahite Pari Dukher Rajani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:84
+  :cite-key: GTML:84
   :END:
 
 #+BEGIN_VERSE
@@ -1479,10 +1479,10 @@ Dukher rajani jabe ki more chhari
 * Hiyar Gabhire Nahi Krandan Bahir Jibane Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:85
+  :cite-key: GTML:85
   :END:
 
 #+BEGIN_VERSE
@@ -1496,10 +1496,10 @@ Bahir jibane tai bandhan
 * Baroi Tibra Bhitir Jatan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:86
+  :cite-key: GTML:86
   :END:
 
 #+BEGIN_VERSE
@@ -1512,10 +1512,10 @@ Baroi madhur sahas nachan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:87
+  :cite-key: GTML:87
   :END:
 
 #+BEGIN_VERSE
@@ -1530,10 +1530,10 @@ Is the dance of courage.
 * Jader Katha Bhebe Mari Prati Pale Pale Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:88
+  :cite-key: GTML:88
   :END:
 
 #+BEGIN_VERSE
@@ -1547,10 +1547,10 @@ Bhul kareo amar katha bhabe ki ar bale
 * Samoy Hayechhe Jete Habe Dure Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:89
+  :cite-key: GTML:89
   :END:
 
 #+BEGIN_VERSE
@@ -1564,10 +1564,10 @@ Amar thikana bishwa prabhur hiya pure
 * Keno Amai Nitya Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:90
+  :cite-key: GTML:90
   :END:
 
 #+BEGIN_VERSE
@@ -1580,10 +1580,10 @@ Bhenge amar hriday khani tripti bujhi pao
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:91
+  :cite-key: GTML:91
   :END:
 
 #+BEGIN_VERSE
@@ -1599,10 +1599,10 @@ Smashing asunder my heart?
 * Jiban Katai Sukher Dukher Bhojha Bahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:92
+  :cite-key: GTML:92
   :END:
 
 #+BEGIN_VERSE
@@ -1616,10 +1616,10 @@ Thakte chahi mayer kebal charan kamal dhare
 * Mane Andhiyar Prane Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:93
+  :cite-key: GTML:93
   :END:
 
 #+BEGIN_VERSE
@@ -1634,10 +1634,10 @@ Nahi mor adhikar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:94
+  :cite-key: GTML:94
   :END:
 
 #+BEGIN_VERSE
@@ -1653,10 +1653,10 @@ Therefore, I have no right to worship You.
 * Shantir Dekha Pabo Ki Go Hai Amar Hatasha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:95
+  :cite-key: GTML:95
   :END:
 
 #+BEGIN_VERSE
@@ -1670,10 +1670,10 @@ Bedana jatana haye gechhe sathi jagarane ar swapane
 * Ganer Sure Tushbo Amar Hiyar Rajare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:96
+  :cite-key: GTML:96
   :END:
 
 #+BEGIN_VERSE
@@ -1686,10 +1686,10 @@ Ganer Sure Tushbo Amar Hiyar Rajare Raibona ar jatil kutil maner bajare
 * Ahar Nishi Cheyechhilam Sukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:97
+  :cite-key: GTML:97
   :END:
 
 #+BEGIN_VERSE
@@ -1703,10 +1703,10 @@ Haye gelam dukher hiya mukh
 * Jago Jago Mago Mago Ar Karona Deri Dekho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1999
-  :CITE-KEY: GTML:98
+  :cite-key: GTML:98
   :END:
 
 #+BEGIN_VERSE
@@ -1720,10 +1720,10 @@ Dekho dekho shuno shuno tomar bijoy bheri
 * Tomar Kache Giye Ami Dharbo Tomar Sri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:99
+  :cite-key: GTML:99
   :END:
 
 #+BEGIN_VERSE
@@ -1737,10 +1737,10 @@ Tomar paye sampibo aj mor bhakati hutashan
 * Pranam Janai Tomai Prabhu Barbar Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:100
+  :cite-key: GTML:100
   :END:
 
 #+BEGIN_VERSE
@@ -1754,10 +1754,10 @@ Ami habo tomar jayer hunkar
 * Chinta Amar Amar Udash Tomar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:101
+  :cite-key: GTML:101
   :END:
 
 #+BEGIN_VERSE
@@ -1771,10 +1771,10 @@ Tomar hiyar madhur subas
 * Ogo Rishikesh.. Palan Karibo Jibane Marane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:102
+  :cite-key: GTML:102
   :END:
 
 #+BEGIN_VERSE
@@ -1788,10 +1788,10 @@ Palan karibo jibane marane tomar adesh
 * He Nanda Lal... Rakchhi Pete Dharte Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:103
+  :cite-key: GTML:103
   :END:
 
 #+BEGIN_VERSE
@@ -1805,10 +1805,10 @@ Rakchhi pete dharte tomai bhakti jal
 * Ekti Matra Ekti Matra Amar Asadh Arte Chahi Bishwa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:104
+  :cite-key: GTML:104
   :END:
 
 #+BEGIN_VERSE
@@ -1822,10 +1822,10 @@ Arte chahi bishwa prabhur bijoy ninad
 * Hiya Tarir Nabik Amar Hiya Tarir Nabik Amai Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:105
+  :cite-key: GTML:105
   :END:
 
 #+BEGIN_VERSE
@@ -1839,10 +1839,10 @@ Amai karo sarba tyagi tomar kripar premik
 * Nijhum Nithar Rate Heribo Amar Nathe Dhanya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:106
+  :cite-key: GTML:106
   :END:
 
 #+BEGIN_VERSE
@@ -1856,10 +1856,10 @@ Dhanya jiban habe nabin ushar bhabe
 * Maner Deshe Praner Deshe Hangamar Shesh Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:107
+  :cite-key: GTML:107
   :END:
 
 #+BEGIN_VERSE
@@ -1873,10 +1873,10 @@ Atripta man atripta pran dekhte nahi chai
 * Khama Karo Khama Karo Bishwa Prabhu Kripalu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:108
+  :cite-key: GTML:108
   :END:
 
 #+BEGIN_VERSE
@@ -1890,10 +1890,10 @@ Nahi jani keno je hai thaki kebal nidralu
 * Egiye Chal Asim Pane Egiye Chal Kiser Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:109
+  :cite-key: GTML:109
   :END:
 
 #+BEGIN_VERSE
@@ -1907,10 +1907,10 @@ Kiser bhoy kiser bhoy virer dal
 * Egiye Chal Druta Bege Egiye Chal Sathe Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:110
+  :cite-key: GTML:110
   :END:
 
 #+BEGIN_VERSE
@@ -1924,10 +1924,10 @@ Sathe ache param pitar kripashish bal
 * Egiye Chal Vir Vikrame Egiye Chal Oi Dekh Oi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:111
+  :cite-key: GTML:111
   :END:
 
 #+BEGIN_VERSE
@@ -1941,10 +1941,10 @@ Oi dekh oi dekh bibhur charan kamal dal
 * Egiye Chal Egiye Chal Jatrar Nai Shesh Rishta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:112
+  :cite-key: GTML:112
   :END:
 
 #+BEGIN_VERSE
@@ -1958,10 +1958,10 @@ Rishta chite dake toder amarar desh
 * Egiye Chal Egiye Chal Pichan Phire Taka Snear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-12-1999
-  :CITE-KEY: GTML:113
+  :cite-key: GTML:113
   :END:
 
 #+BEGIN_VERSE
@@ -1975,10 +1975,10 @@ Ek nimeshe bhangte habe badhar bandhan agyanatar
 * Ashok Ashok Nai Kono Shok Hiyai Amar Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:114
+  :cite-key: GTML:114
   :END:
 
 #+BEGIN_VERSE
@@ -1992,10 +1992,10 @@ Amar jiban tomar kebal kripar pathar
 * He Chanchala Tomar Mato Habe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:115
+  :cite-key: GTML:115
   :END:
 
 #+BEGIN_VERSE
@@ -2009,10 +2009,10 @@ Tomar mato habe amar chala bala
 * Tomar Bijoy Satata Karite Ghoshana Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:116
+  :cite-key: GTML:116
   :END:
 
 #+BEGIN_VERSE
@@ -2026,10 +2026,10 @@ Dao more prabhu hriday gabhire eshana
 * Ami Hate Chahi Tomar Kripar Nandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:117
+  :cite-key: GTML:117
   :END:
 
 #+BEGIN_VERSE
@@ -2043,10 +2043,10 @@ Nahi rabe kichu amar majhare krandan
 * Asani Gara Je Manaser Bane Asani Gara Je Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:118
+  :cite-key: GTML:118
   :END:
 
 #+BEGIN_VERSE
@@ -2060,10 +2060,10 @@ Hriday bagane amar lagiya eneche bidhata taj
 * Bhalobasi Ami Tai Kari Seba Asukh Pirita Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:119
+  :cite-key: GTML:119
   :END:
 
 #+BEGIN_VERSE
@@ -2077,10 +2077,10 @@ Apanar kare tahader labho mor deha prane mane
 * Joga Jiban Britha Jabe Alas Adhir Hale Bhitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:120
+  :cite-key: GTML:120
   :END:
 
 #+BEGIN_VERSE
@@ -2094,10 +2094,10 @@ Bhitar bahir shanto habo bhakti puja bale
 * Nahi Jani Ami Keno Thaki Prabhu Niyata Ghumer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:121
+  :cite-key: GTML:121
   :END:
 
 #+BEGIN_VERSE
@@ -2111,10 +2111,10 @@ Janao amare ogo kripamoy tomar alor bhore
 * Espar Ospar Bhalo Manda Nahi Bhalo Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:122
+  :cite-key: GTML:122
   :END:
 
 #+BEGIN_VERSE
@@ -2128,10 +2128,10 @@ Pujbo tomai prabhu kebal baroi anurage
 * Se Kon Manab Aghat Kare Amai Dibarati Dekhbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-12-1999
-  :CITE-KEY: GTML:123
+  :cite-key: GTML:123
   :END:
 
 #+BEGIN_VERSE
@@ -2145,10 +2145,10 @@ Dekhbo ki hai ei jibane amar hiyar bhati
 * Paramanande Tomare Pujite Chahi Go Janani Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:124
+  :cite-key: GTML:124
   :END:
 
 #+BEGIN_VERSE
@@ -2162,10 +2162,10 @@ Sabakar sathe taba jaya giti gahi go satata gahi go
 * Ke Amare Rakhbena Ar Dharar Kolahale Ke Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:125
+  :cite-key: GTML:125
   :END:
 
 #+BEGIN_VERSE
@@ -2179,10 +2179,10 @@ Ke amare rakhbe dire tomar charan tale
 * Shuno Shuno Sadhak Brinda Shuno Asal Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:126
+  :cite-key: GTML:126
   :END:
 
 #+BEGIN_VERSE
@@ -2196,10 +2196,10 @@ Man pran dehe nahi jeno rahe durbalata
 * Sneha Bhara Priti Bhara Kripa Bhara Jagat Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:127
+  :cite-key: GTML:127
   :END:
 
 #+BEGIN_VERSE
@@ -2213,10 +2213,10 @@ Jagat mata eso ogo eso twara
 * Eshana Dwar Khulte Giye Basana Dwar Khulechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:128
+  :cite-key: GTML:128
   :END:
 
 #+BEGIN_VERSE
@@ -2230,10 +2230,10 @@ Puratane rakhi dware nutanere bhulechi
 * Basana Mukti Labhite Chahi Go Basana Mukti Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:129
+  :cite-key: GTML:129
   :END:
 
 #+BEGIN_VERSE
@@ -2247,10 +2247,10 @@ E asha mor karogo puran ogo antara majhi
 * Rabi Jakhan Jege Uthe Phute Madhurata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:130
+  :cite-key: GTML:130
   :END:
 
 #+BEGIN_VERSE
@@ -2263,10 +2263,10 @@ Rabi jakhan ghumiye pare hase nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:131
+  :cite-key: GTML:131
   :END:
 
 #+BEGIN_VERSE
@@ -2282,10 +2282,10 @@ The infinite silence is smiling.
 * Manera Rajani Kabe Je Pohabe Janina Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:132
+  :cite-key: GTML:132
   :END:
 
 #+BEGIN_VERSE
@@ -2299,10 +2299,10 @@ Jani shudhu hai tomar adesh manina
 * Kahar Sathe Shunbo Ami Tomar Madhu Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:133
+  :cite-key: GTML:133
   :END:
 
 #+BEGIN_VERSE
@@ -2316,10 +2316,10 @@ Kahar sathe pujbo ami tomar charan khani
 * Kon Sudure Thako Tumi Kon Sudure Keno Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:134
+  :cite-key: GTML:134
   :END:
 
 #+BEGIN_VERSE
@@ -2333,10 +2333,10 @@ Keno tumi thako na mor hiya pure
 * Sudurer Dake Sudure Esechhi Chaliya Sudur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:135
+  :cite-key: GTML:135
   :END:
 
 #+BEGIN_VERSE
@@ -2350,10 +2350,10 @@ Sudur amare jeyona charane daliya
 * Durbalata Bina Manab Jetha Ache Balo Sethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:136
+  :cite-key: GTML:136
   :END:
 
 #+BEGIN_VERSE
@@ -2367,10 +2367,10 @@ Sethai prabhu amai niye chalo
 * Diba Rati Shishur Mato Chalte Balte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:137
+  :cite-key: GTML:137
   :END:
 
 #+BEGIN_VERSE
@@ -2384,10 +2384,10 @@ Ananda dheu phutbe tabe moder hiya bhabe
 * Atma Tyager Sonali Swapan Bhangite Dibona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:138
+  :cite-key: GTML:138
   :END:
 
 #+BEGIN_VERSE
@@ -2401,10 +2401,10 @@ Ei dhrira pan tomar charane rakhinu ajike prabhu
 * Urdha Jagate Thai Nai Mor Nimna Jagate Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:139
+  :cite-key: GTML:139
   :END:
 
 #+BEGIN_VERSE
@@ -2418,10 +2418,10 @@ Byathita parane charidhare heri keha more nahi chai
 * Jatoi Daki Tatoi Dure Tumi Chale Jao Aghat Hene
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:140
+  :cite-key: GTML:140
   :END:
 
 #+BEGIN_VERSE
@@ -2435,10 +2435,10 @@ Aghat hene bare bare tripti bujhi pao
 * Nil Baridhir Atal Tale Shanti Nahi Raje Shanti Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:141
+  :cite-key: GTML:141
   :END:
 
 #+BEGIN_VERSE
@@ -2452,10 +2452,10 @@ Shanti shudhu atmatyage bishwa sabha majhe
 * Akash Pathe Jiban Rathe Chare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:142
+  :cite-key: GTML:142
   :END:
 
 #+BEGIN_VERSE
@@ -2469,10 +2469,10 @@ Mukti brata niba baran kare
 * He Amar Man Nemona Nimne Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:143
+  :cite-key: GTML:143
   :END:
 
 #+BEGIN_VERSE
@@ -2485,10 +2485,10 @@ Heribe haibe tumi ghor andhiyar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:144
+  :cite-key: GTML:144
   :END:
 
 #+BEGIN_VERSE
@@ -2503,10 +2503,10 @@ The darkest darkness-night.
 * Larai Kari Maner Praner Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:145
+  :cite-key: GTML:145
   :END:
 
 #+BEGIN_VERSE
@@ -2519,10 +2519,10 @@ Tushta kari amar param nathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1999
-  :CITE-KEY: GTML:146
+  :cite-key: GTML:146
   :END:
 
 #+BEGIN_VERSE
@@ -2538,10 +2538,10 @@ My Absolute Lord Supreme.
 * Ekaki Jakhan Thaki Tomare Gopane Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:147
+  :cite-key: GTML:147
   :END:
 
 #+BEGIN_VERSE
@@ -2555,10 +2555,10 @@ Tumi ese dhara dao more sathe niye jao
 * Maner Bane Nitya Raje Kurup Asobhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:148
+  :cite-key: GTML:148
   :END:
 
 #+BEGIN_VERSE
@@ -2572,10 +2572,10 @@ Hiyar majhe raje swarup arup sushobhan
 * Taba Karunya Kemane Bhulibo Bishwa Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:149
+  :cite-key: GTML:149
   :END:
 
 #+BEGIN_VERSE
@@ -2589,10 +2589,10 @@ Tumi dekhiyecho amiya dhamer sonali sharani
 * Jagao Amare Jagao Amare Asani Aghate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:150
+  :cite-key: GTML:150
   :END:
 
 #+BEGIN_VERSE
@@ -2606,10 +2606,10 @@ Phutite chahigo tomar natun alor prabhate
 * Bindu Ami Sindhu Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:151
+  :cite-key: GTML:151
   :END:
 
 #+BEGIN_VERSE
@@ -2624,10 +2624,10 @@ Thakte dhare prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:152
+  :cite-key: GTML:152
   :END:
 
 #+BEGIN_VERSE
@@ -2643,10 +2643,10 @@ At Your Feet, clinging.
 * Bhalo Jadi Baso More Tumi Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:153
+  :cite-key: GTML:153
   :END:
 
 #+BEGIN_VERSE
@@ -2661,10 +2661,10 @@ Ogo khama parabar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:154
+  :cite-key: GTML:154
   :END:
 
 #+BEGIN_VERSE
@@ -2680,10 +2680,10 @@ Forgiven all my crimes.
 * Katu Karkash Tikta Manas Nahi Chahi Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:155
+  :cite-key: GTML:155
   :END:
 
 #+BEGIN_VERSE
@@ -2697,10 +2697,10 @@ Nahi chahi kabhu tomar parash
 * He Mahadev Man Je Amar Kalkut Garal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1999
-  :CITE-KEY: GTML:156
+  :cite-key: GTML:156
   :END:
 
 #+BEGIN_VERSE
@@ -2714,10 +2714,10 @@ Habe ki hai ei jibane kabhu saral
 * Keman Kare Thakbo Benche Agyanatar Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:157
+  :cite-key: GTML:157
   :END:
 
 #+BEGIN_VERSE
@@ -2731,10 +2731,10 @@ Keman kare mayer kole phirbo hese hese
 * Sukher Dine Puje Jara Dukher Rate Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:158
+  :cite-key: GTML:158
   :END:
 
 #+BEGIN_VERSE
@@ -2748,10 +2748,10 @@ Param prabhur karte puja tara tabu nahi chai
 * Ghure Mari Diba Nishi Nahi Heri Kon Path
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:159
+  :cite-key: GTML:159
   :END:
 
 #+BEGIN_VERSE
@@ -2765,10 +2765,10 @@ Nahi habe sarthak priyatama mor manorath
 * Kato Asha Niye Akuti Jibane Tomare Tushite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:160
+  :cite-key: GTML:160
   :END:
 
 #+BEGIN_VERSE
@@ -2782,10 +2782,10 @@ Tomar bijaye amar bijoy ei giti jeno gahi go
 * Bandhan Khandan Habe Jani Je Din Dibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:161
+  :cite-key: GTML:161
   :END:
 
 #+BEGIN_VERSE
@@ -2799,10 +2799,10 @@ Dibe more taba bijoyer bin
 * Deba Guru Brihashpati Laho Laho Mor Nati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:162
+  :cite-key: GTML:162
   :END:
 
 #+BEGIN_VERSE
@@ -2816,10 +2816,10 @@ Dao more pratikhane abhinaba subhamati
 * He Debesh Mahadev Tushta Hao Tushta Hao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:163
+  :cite-key: GTML:163
   :END:
 
 #+BEGIN_VERSE
@@ -2833,10 +2833,10 @@ Dekha dao dekha dao katha khao katha khao
 * Mata Amar Saraswati Mata Kadambari Binash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:164
+  :cite-key: GTML:164
   :END:
 
 #+BEGIN_VERSE
@@ -2850,10 +2850,10 @@ Binash karo ek nimeshe agyanata ari
 * Hayona Rushta Hayona Rushta He Debadideb
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:165
+  :cite-key: GTML:165
   :END:
 
 #+BEGIN_VERSE
@@ -2867,10 +2867,10 @@ Tomare tushta karibo achire tomare karibo tushta
 * Kandite Chahi Go Hasite Chahi Go Chahi Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1999
-  :CITE-KEY: GTML:166
+  :cite-key: GTML:166
   :END:
 
 #+BEGIN_VERSE
@@ -2884,10 +2884,10 @@ Khamata amare daogo bidhata tomar adesh manite
 * Hiya Majhe Heri Aji Shikha Lelihan Animeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:167
+  :cite-key: GTML:167
   :END:
 
 #+BEGIN_VERSE
@@ -2901,10 +2901,10 @@ Animeshe gaibo aji mayer joyer gan
 * Ami Amar Lagi Taito Nahi Jagi Ami Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:168
+  :cite-key: GTML:168
   :END:
 
 #+BEGIN_VERSE
@@ -2918,10 +2918,10 @@ Ami amar kul ta je bhishan bhul
 * Gahi Kebal Bedan Giti Gahi Kebal Akuti Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:169
+  :cite-key: GTML:169
   :END:
 
 #+BEGIN_VERSE
@@ -2935,10 +2935,10 @@ Akuti mor pabe na thai kabhu prabal
 * Urdhe Nimne Ekatar Setu Nijere Daniya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:170
+  :cite-key: GTML:170
   :END:
 
 #+BEGIN_VERSE
@@ -2952,10 +2952,10 @@ Pranati janai pulakita chite amar tarir majhike
 * Sathek Juger Bandhan Khandan Karte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:171
+  :cite-key: GTML:171
   :END:
 
 #+BEGIN_VERSE
@@ -2969,10 +2969,10 @@ Vir vikrame karbo prabesh jyotir bhabe
 * Simar Bandhan Bhangte Jara Nahi Chahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:172
+  :cite-key: GTML:172
   :END:
 
 #+BEGIN_VERSE
@@ -2986,10 +2986,10 @@ Keman kare jagai balo tader ami prabhu
 * Man Pran Deha Nahi Chahe Jete Sudurer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:173
+  :cite-key: GTML:173
   :END:
 
 #+BEGIN_VERSE
@@ -3003,10 +3003,10 @@ Kemane harabo khudra amire amarata abhijane
 * Jara Bale Chale Prachur Samoi Ekhano
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:174
+  :cite-key: GTML:174
   :END:
 
 #+BEGIN_VERSE
@@ -3020,10 +3020,10 @@ Tara asaral parane garal tara diye thake phanki
 * Agyanatar Timir Nishar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:175
+  :cite-key: GTML:175
   :END:
 
 #+BEGIN_VERSE
@@ -3037,10 +3037,10 @@ Sapta rishir mukti dhaner habo ami purna
 * Je Deshe Jai Se Deshe Bhai Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:176
+  :cite-key: GTML:176
   :END:
 
 #+BEGIN_VERSE
@@ -3054,10 +3054,10 @@ Bhitar jibane bahir jibane ekatar parashan
 * Nahi Chaho Mor Jibane Biphalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:177
+  :cite-key: GTML:177
   :END:
 
 #+BEGIN_VERSE
@@ -3070,10 +3070,10 @@ Taito more dao na kabhu swadhinata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:178
+  :cite-key: GTML:178
   :END:
 
 #+BEGIN_VERSE
@@ -3087,10 +3087,10 @@ Therefore, You never give me freedom.
 * Jahara Khuleche Hiyar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:179
+  :cite-key: GTML:179
   :END:
 
 #+BEGIN_VERSE
@@ -3105,10 +3105,10 @@ Prachar tahara karibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:180
+  :cite-key: GTML:180
   :END:
 
 #+BEGIN_VERSE
@@ -3127,10 +3127,10 @@ They will proclaim.
 * Bhuge Jara Sandeha Man Roge Dibanishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:181
+  :cite-key: GTML:181
   :END:
 
 #+BEGIN_VERSE
@@ -3144,10 +3144,10 @@ Tader sathe ami jena nahi kabhu mishi
 * Urdhe Nimne Samukhe Pechane Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:182
+  :cite-key: GTML:182
   :END:
 
 #+BEGIN_VERSE
@@ -3161,10 +3161,10 @@ Dao more prabhu alo darashan daki toma anibar
 * Jagte Jara Chaina Prabhu Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:183
+  :cite-key: GTML:183
   :END:
 
 #+BEGIN_VERSE
@@ -3178,10 +3178,10 @@ Shikhte jara chaina kabhu keman kare shikhabo
 * Phutte Jara Chaina Prabhu Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:184
+  :cite-key: GTML:184
   :END:
 
 #+BEGIN_VERSE
@@ -3195,10 +3195,10 @@ Lutte jara chaina kabhu keman kare lutabo
 * Nitya Nutan Gabhir Asha Nitya Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1999
-  :CITE-KEY: GTML:185
+  :cite-key: GTML:185
   :END:
 
 #+BEGIN_VERSE
@@ -3214,10 +3214,10 @@ Bijoy ketan amar puta kandare
 * Ami Kabhu Nahi Hate Chahi Abhidhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:186
+  :cite-key: GTML:186
   :END:
 
 #+BEGIN_VERSE
@@ -3230,10 +3230,10 @@ Chahi shudhu geye jabo taba jaya gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:187
+  :cite-key: GTML:187
   :END:
 
 #+BEGIN_VERSE
@@ -3248,10 +3248,10 @@ I want only to sing Your Victory-Songs.
 * Eso Eso Chandrachur Eso Eso Chandrachur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:188
+  :cite-key: GTML:188
   :END:
 
 #+BEGIN_VERSE
@@ -3265,10 +3265,10 @@ Taba darashane habe mor hiya man bhara pur
 * Mata Amar Bishwa Mata Jagaddhatri Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:189
+  :cite-key: GTML:189
   :END:
 
 #+BEGIN_VERSE
@@ -3282,10 +3282,10 @@ Niye geche amar maner kalush ratri
 * Chandra Ma.... Taba Khama Taba Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:190
+  :cite-key: GTML:190
   :END:
 
 #+BEGIN_VERSE
@@ -3299,10 +3299,10 @@ Taba khama taba kripa taba hasi taba priti manorama
 * Maner Urdhe Nahi Raje Maner Pratarana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:191
+  :cite-key: GTML:191
   :END:
 
 #+BEGIN_VERSE
@@ -3316,10 +3316,10 @@ Sethai giye karbo ami prabhur bandana
 * Tushar Dhabal Atiba Saral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:192
+  :cite-key: GTML:192
   :END:
 
 #+BEGIN_VERSE
@@ -3333,10 +3333,10 @@ Nahi rabe sathe shatek juger basana kamana ghor
 * Je Pathe Chalibo Se Pathe Heribo Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:193
+  :cite-key: GTML:193
   :END:
 
 #+BEGIN_VERSE
@@ -3350,10 +3350,10 @@ Bhitare amar bahire amar taba ankhi abhinaba
 * Dibase Nishite Ami Je Kebal Tripti Bhikhari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:194
+  :cite-key: GTML:194
   :END:
 
 #+BEGIN_VERSE
@@ -3367,10 +3367,10 @@ Nahi keno hai ami kabhu hai agyan shikhari
 * Jiban Rather Satya Sarathi Kari Tomar Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:195
+  :cite-key: GTML:195
   :END:
 
 #+BEGIN_VERSE
@@ -3384,10 +3384,10 @@ Kari tomar nitya arati
 * Man Asohai Pran Asohai Deha Asohai Dhyane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:196
+  :cite-key: GTML:196
   :END:
 
 #+BEGIN_VERSE
@@ -3401,10 +3401,10 @@ Dhyane nimagan jyoti darashan kabhu nahi pai
 * Gabhir Nishai Ghure Berai Kahar Lagi Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:197
+  :cite-key: GTML:197
   :END:
 
 #+BEGIN_VERSE
@@ -3418,10 +3418,10 @@ Ke se amar priyatama kahar adesh manina
 * Bare Bare Phire Ase Tibra Bedan Rati Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:198
+  :cite-key: GTML:198
   :END:
 
 #+BEGIN_VERSE
@@ -3435,10 +3435,10 @@ Nahi heri kothao kabhu rupantarer bhati
 * Chandana Pakhi Sunil Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:199
+  :cite-key: GTML:199
   :END:
 
 #+BEGIN_VERSE
@@ -3452,10 +3452,10 @@ Dhara tale ami rayechi ekaki kandiya mariya
 * Chira Nutanere Basibo Amije Bhalo Heribona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:200
+  :cite-key: GTML:200
   :END:
 
 #+BEGIN_VERSE
@@ -3469,10 +3469,10 @@ Heribona ar tamasa brita kalo
 * Jukta Hate Habe Jeno Mukta Hate Chaho Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:201
+  :cite-key: GTML:201
   :END:
 
 #+BEGIN_VERSE
@@ -3486,10 +3486,10 @@ Hiya pure thakte habe gabhir dhyane nirabadhi
 * Ei Prithi Bite Rayechi Kebal Kamana Basana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:202
+  :cite-key: GTML:202
   :END:
 
 #+BEGIN_VERSE
@@ -3503,10 +3503,10 @@ Kamane labhibo adharar sukhe apanare nahi diye
 * Kemane Phutibo Kemane Lutibo Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:203
+  :cite-key: GTML:203
   :END:
 
 #+BEGIN_VERSE
@@ -3520,10 +3520,10 @@ Nirabata mor rabe sathe sathe kathati na kabhu bale
 * Nutan Juger Nutan Ashar Nabinatar Bhore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:204
+  :cite-key: GTML:204
   :END:
 
 #+BEGIN_VERSE
@@ -3537,10 +3537,10 @@ Uthbo phute bhakti joge bishwa mayer charan dhare
 * Dharar Buke Esechilam Niye Kato Asha Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:205
+  :cite-key: GTML:205
   :END:
 
 #+BEGIN_VERSE
@@ -3554,10 +3554,10 @@ Amai ghire rahe kebal timir sarbanasha
 * Kendechi Kendechi Bhitare Bahire Kandite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:206
+  :cite-key: GTML:206
   :END:
 
 #+BEGIN_VERSE
@@ -3571,10 +3571,10 @@ Samarpaner gitika gahite taba pade anibar
 * Phul Bagane Phuler Sathe Kari Jakhan Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:207
+  :cite-key: GTML:207
   :END:
 
 #+BEGIN_VERSE
@@ -3588,10 +3588,10 @@ Bhitar bahir dekhi kebal ek ananda mela
 * Bahu Jug Dhare Namiya Chalechi Ar Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1999
-  :CITE-KEY: GTML:208
+  :cite-key: GTML:208
   :END:
 
 #+BEGIN_VERSE
@@ -3605,10 +3605,10 @@ Dyuloker pane nayan khuliya mitya bachan kahina
 * He Param Pita Nutan Barashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-01-2000
-  :CITE-KEY: GTML:209
+  :cite-key: GTML:209
   :END:
 
 #+BEGIN_VERSE
@@ -3621,10 +3621,10 @@ Ami habo ek tomar hiyar sudha swapaner phul
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-01-2000
-  :CITE-KEY: GTML:210
+  :cite-key: GTML:210
   :END:
 
 #+BEGIN_VERSE
@@ -3639,10 +3639,10 @@ I shall be a flower of Your Heart’s Nectar-Dream.
 * Sangite Mor Amar Hiyar Saurabh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-01-2000
-  :CITE-KEY: GTML:211
+  :cite-key: GTML:211
   :END:
 
 #+BEGIN_VERSE
@@ -3655,10 +3655,10 @@ Mama gitikai mama jibaner gaurab
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: GTML:212
+  :cite-key: GTML:212
   :END:
 
 #+BEGIN_VERSE
@@ -3672,10 +3672,10 @@ My songs embody the glories of my life.
 * My Music
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-2000
-  :CITE-KEY: GTML:213
+  :cite-key: GTML:213
   :END:
 
 #+BEGIN_VERSE
@@ -3691,10 +3691,10 @@ The glories of my life.
 * Chalo Chalo Bishwa Sabhai Gaite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-01-2000
-  :CITE-KEY: GTML:214
+  :cite-key: GTML:214
   :END:
 
 #+BEGIN_VERSE
@@ -3709,10 +3709,10 @@ Balo balo dhalbe sabhai moder
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-01-2000
-  :CITE-KEY: GTML:215
+  :cite-key: GTML:215
   :END:
 
 #+BEGIN_VERSE
@@ -3730,10 +3730,10 @@ With our hearts’ sweetness-love.
 * Amaratar Marma Hate Ami Nemechi Hethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:216
+  :cite-key: GTML:216
   :END:
 
 #+BEGIN_VERSE
@@ -3747,10 +3747,10 @@ Hethai ami swarupe mor khunje peyechi
 * Eso Eso Param Pita Thekhona Ar Dure Ganer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:217
+  :cite-key: GTML:217
   :END:
 
 #+BEGIN_VERSE
@@ -3764,10 +3764,10 @@ Ganer sure pujbo tomai amar hiya pure
 * Swarga Dhame Jete Hale Spriha Bahnni Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:218
+  :cite-key: GTML:218
   :END:
 
 #+BEGIN_VERSE
@@ -3781,10 +3781,10 @@ Prabhur kripa prabhur ashish hriday amar mage
 * Aghat Kare Chale Gele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:219
+  :cite-key: GTML:219
   :END:
 
 #+BEGIN_VERSE
@@ -3798,10 +3798,10 @@ Tabu tomar rakhbo smriti amar manas pure
 * Nayane Khunjile Nahi Pai Dekha Hridaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:220
+  :cite-key: GTML:220
   :END:
 
 #+BEGIN_VERSE
@@ -3815,10 +3815,10 @@ Nayane jachhile nahi pai thai hridaye jachhile thai
 * Akashe Batase Sanmyer Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:221
+  :cite-key: GTML:221
   :END:
 
 #+BEGIN_VERSE
@@ -3832,10 +3832,10 @@ Ananda dheu hasir fuara ghire achhe dashadishi
 * Param Prabhu Ashish Dhara Nitya Jhare Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:222
+  :cite-key: GTML:222
   :END:
 
 #+BEGIN_VERSE
@@ -3849,10 +3849,10 @@ Ami kebal thakte chahi prabhur charan dhare
 * Bhishan Bhari Sukher Dukher Bojha Bahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:223
+  :cite-key: GTML:223
   :END:
 
 #+BEGIN_VERSE
@@ -3866,10 +3866,10 @@ Tabu keno tomar ratul charan nahi dhari
 * Kandte Jani Kandte Jani Taito Ami Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:224
+  :cite-key: GTML:224
   :END:
 
 #+BEGIN_VERSE
@@ -3883,10 +3883,10 @@ Bandhte jani bandhte jani taito ami bandhi
 * Haste Jani Haste Jani Taito Ami Hasi Nashte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:225
+  :cite-key: GTML:225
   :END:
 
 #+BEGIN_VERSE
@@ -3900,10 +3900,10 @@ Nashte jani nashte jani taito ami nashi
 * Phutte Jani Phutte Jani Taito Ami Phuti Lutte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:226
+  :cite-key: GTML:226
   :END:
 
 #+BEGIN_VERSE
@@ -3917,10 +3917,10 @@ Lutte jani lutte jani taito ami luti
 * Asha Phuler Saurabhete Ami Katai Jiban Kabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:227
+  :cite-key: GTML:227
   :END:
 
 #+BEGIN_VERSE
@@ -3934,10 +3934,10 @@ Kabe jabe amai chhere hiyar gabhir bedan
 * Atibo Nirabe Janabo Minati Pranati Atibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:228
+  :cite-key: GTML:228
   :END:
 
 #+BEGIN_VERSE
@@ -3951,10 +3951,10 @@ Atibo nirabe danibo tomare bhakati
 * Maner Sathe Katha Bali Hiyar Sathe Karte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:229
+  :cite-key: GTML:229
   :END:
 
 #+BEGIN_VERSE
@@ -3968,10 +3968,10 @@ Ei aparadh khama karo khama karo ogo amar narayan
 * Chali Bali Tomar Sathe Ami Dibarati Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:230
+  :cite-key: GTML:230
   :END:
 
 #+BEGIN_VERSE
@@ -3985,10 +3985,10 @@ Tabu keno nahi heri kabhu tomar bhati
 * Janak Amar Bishwa Srashta Janani Bishwa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:231
+  :cite-key: GTML:231
   :END:
 
 #+BEGIN_VERSE
@@ -4002,10 +4002,10 @@ Khule dao ogo ajike amar asime herite drishti
 * Sapta Rishir Spriha Gabhir Mora Sabhai Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:232
+  :cite-key: GTML:232
   :END:
 
 #+BEGIN_VERSE
@@ -4019,10 +4019,10 @@ Bandhan hara dipti tripti majhe mora rabo
 * Tomai Jadi Nahi Prabhu Basi Ami Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:233
+  :cite-key: GTML:233
   :END:
 
 #+BEGIN_VERSE
@@ -4036,10 +4036,10 @@ Keman kare niye jabe amar maner kalo
 * Jog Jadi Chaho Dure Rakho Bhog Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:234
+  :cite-key: GTML:234
   :END:
 
 #+BEGIN_VERSE
@@ -4053,10 +4053,10 @@ Kebal rahibe prabhu chintai hiya pure
 * Bhakti Plaban Dao Go Amare Tomare Anite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:235
+  :cite-key: GTML:235
   :END:
 
 #+BEGIN_VERSE
@@ -4070,10 +4070,10 @@ Shakti hasti dao go amare tomare manite
 * Jege Utho Jege Utho Shunyata Dhara Debe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:236
+  :cite-key: GTML:236
   :END:
 
 #+BEGIN_VERSE
@@ -4087,10 +4087,10 @@ Dhara debe tomar kache purnata
 * Amar Hiyar Phul Bagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:237
+  :cite-key: GTML:237
   :END:
 
 #+BEGIN_VERSE
@@ -4104,10 +4104,10 @@ Tomar paye tara kebal pabe tader kul
 * Tamasabrita Man Tamasabrita Pran Tamasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:238
+  :cite-key: GTML:238
   :END:
 
 #+BEGIN_VERSE
@@ -4121,10 +4121,10 @@ Heribe ki hai e jibane kabhu dur amarar puta bhor
 * Aghat Kare Jeyo Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:239
+  :cite-key: GTML:239
   :END:
 
 #+BEGIN_VERSE
@@ -4138,10 +4138,10 @@ Jadi kabhu katai dibas tomar katha nahi bale
 * Chinta Jagate Ghuriya Berai Ghor Unmad
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:240
+  :cite-key: GTML:240
   :END:
 
 #+BEGIN_VERSE
@@ -4155,10 +4155,10 @@ Bhule jai hai dakite tomai khama more ogo khama
 * Chinta Sagare Dubiya Marite Chahina.. Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:241
+  :cite-key: GTML:241
   :END:
 
 #+BEGIN_VERSE
@@ -4172,10 +4172,10 @@ Keno tabe hai prabhu pade thai magina magina magina
 * Samai Thamena Amar Adeshe Samai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:242
+  :cite-key: GTML:242
   :END:
 
 #+BEGIN_VERSE
@@ -4189,10 +4189,10 @@ Sathi hate mor uthena namena kadapi chahena
 * Madhumoyir Madhu Parashe Jege Uthi Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:243
+  :cite-key: GTML:243
   :END:
 
 #+BEGIN_VERSE
@@ -4206,10 +4206,10 @@ Jege uthi sudha harashe
 * Keha Amai Nahi Dake Tabu Bhabi Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:244
+  :cite-key: GTML:244
   :END:
 
 #+BEGIN_VERSE
@@ -4223,10 +4223,10 @@ Kanna amar hasi amar kole amai rakhe
 * Ami Kari Pran Gabhire Tapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:245
+  :cite-key: GTML:245
   :END:
 
 #+BEGIN_VERSE
@@ -4240,10 +4240,10 @@ Raibena ar amar majhe ati khudra chetana
 * Chirantaner Jaya Jatrai Jiban Amar Bidhatare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:246
+  :cite-key: GTML:246
   :END:
 
 #+BEGIN_VERSE
@@ -4257,10 +4257,10 @@ Jiban amar bidhatare chai
 * Dhanya Habo Purna Habo Nutan Juger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:247
+  :cite-key: GTML:247
   :END:
 
 #+BEGIN_VERSE
@@ -4274,10 +4274,10 @@ Pratiti jib mukti pabe tomar barabhoye
 * Tomare Khunjite Khunjiya Pelam Amar Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:248
+  :cite-key: GTML:248
   :END:
 
 #+BEGIN_VERSE
@@ -4291,10 +4291,10 @@ Pabo ki go dekha kanaka jwalo amar hiyar rabire
 * Sathi Amar Din Rajani Kebal Chapal Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-2000
-  :CITE-KEY: GTML:249
+  :cite-key: GTML:249
   :END:
 
 #+BEGIN_VERSE
@@ -4308,10 +4308,10 @@ Pratikhane adesh bendhe ami je hoiran
 * Diba Rati Ache Mule Chaowa Paowar Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:250
+  :cite-key: GTML:250
   :END:
 
 #+BEGIN_VERSE
@@ -4325,10 +4325,10 @@ Prabhu amai nahi dane amaratar sudha
 * Aji Hate Ami Habo Bishwa Chetana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:251
+  :cite-key: GTML:251
   :END:
 
 #+BEGIN_VERSE
@@ -4342,10 +4342,10 @@ Amar majhe birajibe dharar bedana
 * Maha Kaler Kole Chita Amar Dole Maha Kaler
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:252
+  :cite-key: GTML:252
   :END:
 
 #+BEGIN_VERSE
@@ -4359,10 +4359,10 @@ Maha kaler prane chali abhijane
 * Manase Amar Ajana Deshe Asim Chinta Rasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:253
+  :cite-key: GTML:253
   :END:
 
 #+BEGIN_VERSE
@@ -4376,10 +4376,10 @@ Dure bahu dure taito kanu chira madhumoy banshi
 * Nirajane Sangopane Daki Tomai Daki Ranga
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:254
+  :cite-key: GTML:254
   :END:
 
 #+BEGIN_VERSE
@@ -4393,10 +4393,10 @@ Ranga rabi pujbo tomai dibona ar phanki
 * Hethai Hothai Neharite Chai Tomar Karuna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:255
+  :cite-key: GTML:255
   :END:
 
 #+BEGIN_VERSE
@@ -4410,10 +4410,10 @@ Tomare tushite tomar lagiya prati pale pale daki
 * Phuteche Aj Chitta Kusum Mayer Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:256
+  :cite-key: GTML:256
   :END:
 
 #+BEGIN_VERSE
@@ -4427,10 +4427,10 @@ Raibo sethai sara jiban ashesh sahas bale
 * Swarga Dhamer Swarga Duar Khule Rekho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:257
+  :cite-key: GTML:257
   :END:
 
 #+BEGIN_VERSE
@@ -4444,10 +4444,10 @@ Jadio ami tomar adesh nahi mani kabhu
 * He Param Priya Ei Dharanite Tomar Sreshta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:258
+  :cite-key: GTML:258
   :END:
 
 #+BEGIN_VERSE
@@ -4461,10 +4461,10 @@ Sabare balecho gahite tomar chira bijayer gan
 * Sudur Pather Jatri Ami Nahi Kono Bhoy Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:259
+  :cite-key: GTML:259
   :END:
 
 #+BEGIN_VERSE
@@ -4478,10 +4478,10 @@ Amar hiyai rakhi dhire bibhur charan dway
 * Rakta Kamal.. Tumi Sanjao Dharar Matar Sri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:260
+  :cite-key: GTML:260
   :END:
 
 #+BEGIN_VERSE
@@ -4495,10 +4495,10 @@ Tumi sanjao dharar matar sri charan tal
 * Pohabe Pohabe Maner Praner Andhar Rajani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:261
+  :cite-key: GTML:261
   :END:
 
 #+BEGIN_VERSE
@@ -4512,10 +4512,10 @@ Heri ami aji nabin ushar nabin sharani
 * Hingsa Irsha Nitya Nutan Parashparer Majhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:262
+  :cite-key: GTML:262
   :END:
 
 #+BEGIN_VERSE
@@ -4529,10 +4529,10 @@ Amar bhitar amar bahir urdhe nimne raje
 * Esechilam Hese Hese Dhara Dhame Khunje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:263
+  :cite-key: GTML:263
   :END:
 
 #+BEGIN_VERSE
@@ -4546,10 +4546,10 @@ Khunje pabo tomar charan maha name
 * Tamisrar Dambha Hara Jiban Amar Kare Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:264
+  :cite-key: GTML:264
   :END:
 
 #+BEGIN_VERSE
@@ -4563,10 +4563,10 @@ Kare mor jyotir plaban ananda pathar
 * Shanka Hara Dhwidha Hara Ami Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-2000
-  :CITE-KEY: GTML:265
+  :cite-key: GTML:265
   :END:
 
 #+BEGIN_VERSE
@@ -4580,10 +4580,10 @@ Mukti lagi hiya pure nitya abhijan
 * Base Chare Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-2000
-  :CITE-KEY: GTML:266
+  :cite-key: GTML:266
   :END:
 
 #+BEGIN_VERSE
@@ -4596,10 +4596,10 @@ Ma prakritir shobha madhur kebal katha bali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-01-2000
-  :CITE-KEY: GTML:267
+  :cite-key: GTML:267
   :END:
 
 #+BEGIN_VERSE
@@ -4614,10 +4614,10 @@ Of Mother Nature.
 * Shanti Sethai Priti Jethai Jethai Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-2000
-  :CITE-KEY: GTML:268
+  :cite-key: GTML:268
   :END:
 
 #+BEGIN_VERSE
@@ -4631,10 +4631,10 @@ Ei kathati rakhbo hiyai nahi jeno kabhu bhuli
 * Gan Gahite Janina Ami Gan Gahite Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-01-2000
-  :CITE-KEY: GTML:269
+  :cite-key: GTML:269
   :END:
 
 #+BEGIN_VERSE
@@ -4648,10 +4648,10 @@ Taito ami pran gabhire prabhu kabhu hasina
 * Gan Gahite Jani Ami Gan Gahite Jani Ganer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-01-2000
-  :CITE-KEY: GTML:270
+  :cite-key: GTML:270
   :END:
 
 #+BEGIN_VERSE
@@ -4665,10 +4665,10 @@ Ganer sure priyatame amar buke tani
 * Ami Bhalobasi Paran Bhariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-01-2000
-  :CITE-KEY: GTML:271
+  :cite-key: GTML:271
   :END:
 
 #+BEGIN_VERSE
@@ -4682,10 +4682,10 @@ Pakhire danibo deha prana man hiyar sakali
 * Gan Gahite Bhalo Lage Taito Gahi Gan Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2000
-  :CITE-KEY: GTML:272
+  :cite-key: GTML:272
   :END:
 
 #+BEGIN_VERSE
@@ -4699,10 +4699,10 @@ Dan karite bhalo lage taito kari dan
 * Biral Chhana Ami Ogo Biral Chhana Ghure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2000
-  :CITE-KEY: GTML:273
+  :cite-key: GTML:273
   :END:
 
 #+BEGIN_VERSE
@@ -4716,10 +4716,10 @@ Ghure berai nahi mani kono mana
 * Ei Tuku Dut Pele Ami Hai Je Pushta Miu Miu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2000
-  :CITE-KEY: GTML:274
+  :cite-key: GTML:274
   :END:
 
 #+BEGIN_VERSE
@@ -4733,10 +4733,10 @@ Miu miu dake sabai hai je tushta
 * Jadi Ami Daki Tomai Ashru Nayane Tabe Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-2000
-  :CITE-KEY: GTML:275
+  :cite-key: GTML:275
   :END:
 
 #+BEGIN_VERSE
@@ -4750,10 +4750,10 @@ Tabe tumi daogo dekha madhur swapane
 * Pranam Janate Karibona Deri Pranam Janate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:276
+  :cite-key: GTML:276
   :END:
 
 #+BEGIN_VERSE
@@ -4767,10 +4767,10 @@ Tumi je amar hridayer raja nahi jena bhuli kabhu
 * Kena Ami Tomar Katha Jai Go Bhule Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:277
+  :cite-key: GTML:277
   :END:
 
 #+BEGIN_VERSE
@@ -4784,10 +4784,10 @@ Kena ami parane mor tomar paye nahi tani
 * Tomai Shudhu Basbo Bhalo Ei Je Amar Pan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:278
+  :cite-key: GTML:278
   :END:
 
 #+BEGIN_VERSE
@@ -4801,10 +4801,10 @@ Tomar paye rekhechi aj jiban maran
 * Phanki Diye Baro Hate Chaina Ami Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:279
+  :cite-key: GTML:279
   :END:
 
 #+BEGIN_VERSE
@@ -4818,10 +4818,10 @@ Satyamayi amar hiyai satya rupe jago
 * Jiban Nadi Thambena Ar Jiban Nadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:280
+  :cite-key: GTML:280
   :END:
 
 #+BEGIN_VERSE
@@ -4835,10 +4835,10 @@ Karo puran gabhir asha bhangbena keu bhangbena
 * Tomare Pujibo Tomare Tushibo Ei Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:281
+  :cite-key: GTML:281
   :END:
 
 #+BEGIN_VERSE
@@ -4852,10 +4852,10 @@ Manase amar rahibena ar shatek juger bhor
 * Ami Durbal Ami Asahai Ei Katha Bhabi Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:282
+  :cite-key: GTML:282
   :END:
 
 #+BEGIN_VERSE
@@ -4869,10 +4869,10 @@ Tomar bedana bere jai prabhu amar khudra bhabe
 * Paran Bhare Dekhte Chahi Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:283
+  :cite-key: GTML:283
   :END:
 
 #+BEGIN_VERSE
@@ -4886,10 +4886,10 @@ Karbo prachar bishwa sabhai tomar bijoy bani
 * Britha Kende Mari Nahi Pai Kabhu Prabhu Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-01-2000
-  :CITE-KEY: GTML:284
+  :cite-key: GTML:284
   :END:
 
 #+BEGIN_VERSE

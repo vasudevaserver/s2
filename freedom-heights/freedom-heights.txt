@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 360
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1978
-  :PUBLISHER:
-  :CITE-KEY: FRHG-1
-  :GENRE: song
+  :book-number: 360
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1978
+  :publisher:
+  :cite-key: FRHG-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FRHG:1e1
+  :genre: note
+  :cite-key: FRHG:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FRHG:1e2
+  :genre: note
+  :cite-key: FRHG:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bhagaban Niye Jao Mor Shata Abhiman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: FRHG:1
+  :cite-key: FRHG:1
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Kripa karo udar mahan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: FRHG:2
+  :cite-key: FRHG:2
   :END:
 
 #+BEGIN_VERSE
@@ -83,10 +83,10 @@ I soulfully desire.
 * Abipsha Rathe Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:3
+  :cite-key: FRHG:3
   :END:
 
 #+BEGIN_VERSE
@@ -102,10 +102,10 @@ Madhu pulakita prane
 * Alik Swapan Alik Chetan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:4
+  :cite-key: FRHG:4
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ Nahi shuni tomar madhu bani
 * Amar Jibana Bariya Mohaner Banshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:5
+  :cite-key: FRHG:5
   :END:
 
 #+BEGIN_VERSE
@@ -140,10 +140,10 @@ Mukti saje sajabo
 * Ami Amar Lagi Tumi Tomar Lagi Se Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:6
+  :cite-key: FRHG:6
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Chalo swara khama magi
 * Ami Habo Ebar Nirudhesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:7
+  :cite-key: FRHG:7
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ Prabhur lagi raibo animesh
 * Ami Jani Ami Kari Bhul Tabu Nahi Jachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:8
+  :cite-key: FRHG:8
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Charidike manaser kalo
 * Ashar Sathe Ami Kandi Ashar Sathe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:9
+  :cite-key: FRHG:9
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ Tomar kripa charan dhari
 * Bhai Bon Priyajan Supremer Paribar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:10
+  :cite-key: FRHG:10
   :END:
 
 #+BEGIN_VERSE
@@ -241,10 +241,10 @@ hase shudhu alo jananir alomoy dhan
 * Bhuloker Shesh Katha Ashalata Dyuloker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:11
+  :cite-key: FRHG:11
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Maraner shesh kata nirabata
 * Chal Sapta Rishir Dal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:12
+  :cite-key: FRHG:12
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Ananda paramananda satyer purnata sandhan
 * Ebar Amai Khama Karo Karbona Ar Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:13
+  :cite-key: FRHG:13
   :END:
 
 #+BEGIN_VERSE
@@ -302,10 +302,10 @@ Tomar dhane lobh ache mor chaina hate din
 * Habo Ebar Pran Gabhire Chup Tumi Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:14
+  :cite-key: FRHG:14
   :END:
 
 #+BEGIN_VERSE
@@ -321,10 +321,10 @@ Samarpibo amar premer dhup
 * He Madal Swarger Dhrubha Rath Aloker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:15
+  :cite-key: FRHG:15
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Dur amarar dhan
 * Jano.. Amar Hiyar Nebe Ranare Heri Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:16
+  :cite-key: FRHG:16
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Amare basibe bhalo
 * Jeyona Ma Chale Kathati Na Bale Jeyona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:17
+  :cite-key: FRHG:17
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Jeyana ma chale thai dao pada tale
 * Karo Bhalo Dekhena Ei Ankhi Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:18
+  :cite-key: FRHG:18
   :END:
 
 #+BEGIN_VERSE
@@ -408,10 +408,10 @@ Mago tumi asbe kabe prane
 * Kato Katha Shunechi Ei Kane Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:19
+  :cite-key: FRHG:19
   :END:
 
 #+BEGIN_VERSE
@@ -427,10 +427,10 @@ Charidike shudhui andhar kalo
 * Kundalini Ma Devi Parameshwari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:20
+  :cite-key: FRHG:20
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ Supreme
 * Parer Lagiya Marane O Sukh Nijer Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:21
+  :cite-key: FRHG:21
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Amar amire prabhu jena sada pai
 * Sindhu Jeman Ar Kichu Noi Bindu Bindu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:22
+  :cite-key: FRHG:22
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Tumi ankhi amar mata ogo karma phal
 * Baje Baje Tomar Hiyar Bina Baje Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:23
+  :cite-key: FRHG:23
   :END:
 
 #+BEGIN_VERSE
@@ -508,10 +508,10 @@ Heri ami mora taba pada tale
 * Bandhu Amar Ghor Abhiman Bandhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:24
+  :cite-key: FRHG:24
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ Chaudike mor shaman andhar
 * Radha Rani Radha Rani Radha Nahi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:25
+  :cite-key: FRHG:25
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Guru kripa mora sada pai
 * Saj... Nahi Bhoi Nahi Laj Shun.. Aj Dundubhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:26
+  :cite-key: FRHG:26
   :END:
 
 #+BEGIN_VERSE
@@ -566,10 +566,10 @@ Hasi ananta raj
 * Swadhin.. Santosh.. Swadhin Santosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:27
+  :cite-key: FRHG:27
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ Swadhin santosh
 * Swapan Amar Sanga Halo Bastabatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:28
+  :cite-key: FRHG:28
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ Premer dolai dole
 * Tomai Dite Rishta Chite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:29
+  :cite-key: FRHG:29
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Mulya bihin chhai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FRHG:30
+  :cite-key: FRHG:30
   :END:
 
 #+BEGIN_VERSE
@@ -641,10 +641,10 @@ And useless cipher.
 * Tomai Mago Bujhte Giye Paran Halo Chup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:31
+  :cite-key: FRHG:31
   :END:
 
 #+BEGIN_VERSE
@@ -660,10 +660,10 @@ Sanpi amar khudra jiban ashish taba magi
 * Tomare Pujibo Ei Asha Niye Abanite Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:32
+  :cite-key: FRHG:32
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Amare harabo amar amire ami churiya ajike phelechi
 * Usha Ankhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: FRHG:33
+  :cite-key: FRHG:33
   :END:
 
 #+BEGIN_VERSE

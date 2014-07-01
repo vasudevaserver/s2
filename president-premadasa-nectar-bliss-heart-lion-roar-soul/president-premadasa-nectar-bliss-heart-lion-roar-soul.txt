@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0771
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1990
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PPNB
-  :GENRE: poem, discourse, epistle, interview
-  :KEYWORDS:
+  :book-number: 0771
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1990
+  :publisher: Agni Press
+  :cite-key: PPNB
+  :genre: poem, discourse, epistle, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Dedication
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PPNB:1e1
+  :genre: note
+  :keywords:
+  :cite-key: PPNB:1e1
   :END:
 
 
@@ -38,9 +38,9 @@ Sri Chinmoy
 
   :PROPERTIES:
   :SUBTITLE: Inspired By President Premadasa’s Life
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:1e2
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:1e2
   :END:
 
 
@@ -52,9 +52,9 @@ Sri Chinmoy
 * Beloved President Premadasa, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:1
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:1
   :END:
 
 
@@ -80,9 +80,9 @@ Immortality's divine love-service.
 * Sri Lanka’s Mind...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:2
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:2
   :END:
 
 
@@ -102,9 +102,9 @@ Has the illumining answers.
 * Your Soul Has Made A Permanent Contract...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:3
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:3
   :END:
 
 
@@ -128,9 +128,9 @@ And your body, with sleepless energy.
 * Every Morning Lovingly, Compassionately...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:4
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:4
   :END:
 
 
@@ -158,9 +158,9 @@ Born and yet to be born.
 * O Ignorance-Fighter, O Truth-Lover, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:5
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:5
   :END:
 
 
@@ -188,9 +188,9 @@ Than you found it.
 * Your Inner Pilot, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:6
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:6
   :END:
 
 
@@ -212,9 +212,9 @@ In the oneness-heart-language.
 * Your Faith-Filled Heart...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:7
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:7
   :END:
 
 
@@ -242,9 +242,9 @@ Has no room for devouring somnolence.
 * Father-Mother, Brother-Sister, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:8
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:8
   :END:
 
 
@@ -268,9 +268,9 @@ Eternity's dedication-student.
 * Municipality:...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:9
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:9
   :END:
 
 
@@ -290,9 +290,9 @@ Your journey's brightness-divinity-noon.
 * Overwhelming Odds And Adversaries...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:10
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:10
   :END:
 
 
@@ -312,9 +312,9 @@ Hero-heart supreme.
 * Your Illumination-Mind...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:11
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:11
   :END:
 
 
@@ -334,9 +334,9 @@ Of universal oneness-harmony.
 * When You Deliver Your Momentous Speeches, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:12
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:12
   :END:
 
 
@@ -360,9 +360,9 @@ Speaks for you.
 * Compassionately Yet Powerfully...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:13
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:13
   :END:
 
 
@@ -392,9 +392,9 @@ Has gladdened your heart.
 * Dauntlessly And Smilingly...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:14
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:14
   :END:
 
 
@@ -416,9 +416,9 @@ With your victory-smile!
 * Unlike Others, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:15
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:15
   :END:
 
 
@@ -444,9 +444,9 @@ Unnerving procrastination.
 * Your Poise-Flooded Eyes...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:16
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:16
   :END:
 
 
@@ -466,9 +466,9 @@ Human beings.
 * Physically You Are Strong;...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:17
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:17
   :END:
 
 
@@ -494,9 +494,9 @@ To the fevers of age.
 * To Smoking, Drinking, Gambling, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:18
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:18
   :END:
 
 
@@ -516,9 +516,9 @@ Nowhere indulgence-danger!
 * You Are Indeed A Giant...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:19
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:19
   :END:
 
 
@@ -546,9 +546,9 @@ You are a lion-roaring leader.
 * To Those Unfortunate Ones...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:20
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:20
   :END:
 
 
@@ -574,9 +574,9 @@ Is reached!"
 * O Supreme Pilot Of The Sri Lankan...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:21
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:21
   :END:
 
 
@@ -594,9 +594,9 @@ And my heart's gratitude-fragrance.
 * Poems As Captions To Photographs
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:22e1
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:22e1
   :END:
 
 
@@ -608,9 +608,9 @@ And my heart's gratitude-fragrance.
 * President Premadasa'S Father
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:22
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:22
   :END:
 
 
@@ -638,9 +638,9 @@ To its glory-flooded destination.
 * President Premadasa'S Mother
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:23
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:23
   :END:
 
 
@@ -688,9 +688,9 @@ To you both the poet in me prayerfully bows.
 * Ranasinghe Premadasa At Age 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:24
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:24
   :END:
 
 
@@ -710,9 +710,9 @@ Become Your fulfilled Dream.
 * The President'S Wife, Mrs. Hema Premadasa
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:25
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:25
   :END:
 
 
@@ -740,9 +740,9 @@ Premadasa's oneness-fragrance-flower.
 * President Premadasa'S Son, Sajith
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:26
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:26
   :END:
 
 
@@ -762,9 +762,9 @@ Blow his world-transformation-horn.
 * President Premadasa'S Daughter, Dulanjalee
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:27
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:27
   :END:
 
 
@@ -784,9 +784,9 @@ Soulfully ever you needs must fly.
 * President Premadasa With Reverend Father D. J. Anthony, His Former Teacher
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:28
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:28
   :END:
 
 
@@ -806,9 +806,9 @@ Our fondness-student-son, our very own.
 * With India'S Prime Minister Jawaharlal Nehru
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:29
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:29
   :END:
 
 
@@ -826,9 +826,9 @@ and its sky-vast mission.
 * With United Nations Secretary-General U Thant
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:30
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:30
   :END:
 
 
@@ -848,9 +848,9 @@ Nowhere sombre ignorance-night.
 * With United States President Ronald Reagan
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:31
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:31
   :END:
 
 
@@ -874,9 +874,9 @@ Your sincerity-goodness I admire."
 * With Then United States Vice President George Bush
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:32
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:32
   :END:
 
 
@@ -892,9 +892,9 @@ Powerful, fruitful friendship-blood.
 * With British Prime Minister Margaret Thatcher
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:33
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:33
   :END:
 
 
@@ -914,9 +914,9 @@ Your freedom-chime.
 * My Brother And Sister Sufferers, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:34
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:34
   :END:
 
 
@@ -936,9 +936,9 @@ In you my heart's oneness-tears.
 * The Prime Minister Bathes...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:35
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:35
   :END:
 
 
@@ -958,9 +958,9 @@ He becomes consciousness-light-giver!
 * O Outer World, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:36
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:36
   :END:
 
 
@@ -984,9 +984,9 @@ To be your sweetness-dove.
 * A God-Lover Within, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PPNB:37
+  :genre: poem
+  :keywords:
+  :cite-key: PPNB:37
   :END:
 
 
@@ -1010,9 +1010,9 @@ Sri Lankan hearts you feed.
 * Essays And Aphorisms
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:38e1
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:38e1
   :END:
 
 
@@ -1020,9 +1020,9 @@ Sri Lankan hearts you feed.
 * Premadasa Is At Once A Heart Of...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:38
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:38
   :END:
 
 
@@ -1039,9 +1039,9 @@ Ingratitude is the order of the day. But to our extreme joy, Premadasa's life is
 * Premadasa Is, In The Outer World...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:39
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:39
   :END:
 
 
@@ -1052,9 +1052,9 @@ Premadasa is, in the outer world of Sri Lanka, what he also is in the inner worl
 * On 2 January 1989 He Became President....
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:40
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:40
   :END:
 
 
@@ -1065,9 +1065,9 @@ On 2 January 1989 he became President. The Lord Buddha wanted humility-grass to 
 * President Premadasa Comes To Prove To The...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:41
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:41
   :END:
 
 
@@ -1078,9 +1078,9 @@ President Premadasa comes to prove to the world at large that might is not right
 * The Buddha Was His Own Compassion-Light In...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:42
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:42
   :END:
 
 
@@ -1091,9 +1091,9 @@ The Buddha was His own Compassion-Light in His Premadasa, and now the Buddha is 
 * Premadasa Is At Once Compassion-Pyramid And Determination-Volcano....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:43
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:43
   :END:
 
 
@@ -1106,9 +1106,9 @@ His compassion-surcharged spirit indomitable is the golden bridge between his de
 * He Bravely Fought Against His Brooding, ...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:44
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:44
   :END:
 
 
@@ -1119,9 +1119,9 @@ He bravely fought against his brooding, hostile foes. At the end of each dire ba
 * To Ignorance-Night How Could He And Why...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:45
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:45
   :END:
 
 
@@ -1132,9 +1132,9 @@ To ignorance-night how could he and why should he surrender? He surrendered, sur
 * A Devout Astrology-Believer Is He....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:46
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:46
   :END:
 
 
@@ -1147,9 +1147,9 @@ Although he has quite a few times played the expectation-disappointment-game, he
 * Countless Followers Of The Lord Buddha Listen...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:47
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:47
   :END:
 
 
@@ -1160,9 +1160,9 @@ Countless followers of the Lord Buddha listen to His dictates only when convenie
 * In Napoleon'S Dictionary The Word "Impossibility" Was...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:48
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:48
   :END:
 
 
@@ -1173,9 +1173,9 @@ In Napoleon's dictionary the word "impossibility" was not to be found. In the ca
 * With His Climbing Aspiration And His Spreading...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:49
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:49
   :END:
 
 
@@ -1188,9 +1188,9 @@ Premadasa's heart breathlessly pines for the betterment of village life. He is h
 * His Newspaper "Janatha" Awakened The Sleeping Lives,...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:50
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:50
   :END:
 
 
@@ -1201,9 +1201,9 @@ His newspaper "Janatha" awakened the sleeping lives, illumined the doubting mind
 * My Inner Eye Saw The Inner Sun...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:51
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:51
   :END:
 
 
@@ -1214,9 +1214,9 @@ My inner eye saw the inner sun of our beloved President Premadasa at the illumin
 * True, He Was Not Born With...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:52
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:52
   :END:
 
 
@@ -1227,9 +1227,9 @@ True, he was not born with a silver spoon in his mouth. But he has been sumptuou
 * A Great Admirer Of Artists, A...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:53
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:53
   :END:
 
 
@@ -1240,9 +1240,9 @@ A great admirer of artists, a greater lover of their art and the greatest helper
 * Children Sing, Children Dance, Children...
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: PPNB:54
+  :genre: aphorism
+  :keywords:
+  :cite-key: PPNB:54
   :END:
 
 
@@ -1253,9 +1253,9 @@ Children sing, children dance, children play music and perform at his Sucharita 
 * President Premadasa Is A Cosmopolitan Heart Of...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:55
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:55
   :END:
 
 
@@ -1272,9 +1272,9 @@ Adviser to the President on International Relations
 * Unconditional Self-Giving Does Exist On Earth....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:56
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:56
   :END:
 
 
@@ -1291,9 +1291,9 @@ Minister of State for Information
 * President Premadasa Is Religious To The Core....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:57
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:57
   :END:
 
 
@@ -1310,9 +1310,9 @@ High Commissioner of India to Sri Lanka
 * President Premadasa Has Always Been A Great...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:58
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:58
   :END:
 
 
@@ -1331,9 +1331,9 @@ from Sri Lanka
 * President Premadasa Is A Universal Man, ...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:59
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:59
   :END:
 
 
@@ -1351,9 +1351,9 @@ Minister of Youth Affairs and Sports
 
   :PROPERTIES:
   :SUBTITLE: With Commentaries By Sri Chinmoy
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:60e1
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:60e1
   :END:
 
 
@@ -1361,9 +1361,9 @@ Minister of Youth Affairs and Sports
 * "A Government Is Made And Unmade By...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:60
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:60
   :END:
 
 
@@ -1383,9 +1383,9 @@ What is a government? A government is a man-made garment. This man-made garment 
 * "I Am Determined To Set An Example...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:61
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:61
   :END:
 
 
@@ -1405,9 +1405,9 @@ Action, dynamic action, self-giving action: that is what the President wants fro
 * "Indian Hospitality Has Always Been Gracious....
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:62
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:62
   :END:
 
 
@@ -1427,9 +1427,9 @@ Indian philosophy calls for the acceptance of life and the oneness of human bein
 * "A Great Poet Looks At Society And...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:63
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:63
   :END:
 
 
@@ -1449,9 +1449,9 @@ Detachment -- what is it? It is an excellent beginning for the journey toward en
 * "All The Great Religions -- and We Have Four...
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:64e1
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:64e1
   :END:
 
 
@@ -1469,9 +1469,9 @@ All the great religions -- and we have four major ones in our country -- stand f
 * "What Is Religion?...
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PPNB:64e2
+  :genre: section
+  :keywords:
+  :cite-key: PPNB:64e2
   :END:
 
 
@@ -1491,9 +1491,9 @@ President Premadasa's aspiration-heart sees the divinity in all religions. There
 * "One Cannot Be Regarded As Great By...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:64
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:64
   :END:
 
 
@@ -1515,9 +1515,9 @@ President Premadasa's heart has always been for all and sundry, since the very d
 * "I Have Said That We Have Replaced...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:65
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:65
   :END:
 
 
@@ -1537,9 +1537,9 @@ Replacement must always be done with something infinitely better. This is what o
 * "My Objective Is Not The Defeat Of...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:66
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:66
   :END:
 
 
@@ -1559,9 +1559,9 @@ Unlike the human victor, a divine victor celebrates his victory only when others
 * "We Are Not Only Building Shelters, ...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:67
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:67
   :END:
 
 
@@ -1587,9 +1587,9 @@ Sri Lanka's vision-dedication in and through her beloved son Premadasa became a 
 * "If You Hope To Lead The People,...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:68
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:68
   :END:
 
 
@@ -1611,9 +1611,9 @@ If you do not want to be a student first, then how will you learn? If you do not
 * "Pratap The Elephant"...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:69
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:69
   :END:
 
 
@@ -1639,9 +1639,9 @@ The President teaches us that compassion will transform bad people into good peo
 * Observance In Kandy Of
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PPNB:70e1
+  :genre: note
+  :keywords:
+  :cite-key: PPNB:70e1
   :END:
 
 
@@ -1658,9 +1658,9 @@ When they were on the podium together, the President asked Sri Chinmoy the meani
 * Excerpts From President Premadasa'S Speech
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PPNB:70e2
+  :genre: note
+  :keywords:
+  :cite-key: PPNB:70e2
   :END:
 
 
@@ -1687,9 +1687,9 @@ And now you will be able to hear a few words from our friend, Sri Chinmoy, whose
 * Sri Chinmoy's Prayer At The Ceremony
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:70
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:70
   :END:
 
 
@@ -1702,9 +1702,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Excerpts Of An Interview On National Television In Colombo
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: PPNB:71
+  :genre: interview
+  :keywords:
+  :cite-key: PPNB:71
   :END:
 
 
@@ -1712,9 +1712,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Interviewer: Guru, You Are A Man...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PPNB:72
+  :genre: qa
+  :keywords:
+  :cite-key: PPNB:72
   :END:
 
 
@@ -1727,9 +1727,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Interviewer: Perhaps Because Of A Lack Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PPNB:73
+  :genre: qa
+  :keywords:
+  :cite-key: PPNB:73
   :END:
 
 
@@ -1742,9 +1742,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Interviewer: There Is A Great Need For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PPNB:74
+  :genre: qa
+  :keywords:
+  :cite-key: PPNB:74
   :END:
 
 
@@ -1757,9 +1757,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Interviewer: Thank You Very Much, Sri...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PPNB:75e1
+  :genre: note
+  :keywords:
+  :cite-key: PPNB:75e1
   :END:
 
 
@@ -1772,9 +1772,9 @@ Once more I am offering gratitude from the inmost recesses of my heart to Presid
 * Peace Concert At The Presidential Palace In Colombo
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: PPNB:75e2
+  :genre: note
+  :keywords:
+  :cite-key: PPNB:75e2
   :END:
 
 
@@ -1785,9 +1785,9 @@ Most soulfully and most devotedly I am offering today's Peace Concert to the div
 * Letter From President Premadasa To Sri Chinmoy
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: PPNB:75
+  :genre: epistle
+  :keywords:
+  :cite-key: PPNB:75
   :END:
 
 
@@ -1812,9 +1812,9 @@ President Premadasa
 * Visit To Ratnapura
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:76
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:76
   :END:
 
 
@@ -1835,9 +1835,9 @@ In a few days we shall carry to various parts of the world the experiences from 
 * Remarks By Sri Chinmoy At The Peace Mile Relay Held At The Ministry Of Sports In Colombo 7 January 1990
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:77
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:77
   :END:
 
 
@@ -1858,9 +1858,9 @@ Once more I am offering my heart's love and gratitude to the Minister of Sports 
 * Excerpts From Sri Chinmoy'S Acceptance Of The Honorary Degree
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:78
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:78
   :END:
 
 
@@ -1879,9 +1879,9 @@ And to all those who are present here, I am offering my gratitude for this great
 * Reception Held By Colombo Mayor M. Hussain Mohamed In The Colombo Town Hall 8 January 1990
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PPNB:79
+  :genre: discourse
+  :keywords:
+  :cite-key: PPNB:79
   :END:
 
 
@@ -1900,9 +1900,9 @@ A few days ago, our beloved President Ranasinghe Premadasa completed the first y
 * Private Meeting Between President Premadasa And Sri Chinmoy At The Presidential Secretariat
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: PPNB:80
+  :genre: meeting
+  :keywords:
+  :cite-key: PPNB:80
   :END:
 
 
@@ -1910,9 +1910,9 @@ A few days ago, our beloved President Ranasinghe Premadasa completed the first y
 * Sri Chinmoy: I Came Here For Your...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: PPNB:81
+  :genre: interview
+  :keywords:
+  :cite-key: PPNB:81
   :END:
 
 
@@ -1985,9 +1985,9 @@ A few days ago, our beloved President Ranasinghe Premadasa completed the first y
 * A Letter From The Presidential Secretariat
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: PPNB:82
+  :genre: epistle
+  :keywords:
+  :cite-key: PPNB:82
   :END:
 
 
@@ -2016,9 +2016,9 @@ The President thanks you again for the many kind thoughts that you have expresse
 * Songs About President Premadasa
 
   :PROPERTIES:
-  :GENRE: songs
-  :KEYWORDS:
-  :CITE-KEY: PPNB:83
+  :genre: songs
+  :keywords:
+  :cite-key: PPNB:83
   :END:
 
 
@@ -2026,9 +2026,9 @@ The President thanks you again for the many kind thoughts that you have expresse
 * Ranasinghe Premadasa: Lion-Hero
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: PPNB:84
+  :genre: song
+  :keywords:
+  :cite-key: PPNB:84
   :END:
 
 
@@ -2055,9 +2055,9 @@ shall shine.
 * Sri Lanka'S Tallest Tower
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: PPNB:85
+  :genre: song
+  :keywords:
+  :cite-key: PPNB:85
   :END:
 
 
@@ -2077,9 +2077,9 @@ Perfection-sun, satisfaction-sky in you find.
 * Rashtrapati Premadasa
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: PPNB:86
+  :genre: song
+  :keywords:
+  :cite-key: PPNB:86
   :END:
 
 
@@ -2108,9 +2108,9 @@ Here on earth.
 * Ranasinghe Premadasa
 
   :PROPERTIES:
-  :GENRE: song
-  :KEYWORDS:
-  :CITE-KEY: PPNB:87
+  :genre: song
+  :keywords:
+  :cite-key: PPNB:87
   :END:
 
 

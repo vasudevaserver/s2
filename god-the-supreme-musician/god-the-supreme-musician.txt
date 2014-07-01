@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0168
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GSM
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0168
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: GSM
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GSM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: GSM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * God the Supreme Musician
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:1
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:1
   :END:
 
 
@@ -107,9 +107,9 @@ Music is our soul's home, God is the Supreme Musician. In Sri Krishna, I see God
 * Vital music and spiritual music
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:2
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:2
   :END:
 
 
@@ -141,9 +141,9 @@ My life-preparation and my life-examination eventually see the face of God the S
 * Silence and music
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:3
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:3
   :END:
 
 
@@ -168,9 +168,9 @@ The transcendental music of liberating Light and immortalising Delight is the be
 * Part II: General questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GSM:4e1
+  :genre: section
+  :keywords:
+  :cite-key: GSM:4e1
   :END:
 
 
@@ -178,9 +178,9 @@ The transcendental music of liberating Light and immortalising Delight is the be
 * Question: Why do we like music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:4
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:4
   :END:
 
 
@@ -193,9 +193,9 @@ Let us not try to understand music with our mind. Let us not even try to feel it
 * Question: What is the sound that music creates?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:5
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:5
   :END:
 
 
@@ -206,9 +206,9 @@ Let us not try to understand music with our mind. Let us not even try to feel it
 * Question: What is the relationship between music and silence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:6
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:6
   :END:
 
 
@@ -223,9 +223,9 @@ But when we compare divine music and Silence, we must say that Silence is the al
 * Question: What does God's Music sound like?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:7
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:7
   :END:
 
 
@@ -236,9 +236,9 @@ But when we compare divine music and Silence, we must say that Silence is the al
 * Question: Is the Supreme just singing one eternal song?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:8
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:8
   :END:
 
 
@@ -253,9 +253,9 @@ The Supreme's Freedom is not like a mad elephant. He does not use His Freedom to
 * Question: I've heard that there are different tones or notes for each Heaven. Could you please describe them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:9
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:9
   :END:
 
 
@@ -268,9 +268,9 @@ It is not only the higher and lower worlds that have a music of their own; each 
 * Question: When I play music, I feel a tingling around my third eye.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:10
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:10
   :END:
 
 
@@ -283,9 +283,9 @@ When you sing, you may feel an awakening in the throat centre. Those who have go
 * Question: In what way does music affect our consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:11
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:11
   :END:
 
 
@@ -300,9 +300,9 @@ Water symbolises consciousness. Consciousness, like water, is neutral. What we p
 * Question: Can we use music to help us in our spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:12
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:12
   :END:
 
 
@@ -313,9 +313,9 @@ Water symbolises consciousness. Consciousness, like water, is neutral. What we p
 * Question: What does 'soulful' mean in relation to music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:13
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:13
   :END:
 
 
@@ -334,9 +334,9 @@ It also makes us feel that God Himself is the Supreme Musician. When we play sou
 * Question: How do we know if music is spiritual and if the musician is aspiring?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:14
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:14
   :END:
 
 
@@ -347,9 +347,9 @@ It also makes us feel that God Himself is the Supreme Musician. When we play sou
 * Question: What is the best way to become one with soulful music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:15
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:15
   :END:
 
 
@@ -362,9 +362,9 @@ What do we mean by soulful music? If you say it is the music that embodies the s
 * Question: What can we do to sing most soulfully?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:16
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:16
   :END:
 
 
@@ -381,9 +381,9 @@ One time when I was in India, four or five elderly men and women came to listen 
 * Question: Do our souls sing when we sing most soulfully?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:17
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:17
   :END:
 
 
@@ -398,9 +398,9 @@ Very often when we sing most soulfully, even after the song is over we will hear
 * Question: How is it possible to make music a soulful offering to the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:18
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:18
   :END:
 
 
@@ -411,9 +411,9 @@ Very often when we sing most soulfully, even after the song is over we will hear
 * Question: When I sing, it sounds so horrible that it takes away my inspiration.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:19
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:19
   :END:
 
 
@@ -424,9 +424,9 @@ Very often when we sing most soulfully, even after the song is over we will hear
 * Question: Is it also a form of singing to hear the song in your mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:20
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:20
   :END:
 
 
@@ -437,9 +437,9 @@ Very often when we sing most soulfully, even after the song is over we will hear
 * Question: I can't sing. I sing in a monotone, and I can't learn an instrument.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:21
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:21
   :END:
 
 
@@ -460,9 +460,9 @@ But if you can identify yourself with other musician-disciples, if you can claim
 * Question: What is the relationship between music and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:22
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:22
   :END:
 
 
@@ -477,9 +477,9 @@ Each time soulful music is played, we get inspiration and delight. In the twinkl
 * Question: Can spiritual music be played during meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:23
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:23
   :END:
 
 
@@ -494,9 +494,9 @@ So, if you are fond of music, then please play soulful songs or chants during yo
 * Question: Can some kinds of music cause us to feel upset and change our spiritual condition?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:24
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:24
   :END:
 
 
@@ -507,9 +507,9 @@ So, if you are fond of music, then please play soulful songs or chants during yo
 * Question: Is it possible to be both a musician and a Yogi?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:25
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:25
   :END:
 
 
@@ -524,9 +524,9 @@ A musician eventually has to become a Yogi, because no musician, no matter what 
 * Question: Guru, I'm a musician and I'm also trying to follow the spiritual life. Sometimes, however, I find it very difficult to reconcile these two parts of myself, and I feel I shouldn't try to move too quickly in this area.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:26
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:26
   :END:
 
 
@@ -543,9 +543,9 @@ Right now you may think that the world will not appreciate your spiritual music.
 * Question: How can I bring spirituality into my music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:27
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:27
   :END:
 
 
@@ -560,9 +560,9 @@ A sincere seeker who has already accepted a path of his own should play only spi
 * Question: What is sound to the musician?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:28
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:28
   :END:
 
 
@@ -573,9 +573,9 @@ A sincere seeker who has already accepted a path of his own should play only spi
 * Question: Is it better to play music from memory rather than to read it off a sheet of music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:29
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:29
   :END:
 
 
@@ -586,9 +586,9 @@ A sincere seeker who has already accepted a path of his own should play only spi
 * Question: Is learning a musical instrument important in our spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:30
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:30
   :END:
 
 
@@ -601,9 +601,9 @@ There is only one necessity and that is your daily soulful meditation. If you do
 * Question: How can a person manifest the highest, most joyful music in his soul while playing a musical instrument?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:31
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:31
   :END:
 
 
@@ -614,9 +614,9 @@ There is only one necessity and that is your daily soulful meditation. If you do
 * Question: What is the spiritual essence of Beethoven's sound-creation-manifestation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:32
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:32
   :END:
 
 
@@ -629,9 +629,9 @@ When Beethoven's music starts, it gives the feeling of a mad elephant, first str
 * Question: Is dancing to soulful music a form of meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:33
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:33
   :END:
 
 
@@ -646,9 +646,9 @@ In a spiritual community, dancers may safely perform soulful dancing because eve
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GSM:34
+  :genre: poem
+  :keywords:
+  :cite-key: GSM:34
   :END:
 
 
@@ -665,9 +665,9 @@ God-Music expedites our life- liberation, God-realisation and love-manifestation
 * Part III: Questions and answers about Sri Chinmoy's music
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GSM:35e1
+  :genre: section
+  :keywords:
+  :cite-key: GSM:35e1
   :END:
 
 
@@ -675,9 +675,9 @@ God-Music expedites our life- liberation, God-realisation and love-manifestation
 * Question: Could you please tell us the spiritual significance of your chanting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:35
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:35
   :END:
 
 
@@ -690,9 +690,9 @@ If one consciously accepts the spiritual life, the inner life, then naturally on
 * Question: What do you feel when you play music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:36
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:36
   :END:
 
 
@@ -703,9 +703,9 @@ If one consciously accepts the spiritual life, the inner life, then naturally on
 * Question: What should our attitude be when singing your songs?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:37
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:37
   :END:
 
 
@@ -716,9 +716,9 @@ If one consciously accepts the spiritual life, the inner life, then naturally on
 * Question: Is it a good idea to listen to tapes of the disciples singing spiritual songs?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:38
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:38
   :END:
 
 
@@ -729,9 +729,9 @@ If one consciously accepts the spiritual life, the inner life, then naturally on
 * Question: Sometimes after a meditation at the Centre, when you ask us to sing the Invocation, my aspiration goes away and I get very tired.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:39
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:39
   :END:
 
 
@@ -744,9 +744,9 @@ Many times while singing the Supreme, people think of the most absurd things. Ap
 * Question: Guru, how can your disciples serve and manifest your soulful music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:40
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:40
   :END:
 
 
@@ -757,9 +757,9 @@ Many times while singing the Supreme, people think of the most absurd things. Ap
 * Question: When you make a poem into a song, does the melody come as spontaneously as when you paint?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:41
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:41
   :END:
 
 
@@ -772,9 +772,9 @@ When I am walking along the street or sitting in my room, I may get a beautiful 
 * Question: Do your disciples who are musicians get some special benefit from your own music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:42
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:42
   :END:
 
 
@@ -785,9 +785,9 @@ When I am walking along the street or sitting in my room, I may get a beautiful 
 * Question: When you sing in front of us, what are you accomplishing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:43
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:43
   :END:
 
 
@@ -808,9 +808,9 @@ Each soulful song leads us to the Highest because it is the purest flower that c
 * Question: As disciples, should we play only soulful music when we play an instrument?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GSM:44
+  :genre: qa
+  :keywords:
+  :cite-key: GSM:44
   :END:
 
 
@@ -827,9 +827,9 @@ You have to know that if you play music from the vital plane, you are only fooli
 * Part IV: Talks and conversations with disciples
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GSM:45e1
+  :genre: section
+  :keywords:
+  :cite-key: GSM:45e1
   :END:
 
 
@@ -837,9 +837,9 @@ You have to know that if you play music from the vital plane, you are only fooli
 * Remark at Carnegie Hall
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:45
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:45
   :END:
 
 
@@ -862,9 +862,9 @@ Western harmony I don't like in some cases. I will not be so prejudiced to say I
 * Spiritual singing
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:46
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:46
   :END:
 
 
@@ -881,9 +881,9 @@ In the spiritual life, we are trying to raise our head to the point where God's 
 * Singing the Invocation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:47
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:47
   :END:
 
 
@@ -904,9 +904,9 @@ When you meditate, most of the time you become victim to silly thoughts-undivine
 * A talk to musician disciples
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:48
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:48
   :END:
 
 
@@ -929,9 +929,9 @@ You are really talented musicians. Dear ones, from each of you I would like to h
 * Fragments from a conversation with Devadip
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: GSM:49
+  :genre: discourse
+  :keywords:
+  :cite-key: GSM:49
   :END:
 
 

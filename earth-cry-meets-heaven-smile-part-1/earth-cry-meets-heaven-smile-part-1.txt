@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0137
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ECMH-1
-  :GENRE: qa, interview
-  :KEYWORDS:
+  :book-number: 0137
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: ECMH-1
+  :genre: qa, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:1e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:1e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:1e2
   :END:
 
 
@@ -45,9 +45,9 @@
 * Question: When one sees through the light of the soul, does he see through hundreds of lifetimes?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:1
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:1
   :END:
 
 
@@ -58,9 +58,9 @@
 * Question: When we see through the light of the soul, is it always with the feeling of joy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:2
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:2
   :END:
 
 
@@ -71,9 +71,9 @@
 * Question: When the soul chooses a new body, does it have a blueprint laid out as to its mission, or does the soul’s mission evolve during one’s lifetime, depending on circumstances and environment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:3
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:3
   :END:
 
 
@@ -84,9 +84,9 @@
 * Question: Does the soul have many missions, or just one, in a lifetime?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:4
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:4
   :END:
 
 
@@ -99,9 +99,9 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 * Question: Does the vital have a mission separate from the soul’s or is it related to the soul’s mission?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:5
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:5
   :END:
 
 
@@ -112,9 +112,9 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 * Question: How does one know if he is attending to his soul’s mission or simply satisfying his vanity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:6
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:6
   :END:
 
 
@@ -125,9 +125,9 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 * Question: It is often said that the soul needs certain experiences even though they may seem adverse at the time. How are we to distinguish between the experiences the soul needs and our own desire to forge ahead through egoistic stubbornness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:7
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:7
   :END:
 
 
@@ -138,9 +138,9 @@ For example, if one is a writer, it is well and good. If he goes on writing with
 * Question: In this age of Kali Yuga, are more people becoming aware of their soul’s mission, or is this kind of awareness for future generations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:8
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:8
   :END:
 
 
@@ -153,9 +153,9 @@ To come back to your question, we all know that the present-day world is more aw
 * Question: Does our soul have contact with the mind of the so-called higher planets like Venus and Saturn?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:9
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:9
   :END:
 
 
@@ -166,9 +166,9 @@ To come back to your question, we all know that the present-day world is more aw
 * Question: There is always talk about this world destroying itself; then people become personally alarmed. Would the end of the physical world as we know it be a threat to the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:10
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:10
   :END:
 
 
@@ -179,9 +179,9 @@ To come back to your question, we all know that the present-day world is more aw
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:11e1
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:11e1
   :END:
 
 
@@ -196,9 +196,9 @@ To come back to your question, we all know that the present-day world is more aw
 * Question: I understand you to say that some spiritual figures in India claim that today you are here, tomorrow you are not here, that the world is an illusion. But aren’t those so-called spiritual figures actually corrupting the pure teaching of Shankara on the question of Maya? Shankara never really disavowed the existence of this phenomenal world. Am I right in saying this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:11
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:11
   :END:
 
 
@@ -219,9 +219,9 @@ To come back to your question, Shankara’s very short earthly existence was sur
 * Part II: Sri Chinmoy's first television interview
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:12e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:12e1
   :END:
 
 
@@ -229,9 +229,9 @@ To come back to your question, Shankara’s very short earthly existence was sur
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:12e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:12e2
   :END:
 
 
@@ -242,9 +242,9 @@ To come back to your question, Shankara’s very short earthly existence was sur
 * /Interviewer:/ Master Chinmoy, I have just introduced you in Spanish and explained some of your works that I have read in Spanish. What is your mission now in Puerto Rico, and how long will you stay here?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:12
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:12
   :END:
 
 
@@ -299,9 +299,9 @@ Here in the West, your material development need not stand as a barrier. On the 
 * Part III: Question and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:13e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:13e1
   :END:
 
 
@@ -309,9 +309,9 @@ Here in the West, your material development need not stand as a barrier. On the 
 * Question: How can one reach God in one’s lifetime? [January 15, 1968]
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:13
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:13
   :END:
 
 
@@ -326,9 +326,9 @@ You have got a Guru, Agni, so your problem is over, and your aspiration is most 
 * God could have made man perfect to begin with. What was His reason for putting us to all the trouble that we are going through to attain perfection? [October 1, 1967]
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:14
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:14
   :END:
 
 
@@ -343,9 +343,9 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 * Part IV: Questions and answers at the Puerto Rico Centre
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:15e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:15e1
   :END:
 
 
@@ -353,9 +353,9 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 * Note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:15e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:15e2
   :END:
 
 
@@ -366,9 +366,9 @@ God is a divine Player. He is playing His divine Game and He knows the Ultimate 
 * Question: Sometimes in my meditations, I come to think about the feeling of Eternity, you know. I come to feel that human beings have lived forever and will live forever. This feeling, instead of causing me pleasure and a good sensation, on the contrary causes me great anguish and pain. I feel then that I am all alone, that I am living a life of my own, different from everything. I feel that I have no world left, that by the power of my mind, I have destroyed the world and am alone by myself. This thought causes me a great deal of pain and I have wanted to mention this state of mind. I want to know if I am taking a wrong path.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:15
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:15
   :END:
 
 
@@ -385,9 +385,9 @@ When you live the spiritual life, you live in Eternity. This Eternity does not p
 * I have been reading the minor Upanishads and I want to ask you something about them. If they are “minor,” why are they so profound in the script and in the meaning?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:16
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:16
   :END:
 
 
@@ -402,9 +402,9 @@ I am sure, Gauri, that you know that there are only one hundred eight Upanishads
 * Question: Another question about the Upanishads: why was the King of Death, Yama, not there when Nachiketa arrived?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:17
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:17
   :END:
 
 
@@ -417,9 +417,9 @@ Nachiketa’s father, Vajasravasa, said, “Thee I give to Death.” But the Kin
 * Question: When the soul is going to reincarnate, is it forced to do so or does the soul have the privilege of making this decision?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:18
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:18
   :END:
 
 
@@ -436,9 +436,9 @@ Something more I wish to add. The soul is not compelled. The human father says t
 * Question: I wish to ask something further, regarding the previous question. Religion has told us that we have come from the Spirit and we go back to the Spirit at the end of our present incarnation. Now if we go back to our Father, then what is the use of reincarnation, realisation and so forth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:19
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:19
   :END:
 
 
@@ -449,9 +449,9 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 * Part V: Interview on WHOA radio station
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:20e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:20e1
   :END:
 
 
@@ -459,9 +459,9 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:20e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:20e2
   :END:
 
 
@@ -472,9 +472,9 @@ There are many religions on earth that do believe in reincarnation. Reincarnatio
 * /Interviewer:/ This morning we have Sri Chinmoy here in the studio. He will give us an example of a prayer chant in Sanskrit to start the program.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:20
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:20
   :END:
 
 
@@ -509,9 +509,9 @@ The firmament of India still resounds with this soul-stirring chant of the Vedic
 * /Mr. George Riddell: Do you meditate or do you pray? In Yoga, how do you communicate with God?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:21
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:21
   :END:
 
 
@@ -524,9 +524,9 @@ By prayer, we enter into the Kingdom of God, by concentration we can also enter 
 * /Mr. George Riddell:/ Some of the other members here may have some questions that they wish to ask, and I think we should start with the ladies first. Miss Carmen Suro may have a question.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:22
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:22
   :END:
 
 
@@ -541,9 +541,9 @@ Experience shows and tells us what we will eventually become, the possessor of G
 * /Mr. Jim Knight:/ One question has interested me. Everybody in all religions tries to relate himself to God, and I wonder, Sri Chinmoy, if you could give us a short explanation of what Yoga says of God. What is God and what is the relationship between God and man?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:23
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:23
   :END:
 
 
@@ -560,9 +560,9 @@ I have to grow and God has to flow. I grow as a human being into His highest Con
 * /Mr. George Riddell:/ Now, according to Yoga, when your physical being ceases to exist or when you do what we call “die,” what happens to your spiritual self?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:24
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:24
   :END:
 
 
@@ -583,9 +583,9 @@ But, in answer to your question, once the soul has come into human incarnation, 
 * /Miss Dorothy Eisaman:/ Master, am I correct in saying that we who are believers in God must grow in Grace daily?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:25
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:25
   :END:
 
 
@@ -604,9 +604,9 @@ So to come back to the question, it depends on the individual, where he stands. 
 * /Mr. George Riddell:/ Does anyone else have a question? Mr. Casanova!
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:26
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:26
   :END:
 
 
@@ -619,9 +619,9 @@ So to come back to the question, it depends on the individual, where he stands. 
 * /Mr. George Riddell:/ In Yoga, do you have a Scripture, as we have the Bible?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:27
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:27
   :END:
 
 
@@ -636,9 +636,9 @@ So to come back to the question, it depends on the individual, where he stands. 
 * /Mr. Jim Knight:/ One of the great, perhaps the greatest Indian political leader of all time was the Mahatma Gandhi. How did he relate to Yoga?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:28
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:28
   :END:
 
 
@@ -653,9 +653,9 @@ So to come back to the question, it depends on the individual, where he stands. 
 * /Mr. Ed Belville:/ Sri Chinmoy, the question in my mind is: why do we need a teacher or guru? Or is it important to have a teacher to follow the spiritual path?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:29
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:29
   :END:
 
 
@@ -672,9 +672,9 @@ Right now I am here in Puerto Rico. I know that New York exists and that I have 
 * /Mr. Ramon Torres Pena:/ Master Chinmoy, what do you mean by “concentration"?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:30
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:30
   :END:
 
 
@@ -685,9 +685,9 @@ Right now I am here in Puerto Rico. I know that New York exists and that I have 
 * /Mr. Jim Knight:/ I have another question deviating just a little bit from what we have been talking about. Most of us in the Western world who are ignorant of Yoga have a tendency to think of a Yogi as someone, let us say, sitting with his legs crossed, or someone standing on his head, someone doing particular exercises or things that seem strange to us. How or why does a Yogi perform these feats? How does it relate to his religion?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:31
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:31
   :END:
 
 
@@ -706,9 +706,9 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 * /Mr. George Riddell:/ Are you a vegetarian?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:32
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:32
   :END:
 
 
@@ -719,9 +719,9 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 * /Mr. George Riddell:/ Are you married?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:33
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:33
   :END:
 
 
@@ -732,9 +732,9 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 * /Mr. George Riddell:/ Do you practise celibacy?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:34
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:34
   :END:
 
 
@@ -745,9 +745,9 @@ The body is necessary. We must have a sound and solid body so that the soul can 
 * /Mr. George Riddell:/ We have one question from our radio audience. Someone has called in with a question. Her question is: “What do you think of the communication between the living and the dead? Do you think there is a communication?”
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:35
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:35
   :END:
 
 
@@ -764,9 +764,9 @@ On earth we can make either a short distance call or a long-distance call to any
 * /Mrs Sarah Casanova:/ Some persons are disturbed by the problems surrounding them. They think they can find escape in suicide. Do you think this is a door that we can open at our sweet will to escape from responsibility and suffering?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:36
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:36
   :END:
 
 
@@ -783,9 +783,9 @@ First of all you have to face the world, live in the world in order to establish
 * /Mr. George Riddell:/ There are many people in the United States who claim that with the use of certain drugs they are able to get closer to God. Of course the Chinese have been using opium for centuries and centuries. How do you feel about using stimulants, drugs, etc., to stimulate the mind in order to get closer to God?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:37
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:37
   :END:
 
 
@@ -802,9 +802,9 @@ To come back to your question, no man can come closer to God by taking drugs or 
 * /Mr. George Riddell:/ We are just about coming to the end of our time now. We have time for one more question.
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: ECMH:38
+  :genre: interview
+  :keywords:
+  :cite-key: ECMH:38
   :END:
 
 
@@ -823,9 +823,9 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 * Part VI: Questions asked at the University of Puerto Rico
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:39e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:39e1
   :END:
 
 
@@ -833,9 +833,9 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:39e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:39e2
   :END:
 
 
@@ -846,9 +846,9 @@ Westerner, Easterner, Northerner or Southerner, all must needs have this union w
 * Please explain what will be the first step for an ordinary person who has not been in contact with spiritual teachings and wants to enter into the path of self-realisation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:39
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:39
   :END:
 
 
@@ -867,9 +867,9 @@ On the one hand, when the soul leaves the body, the body cannot function; the bo
 * Question: What results would we have in our society if a large number of persons in the society accepted Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:40
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:40
   :END:
 
 
@@ -882,9 +882,9 @@ Yoga is not something unnatural; it is something absolutely natural, it is somet
 * Question: What happens if a person wants to enter the spiritual life but has to adjust himself to the material life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:41
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:41
   :END:
 
 
@@ -897,9 +897,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: You explained that the soul needs the body. I understand that the soul is the one that is in union with God. Will we retain our individuality or shall we lose our individuality when we realise that union with God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:42
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:42
   :END:
 
 
@@ -910,9 +910,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: If a person practises Yoga, what kind of life will be led in his daily activities?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:43
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:43
   :END:
 
 
@@ -923,9 +923,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: Does a person who has not practised Yoga have the same grade of unity with God after death as one who practises Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:44
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:44
   :END:
 
 
@@ -936,9 +936,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Part VII: Questions asked at the Inter-American University, San Juan, Puerto Rico
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:45e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:45e1
   :END:
 
 
@@ -946,9 +946,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:45e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:45e2
   :END:
 
 
@@ -959,9 +959,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: What is the best point we can use to fix our gaze for concentration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:45
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:45
   :END:
 
 
@@ -972,9 +972,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: Is Yoga considered a religion or a philosophy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:46
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:46
   :END:
 
 
@@ -985,9 +985,9 @@ One should try to aspire in one’s day-to-day life to combine both the material
 * Question: When you speak, you close your eyes. Is this a kind of concentration or what is it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:47
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:47
   :END:
 
 
@@ -1000,9 +1000,9 @@ During my talk, I was in a very high consciousness. Hence my soul got the opport
 * Question: Is there any difference between one religion and another religion? Does Yoga demand renunciation of all religions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:48
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:48
   :END:
 
 
@@ -1013,9 +1013,9 @@ During my talk, I was in a very high consciousness. Hence my soul got the opport
 * Question: Is it easier for you to concentrate while you are standing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:49
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:49
   :END:
 
 
@@ -1028,9 +1028,9 @@ When the inner being compels us to concentrate, we concentrate. There is no hard
 * Question: Is reincarnation an entity in itself or is it a religious belief of Hinduism?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:50
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:50
   :END:
 
 
@@ -1057,9 +1057,9 @@ This is what we call reincarnation from the Hindu spiritual point of view.
 * Question: What is meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:51
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:51
   :END:
 
 
@@ -1072,9 +1072,9 @@ So if you want to know what meditation is, I wish to say that meditation is that
 * Question: Is life after death a reality or just a belief?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:52
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:52
   :END:
 
 
@@ -1085,9 +1085,9 @@ So if you want to know what meditation is, I wish to say that meditation is that
 * Question: Is life after death a sort of consolation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:53
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:53
   :END:
 
 
@@ -1098,9 +1098,9 @@ So if you want to know what meditation is, I wish to say that meditation is that
 * Question: That humming that I heard from you . . . I want to know if it is a kind of meditation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:54
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:54
   :END:
 
 
@@ -1111,9 +1111,9 @@ So if you want to know what meditation is, I wish to say that meditation is that
 * Question: Recently I read about a person who was buried alive for eighteen days and then he was able to come back alive. Is there any relation between this sort of thing and what you are doing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:55
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:55
   :END:
 
 
@@ -1126,9 +1126,9 @@ What I want from my students is this inner cry. A child cries for his mother’s
 * Question: So what that person did has nothing to do with Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:56
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:56
   :END:
 
 
@@ -1143,9 +1143,9 @@ Now did his unusual achievement help the audience in any way in their aspiration
 * Part VIII: Questions asked at Yale University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:57e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:57e1
   :END:
 
 
@@ -1153,9 +1153,9 @@ Now did his unusual achievement help the audience in any way in their aspiration
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:57e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:57e2
   :END:
 
 
@@ -1166,9 +1166,9 @@ Now did his unusual achievement help the audience in any way in their aspiration
 * Question: What role does the vegetarian diet play in your teachings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:57
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:57
   :END:
 
 
@@ -1181,9 +1181,9 @@ But again, if you ask me whether by becoming a strict vegetarian you can realise
 * Question: It seems to me that it takes a certain amount of energy and desire to follow the path of your teachings. And what about the rank beginner on it? Sometimes you can’t muster enough energy to get yourself going!
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:58
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:58
   :END:
 
 
@@ -1196,9 +1196,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Question: My mind wanders and I would like to know how I can better my concentration so that I can keep my mind focussed on one point or on one thought without lower thought-structures wandering around.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:59
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:59
   :END:
 
 
@@ -1209,9 +1209,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Question: I am studying to be an actor at the Drama School here at Yale. Is it possible to follow the spiritual path and also have this earthly value, or must I totally devote myself to the spiritual path and be devoid of everything else?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:60
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:60
   :END:
 
 
@@ -1222,9 +1222,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Question: There are many books on reincarnation on the market that you can buy. But is it something that can be understood by the intellect, the laws of reincarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:61
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:61
   :END:
 
 
@@ -1235,9 +1235,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Part IX: Questions asked at Yoga of Westchester, New Rochelle, New York
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:62e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:62e1
   :END:
 
 
@@ -1245,9 +1245,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:62e2
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:62e2
   :END:
 
 
@@ -1258,9 +1258,9 @@ You cannot become a multimillionaire overnight. You have to start with a penny. 
 * Question: Could you tell us what an aspirant’s duty to society is, if he has one, and how he should relate to his total society? Should he be withdrawn or should he contribute, and if so, what should be the nature of his contribution?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:62
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:62
   :END:
 
 
@@ -1277,9 +1277,9 @@ But one has to be wise in his spiritual search. He has to know that God comes fi
 * Question: Do you feel it is important for the aspirant to follow the vegetarian diet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:63
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:63
   :END:
 
 
@@ -1296,9 +1296,9 @@ Now to come back to your question, if one says that one has to be a vegetarian i
 * Question: My question concerns Karma. I would like to know what is the best way to get rid of bad karma.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:64
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:64
   :END:
 
 
@@ -1309,9 +1309,9 @@ Now to come back to your question, if one says that one has to be a vegetarian i
 * Question: Do you think that the aspirant needs a living Guru for realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:65
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:65
   :END:
 
 
@@ -1330,9 +1330,9 @@ So to come back to your question, the need for a teacher. It is absurd to feel t
 * Question: What you said before about denying the animal in man troubles me. I feel that as the inner life and the outer life are two sides of the same truth, that the animal and the pure wisdom in man are also two sides of the same truth and two sides of God and I can’t understand why one must run away from one side of oneself.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:66
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:66
   :END:
 
 
@@ -1345,9 +1345,9 @@ In our yoga, the yoga of acceptance, we do not actually destroy anything; we tra
 * Question: What is self-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:67
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:67
   :END:
 
 
@@ -1358,9 +1358,9 @@ In our yoga, the yoga of acceptance, we do not actually destroy anything; we tra
 * Question: You spoke of a Guru as someone to help make a shortcut in the search for realisation. I find it hard in myself to channel myself in the search. Could you recommend or direct me somehow in a channelling of my energies toward self-realisation, because I find it hard to direct myself in that way.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:68
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:68
   :END:
 
 
@@ -1373,9 +1373,9 @@ So please launch into the spiritual path, learn the ABC of the inner life. For t
 * Question: Should we understand that the extent of self-realisation that we can achieve is subject to our effort and our will, which is what I did understand from your last response, or is it ultimately determined in some way by something beyond our own will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:69
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:69
   :END:
 
 
@@ -1388,9 +1388,9 @@ Here I wish to say something. A woman spiritual Master once was asked by her dis
 * Part X: Questions asked in 1969
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ECMH:70e1
+  :genre: section
+  :keywords:
+  :cite-key: ECMH:70e1
   :END:
 
 
@@ -1401,9 +1401,9 @@ Here I wish to say something. A woman spiritual Master once was asked by her dis
 * Question: How can we teach ourselves to love humanity, not just as a collective whole, but also specifically, when a person’s defects and bad qualities are so obvious?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:70
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:70
   :END:
 
 
@@ -1416,9 +1416,9 @@ You are God’s creation; so is humanity. Humanity is only an expression of your
 * Question: How can we tell if our love is vital or pure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:71
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:71
   :END:
 
 
@@ -1429,9 +1429,9 @@ You are God’s creation; so is humanity. Humanity is only an expression of your
 * Question: Is it possible to prevent oneself from giving off impure vital love and to substitute the heart’s pure love for it? How can we consciously give pure love?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:72
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:72
   :END:
 
 
@@ -1444,9 +1444,9 @@ Now you want to know how you can consciously give pure love to others. You can c
 * Question: In what way does love for one’s Guru differ from devotion to him? Is it possible to have one without the other?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:73
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:73
   :END:
 
 
@@ -1457,9 +1457,9 @@ Now you want to know how you can consciously give pure love to others. You can c
 * Question: When we concentrate on love and devotion, should we direct it mainly to the Supreme or to our Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:74
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:74
   :END:
 
 
@@ -1470,9 +1470,9 @@ Now you want to know how you can consciously give pure love to others. You can c
 * Question: Do the words “psychic” and “spiritual” mean the same thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:75
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:75
   :END:
 
 
@@ -1485,9 +1485,9 @@ Anything that concerns this divine being or pertains to it is described as “ps
 * Question: What is devotion? Just a desire to do everything possible for one’s Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:76
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:76
   :END:
 
 
@@ -1498,9 +1498,9 @@ Anything that concerns this divine being or pertains to it is described as “ps
 * Question: What are the manifestations of devotion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:77
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:77
   :END:
 
 
@@ -1511,9 +1511,9 @@ Anything that concerns this divine being or pertains to it is described as “ps
 * Question: If we feel that we are not devoted enough, how can we increase our devotion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:78
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:78
   :END:
 
 
@@ -1524,9 +1524,9 @@ Anything that concerns this divine being or pertains to it is described as “ps
 * Question: If one has aspiration, but not devotion, does this hinder his spiritual progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:79
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:79
   :END:
 
 
@@ -1539,9 +1539,9 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 * Question: What is the difference between spiritual strength and spiritual power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:80
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:80
   :END:
 
 
@@ -1552,9 +1552,9 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 * Question: In the spiritual life, the importance of purity is always stressed. Are pure actions worthwhile if thoughts are impure? How can we purify our thoughts?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:81
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:81
   :END:
 
 
@@ -1565,9 +1565,9 @@ There comes a time in the spiritual life when one is bound to feel that devotion
 * Question: Should husband and wife try to feel the same kind of love and devotion for one another as they try to feel for their Guru or should it be of a different kind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:82
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:82
   :END:
 
 
@@ -1580,9 +1580,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Part XI: Questions on surrender
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: ECMH:83e1
+  :genre: note
+  :keywords:
+  :cite-key: ECMH:83e1
   :END:
 
 
@@ -1593,9 +1593,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: Is there any relationship between surrender to God and progress in the opening of the chakras?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:83
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:83
   :END:
 
 
@@ -1606,9 +1606,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: Does the achievement of complete surrender assure that one will have the possibility of accomplishing self-realisation in this lifetime, or are there other factors that enter the picture?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:84
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:84
   :END:
 
 
@@ -1619,9 +1619,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: Am I correct in assuming that surrender necessarily precedes realisation, or may it occur at the time of the first realisation experience or later?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:85
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:85
   :END:
 
 
@@ -1632,9 +1632,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: Having once surrendered completely, is there any possibility of backsliding, or will the strength of the disciple’s aspiration and oneness with the Guru’s consciousness prevent this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:86
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:86
   :END:
 
 
@@ -1645,9 +1645,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: Realising that the ability to surrender is 99% dependent upon Grace, I have been using part of each meditation time to pray for the Grace of God and my Guru. In view of the fact that you have said that prayer is a lesser form of devotion than meditation, I wonder whether what I am doing is a worthwhile effort.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:87
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:87
   :END:
 
 
@@ -1658,9 +1658,9 @@ The husband and the wife can truly, soulfully, unmistakably and unreservedly bec
 * Question: At times, when praying and meditating on surrender, I am moved to copious tears. I feel these tears as different from those tears of soul’s joy which I have experienced at times. The anguish which accompanies them, makes me feel that these are not even tears of aspiration, but merely of frustration, and this disturbs me. How can I aspire for, and concentrate on surrender without becoming so emotional? Even writing this question, I find myself moved to tears.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:88
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:88
   :END:
 
 
@@ -1673,9 +1673,9 @@ During your meditation and prayer, at times what you feel is the uncertain drive
 * Question: What is involved in the surrender of the vital and of the physical body? Having surrendered with the heart and the soul, how can we best help the other recalcitrant members of our being to surrender?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:89
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:89
   :END:
 
 
@@ -1686,9 +1686,9 @@ During your meditation and prayer, at times what you feel is the uncertain drive
 * Question: I have the feeling that when our heart and our soul have surrendered, we can know it ourselves, in fact do know it in our heart, but, other than being told by the Guru, are there any ways in which we can know positively that our vital and physical being have surrendered?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:90
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:90
   :END:
 
 
@@ -1701,9 +1701,9 @@ There is one positive way of knowing that one’s vital and physical being have 
 * Question: As one may consciously feel that one deeply wishes to surrender and may in fact do so intellectually, without yet ridding oneself of the fear within the physical mind, this would seem to indicate that the different levels of mind each have an independent relationship to surrender. Would you please explain what the relationship is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:91
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:91
   :END:
 
 
@@ -1714,9 +1714,9 @@ There is one positive way of knowing that one’s vital and physical being have 
 * Question: When fear holds back the physical mind from surrender, it operates like an invisible enemy. This fear, being subconscious, is something of which we may be totally unaware, and even when told that it exists and is holding us back, it remains a fear that we do not feel. I daily offer my fear to the Supreme, but this offering has a feeling of unreality. How may we overcome an invisible obstacle such as this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:92
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:92
   :END:
 
 
@@ -1731,9 +1731,9 @@ You want to know how you can overcome this invisible obstacle. I wish to tell yo
 * Question: How does surrender affect rebirth into our next incarnation? Does it in any way assure that we will be able to pick up where we left off without the loss of time which often occurs?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: ECMH:93
+  :genre: qa
+  :keywords:
+  :cite-key: ECMH:93
   :END:
 
 

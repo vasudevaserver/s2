@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 960
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: THMS
-  :GENRE: song
+  :book-number: 960
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: THMS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: THMS:1e1
+  :genre: note
+  :cite-key: THMS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: THMS:1e2
+  :genre: note
+  :cite-key: THMS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Shanto Habo Shanta Habo Shanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1987
-  :CITE-KEY: THMS:1
+  :cite-key: THMS:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Habona ar kabhu ami patha bhranto
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1987
-  :CITE-KEY: THMS:2
+  :cite-key: THMS:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ No more shall I lose my way.
 * Daki Tomai Dine Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1987
-  :CITE-KEY: THMS:3
+  :cite-key: THMS:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ Khelte kebal tomar sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1987
-  :CITE-KEY: THMS:4
+  :cite-key: THMS:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ To play only with You.
 * Andhakar Andhakar Bhitar Bahir Andhakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: THMS:5
+  :cite-key: THMS:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Ruddha dwar ruddha dwar khulo moher karagar
 * Namra Shire Tomar Paye Basbo Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: THMS:6
+  :cite-key: THMS:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Puta chitte mor amire nashbo
 * Khule Dao Khule Dao Trinayan Nasho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:7
+  :cite-key: THMS:7
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Nasho nasho mor moha bandhan
 * Amije Jagite Chahina Taito Hasite Parina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:8
+  :cite-key: THMS:8
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Taito hasite parina
 * Naba Jibaner Lagi Rahibo Nidra Jagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:9
+  :cite-key: THMS:9
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Rahibo nidra jagi
 * Ekla Ami Jabona Ar Jabona Ekla Gele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:10
+  :cite-key: THMS:10
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ Ekla gele tomar hasi pabona
 * Agni Shikha Jalao Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:11
+  :cite-key: THMS:11
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Jagbo tomar bijoy gane
 * Nirabata.. Tumi Mor Hridayer Saphalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-03-1987
-  :CITE-KEY: THMS:12
+  :cite-key: THMS:12
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Tumi mor hridayer saphalata
 * Eso Eso Eso Eso Dhire Amar Hridaya Nire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-03-1987
-  :CITE-KEY: THMS:13
+  :cite-key: THMS:13
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Amar hridaya nire
 * Mukta Kate Chaha Jadi Mukta Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-03-1987
-  :CITE-KEY: THMS:14
+  :cite-key: THMS:14
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ Sabar sathe hate habe jukta
 * Karte Chahi Tomar Alor Dhyan Pete Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-03-1987
-  :CITE-KEY: THMS:15
+  :cite-key: THMS:15
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Pete chahi bishal mukta pran
 * Namo.... Khama Karo Khama Karo Khamo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1987
-  :CITE-KEY: THMS:16
+  :cite-key: THMS:16
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Khama karo khama karo khamo
 * Agni Bina Bajabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1987
-  :CITE-KEY: THMS:17
+  :cite-key: THMS:17
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Prabhur paye rakhbo ami atmatyager taj
 * Maner Andhar Nashbo Aji Maner Andhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1987
-  :CITE-KEY: THMS:18
+  :cite-key: THMS:18
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Khulbo aji bhakti bhore hiyar duar
 * Tumi Habe Mor Sathi Priyatama Dibarati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: THMS:19
+  :cite-key: THMS:19
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Priyatama dibarati
 * Sunil Nabhe Urte Chahi Sunil Nabhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: THMS:20
+  :cite-key: THMS:20
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Kabe pabo rabir dekha balo ogo kabe
 * Taskar Amar Man Hai Anukkhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: THMS:21
+  :cite-key: THMS:21
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Taskar amar man hai anukkhan
 * Pujibo Tomare Harashe Amar Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-03-1987
-  :CITE-KEY: THMS:22
+  :cite-key: THMS:22
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ Amar chapal manashe
 * Balo Tomai Baste Chahi Tomar Bijoy Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-03-1987
-  :CITE-KEY: THMS:23
+  :cite-key: THMS:23
   :END:
 
 #+BEGIN_VERSE

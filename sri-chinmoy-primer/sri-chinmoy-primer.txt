@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0075
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCP
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0075
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: SCP
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- Yoga
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: You say that you teach Yoga. Could you please explain what Yoga is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:1
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:1
   :END:
 
 
@@ -59,9 +59,9 @@ Religion is inspiration. Yoga is aspiration. Divinity is perfection. Inspiration
 * Question: Recently I read about a person who was buried alive for eighteen days and came out unharmed. Does the kind of meditation you teach enable one to eventually perform such feats?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:2
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:2
   :END:
 
 
@@ -76,9 +76,9 @@ Let us be on the alert. I urge you not to confuse your heart's genuine meditatio
 * Physical postures (Hatha Yoga)
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:3
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:3
   :END:
 
 
@@ -95,9 +95,9 @@ I must emphasise, however, that Hatha Yoga exercises are far superior to the Wes
 * Proper breathing
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:4
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:4
   :END:
 
 
@@ -118,9 +118,9 @@ When you reach a more advanced stage, when you breathe do not feel that your bre
 * Vegetarian diet
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:5
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:5
   :END:
 
 
@@ -137,9 +137,9 @@ Many spiritual seekers have come to the conclusion that a vegetarian is in a pos
 * Drugs
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:6
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:6
   :END:
 
 
@@ -162,9 +162,9 @@ If you want to realise God in this life, fulfil God in this life, if you want to
 * Concentration, meditation, contemplation
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:7
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:7
   :END:
 
 
@@ -193,9 +193,9 @@ Through concentration we become one-pointed and through meditation we expand our
 * Mantra
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:8
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:8
   :END:
 
 
@@ -218,9 +218,9 @@ Without purity, our inner achievements cannot remain permanently in our nature. 
 * Part II -- Importance of a Guru
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:9e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:9e1
   :END:
 
 
@@ -228,9 +228,9 @@ Without purity, our inner achievements cannot remain permanently in our nature. 
 * Question: Do you think that an aspirant needs a living Guru in order to realise God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:9
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:9
   :END:
 
 
@@ -255,9 +255,9 @@ If someone becomes a true disciple of a Master, he does not feel that he and his
 * Question: How does a real spiritual Master actually teach meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:10
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:10
   :END:
 
 
@@ -272,9 +272,9 @@ All real spiritual Masters teach meditation to their disciples and admirers in s
 * Part III -- Choosing a Guru
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:11e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:11e1
   :END:
 
 
@@ -282,9 +282,9 @@ All real spiritual Masters teach meditation to their disciples and admirers in s
 * Question: How can a person recognise a genuine spiritual Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:11
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:11
   :END:
 
 
@@ -297,9 +297,9 @@ But again, you must know if you are fit to judge. If I know nothing about medica
 * Question: Can you tell me how to choose a Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:12
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:12
   :END:
 
 
@@ -312,9 +312,9 @@ If you get no response, no joy, no inspiration when you repeat the name of a par
 * Initiation
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:13
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:13
   :END:
 
 
@@ -347,9 +347,9 @@ How can the Guru fulfil the Supreme? The Guru plays his part by taking the ignor
 * Living in society
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:14
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:14
   :END:
 
 
@@ -366,9 +366,9 @@ One has to be wise in his spiritual search. He has to know that God comes first 
 * Giving up old friends
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:15
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:15
   :END:
 
 
@@ -393,9 +393,9 @@ Of course, all this is only for those who accept the spiritual life wholehearted
 * Part IV -- Marriage and the family life
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:16e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:16e1
   :END:
 
 
@@ -403,9 +403,9 @@ Of course, all this is only for those who accept the spiritual life wholehearted
 * Question: Do you think that marriage is necessarily an obstacle on the spiritual path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:16
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:16
   :END:
 
 
@@ -422,9 +422,9 @@ When we meditate, when we aspire, we come to learn God's Will. If it is God's Wi
 * Question: If meditation is the only way of seeing God face to face, what advice would you give to the man who has a family to look after?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:17
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:17
   :END:
 
 
@@ -439,9 +439,9 @@ In all your activities try to feel the presence of God. While you are feeding yo
 * Sex
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:18
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:18
   :END:
 
 
@@ -464,9 +464,9 @@ If one enters into the spiritual life and says, "Today I shall conquer all my lo
 * The world's imperfections
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:19
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:19
   :END:
 
 
@@ -491,9 +491,9 @@ The world of realisation and manifestation can be established only on the streng
 * Part V -- Why some are not accepted as disciples
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:20e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:20e1
   :END:
 
 
@@ -501,9 +501,9 @@ The world of realisation and manifestation can be established only on the streng
 * Question: Why is it that you do not accept everybody who wants to become your disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:20
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:20
   :END:
 
 
@@ -520,9 +520,9 @@ If I do not accept you, please do not feet that you are not meant for the spirit
 * Question: But don't you feel it is your responsibility to help all men?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:21
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:21
   :END:
 
 
@@ -535,9 +535,9 @@ You have to know that there are different ways to serve the world. In the Himala
 * A disciple's responsibilities
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:22
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:22
   :END:
 
 
@@ -552,9 +552,9 @@ Each disciple has to feel that this is his spiritual home, and that it is his di
 * Sri Chinmoy Centre meetings
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:23
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:23
   :END:
 
 
@@ -569,9 +569,9 @@ On Thursdays the disciples come to our church and I hold a very high meditation.
 * Part VI -- Cleanliness
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:24e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:24e1
   :END:
 
 
@@ -579,9 +579,9 @@ On Thursdays the disciples come to our church and I hold a very high meditation.
 * Question: Is it important to take a shower before coming to meditate at the Centre?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:24
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:24
   :END:
 
 
@@ -604,9 +604,9 @@ Let us say that taking a shower represents outer purity. We see that the outer c
 * Question: For girls it is sometimes a complicated process to wash their hair every day. Is it necessary to do so before coming to the Centre to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:25
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:25
   :END:
 
 
@@ -619,9 +619,9 @@ Oil is also good for the hair. When you use oil on your hair, immediately it wil
 * Part VII -- Short Hair And Beards
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCP:26e1
+  :genre: section
+  :keywords:
+  :cite-key: SCP:26e1
   :END:
 
 
@@ -629,9 +629,9 @@ Oil is also good for the hair. When you use oil on your hair, immediately it wil
 * Question: Why do you ask your male disciples to have short hair and not to wear a beard?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:26
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:26
   :END:
 
 
@@ -658,9 +658,9 @@ There is no difference between the Master's will and the Goal. In his will itsel
 * Question: But Jesus Christ had long hair.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:27
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:27
   :END:
 
 
@@ -673,9 +673,9 @@ In India you will see many spiritual Masters with long hair. But look at their e
 * Question: Why do your women disciples wear saris and your men disciples wear white?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:28
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:28
   :END:
 
 
@@ -700,9 +700,9 @@ If somebody says, "I don't want to wear a sari, I don't need to wear white. I am
 * Flowers, candles and incense
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:29
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:29
   :END:
 
 
@@ -717,9 +717,9 @@ It is the same with the flame from a candle. This will not in itself give us asp
 * Removing one's shoes
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCP:30
+  :genre: qa
+  :keywords:
+  :cite-key: SCP:30
   :END:
 
 

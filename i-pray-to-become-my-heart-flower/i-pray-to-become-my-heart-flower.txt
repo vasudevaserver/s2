@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1106
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: PBHF
-  :GENRE: song
+  :book-number: 1106
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: PBHF
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PBHF:1e1
+  :genre: note
+  :cite-key: PBHF:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PBHF:1e2
+  :genre: note
+  :cite-key: PBHF:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * It Only Takes a Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-04-1989
-  :CITE-KEY: PBHF:1
+  :cite-key: PBHF:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ And claim God fully.
 * Mind, My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:2
+  :cite-key: PBHF:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Faulty tower-fantasies.
 * Who Says Mine Is a Futile Search?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:3
+  :cite-key: PBHF:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Who says mine is an indifferent God?
 * Without a Flicker of Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:4
+  :cite-key: PBHF:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Without a flicker of hope.
 * O My Mind, When I Live in You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:5
+  :cite-key: PBHF:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ It is nothing but unceasing turbulence.
 * I Have Broken My Ties
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:6
+  :cite-key: PBHF:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ With the temptation-night.
 * Happiness You Want?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:7
+  :cite-key: PBHF:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Then pocket your tallest pride.
 * I Love When I Run Errands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1990
-  :CITE-KEY: PBHF:8
+  :cite-key: PBHF:8
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ For my Lord Beloved Supreme.
 * What I Every Day Need
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:9
+  :cite-key: PBHF:9
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ Is a treadmill-disciplined life.
 * The Road of God-Worshipping Hearts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:10
+  :cite-key: PBHF:10
   :END:
 
 #+BEGIN_VERSE
@@ -215,10 +215,10 @@ Of God-worshipping hearts.
 * My Life and I Must Climb Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:11
+  :cite-key: PBHF:11
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ The purity-mountain-peak supreme.
 * I Love to Dream God-Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:12
+  :cite-key: PBHF:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ In God-Fragrance-night.
 * Humility’s Service-Breath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:13
+  :cite-key: PBHF:13
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Conquers humanity’s heart.
 * Alas, Mankind’s Ignorance-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:14
+  :cite-key: PBHF:14
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Loves to feast on material life.
 * Willingness Is the First Step
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:15
+  :cite-key: PBHF:15
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ Towards surrender-gratitude-life.
 * An Expectation-Journey
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:16
+  :cite-key: PBHF:16
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Never arrives at its destination.
 * A God-Surrender-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-04-1990
-  :CITE-KEY: PBHF:17
+  :cite-key: PBHF:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ The sound-turmoil-life.
 * Liberation Within, Liberation Without
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-04-1990
-  :CITE-KEY: PBHF:18
+  :cite-key: PBHF:18
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ From the expectation-cave.
 * All My Desire-Wings I Shall Clip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-04-1990
-  :CITE-KEY: PBHF:19
+  :cite-key: PBHF:19
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ And place at my Lord’s Feet.
 * Surrender-Sweetness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-04-1990
-  :CITE-KEY: PBHF:20
+  :cite-key: PBHF:20
   :END:
 
 #+BEGIN_VERSE
@@ -388,10 +388,10 @@ Every day I need.
 * I See the Feet of My Lord Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-04-1990
-  :CITE-KEY: PBHF:21
+  :cite-key: PBHF:21
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ Through the eyes of my hope-flooded heart.
 * I Pray to Sit at God’s Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:22
+  :cite-key: PBHF:22
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ I pray to sit at God’s Feet.
 * I Meditate to Feel God in My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:23
+  :cite-key: PBHF:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ In my heart.
 * I Pray to Become a Great Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:24
+  :cite-key: PBHF:24
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ I pray to become a great man.
 * I Meditate to Become a Perfect Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:25
+  :cite-key: PBHF:25
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ A perfect child of God.
 * I Pray to God to Make Me Happy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:26
+  :cite-key: PBHF:26
   :END:
 
 #+BEGIN_VERSE
@@ -488,10 +488,10 @@ To make me happy.
 * I Meditate to Make God Happy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:27
+  :cite-key: PBHF:27
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ To make God happy.
 * I Pray to Become My Heart-Flower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:28
+  :cite-key: PBHF:28
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ I pray to become my heart-flower.
 * I Meditate to Become My Soul-Fragrance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-04-1990
-  :CITE-KEY: PBHF:29
+  :cite-key: PBHF:29
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ My soul-fragrance.
 * I Need an Aspiration-Heart-Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: PBHF:30
+  :cite-key: PBHF:30
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ That will never set.
 * O Aspiration-Trooper
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-08-1989
-  :CITE-KEY: PBHF:31
+  :cite-key: PBHF:31
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ Do destroy my desire-forest.
 * My Hope-Plant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-08-1989
-  :CITE-KEY: PBHF:32
+  :cite-key: PBHF:32
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Quickly and beautifully.
 * Soulfully I Cry, Sweetly I Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-08-1989
-  :CITE-KEY: PBHF:33
+  :cite-key: PBHF:33
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +608,10 @@ With my life’s flower-fragrance-songs.
 * I Have Thrown My Doubting Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-08-1989
-  :CITE-KEY: PBHF:34
+  :cite-key: PBHF:34
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Into a murmuring and devouring river.
 * My Lord, Do Teach Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1989
-  :CITE-KEY: PBHF:35
+  :cite-key: PBHF:35
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ My false world’s false possessions.
 * No End to My Absurd Demands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1989
-  :CITE-KEY: PBHF:36
+  :cite-key: PBHF:36
   :END:
 
 #+BEGIN_VERSE
@@ -660,10 +660,10 @@ No end to my absurd demands.
 * Goodbye My Ancient Insecurities
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1989
-  :CITE-KEY: PBHF:37
+  :cite-key: PBHF:37
   :END:
 
 #+BEGIN_VERSE
@@ -677,10 +677,10 @@ My ancient insecurities.
 * My Self-Doubt Buries Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-08-1989
-  :CITE-KEY: PBHF:38
+  :cite-key: PBHF:38
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ In an abysmal and dismal tomb.
 * Alas, God’s Compassion-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1989
-  :CITE-KEY: PBHF:39
+  :cite-key: PBHF:39
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ My life has misused blatantly.
 * Lament Your Long-Lost Faith-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1989
-  :CITE-KEY: PBHF:40
+  :cite-key: PBHF:40
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ A new faith-life.
 * When My Mind Selects My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1989
-  :CITE-KEY: PBHF:41
+  :cite-key: PBHF:41
   :END:
 
 #+BEGIN_VERSE
@@ -750,10 +750,10 @@ Across ignorance-sea.
 * An Ingratitude-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1989
-  :CITE-KEY: PBHF:42
+  :cite-key: PBHF:42
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ From God’s Satisfaction-Heart.
 * Alas, Teeming Desire Clouds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1989
-  :CITE-KEY: PBHF:43
+  :cite-key: PBHF:43
   :END:
 
 #+BEGIN_VERSE

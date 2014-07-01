@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1205
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1998
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GGGG
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1205
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1998
+  :publisher: Agni Press
+  :cite-key: GGGG
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:1
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:1
   :END:
 
 
@@ -41,9 +41,9 @@ Has illumined me.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:2
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:2
   :END:
 
 
@@ -60,9 +60,9 @@ Has freed me.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:3
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:3
   :END:
 
 
@@ -79,9 +79,9 @@ Your Goodness.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:4
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:4
   :END:
 
 
@@ -100,9 +100,9 @@ That I need.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:5
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:5
   :END:
 
 
@@ -119,9 +119,9 @@ Is my aspiration-hunger.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:6
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:6
   :END:
 
 
@@ -140,9 +140,9 @@ Your Goodness.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:7
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:7
   :END:
 
 
@@ -159,9 +159,9 @@ Your Goodness.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:8
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:8
   :END:
 
 
@@ -178,9 +178,9 @@ To pilot my heart-boat.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:9
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:9
   :END:
 
 
@@ -197,9 +197,9 @@ Enlightens me.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:10
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:10
   :END:
 
 
@@ -216,9 +216,9 @@ Out of sheer love.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:11
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:11
   :END:
 
 
@@ -235,9 +235,9 @@ At Your Goodness.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:12
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:12
   :END:
 
 
@@ -254,9 +254,9 @@ Is unimaginably peaceful.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:13
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:13
   :END:
 
 
@@ -273,9 +273,9 @@ Feeds my humility.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:14
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:14
   :END:
 
 
@@ -292,9 +292,9 @@ Cradles my life.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:15
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:15
   :END:
 
 
@@ -311,9 +311,9 @@ Your Goodness.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:16
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:16
   :END:
 
 
@@ -330,9 +330,9 @@ Feeds my sincerity-heart.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:17
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:17
   :END:
 
 
@@ -351,9 +351,9 @@ I become the moon-dancer.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:18
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:18
   :END:
 
 
@@ -372,9 +372,9 @@ Compassion-Heart.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:19
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:19
   :END:
 
 
@@ -393,9 +393,9 @@ Easily.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:20
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:20
   :END:
 
 
@@ -412,9 +412,9 @@ Whispers.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:21
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:21
   :END:
 
 
@@ -431,9 +431,9 @@ Is nothing but a life-immortalising Flute.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:22
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:22
   :END:
 
 
@@ -450,9 +450,9 @@ Blesses my heart-shrine.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:23
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:23
   :END:
 
 
@@ -469,9 +469,9 @@ I offer my aspiration-list.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:24
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:24
   :END:
 
 
@@ -488,9 +488,9 @@ Is Your gracious Tolerance.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:25
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:25
   :END:
 
 
@@ -507,9 +507,9 @@ Is our darkness-transformer.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:26
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:26
   :END:
 
 
@@ -526,9 +526,9 @@ Is Your Heart-Listener.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:27
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:27
   :END:
 
 
@@ -550,9 +550,9 @@ For Your Forgiveness.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:28
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:28
   :END:
 
 
@@ -569,9 +569,9 @@ Opens my closed heart.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:29
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:29
   :END:
 
 
@@ -588,9 +588,9 @@ Creates receptivity in me.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:30
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:30
   :END:
 
 
@@ -609,9 +609,9 @@ Is unconditional:
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:31
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:31
   :END:
 
 
@@ -628,9 +628,9 @@ You are my heart-fulfilment.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:32
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:32
   :END:
 
 
@@ -649,9 +649,9 @@ Proud of my heart.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:33
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:33
   :END:
 
 
@@ -671,9 +671,9 @@ To please You.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:34
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:34
   :END:
 
 
@@ -692,9 +692,9 @@ As soon as possible.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:35
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:35
   :END:
 
 
@@ -713,9 +713,9 @@ Not mixed with frustrations.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:36
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:36
   :END:
 
 
@@ -736,9 +736,9 @@ And a selflessness-breath.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:37
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:37
   :END:
 
 
@@ -757,9 +757,9 @@ To enjoy You.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:38
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:38
   :END:
 
 
@@ -776,9 +776,9 @@ I am Your Peace-Sky.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:39
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:39
   :END:
 
 
@@ -795,9 +795,9 @@ Your infinite Love tames me.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:40
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:40
   :END:
 
 
@@ -818,9 +818,9 @@ With the fastest opportunity.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:41
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:41
   :END:
 
 
@@ -837,9 +837,9 @@ You encourage my readiness.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:42
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:42
   :END:
 
 
@@ -860,9 +860,9 @@ Dreams.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:43
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:43
   :END:
 
 
@@ -883,9 +883,9 @@ All that I am."
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:44
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:44
   :END:
 
 
@@ -902,9 +902,9 @@ You are Your Mysteries.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:45
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:45
   :END:
 
 
@@ -924,9 +924,9 @@ All-where.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:46
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:46
   :END:
 
 
@@ -943,9 +943,9 @@ You are my promise-radiance.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:47
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:47
   :END:
 
 
@@ -966,9 +966,9 @@ Inside my heart-garden.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:48
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:48
   :END:
 
 
@@ -989,9 +989,9 @@ Of my heart.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:49
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:49
   :END:
 
 
@@ -1010,9 +1010,9 @@ Inseparably one with You.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:50
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:50
   :END:
 
 
@@ -1031,9 +1031,9 @@ I become a peace-sea.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:51
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:51
   :END:
 
 
@@ -1052,9 +1052,9 @@ With a one-way ticket.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:52
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:52
   :END:
 
 
@@ -1071,9 +1071,9 @@ You inspire my obedience.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:53
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:53
   :END:
 
 
@@ -1094,9 +1094,9 @@ Dedication-blossoms.
 * 54.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:54
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:54
   :END:
 
 
@@ -1117,9 +1117,9 @@ Unreservedly.
 * 55.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:55
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:55
   :END:
 
 
@@ -1140,9 +1140,9 @@ Heart.
 * 56.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:56
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:56
   :END:
 
 
@@ -1164,9 +1164,9 @@ Live in You.
 * 57.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:57
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:57
   :END:
 
 
@@ -1185,9 +1185,9 @@ To manifest Your Divinity.
 * 58.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:58
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:58
   :END:
 
 
@@ -1211,9 +1211,9 @@ Only to please You in Your own Way.
 * 59.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GGGG:59
+  :genre: poem
+  :keywords:
+  :cite-key: GGGG:59
   :END:
 
 

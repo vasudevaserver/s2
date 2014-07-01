@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 751
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1989
-  :PUBLISHER:
-  :CITE-KEY: SF-2
-  :GENRE: song
+  :book-number: 751
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1989
+  :publisher:
+  :cite-key: SF-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:71e1
+  :genre: note
+  :cite-key: SF:71e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:71e2
+  :genre: note
+  :cite-key: SF:71e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ashar Shikha Andha Ruddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:71
+  :cite-key: SF:71
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Supta hiyai peyechi khunje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:72
+  :cite-key: SF:72
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ And dormant heart.
 * Hope-Flames I Have Discovered
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:73
+  :cite-key: SF:73
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ And dormant heart.
 * Nil Pakhi Ase Dharanir Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:74
+  :cite-key: SF:74
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Dharar mukti lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:75
+  :cite-key: SF:75
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ For the world’s liberation.
 * On Eternity’s Road
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:76
+  :cite-key: SF:76
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Therefore, am I not going to proceed beyond?
 * Janam Dine Asha Chila Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:77
+  :cite-key: SF:77
   :END:
 
 #+BEGIN_VERSE
@@ -159,10 +159,10 @@ Maran dine shanti rabe sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:78
+  :cite-key: SF:78
   :END:
 
 #+BEGIN_VERSE
@@ -176,10 +176,10 @@ Peace shall accompany my death-departure day.
 * Hope Accompanied My Birth-Arrival Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:79
+  :cite-key: SF:79
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ My death-departure day.
 * E Jibane Shudhu Dao Go Amare Sneha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:80
+  :cite-key: SF:80
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Tomare bhalobasiya
 * Chinta Roge Bhoge Sabai Chinta Roge
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:81
+  :cite-key: SF:81
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Chinta roge
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:82
+  :cite-key: SF:82
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Everybody.
 * Everybody Suffers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:83
+  :cite-key: SF:83
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Everybody.
 * Maha Maya Tomar Utsa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:84
+  :cite-key: SF:84
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ Jante chahi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:85
+  :cite-key: SF:85
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ I want to know your Source.
 * Akutir Shikha Kato Dure Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:86
+  :cite-key: SF:86
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Balo more ogo balo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:87
+  :cite-key: SF:87
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ How far.
 * Dibanishi Hai Jibane Bajai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:88
+  :cite-key: SF:88
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Maraner banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:89
+  :cite-key: SF:89
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ I play on death-flute.
 * Day and Night, Alas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:90
+  :cite-key: SF:90
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ I play on death-flute.
 * Khama Tumi Karbe Amai Samoi Pele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:91
+  :cite-key: SF:91
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Ei barashai benche achi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:92
+  :cite-key: SF:92
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ I am still alive.
 * Kato Kichu Janar Ache Balar Kichu Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:93
+  :cite-key: SF:93
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Balar kichu nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:94
+  :cite-key: SF:94
   :END:
 
 #+BEGIN_VERSE
@@ -449,10 +449,10 @@ Nothing do I have to tell.
 * Kandte Habe Shishur Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:95
+  :cite-key: SF:95
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ Agyanatar bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:96
+  :cite-key: SF:96
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ Ignorance-flooded world.
 * Like a Child I Must Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:97
+  :cite-key: SF:97
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Ignorance-flooded world.
 * Ashar Pradip Kothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:98
+  :cite-key: SF:98
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Tumi balo amai balo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:99
+  :cite-key: SF:99
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ Do tell me, do tell.
 * Kandte Ami Chahi Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:100
+  :cite-key: SF:100
   :END:
 
 #+BEGIN_VERSE
@@ -554,10 +554,10 @@ Haste chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:101
+  :cite-key: SF:101
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ I do not want to smile.
 * I Wish to Cry, Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:102
+  :cite-key: SF:102
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ I do not want to smile.
 * Asi Nai Ami Ei Dharanite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:103
+  :cite-key: SF:103
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Prabhur charane sampite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:104
+  :cite-key: SF:104
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ At my Lord’s Feet.
 * Atiter Sathe Mitali Karite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:105
+  :cite-key: SF:105
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Chahibona ami ar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:106
+  :cite-key: SF:106
   :END:
 
 #+BEGIN_VERSE
@@ -659,10 +659,10 @@ Make friends any more.
 * Hasiya Hasiya Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:107
+  :cite-key: SF:107
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ Amar amire rakhibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:108
+  :cite-key: SF:108
   :END:
 
 #+BEGIN_VERSE
@@ -693,10 +693,10 @@ My ego-‘i’.
 * Smiling and Smiling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:109
+  :cite-key: SF:109
   :END:
 
 #+BEGIN_VERSE
@@ -711,10 +711,10 @@ I shall place my ego-‘i’.
 * Hai Jiban Taru Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:110
+  :cite-key: SF:110
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ Nirash halo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:111
+  :cite-key: SF:111
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ Become dry?
 * Alas, How Has My Life Become Dry?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:112
+  :cite-key: SF:112
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Become dry?
 * Akuti Jibane Akuti Marane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:113
+  :cite-key: SF:113
   :END:
 
 #+BEGIN_VERSE
@@ -778,10 +778,10 @@ Akuti akuti akuti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:114
+  :cite-key: SF:114
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Aspiration, aspiration, aspiration.
 * Aspiration in Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:115
+  :cite-key: SF:115
   :END:
 
 #+BEGIN_VERSE
@@ -814,10 +814,10 @@ Aspiration, aspiration, aspiration.
 * The Blue Bird Enters into the World-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:116
+  :cite-key: SF:116
   :END:
 
 #+BEGIN_VERSE
@@ -832,10 +832,10 @@ For the world’s liberation.
 * Sanataner Pathe Kato Shato Badha Tai Bujhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:117
+  :cite-key: SF:117
   :END:
 
 #+BEGIN_VERSE
@@ -848,10 +848,10 @@ Tai bujhi ki prabhur pane chalbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:118
+  :cite-key: SF:118
   :END:
 
 #+BEGIN_VERSE
@@ -865,10 +865,10 @@ Therefore, am I not going to proceed beyond?
 * O Great Illusion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:119
+  :cite-key: SF:119
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ I want to know your Source.
 * O Aspiration-Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:120
+  :cite-key: SF:120
   :END:
 
 #+BEGIN_VERSE
@@ -900,10 +900,10 @@ How far.
 * When You Have the Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:121
+  :cite-key: SF:121
   :END:
 
 #+BEGIN_VERSE
@@ -919,10 +919,10 @@ I am still alive.
 * Utsaha Diye Jagate Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:122
+  :cite-key: SF:122
   :END:
 
 #+BEGIN_VERSE
@@ -935,10 +935,10 @@ Karibo ajike joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:123
+  :cite-key: SF:123
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ With my offering, my encouragement.
 * I Shall Conquer the World-Heart Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:124
+  :cite-key: SF:124
   :END:
 
 #+BEGIN_VERSE
@@ -969,10 +969,10 @@ With my offering, my encouragement.
 * So Many Things Have I to Learn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:125
+  :cite-key: SF:125
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ Nothing do I have to tell.
 * O Hope-Lamp
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:126
+  :cite-key: SF:126
   :END:
 
 #+BEGIN_VERSE
@@ -1003,10 +1003,10 @@ Do tell me, do tell.
 * Tomar Bijoy Gahite Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:127
+  :cite-key: SF:127
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1019,10 @@ Asiyachi ami jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:128
+  :cite-key: SF:128
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Into the world I came.
 * To Sing Your Victory-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:129
+  :cite-key: SF:129
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Into the world I came.
 * I Have Not Come into this World Only to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:130
+  :cite-key: SF:130
   :END:
 
 #+BEGIN_VERSE
@@ -1073,10 +1073,10 @@ At my Lord’s Feet.
 * With the Past
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:131
+  :cite-key: SF:131
   :END:
 
 #+BEGIN_VERSE
@@ -1090,10 +1090,10 @@ Make friends any more.
 * Tomar Kotha Balte Giye Tomai Chhoto Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:132
+  :cite-key: SF:132
   :END:
 
 #+BEGIN_VERSE
@@ -1106,10 +1106,10 @@ Tomai chhoto kari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:133
+  :cite-key: SF:133
   :END:
 
 #+BEGIN_VERSE
@@ -1123,10 +1123,10 @@ I always underestimate You.
 * When I Speak About You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SF:134
+  :cite-key: SF:134
   :END:
 
 #+BEGIN_VERSE

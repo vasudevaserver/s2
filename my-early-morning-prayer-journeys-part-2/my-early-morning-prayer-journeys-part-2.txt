@@ -9,13 +9,13 @@
 
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1516
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2005
-  :PUBLISHER: Agni Press
-  :CITE-KEY: EMP-2
-  :GENRE: poem, prayer
+  :book-number: 1516
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2005
+  :publisher: Agni Press
+  :cite-key: EMP-2
+  :genre: poem, prayer
   :END:
 
 
@@ -23,8 +23,8 @@
 * Editor's preface
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:78e1
+  :genre: note
+  :cite-key: EMP:78e1
   :END:
 
 
@@ -35,8 +35,8 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:78e2
+  :genre: note
+  :cite-key: EMP:78e2
   :END:
 
 
@@ -47,8 +47,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:78
+  :genre: prayer
+  :cite-key: EMP:78
   :END:
 
 
@@ -65,8 +65,8 @@ No more, no more!
 * 2.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:79
+  :genre: prayer
+  :cite-key: EMP:79
   :END:
 
 
@@ -84,8 +84,8 @@ No more!
 * 3.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:80
+  :genre: prayer
+  :cite-key: EMP:80
   :END:
 
 
@@ -100,8 +100,8 @@ Goes to sleep.
 * 4.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:81
+  :genre: prayer
+  :cite-key: EMP:81
   :END:
 
 
@@ -116,8 +116,8 @@ Wakes up.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:82e1
+  :genre: note
+  :cite-key: EMP:82e1
   :END:
 
 
@@ -128,8 +128,8 @@ Wakes up.
 * 5.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:82
+  :genre: prayer
+  :cite-key: EMP:82
   :END:
 
 
@@ -146,8 +146,8 @@ No fear, no fear!
 * 6.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:83
+  :genre: prayer
+  :cite-key: EMP:83
   :END:
 
 
@@ -166,8 +166,8 @@ No fear, no fear!
 * 7.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:84
+  :genre: prayer
+  :cite-key: EMP:84
   :END:
 
 
@@ -186,8 +186,8 @@ No fear, no fear!
 * 8.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:85
+  :genre: prayer
+  :cite-key: EMP:85
   :END:
 
 
@@ -205,8 +205,8 @@ No fear, no fear!
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:86e1
+  :genre: note
+  :cite-key: EMP:86e1
   :END:
 
 
@@ -217,8 +217,8 @@ No fear, no fear!
 * 9.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:86
+  :genre: prayer
+  :cite-key: EMP:86
   :END:
 
 
@@ -234,8 +234,8 @@ My greatness-mind --
 * 10.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:87
+  :genre: prayer
+  :cite-key: EMP:87
   :END:
 
 
@@ -251,8 +251,8 @@ My goodness-heart --
 * 11.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:88
+  :genre: prayer
+  :cite-key: EMP:88
   :END:
 
 
@@ -268,8 +268,8 @@ Knowledge-fact-collector.
 * 12.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:89
+  :genre: prayer
+  :cite-key: EMP:89
   :END:
 
 
@@ -286,8 +286,8 @@ And God’s Eye-Smiles.
 * 13.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:90
+  :genre: prayer
+  :cite-key: EMP:90
   :END:
 
 
@@ -303,8 +303,8 @@ Prayer-song.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:91e1
+  :genre: note
+  :cite-key: EMP:91e1
   :END:
 
 
@@ -315,8 +315,8 @@ Prayer-song.
 * 14.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:91
+  :genre: prayer
+  :cite-key: EMP:91
   :END:
 
 
@@ -332,8 +332,8 @@ Compassionately regulates
 * 15.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:92
+  :genre: prayer
+  :cite-key: EMP:92
   :END:
 
 
@@ -349,8 +349,8 @@ Of world harmony.
 * 16.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:93
+  :genre: prayer
+  :cite-key: EMP:93
   :END:
 
 
@@ -367,8 +367,8 @@ Is unimaginable.
 * 17.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:94
+  :genre: prayer
+  :cite-key: EMP:94
   :END:
 
 
@@ -386,8 +386,8 @@ His golden Crown.
 * 18.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:95
+  :genre: prayer
+  :cite-key: EMP:95
   :END:
 
 
@@ -420,8 +420,8 @@ Alas, I accept the very sad defeat.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:96e1
+  :genre: note
+  :cite-key: EMP:96e1
   :END:
 
 
@@ -432,8 +432,8 @@ Alas, I accept the very sad defeat.
 * 19.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:96
+  :genre: prayer
+  :cite-key: EMP:96
   :END:
 
 
@@ -449,8 +449,8 @@ Beyond measure.
 * 20.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:97
+  :genre: prayer
+  :cite-key: EMP:97
   :END:
 
 
@@ -466,8 +466,8 @@ To the core.
 * 21.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:98
+  :genre: prayer
+  :cite-key: EMP:98
   :END:
 
 
@@ -483,8 +483,8 @@ With your thick and dark clouds!
 * 22.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:99
+  :genre: prayer
+  :cite-key: EMP:99
   :END:
 
 
@@ -501,8 +501,8 @@ Where?
 * 23.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:100
+  :genre: prayer
+  :cite-key: EMP:100
   :END:
 
 
@@ -518,8 +518,8 @@ Of His Dream.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:101e1
+  :genre: note
+  :cite-key: EMP:101e1
   :END:
 
 
@@ -530,8 +530,8 @@ Of His Dream.
 * 24.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:101
+  :genre: prayer
+  :cite-key: EMP:101
   :END:
 
 
@@ -547,8 +547,8 @@ To Your Will.
 * 25.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:102
+  :genre: prayer
+  :cite-key: EMP:102
   :END:
 
 
@@ -564,8 +564,8 @@ To my Lord’s Heart-Home.
 * 26.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:103
+  :genre: prayer
+  :cite-key: EMP:103
   :END:
 
 
@@ -581,8 +581,8 @@ A new God-discoverer.
 * 27.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:104
+  :genre: prayer
+  :cite-key: EMP:104
   :END:
 
 
@@ -599,8 +599,8 @@ Precisely stand for.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:105e1
+  :genre: note
+  :cite-key: EMP:105e1
   :END:
 
 
@@ -611,8 +611,8 @@ Precisely stand for.
 * 28.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:105
+  :genre: prayer
+  :cite-key: EMP:105
   :END:
 
 
@@ -628,8 +628,8 @@ From the visible enemies.
 * 29.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:106
+  :genre: prayer
+  :cite-key: EMP:106
   :END:
 
 
@@ -645,8 +645,8 @@ From the invisible enemies.
 * 30.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:107
+  :genre: prayer
+  :cite-key: EMP:107
   :END:
 
 
@@ -661,8 +661,8 @@ My heart-flower-fragrance.
 * 31.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:108
+  :genre: prayer
+  :cite-key: EMP:108
   :END:
 
 
@@ -678,8 +678,8 @@ Sweetness unimaginable.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:109e1
+  :genre: note
+  :cite-key: EMP:109e1
   :END:
 
 
@@ -690,8 +690,8 @@ Sweetness unimaginable.
 * 32.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:109
+  :genre: prayer
+  :cite-key: EMP:109
   :END:
 
 
@@ -707,8 +707,8 @@ My supremely divine pride.
 * 33.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:110
+  :genre: prayer
+  :cite-key: EMP:110
   :END:
 
 
@@ -725,8 +725,8 @@ My Heaven-free soul-smiles.
 * 34.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:111
+  :genre: prayer
+  :cite-key: EMP:111
   :END:
 
 
@@ -743,8 +743,8 @@ In sleepless self-offering.
 * 35.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:112
+  :genre: prayer
+  :cite-key: EMP:112
   :END:
 
 
@@ -760,8 +760,8 @@ Through the bondage-cage
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:113e1
+  :genre: note
+  :cite-key: EMP:113e1
   :END:
 
 
@@ -772,8 +772,8 @@ Through the bondage-cage
 * 36.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:113
+  :genre: prayer
+  :cite-key: EMP:113
   :END:
 
 
@@ -789,8 +789,8 @@ An enthusiasm-outburst.
 * 37.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:114
+  :genre: prayer
+  :cite-key: EMP:114
   :END:
 
 
@@ -807,8 +807,8 @@ With our extremely feeble efforts.
 * 38.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:115
+  :genre: prayer
+  :cite-key: EMP:115
   :END:
 
 
@@ -824,8 +824,8 @@ For uncertainty.
 * 39.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:116
+  :genre: prayer
+  :cite-key: EMP:116
   :END:
 
 
@@ -843,8 +843,8 @@ In the very breath of hope.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:117e1
+  :genre: note
+  :cite-key: EMP:117e1
   :END:
 
 
@@ -855,8 +855,8 @@ In the very breath of hope.
 * 40.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:117
+  :genre: prayer
+  :cite-key: EMP:117
   :END:
 
 
@@ -873,8 +873,8 @@ By our inner light.
 * 41.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:118
+  :genre: prayer
+  :cite-key: EMP:118
   :END:
 
 
@@ -889,8 +889,8 @@ Rise to Heaven.
 * 42.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:119
+  :genre: prayer
+  :cite-key: EMP:119
   :END:
 
 
@@ -905,8 +905,8 @@ Touch Mother Earth.
 * 43.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:120
+  :genre: prayer
+  :cite-key: EMP:120
   :END:
 
 
@@ -922,8 +922,8 @@ At the newness-shore.
 * 44.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:121
+  :genre: prayer
+  :cite-key: EMP:121
   :END:
 
 
@@ -940,8 +940,8 @@ The Golden Shore.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:122e1
+  :genre: note
+  :cite-key: EMP:122e1
   :END:
 
 
@@ -952,8 +952,8 @@ The Golden Shore.
 * 45.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:122
+  :genre: prayer
+  :cite-key: EMP:122
   :END:
 
 
@@ -970,8 +970,8 @@ For our mind-division.
 * 46.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:123
+  :genre: prayer
+  :cite-key: EMP:123
   :END:
 
 
@@ -988,8 +988,8 @@ And surrender-songs.
 * 47.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:124
+  :genre: prayer
+  :cite-key: EMP:124
   :END:
 
 
@@ -1005,8 +1005,8 @@ Or from God’s Heart.
 * 48.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:125
+  :genre: prayer
+  :cite-key: EMP:125
   :END:
 
 
@@ -1022,8 +1022,8 @@ And in the heart of space infinite.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:126e1
+  :genre: note
+  :cite-key: EMP:126e1
   :END:
 
 
@@ -1034,8 +1034,8 @@ And in the heart of space infinite.
 * 49.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:126
+  :genre: prayer
+  :cite-key: EMP:126
   :END:
 
 
@@ -1054,8 +1054,8 @@ Or by earth’s heart.
 * 50.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:127
+  :genre: prayer
+  :cite-key: EMP:127
   :END:
 
 
@@ -1071,8 +1071,8 @@ Of God’s supreme Glory.
 * 51.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:128
+  :genre: prayer
+  :cite-key: EMP:128
   :END:
 
 
@@ -1088,8 +1088,8 @@ Towards God-realisation.
 * 52.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:129
+  :genre: prayer
+  :cite-key: EMP:129
   :END:
 
 
@@ -1104,8 +1104,8 @@ Makes my heart beautiful.
 * 53.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:130
+  :genre: prayer
+  :cite-key: EMP:130
   :END:
 
 
@@ -1120,8 +1120,8 @@ Makes my life peaceful.
 * 54.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:131
+  :genre: prayer
+  :cite-key: EMP:131
   :END:
 
 
@@ -1137,8 +1137,8 @@ Of a new creation.
 * 55.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:132
+  :genre: prayer
+  :cite-key: EMP:132
   :END:
 
 
@@ -1154,8 +1154,8 @@ God’s Transcendental Delight.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:133e1
+  :genre: note
+  :cite-key: EMP:133e1
   :END:
 
 
@@ -1166,8 +1166,8 @@ God’s Transcendental Delight.
 * 56.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:133
+  :genre: prayer
+  :cite-key: EMP:133
   :END:
 
 
@@ -1183,8 +1183,8 @@ In every human being.
 * 57.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:134
+  :genre: prayer
+  :cite-key: EMP:134
   :END:
 
 
@@ -1201,8 +1201,8 @@ Any more.
 * 58.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:135
+  :genre: prayer
+  :cite-key: EMP:135
   :END:
 
 
@@ -1219,8 +1219,8 @@ And in my dedication-life.
 * 59.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:136
+  :genre: prayer
+  :cite-key: EMP:136
   :END:
 
 
@@ -1236,8 +1236,8 @@ My Lord’s Heart-Home.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:137e1
+  :genre: note
+  :cite-key: EMP:137e1
   :END:
 
 
@@ -1248,8 +1248,8 @@ My Lord’s Heart-Home.
 * 60.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:137
+  :genre: prayer
+  :cite-key: EMP:137
   :END:
 
 
@@ -1267,8 +1267,8 @@ For our meditations to be deep.
 * 61.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:138
+  :genre: prayer
+  :cite-key: EMP:138
   :END:
 
 
@@ -1285,8 +1285,8 @@ Of the Inner Pilot.
 * 62.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:139
+  :genre: prayer
+  :cite-key: EMP:139
   :END:
 
 
@@ -1301,8 +1301,8 @@ Counts on our self-offering.
 * 63.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:140
+  :genre: prayer
+  :cite-key: EMP:140
   :END:
 
 
@@ -1320,8 +1320,8 @@ Cheerful and self-giving.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:141e1
+  :genre: note
+  :cite-key: EMP:141e1
   :END:
 
 
@@ -1332,8 +1332,8 @@ Cheerful and self-giving.
 * 64.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:141
+  :genre: prayer
+  :cite-key: EMP:141
   :END:
 
 
@@ -1349,8 +1349,8 @@ Have another name:
 * 65.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:142
+  :genre: prayer
+  :cite-key: EMP:142
   :END:
 
 
@@ -1366,8 +1366,8 @@ Have another name:
 * 66.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:143
+  :genre: prayer
+  :cite-key: EMP:143
   :END:
 
 
@@ -1383,8 +1383,8 @@ Have another name:
 * 67.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:144
+  :genre: prayer
+  :cite-key: EMP:144
   :END:
 
 
@@ -1400,8 +1400,8 @@ Have another name:
 * 68.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:145
+  :genre: prayer
+  :cite-key: EMP:145
   :END:
 
 
@@ -1417,8 +1417,8 @@ Have another name:
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:146e1
+  :genre: note
+  :cite-key: EMP:146e1
   :END:
 
 
@@ -1429,8 +1429,8 @@ Have another name:
 * 69.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:146
+  :genre: prayer
+  :cite-key: EMP:146
   :END:
 
 
@@ -1446,8 +1446,8 @@ Spontaneous and continuous.
 * 70.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:147
+  :genre: prayer
+  :cite-key: EMP:147
   :END:
 
 
@@ -1465,8 +1465,8 @@ Such as my desire-life.
 * 71.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:148
+  :genre: prayer
+  :cite-key: EMP:148
   :END:
 
 
@@ -1485,8 +1485,8 @@ Nothing for the world.
 * 72.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:149
+  :genre: prayer
+  :cite-key: EMP:149
   :END:
 
 
@@ -1504,8 +1504,8 @@ While I meditate.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:150e1
+  :genre: note
+  :cite-key: EMP:150e1
   :END:
 
 
@@ -1516,8 +1516,8 @@ While I meditate.
 * 73.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:150
+  :genre: prayer
+  :cite-key: EMP:150
   :END:
 
 
@@ -1533,8 +1533,8 @@ I am running!
 * 74.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:151
+  :genre: prayer
+  :cite-key: EMP:151
   :END:
 
 
@@ -1550,8 +1550,8 @@ I am running!
 * 75.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:152
+  :genre: prayer
+  :cite-key: EMP:152
   :END:
 
 
@@ -1567,8 +1567,8 @@ I am running!
 * 76.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:153
+  :genre: prayer
+  :cite-key: EMP:153
   :END:
 
 
@@ -1585,8 +1585,8 @@ A heart-deer-speed.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:154e1
+  :genre: note
+  :cite-key: EMP:154e1
   :END:
 
 
@@ -1597,8 +1597,8 @@ A heart-deer-speed.
 * 77.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:154
+  :genre: prayer
+  :cite-key: EMP:154
   :END:
 
 
@@ -1616,8 +1616,8 @@ My God-dependence.
 * 78.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:155
+  :genre: prayer
+  :cite-key: EMP:155
   :END:
 
 
@@ -1633,8 +1633,8 @@ Of ever-blossoming smile.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:156e1
+  :genre: note
+  :cite-key: EMP:156e1
   :END:
 
 
@@ -1645,8 +1645,8 @@ Of ever-blossoming smile.
 * 79.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:156
+  :genre: prayer
+  :cite-key: EMP:156
   :END:
 
 
@@ -1663,8 +1663,8 @@ Within every heart.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:157e1
+  :genre: note
+  :cite-key: EMP:157e1
   :END:
 
 
@@ -1675,8 +1675,8 @@ Within every heart.
 * 80.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:157
+  :genre: prayer
+  :cite-key: EMP:157
   :END:
 
 
@@ -1693,8 +1693,8 @@ Is a grave failure.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:158e1
+  :genre: note
+  :cite-key: EMP:158e1
   :END:
 
 
@@ -1705,8 +1705,8 @@ Is a grave failure.
 * 81.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:158
+  :genre: prayer
+  :cite-key: EMP:158
   :END:
 
 
@@ -1724,8 +1724,8 @@ The hustle and bustle of life.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:159e1
+  :genre: note
+  :cite-key: EMP:159e1
   :END:
 
 
@@ -1749,8 +1749,8 @@ A manifested Reality.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EMP:159e2
+  :genre: note
+  :cite-key: EMP:159e2
   :END:
 
 
@@ -1761,8 +1761,8 @@ A manifested Reality.
 * 83.
 
   :PROPERTIES:
-  :GENRE: prayer
-  :CITE-KEY: EMP:159
+  :genre: prayer
+  :cite-key: EMP:159
   :END:
 
 

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 978
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1994
-  :PUBLISHER:
-  :CITE-KEY: SDDR
-  :GENRE: song
+  :book-number: 978
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1994
+  :publisher:
+  :cite-key: SDDR
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SDDR:1e1
+  :genre: note
+  :cite-key: SDDR:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SDDR:1e2
+  :genre: note
+  :cite-key: SDDR:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Andhar Rate Asani Pathe Chalbo Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:1
+  :cite-key: SDDR:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Andhar rate asani pate chalbo mago ami tomar sathe
 * Sukher Dine Dukher Rate Tomai Janai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:2
+  :cite-key: SDDR:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Sukher dine dukher rate tomai janai ami pranati
 * Shanto Amar Man Bhitare Bahire Peyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:3
+  :cite-key: SDDR:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Shanto amar man bhitare bahire peyechi ajike paramananda dhan
 * Subha Dine Subha Khane Maraner Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:4
+  :cite-key: SDDR:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Subha dine subha khane maraner habe je maran
 * Bahubar Ami Jiban Samare Karechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:5
+  :cite-key: SDDR:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ Bahubar ami jiban samare karechi shikar har
 * Bahubar Ami Jiban Ahabe Karechi Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:6
+  :cite-key: SDDR:6
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Bahubar ami jiban ahabe karechi amare joy
 * Jibane Kandibo Marane Hasibo Ei Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:7
+  :cite-key: SDDR:7
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Ei asha niye rahibo
 * Samukhe Amar Ajanar Path Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:8
+  :cite-key: SDDR:8
   :END:
 
 #+BEGIN_VERSE
@@ -171,10 +171,10 @@ Kemane pujibo hiya manorath
 * Phule Phule Ghure Berai Mor Anander
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:9
+  :cite-key: SDDR:9
   :END:
 
 #+BEGIN_VERSE
@@ -188,10 +188,10 @@ Mor anander kabhu sima nai
 * Chander Hasi Bhalobasi Nijhum Rate Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:10
+  :cite-key: SDDR:10
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Chander hasi bhalobasi nijhum rate hiya pure
 * Kandbo Ami Mayer Mato Hasbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1988
-  :CITE-KEY: SDDR:11
+  :cite-key: SDDR:11
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ Nashbo ami parir mato
 * Baro Byatha Diye Dure Chale Gele Baro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:12
+  :cite-key: SDDR:12
   :END:
 
 #+BEGIN_VERSE
@@ -238,10 +238,10 @@ Baro byatha diye dure chale gele baro byatha diye aji
 * Dukher Rate Sukher Giti Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:13
+  :cite-key: SDDR:13
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ Dukher rate sukher giti keman kare gaibo
 * Namra Shire Tomar Paye Basbo Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:14
+  :cite-key: SDDR:14
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ Namra shire tomar paye basbo pita basbo
 * Bhakti Bhare Tomai Pita Dakbo Aji Dakbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:15
+  :cite-key: SDDR:15
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Bhakti bhare tomai pita dakbo aji dakbo
 * Phulla Chitte Gahi Jena Tomar Bijoy Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:16
+  :cite-key: SDDR:16
   :END:
 
 #+BEGIN_VERSE
@@ -302,10 +302,10 @@ Phulla chitte gahi jena tomar bijoy giti
 * Maran Rate Puta Hiyai Dibo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:17
+  :cite-key: SDDR:17
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ Maran rate puta hiyai dibo tomai kritagyatar har
 * Asha Tari Boye Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:18
+  :cite-key: SDDR:18
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Asha tari boye chale ati druta bega chale jabo ami sudure
 * Atma Tyager Giti Aji Hriday Amar Gaibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:19
+  :cite-key: SDDR:19
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Atma tyager giti aji hriday amar gaibe shudhu gaibe
 * Ajanare Bese Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1988
-  :CITE-KEY: SDDR:20
+  :cite-key: SDDR:20
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ Aji hiya bhare
 * Bidai Bela Gaibo Shudhu Kritagyatar Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:21
+  :cite-key: SDDR:21
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Bidai bela gaibo shudhu kritagyatar giti
 * Asha Tari Beye Jabo Ami Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:22
+  :cite-key: SDDR:22
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Asha tari beye jabo ami chale rupantarer bese
 * Tomar Khamar Bale Ami Baste Pari Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:23
+  :cite-key: SDDR:23
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Tomar khamar bale ami baste pari tomar charan tale
 * Sabar Majhe Dekhte Chahi Amar Kripamoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:24
+  :cite-key: SDDR:24
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Sabar majhe dekhte chahi amar kripamoyi mayer ankhi
 * Nirabe Rakhibo Taba Pada Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:25
+  :cite-key: SDDR:25
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ Nirabe rakhibo taba pada tale amar kusum hiya
 * Dharanite Jara Ase Asha Maru Bhume
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:26
+  :cite-key: SDDR:26
   :END:
 
 #+BEGIN_VERSE
@@ -464,10 +464,10 @@ Dharanite jara ase asha maru bhume shudhu ghuriya berai
 * Bhore Sanjhe Madhur Sure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:27
+  :cite-key: SDDR:27
   :END:
 
 #+BEGIN_VERSE
@@ -480,10 +480,10 @@ Bhore sanjhe madhur sure dake asha pakhi
 * Dakite Chahina Pujite Chahina Chahije
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:28
+  :cite-key: SDDR:28
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Dakite chahina pujite chahina chahije kebal bandhite
 * Phutle Chahi Phuler Mato Dibanishi Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:29
+  :cite-key: SDDR:29
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Phutle chahi phuler mato dibanishi hiya kanane
 * Keno Ami Kabhu Nahi Kandi Ar Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1988
-  :CITE-KEY: SDDR:30
+  :cite-key: SDDR:30
   :END:
 
 #+BEGIN_VERSE
@@ -528,10 +528,10 @@ Keno ami kabhu nahi kandi ar amar amire nashite
 * Bhalo Lage Tomar Hasi Bhalo Lage Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:31
+  :cite-key: SDDR:31
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ Bhalo lage tomar swapan bhalo lage tomar bachan
 * Amar Sakal Moher Bandhan Tomar Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:32
+  :cite-key: SDDR:32
   :END:
 
 #+BEGIN_VERSE
@@ -561,10 +561,10 @@ Amar sakal moher bandhan tomar paye rakhbo aji rakhbo
 * Maner Kamana Hiyar Jatana Ek Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:33
+  :cite-key: SDDR:33
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Maner kamana hiyar jatana ek sathe chale jani
 * Ei Dharanite Asi Barebar Muktir Giti Gahite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:34
+  :cite-key: SDDR:34
   :END:
 
 #+BEGIN_VERSE
@@ -593,10 +593,10 @@ Ei dharanite asi barebar muktir giti gahite
 * Chokher Jale Pujbona Ar Pujbona Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:35
+  :cite-key: SDDR:35
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ Ahoytuki premer bale pujbo tomai pujbo
 * Sapta Rishi Dake Amai Sapta Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:36
+  :cite-key: SDDR:36
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Sapta rishi dake amai sapta swapan gane amar mauna dhyane
 * Tripti Lagi Kena Ami Ghure Berai Trisha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:37
+  :cite-key: SDDR:37
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Tripti lagi kena ami ghure berai trisha maru bhume
 * Jekhane Jai Sekhane Pai Tomai Kripamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: SDDR:38
+  :cite-key: SDDR:38
   :END:
 
 #+BEGIN_VERSE
@@ -659,10 +659,10 @@ Bishwa prabhur karun madhur barabhoi
 * Amar Supta Hiyar Akashe Nai Je Surjya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:39
+  :cite-key: SDDR:39
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ Amar supta hiyar akashe nai je surjya nai je chandra nai je tarika
 * Nil Akashe Nil Sagare Nil Pahare Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:40
+  :cite-key: SDDR:40
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Nil akashe nil sagare nil pahare tomai khunji mari
 * Bedanai Bhara Antara Khani Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:41
+  :cite-key: SDDR:41
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Bedanai bhara antara khani tomare sampite chahigo
 * Kusuma Surabhi Dake Dibanishi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:42
+  :cite-key: SDDR:42
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Kusuma surabhi dake dibanishi amar hiyar sunil pakhire
 * Sudur Desher Nirabata Dekhte Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:43
+  :cite-key: SDDR:43
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ Sudur desher nirabata dekhte tomai pete tomai baste tomai bhalo kandi ami kandi
 * Hiyar Duar Rakhbo Khule Maner Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:44
+  :cite-key: SDDR:44
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ Hiyar duar rakhbo khule maner duar rakhbo ami pete tomar darashan
 * Chapal Paran Shanti Labhibe Ei Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:45
+  :cite-key: SDDR:45
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ Chapal paran shanti labhibe ei asha niye abanite benche achi
 * Hiyar Kanna Thamile Kadapi Bidhata Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:46
+  :cite-key: SDDR:46
   :END:
 
 #+BEGIN_VERSE
@@ -787,10 +787,10 @@ Hiyar kanna thamile kadapi bidhata amar jabe dure chale
 * Keman Kare Bhakti Pabo Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:47
+  :cite-key: SDDR:47
   :END:
 
 #+BEGIN_VERSE
@@ -804,10 +804,10 @@ Keman kare mor amire nahi jani khunje pabo
 * Ashar Pradip Nibe Gelo Aj Sara Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: SDDR:48
+  :cite-key: SDDR:48
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Ashar pradip nibe gelo aj sara jibaner ashar pradip mor
 * Jedike Jaibo Sedike Kebal Taba Jaya Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:49
+  :cite-key: SDDR:49
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +836,10 @@ Jedike jaibo sedike kebal taba jaya giti gahibo
 * Urdhe Dyuloke Abhijan Nimne Bhuloke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:50
+  :cite-key: SDDR:50
   :END:
 
 #+BEGIN_VERSE
@@ -852,10 +852,10 @@ Urdhe dyuloke abhijan nimne bhuloke abhijan abhijan chahidhare abhijan
 * Shatek Juger Ashar Setu Bhangbena Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:51
+  :cite-key: SDDR:51
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ Shatek juger ashar setu bhangbena mor bhangbena
 * Hiyar Katha Balte Giye Dilam Tomai Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:52
+  :cite-key: SDDR:52
   :END:
 
 #+BEGIN_VERSE
@@ -884,10 +884,10 @@ Hiyar katha balte giye dilam tomai maner bachalata
 * Ke Amare Kahe Dibase Nishite Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:53
+  :cite-key: SDDR:53
   :END:
 
 #+BEGIN_VERSE
@@ -900,10 +900,10 @@ Ke amare kahe dibase nishite hiyar ankhire basite bhalo
 * Antara Tale Heri Shatadale Paramananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:54
+  :cite-key: SDDR:54
   :END:
 
 #+BEGIN_VERSE
@@ -916,10 +916,10 @@ Antara tale heri shatadale paramananda pelam
 * Ghumer Ghore Thakbona Ar Alor Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:55
+  :cite-key: SDDR:55
   :END:
 
 #+BEGIN_VERSE
@@ -932,10 +932,10 @@ Ghumer ghore thakbona ar alor plaban bhore
 * Jiban Katai Dibanishi Hai Andhiyare Bese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:56
+  :cite-key: SDDR:56
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ Jiban katai dibanishi hai andhiyare bese bhalo
 * Shanti Sagare Santar Katite Keno Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:57
+  :cite-key: SDDR:57
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ Shanti sagare santar katite keno je kari go bhoy
 * Shanti Nadir Tire Chapalata Mane Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:58
+  :cite-key: SDDR:58
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Shanti nadir tire chapalata mane niye asi ami bare bare
 * Rupantare Deshe Jete Karbona Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:59
+  :cite-key: SDDR:59
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ Rupantare deshe jete karbona bhoy karbona ar
 * Nirab Haye Urbo Ami Nil Akashe Nil Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:60
+  :cite-key: SDDR:60
   :END:
 
 #+BEGIN_VERSE
@@ -1012,10 +1012,10 @@ Nirab haye urbo ami nil akashe nil pakhi sathe
 * Sabar Sathe Bhore Sanjhe Gaite Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1988
-  :CITE-KEY: SDDR:61
+  :cite-key: SDDR:61
   :END:
 
 #+BEGIN_VERSE

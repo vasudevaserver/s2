@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0262
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CFCB
-  :GENRE: discourse, meeting
-  :KEYWORDS:
+  :book-number: 0262
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: CFCB
+  :genre: discourse, meeting
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I Compassion-Father, Champion-Brother, Perfection-Friend
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CFCB:1
+  :genre: discourse
+  :keywords:
+  :cite-key: CFCB:1
   :END:
 
 
@@ -47,9 +47,9 @@ The Pope calls the United Nations a school that teaches man peace. According to 
 * Part II
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: CFCB:2
+  :genre: meeting
+  :keywords:
+  :cite-key: CFCB:2
   :END:
 
 
@@ -98,9 +98,9 @@ We bowed with folded hands and departed.
 * Part III
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: CFCB:3
+  :genre: meeting
+  :keywords:
+  :cite-key: CFCB:3
   :END:
 
 
@@ -125,9 +125,9 @@ Then he stretched out his hands. One of his attendants gave him a medallion. The
 * Part IV
 
   :PROPERTIES:
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: CFCB:4
+  :genre: meeting
+  :keywords:
+  :cite-key: CFCB:4
   :END:
 
 

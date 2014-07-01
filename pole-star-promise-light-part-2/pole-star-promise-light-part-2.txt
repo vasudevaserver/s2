@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 243
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1977
-  :PUBLISHER:
-  :CITE-KEY: PSPL-2
-  :GENRE: song
+  :book-number: 243
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1977
+  :publisher:
+  :cite-key: PSPL-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PSPL:101e1
+  :genre: note
+  :cite-key: PSPL:101e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PSPL:101e2
+  :genre: note
+  :cite-key: PSPL:101e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bahirer Hasi Nahi Jachi Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:101
+  :cite-key: PSPL:101
   :END:
 
 #+BEGIN_VERSE
@@ -63,10 +63,10 @@ Phire jena pai pujite tomai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:102
+  :cite-key: PSPL:102
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Sincerely and devotedly, in my inner life.
 * Swarup Janite Esechhi E Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:103
+  :cite-key: PSPL:103
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Dekha dao more ogo aparup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:104
+  :cite-key: PSPL:104
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ O Beauty Transcendental, do illumine my heart
 * Shukla Rater Swapane Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:105
+  :cite-key: PSPL:105
   :END:
 
 #+BEGIN_VERSE
@@ -156,10 +156,10 @@ Andhar prane amai bandhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:106
+  :cite-key: PSPL:106
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ While I am trying to free myself.
 * Jaha Chai Nahi Pai Tabu Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:107
+  :cite-key: PSPL:107
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ Nanda ankhi mani
 * Sabar Age Habo Ami Tomar Priyatam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:108
+  :cite-key: PSPL:108
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ Tomar lagi dharar buke amar asa jaowa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:109
+  :cite-key: PSPL:109
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ I come into the world-arena again and again.
 * Hasi Nahi Jachi Jachi Shudhu Priya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:110
+  :cite-key: PSPL:110
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Bastab prane rakhiyo amare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:111
+  :cite-key: PSPL:111
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ And keep me not in the world of imagination-illusion.
 * Gyan Parabare Dube Jabe Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:112
+  :cite-key: PSPL:112
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Dayamoy tumi ati karunai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:113
+  :cite-key: PSPL:113
   :END:
 
 #+BEGIN_VERSE
@@ -323,10 +323,10 @@ Of Your Compassion-Sky.
 * Sab Abhiman Bhenge Dao Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:114
+  :cite-key: PSPL:114
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ E gopan katha karibe amar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:115
+  :cite-key: PSPL:115
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ In the twinkling of an eye.
 * Rahiyachho Ati Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:116
+  :cite-key: PSPL:116
   :END:
 
 #+BEGIN_VERSE
@@ -392,10 +392,10 @@ Sanpi jena hiya mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:117
+  :cite-key: PSPL:117
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ At every moment to You, to You alone.
 * Tomar Dake Diyna Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:118
+  :cite-key: PSPL:118
   :END:
 
 #+BEGIN_VERSE
@@ -442,10 +442,10 @@ Jani ami gopan katha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:119
+  :cite-key: PSPL:119
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ Do console and illumine my heart of suffering.
 * Swapane Shuni Hriday Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:120
+  :cite-key: PSPL:120
   :END:
 
 #+BEGIN_VERSE
@@ -491,10 +491,10 @@ Ogo arup amar majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:121
+  :cite-key: PSPL:121
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ At every moment of my wakeful life.
 * Dukher Dine Nitya Tomai Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:122
+  :cite-key: PSPL:122
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ Kripamoyi ogo dukha jaya
 * Ami Khunji Amai Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:123
+  :cite-key: PSPL:123
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Thakbena ar moher bandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:124
+  :cite-key: PSPL:124
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ I know, I know.
 * Urdhe Chhila Sakal Kichhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:125
+  :cite-key: PSPL:125
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Tomar kachhe rakho mago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:126
+  :cite-key: PSPL:126
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ At Your Lotus-Feet.
 * Nirabadhi Mago More Tumi Karo Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:127
+  :cite-key: PSPL:127
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Antare mor gyana rabi dyuti jwalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:128
+  :cite-key: PSPL:128
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Inside the depth of my crying heart.
 * Dhulikana Ami Nikhil Dharar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:129
+  :cite-key: PSPL:129
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Harashe bishade jay-parajaye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:130
+  :cite-key: PSPL:130
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +721,10 @@ In all happiness and sorrows.
 * Chira Agyata Ogo Dui Shishu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:131
+  :cite-key: PSPL:131
   :END:
 
 #+BEGIN_VERSE
@@ -743,10 +743,10 @@ Janaite chaha bujhaite chaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:132
+  :cite-key: PSPL:132
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ Eternally sacred and secret message.
 * Manaber Bhalobasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:133
+  :cite-key: PSPL:133
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Pran nave adharar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:134
+  :cite-key: PSPL:134
   :END:
 
 #+BEGIN_VERSE
@@ -813,10 +813,10 @@ Then only can we have abiding joy in our
 * Nahi Jachi More Basanai Bhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:135
+  :cite-key: PSPL:135
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ Tomar bijoy pratishtha lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:136
+  :cite-key: PSPL:136
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ We are all wide awake.
 * Satya Senani Amara Sabai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:137
+  :cite-key: PSPL:137
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Sathi narayan jagat janani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:138
+  :cite-key: PSPL:138
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ And we are nothing but consciousness-light.
 * Jachi Mora Hasi Sei Shudhu Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:139
+  :cite-key: PSPL:139
   :END:
 
 #+BEGIN_VERSE
@@ -922,10 +922,10 @@ Je hasir prane raje amarar alo banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:140
+  :cite-key: PSPL:140
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ Of earth’s fulfilment-day.
 * Tomar Sneha Jachi Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:141
+  :cite-key: PSPL:141
   :END:
 
 #+BEGIN_VERSE
@@ -959,10 +959,10 @@ Tomar asim sneha majhe nitya jena nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:142
+  :cite-key: PSPL:142
   :END:
 
 #+BEGIN_VERSE
@@ -982,10 +982,10 @@ Of Your Affection-Light.
 * Shunya Tumi Maha Shunya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:143
+  :cite-key: PSPL:143
   :END:
 
 #+BEGIN_VERSE
@@ -1004,10 +1004,10 @@ Jay-parajay timir bhati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:144
+  :cite-key: PSPL:144
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ In you is the confidence-perfection of Heaven-Reality.
 * Sukhi Sei Chira Sukhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:145
+  :cite-key: PSPL:145
   :END:
 
 #+BEGIN_VERSE
@@ -1048,10 +1048,10 @@ Puta tar hiya majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:146
+  :cite-key: PSPL:146
   :END:
 
 #+BEGIN_VERSE
@@ -1070,10 +1070,10 @@ You place Your garland of Victory.
 * Bhabi Jakhan Tomai Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:147
+  :cite-key: PSPL:147
   :END:
 
 #+BEGIN_VERSE
@@ -1091,10 +1091,10 @@ Man diye tui karbi more joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:148
+  :cite-key: PSPL:148
   :END:
 
 #+BEGIN_VERSE
@@ -1118,10 +1118,10 @@ Only with your devotion-light.”
 * Akash Amai Dake Nirabadhi Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:149
+  :cite-key: PSPL:149
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ Jiban ante shesh nati mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:150
+  :cite-key: PSPL:150
   :END:
 
 #+BEGIN_VERSE
@@ -1166,10 +1166,10 @@ Fulfil my promise.
 * E Jiban Khani Tomare Sampite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:151
+  :cite-key: PSPL:151
   :END:
 
 #+BEGIN_VERSE
@@ -1184,10 +1184,10 @@ Paini tomar darashan priya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:152
+  :cite-key: PSPL:152
   :END:
 
 #+BEGIN_VERSE
@@ -1207,10 +1207,10 @@ To You alone.
 * Abhinaba Tomar Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:153
+  :cite-key: PSPL:153
   :END:
 
 #+BEGIN_VERSE
@@ -1223,10 +1223,10 @@ Baran karuk phullaprane amar jiban bhela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:154
+  :cite-key: PSPL:154
   :END:
 
 #+BEGIN_VERSE
@@ -1247,10 +1247,10 @@ In the sea of Your Eternity’s cosmic Game.
 * Sab Chaowa Mor Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:155
+  :cite-key: PSPL:155
   :END:
 
 #+BEGIN_VERSE
@@ -1263,10 +1263,10 @@ Khudra prane gyan diye mor hath dharo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:156
+  :cite-key: PSPL:156
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ And make me vast and infinite.
 * Ogo Amar Maner Baner Nil Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:157
+  :cite-key: PSPL:157
   :END:
 
 #+BEGIN_VERSE
@@ -1304,10 +1304,10 @@ Sedin habe tomar amar apurba bijoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:158
+  :cite-key: PSPL:158
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ Will have no parallel.
 * Kena Bhase Mor E Khina Parane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:159
+  :cite-key: PSPL:159
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Rangin swapan ogo priyatam
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:160
+  :cite-key: PSPL:160
   :END:
 
 #+BEGIN_VERSE
@@ -1379,10 +1379,10 @@ Illumine me and make me immortal?
 * Khulo Amar Hriday Duar Khulo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:161
+  :cite-key: PSPL:161
   :END:
 
 #+BEGIN_VERSE
@@ -1401,10 +1401,10 @@ Kripar bhare bhangichho mor sakal abhimane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:162
+  :cite-key: PSPL:162
   :END:
 
 #+BEGIN_VERSE
@@ -1430,10 +1430,10 @@ My ignorance-i.
 * Janale Mor Man Gabhire Mahat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:163
+  :cite-key: PSPL:163
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ Bipariter sakal lila nritye taba raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:164
+  :cite-key: PSPL:164
   :END:
 
 #+BEGIN_VERSE
@@ -1473,10 +1473,10 @@ The opposites always dance in You.
 * Hasi Mago Naiba Pelam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:165
+  :cite-key: PSPL:165
   :END:
 
 #+BEGIN_VERSE
@@ -1493,10 +1493,10 @@ Kon sudure mago tumi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:166
+  :cite-key: PSPL:166
   :END:
 
 #+BEGIN_VERSE
@@ -1521,10 +1521,10 @@ I wish to know You totally, intimately,
 * Asim Tomar Sima Karagare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:167
+  :cite-key: PSPL:167
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ Janao ebar swarup moder
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:168
+  :cite-key: PSPL:168
   :END:
 
 #+BEGIN_VERSE
@@ -1561,10 +1561,10 @@ Do let us discover our true form.
 * Naiba Jani Dibya Bhasha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:169
+  :cite-key: PSPL:169
   :END:
 
 #+BEGIN_VERSE
@@ -1579,10 +1579,10 @@ Tumi je mago karunamoyi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:170
+  :cite-key: PSPL:170
   :END:
 
 #+BEGIN_VERSE
@@ -1604,10 +1604,10 @@ Will illumine me within and without.
 * Kotha Tumi Bahudin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:171
+  :cite-key: PSPL:171
   :END:
 
 #+BEGIN_VERSE
@@ -1626,10 +1626,10 @@ Eso phire eso phire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:172
+  :cite-key: PSPL:172
   :END:
 
 #+BEGIN_VERSE
@@ -1650,10 +1650,10 @@ To the temple of your body.
 * Bishwa Jaha Dite Pare Uchchha Ta Je Ati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:173
+  :cite-key: PSPL:173
   :END:
 
 #+BEGIN_VERSE
@@ -1666,10 +1666,10 @@ Swarup shudhu jante chahi haye martya pathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:174
+  :cite-key: PSPL:174
   :END:
 
 #+BEGIN_VERSE
@@ -1689,10 +1689,10 @@ Walking along the path of Eternity.
 * Shunya Bakke Biraje Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:175
+  :cite-key: PSPL:175
   :END:
 
 #+BEGIN_VERSE
@@ -1707,10 +1707,10 @@ Purna ghoshichhe srashta bijoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:176
+  :cite-key: PSPL:176
   :END:
 
 #+BEGIN_VERSE
@@ -1730,10 +1730,10 @@ Of the Absolute Supreme.
 * Oi Je Heri Tomar Mago Drishti Manoram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:177
+  :cite-key: PSPL:177
   :END:
 
 #+BEGIN_VERSE
@@ -1748,10 +1748,10 @@ Amai karo tomar kabi tomar priyatam
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:178
+  :cite-key: PSPL:178
   :END:
 
 #+BEGIN_VERSE
@@ -1770,10 +1770,10 @@ Now only make me Your seer-poet
 * Diner Alo Dakena Jare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:179
+  :cite-key: PSPL:179
   :END:
 
 #+BEGIN_VERSE
@@ -1788,10 +1788,10 @@ Satya jare deina dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:180
+  :cite-key: PSPL:180
   :END:
 
 #+BEGIN_VERSE
@@ -1813,10 +1813,10 @@ By the Truth-Light.
 * Aghat Haniya Parane Amar (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:181
+  :cite-key: PSPL:181
   :END:
 
 #+BEGIN_VERSE
@@ -1831,10 +1831,10 @@ Mithya bijoyi hate habe mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:182
+  :cite-key: PSPL:182
   :END:
 
 #+BEGIN_VERSE
@@ -1858,10 +1858,10 @@ In the world of truth.”
 * Asimer Dake Nayan Melichhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:183
+  :cite-key: PSPL:183
   :END:
 
 #+BEGIN_VERSE
@@ -1876,10 +1876,10 @@ Shashwata pran lila sathi mor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:184
+  :cite-key: PSPL:184
   :END:
 
 #+BEGIN_VERSE
@@ -1898,10 +1898,10 @@ Of Eternity’s Life-Breath.
 * Pritir Bandhane Khina E Parane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:185
+  :cite-key: PSPL:185
   :END:
 
 #+BEGIN_VERSE
@@ -1920,10 +1920,10 @@ Shudhu badha pao taba madhu dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:186
+  :cite-key: PSPL:186
   :END:
 
 #+BEGIN_VERSE
@@ -1945,10 +1945,10 @@ And get no response from my closed heart.
 * Nai Je Keha Mita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:187
+  :cite-key: PSPL:187
   :END:
 
 #+BEGIN_VERSE
@@ -1963,10 +1963,10 @@ Jachi shudhu tomar paye jiban sheshe thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:188
+  :cite-key: PSPL:188
   :END:
 
 #+BEGIN_VERSE
@@ -1988,10 +1988,10 @@ I want to be at Your Feet divine.
 * Jani Ami Jani Ami Amar Sandhani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:189
+  :cite-key: PSPL:189
   :END:
 
 #+BEGIN_VERSE
@@ -2005,10 +2005,10 @@ Simar majhe pabo tomar dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:190
+  :cite-key: PSPL:190
   :END:
 
 #+BEGIN_VERSE
@@ -2027,10 +2027,10 @@ O Infinity and Infinity’s immortal Life.
 * Nirabata Nirabata Asimata Asimata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:191
+  :cite-key: PSPL:191
   :END:
 
 #+BEGIN_VERSE
@@ -2044,10 +2044,10 @@ Hok abasan khudra praner chapalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:192
+  :cite-key: PSPL:192
   :END:
 
 #+BEGIN_VERSE
@@ -2068,10 +2068,10 @@ Silence eternal.
 * Khama Tumi Karbe More Jani Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:193
+  :cite-key: PSPL:193
   :END:
 
 #+BEGIN_VERSE
@@ -2086,10 +2086,10 @@ Baran kare nibe jani amar sakal kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:194
+  :cite-key: PSPL:194
   :END:
 
 #+BEGIN_VERSE
@@ -2112,10 +2112,10 @@ Make me immortal.
 * Sathi Amar Bipul Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:195
+  :cite-key: PSPL:195
   :END:
 
 #+BEGIN_VERSE
@@ -2130,10 +2130,10 @@ Chapal chatul prane amar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:196
+  :cite-key: PSPL:196
   :END:
 
 #+BEGIN_VERSE
@@ -2151,10 +2151,10 @@ I see the Liberation-flood of the
 * Ami Nai Keha Nai Hai Narayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:197
+  :cite-key: PSPL:197
   :END:
 
 #+BEGIN_VERSE
@@ -2169,10 +2169,10 @@ Susuptir prane raje jagritir thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: PSPL:198
+  :cite-key: PSPL:198
   :END:
 
 #+BEGIN_VERSE

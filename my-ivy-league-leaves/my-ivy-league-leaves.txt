@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0002
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MILL
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0002
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: MILL
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 
   :PROPERTIES:
   :SUBTITLE: Harvard University, Cambridge, Mass., March 25, 1969.
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MILL:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MILL:1e1
   :END:
 
 
@@ -33,9 +33,9 @@
 * Seventy-Three Long Years Ago, Precisely On This...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:1
   :END:
 
 
@@ -70,9 +70,9 @@ Vedanta expresses itself through three particular systems: /Advaita/ or Non-Dual
 * Shankara's Advaita Or Monism
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:2
   :END:
 
 
@@ -101,9 +101,9 @@ Shankara and Vedanta will always go together down the sweep of centuries. They a
 * Ramanuja's Vishishtadvaita Or Qualified Non-Dualism
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:3
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:3
   :END:
 
 
@@ -114,9 +114,9 @@ According to Ramanuja, the world is real, absolutely real, but it is wanting in 
 * Madhava's Dvaita Or Dualism
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:4
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:4
   :END:
 
 
@@ -137,9 +137,9 @@ I would like to conclude my talk with a word about your universally cherished st
 * God's Dream-Boat And Man's Life-Boat
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:5
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:5
   :END:
 
 
@@ -226,9 +226,9 @@ You will see God's stupendous Pride in you.
 
   :PROPERTIES:
   :SUBTITLE: Princeton University, Princeton, New Jersey, January 13, 1969.
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:6
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:6
   :END:
 
 
@@ -264,9 +264,9 @@ There is only one Time and that Time is the Eternal Now. There is only one Truth
 
   :PROPERTIES:
   :SUBTITLE: Columbia University, New York, N. Y., April 16, 1969.
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:7
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:7
   :END:
 
 
@@ -316,9 +316,9 @@ Sisters and brothers, I offer to you my soul's assurance that you are bound to g
 
   :PROPERTIES:
   :SUBTITLE: Cornell University, Ithaca, N. Y., September 30, 1969.
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:8
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:8
   :END:
 
 
@@ -370,9 +370,9 @@ The atom bomb destroyed Hiroshima. Our conscious fondness for the night of ignor
 
   :PROPERTIES:
   :SUBTITLE: University Of Pennsylvania, Philadelphia, Pa., March 18, 1970.
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:9
   :END:
 
 
@@ -424,9 +424,9 @@ When we use the outer light, we see how far we are away from God. When we use th
 
   :PROPERTIES:
   :SUBTITLE: Brown University, Providence, Rhode Island, October 4, 1969.
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:10
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:10
   :END:
 
 
@@ -472,9 +472,9 @@ When the disciple feels that his Master is the Light of his own heart, he is bou
 
   :PROPERTIES:
   :SUBTITLE: Dartmouth College, Hanover, New Hampshire, April 3, 1970
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MILL:11
+  :genre: discourse
+  :keywords:
+  :cite-key: MILL:11
   :END:
 
 

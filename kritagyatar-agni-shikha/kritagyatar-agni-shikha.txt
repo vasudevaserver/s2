@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 959
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: KASH
-  :GENRE: song
+  :book-number: 959
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: KASH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KASH:1e1
+  :genre: note
+  :cite-key: KASH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KASH:1e2
+  :genre: note
+  :cite-key: KASH:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bhagabane Kari Bhoy Bhagabane Basi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:1
+  :cite-key: KASH:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Tai jane e jibane nahi rabe kono kalo
 * Dibanishi Hiya Pure Akul Krandan Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:2
+  :cite-key: KASH:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ param pita tomai pete mor prayojan
 * Pabitra E Antakaran Tomar Paye Nibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:3
+  :cite-key: KASH:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Pabitra e antakaran sabare aj karbe baran
 * Karo Puran Karo Puran Ekti Akinchan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:4
+  :cite-key: KASH:4
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ Churna karo amar moher dinata bandhan
 * Agabhir Man Mor Se Karan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:5
+  :cite-key: KASH:5
   :END:
 
 #+BEGIN_VERSE
@@ -128,10 +128,10 @@ Asar purna mor manushya jiban
 * Adar Jatna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:6
+  :cite-key: KASH:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ Dibya jiban dibya jiban ekanta mor prayojan
 * Param Pita Prasna Karen Paowa Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:7
+  :cite-key: KASH:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ Kabhu nahi balen tini parbe ki go he parbe ki
 * Kritagyatar Agni Shikha Bindu Matra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:8
+  :cite-key: KASH:8
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ karle pabe animeshe param prabhur sri charan
 * Karte Pare Sabe Arambha Kintu Je Jan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:9
+  :cite-key: KASH:9
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Maha jiban tahar lagi
 * Man Chahe Dibanishi Praman Akaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:10
+  :cite-key: KASH:10
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Hiya chahe bishwaser ek lahari nartan
 * Khyati Shudhu Sthayi Habe Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:11
+  :cite-key: KASH:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Sadhu swabhab sahay habe sarati jiban
 * Darshan Shastra Antar Atmar Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:12
+  :cite-key: KASH:12
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Adhyatikata je kare param pitar tripti sadhan
 * Bhagabaner Kache Ekti Bastabatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:13
+  :cite-key: KASH:13
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Hriday ti sarbakhane sarbakaje samarpan
 * Chilam Ami Chatur Cheyechilam Se
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:14
+  :cite-key: KASH:14
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Bigya ami aji se karane jachi ami rupantarita antar
 * Habe Jakhan Bishwa Pitar Tripti Sadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:15
+  :cite-key: KASH:15
   :END:
 
 #+BEGIN_VERSE
@@ -303,10 +303,10 @@ Prashphutita habe takhan amar swapan
 * Ache Sahaj Saralata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:16
+  :cite-key: KASH:16
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ Amai tini bhalo basen ekatha balar
 * Jiban Sheshe Maran Deshe Jete Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:17
+  :cite-key: KASH:17
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ Tomar lagi kritagyatar tari bahi
 * Prabhu Amar.. Tomar Paye Dibo Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1989
-  :CITE-KEY: KASH:18
+  :cite-key: KASH:18
   :END:
 
 #+BEGIN_VERSE
@@ -356,10 +356,10 @@ Diyo amai tomra shanti asimatar
 * Rasikata Nahi Thake Jadi Tomar Saha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:19
+  :cite-key: KASH:19
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Saha jatri nahi habe param pitar
 * Swapna Darshi Haye Tumi Param Pitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:20
+  :cite-key: KASH:20
   :END:
 
 #+BEGIN_VERSE
@@ -392,10 +392,10 @@ Pabe shanti jyoti parabar
 * Sakal Bela Bale Amai Amar Man Navin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1989
-  :CITE-KEY: KASH:21
+  :cite-key: KASH:21
   :END:
 
 #+BEGIN_VERSE

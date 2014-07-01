@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1173
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: ALOM-1
-  :GENRE: song
+  :book-number: 1173
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: ALOM-1
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ALOM:1e1
+  :genre: note
+  :cite-key: ALOM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ALOM:1e2
+  :genre: note
+  :cite-key: ALOM:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Dyulok Chariye Nara Narayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-07-1995
-  :CITE-KEY: ALOM:1
+  :cite-key: ALOM:1
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Dyulok chariye....
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-07-1995
-  :CITE-KEY: ALOM:2
+  :cite-key: ALOM:2
   :END:
 
 #+BEGIN_VERSE

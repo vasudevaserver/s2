@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1241
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1998
-  :PUBLISHER:
-  :CITE-KEY: AAMS
-  :GENRE: song
+  :book-number: 1241
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1998
+  :publisher:
+  :cite-key: AAMS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AAMS:1e1
+  :genre: note
+  :cite-key: AAMS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AAMS:1e2
+  :genre: note
+  :cite-key: AAMS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * E Jiban Shudhu Abhinoy Satya Kichui Noy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:1
+  :cite-key: AAMS:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Dekhi akaran
 * Chinta Karina Tarka Karina Nirbhar Kari Shishur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:2
+  :cite-key: AAMS:2
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ Tomar tushti amar brato
 * Prati Karme Prati Khane Jena Bujhi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:3
+  :cite-key: AAMS:3
   :END:
 
 #+BEGIN_VERSE
@@ -98,10 +98,10 @@ Shunbe prabhu amar mukhe tomar sangit
 * Tomar Amar Madhyakhane Jei Abaran Rekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:4
+  :cite-key: AAMS:4
   :END:
 
 #+BEGIN_VERSE
@@ -117,10 +117,10 @@ Diye ebar dekha
 * Ke Jena Ek Bajai Banshi Hriday Gahane Se
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:5
+  :cite-key: AAMS:5
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ Bandhane
 * Sabar Majhe Bishwa Pita Tai Karina Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:6
+  :cite-key: AAMS:6
   :END:
 
 #+BEGIN_VERSE
@@ -155,10 +155,10 @@ Bishwa pitar joy
 * Param Shanti Biraj Karuk Prati Manaber Ghare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:7
+  :cite-key: AAMS:7
   :END:
 
 #+BEGIN_VERSE
@@ -174,10 +174,10 @@ Vishwa prabhu bare
 * Jakhan Ami Khuli Kabhu Tomar Jyotir Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-05-1987
-  :CITE-KEY: AAMS:8
+  :cite-key: AAMS:8
   :END:
 
 #+BEGIN_VERSE
@@ -193,10 +193,10 @@ Amar mane prane
 * Karo Alokito Karo Chira Alokito Antar Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:9
+  :cite-key: AAMS:9
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ Amai nirantar
 * Ami Atma Nitya Purna Nityananda Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:10
+  :cite-key: AAMS:10
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Bishwa pitar nandan
 * Jago Atma Prane Mane Chira Madhumoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:11
+  :cite-key: AAMS:11
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Tomar hok joy
 * Chetana Jar Bishal Udar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:12
+  :cite-key: AAMS:12
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Kabhu naiba dekhi tar
 * Jwalai Alo Jethai Ache Agyan Andhar Nritya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:13
+  :cite-key: AAMS:13
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ Pratigya amar
 * Gopane Je Phute Phul Gopane Je Jhare Keha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:14
+  :cite-key: AAMS:14
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ Nahi rakhe dhare
 * Jani Bhabi Jahai Ami Pechane Tar Thake Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:15
+  :cite-key: AAMS:15
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Thakbe tato baki
 * Samarpaner Maddhya Diye Charam Bijoy Ase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:16
+  :cite-key: AAMS:16
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Hiyar bhagyakashe
 * Prabhu Amar Tumi Amar Sada Ekakar Nirakare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:17
+  :cite-key: AAMS:17
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Chetan aje amar
 * Balo Balo Ogo Amar Khudra Jiban Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:18
+  :cite-key: AAMS:18
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ Prabhur charan
 * Nitya Purna Nityananda Sathe Jadi Roy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:19
+  :cite-key: AAMS:19
   :END:
 
 #+BEGIN_VERSE
@@ -402,10 +402,10 @@ Abha pabijoy
 * Mayer Kole Ghure Berai Gyaner Bojha Bahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-07-1987
-  :CITE-KEY: AAMS:20
+  :cite-key: AAMS:20
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ Kichui karina
 * Mayer Kole Ghure Berai Gyaner Bojha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:21
+  :cite-key: AAMS:21
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +440,10 @@ Kabhu kichui karina
 * Nidra Bhojan Nidra Bhojan Bhaje Je Manab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:22
+  :cite-key: AAMS:22
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Bhishan danab
 * Kalpana Taba Rup Naba Naba Habe Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:23
+  :cite-key: AAMS:23
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ Habe tumi devashishu abhinaba
 * Man Pran Chalo Atmanande Dube Jai Mithya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:24
+  :cite-key: AAMS:24
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ Sathe kona kaj nai
 * Nitya Purna Nityananda Apan Swarup Janana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:25
+  :cite-key: AAMS:25
   :END:
 
 #+BEGIN_VERSE
@@ -514,10 +514,10 @@ Tomar khudra basana
 * Shanti Mukti Nityananda Dake Tomai Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:26
+  :cite-key: AAMS:26
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ Bhalo manda kake
 * Pechan Phire Dekhbe Keno Sathe Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:27
+  :cite-key: AAMS:27
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Bhabna keno karo bhai
 * Maran Keno Karbe Haran Tomar Jiban Diba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:28
+  :cite-key: AAMS:28
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Kalyan smaran
 * Ekhan Shanti Na Pele Bhai Mare Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:29
+  :cite-key: AAMS:29
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ Ashanti andhar
 * Jibane Jar Shanti Ache Marane O Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:30
+  :cite-key: AAMS:30
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Eki tale nache
 * Jibane Ja Hate Chaha Taha Jadi Paro Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:31
+  :cite-key: AAMS:31
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Chalibe je pathe
 * Lakya Pane Chute Chali Haye Tanmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1987
-  :CITE-KEY: AAMS:32
+  :cite-key: AAMS:32
   :END:
 
 #+BEGIN_VERSE
@@ -647,10 +647,10 @@ Habe shesh joy
 * Manuser Bandhu Kabhu Nahe Sei Jan Pashu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:33
+  :cite-key: AAMS:33
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ Jiban japan
 * Ogo Kusum Tomar Dibya Rup Madhuri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:34
+  :cite-key: AAMS:34
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Mato tahar charan
 * Prabhur Charane Chira Nata Haye Rabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:35
+  :cite-key: AAMS:35
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Prabhur sebak bir
 * Nitya Purna Nityananda Debata Amar Dibya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:36
+  :cite-key: AAMS:36
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Aj adhikar
 * Achi Mayer Kole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:37
+  :cite-key: AAMS:37
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Anande pran dole
 * Nije Dukhi Aparer Dekhe Dukh Kende Uthe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:38
+  :cite-key: AAMS:38
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Karo bhagaban
 * Nije Sukhi Aparer Dekhe Sukh Neche Uthe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:39
+  :cite-key: AAMS:39
   :END:
 
 #+BEGIN_VERSE
@@ -780,10 +780,10 @@ Unnata sumahan
 * Chhilam Swarge Atma Sukhe Khelte Elam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:40
+  :cite-key: AAMS:40
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ Shanti mukti je atulya
 * Amar Abar Kisher Bhabana Kari Ami Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:41
+  :cite-key: AAMS:41
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ Kari ami taba bijoy kamana
 * Kothai Amar Agyanata Kothai Andhakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:42
+  :cite-key: AAMS:42
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ Tahar pratikar
 * Alo Pane Khulte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:43
+  :cite-key: AAMS:43
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ Shanti parabar
 * Gopane Phute Prabhur Paye Gopane Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:44
+  :cite-key: AAMS:44
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ Jenechi antare
 * Chetana Amar Shubhra Chinta Karuk Adhikar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:45
+  :cite-key: AAMS:45
   :END:
 
 #+BEGIN_VERSE
@@ -892,10 +892,10 @@ Jaya jaya kar
 * Kartabya Ki Achi Jana Habe Ki Labh Tate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:46
+  :cite-key: AAMS:46
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ Shudhu gyaner romanthan
 * Binimoye Mor Samarpaner Gyan Atmar Gyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:47
+  :cite-key: AAMS:47
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Atmar gyan dao bhagaban
 * Hate Chahi Jaha Hate Hale Taha Charte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:48
+  :cite-key: AAMS:48
   :END:
 
 #+BEGIN_VERSE
@@ -947,10 +947,10 @@ Sathe sathe chale mor jena chaya
 * Jaha Nahe Adhin Amar Tyag Ta Karar Ki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:49
+  :cite-key: AAMS:49
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ Tyag ta karar ki adhikar
 * Amar Jaha Nai Prayojan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:50
+  :cite-key: AAMS:50
   :END:
 
 #+BEGIN_VERSE
@@ -983,10 +983,10 @@ Kemane pabo datar ashan
 * Jani Ami Sahaj Saral Hale Jiban Prabhu Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:51
+  :cite-key: AAMS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1002,10 +1002,10 @@ Bijoy ketan
 * Sabai Jakhan Kare Ghrina Kende Bali Rakkha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:52
+  :cite-key: AAMS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1021,10 +1021,10 @@ Amar nai je kabhu prayojan
 * Mukta Jiban Kara Japan Kathor Kathin Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:53
+  :cite-key: AAMS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1040,10 +1040,10 @@ Jatne sampadan
 * Atmar Jadi Nahi Mile Taba Maha Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:54
+  :cite-key: AAMS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Badha jiban
 * Parajoyer Madhya Diye Charam Joyer Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:55
+  :cite-key: AAMS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1078,10 +1078,10 @@ Chale pashe pashe
 * Bhalo Manda Maner Bichar Sama Mulya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:56
+  :cite-key: AAMS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1095,10 +1095,10 @@ Sama mulya chokhe pitar
 * Anu Karan Anu Sharan Shikkha Kale Prayojan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:57
+  :cite-key: AAMS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1114,10 +1114,10 @@ Sajatne barjan
 * Ele Prane Saralata Ar Atma Samarpan Karma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:58
+  :cite-key: AAMS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1133,10 +1133,10 @@ Amar dibya jiban
 * Bhalobese Pratidane Bhalobasa Jadi Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:59
+  :cite-key: AAMS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1152,10 +1152,10 @@ Dite pare hai dhaki
 * Atma Dane Prem Kusum Phute Ananda Dheu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:60
+  :cite-key: AAMS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1169,10 +1169,10 @@ Ananda dheu pran sagare juthe
 * Ajachita Bhalobasa Baro Madhumoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:61
+  :cite-key: AAMS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1186,10 +1186,10 @@ Toma majhe bidhatar joy habe joy
 * Abhoy Akkhoy Nitya Mukta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:62
+  :cite-key: AAMS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1205,10 +1205,10 @@ Atma parichoy
 * Pragya Dube Nirabata Buke Sukher Dukher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:63
+  :cite-key: AAMS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1222,10 +1222,10 @@ Sukher dukher bara pare luke
 * Jana Bhalo Bala Bhalo Kara Alo Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:64
+  :cite-key: AAMS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1241,10 +1241,10 @@ Nahi kokha kalo
 * Keno Eto Matantor Keno Eto Matantor Dibya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:65
+  :cite-key: AAMS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1260,10 +1260,10 @@ Khunjle nirantar
 * Mukta Atma Ese Name Dehe Prane Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:66
+  :cite-key: AAMS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ Tader sane
 * Chira Sundar Antare Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:67
+  :cite-key: AAMS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1298,10 +1298,10 @@ Dekhe pabitra mor ankhi
 * Kathar Mala Diye Tomai Bhabi Dilam Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:68
+  :cite-key: AAMS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1317,10 +1317,10 @@ Moher pichu pichu
 * Asim Shudhu Garte Pare Tahar Lagi Sima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:69
+  :cite-key: AAMS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1336,10 +1336,10 @@ Puta madhurima
 * Asimer Ek Bindu Maha Sindhu Asimer Ek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:70
+  :cite-key: AAMS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ Asimer ek bindu purna indu
 * Hate Pari Jadi Sada Sachetan Pabo Paramer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:71
+  :cite-key: AAMS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1370,10 +1370,10 @@ Pabo paramer dibya jiban
 * Prabhur Bijoy Moder Purashkar Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:72
+  :cite-key: AAMS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1387,10 +1387,10 @@ Ache sabar sebar adhikar
 * Ami Shudhu Taha Chahi Jaha Tumi Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1987
-  :CITE-KEY: AAMS:73
+  :cite-key: AAMS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1406,10 +1406,10 @@ Nahi dibe kamana he taha kabhu
 * Sakkhi Haye Nije Nije Bhul Truti Je Kahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:74
+  :cite-key: AAMS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Beber matan
 * Je Peyeche Nityananda Sadh Se Suneche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:75
+  :cite-key: AAMS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1442,10 +1442,10 @@ Se suneche maha mukti nad
 * Je Jan Jane Saral Hasi Haste Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:76
+  :cite-key: AAMS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1461,10 +1461,10 @@ Atma jyotir samatai
 * Byathir Byethai Mukta Haye Parer Dukhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:77
+  :cite-key: AAMS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1480,10 +1480,10 @@ Bhabe pagol udasi
 * Thake Jadi Satyata Ar Saralya Nishkam Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:78
+  :cite-key: AAMS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1499,10 +1499,10 @@ madhur bishram
 * Mane Prane Jethai Ache Ajoy Achetan Dekhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:79
+  :cite-key: AAMS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ Alo anayan
 * Purna Nirbak Haowar Cheye Bakya Sangjam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:80
+  :cite-key: AAMS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1537,10 +1537,10 @@ Mantrer mato dheya
 * Abhijoge Praner Roge Diyona Prasroy (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:81
+  :cite-key: AAMS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1556,10 +1556,10 @@ Kato baki karte ajo joy
 * Badha Ase Badha Ase Shakti Dite Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:82
+  :cite-key: AAMS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1575,10 +1575,10 @@ Dharanite
 * Chinta Hate Mukta Haye Jena Kari Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:83
+  :cite-key: AAMS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1594,10 +1594,10 @@ Keno daki alik maran
 * Age Jara Jete Chahe Naba Srishti (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:84
+  :cite-key: AAMS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1613,10 +1613,10 @@ Naba jyoti naba jagaran
 * Ja Karechi Bhul Kare Bhul Ekbar Se Bhul Ekbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:85
+  :cite-key: AAMS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1632,10 +1632,10 @@ Kari barbar
 * Shanti Jyoti Kari Jadi Abahan Tar Birodhi Shakti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:86
+  :cite-key: AAMS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1649,10 +1649,10 @@ Tar birodhi shakti karbe palayan
 * Durbalata Ajo Jaha Ache Gopan Parbe Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:87
+  :cite-key: AAMS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1668,10 +1668,10 @@ Nambe jakhan
 * Lobhe Tripti Karle Sadhan Dhrira Habe Badar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:88
+  :cite-key: AAMS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1685,10 +1685,10 @@ Dhrira habe badar badhan
 * Parikhya Ar Aghat Jadi Kari Sajhya Nata Shire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:89
+  :cite-key: AAMS:89
   :END:
 
 #+BEGIN_VERSE
@@ -1704,10 +1704,10 @@ Shanti nadi tire
 * Shanta Theke Praman Karo Bhalobaso Dibya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:90
+  :cite-key: AAMS:90
   :END:
 
 #+BEGIN_VERSE
@@ -1723,10 +1723,10 @@ Habe druta unnati sadhan
 * Badha Tomai Badhya Kare Dakte Bishwanathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:91
+  :cite-key: AAMS:91
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Tomar namra mathe
 * Bhule Jete Chahi Jata Bhalo Mando Purba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:92
+  :cite-key: AAMS:92
   :END:
 
 #+BEGIN_VERSE
@@ -1761,10 +1761,10 @@ Amar lagi amar bhabona
 * Jabe Pabe Dibya Karme Prabhur Anumodan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:93
+  :cite-key: AAMS:93
   :END:
 
 #+BEGIN_VERSE
@@ -1780,10 +1780,10 @@ Pabe samarthan
 * Moder Dhara Baroi Dukhamoy Kripamoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:94
+  :cite-key: AAMS:94
   :END:
 
 #+BEGIN_VERSE
@@ -1797,10 +1797,10 @@ Kripamoyi jachi barabhoi
 * Ke Ki Balbe Tate Jadi Bhita Haye Kartabyo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:95
+  :cite-key: AAMS:95
   :END:
 
 #+BEGIN_VERSE
@@ -1816,10 +1816,10 @@ Karbo ami bokar mato samarpan
 * Sabar Majhe Ache Narayan Taito Sabai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:96
+  :cite-key: AAMS:96
   :END:
 
 #+BEGIN_VERSE
@@ -1833,10 +1833,10 @@ Taito sabai tomar apan jan
 * Amar Nijer Apurnata Pari Jadi Karte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:97
+  :cite-key: AAMS:97
   :END:
 
 #+BEGIN_VERSE
@@ -1852,10 +1852,10 @@ Shunbo tader krandan
 * Arpan Kare Jadi Balo Karecho Ta Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:98
+  :cite-key: AAMS:98
   :END:
 
 #+BEGIN_VERSE
@@ -1871,10 +1871,10 @@ Nahe bhagaban
 * Bhakyatite Chintatite Akuti Mor Jwale Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:99
+  :cite-key: AAMS:99
   :END:
 
 #+BEGIN_VERSE
@@ -1890,10 +1890,10 @@ Chitta padma dale
 * Byartha Manoratha Haye Jiban Sangrame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:100
+  :cite-key: AAMS:100
   :END:
 
 #+BEGIN_VERSE
@@ -1909,10 +1909,10 @@ Mahananda dhame
 * Sadaraner Anyai Dabi Kare Puran Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:101
+  :cite-key: AAMS:101
   :END:
 
 #+BEGIN_VERSE
@@ -1928,10 +1928,10 @@ Sunam arjan
 * Atma Bhola Shiber Matan Karle Atma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:102
+  :cite-key: AAMS:102
   :END:
 
 #+BEGIN_VERSE
@@ -1947,10 +1947,10 @@ Atma gyanir kothai maran
 * Jatai Tumi Karbe Abhijog Barbe Tatai Dukha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:103
+  :cite-key: AAMS:103
   :END:
 
 #+BEGIN_VERSE
@@ -1964,10 +1964,10 @@ Barbe tatai dukha jatan bhog
 * Bishwa Pitar Tripti Lagi Kari Shudhu Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:104
+  :cite-key: AAMS:104
   :END:
 
 #+BEGIN_VERSE
@@ -1983,10 +1983,10 @@ Pashur jiban ki prayojan
 * Kari Jadi Nitya Karma Tripti Lagimar Karibe Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:105
+  :cite-key: AAMS:105
   :END:
 
 #+BEGIN_VERSE
@@ -2002,10 +2002,10 @@ Nitya byabahar
 * Ke Diyeche Tomai Adhikhar Parer Pare Karte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:106
+  :cite-key: AAMS:106
   :END:
 
 #+BEGIN_VERSE
@@ -2019,10 +2019,10 @@ Parer pare karte bishtha
 * Hayeche Lok Pashur Cheye Anek Bara Adhin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:107
+  :cite-key: AAMS:107
   :END:
 
 #+BEGIN_VERSE
@@ -2038,10 +2038,10 @@ Swabhalo pabe atmabal
 * Sukh Dukh Ar Man Apaman Ase Tara Haye Ek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:108
+  :cite-key: AAMS:108
   :END:
 
 #+BEGIN_VERSE
@@ -2055,10 +2055,10 @@ Ase tara sada haye ek pran
 * Chalte Hale Urdha Pane Chharte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:109
+  :cite-key: AAMS:109
   :END:
 
 #+BEGIN_VERSE
@@ -2072,10 +2072,10 @@ Chharte habe pechhan tane
 * Dekhbena Ar Pechhan Phire Age Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:110
+  :cite-key: AAMS:110
   :END:
 
 #+BEGIN_VERSE
@@ -2091,10 +2091,10 @@ Maran ese nibe tule
 * Duti Bastu Duti Prani Kabhu Ek Noy Ekti Atma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:111
+  :cite-key: AAMS:111
   :END:
 
 #+BEGIN_VERSE
@@ -2110,10 +2110,10 @@ Ek bale tai mane hoy
 * Boka Ami Nai Shesh Satyer Nai Shesh Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:112
+  :cite-key: AAMS:112
   :END:
 
 #+BEGIN_VERSE
@@ -2127,10 +2127,10 @@ Karbo palan nitya satyer adesh
 * Hok Jagaran Dibya Chetan Lakya Kebal Oishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:113
+  :cite-key: AAMS:113
   :END:
 
 #+BEGIN_VERSE
@@ -2146,10 +2146,10 @@ Atmagyanir karbo jiban japan
 * Kalpanate Kalpataru Bastabete Shushka Maru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:114
+  :cite-key: AAMS:114
   :END:
 
 #+BEGIN_VERSE
@@ -2163,10 +2163,10 @@ Bastabete shushka maru
 * Eso Neme Jyotir Plaban Khule Diye Amir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:115
+  :cite-key: AAMS:115
   :END:
 
 #+BEGIN_VERSE
@@ -2182,10 +2182,10 @@ Purna karo atma samarpan
 * Man Pran Deha Hok Dibya Jyotirmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:116
+  :cite-key: AAMS:116
   :END:
 
 #+BEGIN_VERSE
@@ -2199,10 +2199,10 @@ Param atmar sujogya aloy
 * Nitya Dekhi Kato Gyani Guni Dibarati Tader
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:117
+  :cite-key: AAMS:117
   :END:
 
 #+BEGIN_VERSE
@@ -2218,10 +2218,10 @@ Jaina tabu mithya ahankar
 * Chali Jadi Unnatir Patha Dhare Nirantar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-09-1987
-  :CITE-KEY: AAMS:118
+  :cite-key: AAMS:118
   :END:
 
 #+BEGIN_VERSE
@@ -2235,10 +2235,10 @@ Maran ese jabe phire nibena grihantar
 * Tarun Chhare Purano Ja Nutan Satya Pete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:119
+  :cite-key: AAMS:119
   :END:
 
 #+BEGIN_VERSE
@@ -2254,10 +2254,10 @@ Sathe niye jete
 * Toiri Thake Shikhte Gyani Nitya Nutan Gyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:120
+  :cite-key: AAMS:120
   :END:
 
 #+BEGIN_VERSE
@@ -2273,10 +2273,10 @@ Takbena ar pran
 * Aro Purna Atma Dan Lagi Dibya Atma Gyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:121
+  :cite-key: AAMS:121
   :END:
 
 #+BEGIN_VERSE
@@ -2292,10 +2292,10 @@ Abiram ei abijan
 * Kothai Amar Durbalata Apurnata Dekhle Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:122
+  :cite-key: AAMS:122
   :END:
 
 #+BEGIN_VERSE
@@ -2311,10 +2311,10 @@ Satyer habe joy
 * Chira Sundara Jiban Khani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:123
+  :cite-key: AAMS:123
   :END:
 
 #+BEGIN_VERSE
@@ -2330,10 +2330,10 @@ Timir ahankar
 * Sundara Hok Kothao Kaj Pratiti Byabahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:124
+  :cite-key: AAMS:124
   :END:
 
 #+BEGIN_VERSE
@@ -2349,10 +2349,10 @@ Karuk adhikar
 * Khule Dhari Jyoti Pane Man Pran Deha Buddhir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:125
+  :cite-key: AAMS:125
   :END:
 
 #+BEGIN_VERSE
@@ -2368,10 +2368,10 @@ Karuk ajadhikar
 * Jyotir Dhyane Tanmoy Haye Hate Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:126
+  :cite-key: AAMS:126
   :END:
 
 #+BEGIN_VERSE
@@ -2387,10 +2387,10 @@ Satyer hok joy
 * Aro Alo Aro Alo Prabhu Aro Alo Tibra Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:127
+  :cite-key: AAMS:127
   :END:
 
 #+BEGIN_VERSE
@@ -2406,10 +2406,10 @@ Homer anal jwalo
 * Kothai Shatru Kothai Mitra Shudhu Eker Lila
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:128
+  :cite-key: AAMS:128
   :END:
 
 #+BEGIN_VERSE
@@ -2425,10 +2425,10 @@ Abhinoye joy ar parajoy
 * Age Jete Eshanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:129
+  :cite-key: AAMS:129
   :END:
 
 #+BEGIN_VERSE
@@ -2444,10 +2444,10 @@ Nishchita maran
 * Man Pran Deher Dibya Rupantar Lakkya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:130
+  :cite-key: AAMS:130
   :END:
 
 #+BEGIN_VERSE
@@ -2461,10 +2461,10 @@ Lakkya dhare chale atma nirantar
 * Pechan Dekhe Garba Kare Bhabe Pagol
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:131
+  :cite-key: AAMS:131
   :END:
 
 #+BEGIN_VERSE
@@ -2480,10 +2480,10 @@ Bhabe pohabena ratri
 * Jiber Dukhe Kanden Bhagaban Baddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:132
+  :cite-key: AAMS:132
   :END:
 
 #+BEGIN_VERSE
@@ -2497,10 +2497,10 @@ Baddha prane nitya kashta pan
 * Jiban Mukta Jiban Japan Atma Dekhe Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:133
+  :cite-key: AAMS:133
   :END:
 
 #+BEGIN_VERSE
@@ -2516,10 +2516,10 @@ Jane na je har amar prana man
 * Alor Tare Akhulata Andharer Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:134
+  :cite-key: AAMS:134
   :END:
 
 #+BEGIN_VERSE
@@ -2535,10 +2535,10 @@ Maha pran bhagaban
 * Nitya Purna Purnatara Purnatama Chalaman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:135
+  :cite-key: AAMS:135
   :END:
 
 #+BEGIN_VERSE
@@ -2554,10 +2554,10 @@ Purna nirabata
 * Kamya Amar Nityanande Jog
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:136
+  :cite-key: AAMS:136
   :END:
 
 #+BEGIN_VERSE
@@ -2571,10 +2571,10 @@ Dekhbo keno mithya shok ar rog
 * Shristi Kare Atma Gopan Jeman Karen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:137
+  :cite-key: AAMS:137
   :END:
 
 #+BEGIN_VERSE
@@ -2590,10 +2590,10 @@ Kharte nitya atmar sandhan
 * Aloy Amai Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:138
+  :cite-key: AAMS:138
   :END:
 
 #+BEGIN_VERSE
@@ -2609,10 +2609,10 @@ Nitya brahman kari
 * Bhabishyater Bhabna Bhebe Bhitar Samoi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:139
+  :cite-key: AAMS:139
   :END:
 
 #+BEGIN_VERSE
@@ -2628,10 +2628,10 @@ Amar chira apan
 * Bishwa Pita Ami Chahi Taba Darashan Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:140
+  :cite-key: AAMS:140
   :END:
 
 #+BEGIN_VERSE
@@ -2647,10 +2647,10 @@ Nitya niranjan
 * Shuk Dukh Asha Man Apaman Bhoy Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:141
+  :cite-key: AAMS:141
   :END:
 
 #+BEGIN_VERSE
@@ -2666,10 +2666,10 @@ Atma gyani hayi
 * Nahi Mani Nahi Mani Kaharo Shasan Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:142
+  :cite-key: AAMS:142
   :END:
 
 #+BEGIN_VERSE
@@ -2685,10 +2685,10 @@ Amar jiban
 * Jogyata Noy Karuna Jyoti Pane Khule Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:143
+  :cite-key: AAMS:143
   :END:
 
 #+BEGIN_VERSE
@@ -2704,10 +2704,10 @@ Ar katho na ar katho na
 * Britha Keno Ghuris Akaran Pran Gabhire Dub
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:144
+  :cite-key: AAMS:144
   :END:
 
 #+BEGIN_VERSE
@@ -2721,10 +2721,10 @@ Pran gabhire dub dere mor man
 * Manush Kare Nirbhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:145
+  :cite-key: AAMS:145
   :END:
 
 #+BEGIN_VERSE
@@ -2740,10 +2740,10 @@ Se nirbhar
 * Lobhi Jadi Atma Darashan Atmai Kari Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:146
+  :cite-key: AAMS:146
   :END:
 
 #+BEGIN_VERSE
@@ -2759,10 +2759,10 @@ Pabo ami nutan swapan
 * Jadi Jano Ahang Kake Bale Tatei Ahang
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:147
+  :cite-key: AAMS:147
   :END:
 
 #+BEGIN_VERSE
@@ -2778,10 +2778,10 @@ Samne ese atma tomar karbe tare joy
 * Ami Amar Ahangkar Bhitar Bahir Ekakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:148
+  :cite-key: AAMS:148
   :END:
 
 #+BEGIN_VERSE
@@ -2795,10 +2795,10 @@ Bhitar bahir ekakar
 * Shanti Dekha Paina Kabhu Britha Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:149
+  :cite-key: AAMS:149
   :END:
 
 #+BEGIN_VERSE
@@ -2812,10 +2812,10 @@ Britha kandi bishwa prabhu
 * Garba Ele Mane Prane Dekhi Jadi Samukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:150
+  :cite-key: AAMS:150
   :END:
 
 #+BEGIN_VERSE
@@ -2831,10 +2831,10 @@ Hatash hale pichhe dekhe shanto habe pran
 * Drashta Atma Kare Darashan Keman Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:151
+  :cite-key: AAMS:151
   :END:
 
 #+BEGIN_VERSE
@@ -2850,10 +2850,10 @@ Britha e jiban britha e maran
 * Ekagratar Abhab Bale Chesta Byartha Hoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:152
+  :cite-key: AAMS:152
   :END:
 
 #+BEGIN_VERSE
@@ -2869,10 +2869,10 @@ Sakal kamya joy
 * Dhir Shir Hale Chanchal Prana Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:153
+  :cite-key: AAMS:153
   :END:
 
 #+BEGIN_VERSE
@@ -2888,10 +2888,10 @@ Ahankharer ar nahi prayajan
 * Chinta Jabe Jege
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:154
+  :cite-key: AAMS:154
   :END:
 
 #+BEGIN_VERSE
@@ -2907,10 +2907,10 @@ Ami jabo amar anta pure
 * Bhabishyater Bhabna Ele Tare Bali Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:155
+  :cite-key: AAMS:155
   :END:
 
 #+BEGIN_VERSE
@@ -2926,10 +2926,10 @@ Bishwa pita tumi jete para chali
 * Atit Kaler Bhabna Britha Asbena Se Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:156
+  :cite-key: AAMS:156
   :END:
 
 #+BEGIN_VERSE
@@ -2945,10 +2945,10 @@ Bismritir tire
 * Jibaner Kanna Hasi Shakkhi Seje Dekhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:157
+  :cite-key: AAMS:157
   :END:
 
 #+BEGIN_VERSE
@@ -2964,10 +2964,10 @@ Sukhe dukhe mane prane niyata harash
 * Jadi Nahi Thake Ahamika Ami Habo Alor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-09-1987
-  :CITE-KEY: AAMS:158
+  :cite-key: AAMS:158
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1349
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2000
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-24
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1349
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2000
+  :publisher: Agni Press
+  :cite-key: SCA-24
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 * Part I 
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:802e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:802e1
   :END:
   
   [fn:part-1]
@@ -35,9 +35,9 @@
 * Question: When we have a manifestation project, sometimes I feel I know the only right thing to do, but someone else thinks he or she knows best. When both of us cannot conquer that kind of feeling, what is the right solution?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:802
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:802
   :END:
 
 
@@ -52,9 +52,9 @@ One person should come with a sacrificing attitude and say, "Let me surrender to
 * Question: Suppose two people have a way they want to do something for you that needs to be accomplished. Both are seeking the same result, but they do not have any harmony. Should we be willing to settle for less of an outer accomplishment in order to have inner harmony?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:803
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:803
   :END:
 
 
@@ -69,9 +69,9 @@ In the ordinary life, even if the boss insults you and scolds you, he still give
 * Question: It seems often when we make a little progress, we relax. Sometimes also when we do something that pleases you and you tell us you are proud of us, then we feel we can relax. It seems we are satisfied with too little, when we could achieve much more if we were more receptive. How can we be dissatisfied and yet still be happy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:804
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:804
   :END:
 
 
@@ -88,9 +88,9 @@ In the spiritual life, we are always dealing with self-transcendence. Self-trans
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:805e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:805e1
   :END:
 
   [fn:part-2]
@@ -100,9 +100,9 @@ In the spiritual life, we are always dealing with self-transcendence. Self-trans
 * Question: Recently you said we should strengthen our friendships.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:805
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:805
   :END:
 
 
@@ -129,9 +129,9 @@ Again, when you have some good news, immediately it becomes like a Russian doll.
 * Question: Besides your name, is there a sound or a word that we can use when invoking you that brings us quickly to you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:806
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:806
   :END:
 
 
@@ -150,9 +150,9 @@ Why do people go through dry periods? Because they lose their devotion. Devotion
 * Question: What does it actually mean to see the divine in someone or something?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:807
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:807
   :END:
 
 
@@ -189,9 +189,9 @@ If I had used the mind for these three questions, I could not have spoken for mo
 * Part III -- Meeting with Robert Zmelick
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:808e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:808e1
   :END:
 
   [fn:part-3]
@@ -201,9 +201,9 @@ If I had used the mind for these three questions, I could not have spoken for mo
 * Training for the decathlon
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:808
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:808
   :END:
 
 
@@ -224,9 +224,9 @@ How much time do you spend in taking exercises, such as weightlifting? How many 
 * Before the Olympics
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:809
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:809
   :END:
 
 
@@ -247,9 +247,9 @@ Will your coach be with you?
 * Rest
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:810
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:810
   :END:
 
 
@@ -288,9 +288,9 @@ How many hours rest do you get at night?
 * Happiness
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:811
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:811
   :END:
 
 
@@ -311,9 +311,9 @@ I wish you good, better, best of luck in every event!
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:812e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:812e1
   :END:
 
   
@@ -321,9 +321,9 @@ I wish you good, better, best of luck in every event!
 * Question: What would you consider the ideal Centre meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:812
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:812
   :END:
 
 
@@ -350,9 +350,9 @@ I would really like all the disciples to participate in Joy Days. If you can, tr
 * Question: When we have Joy Days, what should we do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:813
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:813
   :END:
 
 
@@ -381,9 +381,9 @@ So those who are not paying attention to Joy Days should start paying attention.
 * Part V
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:814e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:814e1
   :END:
 
   [fn:part-5]
@@ -393,9 +393,9 @@ So those who are not paying attention to Joy Days should start paying attention.
 * Question: During the twenty-first century, will anybody break the two-hour marathon barrier?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:814
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:814
   :END:
 
 
@@ -430,9 +430,9 @@ If my disciples take me seriously, they will say, "If my Guru has said it, then 
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:815e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:815e1
   :END:
   
 

@@ -7,23 +7,23 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0276
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-4
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0276
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-4
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:75
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:75
   :END:
 
 /This book contains informal talks, lectures, a radio interview and selected questions and answers by Sri Chinmoy./
@@ -33,9 +33,9 @@
 * Part I - Discourse
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:76e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:76e1
   :END:
 
 
@@ -43,9 +43,9 @@
 * Love me or hate me, but don't ignore me
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:76
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:76
   :END:
 
 
@@ -73,9 +73,9 @@ Puerto Rico \\
 * Part II - Questions and answers following "Love me or hate me, but don't ignore me"
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:77e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:77e1
   :END:
 
 
@@ -83,9 +83,9 @@ Puerto Rico \\
 * Question: How can one bring harmony into one's inner being when there is conflict in one's life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:77
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:77
   :END:
 
 
@@ -96,9 +96,9 @@ Puerto Rico \\
 * Question: What is the best cure for our human frustration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:78
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:78
   :END:
 
 
@@ -113,9 +113,9 @@ But if we feel our oneness with everything in God's creation, then we become ins
 * Question: Could you speak on accepting guidance from highly advanced beings who are not on earth, but possibly in some other dimension?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:79
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:79
   :END:
 
 
@@ -126,9 +126,9 @@ But if we feel our oneness with everything in God's creation, then we become ins
 * Question: How can one be certain of following God's Will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:80
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:80
   :END:
 
 
@@ -139,9 +139,9 @@ But if we feel our oneness with everything in God's creation, then we become ins
 * Part III - "Radio Clyde" interview
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:81e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:81e1
   :END:
   
   
@@ -152,9 +152,9 @@ But if we feel our oneness with everything in God's creation, then we become ins
 * Interviewer: I'd like to ask if you feel only spiritual joy is genuine in this life? Do you deny the existence of physical joy?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:81
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:81
   :END:
 
 
@@ -165,9 +165,9 @@ But if we feel our oneness with everything in God's creation, then we become ins
 * Interviewer: Joy both physical and spiritual very often emanates from an appreciation of beauty. Now, how are we to recognise beauty and the validity of beauty? John Keats wrote that "Beauty is truth, truth beauty; -- that is all ye know on earth, and all ye need to know."
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:82
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:82
   :END:
 
 
@@ -182,9 +182,9 @@ So beauty is truth when we speak of inner beauty. The outer beauty is also truth
 * Interviewer: Can we turn now to the subject of music? Do you see music as something related to spirituality?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:83
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:83
   :END:
 
 
@@ -195,9 +195,9 @@ So beauty is truth when we speak of inner beauty. The outer beauty is also truth
 * Interviewer: Reading about your background, I see you entered a place called an ashram. Can you tell me something of your experience there?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:84
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:84
   :END:
 
 
@@ -208,9 +208,9 @@ So beauty is truth when we speak of inner beauty. The outer beauty is also truth
 * Interviewer: In this sense, is some kind of punishment of the body necessary? You know, in the rigorous observance of a fitness regime?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:85
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:85
   :END:
 
 
@@ -221,9 +221,9 @@ So beauty is truth when we speak of inner beauty. The outer beauty is also truth
 * Interviewer: What were your particular interests in the sporting life there?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCS:86
+  :genre: interview
+  :keywords:
+  :cite-key: SCS:86
   :END:
 
 
@@ -254,18 +254,18 @@ So beauty is truth when we speak of inner beauty. The outer beauty is also truth
 * Part IV - Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:87e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:87e1
   :END:
 
 
 * Canada tree-planting
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:87
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:87
   :END:
 
 
@@ -284,9 +284,9 @@ I offer my heart's deepest gratitude to the government of Ottawa for granting us
 * A true seeker
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:88
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:88
   :END:
 
 
@@ -319,9 +319,9 @@ New York, New York \\
 * Part V - Questions and answers following "A true seeker"
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:89e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:89e1
   :END:
 
 
@@ -329,9 +329,9 @@ New York, New York \\
 * Question: How can one know God when he is carrying on his day-to-day earthly responsibilities?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:89
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:89
   :END:
 
 
@@ -346,9 +346,9 @@ If we take life as a necessity, then there is all joy; we do the needful in orde
 * Question: I experience shame, fear and guilt. How can I overcome this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:90
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:90
   :END:
 
 
@@ -361,9 +361,9 @@ You may ask, "If there is someone who is so kind to me, why can't I offer Him th
 * Question: Could you speak about patience?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:91
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:91
   :END:
 
 
@@ -374,9 +374,9 @@ You may ask, "If there is someone who is so kind to me, why can't I offer Him th
 * Question: What is the best way to control emotions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:92
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:92
   :END:
 
 
@@ -391,9 +391,9 @@ Early in the morning, instead of entering into the vital or the emotional world,
 * Question: Guru, how can I learn to speak to the Supreme during the day all the time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:93
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:93
   :END:
 
 
@@ -404,18 +404,18 @@ Early in the morning, instead of entering into the vital or the emotional world,
 * Part VI - Discourse
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:94e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:94e1
   :END:
   
 
 * Love human, love divine, love supreme
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:94
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:94
   :END:
 
 
@@ -458,9 +458,9 @@ at Purchase \\
 * Part VII - Questions and answers following "Love human, love divine, love supreme"
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:95e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:95e1
   :END:
 
 
@@ -468,9 +468,9 @@ at Purchase \\
 * Question: What role does music play in religion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:95
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:95
   :END:
 
 
@@ -483,9 +483,9 @@ Again, from the core of religion, one can bring illumining spirituality to add t
 * Question: I am an artist and I was wondering if there is any way to use my painting or music to inspire my consciousness.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:96
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:96
   :END:
 
 
@@ -498,9 +498,9 @@ Inner life is realisation; outer life is expression. First we realise, then we e
 * Question: Whenever I have to perform, I become nervous and I end up performing badly. Is there anything I can do about this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:97
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:97
   :END:
 
 
@@ -513,9 +513,9 @@ In Jamaica, West Indies, someone once told me a funny story. "We went to a confe
 * Part VIII - Discourse
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:98e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:98e1
   :END:
 
 
@@ -523,9 +523,9 @@ In Jamaica, West Indies, someone once told me a funny story. "We went to a confe
 * What Does It Mean To Be Spiritual?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:98
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:98
   :END:
 
 
@@ -565,9 +565,9 @@ New York, New York \\
 * Part IX - Questions and answers following "What does it mean to be spiritual?"
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:99e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:99e1
   :END:
 
 
@@ -575,9 +575,9 @@ New York, New York \\
 * Question: What is the difference between spiritualism and spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:99
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:99
   :END:
 
 
@@ -588,9 +588,9 @@ New York, New York \\
 * Question: What is Christian spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:100
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:100
   :END:
 
 
@@ -601,9 +601,9 @@ New York, New York \\
 * Question: What is the difference between a spiritual group and a religious group?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:101
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:101
   :END:
 
 
@@ -614,9 +614,9 @@ New York, New York \\
 * Question: Is it possible to distinguish between Jesus the man and what is referred to as the "Christ-Consciousness"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:102
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:102
   :END:
 
 
@@ -629,9 +629,9 @@ If you have faith in a particular spiritual Master, that Master will help you re
 * Question: How does a spiritually illumined being illumine evil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:103
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:103
   :END:
 
 
@@ -642,9 +642,9 @@ If you have faith in a particular spiritual Master, that Master will help you re
 * Question: Prayer and meditation are the same thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:104
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:104
   :END:
 
 
@@ -655,9 +655,9 @@ If you have faith in a particular spiritual Master, that Master will help you re
 * Question: How can I quiet the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:105
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:105
   :END:
 
 
@@ -670,9 +670,9 @@ You want to silence your mind because it is acting like a restless monkey. Restl
 * Question: How can a seeker clear the confusion and know which path is the correct path for him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:106
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:106
   :END:
 
 
@@ -683,9 +683,9 @@ You want to silence your mind because it is acting like a restless monkey. Restl
 * Question: My own spiritual background has taken me into different paths of meditation: Buddhism, Zen and other forms. I feel myself centred in all these particular areas, but am I really splitting myself by consciously practising more than one type of meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:107
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:107
   :END:
 
 
@@ -696,9 +696,9 @@ You want to silence your mind because it is acting like a restless monkey. Restl
 * Question: The /Bhagavad-Gita/ talks about purification. How can I be purified?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:108
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:108
   :END:
 
 

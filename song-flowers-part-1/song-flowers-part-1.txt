@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 750
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1989
-  :PUBLISHER:
-  :CITE-KEY: SF-1
-  :GENRE: song
+  :book-number: 750
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1989
+  :publisher:
+  :cite-key: SF-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:1e1
+  :genre: note
+  :cite-key: SF:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:1e2
+  :genre: note
+  :cite-key: SF:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Japane Asiya Japani Hayechi Japanere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1985
-  :CITE-KEY: SF:1
+  :cite-key: SF:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Bhitare bahire alo
 * Jabona Timirabrita Manakashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:2
+  :cite-key: SF:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Mama hiya pure ullase
 * Jani Ami Jani Phutibe Amar Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:3
+  :cite-key: SF:3
   :END:
 
 #+BEGIN_VERSE
@@ -97,10 +97,10 @@ Prabhu pada tale rahibe
 * Kalpana Pakhi Kalpana Pakhi Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:4
+  :cite-key: SF:4
   :END:
 
 #+BEGIN_VERSE
@@ -116,10 +116,10 @@ Hasiya nachiya uriya
 * Chapal Paran Prashanta Habe Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:5
+  :cite-key: SF:5
   :END:
 
 #+BEGIN_VERSE
@@ -135,10 +135,10 @@ Heri aji sudha bhor
 * Bhangite Amar Moher Bandhan Pujite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:6
+  :cite-key: SF:6
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Taba kripa parabare abo gahi
 * Kothai Paibo Bhakati Kusum Kothai Paibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:7
+  :cite-key: SF:7
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Dibashe nishite kandiya hethai hothai
 * Kripar Sagare Santar Katibo Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:8
+  :cite-key: SF:8
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Nahi jena ar thami
 * Kandibar Age Asiyacho Kache Dhariyacho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:9
+  :cite-key: SF:9
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Amare danibo nath
 * Dure Bahu Dure Ananda Pure Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:10
+  :cite-key: SF:10
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Priyatame mor pabo
 * Kamanar Sathe Mitali Karechi Eshana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:11
+  :cite-key: SF:11
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Britha aso hiya pure
 * Chaowa Paowar Jiban Maran Ek Halo Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:12
+  :cite-key: SF:12
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ He asim raj
 * Shobhana Jahare Nahi Base Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:13
+  :cite-key: SF:13
   :END:
 
 #+BEGIN_VERSE
@@ -287,10 +287,10 @@ Hridaya majhare
 * Shunibo Ajike Bhitare Bahire Puta Nutaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:14
+  :cite-key: SF:14
   :END:
 
 #+BEGIN_VERSE
@@ -306,10 +306,10 @@ Basana durbipak
 * Magi Ami Magi Naba Eshanar Naba Chetanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:15
+  :cite-key: SF:15
   :END:
 
 #+BEGIN_VERSE
@@ -325,10 +325,10 @@ Bishwa bidhata bishwamoy
 * Jibaner Asha Phul Marane Sukhaye Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:16
+  :cite-key: SF:16
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ Amar hridaye pabe
 * Ati Sugopane Ekla Jadi Go Taba Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:17
+  :cite-key: SF:17
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Diyona amare thai
 * Akashe Hasibo Batase Nachibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:18
+  :cite-key: SF:18
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Ati kache ati dure
 * Kemane Pujibo Tomar Charan Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:19
+  :cite-key: SF:19
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Kemane nachibo bidhata kemane
 * Dakite Chahina Hasite Kebal Chahi Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:20
+  :cite-key: SF:20
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ Shudhu mor joy gahi
 * Pashan Hriday Kamal Haibe Pashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:21
+  :cite-key: SF:21
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ Malin manash dhabal
 * Shunite Chahina Balite Chahina Janite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:22
+  :cite-key: SF:22
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Chalo mor pichu pichu
 * Khulite Nayan Khulite Bandhan Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:23
+  :cite-key: SF:23
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Dao more prabhu bhakati
 * Charte Habe Kato Kichu Ei Jibane Charte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:24
+  :cite-key: SF:24
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Mukta hiyar jyotir bhabe
 * Shuno Prabhu Shuno Prabhu Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:25
+  :cite-key: SF:25
   :END:
 
 #+BEGIN_VERSE
@@ -515,10 +515,10 @@ Garbita mor mathati
 * Chhalanar Bale Chahibona Ar Eshanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:26
+  :cite-key: SF:26
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Sakaler sathe tomar bijoy gahibo
 * Durbalata Dehe Prane Durbalata Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:27
+  :cite-key: SF:27
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Taito ami nahi labhi saphalata
 * Khulte Chahi Shatek Juger Badha Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:28
+  :cite-key: SF:28
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Man achire
 * Bhalo Nahi Lage Hriday Gabhire Tibra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:29
+  :cite-key: SF:29
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Khipra mantra na
 * Kandite Chahina Hasite Chahina Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:30
+  :cite-key: SF:30
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ Chahina banchite marite
 * Bhitare Bahire Ghume Jagarane Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:31
+  :cite-key: SF:31
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ Karunar parabar
 * Jishu Jishu Baroi Madhur Nam Ti Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:32
+  :cite-key: SF:32
   :END:
 
 #+BEGIN_VERSE
@@ -648,10 +648,10 @@ Tomar pane tani
 * Kandte Chahi Baste Chahi Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:33
+  :cite-key: SF:33
   :END:
 
 #+BEGIN_VERSE
@@ -667,10 +667,10 @@ Kripar jadu bale
 * Japte Chahi Japte Chahi Kanur Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:34
+  :cite-key: SF:34
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ Kripa abiram
 * Dhan Chahina Man Chahina Chaina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:35
+  :cite-key: SF:35
   :END:
 
 #+BEGIN_VERSE
@@ -705,10 +705,10 @@ Khamar avatar
 * Dharite Chahina Balite Chahina Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:36
+  :cite-key: SF:36
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Pujibo tomare shir kare mor nichu
 * Biraher Dekha Nahi Chahi Ami Maha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:37
+  :cite-key: SF:37
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Prabhur charana rekha
 * Ami Keno Dibanishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:38
+  :cite-key: SF:38
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ Hiya pure dhalo
 * Dukher Rate Sukher Dine Balbo Ekti Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:39
+  :cite-key: SF:39
   :END:
 
 #+BEGIN_VERSE
@@ -779,10 +779,10 @@ Shanti nirabata
 * Niye Jabe Mor Basanar Ghor Niye Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:40
+  :cite-key: SF:40
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ Taba pada tale tani
 * Kandbo Ami Hasbo Ami Tomar Ichchha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:41
+  :cite-key: SF:41
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +817,10 @@ Karbo abirato
 * Jabi Jakhan Karish Na Ar Deri Oi Shun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:42
+  :cite-key: SF:42
   :END:
 
 #+BEGIN_VERSE
@@ -834,10 +834,10 @@ Oi shun oi shun pitar bijoy beri
 * Nil Akashe Nil Akashe Pakhi Nache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:43
+  :cite-key: SF:43
   :END:
 
 #+BEGIN_VERSE
@@ -853,10 +853,10 @@ Bishalatar bhalobase
 * Asha Rani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:44
+  :cite-key: SF:44
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Kothai tumi rakho
 * Jete Habe Jete Habe Tabu Kena Deri Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:45
+  :cite-key: SF:45
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ Parama pitar charan dhari
 * Ajanar Prane Kariyo Na Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:46
+  :cite-key: SF:46
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ Prabhur bijoy gane
 * Chahi... Ektu Kripa Chahi Gahi... Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:47
+  :cite-key: SF:47
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +929,10 @@ Tomar bijoy gahi
 * Kothai Shanti Kothai Shanti Ashanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:48
+  :cite-key: SF:48
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ Unmad durbar
 * Dakar Mato Dakini Bale Niyata Raho Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:49
+  :cite-key: SF:49
   :END:
 
 #+BEGIN_VERSE
@@ -967,10 +967,10 @@ Amar hiya pure
 * Saphal Haibe Swapan Amar Saphal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:50
+  :cite-key: SF:50
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ Amar purir bani
 * Preranar Lagi Eshanar Lagi Sadhanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:51
+  :cite-key: SF:51
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ Nahi jena ar bandhi
 * Sadhana Amar Mithya Chhalana Jani Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:52
+  :cite-key: SF:52
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ Anrite nahi hani
 * Tripti Lagi Kandi Shudhu Tripti Lagi Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:53
+  :cite-key: SF:53
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ Nitya amai bandhi
 * Sabare Tushite Paribona Ami Sabare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:54
+  :cite-key: SF:54
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Tomar charane chharibona
 * Tumi Simahin Tumi Prananath Nahi Nishe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:55
+  :cite-key: SF:55
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Phutibe amai hriday harashe
 * Bedanar Benu Bajabona Ar Mor Bedanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:56
+  :cite-key: SF:56
   :END:
 
 #+BEGIN_VERSE
@@ -1100,10 +1100,10 @@ Ananda pada renu
 * Sagare Nachibo Akashe Uribo Dyuloke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:57
+  :cite-key: SF:57
   :END:
 
 #+BEGIN_VERSE
@@ -1119,10 +1119,10 @@ Labhibo je sandhan
 * Sangit Sur Barai Madhur Sabar Hiyai Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:58
+  :cite-key: SF:58
   :END:
 
 #+BEGIN_VERSE
@@ -1138,10 +1138,10 @@ Vishwa chetana bani
 * Usha Rani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:59
+  :cite-key: SF:59
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ Amar hiya khani
 * Sabai Amare Chariya Jaibe Sabai Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:60
+  :cite-key: SF:60
   :END:
 
 #+BEGIN_VERSE
@@ -1176,10 +1176,10 @@ Kebal tomar lagiya
 * Sabar Sathe Jete Habe Sabar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:61
+  :cite-key: SF:61
   :END:
 
 #+BEGIN_VERSE
@@ -1195,10 +1195,10 @@ Jaganathe
 * Bedanar Sathe Mishe Dibanishi Bedana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:62
+  :cite-key: SF:62
   :END:
 
 #+BEGIN_VERSE
@@ -1214,10 +1214,10 @@ Ananda aphuran
 * Samarpibo Samarpibo Jader Lagi Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:63
+  :cite-key: SF:63
   :END:
 
 #+BEGIN_VERSE
@@ -1233,10 +1233,10 @@ Sabai mile gaite tomar gan
 * Balar Lage Chalar Lage Tomai Jena Smari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:64
+  :cite-key: SF:64
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ Charan jena dhari
 * Phuler Mato Puta Habo Phuler Mato Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:65
+  :cite-key: SF:65
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Bishwa pitar paye rabo
 * Supta Maner Durbalata Badha Praner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:66
+  :cite-key: SF:66
   :END:
 
 #+BEGIN_VERSE
@@ -1289,10 +1289,10 @@ Asimatar nirabata
 * Sushama Dyuloke Sushama Bhuloke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: SF:67
+  :cite-key: SF:67
   :END:
 
 #+BEGIN_VERSE
@@ -1308,10 +1308,10 @@ Hasibo nachibo achier
 * Sabar Dukhe Paran Kande Teman Marush
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:68
+  :cite-key: SF:68
   :END:
 
 #+BEGIN_VERSE
@@ -1327,10 +1327,10 @@ Kebal hethai hothai
 * Pranam Janate Kariyachi Deri Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1985
-  :CITE-KEY: SF:69
+  :cite-key: SF:69
   :END:
 
 #+BEGIN_VERSE
@@ -1346,10 +1346,10 @@ Ananda nabhe harate
 * Basana Duar Khulite Chahina Basana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1985
-  :CITE-KEY: SF:70
+  :cite-key: SF:70
   :END:
 
 #+BEGIN_VERSE

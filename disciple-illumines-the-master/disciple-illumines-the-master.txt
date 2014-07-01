@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0021
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: DIM
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0021
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: DIM
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The disciple illumines the Master
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:1
+  :genre: play
+  :keywords:
+  :cite-key: DIM:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:2e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:2e1
   :END:
 
 
@@ -81,9 +81,9 @@ ANGEL
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:2
+  :genre: play
+  :keywords:
+  :cite-key: DIM:2
   :END:
 
 
@@ -91,9 +91,9 @@ ANGEL
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:3
+  :genre: play
+  :keywords:
+  :cite-key: DIM:3
   :END:
 
 
@@ -124,9 +124,9 @@ ROHINI: Master, I shall do my best to make a most delicious meal for you. If you
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:4
+  :genre: play
+  :keywords:
+  :cite-key: DIM:4
   :END:
 
 
@@ -171,9 +171,9 @@ NEIGHBOURS: Take us there.
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:5
+  :genre: play
+  :keywords:
+  :cite-key: DIM:5
   :END:
 
 
@@ -206,9 +206,9 @@ SECOND NEIGHBOUR: I would have called the police and had him arrested! But this 
 * Scene IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:6
+  :genre: play
+  :keywords:
+  :cite-key: DIM:6
   :END:
 
 
@@ -271,9 +271,9 @@ KAVIR: Oh Father, where was I? I seemed to be in another world. I saw my mother 
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:7
+  :genre: play
+  :keywords:
+  :cite-key: DIM:7
   :END:
 
 
@@ -310,9 +310,9 @@ FIRST POLICEMAN: You are both under arrest. Let’s go.
 * Scene VI
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:8
+  :genre: play
+  :keywords:
+  :cite-key: DIM:8
   :END:
 
 
@@ -329,9 +329,9 @@ ROHINI: Do not call him a rascal, my child. He is our Master. He knows the kind 
 * Scene VII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:9
+  :genre: play
+  :keywords:
+  :cite-key: DIM:9
   :END:
 
 
@@ -348,9 +348,9 @@ RATAN: Call me a fool, say anything you want against me, but please don’t crit
 * Scene VIII
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:10
+  :genre: play
+  :keywords:
+  :cite-key: DIM:10
   :END:
 
 
@@ -369,9 +369,9 @@ DAYAL: No, no, Mother Rohini. Master, last night I had a dream. My parents came 
 * Scene IX
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:11
+  :genre: play
+  :keywords:
+  :cite-key: DIM:11
   :END:
 
 
@@ -429,9 +429,9 @@ ANGEL: The moment I touch your head, you will be illumined. Then wake your Maste
 * Maitreyi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:12
+  :genre: play
+  :keywords:
+  :cite-key: DIM:12
   :END:
 
 
@@ -439,9 +439,9 @@ ANGEL: The moment I touch your head, you will be illumined. Then wake your Maste
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:13e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:13e1
   :END:
 
 
@@ -454,9 +454,9 @@ KATYAYANI, MAITREYI, HIS WIVES
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:13
+  :genre: play
+  :keywords:
+  :cite-key: DIM:13
   :END:
 
 
@@ -464,9 +464,9 @@ KATYAYANI, MAITREYI, HIS WIVES
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:14
+  :genre: play
+  :keywords:
+  :cite-key: DIM:14
   :END:
 
 
@@ -583,9 +583,9 @@ YAGNYAVALKYA: Maitreyi, dearer than my life, to you I offer my heart’s eternal
 * Savitri
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:15
+  :genre: play
+  :keywords:
+  :cite-key: DIM:15
   :END:
 
 
@@ -593,9 +593,9 @@ YAGNYAVALKYA: Maitreyi, dearer than my life, to you I offer my heart’s eternal
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:16e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:16e1
   :END:
 
 
@@ -616,9 +616,9 @@ YAMARAJ, THE KING OF DEATH
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:16
+  :genre: play
+  :keywords:
+  :cite-key: DIM:16
   :END:
 
 
@@ -626,9 +626,9 @@ YAMARAJ, THE KING OF DEATH
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:17
+  :genre: play
+  :keywords:
+  :cite-key: DIM:17
   :END:
 
 
@@ -709,9 +709,9 @@ SAVITRI: Bless me, O sage. Satyavan, Satyavan! He is my heart’s light; he is m
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:18
+  :genre: play
+  :keywords:
+  :cite-key: DIM:18
   :END:
 
 
@@ -728,9 +728,9 @@ DYUMATSEN: I know, I know. You and Satyavan will do everything for me. I live on
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:19
+  :genre: play
+  :keywords:
+  :cite-key: DIM:19
   :END:
 
 
@@ -753,9 +753,9 @@ SATYAVAN: Savitri, is there anything on earth that I would not do for you? My bo
 * Scene IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:20
+  :genre: play
+  :keywords:
+  :cite-key: DIM:20
   :END:
 
 
@@ -842,9 +842,9 @@ SAVITRI: I will tell you all about it, O Satyavan, O Lord of my life. Let us go 
 * Kali and Krishna are One
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:21
+  :genre: play
+  :keywords:
+  :cite-key: DIM:21
   :END:
 
 
@@ -852,9 +852,9 @@ SAVITRI: I will tell you all about it, O Satyavan, O Lord of my life. Let us go 
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:22e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:22e1
   :END:
 
 
@@ -871,9 +871,9 @@ ANGEL
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:22
+  :genre: play
+  :keywords:
+  :cite-key: DIM:22
   :END:
 
 
@@ -881,9 +881,9 @@ ANGEL
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:23
+  :genre: play
+  :keywords:
+  :cite-key: DIM:23
   :END:
 
 
@@ -918,9 +918,9 @@ WIFE: I also want to tell you, my son, that if you are fond of Kali, you must no
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:24
+  :genre: play
+  :keywords:
+  :cite-key: DIM:24
   :END:
 
 
@@ -963,9 +963,9 @@ ANGEL: It was your son’s prayer that we heard. Your son has always been suffer
 * Sunda and Upasunda
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:25
+  :genre: play
+  :keywords:
+  :cite-key: DIM:25
   :END:
 
 
@@ -973,9 +973,9 @@ ANGEL: It was your son’s prayer that we heard. Your son has always been suffer
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:26e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:26e1
   :END:
 
 
@@ -1002,9 +1002,9 @@ FOUR DANCING GIRLS
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:26
+  :genre: play
+  :keywords:
+  :cite-key: DIM:26
   :END:
 
 
@@ -1012,9 +1012,9 @@ FOUR DANCING GIRLS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:27
+  :genre: play
+  :keywords:
+  :cite-key: DIM:27
   :END:
 
 
@@ -1139,9 +1139,9 @@ SUNDA: We must, without fail, we must.
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:28
+  :genre: play
+  :keywords:
+  :cite-key: DIM:28
   :END:
 
 
@@ -1174,9 +1174,9 @@ O Brahma, do appear before us. Do make us immortal like Indra. Everything we hav
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:29
+  :genre: play
+  :keywords:
+  :cite-key: DIM:29
   :END:
 
 
@@ -1255,9 +1255,9 @@ SUNDA: And we easily can.
 * Scene IV
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:30
+  :genre: play
+  :keywords:
+  :cite-key: DIM:30
   :END:
 
 
@@ -1315,9 +1315,9 @@ THE FOUR SAINTS /(together bowing down to Brahma)/: We are sure that Tilottama�
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:31
+  :genre: play
+  :keywords:
+  :cite-key: DIM:31
   :END:
 
 
@@ -1364,9 +1364,9 @@ INDRA: Tilottama, you have saved me. You have saved my divine pride. You have sa
 * Ganapati’s marriage
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:32
+  :genre: play
+  :keywords:
+  :cite-key: DIM:32
   :END:
 
 
@@ -1374,9 +1374,9 @@ INDRA: Tilottama, you have saved me. You have saved my divine pride. You have sa
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: DIM:33e1
+  :genre: note
+  :keywords:
+  :cite-key: DIM:33e1
   :END:
 
 
@@ -1395,9 +1395,9 @@ TWO WIVES OF GANAPATI
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:33
+  :genre: play
+  :keywords:
+  :cite-key: DIM:33
   :END:
 
 
@@ -1405,9 +1405,9 @@ TWO WIVES OF GANAPATI
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:34
+  :genre: play
+  :keywords:
+  :cite-key: DIM:34
   :END:
 
 
@@ -1472,9 +1472,9 @@ GANAPATI /(very happy)/: Oh, Mother! They will help you, so you won’t have to 
 * Scene II
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:35
+  :genre: play
+  :keywords:
+  :cite-key: DIM:35
   :END:
 
 
@@ -1505,9 +1505,9 @@ KUMARA: Unbelievable! Unthinkable! My parents, my own parents have deceived me! 
 * Scene III
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: DIM:36
+  :genre: play
+  :keywords:
+  :cite-key: DIM:36
   :END:
 
 

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 756
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1989
-  :PUBLISHER:
-  :CITE-KEY: SF-4
-  :GENRE: song
+  :book-number: 756
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1989
+  :publisher:
+  :cite-key: SF-4
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:238e1
+  :genre: note
+  :cite-key: SF:238e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:238e2
+  :genre: note
+  :cite-key: SF:238e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ashar Setu Bhangbena Mor Dekhbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:238
+  :cite-key: SF:238
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Dekhbo shudhu hridayer bhor
 * Tanima Hiyai Phutechhe Lalima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:239
+  :cite-key: SF:239
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Paramer lagi charam mahima
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-12-1986
-  :CITE-KEY: SF:240
+  :cite-key: SF:240
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Are only for the Absolute Lord Supreme.
 * Shashwata Prabhu Pada Anupadi Bhitare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:241
+  :cite-key: SF:241
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Bidhatar banshi shuni nirabadhi
 * Ekla Ami Jyotir Deshe Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:242
+  :cite-key: SF:242
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ Ekla ami jayar giti gabo
 * Dukhbona Ar Maner Guhai Dukhbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:243
+  :cite-key: SF:243
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ Nachbona ar simar guhai nachbona
 * Keno Keno Bhayer Sathe Kotha Bali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:244
+  :cite-key: SF:244
   :END:
 
 #+BEGIN_VERSE
@@ -168,10 +168,10 @@ Keno keno chahina dite bhayer bali
 * Keno Ami Rakhi Ashar Swapane Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:245
+  :cite-key: SF:245
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Keno nahi jagi atmatyager sure
 * Bhikharir Mato Chahibona Ar Bhikharir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:246
+  :cite-key: SF:246
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Asurer mato hanibona ar asurer mato hanibona
 * Simar Bandhan Pagol Amare Kareche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:247
+  :cite-key: SF:247
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ Simar lochan amare bandiya dhareche
 * Tomai Ami Khahite Chahi Khahite Sathar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-1986
-  :CITE-KEY: SF:248
+  :cite-key: SF:248
   :END:
 
 #+BEGIN_VERSE
@@ -240,10 +240,10 @@ Bhalo lage tyager nishan khahite
 * Ashar Duar Khulbo Aji Ashar Trishar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:249
+  :cite-key: SF:249
   :END:
 
 #+BEGIN_VERSE
@@ -258,10 +258,10 @@ Kripar brishthi nambe aji kripar
 * Kahar Sathe Balbo Katha Kahar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:250
+  :cite-key: SF:250
   :END:
 
 #+BEGIN_VERSE
@@ -276,10 +276,10 @@ Kahar prane basbo bhalo kahar prane basbona
 * Ananda Pakhi Kotha Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:251
+  :cite-key: SF:251
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Amar swapan tomar nayane shudhu ami rakhi
 * Namte Habe Sabar Sathe Ganga Nadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:252
+  :cite-key: SF:252
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Puta premer bale
 * Sukh Pakhi Sukh Pakhi Kotha Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:253
+  :cite-key: SF:253
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Daya kare keno more mane nahi rakho
 * Shanti Kothai Shanti Kothai Shanti Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:254
+  :cite-key: SF:254
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Sara jiban agyanata bhranti
 * Phutte Hale Phuler Mato Kandte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:255
+  :cite-key: SF:255
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ Matha kare nitya nato
 * Antare Jwalo Abhipsa Shikha Antare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:256
+  :cite-key: SF:256
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Malin maner kalo
 * Chanchalata Chanchalata Maner Baner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:257
+  :cite-key: SF:257
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Chanchalata Chanchalata Maner Baner
 * Jani Tomar Ashesh Kripar Jani Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-12-1986
-  :CITE-KEY: SF:258
+  :cite-key: SF:258
   :END:
 
 #+BEGIN_VERSE
@@ -417,10 +417,10 @@ Tabu keno tomar hiyai nithur aghat hani
 * Jedin Tomare Bidhata Pabo Sedin Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:259
+  :cite-key: SF:259
   :END:
 
 #+BEGIN_VERSE
@@ -434,10 +434,10 @@ Sedin amar amire khabo
 * Hese Khele Dake Amai Akash Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:260
+  :cite-key: SF:260
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ Taito amar hiya pure ananta ullas
 * Haste Jani Nachte Jani Kandte Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:261
+  :cite-key: SF:261
   :END:
 
 #+BEGIN_VERSE
@@ -468,10 +468,10 @@ Dite chahi paran bhare nite chahina
 * Kusum Sama Phuteche Ami Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:262
+  :cite-key: SF:262
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Dhara ami nahi dibo simar bandhane
 * Phutte Hale Khulte Habe Hridaye Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:263
+  :cite-key: SF:263
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Bhangte hale pujte habe praner joar
 * Eso Eso Ogo Hridaye Amar Ganga
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:264
+  :cite-key: SF:264
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ Pabitar hasi phutate danite chahibo adhuna
 * Sukher Dine Dukher Rate Tomai Pujibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:265
+  :cite-key: SF:265
   :END:
 
 #+BEGIN_VERSE
@@ -536,10 +536,10 @@ Bhakti bhare sri charane amai rakhibo
 * Ekhano Amije Parajaye Kandi Parajaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:266
+  :cite-key: SF:266
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Jaye parajaye kabe ami habo abhinna sama gyan
 * Ashar Baridhi Jabena Shukaye Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:267
+  :cite-key: SF:267
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +570,10 @@ Tomar charane rakhi jadi matha prabhu
 * Dosh Dekhi Sammukhe Dosh Dekhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1986
-  :CITE-KEY: SF:268
+  :cite-key: SF:268
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ Durbal kari more pashu sama kari jabe rosh
 * Ami Ek Ami Ek Ami Ek Amar Lochane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:269
+  :cite-key: SF:269
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ Amar lochane paramer dekh
 * Ami Dui Ami Dui
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:270
+  :cite-key: SF:270
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Matha hiya diye paramer chhui
 * Ami Tin Ami Tin Ami Tin Paramer Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:271
+  :cite-key: SF:271
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Paramer byatha shoke tap hin
 * Ami Char Ami Char Ami Char Charidhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:272
+  :cite-key: SF:272
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ Charidhare paramer kripar har
 * Ami Panch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:273
+  :cite-key: SF:273
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Panchendriye paramer nach
 * Ami Chhoi Ami Chhoi Ami Chhoi Kundalini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:274
+  :cite-key: SF:274
   :END:
 
 #+BEGIN_VERSE
@@ -689,10 +689,10 @@ Kundalini mal paramer joy
 * Ami Sath Ami Sath Ami Sath Sapta Jagate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:275
+  :cite-key: SF:275
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Sapta jagate paramer hath
 * Jatri Ami Tari Ami Ami Majhi Bhitar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:276
+  :cite-key: SF:276
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Bhitar bahir habo prabhu pujar sanjhi
 * Tari Beye Jabo Ami Sudurer Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:277
+  :cite-key: SF:277
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Nutanere neharibo kende ar hese
 * Ore Mor Hiya Nadi Ore Mor Hiya Nadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:278
+  :cite-key: SF:278
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Ananda sangite tumi chalo nirabadhi
 * Nadi Chale Druta Bege Sagarer Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:279
+  :cite-key: SF:279
   :END:
 
 #+BEGIN_VERSE
@@ -773,10 +773,10 @@ Nadi Chale Druta Bege Sagarer Pane
 * Hiya Tatinite Santaran Karibo Abhaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:280
+  :cite-key: SF:280
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Karibo abhaye chirantan
 * Akutire Sathe Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:281
+  :cite-key: SF:281
   :END:
 
 #+BEGIN_VERSE
@@ -807,10 +807,10 @@ Thai pete alo parabar kole prem bate
 * Suradhuni Suradhuni Bidhatar Karunar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:282
+  :cite-key: SF:282
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ Jogi muni
 * Hiya Amar Chahe Shudhu Nadir Tibra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:283
+  :cite-key: SF:283
   :END:
 
 #+BEGIN_VERSE
@@ -847,10 +847,10 @@ Janai bhakti nati
 * Eshana Tatini Eshana Tatini Eshana Tatini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:284
+  :cite-key: SF:284
   :END:
 
 #+BEGIN_VERSE
@@ -866,10 +866,10 @@ Aparupa puta bhor
 * Maya Moha Jal Chinta Malin Binash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:285
+  :cite-key: SF:285
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ Nachibo hridaya gabhire
 * Jogyata Niye Asi Nai Ami Dharanite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:286
+  :cite-key: SF:286
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Asiyachi shudhu prabhur charane pranamite
 * Dhrubha Tara Mato Habo Alokito Ei Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SF:287
+  :cite-key: SF:287
   :END:
 
 #+BEGIN_VERSE

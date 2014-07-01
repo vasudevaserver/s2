@@ -7,23 +7,23 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0119
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FFB-1
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0119
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: FFB-1
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: FFB:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: FFB:1e1
   :END:
 
 
@@ -33,18 +33,18 @@ The ten lectures in this book are part of a fifty-state lecture tour Sri Chinmoy
 * Part I Talks
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:1e2
+  :genre: section
+  :keywords:
+  :cite-key: FFB:1e2
   :END:
 
 
 * Thought-Waves
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:1
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:1
   :END:
 
 
@@ -80,9 +80,9 @@ January 9, 1974 - 2:00 p.m./
 * Realisation, revelation and perfection
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:2
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:2
   :END:
 
 
@@ -139,9 +139,9 @@ What does God do for us? What God does for us is simple, spontaneous, illumining
 * The world within and the world without
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:3
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:3
   :END:
 
 
@@ -206,9 +206,9 @@ January 11, 1974/
 * You
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: FFB:4
+  :genre: poem
+  :keywords:
+  :cite-key: FFB:4
   :END:
 
 
@@ -352,9 +352,9 @@ January 12, 1974/
 * Self-examination
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:5
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:5
   :END:
 
 
@@ -396,9 +396,9 @@ January 14, 1974/
 * Choice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:6
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:6
   :END:
 
 
@@ -434,9 +434,9 @@ January 16, 1974 - 2:00 p.m./
 * Meditation and the inner education
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:7
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:7
   :END:
 
 
@@ -472,9 +472,9 @@ January 16, 1974 - 8:00 p.m./
 * Experience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:8
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:8
   :END:
 
 
@@ -584,9 +584,9 @@ January 22, 1974/ \\
 * The heart
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:9
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:9
   :END:
 
 
@@ -640,9 +640,9 @@ January 22, 1974 - 8:00 p.m./
 * Time
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:10
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:10
   :END:
 
 
@@ -730,9 +730,9 @@ January 25, 1974/
 * Part II -- Questions and answers: New York University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:11e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:11e1
   :END:
 
 
@@ -740,9 +740,9 @@ January 25, 1974/
 * /Question: Is the potential that anybody has for spiritual growth limited by astrological possibilities or some other possibilities which are available to them, or can everything be overcome with a great enough effort?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:11
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:11
   :END:
 
 
@@ -759,9 +759,9 @@ There is no such thing as impossibility. It is only a matter of time. But if we 
 * /Question: Why is there creation?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:12
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:12
   :END:
 
 
@@ -774,9 +774,9 @@ God was quite perfect when He was the silent Brahman, when He was in the tranceb
 * /Question: If I am God and I have God, then why do I need God and want God?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:13
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:13
   :END:
 
 
@@ -787,9 +787,9 @@ God was quite perfect when He was the silent Brahman, when He was in the tranceb
 * /Question: Does the divine Will predetermine what will happen in our life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:14
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:14
   :END:
 
 
@@ -800,9 +800,9 @@ God was quite perfect when He was the silent Brahman, when He was in the tranceb
 * /Question: What does God have to do with suffering, pain and sickness?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:15
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:15
   :END:
 
 
@@ -813,9 +813,9 @@ God was quite perfect when He was the silent Brahman, when He was in the tranceb
 * Part III -- Questions and answers: University Of Connecticut, Storrs
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:16e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:16e1
   :END:
 
 
@@ -823,9 +823,9 @@ God was quite perfect when He was the silent Brahman, when He was in the tranceb
 * /Question: How can a person be sure that he really has aspiration?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:16
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:16
   :END:
 
 
@@ -838,9 +838,9 @@ To come back to your question, you do have aspiration. But if you are conscious 
 * /Question: When we find ourselves encountering difficulties in the spiritual life, is the best thing just to surrender to God's Will and leave it all up to Him?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:17
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:17
   :END:
 
 
@@ -857,9 +857,9 @@ So if you can go deep within, please ask God to take care of you. Let your aspir
 * /Question: What is the cause of ignorance?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:18
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:18
   :END:
 
 
@@ -870,9 +870,9 @@ So if you can go deep within, please ask God to take care of you. Let your aspir
 * Part IV: Questions and answers: University Of Maryland
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:19e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:19e1
   :END:
 
 
@@ -880,9 +880,9 @@ So if you can go deep within, please ask God to take care of you. Let your aspir
 * /Question: Is there any reason for doubt?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:19
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:19
   :END:
 
 
@@ -901,9 +901,9 @@ Inside us there is a white tablet of inner purity. The moment we doubt, we creat
 * Part V -- Questions and answers: University Of Delaware
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:20e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:20e1
   :END:
 
 
@@ -911,9 +911,9 @@ Inside us there is a white tablet of inner purity. The moment we doubt, we creat
 * /Question: What is the difference between the inner teacher and the outer teacher?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:20
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:20
   :END:
 
 
@@ -924,9 +924,9 @@ Inside us there is a white tablet of inner purity. The moment we doubt, we creat
 * /Question: Why is it that so many Indian spiritual Masters come to America instead of trying to help the people in their own country, where there is so much poverty and hunger?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:21
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:21
   :END:
 
 
@@ -941,9 +941,9 @@ To confine any human being to his native land is foolishness. It is the mind tha
 * Part VI -- Questions and answers: Princeton University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:22e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:22e1
   :END:
 
 
@@ -951,9 +951,9 @@ To confine any human being to his native land is foolishness. It is the mind tha
 * /Question: How can we have more joy and less tension in our daily life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:22
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:22
   :END:
 
 
@@ -968,9 +968,9 @@ We must see that God operates not only in us but in others as well. God also ope
 * /Question: If we have a job that involves a lot of thinking and activity, how can we maintain any sense of spirituality or light?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:23
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:23
   :END:
 
 
@@ -983,9 +983,9 @@ You always have the capacity to bring something forward which you have earned fr
 * Part VII -- Questions and answers: University Of Pennsylvania
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:24e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:24e1
   :END:
 
 
@@ -993,9 +993,9 @@ You always have the capacity to bring something forward which you have earned fr
 * /Question: What dies?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:24
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:24
   :END:
 
 
@@ -1010,9 +1010,9 @@ Creator and creation are one. When someone creates something, immediately he ide
 * /Question: Can we make as much spiritual progress living in the world and leading the life of a householder as we would living an ashram life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:25
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:25
   :END:
 
 
@@ -1027,9 +1027,9 @@ If you have this divine attitude towards studies or towards your family, then yo
 * Part VIII -- Questions and answers: Marlboro College
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:26e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:26e1
   :END:
 
 
@@ -1037,9 +1037,9 @@ If you have this divine attitude towards studies or towards your family, then yo
 * /Question: When you speak of someone seeking enlightenment, doesn't that imply that the person does not have it inside him? And how can one ever attain it by seeking it?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:26
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:26
   :END:
 
 
@@ -1050,9 +1050,9 @@ If you have this divine attitude towards studies or towards your family, then yo
 * /Question: Do you have any idea of why it was lost?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:27
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:27
   :END:
 
 
@@ -1063,9 +1063,9 @@ If you have this divine attitude towards studies or towards your family, then yo
 * /Question: Why are we more attracted to temptation, or the unreal coin?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:28
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:28
   :END:
 
 
@@ -1076,9 +1076,9 @@ If you have this divine attitude towards studies or towards your family, then yo
 * /Question: Is meditation the only way to achieve enlightenment?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:29
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:29
   :END:
 
 

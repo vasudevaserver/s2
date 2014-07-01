@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 758
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1991
-  :PUBLISHER:
-  :CITE-KEY: IAFS
-  :GENRE: song
+  :book-number: 758
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1991
+  :publisher:
+  :cite-key: IAFS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IAFS:1e1
+  :genre: note
+  :cite-key: IAFS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: IAFS:1e2
+  :genre: note
+  :cite-key: IAFS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Talk Too Much
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:1
+  :cite-key: IAFS:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ I am a fool.
 * I Eat Too Much
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:2
+  :cite-key: IAFS:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ I am a fool.
 * I Sleep Too Much
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:3
+  :cite-key: IAFS:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ I am a fool!
 * I Fear My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:4
+  :cite-key: IAFS:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ I am a fool.
 * I Hate My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:5
+  :cite-key: IAFS:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ I am a fool.
 * I See No Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:6
+  :cite-key: IAFS:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ I am a fool.
 * I Do Nothing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:7
+  :cite-key: IAFS:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ I am a fool.
 * I Know Nothing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:8
+  :cite-key: IAFS:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ I am a fool.
 * I Blame the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:9
+  :cite-key: IAFS:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ I am a fool.
 * I Boast and Boast
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:10
+  :cite-key: IAFS:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ I am a fool.
 * I Do Not Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:11
+  :cite-key: IAFS:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ I am a fool.
 * I Do Not Change
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:12
+  :cite-key: IAFS:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ I am a fool.
 * I Love Gossip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:13
+  :cite-key: IAFS:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ I am a fool.
 * I Love Flattery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:14
+  :cite-key: IAFS:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ I am a fool.
 * I Feed My Doubts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:15
+  :cite-key: IAFS:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ I am a fool.
 * I Love Sound-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:16
+  :cite-key: IAFS:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ I am a fool.
 * I Never Try
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:17
+  :cite-key: IAFS:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ I am a fool.
 * I Do Not Need God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:18
+  :cite-key: IAFS:18
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ I am a fool.
 * I Chase Silence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:19
+  :cite-key: IAFS:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ I am a fool.
 * I Grow Ill Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:20
+  :cite-key: IAFS:20
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ I am a fool.
 * I Am Heartless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:21
+  :cite-key: IAFS:21
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ I am a fool.
 * I Deny Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:22
+  :cite-key: IAFS:22
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ I am a fool.
 * I Starve My Faith. I Am A Fool
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:23
+  :cite-key: IAFS:23
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ I Starve My Faith.  I Am A Fool
 * I Love Lethargy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:24
+  :cite-key: IAFS:24
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ I am a fool.
 * I Love Despair
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:25
+  :cite-key: IAFS:25
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ I am a fool.
 * I Hold Hatreds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:26
+  :cite-key: IAFS:26
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ I am a fool.
 * I Choose Misery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:27
+  :cite-key: IAFS:27
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ I am a fool.
 * I Add Desires
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:28
+  :cite-key: IAFS:28
   :END:
 
 #+BEGIN_VERSE
@@ -516,10 +516,10 @@ I am a fool.
 * I Am Not Ready
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:29
+  :cite-key: IAFS:29
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ I am a fool.
 * I Can’t Forgive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:30
+  :cite-key: IAFS:30
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ I am a fool.
 * I Do Not Forget
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:31
+  :cite-key: IAFS:31
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ I am a fool.
 * I Just Delay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:32
+  :cite-key: IAFS:32
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ I am a fool.
 * I Crave for Fame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:33
+  :cite-key: IAFS:33
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ I am a fool.
 * I Love Bondage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:34
+  :cite-key: IAFS:34
   :END:
 
 #+BEGIN_VERSE
@@ -618,10 +618,10 @@ I am a fool.
 * I Am Stubborn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:35
+  :cite-key: IAFS:35
   :END:
 
 #+BEGIN_VERSE
@@ -635,10 +635,10 @@ I am a fool.
 * I Break Promises
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:36
+  :cite-key: IAFS:36
   :END:
 
 #+BEGIN_VERSE
@@ -652,10 +652,10 @@ I am a fool.
 * I Am Suspicious
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:37
+  :cite-key: IAFS:37
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ I am a fool.
 * I Am Orderless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:38
+  :cite-key: IAFS:38
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ I am a fool.
 * I Waste Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:39
+  :cite-key: IAFS:39
   :END:
 
 #+BEGIN_VERSE
@@ -703,10 +703,10 @@ I am a fool.
 * I Do Not Brave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:40
+  :cite-key: IAFS:40
   :END:
 
 #+BEGIN_VERSE
@@ -720,10 +720,10 @@ I am a fool.
 * I Don’t Unlearn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:41
+  :cite-key: IAFS:41
   :END:
 
 #+BEGIN_VERSE
@@ -737,10 +737,10 @@ I am a fool.
 * I Need Nobody
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:42
+  :cite-key: IAFS:42
   :END:
 
 #+BEGIN_VERSE
@@ -754,10 +754,10 @@ I am a fool.
 * I Think Wrong Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:43
+  :cite-key: IAFS:43
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ I am a fool.
 * I Am a Rumour-Enjoyer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:44
+  :cite-key: IAFS:44
   :END:
 
 #+BEGIN_VERSE
@@ -788,10 +788,10 @@ I am a fool.
 * I Drink Jealousy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:45
+  :cite-key: IAFS:45
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ I am a fool.
 * I Do Not Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:46
+  :cite-key: IAFS:46
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ I am a fool.
 * I Do Not Laugh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:47
+  :cite-key: IAFS:47
   :END:
 
 #+BEGIN_VERSE
@@ -839,10 +839,10 @@ I am a fool.
 * I Judge Everyone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:48
+  :cite-key: IAFS:48
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ I am a fool.
 * I Claim Perfection
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:49
+  :cite-key: IAFS:49
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ I am a fool.
 * I Don’t Aspire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:50
+  :cite-key: IAFS:50
   :END:
 
 #+BEGIN_VERSE
@@ -890,10 +890,10 @@ I am a fool.
 * I Do Not Sing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:51
+  :cite-key: IAFS:51
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ I am a fool.
 * I Sail Worry-Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:52
+  :cite-key: IAFS:52
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ I am a fool.
 * I Veil My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:53
+  :cite-key: IAFS:53
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ I am a fool.
 * I Blind My Eyes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:54
+  :cite-key: IAFS:54
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ I am a fool.
 * I Dine With Frowns
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:55
+  :cite-key: IAFS:55
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ I am a fool.
 * I Pity the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:56
+  :cite-key: IAFS:56
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ I am a fool.
 * I Crave for Power
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:57
+  :cite-key: IAFS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1009,10 +1009,10 @@ I am a fool.
 * I Torture My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:58
+  :cite-key: IAFS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ I am a fool.
 * I Study at My Self-Doubt-School
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:59
+  :cite-key: IAFS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ I am a fool.
 * Finally, I Admit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: IAFS:60
+  :cite-key: IAFS:60
   :END:
 
 #+BEGIN_VERSE

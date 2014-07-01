@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1088
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: SABK
-  :GENRE: song
+  :book-number: 1088
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: SABK
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SABK:1e1
+  :genre: note
+  :cite-key: SABK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SABK:1e2
+  :genre: note
+  :cite-key: SABK:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Swapane Amije Rajar Dulal Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:1
+  :cite-key: SABK:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Bastabe ami manda kapal
 * Swapane Amije Hiyakashe Uri Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:2
+  :cite-key: SABK:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Bastabe mano bane ghure mari
 * Swapane Amije Bishal Hriday Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:3
+  :cite-key: SABK:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Bastabe ami ghor nirday
 * Swapane Amije Prabhur Charane Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:4
+  :cite-key: SABK:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Bastabe ami danab bhojane
 * Swapane Amije Amar Amire Nashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:5
+  :cite-key: SABK:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Bastabe ami tare baro bhalobasi
 * Swapane Amije Mukti Sagar Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1986
-  :CITE-KEY: SABK:6
+  :cite-key: SABK:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Bastabe ami supti bindu supti
 * Swapane Amije Brahma Vishnu Shib
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:7
+  :cite-key: SABK:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Bastabe ami mrita deha nirjib
 * Swapane Amije Dharar Tarak Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:8
+  :cite-key: SABK:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Bastabe ami moher palak
 * Swapane Amije Tyager Sagar Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:9
+  :cite-key: SABK:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Bastabe ami nithur pathar
 * Swapane Amije Ashar Akash Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:10
+  :cite-key: SABK:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Bastabe ami chitta nirash
 * Swapane Amije Shanti Fuara Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:11
+  :cite-key: SABK:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Bastabe ami pathi disha hara
 * Swapane Amije Prabhur Seba Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:12
+  :cite-key: SABK:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Bastabe ami more niye mari
 * Swapane Amije Birer Ketan Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:13
+  :cite-key: SABK:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Bastabe ami bhirur kapan
 * Swapane Amije Ahana Nabin Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:14
+  :cite-key: SABK:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Bastabe ami tamasa prachin
 * Swapane Amije Ananda Pakhi Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:15
+  :cite-key: SABK:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Bastabe ami jal bhava ankhi
 * Swapane Amije Prema Parabar Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:16
+  :cite-key: SABK:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Bastabe ami irsha jowar
 * Swapane Amije Sabakar Lagi Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:17
+  :cite-key: SABK:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Bastabe ami mor anuragi
 * Swapane Amije Eshana Golap Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:18
+  :cite-key: SABK:18
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Bastabe ami ghumer pralap
 * Swapane Amije Amarar Asha Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:19
+  :cite-key: SABK:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Bastabe ami maraner bhasha
 * Swapane Amije Jyoti Anadir Bastabe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:20
+  :cite-key: SABK:20
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ Bastabe ami timir prachir
 * Swapane Amije Dyuloker Sudha Bastabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1986
-  :CITE-KEY: SABK:21
+  :cite-key: SABK:21
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Bastabe ami bhuloker khudha
 * Chand.......... Tomar Kripai Ei Jibaner Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:22
+  :cite-key: SABK:22
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ Tomar kripai ei jibaner nahi jena ghate paramad
 * Chander Sudha Chander Sudha Chander
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:23
+  :cite-key: SABK:23
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Karbe puran nidra bihin dharar khudha
 * Sangi Amar Din Rajani Sangi Shashi Rabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:24
+  :cite-key: SABK:24
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Taito ami atma bhola rupantarer kabi
 * Chander Deshe Jabo Ami Chander Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:25
+  :cite-key: SABK:25
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ Balbo ami praner katha hese hese
 * Shashi..... Jagrata Nirmala Karo Mor Prana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:26
+  :cite-key: SABK:26
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ Jagrata nirmala karo mor prana masi
 * Sudhakar.. Bhalobasi Taba Sudha Antar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:27
+  :cite-key: SABK:27
   :END:
 
 #+BEGIN_VERSE
@@ -501,10 +501,10 @@ Bhalobasi taba sudha antar
 * Sudhangshu Sudhangshu Tumi Je Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1985
-  :CITE-KEY: SABK:28
+  :cite-key: SABK:28
   :END:
 
 #+BEGIN_VERSE

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1167
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: HRPC
-  :GENRE: song
+  :book-number: 1167
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: HRPC
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: HRPC:1e1
+  :genre: note
+  :cite-key: HRPC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: HRPC:1e2
+  :genre: note
+  :cite-key: HRPC:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Peace: God’s Beauty (1b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:1
+  :cite-key: HRPC:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (2b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:2
+  :cite-key: HRPC:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (3b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:3
+  :cite-key: HRPC:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (4b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:4
+  :cite-key: HRPC:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (5b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:5
+  :cite-key: HRPC:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (6b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:6
+  :cite-key: HRPC:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: God’s Beauty (7b)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:7
+  :cite-key: HRPC:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ God’s Beauty in His Oneness-Home.
 * Peace: Humanity’s Perfection-Dance (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-11-1984
-  :CITE-KEY: HRPC:8
+  :cite-key: HRPC:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ In God’s Heart-Garden.
 * Peace: Humanity’s Perfection-Dance (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-03-1985
-  :CITE-KEY: HRPC:9
+  :cite-key: HRPC:9
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ In God’s Heart-Garden.
 * O Year of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:10
+  :cite-key: HRPC:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ In you, with you, the oneness-beauty’s moon.
 * Oneness-World-Peace-Family
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-06-1986
-  :CITE-KEY: HRPC:11
+  :cite-key: HRPC:11
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ God and His Victory’s Arrival.
 * Peace: Man’s Life-Tree Progress-Crown
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1987
-  :CITE-KEY: HRPC:12
+  :cite-key: HRPC:12
   :END:
 
 #+BEGIN_VERSE
@@ -253,10 +253,10 @@ On God’s Breath-Seed Success-Throne.
 * Peace in the World’s Oneness-Home
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-04-1987
-  :CITE-KEY: HRPC:13
+  :cite-key: HRPC:13
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ And deathless promise to God.
 * God Has Infinite Children (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-10-1987
-  :CITE-KEY: HRPC:14
+  :cite-key: HRPC:14
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ But the name of His fondest child
 * Only Through Inner Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-10-1987
-  :CITE-KEY: HRPC:15
+  :cite-key: HRPC:15
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ That we can have true outer freedom.
 * Peace Does Not Mean the Absence of War
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-10-1987
-  :CITE-KEY: HRPC:16
+  :cite-key: HRPC:16
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ In the world-family.
 * Peace: God’s Homeland-Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1988
-  :CITE-KEY: HRPC:17
+  :cite-key: HRPC:17
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Peace.
 * My Heart’s Peace-Nest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-06-1988
-  :CITE-KEY: HRPC:18
+  :cite-key: HRPC:18
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ God, only Guest.
 * Peace: Ascending Earth-Oneness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-12-1988
-  :CITE-KEY: HRPC:19
+  :cite-key: HRPC:19
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Peace: descending Heaven-fulness soul-gong.
 * Supreme, Supreme, Shanti, Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 12-10-1989
-  :CITE-KEY: HRPC:20
+  :cite-key: HRPC:20
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Peace, peace, peace, peace.
 * Peace in My Flying Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-11-1990
-  :CITE-KEY: HRPC:21
+  :cite-key: HRPC:21
   :END:
 
 #+BEGIN_VERSE
@@ -423,10 +423,10 @@ Peace in oneness-heart-home.
 * Peace, Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-03-1991
-  :CITE-KEY: HRPC:22
+  :cite-key: HRPC:22
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ Peace, peace, peace.
 * Our Oneness-Heart’s Victory-Fragrance-Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-11-1991
-  :CITE-KEY: HRPC:23
+  :cite-key: HRPC:23
   :END:
 
 #+BEGIN_VERSE
@@ -457,10 +457,10 @@ God’s fulfilled Dream in man’s perfection-flight.
 * God Has Infinite Children (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-02-1992
-  :CITE-KEY: HRPC:24
+  :cite-key: HRPC:24
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ But the name of His fondest child
 * Peace: Humanity’s Flower-Heart (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-12-1993
-  :CITE-KEY: HRPC:25
+  :cite-key: HRPC:25
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Divinity’s fragrance-soul.
 * Peace: Humanity’s Flower-Heart (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-12-1993
-  :CITE-KEY: HRPC:26
+  :cite-key: HRPC:26
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ Divinity’s fragrance-soul.
 * Peace: Humanity’s Flower-Heart (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-12-1993
-  :CITE-KEY: HRPC:27
+  :cite-key: HRPC:27
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ Divinity’s fragrance-soul.
 * Peace I Feel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-1994
-  :CITE-KEY: HRPC:28
+  :cite-key: HRPC:28
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ God’s Tears of Joy and Pride I bring.
 * O Dreamers of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-04-1995
-  :CITE-KEY: HRPC:29
+  :cite-key: HRPC:29
   :END:
 
 #+BEGIN_VERSE
@@ -566,10 +566,10 @@ Let us grow together.
 * I Want Nothing from God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-04-1995
-  :CITE-KEY: HRPC:30
+  :cite-key: HRPC:30
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ His All: Peace.
 * Peace: God’s Dream-Reality’s Oneness-Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:31
+  :cite-key: HRPC:31
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Peace, peace, peace.
 * Peace (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:32
+  :cite-key: HRPC:32
   :END:
 
 #+BEGIN_VERSE
@@ -618,10 +618,10 @@ Peace, peace, peace, peace.
 * Peace (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:33
+  :cite-key: HRPC:33
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Peace, peace, peace, peace, peace, peace.
 * Peace (3)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: HRPC:34
+  :cite-key: HRPC:34
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Peace, peace, peace.
 * A Sea of Oneness-Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1992
-  :CITE-KEY: HRPC:35
+  :cite-key: HRPC:35
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ Our transformed lives are Your Vision’s Victory-Gongs.
 * Peace: Humanity’s Flower-Heart (4)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-12-1993
-  :CITE-KEY: HRPC:36
+  :cite-key: HRPC:36
   :END:
 
 #+BEGIN_VERSE
@@ -686,10 +686,10 @@ Divinity’s fragrance-soul.
 * God’s Own Ecstasy-Reality
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:37
+  :cite-key: HRPC:37
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Ecstasy-Reality.
 * My Peace-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:38
+  :cite-key: HRPC:38
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ And nowhere else.
 * A Man of Science
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:39
+  :cite-key: HRPC:39
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ While a man of peace consciously reveals God.
 * Only the Peace-Dreamers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:40
+  :cite-key: HRPC:40
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Can transform the world.
 * Peace Is the Supreme Achievement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:41
+  :cite-key: HRPC:41
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Of our faith in God.
 * A Computer-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:42
+  :cite-key: HRPC:42
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ A peace-heart intruder.
 * Purity Strengthens the Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:43
+  :cite-key: HRPC:43
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Peace enlightens the heart.
 * Love Without Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:44
+  :cite-key: HRPC:44
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ Of stupidity and absurdity.
 * My Peace-Dream-Heart-Flower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:45
+  :cite-key: HRPC:45
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Never wither.
 * When My Mind Even Thinks of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-12-1994
-  :CITE-KEY: HRPC:46
+  :cite-key: HRPC:46
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ My heart becomes full of God.
 * Expect Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1995
-  :CITE-KEY: HRPC:47
+  :cite-key: HRPC:47
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Lo, peace is all yours.
 * A Heart of Peace Hears (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1995
-  :CITE-KEY: HRPC:48
+  :cite-key: HRPC:48
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ God’s thunderous Applause.
 * A Speaker-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1995
-  :CITE-KEY: HRPC:49
+  :cite-key: HRPC:49
   :END:
 
 #+BEGIN_VERSE
@@ -911,10 +911,10 @@ A seeker-heart, peace greets.
 * The Mind Counts Troubles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1995
-  :CITE-KEY: HRPC:50
+  :cite-key: HRPC:50
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ The heart measures peace.
 * Love Illumines My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-04-1995
-  :CITE-KEY: HRPC:51
+  :cite-key: HRPC:51
   :END:
 
 #+BEGIN_VERSE
@@ -945,10 +945,10 @@ Peace fulfils my heart.
 * When Self-Doubt Departs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:52
+  :cite-key: HRPC:52
   :END:
 
 #+BEGIN_VERSE
@@ -962,10 +962,10 @@ God-Peace arrives.
 * A Peace-Dreamer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:53
+  :cite-key: HRPC:53
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Of Infinity’s sky.
 * A Heart of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:54
+  :cite-key: HRPC:54
   :END:
 
 #+BEGIN_VERSE
@@ -997,10 +997,10 @@ God’s own Sweetness-Smile.
 * We Can Change the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:55
+  :cite-key: HRPC:55
   :END:
 
 #+BEGIN_VERSE
@@ -1015,10 +1015,10 @@ If we do not have peace.
 * Peace Descends on Earth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:56
+  :cite-key: HRPC:56
   :END:
 
 #+BEGIN_VERSE
@@ -1032,10 +1032,10 @@ From the highest Home of God.
 * God Gives Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:57
+  :cite-key: HRPC:57
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ What He does not have:
 * I Do Not Need
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:58
+  :cite-key: HRPC:58
   :END:
 
 #+BEGIN_VERSE
@@ -1070,10 +1070,10 @@ I need a peace-blossoming earth.
 * Everybody’s Equal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:59
+  :cite-key: HRPC:59
   :END:
 
 #+BEGIN_VERSE
@@ -1088,10 +1088,10 @@ The peace-heart blossoms.
 * The Greatest News
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:60
+  :cite-key: HRPC:60
   :END:
 
 #+BEGIN_VERSE
@@ -1105,10 +1105,10 @@ Peace is the best news.
 * A Self-Transcendence-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:61
+  :cite-key: HRPC:61
   :END:
 
 #+BEGIN_VERSE
@@ -1123,10 +1123,10 @@ A oneness-heart is peace.
 * Peace Reveals
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:62
+  :cite-key: HRPC:62
   :END:
 
 #+BEGIN_VERSE
@@ -1141,10 +1141,10 @@ Of human life.
 * Universal Passport
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:63
+  :cite-key: HRPC:63
   :END:
 
 #+BEGIN_VERSE
@@ -1158,10 +1158,10 @@ Universal passport.
 * When I Am My Peace-Empty Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:64
+  :cite-key: HRPC:64
   :END:
 
 #+BEGIN_VERSE
@@ -1175,10 +1175,10 @@ God becomes His Joy-empty Heart.
 * We Must Climb the Peace-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:65
+  :cite-key: HRPC:65
   :END:
 
 #+BEGIN_VERSE
@@ -1192,10 +1192,10 @@ To pluck oneness-fruits.
 * God Invites
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:66
+  :cite-key: HRPC:66
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ To participate in His Cosmic Game.
 * No Citadel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1995
-  :CITE-KEY: HRPC:67
+  :cite-key: HRPC:67
   :END:
 
 #+BEGIN_VERSE

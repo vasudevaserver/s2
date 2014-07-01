@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1176
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1997
-  :PUBLISHER: Agni Press
-  :CITE-KEY: IMI
-  :GENRE: poem, discourse, qa
-  :KEYWORDS:
+  :book-number: 1176
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1997
+  :publisher: Agni Press
+  :cite-key: IMI
+  :genre: poem, discourse, qa
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: IMI:1e1
+  :genre: note
+  :keywords:
+  :cite-key: IMI:1e1
   :END:
 
 
@@ -40,9 +40,9 @@
 * Part I -- Poetry
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:1e2
+  :genre: section
+  :keywords:
+  :cite-key: IMI:1e2
   :END:
 
 
@@ -50,9 +50,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:1
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:1
   :END:
 
 
@@ -71,9 +71,9 @@ Her heart's smile-joy my supreme Goal.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:2
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:2
   :END:
 
 
@@ -90,9 +90,9 @@ Your life, Creator's Vision-Victory-Gong.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:3
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:3
   :END:
 
 
@@ -110,9 +110,9 @@ To You every day.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:4
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:4
   :END:
 
 
@@ -128,9 +128,9 @@ And not for world-information.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:5
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:5
   :END:
 
 
@@ -148,9 +148,9 @@ Of Eternity's Here and Now.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:6
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:6
   :END:
 
 
@@ -166,9 +166,9 @@ On His World Peace-Campaign.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:7
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:7
   :END:
 
 
@@ -187,9 +187,9 @@ And God's Sound-Life.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:8
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:8
   :END:
 
 
@@ -206,9 +206,9 @@ To liberate them from the foreign yoke.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:9
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:9
   :END:
 
 
@@ -226,9 +226,9 @@ On the celestial Light-Highway.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:10
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:10
   :END:
 
 
@@ -245,9 +245,9 @@ When they proudly embraced death.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:11
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:11
   :END:
 
 
@@ -263,9 +263,9 @@ Satisfaction-fulfilled Fragrance.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:12
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:12
   :END:
 
 
@@ -282,9 +282,9 @@ Loving affection and satisfaction.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:13
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:13
   :END:
 
 
@@ -303,9 +303,9 @@ To embrace Him.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:14
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:14
   :END:
 
 
@@ -323,9 +323,9 @@ For God's Satisfaction-Delight.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:15
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:15
   :END:
 
 
@@ -341,9 +341,9 @@ God-gratitude.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:16
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:16
   :END:
 
 
@@ -359,9 +359,9 @@ Indian heart-home.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:17
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:17
   :END:
 
 
@@ -378,9 +378,9 @@ In every inch of his being.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:18
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:18
   :END:
 
 
@@ -397,9 +397,9 @@ God-manifestation-peace-dreamer.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:19
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:19
   :END:
 
 
@@ -415,9 +415,9 @@ In God-acceptance.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:20
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:20
   :END:
 
 
@@ -434,9 +434,9 @@ Mother India's heart cries.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:21
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:21
   :END:
 
 
@@ -453,9 +453,9 @@ Away from simplicity.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:22
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:22
   :END:
 
 
@@ -474,9 +474,9 @@ Sleeplessly in God's own Way.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:23
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:23
   :END:
 
 
@@ -494,9 +494,9 @@ From the Vedic code.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:24
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:24
   :END:
 
 
@@ -517,9 +517,9 @@ Untouched by human ignorance.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:25
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:25
   :END:
 
 
@@ -538,9 +538,9 @@ Can find the real significance of life.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:26
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:26
   :END:
 
 
@@ -557,9 +557,9 @@ To freely house all religions.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:27
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:27
   :END:
 
 
@@ -577,9 +577,9 @@ Of the soul.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:28
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:28
   :END:
 
 
@@ -598,9 +598,9 @@ And soul-fulfilling uniqueness.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:29
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:29
   :END:
 
 
@@ -617,9 +617,9 @@ A new vision, a perennial vision.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:30
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:30
   :END:
 
 
@@ -638,9 +638,9 @@ To illumination.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:31
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:31
   :END:
 
 
@@ -657,9 +657,9 @@ And Her ocean-vast hopes.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:32
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:32
   :END:
 
 
@@ -675,9 +675,9 @@ Is not a nice game.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:33
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:33
   :END:
 
 
@@ -694,9 +694,9 @@ Of Western curiosity.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:34
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:34
   :END:
 
 
@@ -715,9 +715,9 @@ Of God the Sound.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:35
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:35
   :END:
 
 
@@ -734,9 +734,9 @@ Patience.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:36
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:36
   :END:
 
 
@@ -752,9 +752,9 @@ Is founded upon oneness-purity.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:37
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:37
   :END:
 
 
@@ -772,9 +772,9 @@ Of the modern world.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:38
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:38
   :END:
 
 
@@ -794,9 +794,9 @@ God-invocation and God-manifestation.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:39
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:39
   :END:
 
 
@@ -813,9 +813,9 @@ Has made my life sure.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:40
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:40
   :END:
 
 
@@ -832,9 +832,9 @@ And its child-heart's beauty-increase.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:41
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:41
   :END:
 
 
@@ -854,9 +854,9 @@ His Golden Nest.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:42
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:42
   :END:
 
 
@@ -877,9 +877,9 @@ Of the Summit-Height.
 * Part II -- Translations from Bengali poems
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:43e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:43e1
   :END:
 
 
@@ -888,9 +888,9 @@ Of the Summit-Height.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: IMI:43e2
+  :genre: note
+  :keywords:
+  :cite-key: IMI:43e2
   :END:
 
 
@@ -901,9 +901,9 @@ Of the Summit-Height.
 * The awakening of dawn
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:43
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:43
   :END:
 
 
@@ -951,9 +951,9 @@ Today forms the dawn.
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:44
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:44
   :END:
 
 
@@ -980,9 +980,9 @@ In the love of India's heart.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:45
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:45
   :END:
 
 
@@ -1007,9 +1007,9 @@ And make it beauty immutable.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:46
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:46
   :END:
 
 
@@ -1039,9 +1039,9 @@ From the Aryan sages of the hoary past.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:47
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:47
   :END:
 
 
@@ -1059,9 +1059,9 @@ Heart's elysian lap.
 * Part III -- Essays
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:48e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:48e1
   :END:
 
 
@@ -1069,9 +1069,9 @@ Heart's elysian lap.
 * India: Her consciousness and light -- Part I
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:48
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:48
   :END:
 
 
@@ -1104,9 +1104,9 @@ There is no more than a hyphen between the Vision of the Vedic seers and the sou
 * India: Her consciousness and light -- Part II
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:49
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:49
   :END:
 
 
@@ -1157,9 +1157,9 @@ India is the vault of an ancient, eternal wisdom that has a universal appeal. Sh
 * Part IV -- 100 beloved sons and daughters of Mother India: Avatars, seers, saints and sages
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:50e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:50e1
   :END:
 
 
@@ -1167,9 +1167,9 @@ India is the vault of an ancient, eternal wisdom that has a universal appeal. Sh
 * The Vedic Seers
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:50
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:50
   :END:
 
 
@@ -1186,9 +1186,9 @@ Each Vedic seer is a poet and a prophet. In the case of an ordinary poet, his po
 * Vasishtha
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:51
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:51
   :END:
 
 
@@ -1212,9 +1212,9 @@ And she shall sit on splendour's throne in the world.
 * Maitreyi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: IMI:52
+  :genre: play
+  :keywords:
+  :cite-key: IMI:52
   :END:
 
 
@@ -1231,9 +1231,9 @@ And she shall sit on splendour's throne in the world.
 * Kapila
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:53
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:53
   :END:
 
 
@@ -1244,9 +1244,9 @@ Long before Darwin, a thousand years before the advent of the Christ, the great 
 * Dhruva
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: IMI:54
+  :genre: play
+  :keywords:
+  :cite-key: IMI:54
   :END:
 
 
@@ -1263,9 +1263,9 @@ Long before Darwin, a thousand years before the advent of the Christ, the great 
 * Bhrigu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:55
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:55
   :END:
 
 
@@ -1278,9 +1278,9 @@ Bhrigu left and went to Shiva's house. He forced open the door and started unjus
 * Agastya
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:56
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:56
   :END:
 
 
@@ -1295,9 +1295,9 @@ Agastya is very well known in South India. It was he who brought science and lit
 * Sri Ramachandra
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: IMI:57
+  :genre: play
+  :keywords:
+  :cite-key: IMI:57
   :END:
 
 
@@ -1318,9 +1318,9 @@ Agastya is very well known in South India. It was he who brought science and lit
 * Sita
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:58
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:58
   :END:
 
 
@@ -1339,9 +1339,9 @@ Lakshmana has lighted a blazing fire in the presence of a large audience.
 * Sri Krishna
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:59
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:59
   :END:
 
 
@@ -1362,9 +1362,9 @@ Sri Krishna is the shoreless ocean of Bliss. But as soon as I sincerely dedicate
 * Radha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:60
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:60
   :END:
 
 
@@ -1379,9 +1379,9 @@ Radha carries the human soul into Sri Krishna's Heart. Sri Krishna transforms th
 * The Buddha
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:61
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:61
   :END:
 
 
@@ -1394,9 +1394,9 @@ True, Buddhism is no longer alive in the land of its birth, but Mother India is 
 * Lord Mahavira
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:62
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:62
   :END:
 
 
@@ -1419,9 +1419,9 @@ Liberation of the Beyond.
 * Sri Chaitanya
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:63
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:63
   :END:
 
 
@@ -1436,9 +1436,9 @@ Man can pay his true homage to the Avatar Sri Chaitanya when he is capable of sh
 * Shankaracharya
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: IMI:64
+  :genre: story
+  :keywords:
+  :cite-key: IMI:64
   :END:
 
 
@@ -1457,9 +1457,9 @@ This boy was none other than India's Shankaracharya, the peerless philosopher wh
 * Ramanuja
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:65
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:65
   :END:
 
 
@@ -1470,9 +1470,9 @@ According to Ramanuja, the world is real, absolutely real. But it is wanting in 
 * Madhava
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:66
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:66
   :END:
 
 
@@ -1483,9 +1483,9 @@ Madhava's philosophy affirms the complete duality between the Brahman and the se
 * Guru Nanak
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: IMI:67
+  :genre: story
+  :keywords:
+  :cite-key: IMI:67
   :END:
 
 
@@ -1502,9 +1502,9 @@ Nanak said, "I have pleased your curiosity, but I wanted something else from you
 * Gorakshanath
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: IMI:68
+  :genre: play
+  :keywords:
+  :cite-key: IMI:68
   :END:
 
 
@@ -1525,9 +1525,9 @@ Nanak said, "I have pleased your curiosity, but I wanted something else from you
 * Kabir
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:69
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:69
   :END:
 
 
@@ -1542,9 +1542,9 @@ If we love, then we understand; and if we understand the truth, then we have nei
 * Mirabai
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:70
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:70
   :END:
 
 
@@ -1559,9 +1559,9 @@ Lord Krishna opened up His Heart chakra. Then Mirabai entered into His Heart and
 * Swami Dayananda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:71
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:71
   :END:
 
 
@@ -1582,9 +1582,9 @@ Dayananda obeyed his Guru and was immediately accepted as a disciple.
 * Debendranath Tagore
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:72
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:72
   :END:
 
 
@@ -1597,9 +1597,9 @@ In the life of Swami Vivekananda, Maharshi Debendranath played a most significan
 * Sri Ramakrishna
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:73e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:73e1
   :END:
 
 
@@ -1616,9 +1616,9 @@ In the life of Swami Vivekananda, Maharshi Debendranath played a most significan
 * Sarada Devi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:73
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:73
   :END:
 
 
@@ -1639,9 +1639,9 @@ In the life of Swami Vivekananda, Maharshi Debendranath played a most significan
 * Swami Vivekananda
 
   :PROPERTIES:
-  :GENRE:  poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:74
+  :genre:  poem
+  :keywords:
+  :cite-key: IMI:74
   :END:
 
 
@@ -1668,9 +1668,9 @@ The incense of your self-offering.
 * Sister Nivedita
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:75
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:75
   :END:
 
 
@@ -1683,9 +1683,9 @@ No Indian will ever deny the important role that she played after entering into 
 * Nag Mahashay
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:76
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:76
   :END:
 
 
@@ -1698,9 +1698,9 @@ When Sri Ramakrishna used to give /prasad/ on a plantain leaf, Nag Mahashay used
 * Troilanga Swami
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:77
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:77
   :END:
 
 
@@ -1713,9 +1713,9 @@ Troilanga Swami renounced everything. He always remained unclothed. He did not a
 * Shyama Charan Lahiri
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:78
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:78
   :END:
 
 
@@ -1728,9 +1728,9 @@ The sadhu said to him, "My name is Babaji, my son. You were my dear disciple in 
 * Gambhirananda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:79
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:79
   :END:
 
 
@@ -1743,9 +1743,9 @@ When the actual owner came back, he was surprised and happy to see a young seeke
 * Bhaskarananda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:80
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:80
   :END:
 
 
@@ -1760,9 +1760,9 @@ The officer tried and tried, but he did not have the strength to lift up the pen
 * Devadas Maharaj
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:81
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:81
   :END:
 
 
@@ -1777,9 +1777,9 @@ In this way, Devadas Maharaj taught his disciple that spirituality means discipl
 * Ramdas Kathiya Baba
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:82
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:82
   :END:
 
 
@@ -1792,9 +1792,9 @@ True, a God-realised soul does not have to depend on man's belief or disbelief. 
 * Swami Nigamananda
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:83
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:83
   :END:
 
 
@@ -1807,9 +1807,9 @@ One day Swami Nigamananda told his small group of disciples that he was not an A
 * Bama Kshepa
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:84
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:84
   :END:
 
 
@@ -1822,9 +1822,9 @@ Outer beauty and material wealth Bama always shunned. He did not care for religi
 * Bijoy Krishna Goswami
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:85
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:85
   :END:
 
 
@@ -1841,9 +1841,9 @@ His children soon began to miss their mother, but he consoled them, saying: "My 
 * The Birth Of The Infinite
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:86
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:86
   :END:
 
 
@@ -1875,9 +1875,9 @@ Nowhere shall be your doom."
 * The Mother (Sri Aurobindo Ashram)
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:87
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:87
   :END:
 
 
@@ -1894,9 +1894,9 @@ The Mother is ceaseless forgiveness. It is man's bulwark against perdition.
 * Sri Aurobindo's Integral Yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:88
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:88
   :END:
 
 
@@ -1959,9 +1959,9 @@ What is the meaning of coming into contact with God? It means that we shall beco
 * Ramana Maharshi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:89
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:89
   :END:
 
 
@@ -1972,9 +1972,9 @@ If we do not enter into the spiritual life, if we do not pay attention to the in
 * Anandamayee Ma
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:90
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:90
   :END:
 
 
@@ -1998,9 +1998,9 @@ Throughout the length and breadth of India.
 * Pir Vilayat Khan
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:91
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:91
   :END:
 
 
@@ -2027,9 +2027,9 @@ Eternity's movement and stillness.
 * Mother Teresa
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:92
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:92
   :END:
 
 
@@ -2053,9 +2053,9 @@ Is your compassion-heart.
 * Part V -- Cultural luminaries
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:93e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:93e1
   :END:
 
 
@@ -2063,9 +2063,9 @@ Is your compassion-heart.
 * Valmiki
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:93
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:93
   :END:
 
 
@@ -2078,9 +2078,9 @@ Is your compassion-heart.
 * Vyasa
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:94
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:94
   :END:
 
 
@@ -2095,9 +2095,9 @@ Thus, India's unparalleled epic, the Mahabharata, was composed.
 * Kalidasa
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:95
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:95
   :END:
 
 
@@ -2112,9 +2112,9 @@ Kalidasa received wisdom-light from Mother Kali; that is why his name was Kalida
 * Rabindranath Tagore
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:96
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:96
   :END:
 
 
@@ -2139,9 +2139,9 @@ Rabindranath was a Golden Song sung by the Divine Singer in him. He was, indeed,
 * Bankim Chandra Chatterjee
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:97
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:97
   :END:
 
 
@@ -2152,9 +2152,9 @@ Rishi Bankim is one among Bengal's men of supreme genius. Time will never be abl
 * Michael Madhusudan Dutt
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:98
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:98
   :END:
 
 
@@ -2169,9 +2169,9 @@ To our joy, Madhusudan realised his mistake. He wrote to his friend Gour from Fr
 * Sarat Chandra Chatterjee
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:99
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:99
   :END:
 
 
@@ -2182,9 +2182,9 @@ Sarat Chandra's eyes were in his heart. His genius is marked by a splendid grasp
 * Girish Chandra Ghosh
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:100
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:100
   :END:
 
 
@@ -2203,9 +2203,9 @@ Then Girish found that he could no longer lead his old life because he could not
 * Dwijendra Lal Roy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:101
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:101
   :END:
 
 
@@ -2216,9 +2216,9 @@ Mother India in her sweetest expresses herself through the heart and pen of her 
 * Dilip Kumar Roy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:102
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:102
   :END:
 
 
@@ -2235,9 +2235,9 @@ To my extreme joy, I was blessed by Dilip-da's physical presence many, many time
 * Sarojini Naidu
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:103
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:103
   :END:
 
 
@@ -2250,9 +2250,9 @@ To the patriots she was an irresistible enthusiasm. To the poets she was a never
 * Bharati
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:104
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:104
   :END:
 
 
@@ -2265,9 +2265,9 @@ What an irony of Fate! Bharati had hardly reached the age of 39 when death snatc
 * Dr. Sisir Kumar Ghose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:105
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:105
   :END:
 
 
@@ -2280,9 +2280,9 @@ My beloved Sisir-da was unswervingly kind to me. He was unreservedly affectionat
 * Ustad Ali Akbar Khan
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:106
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:106
   :END:
 
 
@@ -2293,9 +2293,9 @@ Ustad Ali Akbar, you are a legendary figure in India. Here in the West, your ach
 * Part VI -- Patriots
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:107e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:107e1
   :END:
 
 
@@ -2303,9 +2303,9 @@ Ustad Ali Akbar, you are a legendary figure in India. Here in the West, your ach
 * Raja Rammohun Roy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:107
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:107
   :END:
 
 
@@ -2316,9 +2316,9 @@ It was Raja Rammohun Roy who inaugurated the Modern Age in this great subcontine
 * Lala Lajpat Rai
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:108
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:108
   :END:
 
 
@@ -2331,9 +2331,9 @@ The Trinity of India's national independence movement, started in the first deca
 * Bal Gangadhar Tilak
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:109
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:109
   :END:
 
 
@@ -2346,9 +2346,9 @@ At a time when our Motherland was swooning under the yoke of subjugation imposed
 * Bipin Chandra Pal
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:110
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:110
   :END:
 
 
@@ -2359,9 +2359,9 @@ The greatness of Bipin Chandra Pal was many-sided. He was a patriot to his finge
 * Mahatma Gandhi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:111
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:111
   :END:
 
 
@@ -2380,9 +2380,9 @@ Mahatma, to you I bow and bow.
 * Deshabandhu Chitta Ranjan Das
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:112
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:112
   :END:
 
 
@@ -2395,9 +2395,9 @@ Rare is the man whose life far exceeds his great achievements. Also rare is the 
 * Netaji Subhas Chandra Bose
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:113
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:113
   :END:
 
 
@@ -2423,9 +2423,9 @@ Netaji, our beloved Netaji, the year 1997 most affectionately and most proudly c
 * Pandit Jawaharlal Nehru
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:114
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:114
   :END:
 
 
@@ -2438,9 +2438,9 @@ In Nehru we see a divine dreamer and a torch-bearer of Truth.
 * Rishi Rajnarayan Bose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:115
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:115
   :END:
 
 
@@ -2455,9 +2455,9 @@ According to him, no other country in the hoary past dared belittle India for an
 * Sardar Vallabhbhai Patel
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:116
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:116
   :END:
 
 
@@ -2474,9 +2474,9 @@ He showed them the telegram. Then he said, "Duty comes first. My Motherland come
 * Deshapriya
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: IMI:117
+  :genre: play
+  :keywords:
+  :cite-key: IMI:117
   :END:
 
 
@@ -2491,9 +2491,9 @@ He showed them the telegram. Then he said, "Duty comes first. My Motherland come
 * Master-Da Surya Sen
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:118
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:118
   :END:
 
 
@@ -2508,9 +2508,9 @@ Either because of money, or out of jealousy, one of Surya Sen's relatives told t
 * Sarat Chandra Bose
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:119
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:119
   :END:
 
 
@@ -2541,9 +2541,9 @@ Triumphant you were!
 * Lord Mountbatten
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:120
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:120
   :END:
 
 
@@ -2564,9 +2564,9 @@ Success-progress loved your journey's victory-fight.
 * Part VII -- Builders of modern India
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:121e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:121e1
   :END:
 
 
@@ -2574,9 +2574,9 @@ Success-progress loved your journey's victory-fight.
 * Sri Jagadish Chandra Bose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:121
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:121
   :END:
 
 
@@ -2589,9 +2589,9 @@ J. C. Bose the seer was as great as J. C. Bose the scientist. He represented a n
 * Acharya Prafulla Chandra Ray
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:122
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:122
   :END:
 
 
@@ -2604,9 +2604,9 @@ He received his Ph.D. from Edinburgh University and, as a teacher of chemical sc
 * Vidyasagar
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:123
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:123
   :END:
 
 
@@ -2623,9 +2623,9 @@ Vidyasagar was a man of supreme genius whose memory one can cherish as an invalu
 * Ashutosh Mukherji
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:124
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:124
   :END:
 
 
@@ -2638,9 +2638,9 @@ It is from him that his brothers and sisters of Bengal came to learn that, thoug
 * Prime Minister Lal Bahadur Shastri
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:125
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:125
   :END:
 
 
@@ -2657,9 +2657,9 @@ Some of them bowed down; some were shocked. Some felt miserable. "Oh, we thought
 * Dr. S. Radhakrishnan
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:126
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:126
   :END:
 
 
@@ -2672,9 +2672,9 @@ A true Hindu will keep his ideals burning, no matter how shattering the ephemera
 * Prime Minister Indira Ghandi
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:127
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:127
   :END:
 
 
@@ -2701,9 +2701,9 @@ And their Himalayan prosperity-forehead.
 * Prime Minister Moraji Desai
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:128
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:128
   :END:
 
 
@@ -2727,9 +2727,9 @@ O manifestation-sun of infinite Delight!
 * President R. Venkataraman
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:129
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:129
   :END:
 
 
@@ -2751,9 +2751,9 @@ Smashed asunder you have -- ignorance-wall.
 * K. M. Munshi
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:130
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:130
   :END:
 
 
@@ -2780,9 +2780,9 @@ Along Eternity's sun-blossomed Passage.
 * Dr. Satyendranath Bose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:131
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:131
   :END:
 
 
@@ -2797,9 +2797,9 @@ Satyen's guru was Einstein. Once, when he was teaching at Dhaka University, he w
 * Kaji Mohammad Maharshin
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:132
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:132
   :END:
 
 
@@ -2810,9 +2810,9 @@ Kaji Mohammad Maharshin was a distinguished and highly learned man. At the same 
 * Max Müller
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:133
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:133
   :END:
 
 
@@ -2827,9 +2827,9 @@ He writes, "If I were to look over the whole world to find out the country most 
 * Margaret Wilson
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:134
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:134
   :END:
 
 
@@ -2842,9 +2842,9 @@ Sri Aurobindo eventually gave her the name Nishtha, which means faith -- divine 
 * C. V. Narasimhan
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:135
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:135
   :END:
 
 
@@ -2866,9 +2866,9 @@ Dear Brother Narasimhan, your life was supremely chosen by the Supreme Himself t
 * Siddhartha Shankar Ray
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:136
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:136
   :END:
 
 
@@ -2885,9 +2885,9 @@ Two giant misunderstanding-walls of the decades are dauntlessly and unquestionab
 * Dr. L.M. Singhvi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:137
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:137
   :END:
 
 
@@ -2900,9 +2900,9 @@ Dr. Singhvi is the golden link between the United Kingdom and India. On the stre
 * Lakhan Mehrotra
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:138
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:138
   :END:
 
 
@@ -2917,9 +2917,9 @@ While walking along Eternity's Road, Lakhan Mehrotra, the pilgrim-soul, is offer
 * Part VII -- Historical figures
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:139e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:139e1
   :END:
 
 
@@ -2927,9 +2927,9 @@ While walking along Eternity's Road, Lakhan Mehrotra, the pilgrim-soul, is offer
 * King Janaka
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:139
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:139
   :END:
 
 
@@ -2942,9 +2942,9 @@ Possession is no satisfaction, so long as ego breathes in us. The great King Jan
 * Arjuna
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:140
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:140
   :END:
 
 
@@ -2957,9 +2957,9 @@ Arjuna ultimately became the spiritual child of Sri Krishna. Sri Krishna ultimat
 * Kunti
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:141
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:141
   :END:
 
 
@@ -2972,9 +2972,9 @@ From the highest spiritual point of view, we cannot welcome Kunti Devi's wisdom.
 * Gandhari
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:142
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:142
   :END:
 
 
@@ -2987,9 +2987,9 @@ Gandhari was the possessor of such a selfless heart. Something more: the present
 * King Ashoka
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:143
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:143
   :END:
 
 
@@ -3004,9 +3004,9 @@ After that, Ashoka took refuge in the Lord Buddha - in the Buddha's Compassion a
 * Babar
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:144
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:144
   :END:
 
 
@@ -3025,9 +3025,9 @@ To Babar's wide surprise, after he had completed three rounds, his son stood up 
 * Humayan
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:145
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:145
   :END:
 
 
@@ -3044,9 +3044,9 @@ The Emperor kept his promise, and Nizam did sit on his throne for one day.
 * Akbar
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:146
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:146
   :END:
 
 
@@ -3065,9 +3065,9 @@ One day Akbar said to his minister, "Birbal, for a long time I have been thinkin
 * Shah Jahan
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:147
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:147
   :END:
 
 
@@ -3082,9 +3082,9 @@ When Shah Jahan died, Jahan Ara felt that her life had no meaning. She had full 
 * Aurangzeb
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:148
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:148
   :END:
 
 
@@ -3099,9 +3099,9 @@ Aurangzeb overheard the attendant and said, "Why should you beg my forgiveness f
 * Shivaji
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:149
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:149
   :END:
 
 
@@ -3120,9 +3120,9 @@ The King replied, "I mean it. I am not going back to my kingdom. I shall remain 
 * Part VIII -- Reflections
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:150e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:150e1
   :END:
 
 
@@ -3130,9 +3130,9 @@ The King replied, "I mean it. I am not going back to my kingdom. I shall remain 
 * To my Indian brothers and sisters
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:150
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:150
   :END:
 
 
@@ -3153,9 +3153,9 @@ My Indian friends, my Indian brothers and sisters, my Indian hearts, my Indian h
 * On India's past and present
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:151
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:151
   :END:
 
 
@@ -3224,9 +3224,9 @@ Although outwardly the Indian people quarrel and fight, the light, the peace and
 * On India and the West
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:152
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:152
   :END:
 
 
@@ -3255,9 +3255,9 @@ It has been delightfully claimed that: "Love in France is a comedy; in England a
 * On India and America
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:153
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:153
   :END:
 
 
@@ -3289,9 +3289,9 @@ May India's aspiration-sky and America's rocket-speed together sing the supreme 
 * On Indian music
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: IMI:154
+  :genre: discourse
+  :keywords:
+  :cite-key: IMI:154
   :END:
 
 My God, the Supreme Musician, has two families. One is in the East, the other in the West. He tells His Eastern children, precisely His Indian children, that music is the soul's purity. He tells His Western children that music is life's beauty.
@@ -3318,9 +3318,9 @@ Of all the musical instruments, the conch is the most sacred and spiritual. Cosm
 * Part IX -- Humorous poems
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:155e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:155e1
   :END:
 
 
@@ -3329,9 +3329,9 @@ Of all the musical instruments, the conch is the most sacred and spiritual. Cosm
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:155
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:155
   :END:
 
 
@@ -3380,9 +3380,9 @@ Than the goal of others.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:156
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:156
   :END:
 
 
@@ -3413,9 +3413,9 @@ Needs more determination.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:157
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:157
   :END:
 
 
@@ -3439,9 +3439,9 @@ Pakistan and India.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:158
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:158
   :END:
 
 
@@ -3475,9 +3475,9 @@ I adore you, too.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:159
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:159
   :END:
 
 
@@ -3501,9 +3501,9 @@ My God is confused about you.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:160
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:160
   :END:
 
 
@@ -3526,9 +3526,9 @@ Concern-sea.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:161
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:161
   :END:
 
 
@@ -3548,9 +3548,9 @@ God's Silence-Gospel.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:162
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:162
   :END:
 
 
@@ -3604,9 +3604,9 @@ Of the truth.
 * Part X -- Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:163e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:163e1
   :END:
 
 
@@ -3614,9 +3614,9 @@ Of the truth.
 * /Question:/ I would frankly like to know what India's spirituality has ever done for her. How is it that, in spite of her yogis and saints, she is still a poor and backward country?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:163
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:163
   :END:
 
 
@@ -3633,9 +3633,9 @@ India may be poverty-stricken today, but she will progress quickly by virtue of 
 * /Question:/ Do you feel that there is a revival of the principles of non-violence in our present-day world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:164
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:164
   :END:
 
 
@@ -3654,9 +3654,9 @@ From our spiritual life we will come to discover that there is something that is
 * /Question:/ What made you decide to come to the West?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:165
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:165
   :END:
 
 
@@ -3669,9 +3669,9 @@ When I was born, my whole world was my father and mother. Then, when I grew a li
 * /Question:/ You are able to combine the spirituality of India with Western dynamism. This is quite unheard of for a teacher of Indian spirituality. Do you follow a prearranged plan, or do you try to conform to the world while bringing good into it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:166
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:166
   :END:
 
 
@@ -3688,9 +3688,9 @@ Now, with my aspiration-heart, I am praying to God to inundate both the Eastern 
 * /Question:/ With which spiritual Masters did the dynamic approach to spirituality begin in India?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:167
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:167
   :END:
 
 
@@ -3705,9 +3705,9 @@ Some spiritual Masters of a very high order did not believe in dynamic spiritual
 * /Question:/ If someone has deep love for India in this life, does it mean that the person has incarnated there previously, or is it something that could have developed in this life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:168
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:168
   :END:
 
 
@@ -3718,9 +3718,9 @@ It could be either. They could have a special love for India because they had pr
 * /Question:/ Modern India is embracing science and technology more and more. Could you tell us what the Supreme wants from India in a modern world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:169
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:169
   :END:
 
 
@@ -3733,9 +3733,9 @@ If other countries want to go to the moon or to the sun, then let them go. To In
 * /Question:/ From the beginning of His creation, did the Supreme choose India to play the most significant role in humanity's spiritual development?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:170
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:170
   :END:
 
 
@@ -3746,9 +3746,9 @@ I will never dare to say that the Supreme wanted India to play /the/ most signif
 * /Question:/ How would you describe the difference between the Brahmin's approach to spirituality and the Kshatriya's approach to spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:171
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:171
   :END:
 
 
@@ -3771,9 +3771,9 @@ No matter which caste an individual has taken birth into, if he combines the act
 * /Question:/ Some people feel that India's poverty helps her open her heart to spirituality. Is there any truth to this theory?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:172
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:172
   :END:
 
 
@@ -3788,9 +3788,9 @@ God does not want you to cut off your limbs to show Him how much you love Him. H
 * /Question:/ The Western world sees Indian society as chaotic and underdeveloped. Is Western society any better?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:173
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:173
   :END:
 
 
@@ -3807,9 +3807,9 @@ Instead of criticising others, let us try to keep our own body, vital and mind u
 * /Question:/ What was the best service the British did for India?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:174
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:174
   :END:
 
 
@@ -3820,9 +3820,9 @@ The best service India has received from the British is the English language. En
 * /Question:/ Which country or countries have received India's light the most?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:175
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:175
   :END:
 
 
@@ -3833,9 +3833,9 @@ Unconsciously, reluctantly and even unwillingly, England has received India's li
 * /Question:/ What qualities of India has America adopted and embodied?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:176
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:176
   :END:
 
 
@@ -3846,9 +3846,9 @@ Unfortunately or fortunately, America has not adopted or embodied any of India's
 * /Question:/ When someone is an "Indian soul", what qualities do they manifest?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:177
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:177
   :END:
 
 
@@ -3859,9 +3859,9 @@ An Indian soul tries to manifest tolerance, sympathy, compassion, self-giving an
 * /Question:/ Have any of the spiritual truths that the ancient rishis revealed changed since those days?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:178
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:178
   :END:
 
 
@@ -3872,9 +3872,9 @@ The spiritual truths that the ancient rishis revealed have not changed and will 
 * /Question:/ When the political boundaries of India became smaller, did India's consciousness disappear from the places that used to be part of India?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:179
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:179
   :END:
 
 
@@ -3885,9 +3885,9 @@ No! although the political boundaries of India changed, the consciousness of Ind
 * /Question:/ The Supreme has poured such special Grace on India in the area of spirituality. Why after all these thousands of years do people still live in such miserable conditions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:180
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:180
   :END:
 
 
@@ -3898,9 +3898,9 @@ If one is spiritual, that does not mean that one will not suffer. Spiritual peop
 * /Question:/ Did the Supreme instil India's spirituality into the very earth of India or just into the souls that take incarnation there, or both?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:181
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:181
   :END:
 
 
@@ -3911,9 +3911,9 @@ The Supreme instils India's spirituality not only into the souls that take incar
 * /Question:/ Indian culture places a lot of emphasis on the family unit. Does this contribute to its spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:182
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:182
   :END:
 
 
@@ -3924,9 +3924,9 @@ Definitely it does. Not only in India but everywhere, if the members of a family
 * /Question:/ If India had not been the conveyor of spirituality through her Vedic seers, how would spirituality have arrived on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:183
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:183
   :END:
 
 
@@ -3937,9 +3937,9 @@ Spirituality did not arrive only through the Indian bullock cart! Spirituality c
 * /Question:/ Why has the Supreme's Light shone so brightly on India and so many souls have been receptive to that Light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:184
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:184
   :END:
 
 
@@ -3950,9 +3950,9 @@ God alone knows why He favoured India and why He Himself descended there and shi
 * /Question:/ The first Europeans who landed in America were actually seeking a shortcut to India. Does this have a divine significance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:185
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:185
   :END:
 
 
@@ -3963,9 +3963,9 @@ No! but you can say that the very word "India" fascinated people. Some inner urg
 * /Question:/ It seems that India is becoming less tolerant and more fundamentalist. How can this be changed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:186
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:186
   :END:
 
 
@@ -3977,9 +3977,9 @@ It can be changed only if the Indian souls again dive deep within and enter into
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:187
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:187
   :END:
 
 
@@ -3990,9 +3990,9 @@ If you want to, you can maintain your consciousness even if you enter into a fis
 * /Question:/ What unique qualities does India offer to the world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:188
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:188
   :END:
 
 
@@ -4003,9 +4003,9 @@ India offers the world two main messages: the acceptance of life in a divine way
 * /Question:/ What is India's most ancient and sacred secret in terms of its spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:189
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:189
   :END:
 
 
@@ -4016,9 +4016,9 @@ Conscious, constant, sleepless and breathless surrender to the Will of the Absol
 * /Question:/ Will the consciousness of the world ever shift so that the countries with the most spiritual wealth -- like India -- as opposed to the most material wealth will be looked to as the world leaders?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:190
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:190
   :END:
 
 
@@ -4029,9 +4029,9 @@ That is what we all hope for. In fact, that is what God Himself wants. But first
 * /Question:/ The West tries to blame India's lack of outer progress on her spirituality. How can India defend her soul's righteousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:191
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:191
   :END:
 
 
@@ -4044,9 +4044,9 @@ Similarly, India does not have to defend her spirituality. If others do not reco
 * /Question:/ As spiritual souls begin incarnating psychically in the future, will India maintain the prestige of offering them to the world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:192
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:192
   :END:
 
 
@@ -4057,9 +4057,9 @@ First let us see if those great souls choose to take incarnation on Indian soil.
 * /Question:/ How does ancient Indian spirituality differ from modern Indian spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:193
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:193
   :END:
 
 
@@ -4070,9 +4070,9 @@ There is no difference. What Indian spirituality was will forever remain the sam
 * /Question:/ Is the soul of India happy or sad as it is approaching its 50th Anniversary of independence from England?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:194
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:194
   :END:
 
 
@@ -4083,9 +4083,9 @@ On the one hand, the soul of India is very happily looking forward to new light 
 * /Question:/ Could you please compare the essential truths of the American theory, "All men are created equal," with the Hindu and Vedic theories?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:195
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:195
   :END:
 
 
@@ -4096,9 +4096,9 @@ American philosophy says, "All men are created equal." The Upanishads say, " /Br
 * /Question:/ In a world of increasing homogeneity, how can India go forward without losing her uniqueness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:196
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:196
   :END:
 
 
@@ -4109,9 +4109,9 @@ If India is inwardly strong, India will not lose anything. No matter how much ho
 * /Question:/ What message of India should Westerners care for most?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:197
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:197
   :END:
 
 
@@ -4122,9 +4122,9 @@ Westerners should care for India's message of peace. From the very beginning Ind
 * /Question:/ What are the most prominent good qualities of the vast Indian soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:198
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:198
   :END:
 
 
@@ -4135,9 +4135,9 @@ India's best qualities are love, devotion and surrender, as well as sympathy, to
 * /Question:/ Does ancient India have a special message for modern America?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:199
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:199
   :END:
 
 
@@ -4148,9 +4148,9 @@ Ancient India's message is the same as modern India's message, as I have already
 * /Question:/ In a complex world, how can we develop the humility, simplicity, devotion and surrender of the true Indian devotee?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:200
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:200
   :END:
 
 
@@ -4161,9 +4161,9 @@ The way to develop these qualities is the same everywhere: through prayers, pray
 * /Question:/ What were the best qualities of the Pandavas?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:201
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:201
   :END:
 
 
@@ -4174,9 +4174,9 @@ Yudhisthira represents adherence to truth and piety. Bhima stands for justice. A
 * /Question:/ Will India rise to a position of world leadership again and, if so, in what capacity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:202
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:202
   :END:
 
 
@@ -4187,9 +4187,9 @@ If India comes to prominence, it will not be through physical or material power 
 * /Question:/ Recently I saw a video about the new "Rationalist" movement in India. Will this movement ever affect India spiritually to any real extent?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:203
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:203
   :END:
 
 
@@ -4200,9 +4200,9 @@ Nothing can ever affect India's soul, India's heart or India's spirituality. If 
 * /Question:/ Throughout the ages spirituality has been linked to India. Do more advanced souls go there especially to make progress, or is it just due to the Grace of the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:204
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:204
   :END:
 
 
@@ -4213,9 +4213,9 @@ Everything is due to the Grace of the Supreme. Whether the souls that descend ar
 * /Question:/ From the spiritual point of view, is India's poverty a blessing or a curse? Is poverty there to keep India simple and pure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:205
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:205
   :END:
 
 
@@ -4226,9 +4226,9 @@ It is true to some extent that poverty keeps India's simplicity and purity. But 
 * /Question:/ What is the spiritual significance of India's independence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:206
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:206
   :END:
 
 
@@ -4239,9 +4239,9 @@ The spiritual significance of India's independence is dependence on God's Will a
 * /Question:/ Who was the first person the soul of India chose to begin the independence movement?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:207
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:207
   :END:
 
 
@@ -4252,9 +4252,9 @@ Most people will agree that Raja Rammohun Roy was the first one. Swami Vivekanan
 * /Question:/ If Indians lose their devotion for the cosmic gods, will the gods lose their ability to help humanity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:208
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:208
   :END:
 
 
@@ -4265,9 +4265,9 @@ No, if you lose your devotion, God does not lose His Capacity. If you lose faith
 * /Question:/ Have most of India's ancient sages and heroes continued to take incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:209
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:209
   :END:
 
 
@@ -4278,9 +4278,9 @@ Yes, most of the ancient sages have taken additional human incarnations, but the
 * /Question:/ In what ways has the physical presence of the Himalayas helped Indians to become more spiritual?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:210
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:210
   :END:
 
 
@@ -4293,9 +4293,9 @@ You do not have to go to the Himalayas to feel their consciousness; it is with y
 * /Question:/ Could you speak about the impact on the human consciousness of India's age-old heritage of devotional music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:211
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:211
   :END:
 
 
@@ -4306,9 +4306,9 @@ The devotional music of the past was extremely prayerful and extremely soulful. 
 * /Question:/ Why has the India-Pakistan dispute over Kashmir never been resolved?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:212
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:212
   :END:
 
 
@@ -4319,9 +4319,9 @@ Both India and Pakistan need more light, either from within or from Above. Both 
 * /Question:/ If an Indian couple that is living abroad has a child, does this child have different blessings since it was not born on Indian soil?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:213
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:213
   :END:
 
 
@@ -4332,9 +4332,9 @@ It depends on the parents' consciousness. No matter where they are, if the paren
 * /Question:/ Who were the Aryans? Where did they come from?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:214
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:214
   :END:
 
 
@@ -4360,9 +4360,9 @@ Scholars approach the Vedas and the experiences of the Vedic seers in their own 
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:215
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:215
   :END:
 
 
@@ -4373,9 +4373,9 @@ He went to Puri and a few other religious places where he studied the Sanskrit l
 * /Question:/ What actually brought about India's independence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:216
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:216
   :END:
 
 
@@ -4392,9 +4392,9 @@ Sri Aurobindo was so happy that Mother India gained her independence on his birt
 * /Question:/ You have said that it was spiritual power that brought about India's liberation. How does Netaji's militaristic approach fit in?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:217
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:217
   :END:
 
 
@@ -4405,9 +4405,9 @@ From the highest spiritual point of view, it was the power of the spirit that br
 * Sri Chinmoy, you are a man of peace. Was it difficult at any stage for you to identify with my father because, after all, he was not strictly a man of peace. He was a man of military action.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:218
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:218
   :END:
 
 
@@ -4434,9 +4434,9 @@ Both Mahatma Gandhi and Netaji played their distinctive roles in bringing about 
 * /Question:/ Do you foresee that India and Pakistan will one day become one again, like Germany?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:219
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:219
   :END:
 
 
@@ -4447,9 +4447,9 @@ For that we need another Mikhail Gorbachev! I do not see how India can become on
 * /Question:/ What has India gained by the introduction of the English language?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: IMI:220
+  :genre: qa
+  :keywords:
+  :cite-key: IMI:220
   :END:
 
 
@@ -4459,18 +4459,18 @@ England practically destroyed India, true, but England did give a gift to India 
 * Part XI -- August 15th, 1945
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: IMI:221e1
+  :genre: section
+  :keywords:
+  :cite-key: IMI:221e1
   :END:
 
 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: IMI:221e2
+  :genre: note
+  :keywords:
+  :cite-key: IMI:221e2
   :END:
 
 
@@ -4485,9 +4485,9 @@ England practically destroyed India, true, but England did give a gift to India 
 * August 15th, 1945
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IMI:221
+  :genre: poem
+  :keywords:
+  :cite-key: IMI:221
   :END:
 
 

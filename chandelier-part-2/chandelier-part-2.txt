@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 443
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: CH-2
-  :GENRE: song
+  :book-number: 443
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: CH-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CH:70e1
+  :genre: note
+  :cite-key: CH:70e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CH:70e2
+  :genre: note
+  :cite-key: CH:70e2
   :END:
 
 
@@ -42,10 +42,10 @@ Special songs, Divine Enterprise songs, songs dedicated to sports — mostly Eng
 * Champion-Perfection-Pride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:70
+  :cite-key: CH:70
   :END:
 
 #+BEGIN_VERSE
@@ -63,10 +63,10 @@ Therefore, this shop, supremely dear.
 * Cosmic-Sound-Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:71
+  :cite-key: CH:71
   :END:
 
 #+BEGIN_VERSE
@@ -83,10 +83,10 @@ Silence-sound-oneness.
 * Dipti Nivas Supti Binash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:72
+  :cite-key: CH:72
   :END:
 
 #+BEGIN_VERSE
@@ -102,10 +102,10 @@ Parama tripta
 * Happiness-Life-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:73
+  :cite-key: CH:73
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ God’s God-Smile flies.
 * Man’s Health, God’s Wealth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:74
+  :cite-key: CH:74
   :END:
 
 #+BEGIN_VERSE
@@ -139,10 +139,10 @@ Emblem-truth-height-delight.
 * Para Prakriti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: None
-  :CITE-KEY: CH:75
+  :cite-key: CH:75
   :END:
 
 #+BEGIN_VERSE
@@ -158,10 +158,10 @@ Purity’s length, duty’s light — a perfect surprise.
 * Service-Seeds and Service-Trees
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:76
+  :cite-key: CH:76
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Oneness-satisfaction-sun.
 * Marathon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:77
+  :cite-key: CH:77
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ Divinity’s supreme Grace.
 * One Hundred Indian Stories
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 26-01-1979
-  :CITE-KEY: CH:78
+  :cite-key: CH:78
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ Independence-Light are one eternally.
 * Musician of the Year: Devadip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1979
-  :CITE-KEY: CH:79
+  :cite-key: CH:79
   :END:
 
 #+BEGIN_VERSE
@@ -238,10 +238,10 @@ Soul-sweetness, life-closeness in him we find.
 * New York Senators, Assemblymen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-06-1979
-  :CITE-KEY: CH:80
+  :cite-key: CH:80
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Of inspiration-light, affection-delight.
 * Cycle Marathon Relay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:81
+  :cite-key: CH:81
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Oneness-height’s progress-play.
 * Cycling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:82
+  :cite-key: CH:82
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Are proud of our giant role.
 * I Bicycle at Speed High
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:83
+  :cite-key: CH:83
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Treasure me as their oneness-friend.
 * I Bicycle with My Heavenly Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:84
+  :cite-key: CH:84
   :END:
 
 #+BEGIN_VERSE
@@ -336,10 +336,10 @@ Supreme God-Joy our only need.
 * Chinmoy Lane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-07-1979
-  :CITE-KEY: CH:85
+  :cite-key: CH:85
   :END:
 
 #+BEGIN_VERSE
@@ -357,10 +357,10 @@ To win the sun-smile Goal.
 * Aspiration-Sky, Gratitude-Sea
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:86
+  :cite-key: CH:86
   :END:
 
 #+BEGIN_VERSE
@@ -376,10 +376,10 @@ In you alone I am free.
 * Aspiration Leads Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:87
+  :cite-key: CH:87
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Gratitude is beauty-delight.
 * Aspiration-Heart, Gratitude-Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:88
+  :cite-key: CH:88
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ These are my supreme realisations.
 * I Am Walking
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:89
+  :cite-key: CH:89
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Sound-offering goal.
 * Walking, Concentrating, Meditating
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:90
+  :cite-key: CH:90
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Dreaming triumphantly.
 * New York, the Empire State
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:91
+  :cite-key: CH:91
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Almighty Lord’s Vision pure.
 * Doctor, Doctor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-08-1979
-  :CITE-KEY: CH:92
+  :cite-key: CH:92
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Help me discover my endless breath.
 * One Hundred Miles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-09-1979
-  :CITE-KEY: CH:93
+  :cite-key: CH:93
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ I shall ever reach my transcending Goal!
 * I Am Running Around the Clock
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-11-1980
-  :CITE-KEY: CH:94
+  :cite-key: CH:94
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ My soul-bird and I fly.
 * Anna Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:95
+  :cite-key: CH:95
   :END:
 
 #+BEGIN_VERSE
@@ -565,10 +565,10 @@ Nami madhumayi asima janani
 * Dipti Nivas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:96
+  :cite-key: CH:96
   :END:
 
 #+BEGIN_VERSE
@@ -583,10 +583,10 @@ Bishwa prabhur prema bishwas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:97
+  :cite-key: CH:97
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Of the Absolute Supreme.
 * New Year’s Message for 1980
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:98
+  :cite-key: CH:98
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ Astounding Peace and abiding Oneness.
 * New Year’s Message for 1981
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:99
+  :cite-key: CH:99
   :END:
 
 #+BEGIN_VERSE
@@ -647,10 +647,10 @@ His perfect Perfection.
 * Madal Bal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:100
+  :cite-key: CH:100
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ Jharna parimal jharna parimal
 * Birthday Is the Vision-Day of Days
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:101
+  :cite-key: CH:101
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Great gods, good souls in oneness throng.
 * Father’s Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:102
+  :cite-key: CH:102
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ I shall become Your fondest dove.
 * I Am a New York Member
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:103
+  :cite-key: CH:103
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ All-where blossoms its Goal!
 * Mother’s Day Song (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:104
+  :cite-key: CH:104
   :END:
 
 #+BEGIN_VERSE
@@ -746,10 +746,10 @@ Mother’s oneness is unhorizoned.
 * Mother’s Day Song (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:105
+  :cite-key: CH:105
   :END:
 
 #+BEGIN_VERSE
@@ -765,10 +765,10 @@ Mother’s oneness is unhorizoned.
 * Our Mother Sweet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:106
+  :cite-key: CH:106
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Our Lord’s Soul-Depth.
 * Devadip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:107
+  :cite-key: CH:107
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ In birthless, deathless gong.
 * Devadip Urmila
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:108
+  :cite-key: CH:108
   :END:
 
 #+BEGIN_VERSE
@@ -830,10 +830,10 @@ Halo garab akkhoi
 * Olivier
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:109
+  :cite-key: CH:109
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ O Ustad-maestro, in you have grown.
 * Haridas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: CH:110
+  :cite-key: CH:110
   :END:
 
 #+BEGIN_VERSE
@@ -874,10 +874,10 @@ Paramer bijoyer uchhas chidakash
 * Congratulation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:111
+  :cite-key: CH:111
   :END:
 
 #+BEGIN_VERSE
@@ -893,10 +893,10 @@ In you, for you, our blue-gold satisfaction-sky.
 * Parting
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:112
+  :cite-key: CH:112
   :END:
 
 #+BEGIN_VERSE
@@ -912,10 +912,10 @@ Shall dare challenge our deathless fondness-flow.
 * I Am Running a Marathon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:113
+  :cite-key: CH:113
   :END:
 
 #+BEGIN_VERSE
@@ -931,10 +931,10 @@ I am now ecstasy-flood-sea.
 * New Year’s Message for 1979
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:114
+  :cite-key: CH:114
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ Of God’s Soundless Voice.
 * Guardian Angels
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:115
+  :cite-key: CH:115
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ In you our Lord’s Satisfaction supreme.
 * O Senators, O Congressmen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-11-1979
-  :CITE-KEY: CH:116
+  :cite-key: CH:116
   :END:
 
 #+BEGIN_VERSE
@@ -998,10 +998,10 @@ You are our striving lives’ perfection-voice.
 * Planetary Citizens
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:117
+  :cite-key: CH:117
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ O God and man’s ecstasy-tree!
 * Red Cross
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-12-1978
-  :CITE-KEY: CH:118
+  :cite-key: CH:118
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Heaven-glories in you fly.
 * San Francisco Centre
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:119
+  :cite-key: CH:119
   :END:
 
 #+BEGIN_VERSE
@@ -1068,10 +1068,10 @@ Sure promise-fulfiller.
 * Santa Barbara Centre
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:120
+  :cite-key: CH:120
   :END:
 
 #+BEGIN_VERSE
@@ -1087,10 +1087,10 @@ Now in Supreme Perfection found.
 * Satisfaction-Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-03-1980
-  :CITE-KEY: CH:121
+  :cite-key: CH:121
   :END:
 
 #+BEGIN_VERSE
@@ -1108,10 +1108,10 @@ God’s Vision-Eye.
 * This Is My Year
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:122
+  :cite-key: CH:122
   :END:
 
 #+BEGIN_VERSE
@@ -1130,10 +1130,10 @@ Forever, everywhere I live.
 * We Are Our Master’s Instruments Choice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:123
+  :cite-key: CH:123
   :END:
 
 #+BEGIN_VERSE
@@ -1151,10 +1151,10 @@ With Him we shine to found Supreme.
 * Sri Chinmoy Rainbow (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:124
+  :cite-key: CH:124
   :END:
 
 #+BEGIN_VERSE
@@ -1170,10 +1170,10 @@ Perfection-sky in us shall grow.
 * Welcome
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:125
+  :cite-key: CH:125
   :END:
 
 #+BEGIN_VERSE
@@ -1189,10 +1189,10 @@ We fly beyond the blue sky’s vastness free.
 * Thank You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:126
+  :cite-key: CH:126
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ Brightens your glory’s glow.
 * Phulero Dola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-10-1980
-  :CITE-KEY: CH:127
+  :cite-key: CH:127
   :END:
 
 #+BEGIN_VERSE
@@ -1227,10 +1227,10 @@ Jibanahutir pabitra dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-10-1980
-  :CITE-KEY: CH:128
+  :cite-key: CH:128
   :END:
 
 #+BEGIN_VERSE
@@ -1246,10 +1246,10 @@ No division-dole.
 * O Abode of the Light Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:129
+  :cite-key: CH:129
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Of the Absolute Supreme.
 * The Divine Robe Supreme, Divine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:130
+  :cite-key: CH:130
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ You shine with reality-dream.
 * Perfection-Glory Press
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:131
+  :cite-key: CH:131
   :END:
 
 #+BEGIN_VERSE
@@ -1310,10 +1310,10 @@ I am my soulful surrender-voice.
 * Satisfaction-Promise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:132
+  :cite-key: CH:132
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ To dream your Captain’s Consciousness-Sky.
 * Soul-Joy in Body-Fort
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:133
+  :cite-key: CH:133
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ In our Pilot’s Home-Skies.
 * God-Ascending Beauty’s Feast Bakery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:134
+  :cite-key: CH:134
   :END:
 
 #+BEGIN_VERSE
@@ -1368,10 +1368,10 @@ Are glowing on the bakery’s self-giving tree.
 * O Great Olympic Games
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:135
+  :cite-key: CH:135
   :END:
 
 #+BEGIN_VERSE
@@ -1389,10 +1389,10 @@ Two God-Gifts: a golden flight, a silver dive.
 * Winter Olympic Games
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:136
+  :cite-key: CH:136
   :END:
 
 #+BEGIN_VERSE
@@ -1410,10 +1410,10 @@ Nature’s dance, nectar-thrill.
 * O Marathon Runner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-10-1978
-  :CITE-KEY: CH:137
+  :cite-key: CH:137
   :END:
 
 #+BEGIN_VERSE
@@ -1431,10 +1431,10 @@ In the Captain’s cosmic Oneness-Play.
 * Run and Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:138
+  :cite-key: CH:138
   :END:
 
 #+BEGIN_VERSE
@@ -1450,10 +1450,10 @@ Become to proceed in the inner world.
 * Run (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:139
+  :cite-key: CH:139
   :END:
 
 #+BEGIN_VERSE
@@ -1466,10 +1466,10 @@ Run, run, run
 * Run (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:140
+  :cite-key: CH:140
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ Run, run, run
 * Twenty-Six Miles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:141
+  :cite-key: CH:141
   :END:
 
 #+BEGIN_VERSE
@@ -1501,10 +1501,10 @@ Body’s ignorance-hunter.
 * O, Grant Me the Fastest Speed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:142
+  :cite-key: CH:142
   :END:
 
 #+BEGIN_VERSE
@@ -1520,10 +1520,10 @@ I must win the victory’s delight.
 * O Great Champion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:143
+  :cite-key: CH:143
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ Feed our running hunger, feed.
 * The Empire State Cycle Relay
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:144
+  :cite-key: CH:144
   :END:
 
 #+BEGIN_VERSE
@@ -1556,10 +1556,10 @@ Exciting, inspiring, illumining, earth-play!
 * O, Come and Watch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-06-1979
-  :CITE-KEY: CH:145
+  :cite-key: CH:145
   :END:
 
 #+BEGIN_VERSE
@@ -1575,10 +1575,10 @@ Opens for the world Heaven’s Ecstasy-Gate.
 * Aspiration-Plant, Gratitude-Leaf
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:146
+  :cite-key: CH:146
   :END:
 
 #+BEGIN_VERSE
@@ -1594,10 +1594,10 @@ God’s Compassion-thief.
 * My God Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:147
+  :cite-key: CH:147
   :END:
 
 #+BEGIN_VERSE
@@ -1613,10 +1613,10 @@ And its gratitude-sky.
 * I Go to God Twice a Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:148
+  :cite-key: CH:148
   :END:
 
 #+BEGIN_VERSE
@@ -1635,10 +1635,10 @@ He tells me I am all perfection.
 * I Play Tennis Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:149
+  :cite-key: CH:149
   :END:
 
 #+BEGIN_VERSE
@@ -1656,10 +1656,10 @@ My heart’s perfection-flame.
 * Tennis Game
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:150
+  :cite-key: CH:150
   :END:
 
 #+BEGIN_VERSE
@@ -1677,10 +1677,10 @@ I play to feed my climbing flame.
 * I Love My Great Triathlon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-07-1979
-  :CITE-KEY: CH:151
+  :cite-key: CH:151
   :END:
 
 #+BEGIN_VERSE
@@ -1698,10 +1698,10 @@ My inner cry: God-Treasure-Diamond.
 * There Was a Time When I Swam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CH:152
+  :cite-key: CH:152
   :END:
 
 #+BEGIN_VERSE

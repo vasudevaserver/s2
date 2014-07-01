@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1482
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2004
-  :PUBLISHER:
-  :CITE-KEY: ES-7
-  :GENRE: song
+  :book-number: 1482
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2004
+  :publisher:
+  :cite-key: ES-7
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:741e1
+  :genre: note
+  :cite-key: ES:741e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:741e2
+  :genre: note
+  :cite-key: ES:741e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Lord, Please, Please Bind Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:741
+  :cite-key: ES:741
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ With Your Affection-Heart.
 * My Lord, Please, Please Free Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:742
+  :cite-key: ES:742
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ With Your Compassion-Eye.
 * Division
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:743
+  :cite-key: ES:743
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Union is God-prompter.
 * A Sleepless Self-Giving Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:744
+  :cite-key: ES:744
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ All sunshine.
 * Indifference Is a Slow Poison
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:745
+  :cite-key: ES:745
   :END:
 
 #+BEGIN_VERSE
@@ -128,10 +128,10 @@ A slow poison.
 * Indifference Prevents
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:746
+  :cite-key: ES:746
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ What God the Heart intends.
 * Indifference-Enjoyers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-2003
-  :CITE-KEY: ES:747
+  :cite-key: ES:747
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Are oneness-joy-losers.
 * No More I See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-12-2003
-  :CITE-KEY: ES:748
+  :cite-key: ES:748
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ No more I see my desire-days.
 * My Lord Spreads Out
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-12-2003
-  :CITE-KEY: ES:749
+  :cite-key: ES:749
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ In my heart-garden.
 * Peace-Dreamers, Peace-Lovers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-12-2003
-  :CITE-KEY: ES:750
+  :cite-key: ES:750
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ I see you nowhere.
 * I Shall Never Have
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-12-2003
-  :CITE-KEY: ES:751
+  :cite-key: ES:751
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ I shall never.
 * An Aspiration-Heart and a Gratitude-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-12-2003
-  :CITE-KEY: ES:752
+  :cite-key: ES:752
   :END:
 
 #+BEGIN_VERSE
@@ -253,10 +253,10 @@ Live together.
 * My Morning Running Prayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-12-2003
-  :CITE-KEY: ES:753
+  :cite-key: ES:753
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ Is my heart’s silence-bliss.
 * Do Not Retire, Do Not Retire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-2003
-  :CITE-KEY: ES:754
+  :cite-key: ES:754
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ God’s Pride will not hire you.
 * My Heart Is My Master’s Home
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-2003
-  :CITE-KEY: ES:755
+  :cite-key: ES:755
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ I must not roam.
 * Smiling, the Breath of the New Year
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-2003
-  :CITE-KEY: ES:756
+  :cite-key: ES:756
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Excitement, enlightenment and fulfilment.
 * My God-Hungry Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:757
+  :cite-key: ES:757
   :END:
 
 #+BEGIN_VERSE
@@ -343,10 +343,10 @@ I deeply love you.
 * My God-Hungry Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:758
+  :cite-key: ES:758
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +360,10 @@ I desperately need you.
 * Beautiful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:759
+  :cite-key: ES:759
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Beckons me.
 * Blissful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:760
+  :cite-key: ES:760
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Beckons me.
 * Godful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:761
+  :cite-key: ES:761
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Beckon me.
 * Smiling, Singing, Dancing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:762
+  :cite-key: ES:762
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Every need.
 * My Lord Dances His Ecstasy-Dance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:763
+  :cite-key: ES:763
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ When my heart’s inner day begins to break.
 * The Desire-Life-Stories
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:764
+  :cite-key: ES:764
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ Are extremely painful.
 * Aspiration-Heart-Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:765
+  :cite-key: ES:765
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Are exceedingly haunting.
 * Our Heart-Days
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:766
+  :cite-key: ES:766
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ Our God-promise-fulfilment-days.
 * No Rest After God Realisation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:767
+  :cite-key: ES:767
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ God comes with a new Dream.
 * I Do Not Pray to God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:768
+  :cite-key: ES:768
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ I pray to God to illumine them.
 * No Heart Is Too Weak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:769
+  :cite-key: ES:769
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ To receive Love from God.
 * No Life Is Too Insignificant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:770
+  :cite-key: ES:770
   :END:
 
 #+BEGIN_VERSE
@@ -569,10 +569,10 @@ To love and serve God.
 * The Mind’s Proudest Verdict
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:771
+  :cite-key: ES:771
   :END:
 
 #+BEGIN_VERSE
@@ -586,10 +586,10 @@ God does not know what the mind does.
 * I Use My Vision-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:772
+  :cite-key: ES:772
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ When I am in the inner world.
 * I Use My Mission-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:773
+  :cite-key: ES:773
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ When I am in the outer world.
 * When I Most Sincerely Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:774
+  :cite-key: ES:774
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ My Beauty’s child.”
 * My New Inner Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:775
+  :cite-key: ES:775
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ God-blessing-abundance.
 * My New Outer Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:776
+  :cite-key: ES:776
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ God-surrender-ecstasy.
 * To God, Nothing Is More Important
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:777
+  :cite-key: ES:777
   :END:
 
 #+BEGIN_VERSE
@@ -693,10 +693,10 @@ And my blissful eyes.
 * My Mind and I
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:778
+  :cite-key: ES:778
   :END:
 
 #+BEGIN_VERSE
@@ -711,10 +711,10 @@ We miserably fail.
 * My Heart and I
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:779
+  :cite-key: ES:779
   :END:
 
 #+BEGIN_VERSE
@@ -729,10 +729,10 @@ We invariably succeed.
 * My God-Obedience
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:780
+  :cite-key: ES:780
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Golden flute-melody-life.
 * My God-Disobedience
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:781
+  :cite-key: ES:781
   :END:
 
 #+BEGIN_VERSE
@@ -765,10 +765,10 @@ Cherished by the hostile forces.
 * My Master Reveals the Unseen God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:782
+  :cite-key: ES:782
   :END:
 
 #+BEGIN_VERSE
@@ -782,10 +782,10 @@ At the very right moment.
 * God Is Ready to Discuss With Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:783
+  :cite-key: ES:783
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ But about today.
 * My Real Homeland
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:784
+  :cite-key: ES:784
   :END:
 
 #+BEGIN_VERSE
@@ -819,10 +819,10 @@ My God-aspiration-heart.
 * Long, Long Ago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:785
+  :cite-key: ES:785
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ God is helping you.
 * God’s Compassion-Eye Blessingfully Teaches Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:786
+  :cite-key: ES:786
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ How to cry.
 * God’s Forgiveness-Heart Blessingfully Teaches Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:787
+  :cite-key: ES:787
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ How to smile.
 * At Long Last, I Am Able to Enter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:788
+  :cite-key: ES:788
   :END:
 
 #+BEGIN_VERSE
@@ -890,10 +890,10 @@ Beauty-fragrance-inundated horizon.
 * My Lord Supreme Never Doubts Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:789
+  :cite-key: ES:789
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ But I do doubt Him.
 * My Lord Supreme Never Insists
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:790
+  :cite-key: ES:790
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ But I do.
 * A True Seeker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:791
+  :cite-key: ES:791
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ God-messenger on earth.
 * God’s Invisible Blows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:792
+  :cite-key: ES:792
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ Awaken my life.
 * God’s Visible Blows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-2004
-  :CITE-KEY: ES:793
+  :cite-key: ES:793
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ Expedite my Godward journey.
 * There Is No Curtain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:794
+  :cite-key: ES:794
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Between my Lord and my heart.
 * My God-Journey: My God-Discovery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:795
+  :cite-key: ES:795
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ My God-discovery.
 * I Have Come to Complete (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:796
+  :cite-key: ES:796
   :END:
 
 #+BEGIN_VERSE
@@ -1028,10 +1028,10 @@ And never, never, to compete.
 * My Heart Depends Solely on God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:797
+  :cite-key: ES:797
   :END:
 
 #+BEGIN_VERSE
@@ -1045,10 +1045,10 @@ On God the Love.
 * God Wants Me to Take Advice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:798
+  :cite-key: ES:798
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ From Heaven and earth alike.
 * The Day of Judgement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:799
+  :cite-key: ES:799
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ Is nothing but enlightenment.
 * Hindu, Muslim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:800
+  :cite-key: ES:800
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ Are two brother-souls.
 * Hindu Blood, Muslim Blood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:801
+  :cite-key: ES:801
   :END:
 
 #+BEGIN_VERSE
@@ -1114,10 +1114,10 @@ These two proudly enjoy their signal oneness-flood.
 * Hindu Belief, Christian Belief
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:802
+  :cite-key: ES:802
   :END:
 
 #+BEGIN_VERSE
@@ -1131,10 +1131,10 @@ God is one, God is one, one pure Divinity.
 * Wealth Is Not Money-Property
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:803
+  :cite-key: ES:803
   :END:
 
 #+BEGIN_VERSE
@@ -1148,10 +1148,10 @@ Wealth is joy-prosperity.
 * Everything Leads Us
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:804
+  :cite-key: ES:804
   :END:
 
 #+BEGIN_VERSE
@@ -1165,10 +1165,10 @@ Everybody becomes the Golden Shore.
 * God Has Paved the Way
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:805
+  :cite-key: ES:805
   :END:
 
 #+BEGIN_VERSE
@@ -1182,10 +1182,10 @@ O earth-children, sleep not. Arise, arise!
 * God-Sanctioned Fasting
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:806
+  :cite-key: ES:806
   :END:
 
 #+BEGIN_VERSE
@@ -1201,10 +1201,10 @@ God pleasing, God fulfilling.
 * I Love and Need
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:807
+  :cite-key: ES:807
   :END:
 
 #+BEGIN_VERSE
@@ -1220,10 +1220,10 @@ Who are less fortunate than I am.
 * If I Use Not My Heart to Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-2004
-  :CITE-KEY: ES:808
+  :cite-key: ES:808
   :END:
 
 #+BEGIN_VERSE
@@ -1237,10 +1237,10 @@ My heart will be hardened.
 * Charity Secretly Given
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:809
+  :cite-key: ES:809
   :END:
 
 #+BEGIN_VERSE
@@ -1254,10 +1254,10 @@ Thrice given.
 * When My Body Suffers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:810
+  :cite-key: ES:810
   :END:
 
 #+BEGIN_VERSE
@@ -1271,10 +1271,10 @@ My soul shares its suffering.
 * I Am Not a Charity Giver
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:811
+  :cite-key: ES:811
   :END:
 
 #+BEGIN_VERSE
@@ -1288,10 +1288,10 @@ I am a giver of my all.
 * One Who Aspires and One Who Desires
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:812
+  :cite-key: ES:812
   :END:
 
 #+BEGIN_VERSE
@@ -1305,10 +1305,10 @@ Are like the living and the dead.
 * Even If I Act Mistakenly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:813
+  :cite-key: ES:813
   :END:
 
 #+BEGIN_VERSE
@@ -1324,10 +1324,10 @@ Remains the same.
 * My Body Goes to God Walking
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-01-2004
-  :CITE-KEY: ES:814
+  :cite-key: ES:814
   :END:
 
 #+BEGIN_VERSE
@@ -1341,10 +1341,10 @@ God’s Heart comes to me flying.
 * My Lord’s Heart-Market-Store
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2004
-  :CITE-KEY: ES:815
+  :cite-key: ES:815
   :END:
 
 #+BEGIN_VERSE
@@ -1358,10 +1358,10 @@ Never charges.
 * Any Moment Is the Right Moment (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2004
-  :CITE-KEY: ES:816
+  :cite-key: ES:816
   :END:
 
 #+BEGIN_VERSE
@@ -1375,10 +1375,10 @@ When we want to please God.
 * God Knows Well
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2004
-  :CITE-KEY: ES:817
+  :cite-key: ES:817
   :END:
 
 #+BEGIN_VERSE
@@ -1394,10 +1394,10 @@ To change our nature.
 * Our Sincere Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2004
-  :CITE-KEY: ES:818
+  :cite-key: ES:818
   :END:
 
 #+BEGIN_VERSE
@@ -1412,10 +1412,10 @@ God’s highest reward.
 * If You Want To Proclaim God’s Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-01-2004
-  :CITE-KEY: ES:819
+  :cite-key: ES:819
   :END:
 
 #+BEGIN_VERSE
@@ -1430,10 +1430,10 @@ This is the only time.
 * Give Away What You Have
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-2004
-  :CITE-KEY: ES:820
+  :cite-key: ES:820
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ In Paradise.
 * Heart You Need When You Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-2004
-  :CITE-KEY: ES:821
+  :cite-key: ES:821
   :END:
 
 #+BEGIN_VERSE
@@ -1467,10 +1467,10 @@ Tears you need to feel God’s Heart.
 * We All Need
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-2004
-  :CITE-KEY: ES:822
+  :cite-key: ES:822
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ The golden dust of God’s Feet.
 * My Soul Has Rights
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:823
+  :cite-key: ES:823
   :END:
 
 #+BEGIN_VERSE
@@ -1503,10 +1503,10 @@ My life has no rights over anything.
 * Fire Devours Firewood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:824
+  :cite-key: ES:824
   :END:
 
 #+BEGIN_VERSE
@@ -1520,10 +1520,10 @@ Mind devours childhood.
 * A Single, Soulful Prayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:825
+  :cite-key: ES:825
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ Is far better than one million prayers
 * Genuine Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:826
+  :cite-key: ES:826
   :END:
 
 #+BEGIN_VERSE
@@ -1556,10 +1556,10 @@ Can be empty of expectation.
 * To Draw God Close
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:827
+  :cite-key: ES:827
   :END:
 
 #+BEGIN_VERSE
@@ -1573,10 +1573,10 @@ Devotion-magnet is par excellance.
 * My Desire-Life Enjoys Dictatorship
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:828
+  :cite-key: ES:828
   :END:
 
 #+BEGIN_VERSE
@@ -1589,10 +1589,10 @@ My desire-life enjoys dictatorship.
 * My Aspiration-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:829
+  :cite-key: ES:829
   :END:
 
 #+BEGIN_VERSE
@@ -1605,10 +1605,10 @@ My aspiration-life enjoys God-ownership.
 * When My Devotion-Heart Approaches God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:830
+  :cite-key: ES:830
   :END:
 
 #+BEGIN_VERSE
@@ -1623,10 +1623,10 @@ To welcome and embrace my devotion.
 * Give Up Not Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-2004
-  :CITE-KEY: ES:831
+  :cite-key: ES:831
   :END:
 
 #+BEGIN_VERSE
@@ -1641,10 +1641,10 @@ God-lover and God-server.
 * Life Is Not a Desire-Entertainment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:832
+  :cite-key: ES:832
   :END:
 
 #+BEGIN_VERSE
@@ -1658,10 +1658,10 @@ Life is meant for God-enlightenment.
 * Lo, Ecstasy Has Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:833
+  :cite-key: ES:833
   :END:
 
 #+BEGIN_VERSE
@@ -1675,10 +1675,10 @@ To nest in my heart.
 * I Must Try and Try
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:834
+  :cite-key: ES:834
   :END:
 
 #+BEGIN_VERSE
@@ -1693,10 +1693,10 @@ I shall succeed.
 * My Heart Exports My God-Loving Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:835
+  :cite-key: ES:835
   :END:
 
 #+BEGIN_VERSE
@@ -1710,10 +1710,10 @@ To Heaven.
 * My Soul Imports Peace and Bliss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:836
+  :cite-key: ES:836
   :END:
 
 #+BEGIN_VERSE
@@ -1727,10 +1727,10 @@ From Above.
 * God-Obedience Is the Only Subject
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:837
+  :cite-key: ES:837
   :END:
 
 #+BEGIN_VERSE
@@ -1744,10 +1744,10 @@ That I must study.
 * I Can Never Devour Enough
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:838
+  :cite-key: ES:838
   :END:
 
 #+BEGIN_VERSE
@@ -1761,10 +1761,10 @@ The golden dust of my Lord’s Feet.
 * Out of Function
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-2004
-  :CITE-KEY: ES:839
+  :cite-key: ES:839
   :END:
 
 #+BEGIN_VERSE
@@ -1778,10 +1778,10 @@ Out of function.
 * Against the Power of Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-02-2004
-  :CITE-KEY: ES:840
+  :cite-key: ES:840
   :END:
 
 #+BEGIN_VERSE
@@ -1795,10 +1795,10 @@ None can stand, below, above.
 * Against the Power of the Inner Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-02-2004
-  :CITE-KEY: ES:841
+  :cite-key: ES:841
   :END:
 
 #+BEGIN_VERSE
@@ -1812,10 +1812,10 @@ The loudest drum is nothing but a tiny toy.
 * I Long to Go to God’s Heart-Palace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-02-2004
-  :CITE-KEY: ES:842
+  :cite-key: ES:842
   :END:
 
 #+BEGIN_VERSE
@@ -1829,10 +1829,10 @@ To touch His Feet and adore His Face.
 * He (She) Will Attain the Supreme Goal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-02-2004
-  :CITE-KEY: ES:843
+  :cite-key: ES:843
   :END:
 
 #+BEGIN_VERSE
@@ -1846,10 +1846,10 @@ Who is, indeed, a selfless soul.
 * I Shall Walk the Earth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: ES:844
+  :cite-key: ES:844
   :END:
 
 #+BEGIN_VERSE
@@ -1864,10 +1864,10 @@ And my dedication-life.
 * Never Bow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: ES:845
+  :cite-key: ES:845
   :END:
 
 #+BEGIN_VERSE
@@ -1881,10 +1881,10 @@ At the feet of impossibility.
 * My Lord’s Most Favourite Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: ES:846
+  :cite-key: ES:846
   :END:
 
 #+BEGIN_VERSE
@@ -1898,10 +1898,10 @@ Most favourite song.
 * My Lord Has Blessed Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: ES:847
+  :cite-key: ES:847
   :END:
 
 #+BEGIN_VERSE
@@ -1916,10 +1916,10 @@ And an unageing heart.
 * My Determination
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-02-2004
-  :CITE-KEY: ES:848
+  :cite-key: ES:848
   :END:
 
 #+BEGIN_VERSE

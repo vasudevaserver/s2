@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1060
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: ASPH-4
-  :GENRE: song
+  :book-number: 1060
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: ASPH-4
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ASPH:161e1
+  :genre: note
+  :cite-key: ASPH:161e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ASPH:161e2
+  :genre: note
+  :cite-key: ASPH:161e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Tomar Dekha Peyechi Aj Taito Halem
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:161
+  :cite-key: ASPH:161
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Kabhu patha bhranto
 * Kothai Tumi Acho Ogo Na Kothai Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:162
+  :cite-key: ASPH:162
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ Nacho barek nacho
 * Ananda Lobhe Bhitare Bahire Ekaki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:163
+  :cite-key: ASPH:163
   :END:
 
 #+BEGIN_VERSE
@@ -98,10 +98,10 @@ Tomai jeno go smari
 * Majhe Majhe Tomar Ankhi Dekhe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:164
+  :cite-key: ASPH:164
   :END:
 
 #+BEGIN_VERSE
@@ -115,10 +115,10 @@ Amai chere jabe jani agyanatar ghor
 * Khelte Moder Dekhecho Aj Taito Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:165
+  :cite-key: ASPH:165
   :END:
 
 #+BEGIN_VERSE
@@ -134,10 +134,10 @@ Kabhu abahela
 * Paramanande Chitta Jegeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:166
+  :cite-key: ASPH:166
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ Karunai bhara majhi
 * Je Amare Dei Ananda Puta Bindu Tare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:167
+  :cite-key: ASPH:167
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Tare dibo ami kritagyatar sindhu
 * Rekhechi Ajike Garbito Shir Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:168
+  :cite-key: ASPH:168
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Danibe shanti amale
 * Kothai Tumi Kothai Ami Puji Jadi Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:169
+  :cite-key: ASPH:169
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ Maha bishwa chara chare
 * Janani Tomar Kamala Charana Parashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1994
-  :CITE-KEY: ASPH:170
+  :cite-key: ASPH:170
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ Rupantaribo khudra amire harashe
 * Antara Mama Purnata Nabhe Nache Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:171
+  :cite-key: ASPH:171
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Hiya majhi
 * Maner Kone Ke Ese Aj Rayeche Dharaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:172
+  :cite-key: ASPH:172
   :END:
 
 #+BEGIN_VERSE
@@ -261,10 +261,10 @@ Nahi jeno bachi ami tahare haraye
 * Hiyar Rabi Hiyar Shashi Hiyar Tara Toder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:173
+  :cite-key: ASPH:173
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Toder bina ami je aj sarba hara
 * He Amar Prabhu Bedanar Sure Bejecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:174
+  :cite-key: ASPH:174
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Na bhangile mor maner prachire
 * Sharthak Habe Sadhan Jiban Sharthak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:175
+  :cite-key: ASPH:175
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Tomar charan khani
 * Hiyar Pradip Nibe Gelo Maner Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:176
+  :cite-key: ASPH:176
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Nithur nishar timire
 * Tomar Lilai Hese Neche Na Dile Jog
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:177
+  :cite-key: ASPH:177
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Jabena mor bahu kaler ei agyan rog
 * Tomai Jakhan Dekhi Prabhu Prathambar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:178
+  :cite-key: ASPH:178
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Parabar
 * Tumi Je Karecho Suru Tumiy Karibe Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:179
+  :cite-key: ASPH:179
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ Bhangite moher kara
 * Trishita Nayane Cheye Achi Taba Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:180
+  :cite-key: ASPH:180
   :END:
 
 #+BEGIN_VERSE
@@ -407,10 +407,10 @@ Nijere harabo tomar bijoy gane
 * Keno Tumi Amai Rakho Balbe Ki Ma Balbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:181
+  :cite-key: ASPH:181
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Keno tumi adham sathe chalbe mago chalbe
 * Kon Debata Dake Amai Sathi Hate Kar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:182
+  :cite-key: ASPH:182
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Kar parane tushbo ami atma brate
 * Kanpe Deha Kanpe Pran Kanpe Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:183
+  :cite-key: ASPH:183
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ Nahi here bandar
 * Tomai Ami Karbo Ami Mor Amire Nibedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:184
+  :cite-key: ASPH:184
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Purna karo mago amar khudra hiyar abedan
 * Bina Agrahe Jadi Chahi Kichu Diyona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:185
+  :cite-key: ASPH:185
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Na jeno bhuli go kabhu
 * Paramer Nam Lahi Paramer Giti Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:186
+  :cite-key: ASPH:186
   :END:
 
 #+BEGIN_VERSE
@@ -515,10 +515,10 @@ Ami jaha hese taha ami sampibo
 * Swapan Madhur Swapan Madhur Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:187
+  :cite-key: ASPH:187
   :END:
 
 #+BEGIN_VERSE
@@ -532,10 +532,10 @@ Dakiche amai paramanande prabhur nayan
 * Kandte Habe Kandte Habe Mayer Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:188
+  :cite-key: ASPH:188
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Ratul charan nirabadhi
 * Phire Eso Atma Mama Karona Ar Deri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:189
+  :cite-key: ASPH:189
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +570,10 @@ Mayer bijoy bheri
 * Hiya Giti Na Jeno Hoi Kabhu Samapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-12-1994
-  :CITE-KEY: ASPH:190
+  :cite-key: ASPH:190
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ Bishwa pita shunte chahe giti anukkhan
 * Tomare Pujite Giye Amare Pujechi Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:191
+  :cite-key: ASPH:191
   :END:
 
 #+BEGIN_VERSE
@@ -604,10 +604,10 @@ Tomare bandhite giye amare bendechi
 * Bhakti Bina Shakti Jara Chai Kichui Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:192
+  :cite-key: ASPH:192
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Kichui tara kabhu nahi pai
 * Mor Swapaner Nahi Habe Shesh Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:193
+  :cite-key: ASPH:193
   :END:
 
 #+BEGIN_VERSE
@@ -638,10 +638,10 @@ Saphal haibe sab asha mor ei jibaner
 * Bahubar Tumi Esecho Amar Ruddha Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:194
+  :cite-key: ASPH:194
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Tomare bidhata tomare
 * Nayane Nai Hasi Hridaye Nai Asha Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:195
+  :cite-key: ASPH:195
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Simana nai bandhar
 * Amiya Sagare Dubi Ache Mor Hiya Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:196
+  :cite-key: ASPH:196
   :END:
 
 #+BEGIN_VERSE
@@ -695,10 +695,10 @@ Nai je apar keha
 * Amar Maner Andhar Nisha Jabe Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:197
+  :cite-key: ASPH:197
   :END:
 
 #+BEGIN_VERSE
@@ -712,10 +712,10 @@ Tomai pabar trisha amar jabe jakhan bere
 * Kahar Harashe Harashito Ami Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:198
+  :cite-key: ASPH:198
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ Amar maner gahane
 * Madhur Habe Jiban Amar Madhur Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:199
+  :cite-key: ASPH:199
   :END:
 
 #+BEGIN_VERSE
@@ -750,10 +750,10 @@ Moher bandhan moher jatan
 * Chokher Jale Ke Amare Dake Dibanishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:200
+  :cite-key: ASPH:200
   :END:
 
 #+BEGIN_VERSE
@@ -767,10 +767,10 @@ Amar lagi ghure berai ogo dasha dishi
 * Tomar Katha Man Je Amar Shunte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:201
+  :cite-key: ASPH:201
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Bhul kareo tomar giti man je gahena
 * Jyotsna Rate Paran Bhare Gahi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:202
+  :cite-key: ASPH:202
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ Hasi rasi madhu priti
 * Nirmal Hiya Nirmal Ankhi Sab Kichu Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:203
+  :cite-key: ASPH:203
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Hok shatadal puta parimal
 * Sajabo Ajike Amar Jiban Tomar Ruper
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:204
+  :cite-key: ASPH:204
   :END:
 
 #+BEGIN_VERSE
@@ -841,10 +841,10 @@ Tomar kripar surabhite
 * Maner Ganer Hayeche Shesh Hiyar Ganer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:205
+  :cite-key: ASPH:205
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Pujte chahi atma gyaner brate
 * Tomar Sneher Kangal Hate Pagol Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:206
+  :cite-key: ASPH:206
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Tomar kotha paran bhore bishwa sabai kabo
 * Maner Nisha Raho Dure Amar Adesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:207
+  :cite-key: ASPH:207
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Prabhur kripa pete chahi ami ashesh
 * Biraher Giti Gahite Amar Nahi Lage Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:208
+  :cite-key: ASPH:208
   :END:
 
 #+BEGIN_VERSE
@@ -913,10 +913,10 @@ Duribo maner kalo
 * Ghum Bhengeche Shune Tomar Bijoy Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:209
+  :cite-key: ASPH:209
   :END:
 
 #+BEGIN_VERSE
@@ -930,10 +930,10 @@ Bhitar bahir kebal heri tomar priti
 * Nami.. Tomar Kripar Tomar Khamar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-1994
-  :CITE-KEY: ASPH:210
+  :cite-key: ASPH:210
   :END:
 
 #+BEGIN_VERSE

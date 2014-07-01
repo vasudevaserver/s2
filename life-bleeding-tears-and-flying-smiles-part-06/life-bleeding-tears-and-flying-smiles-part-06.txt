@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1384
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2001
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LTS-6
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 1384
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2001
+  :publisher: Agni Press
+  :cite-key: LTS-6
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,8 +22,8 @@
 * Dedication
 
    :PROPERTIES:
-   :GENRE: note
-   :KEYWORDS:
+   :genre: note
+   :keywords:
    :CITE_KEY: LTS:74e1
    :END:
 
@@ -35,9 +35,9 @@ On the most auspicious occasion of my brother Mantu's 73rd birthday on 17 Novemb
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LTS:74e2
+  :genre: note
+  :keywords:
+  :cite-key: LTS:74e2
   :END:
 
 
@@ -52,9 +52,9 @@ May these tales liberate us from the heavy dryness of the mind, and may they tra
 * The miser's just punishment
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:74
+  :genre: story
+  :keywords:
+  :cite-key: LTS:74
   :END:
 
 
@@ -87,9 +87,9 @@ Finally the hooligan said to him, "Had I known that you had only one hundred rup
 * The dishonest son-in-law
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:75
+  :genre: story
+  :keywords:
+  :cite-key: LTS:75
   :END:
 
 
@@ -128,9 +128,9 @@ Where is comedy in life? It is full of sadness.
 * A moment of Brahma's time
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:76
+  :genre: story
+  :keywords:
+  :cite-key: LTS:76
   :END:
 
 
@@ -157,9 +157,9 @@ Now, Brahma was gone and it was taking him years and years to return, because Br
 * The village fool
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:77
+  :genre: story
+  :keywords:
+  :cite-key: LTS:77
   :END:
 
 
@@ -186,9 +186,9 @@ Then the villagers laughed and laughed at the fool's wisdom.
 * The stolen bundle
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:78
+  :genre: story
+  :keywords:
+  :cite-key: LTS:78
   :END:
 
 
@@ -223,9 +223,9 @@ The man went to the village chief, but the chief said, "I told you that I was no
 * The callous logician
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:79
+  :genre: story
+  :keywords:
+  :cite-key: LTS:79
   :END:
 
 
@@ -270,9 +270,9 @@ So the disciple who was supreme in logic was thrown out of the Master's ashram.
 * The king's ambassadors
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:80
+  :genre: story
+  :keywords:
+  :cite-key: LTS:80
   :END:
 
 
@@ -301,9 +301,9 @@ The king dismissed the ambassador who lingered and enjoyed himself in the neighb
 * Two impossible fools
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:81
+  :genre: story
+  :keywords:
+  :cite-key: LTS:81
   :END:
 
 
@@ -346,9 +346,9 @@ The two masters said, "Since you have both passed your examinations, we shall lo
 * A Brahmin priest teaches two thieves
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:82
+  :genre: story
+  :keywords:
+  :cite-key: LTS:82
   :END:
 
 
@@ -367,9 +367,9 @@ As soon as the two bandits heard that there was a whole cart full of valuable it
 * A thief in the well
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:83
+  :genre: story
+  :keywords:
+  :cite-key: LTS:83
   :END:
 
 
@@ -392,9 +392,9 @@ They discovered the thief inside the well searching for the earring. The neighbo
 * The king and his two ministers
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:84
+  :genre: story
+  :keywords:
+  :cite-key: LTS:84
   :END:
 
 
@@ -447,9 +447,9 @@ The king said, "You have such love for me. I should listen to you. When you saw 
 * The court jester wins the bet
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:85
+  :genre: story
+  :keywords:
+  :cite-key: LTS:85
   :END:
 
 
@@ -502,9 +502,9 @@ When the first king received this message, he started laughing and laughing at h
 * The hermit's only possession
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:86
+  :genre: story
+  :keywords:
+  :cite-key: LTS:86
   :END:
 
 
@@ -549,9 +549,9 @@ This story shows us that if you deal with a good person, you immediately learn s
 * The seven-year-old defeats the scholar
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:87
+  :genre: story
+  :keywords:
+  :cite-key: LTS:87
   :END:
 
 
@@ -632,9 +632,9 @@ His questions were so difficult to answer, but his third question in particular 
 * Children ride free
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:88
+  :genre: story
+  :keywords:
+  :cite-key: LTS:88
   :END:
 
 
@@ -659,9 +659,9 @@ The carriage driver said to himself, "I am dealing with rogues, but I want to pr
 * The superior friend
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:89
+  :genre: story
+  :keywords:
+  :cite-key: LTS:89
   :END:
 
 

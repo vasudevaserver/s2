@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0068
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: AK
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0068
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: AK
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Ant: Glory
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:1
+  :genre: poem
+  :keywords:
+  :cite-key: AK:1
   :END:
 
 
@@ -47,9 +47,9 @@ In another word, His greatness.
 * Bat: Peculiarity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:2
+  :genre: poem
+  :keywords:
+  :cite-key: AK:2
   :END:
 
 
@@ -71,9 +71,9 @@ He will grant us His deathless Ray.
 * Bear: Vengefulness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:3
+  :genre: poem
+  :keywords:
+  :cite-key: AK:3
   :END:
 
 
@@ -95,9 +95,9 @@ And wild ignorance-clay.
 * Bee: Industry
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:4
+  :genre: poem
+  :keywords:
+  :cite-key: AK:4
   :END:
 
 
@@ -119,9 +119,9 @@ The robe of fruitful victory.
 * Buffalo: Wisdom
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:5
+  :genre: poem
+  :keywords:
+  :cite-key: AK:5
   :END:
 
 
@@ -145,9 +145,9 @@ Nothing is done, nothing is done.
 * Bull: Confidence
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:6
+  :genre: poem
+  :keywords:
+  :cite-key: AK:6
   :END:
 
 
@@ -171,9 +171,9 @@ You confide in God your mission-blood.
 * Butterfly: Prosperity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:7
+  :genre: poem
+  :keywords:
+  :cite-key: AK:7
   :END:
 
 
@@ -192,9 +192,9 @@ Man's ceaseless strife.
 * Camel: Forbearance
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:8
+  :genre: poem
+  :keywords:
+  :cite-key: AK:8
   :END:
 
 
@@ -214,9 +214,9 @@ Divinity's Triumph-Right.
 * Cat: Affection
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:9
+  :genre: poem
+  :keywords:
+  :cite-key: AK:9
   :END:
 
 
@@ -237,9 +237,9 @@ I tell you a supreme secret:
 * Cock: Death-Signal
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:10
+  :genre: poem
+  :keywords:
+  :cite-key: AK:10
   :END:
 
 
@@ -266,9 +266,9 @@ For you, only for you.'"
 * Cockroach: Unpleasantness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:11
+  :genre: poem
+  :keywords:
+  :cite-key: AK:11
   :END:
 
 
@@ -294,9 +294,9 @@ pleasure-indulgence?
 * Cow: Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:12
+  :genre: poem
+  :keywords:
+  :cite-key: AK:12
   :END:
 
 
@@ -316,9 +316,9 @@ The entire creation's height.
 * Crab: Insecurity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:13
+  :genre: poem
+  :keywords:
+  :cite-key: AK:13
   :END:
 
 
@@ -339,9 +339,9 @@ From the horizon of service-freedom.
 * Cricket: Illumination
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:14
+  :genre: poem
+  :keywords:
+  :cite-key: AK:14
   :END:
 
 
@@ -361,9 +361,9 @@ And His creation's unfathomed enormity.
 * Crow: Death-Force
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:15
+  :genre: poem
+  :keywords:
+  :cite-key: AK:15
   :END:
 
 
@@ -389,9 +389,9 @@ My nectar-bread.
 * Deer: Speed
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:16
+  :genre: poem
+  :keywords:
+  :cite-key: AK:16
   :END:
 
 
@@ -413,9 +413,9 @@ And hoist His Victory's Banner.
 * Dog: Faithfulness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:17
+  :genre: poem
+  :keywords:
+  :cite-key: AK:17
   :END:
 
 
@@ -436,9 +436,9 @@ God needs your soul to proceed.
 * Dolphin: Sagacity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:18
+  :genre: poem
+  :keywords:
+  :cite-key: AK:18
   :END:
 
 
@@ -458,9 +458,9 @@ With ceaseless strife.
 * Donkey: Stupidity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:19
+  :genre: poem
+  :keywords:
+  :cite-key: AK:19
   :END:
 
 
@@ -483,9 +483,9 @@ Man's eye of boastful fecundity.
 * Dove: Peace
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:20
+  :genre: poem
+  :keywords:
+  :cite-key: AK:20
   :END:
 
 
@@ -508,9 +508,9 @@ In measureless measure.
 * Duck: Discrimination
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:21
+  :genre: poem
+  :keywords:
+  :cite-key: AK:21
   :END:
 
 
@@ -541,9 +541,9 @@ To satisfy your great need.
 * Eagle: Vision
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:22
+  :genre: poem
+  :keywords:
+  :cite-key: AK:22
   :END:
 
 
@@ -567,9 +567,9 @@ Stupidly clever.
 * Elephant: Strength
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:23
+  :genre: poem
+  :keywords:
+  :cite-key: AK:23
   :END:
 
 
@@ -589,9 +589,9 @@ To Infinity's endless length.
 * Frog: Enthusiasm
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:24
+  :genre: poem
+  :keywords:
+  :cite-key: AK:24
   :END:
 
 
@@ -619,9 +619,9 @@ salvation-perfection.
 * Giraffe: Height
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:25
+  :genre: poem
+  :keywords:
+  :cite-key: AK:25
   :END:
 
 
@@ -641,9 +641,9 @@ Try, you shall succeed; try.
 * Goat: Desire
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:26
+  :genre: poem
+  :keywords:
+  :cite-key: AK:26
   :END:
 
 
@@ -666,9 +666,9 @@ God's own Hand.
 * Horse: Sacrifice
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:27
+  :genre: poem
+  :keywords:
+  :cite-key: AK:27
   :END:
 
 
@@ -691,9 +691,9 @@ sacrifice-plenitude.
 * Jackal: Roguishness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:28
+  :genre: poem
+  :keywords:
+  :cite-key: AK:28
   :END:
 
 
@@ -715,9 +715,9 @@ Far beyond the domain of clay.
 * Lamb: Helplessness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:29
+  :genre: poem
+  :keywords:
+  :cite-key: AK:29
   :END:
 
 
@@ -738,9 +738,9 @@ Immortality's Right.
 * Lion: Sovereignty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:30
+  :genre: poem
+  :keywords:
+  :cite-key: AK:30
   :END:
 
 
@@ -762,9 +762,9 @@ Yours is the golden shore.
 * Louse: Atrocity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:31
+  :genre: poem
+  :keywords:
+  :cite-key: AK:31
   :END:
 
 
@@ -788,9 +788,9 @@ life-blood.
 * Monkey: Restlessness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:32
+  :genre: poem
+  :keywords:
+  :cite-key: AK:32
   :END:
 
 
@@ -811,9 +811,9 @@ To God's Aspiration-race.
 * Mosquito: Torture
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:33
+  :genre: poem
+  :keywords:
+  :cite-key: AK:33
   :END:
 
 
@@ -835,9 +835,9 @@ Death-King's secret knife!
 * Mouse: Bearer
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:34
+  :genre: poem
+  :keywords:
+  :cite-key: AK:34
   :END:
 
 
@@ -858,9 +858,9 @@ Earth-life is all gratitude.
 * Nightingale: Sweetness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:35
+  :genre: poem
+  :keywords:
+  :cite-key: AK:35
   :END:
 
 
@@ -878,9 +878,9 @@ You are our soulful admiration's choice.
 * Panther: Destruction
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:36
+  :genre: poem
+  :keywords:
+  :cite-key: AK:36
   :END:
 
 
@@ -903,9 +903,9 @@ Indeed, you will be supremely fruitful.
 * Parrot: Admiration
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:37
+  :genre: poem
+  :keywords:
+  :cite-key: AK:37
   :END:
 
 
@@ -928,9 +928,9 @@ of satisfaction.
 * Peacock: Victory
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:38
+  :genre: poem
+  :keywords:
+  :cite-key: AK:38
   :END:
 
 
@@ -949,9 +949,9 @@ The ignorance-tree."
 * Pig: Satisfaction
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:39
+  :genre: poem
+  :keywords:
+  :cite-key: AK:39
   :END:
 
 
@@ -973,9 +973,9 @@ Is your birthright.
 * Rabbit: Sincerity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:40
+  :genre: poem
+  :keywords:
+  :cite-key: AK:40
   :END:
 
 
@@ -995,9 +995,9 @@ With stupendous mirth.
 * Rhinoceros: Concentration
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:41
+  :genre: poem
+  :keywords:
+  :cite-key: AK:41
   :END:
 
 
@@ -1015,9 +1015,9 @@ You expedite Immortality's birth.
 * Scorpion: Ignorance-Force
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:42
+  :genre: poem
+  :keywords:
+  :cite-key: AK:42
   :END:
 
 
@@ -1038,9 +1038,9 @@ Stop your eyeless course.
 * Shark: Meanness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:43
+  :genre: poem
+  :keywords:
+  :cite-key: AK:43
   :END:
 
 
@@ -1063,9 +1063,9 @@ In the sea of water, mud and clay.
 * Skunk: Darkness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:44
+  :genre: poem
+  :keywords:
+  :cite-key: AK:44
   :END:
 
 
@@ -1083,9 +1083,9 @@ In your ignoble blood.
 * Red Snake: Energy,
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:45
+  :genre: poem
+  :keywords:
+  :cite-key: AK:45
   :END:
 
 
@@ -1105,9 +1105,9 @@ A painful farce.
 * Black Snake: Inconscience
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:46
+  :genre: poem
+  :keywords:
+  :cite-key: AK:46
   :END:
 
 
@@ -1127,9 +1127,9 @@ Oh, I see; you are both.
 * Sparrow: Secrecy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:47
+  :genre: poem
+  :keywords:
+  :cite-key: AK:47
   :END:
 
 
@@ -1150,9 +1150,9 @@ Of fascination-sky.
 * Spider: Patience
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:48
+  :genre: poem
+  :keywords:
+  :cite-key: AK:48
   :END:
 
 
@@ -1174,9 +1174,9 @@ pure and true.
 * Squirrel: Service
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:49
+  :genre: poem
+  :keywords:
+  :cite-key: AK:49
   :END:
 
 
@@ -1202,9 +1202,9 @@ Is far beyond the death-dart.
 * Swan: Realisation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:50
+  :genre: poem
+  :keywords:
+  :cite-key: AK:50
   :END:
 
 
@@ -1233,9 +1233,9 @@ All-fulfilling Illumination-Life."
 * Tiger: Cruelty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:51
+  :genre: poem
+  :keywords:
+  :cite-key: AK:51
   :END:
 
 
@@ -1256,9 +1256,9 @@ Looms large your world-failure day.
 * Tortoise: Immortality
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: AK:52
+  :genre: poem
+  :keywords:
+  :cite-key: AK:52
   :END:
 
 

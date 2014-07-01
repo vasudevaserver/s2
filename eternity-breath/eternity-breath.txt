@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0016
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ETBR
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0016
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: ETBR
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ETBR:1e1
+  :genre: section
+  :keywords:
+  :cite-key: ETBR:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Aum
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:1
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:1
   :END:
 
 
@@ -55,9 +55,9 @@ When we are in ignorance, AUM feeds us, for AUM is God. When we are in Knowledge
 * Creation and evolution
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:2
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:2
   :END:
 
 
@@ -78,9 +78,9 @@ In the march of evolution, each period has a demand of its own. Each incarnation
 * Love: Sacrifice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:3
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:3
   :END:
 
 
@@ -101,9 +101,9 @@ It has been delightfully claimed that: “Love in France is a comedy; in England
 * Love: Human and divine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:4
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:4
   :END:
 
 
@@ -138,9 +138,9 @@ Human love says to Divine Love: “I can’t tolerate you.” Divine Love says t
 * Love: attachment and detachment
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:5
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:5
   :END:
 
 
@@ -161,9 +161,9 @@ Granted, loneliness is a kind of spiritual disease. But human association can ne
 * Love: A Divine Power
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:6
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:6
   :END:
 
 
@@ -223,9 +223,9 @@ But can true love ever be lost? True love enlarges the giver and brings him clos
 * Devotion
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:7
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:7
   :END:
 
 
@@ -252,9 +252,9 @@ Unlike others, a devotee sincerely feels that he has nothing else in his Possess
 * Surrender
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:8
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:8
   :END:
 
 
@@ -291,9 +291,9 @@ Surrender clings to God with all the snow-white emotions of the body.
 * Occultism and spirituality, part 1
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:9
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:9
   :END:
 
 
@@ -314,9 +314,9 @@ The march of time bows to the occultist; the glory of distance surrenders to him
 * Occultism and spirituality, part 2
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:10
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:10
   :END:
 
 
@@ -361,9 +361,9 @@ Look at the eyes of an Occultist. He is likely to look care-laden. Look at the e
 * Philosophy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:11
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:11
   :END:
 
 
@@ -392,9 +392,9 @@ God, the Inner Pilot, hides within us with His Vision of Unity, Omniscience and 
 * Realisation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:12
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:12
   :END:
 
 
@@ -415,9 +415,9 @@ An individual perfection and liberation are far from God’s supreme and ultimat
 * Immortality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:13
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:13
   :END:
 
 
@@ -440,9 +440,9 @@ What is Immortality? Immortality does not mean that we shall be granted an indef
 * The Guru, part 1
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:14
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:14
   :END:
 
 
@@ -481,9 +481,9 @@ The Guru is not the body. The Guru is the revelation an manifestation of a Divin
 * The Guru, part 2
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:15
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:15
   :END:
 
 
@@ -516,9 +516,9 @@ The real work, if there be any, of a Guru is to show the world that his deeds ar
 * The soul
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:16
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:16
   :END:
 
 
@@ -551,9 +551,9 @@ Our sleeping mind feels God as an inexpressible sigh. Our soul feels God as an u
 * Transformation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:17
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:17
   :END:
 
 
@@ -582,9 +582,9 @@ In the field of true spirituality, Experience serves as breakfast; Realisation a
 * The consciousness of history
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:18
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:18
   :END:
 
 
@@ -609,9 +609,9 @@ What is History, after all? Is it not merely what man has chosen to regard as im
 * Concentration and meditation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:19
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:19
   :END:
 
 
@@ -654,9 +654,9 @@ When concentration reaches its acme, revelation dawns. Newton saw the law of gra
 * Prosperity and adversity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:20
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:20
   :END:
 
 
@@ -717,9 +717,9 @@ Human life is at once a burden and a blessing. It compels man to bear continual 
 * Matter and spirit
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:21
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:21
   :END:
 
 
@@ -756,9 +756,9 @@ What is Silence? Silence is that which alone bears the teeming vast. It upholds 
 * Spiritual discipline
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:22
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:22
   :END:
 
 
@@ -803,9 +803,9 @@ When the mind and the vital close their eyes for good, surrender, the inner stre
 * Humility
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:23
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:23
   :END:
 
 
@@ -826,9 +826,9 @@ We must realise that there is only one way of acquiring infinite future possibil
 * Admiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:24
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:24
   :END:
 
 
@@ -849,9 +849,9 @@ Admiration begins to show the psychic touch when it reaches out towards those et
 * Ambition
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:25
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:25
   :END:
 
 
@@ -868,9 +868,9 @@ Ambition is an attempt at self-expression and self-extension. When it is based o
 * Character
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:26
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:26
   :END:
 
 
@@ -897,9 +897,9 @@ Self-discipline is the foundation of a moral human life on earth. Self-sacrifice
 * Courage
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:27
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:27
   :END:
 
 
@@ -926,9 +926,9 @@ Courage is God’s successful inspiration in Man’s body, mind, heart and soul.
 * Equanimity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:28
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:28
   :END:
 
 
@@ -951,9 +951,9 @@ To take the inevitable, Unmoved, for our Goal is a divine blessing.
 * Purity and power
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:29
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:29
   :END:
 
 
@@ -978,9 +978,9 @@ Purity is the immediate gift from the universal Treasure-House to God’s hopefu
 * India: Her Consciousness and Light, part 1
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:30
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:30
   :END:
 
 
@@ -1011,9 +1011,9 @@ There is just a hyphen between the Vision of the Vedic seers and the soul of Ind
 * India: Her Consciousness and Light, part 2
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:31
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:31
   :END:
 
 
@@ -1050,9 +1050,9 @@ India is the vault of an ancient eternal wisdom that has a universal appeal. She
 * Truth and true Knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:32
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:32
   :END:
 
 
@@ -1111,9 +1111,9 @@ Every falsehood eventually dies in Truth, but Truth once revealed never dies.
 * Life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:33
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:33
   :END:
 
 
@@ -1146,9 +1146,9 @@ God is in life. But life must awaken to the light of His Presence, His Transcend
 * Death
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:34
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:34
   :END:
 
 
@@ -1175,9 +1175,9 @@ Death says that it is immortal. Man’s achievements say, “Death, you are righ
 * The seeker
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:35
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:35
   :END:
 
 
@@ -1202,9 +1202,9 @@ Experience is the open and conscious eye of a seeker. Realisation is the all-see
 * Man
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:36
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:36
   :END:
 
 
@@ -1241,9 +1241,9 @@ Man’s unseen strength lies in his hopes. His hope’s strength lies in his sac
 * Man and woman
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:37
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:37
   :END:
 
 
@@ -1282,9 +1282,9 @@ Be it even in spiritual realisation -- woman is intended by the Supreme to bring
 * Problems and difficulties
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:38
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:38
   :END:
 
 
@@ -1319,9 +1319,9 @@ To think that pain is a well-deserved punishment is wrong. To think that pain is
 * Art
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:39
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:39
   :END:
 
 
@@ -1366,9 +1366,9 @@ Art in the most effective sense of the term is a sublime truth that draws our so
 * Aspiration
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:40
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:40
   :END:
 
 
@@ -1399,9 +1399,9 @@ The soul aspires through the perfection of God’s manifestation.
 * Grace and compassion
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:41
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:41
   :END:
 
 
@@ -1454,9 +1454,9 @@ God’s descending Grace and man’s ascending delight are part and parcel of Ea
 * Delight
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:42
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:42
   :END:
 
 
@@ -1479,9 +1479,9 @@ High, higher and highest is the plane of Delight. With our illumined consciousne
 * An experience of Sri Chinmoy at the age of fourteen
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: ETBR:43
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: ETBR:43
   :END:
 
 
@@ -1508,9 +1508,9 @@ Profoundly moved, I bowed and promised: “Father, I will be Thy faithful compan
 * The significance of a birthday
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:44
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:44
   :END:
 
 
@@ -1533,9 +1533,9 @@ The soul says to God: “I am come. Be pleased to fulfil Yourself in me.”
 * Evolution
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:45
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:45
   :END:
 
 
@@ -1563,9 +1563,9 @@ Aspiration can be developed. It is like crossing a street, one step at a time. E
 
   :PROPERTIES:
   :SUBTITLE: Invocation
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ETBR:46e1
+  :genre: section
+  :keywords:
+  :cite-key: ETBR:46e1
   :END:
 
 
@@ -1573,9 +1573,9 @@ Aspiration can be developed. It is like crossing a street, one step at a time. E
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:46
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:46
   :END:
 
 
@@ -1602,9 +1602,9 @@ The Vedas are four in number, each book containing several thousand hymns. The f
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:47
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:47
   :END:
 
 
@@ -1627,9 +1627,9 @@ Lead us from Death to Immortality.
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:48
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:48
   :END:
 
 
@@ -1662,9 +1662,9 @@ Again and again, Hail unto Thee.
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:49
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:49
   :END:
 
 
@@ -1687,9 +1687,9 @@ By virtue of many lives, Him I have won.
 * 5.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:50
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:50
   :END:
 
 
@@ -1734,9 +1734,9 @@ Fulfil your life . . .
 * 6.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:51
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:51
   :END:
 
 
@@ -1763,9 +1763,9 @@ But I did not see You, I did not.
 * 7.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:52
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:52
   :END:
 
 
@@ -1793,9 +1793,9 @@ Through Eternity flows the eternal tide of life . .
 * 8.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:53
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:53
   :END:
 
 
@@ -1816,9 +1816,9 @@ Awake, my Boundless Heart spread over the universe, Awake, O that Consciousness 
 * 9.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:54
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:54
   :END:
 
 
@@ -1844,9 +1844,9 @@ Many different tunes have been put to this song over the years. The present one 
 * 10.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ETBR:55
+  :genre: discourse
+  :keywords:
+  :cite-key: ETBR:55
   :END:
 
 

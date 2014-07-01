@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1051
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGHL
-  :GENRE: discourse, story
-  :KEYWORDS:
+  :book-number: 1051
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: MGHL
+  :genre: discourse, story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- Gandhi Award
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGHL:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MGHL:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Sri Chinmoy's acceptance remarks
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:1
   :END:
 
 
@@ -55,9 +55,9 @@ Bharatiya Vidya Bhavan, today you have blessingfully bestowed upon me-my heart o
 * Part II -- Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGHL:2e1
+  :genre: section
+  :keywords:
+  :cite-key: MGHL:2e1
   :END:
 
 
@@ -65,9 +65,9 @@ Bharatiya Vidya Bhavan, today you have blessingfully bestowed upon me-my heart o
 * Mahatma Gandhi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:2
   :END:
 
 
@@ -174,9 +174,9 @@ Some of the world figures have called him the Saint Paul, Saint Thomas and Saint
 * Satyagraha: the zeal for truth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:3
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:3
   :END:
 
 
@@ -199,9 +199,9 @@ So in the spiritual life, /satyagraha/  means total devoted surrender to the Wil
 * Mahatma Gandhi: father of the Indian renaissance
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:4
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:4
   :END:
 
 
@@ -216,9 +216,9 @@ A real leader is he who has inner light in boundless measure; it is he who repre
 * Ahimsa non-violence
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MGHL:5
+  :genre: aphorism
+  :keywords:
+  :cite-key: MGHL:5
   :END:
 
 
@@ -229,9 +229,9 @@ What is non-violence? Heaven's soul-flower and earth's heart-fragrance.
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :KEYWORDS:
-  :CITE-KEY: MGHL:6
+  :genre: aphorism
+  :keywords:
+  :cite-key: MGHL:6
   :END:
 
 
@@ -242,9 +242,9 @@ Non-resistance is the supreme power that eventually conquers the disproportionat
 * 7.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:7
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:7
   :END:
 
 
@@ -261,9 +261,9 @@ In the outer life each country may approach patriotism in a different way, or pa
 * 8.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:8
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:8
   :END:
 
 
@@ -274,9 +274,9 @@ We have to have inner strength in order to start spreading peace. As Mahatma Gan
 * 9.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:9
   :END:
 
 
@@ -287,9 +287,9 @@ Hinduism clings to the inner law of life which is the common heritage of mankind
 * God is everything
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:10
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:10
   :END:
 
 
@@ -306,9 +306,9 @@ You can forget the word 'God' and say 'Truth'. One of India's great politicians 
 * Martin Luther King and Gandhi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:11
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:11
   :END:
 
 
@@ -328,9 +328,9 @@ Sri Chinmoy
 * Mahatma Gandhi
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:12
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:12
   :END:
 
 
@@ -341,9 +341,9 @@ Sri Chinmoy
 * 13.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MGHL:13
+  :genre: discourse
+  :keywords:
+  :cite-key: MGHL:13
   :END:
 
 
@@ -356,9 +356,9 @@ I have a great admiration for his complete identification with the Indian people
 * Part III -- Stories
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGHL:14e1
+  :genre: section
+  :keywords:
+  :cite-key: MGHL:14e1
   :END:
 
 
@@ -366,9 +366,9 @@ I have a great admiration for his complete identification with the Indian people
 * Gandhi passes his own examination
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:14
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:14
   :END:
 
 
@@ -393,9 +393,9 @@ The teacher was silent.
 * Gandhi's matchless sincerity
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:15
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:15
   :END:
 
 
@@ -416,9 +416,9 @@ His father was so moved that he cried and cried. "I am crying, son, not because 
 * Gandhi and the goat's meat
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:16
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:16
   :END:
 
 
@@ -445,9 +445,9 @@ But he was fond of goat's milk, and he used to drink it. "One can take goat's mi
 * Gandhi's tie
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:17
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:17
   :END:
 
 
@@ -464,9 +464,9 @@ Gandhi said, "You are making fun of me. I am giving you joy. It is not an easy t
 * Gandhi's self-sufficiency
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:18
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:18
   :END:
 
 
@@ -485,9 +485,9 @@ The next day, when Gandhi came to court, everybody laughed and laughed. "Why did
 * You have proved to be my real wife
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:19
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:19
   :END:
 
 
@@ -526,9 +526,9 @@ Gandhi said, "At last you have proved to be my real wife."
 * Gandhi's ashram
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:20
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:20
   :END:
 
 
@@ -563,9 +563,9 @@ On that day, Gandhi's fate changed.
 * Tagore and Gandhi: both are right
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:21
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:21
   :END:
 
 
@@ -590,9 +590,9 @@ Finally Nandalal Bose said, "I am an artist. If you ask me which colour I like m
 * Gandhi Buri's supreme sacrifice
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: MGHL:22
+  :genre: story
+  :keywords:
+  :cite-key: MGHL:22
   :END:
 
 

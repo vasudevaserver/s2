@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1370
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2001
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LTS-1
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 1370
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2001
+  :publisher: Agni Press
+  :cite-key: LTS-1
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Dedication
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LTS:1e1
+  :genre: note
+  :keywords:
+  :cite-key: LTS:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ On the most auspicious occasion of my brother Mantu's 73rd birthday on 17 Novemb
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LTS:1e2
+  :genre: note
+  :keywords:
+  :cite-key: LTS:1e2
   :END:
 
 
@@ -52,9 +52,9 @@ May these tales liberate us from the heavy dryness of the mind, and may they tra
 * The good man and the jealous man
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:1
+  :genre: story
+  :keywords:
+  :cite-key: LTS:1
   :END:
 
 
@@ -81,9 +81,9 @@ The good man replied, "Yes, everything is for my good. Here is the proof: it is 
 * The weak can be wise, the strong can be fools
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:2
+  :genre: story
+  :keywords:
+  :cite-key: LTS:2
   :END:
 
 
@@ -104,9 +104,9 @@ From this story we learn that a weak person can be wise, and a strong person can
 * Physically strong but mentally weak, physically weak but mentally clever
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:3
+  :genre: story
+  :keywords:
+  :cite-key: LTS:3
   :END:
 
 
@@ -125,9 +125,9 @@ The weak one gave back the ten rupees that he had received from the strong one, 
 * The kindhearted neighbour
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:4
+  :genre: story
+  :keywords:
+  :cite-key: LTS:4
   :END:
 
 
@@ -158,9 +158,9 @@ The friend said, "Every time I went to your house and your wife said that you we
 * Imaginary service
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:5
+  :genre: story
+  :keywords:
+  :cite-key: LTS:5
   :END:
 
 
@@ -185,9 +185,9 @@ The neighbour said, "I imagined that my pond was the Ganges. I entered the water
 * The father's sacrifice
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:6
+  :genre: story
+  :keywords:
+  :cite-key: LTS:6
   :END:
 
 
@@ -216,9 +216,9 @@ After begging his son to become a very good doctor, the father died. The mother 
 * Gifts for the other world
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:7
+  :genre: story
+  :keywords:
+  :cite-key: LTS:7
   :END:
 
 
@@ -265,9 +265,9 @@ The elderly man said, "Those silly gifts are from my wife. But tell our maidserv
 * Money or freedom?
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:8
+  :genre: story
+  :keywords:
+  :cite-key: LTS:8
   :END:
 
 
@@ -294,9 +294,9 @@ The man said, "The first one! I did not have enough money, but even with the lit
 * The judge's punishment
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:9
+  :genre: story
+  :keywords:
+  :cite-key: LTS:9
   :END:
 
 
@@ -329,9 +329,9 @@ Finally the judge said, "All right. Listen, fellow. Give me the dollar. Now go b
 * The two thief-rivals
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:10
+  :genre: story
+  :keywords:
+  :cite-key: LTS:10
   :END:
 
 
@@ -358,9 +358,9 @@ Both of them were screaming and shouting, and all their family members started c
 * The special cap
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:11
+  :genre: story
+  :keywords:
+  :cite-key: LTS:11
   :END:
 
 
@@ -387,9 +387,9 @@ When the man died, the children did put the cap on their father in his coffin so
 * Flattery works
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:12
+  :genre: story
+  :keywords:
+  :cite-key: LTS:12
   :END:
 
 
@@ -410,9 +410,9 @@ Then he returned the money.
 * Pay for your pride
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:13
+  :genre: story
+  :keywords:
+  :cite-key: LTS:13
   :END:
 
 
@@ -447,9 +447,9 @@ Then the judge took the money and gave it to the innocent villager.
 * The punishment
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:14
+  :genre: story
+  :keywords:
+  :cite-key: LTS:14
   :END:
 
 
@@ -482,9 +482,9 @@ The moral is that if you do one bad thing, you can easily be punished by everybo
 * The miserable thief
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: LTS:15
+  :genre: story
+  :keywords:
+  :cite-key: LTS:15
   :END:
 
 

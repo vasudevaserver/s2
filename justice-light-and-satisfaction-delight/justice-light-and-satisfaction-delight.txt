@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0296
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: JLSD
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0296
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: JLSD
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: JLSD:1e1
+  :genre: section
+  :keywords:
+  :cite-key: JLSD:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: Does The Supreme Have A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:1
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:1
   :END:
 
 
@@ -47,9 +47,9 @@
 * Cherie Roberts: Does The Idea Of Having...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:2
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:2
   :END:
 
 
@@ -62,9 +62,9 @@
 * Linda Minoli: When People Suffer Misfortune, Sometimes...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:3
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:3
   :END:
 
 
@@ -77,9 +77,9 @@
 * Steve Hein: Is It Right For A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:4
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:4
   :END:
 
 
@@ -98,9 +98,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Michael Steinfeld: Is God's Law Always The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:5
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:5
   :END:
 
 
@@ -113,9 +113,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * William Davidson: When Someone Is Convicted Under...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:6
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:6
   :END:
 
 
@@ -128,9 +128,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Elizabeth Baum: How Can You Best Distinguish...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:7
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:7
   :END:
 
 
@@ -143,9 +143,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Michele Hein: Does The Supreme Feel That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:8
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:8
   :END:
 
 
@@ -158,9 +158,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Alan Singer: How May We Tell A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:9
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:9
   :END:
 
 
@@ -173,9 +173,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Keith Furman: In Every Law Case, Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:10
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:10
   :END:
 
 
@@ -188,9 +188,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Sal Viscardi: How Can Man's Law Best...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:11
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:11
   :END:
 
 
@@ -203,9 +203,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Jody Yeates: Was There Ever A Time...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:12
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:12
   :END:
 
 
@@ -218,9 +218,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Lloyd Hart: What Does The Supreme Do...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:13
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:13
   :END:
 
 
@@ -233,9 +233,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Paul Kazarov: Is There Any Way Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:14
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:14
   :END:
 
 
@@ -248,9 +248,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Linda Serlin: What Are God's Laws Like...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:15
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:15
   :END:
 
 
@@ -263,9 +263,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Philip Schlipstein: Should A Seeker Use His...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:16
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:16
   :END:
 
 
@@ -278,9 +278,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Stefan Bright: If A Judge Believes That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:17
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:17
   :END:
 
 
@@ -293,9 +293,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Steve Deangelo: Is Man's Conscience More Important...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:18
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:18
   :END:
 
 
@@ -308,9 +308,9 @@ There are some lawyers who don't mind mixing with falsehood. Their conscience is
 * Reb Cole: What Happens To The Soul...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:19
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:19
   :END:
 
 
@@ -327,9 +327,9 @@ If the world were totally perfect, then the soul would not have this attitude. I
 * Gail Gershon: Does A Person Have The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:20
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:20
   :END:
 
 
@@ -342,9 +342,9 @@ If the world were totally perfect, then the soul would not have this attitude. I
 * Yigal Joseph: Does The Personal Supreme Ever...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:21
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:21
   :END:
 
 
@@ -357,9 +357,9 @@ If the world were totally perfect, then the soul would not have this attitude. I
 * Carl Brown: When A Case In Question...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:22
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:22
   :END:
 
 
@@ -374,9 +374,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Bill Paradis: Are There Laws Which Hinder...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:23
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:23
   :END:
 
 
@@ -389,9 +389,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * David Gershon: How Can Our Legal System...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:24
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:24
   :END:
 
 
@@ -404,9 +404,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Justin Catz: From The Spiritual Point Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:25
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:25
   :END:
 
 
@@ -419,9 +419,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Carolyn Mccolley: Has Any One Nation Developed...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:26
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:26
   :END:
 
 
@@ -434,9 +434,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Kenneth Peck: Who Is The Greatest Lawgiver?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:27
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:27
   :END:
 
 
@@ -449,9 +449,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Jon Roberts: If We Are Ever Members...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:28
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:28
   :END:
 
 
@@ -464,9 +464,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Linda Minoli: When Children Reach Adolescence, Should...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:29
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:29
   :END:
 
 
@@ -479,9 +479,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Cherie Roberts: How Did The Supreme Feel...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:30
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:30
   :END:
 
 
@@ -494,9 +494,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Maggie Burke: Is There One Main Reason...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:31
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:31
   :END:
 
 
@@ -509,9 +509,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Carolyn Mccolley: What Is Your Feeling About...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:32
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:32
   :END:
 
 
@@ -524,9 +524,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Linda Serlin: What Did Our Founding Fathers...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:33
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:33
   :END:
 
 
@@ -539,9 +539,9 @@ Spirituality has to start with the individuals who have made the laws and who ar
 * Susan Hoffman: Is It Important To Obey...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:34
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:34
   :END:
 
 
@@ -556,9 +556,9 @@ Sometimes we do not know which law is important and which is not important. Such
 * Carl Brown: Are There Certain Spiritual Guidelines...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:35
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:35
   :END:
 
 
@@ -571,9 +571,9 @@ Sometimes we do not know which law is important and which is not important. Such
 * Keith Furman: How Can Lawyers As A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:36
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:36
   :END:
 
 
@@ -586,9 +586,9 @@ Sometimes we do not know which law is important and which is not important. Such
 * Question: What Should We Feel About...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JLSD:37
+  :genre: qa
+  :keywords:
+  :cite-key: JLSD:37
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0374
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1979
-  :PUBLISHER: Agni Press
-  :CITE-KEY: ESS
-  :GENRE: discourse, poem
-  :KEYWORDS:
+  :book-number: 0374
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1979
+  :publisher: Agni Press
+  :cite-key: ESS
+  :genre: discourse, poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Author’s preface
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESS:1
+  :genre: poem
+  :keywords:
+  :cite-key: ESS:1
   :END:
 
 
@@ -50,9 +50,9 @@ Literature Einstein gave.
 * Albert Einstein, scientist-sage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESS:2
+  :genre: poem
+  :keywords:
+  :cite-key: ESS:2
   :END:
 
 
@@ -75,9 +75,9 @@ The world’s fastest evolution-goal.
 * Scientist Einstein
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESS:3
+  :genre: poem
+  :keywords:
+  :cite-key: ESS:3
   :END:
 
 
@@ -102,9 +102,9 @@ O sure Heaven-bringer!
 * Einstein, your theory of relativity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: ESS:4
+  :genre: poem
+  :keywords:
+  :cite-key: ESS:4
   :END:
 
 
@@ -121,9 +121,9 @@ The supreme boon to humanity.
 * Part II: Personal glimpses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:5e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:5e1
   :END:
 
 
@@ -131,9 +131,9 @@ The supreme boon to humanity.
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:5
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:5
   :END:
 
 
@@ -144,9 +144,9 @@ Morning does not always necessarily show the day. Einstein’s morning-life in n
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:6
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:6
   :END:
 
 
@@ -159,9 +159,9 @@ One Christmas Eve some children came to his house to sing carols. No one was mor
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:7
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:7
   :END:
 
 
@@ -172,9 +172,9 @@ Einstein emphasised the necessity of sincerity and truth in the blossoming consc
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:8
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:8
   :END:
 
 
@@ -185,9 +185,9 @@ His was a heart of sympathy. His was a life of oneness. On January 3, 1943 Einst
 * 5.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:9
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:9
   :END:
 
 
@@ -204,9 +204,9 @@ Here the scientist illumines his wife’s mind and teaches something new to the 
 * 6.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:10
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:10
   :END:
 
 
@@ -217,9 +217,9 @@ Mother Earth is compassionate enough to embrace each and every individual. She n
 * 7.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:11
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:11
   :END:
 
 
@@ -230,9 +230,9 @@ Einstein the professor at times wanted to enjoy his role as a musician more than
 * 8.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:12
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:12
   :END:
 
 
@@ -243,9 +243,9 @@ Music has a universal appeal; it elevates human consciousness. Music glorifies t
 * 9.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:13
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:13
   :END:
 
 
@@ -256,9 +256,9 @@ Einstein was absent-minded even as a youth. But we have to know that although to
 * 10.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:14
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:14
   :END:
 
 
@@ -271,9 +271,9 @@ What do we learn from this? The mind is so deeply absorbed in one highly illumin
 * 11.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:15
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:15
   :END:
 
 
@@ -284,9 +284,9 @@ The scientist-sage valued two things most ardently: simplicity and privacy. Simp
 * 12.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:16
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:16
   :END:
 
 
@@ -297,9 +297,9 @@ Death precedes birth, birth precedes death. Death is an undeniable fact. Death i
 * 13.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:17
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:17
   :END:
 
 
@@ -310,9 +310,9 @@ When the final hour arrives, no one can deny its call. The oneness-heart of Eins
 * 14.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:18
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:18
   :END:
 
 
@@ -323,9 +323,9 @@ Einstein’s life was a song of simplicity from beginning to end. When the scien
 * Part III: Life-philosophy
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:19e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:19e1
   :END:
 
 
@@ -333,9 +333,9 @@ Einstein’s life was a song of simplicity from beginning to end. When the scien
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:19
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:19
   :END:
 
 
@@ -348,9 +348,9 @@ The thinker in Einstein tells us something most significant: who is qualified an
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:20
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:20
   :END:
 
 
@@ -363,9 +363,9 @@ Greatness and devotedness perfectly rhyme. Patience is nothing short of strength
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:21
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:21
   :END:
 
 
@@ -378,9 +378,9 @@ What we need is a clear mind. What we need is a pure heart A mind of clarity and
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:22
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:22
   :END:
 
 
@@ -391,9 +391,9 @@ To avoid danger out of insecurity or fear is not the answer. As Einstein showed 
 * 5.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:23
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:23
   :END:
 
 
@@ -404,9 +404,9 @@ Einstein saw divinity in all human beings, no matter how small their achievement
 * 6.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:24
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:24
   :END:
 
 
@@ -419,9 +419,9 @@ On being asked if there is anything in which a person can believe, the supreme l
 * 7.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:25
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:25
   :END:
 
 
@@ -434,9 +434,9 @@ We marvel at the transformation as the scientist-sage became the seeker-seer and
 * Part IV: Science, religion and spirituality
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:26e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:26e1
   :END:
 
 
@@ -444,9 +444,9 @@ We marvel at the transformation as the scientist-sage became the seeker-seer and
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:26
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:26
   :END:
 
 
@@ -489,9 +489,9 @@ Einstein’s observation on how freedom relates to spiritual development and the
 * Part V: Humanitarianism
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:27e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:27e1
   :END:
 
 
@@ -499,9 +499,9 @@ Einstein’s observation on how freedom relates to spiritual development and the
 * O Human Rights
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:27
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:27
   :END:
 
 
@@ -538,9 +538,9 @@ Science is indeed a great instrument, but if humanity or human realities are not
 * Part VI: Education-light
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:28e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:28e1
   :END:
 
 
@@ -548,9 +548,9 @@ Science is indeed a great instrument, but if humanity or human realities are not
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:28
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:28
   :END:
 
 
@@ -565,9 +565,9 @@ It is not knowledge but wisdom that is our constant helper and constant saviour.
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:29
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:29
   :END:
 
 
@@ -578,9 +578,9 @@ Einstein’s way of teaching was very special. Humour played a gigantic role at 
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:30
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:30
   :END:
 
 
@@ -591,9 +591,9 @@ The experiences that he got from the teaching world, personal and otherwise, are
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:31
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:31
   :END:
 
 
@@ -604,9 +604,9 @@ Joy is of paramount importance: joy within, joy without, joy in all spheres of l
 * Part VII: Einstein’s humour
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:32e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:32e1
   :END:
 
 
@@ -614,9 +614,9 @@ Joy is of paramount importance: joy within, joy without, joy in all spheres of l
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:32
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:32
   :END:
 
 
@@ -633,9 +633,9 @@ Once Einstein received a letter which was full of misconceptions about physics. 
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:33
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:33
   :END:
 
 
@@ -648,9 +648,9 @@ Human authority and God’s irresistible laughter are inseparable. Einstein once
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:34
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:34
   :END:
 
 
@@ -661,9 +661,9 @@ The wonder of wonders is his theory of relativity. This discovery opened up for 
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:35
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:35
   :END:
 
 
@@ -676,9 +676,9 @@ Einstein said, /“If my theory of relativity is proven successful, Germany will
 * 5.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:36
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:36
   :END:
 
 
@@ -689,9 +689,9 @@ Einstein the immortal soul found it difficult to appreciate earthly pomp. A man 
 * 6.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:37
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:37
   :END:
 
 
@@ -702,9 +702,9 @@ To our joy, Einstein’s humour does not stop with human beings. It includes poo
 * 7.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:38
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:38
   :END:
 
 
@@ -715,9 +715,9 @@ Who can stand on the same footing as Einstein in devouring his adversaries’ ve
 * 8.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:39
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:39
   :END:
 
 
@@ -730,9 +730,9 @@ The French writer Romain Rolland, who became very good friends with Einstein, to
 * 9.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:40
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:40
   :END:
 
 
@@ -747,9 +747,9 @@ Who can describe Einstein the humourist better than he himself? Unparalleled he 
 * Part VIII: War and peace
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:41e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:41e1
   :END:
 
 
@@ -757,9 +757,9 @@ Who can describe Einstein the humourist better than he himself? Unparalleled he 
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:41
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:41
   :END:
 
 
@@ -778,9 +778,9 @@ The giver of wisdom and the lover of humanity in Einstein went far beyond human 
 * Part IX: America and Israel
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:42e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:42e1
   :END:
 
 
@@ -788,9 +788,9 @@ The giver of wisdom and the lover of humanity in Einstein went far beyond human 
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:42
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:42
   :END:
 
 
@@ -825,9 +825,9 @@ His love for Israel can better be felt than described. His oneness-love for Isra
 * Part X: Internationalism
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:43e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:43e1
   :END:
 
 
@@ -835,9 +835,9 @@ His love for Israel can better be felt than described. His oneness-love for Isra
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:43
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:43
   :END:
 
 
@@ -854,9 +854,9 @@ The scientist-prophet, humanity-lover and truth-server illumines the members of 
 * The League of Nations
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:44
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:44
   :END:
 
 
@@ -877,9 +877,9 @@ Then again, when Einstein saw that his conviction had not been well-founded, tha
 * The United Nations
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:45
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:45
   :END:
 
 
@@ -902,9 +902,9 @@ These two immortals sailed in the same boat Their admiration was not mere admira
 * Part XI: Reflections on Einstein
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: ESS:46e1
+  :genre: section
+  :keywords:
+  :cite-key: ESS:46e1
   :END:
 
 
@@ -912,9 +912,9 @@ These two immortals sailed in the same boat Their admiration was not mere admira
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:46
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:46
   :END:
 
 
@@ -931,9 +931,9 @@ At times it is quite difficult for an individual to get appreciation from his de
 * 2.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:47
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:47
   :END:
 
 
@@ -952,9 +952,9 @@ During the interview at one point the Indian Ambassador struck a note of similar
 * 3.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:48
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:48
   :END:
 
 
@@ -975,9 +975,9 @@ At the end of the journeys close, each individual is entitled to reach his desti
 * 4.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: ESS:49
+  :genre: discourse
+  :keywords:
+  :cite-key: ESS:49
   :END:
 
 

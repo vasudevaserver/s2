@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0370
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1978
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FW-9
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0370
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1978
+  :publisher: Agni Press
+  :cite-key: FW-9
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:207e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:207e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Question: Why is there religion and what role should it play in our lives?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:207
+  :genre: qa
+  :keywords:
+  :cite-key: FW:207
   :END:
 
 
@@ -50,9 +50,9 @@ It is not good to be afraid of God. God is all-loving. But if someone thinks of 
 * Question: What is the goal of religion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:208
+  :genre: qa
+  :keywords:
+  :cite-key: FW:208
   :END:
 
 
@@ -63,9 +63,9 @@ It is not good to be afraid of God. God is all-loving. But if someone thinks of 
 * Question: What is the original significance of religion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:209
+  :genre: qa
+  :keywords:
+  :cite-key: FW:209
   :END:
 
 
@@ -76,9 +76,9 @@ It is not good to be afraid of God. God is all-loving. But if someone thinks of 
 * Question: The family has always been seen as the centre of both the religious and the social formation of most religions. Can you explain the sacred and divine purpose that the family is supposed to have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:210
+  :genre: qa
+  :keywords:
+  :cite-key: FW:210
   :END:
 
 
@@ -89,9 +89,9 @@ It is not good to be afraid of God. God is all-loving. But if someone thinks of 
 * Question: Can religion help mankind to achieve a world of true brotherhood and love?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:211
+  :genre: qa
+  :keywords:
+  :cite-key: FW:211
   :END:
 
 
@@ -104,9 +104,9 @@ So, if you follow any specific religion, then you will feel that you have someth
 * Question: How can religion overcome a narrow outlook and develop a real acceptance of all other religions as true and necessary?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:212
+  :genre: qa
+  :keywords:
+  :cite-key: FW:212
   :END:
 
 
@@ -119,9 +119,9 @@ Religion stops at seeing the reality; it does not want to grow into reality. Spi
 * Question: What does God like best about religions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:213
+  :genre: qa
+  :keywords:
+  :cite-key: FW:213
   :END:
 
 
@@ -134,9 +134,9 @@ Tolerance of others exists as long as there is a sense of separativity. Once a p
 * Question: What is the difference between religion and spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:214
+  :genre: qa
+  :keywords:
+  :cite-key: FW:214
   :END:
 
 
@@ -147,9 +147,9 @@ Tolerance of others exists as long as there is a sense of separativity. Once a p
 * Question: Why should one give his time to God in the first place?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:215
+  :genre: qa
+  :keywords:
+  :cite-key: FW:215
   :END:
 
 
@@ -162,9 +162,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: When the follower of one religion meditates on the ideals of his religion, will this produce the same results as when the follower of another religion meditates on the ideals of that religion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:216
+  :genre: qa
+  :keywords:
+  :cite-key: FW:216
   :END:
 
 
@@ -175,9 +175,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: What are the major obstacles to praying meaningfully?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:217
+  :genre: qa
+  :keywords:
+  :cite-key: FW:217
   :END:
 
 
@@ -188,9 +188,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: Why don't religions love and respect each other more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:218
+  :genre: qa
+  :keywords:
+  :cite-key: FW:218
   :END:
 
 
@@ -201,9 +201,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: If each religion claims to teach the truth, which religion is the most true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:219
+  :genre: qa
+  :keywords:
+  :cite-key: FW:219
   :END:
 
 
@@ -214,9 +214,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: If one has great faith in one's own religion, how should he view other religions and those who follow other religions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:220
+  :genre: qa
+  :keywords:
+  :cite-key: FW:220
   :END:
 
 
@@ -227,9 +227,9 @@ God is all-pervading; He is everywhere. Whatever we do, whatever we say, whateve
 * Question: Is a mutual understanding and respect possible between the different religions of the world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:221
+  :genre: qa
+  :keywords:
+  :cite-key: FW:221
   :END:
 
 
@@ -242,9 +242,9 @@ Each religion has to realise that in order to be complete, perfect and whole, it
 * Question: Can one be extremely devoted to a religious figure such as Jesus or Buddha and to a living spiritual teacher as well, or is it better just to follow one teacher?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:222
+  :genre: qa
+  :keywords:
+  :cite-key: FW:222
   :END:
 
 
@@ -255,9 +255,9 @@ Each religion has to realise that in order to be complete, perfect and whole, it
 * Question: How can we as individuals encourage a world-wide recognition of the basic unity of all major religions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:223
+  :genre: qa
+  :keywords:
+  :cite-key: FW:223
   :END:
 
 
@@ -268,9 +268,9 @@ Each religion has to realise that in order to be complete, perfect and whole, it
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:224e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:224e1
   :END:
 
 
@@ -283,9 +283,9 @@ Each religion has to realise that in order to be complete, perfect and whole, it
 * Question: What is the difference between Yoga, Zen and Hinduism?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:224
+  :genre: qa
+  :keywords:
+  :cite-key: FW:224
   :END:
 
 
@@ -308,9 +308,9 @@ If we follow the path of Zen, then we go from ignorance to illumination: and whe
 * Question: Does this mean that Zen and Yoga have different goals?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:225
+  :genre: qa
+  :keywords:
+  :cite-key: FW:225
   :END:
 
 
@@ -327,9 +327,9 @@ I am in no way trying to take you away from Zen; far from it. Let us take medita
 * Question: Is there no sense of strong discipline in Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:226
+  :genre: qa
+  :keywords:
+  :cite-key: FW:226
   :END:
 
 
@@ -346,9 +346,9 @@ In the Zen path you have to prepare yourself. If you do this, then you will get 
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:227e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:227e1
   :END:
 
 
@@ -359,9 +359,9 @@ In the Zen path you have to prepare yourself. If you do this, then you will get 
 * Question: How can we stay in the heart when we are doing tasks which involve the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:227
+  :genre: qa
+  :keywords:
+  :cite-key: FW:227
   :END:
 
 
@@ -376,9 +376,9 @@ So if you always think of yourself as the all-loving heart, all-illumining heart
 * Question: What are the major qualities of the United Nations soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:228
+  :genre: qa
+  :keywords:
+  :cite-key: FW:228
   :END:
 
 
@@ -389,9 +389,9 @@ So if you always think of yourself as the all-loving heart, all-illumining heart
 * Question: What do the delegates and ambassadors who are participating in the General Assembly offer to the United Nations spiritually?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:229
+  :genre: qa
+  :keywords:
+  :cite-key: FW:229
   :END:
 
 
@@ -406,9 +406,9 @@ Each delegate is a human being and each human being has a soul. That means a sol
 * Question: What should our attitude be toward working at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:230
+  :genre: qa
+  :keywords:
+  :cite-key: FW:230
   :END:
 
 
@@ -433,9 +433,9 @@ So the best attitude right now is the attitude of self-giving. If there are adve
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:231e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:231e1
   :END:
 
 
@@ -446,9 +446,9 @@ So the best attitude right now is the attitude of self-giving. If there are adve
 * Question: How can you overcome feelings of resentment and anger that you feel when your superiors appear to be unfair?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:231
+  :genre: qa
+  :keywords:
+  :cite-key: FW:231
   :END:
 
 
@@ -467,9 +467,9 @@ Again, we have to know that the appreciation of our so-called "superiors" is not
 * Part V
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:232e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:232e1
   :END:
 
 
@@ -480,9 +480,9 @@ Again, we have to know that the appreciation of our so-called "superiors" is not
 * Question: Sri Chinmoy, how do you view the problems of the world and how do you think these problems can be solved?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:232
+  :genre: qa
+  :keywords:
+  :cite-key: FW:232
   :END:
 
 
@@ -509,9 +509,9 @@ So, from the human point of view let us think of ourselves as a tree and the res
 * Part VI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FW:233e1
+  :genre: section
+  :keywords:
+  :cite-key: FW:233e1
   :END:
 
 
@@ -526,9 +526,9 @@ I shall be extremely happy and grateful if one by one you could ask your short a
 * Question: What is the seeker's responsibility at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:233
+  :genre: qa
+  :keywords:
+  :cite-key: FW:233
   :END:
 
 
@@ -539,9 +539,9 @@ I shall be extremely happy and grateful if one by one you could ask your short a
 * Question: Some nations accept the United Nations as their own. Other nations would even deny the United Nations. What are the differences in the soul-growth of the nations that have not yet become one with the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:234
+  :genre: qa
+  :keywords:
+  :cite-key: FW:234
   :END:
 
 
@@ -566,9 +566,9 @@ What we are aiming at is something great and good, but that is not the ultimate 
 * Question: Can you describe the stage of evolution of the United Nations soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:235
+  :genre: qa
+  :keywords:
+  :cite-key: FW:235
   :END:
 
 
@@ -587,9 +587,9 @@ When we see the evolution of the soul of the United Nations from the point of vi
 * Question: What does the outer world need in order to accept the real significance of the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:236
+  :genre: qa
+  :keywords:
+  :cite-key: FW:236
   :END:
 
 
@@ -600,9 +600,9 @@ When we see the evolution of the soul of the United Nations from the point of vi
 * Question: There seems to be a movement towards a mental realisation where countries are starting to work with parapsychology and mind control. Is this a step towards the heart or away from the heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:237
+  :genre: qa
+  :keywords:
+  :cite-key: FW:237
   :END:
 
 
@@ -615,9 +615,9 @@ Mind control is one subject and the heart's acceptance and the heart's oneness a
 * Question: How can we help people in the undeveloped countries?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:238
+  :genre: qa
+  :keywords:
+  :cite-key: FW:238
   :END:
 
 
@@ -628,9 +628,9 @@ Mind control is one subject and the heart's acceptance and the heart's oneness a
 * Question: How do we best deal with people who are actively opposed to the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:239
+  :genre: qa
+  :keywords:
+  :cite-key: FW:239
   :END:
 
 
@@ -643,9 +643,9 @@ So, with perseverance, tolerance and forgiveness we can eventually illumine peop
 * Question: How can we work with dynamism and confidence at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:240
+  :genre: qa
+  :keywords:
+  :cite-key: FW:240
   :END:
 
 
@@ -656,9 +656,9 @@ So, with perseverance, tolerance and forgiveness we can eventually illumine peop
 * Question: What is the best way to serve the United Nations: through meditation or action?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:241
+  :genre: qa
+  :keywords:
+  :cite-key: FW:241
   :END:
 
 
@@ -671,9 +671,9 @@ At times our mind separates action and meditation. But we can easily convince th
 * Question: How can both staff members and delegates of member nations understand that spirituality is a true base to build their goals upon?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:242
+  :genre: qa
+  :keywords:
+  :cite-key: FW:242
   :END:
 
 
@@ -684,9 +684,9 @@ At times our mind separates action and meditation. But we can easily convince th
 * Question: Is it best to try to bring new seekers to our United Nations meditations, or just let them discover it on their own?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:243
+  :genre: qa
+  :keywords:
+  :cite-key: FW:243
   :END:
 
 
@@ -699,9 +699,9 @@ But unfortunately there are some who feel that the Peace, Light and Bliss that w
 * Question: How has the consciousness of the United Nations affected America as a country?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:244
+  :genre: qa
+  :keywords:
+  :cite-key: FW:244
   :END:
 
 
@@ -714,9 +714,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can one best serve the ideal of the United Nations when not working at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:245
+  :genre: qa
+  :keywords:
+  :cite-key: FW:245
   :END:
 
 
@@ -727,9 +727,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can we instil a spiritual feeling in the work that we do, so that it will be conveyed to the people we work for?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:246
+  :genre: qa
+  :keywords:
+  :cite-key: FW:246
   :END:
 
 
@@ -740,9 +740,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: Is the United Nations destined to obtain spiritual power as well as political power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:247
+  :genre: qa
+  :keywords:
+  :cite-key: FW:247
   :END:
 
 
@@ -753,9 +753,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: Are the people who work at the United Nations especially chosen to work at the United Nations by some higher force?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:248
+  :genre: qa
+  :keywords:
+  :cite-key: FW:248
   :END:
 
 
@@ -766,9 +766,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can we consecrate our lives to the soul of the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:249
+  :genre: qa
+  :keywords:
+  :cite-key: FW:249
   :END:
 
 
@@ -779,9 +779,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can we best inspire the people we work with?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:250
+  :genre: qa
+  :keywords:
+  :cite-key: FW:250
   :END:
 
 
@@ -792,9 +792,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can we meditate on the soul of the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:251
+  :genre: qa
+  :keywords:
+  :cite-key: FW:251
   :END:
 
 
@@ -805,9 +805,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can the strong and developed countries offer their guidance to the less developed countries without incurring resentment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:252
+  :genre: qa
+  :keywords:
+  :cite-key: FW:252
   :END:
 
 
@@ -818,9 +818,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: What is the main problem or quality in the countries of the world which keeps them from acting according to the ideals of the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:253
+  :genre: qa
+  :keywords:
+  :cite-key: FW:253
   :END:
 
 
@@ -831,9 +831,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can I work with true spontaneity and sincerity at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:254
+  :genre: qa
+  :keywords:
+  :cite-key: FW:254
   :END:
 
 
@@ -844,9 +844,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: What is the best way to bring a divine consciousness to everyday activities at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:255
+  :genre: qa
+  :keywords:
+  :cite-key: FW:255
   :END:
 
 
@@ -857,9 +857,9 @@ On the one hand, the United Nations is getting ample opportunity from America as
 * Question: How can the delegates and representatives at the United Nations best convey the ideal of the United Nations to their people in their countries?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FW:256
+  :genre: qa
+  :keywords:
+  :cite-key: FW:256
   :END:
 
 

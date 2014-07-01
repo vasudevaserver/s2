@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 915
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: AYL
-  :GENRE: song
+  :book-number: 915
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: AYL
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AYL:1e1
+  :genre: note
+  :cite-key: AYL:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AYL:1e2
+  :genre: note
+  :cite-key: AYL:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Sing My God-Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:1
+  :cite-key: AYL:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Only for God the Listener.
 * I Have Told God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:2
+  :cite-key: AYL:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ My only secret and sacred truth:
 * God Triumphantly Thrives (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:3
+  :cite-key: AYL:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ On man’s beautifully happy smiles.
 * I Have Discovered
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:4
+  :cite-key: AYL:4
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ My mind knows nothing.
 * Two Real Messages of My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:5
+  :cite-key: AYL:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Obedience is fruitful.
 * My Lord, Your Morning Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:6
+  :cite-key: AYL:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ Is my breath during the entire day.
 * A Seeker’s Humility-Heart (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:7
+  :cite-key: AYL:7
   :END:
 
 #+BEGIN_VERSE
@@ -164,10 +164,10 @@ The Smile of God.
 * One Thing I Ask God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:8
+  :cite-key: AYL:8
   :END:
 
 #+BEGIN_VERSE
@@ -183,10 +183,10 @@ I am all for Him.
 * One Song I Shall Never Forget
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:9
+  :cite-key: AYL:9
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ My Lord’s daily Forgiveness-Song.
 * I Am Happy Because I Still Need God (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:10
+  :cite-key: AYL:10
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ God is happy because I still love Him.
 * My Lord, I Need Your Magnet-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1987
-  :CITE-KEY: AYL:11
+  :cite-key: AYL:11
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ My Lord, I need Your Forgiveness-Feet most.
 * I Race Not to See God’s Perfection-Face
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:12
+  :cite-key: AYL:12
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ But to sit at God’s Protection-Feet.
 * Everything of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:13
+  :cite-key: AYL:13
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ But His earth-visiting Forgiveness-Feet
 * I Came to Your Lotus Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:14
+  :cite-key: AYL:14
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ To be forgiven.
 * The Doubt-Beast Left Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:15
+  :cite-key: AYL:15
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ Three teardrops of my heart.
 * Oh, When My Sadness Is Sweet (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:16
+  :cite-key: AYL:16
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ I see God’s Illumination-Eye.
 * Do Not Fear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:17
+  :cite-key: AYL:17
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ And God’s Forgiveness-Feet.
 * What Your Doubting Mind Needs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:18
+  :cite-key: AYL:18
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Is my Lord’s Thunder-Feet.
 * Your Holy Steps (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1987
-  :CITE-KEY: AYL:19
+  :cite-key: AYL:19
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Your holy Steps have released,
 * Without the Beauty of Surrender
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:20
+  :cite-key: AYL:20
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ One cannot see the Feet of the Absolute Supreme.
 * Follow, Follow, Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:21
+  :cite-key: AYL:21
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ And His Forgiveness-Feet.
 * Do the Best You Can
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:22
+  :cite-key: AYL:22
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Lo, you have touched God’s Feet triumphantly.
 * I Always Belong
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:23
+  :cite-key: AYL:23
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Unmistakeable conviction.
 * Inside His Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:24
+  :cite-key: AYL:24
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ At His Feet is Forgiveness.
 * My Lord, You Do Not Have to Break
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:25
+  :cite-key: AYL:25
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ To Your Compassion-Feet.
 * I Shall Follow Your Footsteps
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:26
+  :cite-key: AYL:26
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ And my life’s evening smile.
 * I Cry for God’s Compassion-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:27
+  :cite-key: AYL:27
   :END:
 
 #+BEGIN_VERSE
@@ -528,10 +528,10 @@ God cries for my perfection-life.
 * Look for God’s Compassion-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:28
+  :cite-key: AYL:28
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ Pride will not be able to entrap you.
 * Your Heart’s Silence-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1987
-  :CITE-KEY: AYL:29
+  :cite-key: AYL:29
   :END:
 
 #+BEGIN_VERSE
@@ -562,10 +562,10 @@ Can hear God’s Diamond-Footsteps.
 * His Life’s Early Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:30
+  :cite-key: AYL:30
   :END:
 
 #+BEGIN_VERSE
@@ -581,10 +581,10 @@ Shall see God’s Compassion-Eye.
 * I Went Up to See God’s Beautiful Feet (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:31
+  :cite-key: AYL:31
   :END:
 
 #+BEGIN_VERSE
@@ -600,10 +600,10 @@ His bountiful Heart.
 * True, I Do Not Have the Capacity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:32
+  :cite-key: AYL:32
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ To feel God’s Forgiveness-Heart.
 * Take Your Choice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:33
+  :cite-key: AYL:33
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ At God’s Forgiveness-Feet.
 * O, Flood My Sleep
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:34
+  :cite-key: AYL:34
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ With Your Beauty’s Feet.
 * He Has Planted His Footsteps
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:35
+  :cite-key: AYL:35
   :END:
 
 #+BEGIN_VERSE
@@ -677,10 +677,10 @@ Inside my surrender-perfection.
 * You Can Have Perfect Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1987
-  :CITE-KEY: AYL:36
+  :cite-key: AYL:36
   :END:
 
 #+BEGIN_VERSE

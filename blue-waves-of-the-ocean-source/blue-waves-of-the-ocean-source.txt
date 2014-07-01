@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 401
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1979
-  :PUBLISHER:
-  :CITE-KEY: BWOS
-  :GENRE: song
+  :book-number: 401
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1979
+  :publisher:
+  :cite-key: BWOS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BWOS:1e1
+  :genre: note
+  :cite-key: BWOS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BWOS:1e2
+  :genre: note
+  :cite-key: BWOS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ Songs about world luminaries
 * President Jimmy Carter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-01-1976
-  :CITE-KEY: BWOS:1
+  :cite-key: BWOS:1
   :END:
 
 #+BEGIN_VERSE
@@ -65,10 +65,10 @@ In you, at last fulfilled your nation’s need.
 * Muhammad Ali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-01-1976
-  :CITE-KEY: BWOS:2
+  :cite-key: BWOS:2
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Your victory’s smile is the pole-star guide.
 * Dag Hammarskjold
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-06-1976
-  :CITE-KEY: BWOS:3
+  :cite-key: BWOS:3
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Of silence-light and delight.
 * Trygve Lie
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-01-1977
-  :CITE-KEY: BWOS:4
+  :cite-key: BWOS:4
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ The world salutes your spirit’s run.
 * Lakhan Mehrotra, Consul General
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 25-05-1977
-  :CITE-KEY: BWOS:5
+  :cite-key: BWOS:5
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Eternity’s perfection-ride.
 * Compassion-Ocean: Mother Lillian
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1977
-  :CITE-KEY: BWOS:6
+  :cite-key: BWOS:6
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ Your vision pilots our journey’s oneness-start.
 * Dear Sir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-10-1977
-  :CITE-KEY: BWOS:7
+  :cite-key: BWOS:7
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ You are the soulful seed and fruitful tree.
 * Kennedy and the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-11-1977
-  :CITE-KEY: BWOS:8
+  :cite-key: BWOS:8
   :END:
 
 #+BEGIN_VERSE
@@ -220,10 +220,10 @@ Together they breathe through Eternity.
 * One Two Three Bullets Free
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-11-1977
-  :CITE-KEY: BWOS:9
+  :cite-key: BWOS:9
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ A fathomless Sea.
 * Robert Muller
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-01-1978
-  :CITE-KEY: BWOS:10
+  :cite-key: BWOS:10
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ And the U.N. Soul of oneness-might.
 * Mayor Edward Koch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1978
-  :CITE-KEY: BWOS:11
+  :cite-key: BWOS:11
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Hall on 16 August 1978.]
 * Ambassador Xenon Rossides
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-10-1978
-  :CITE-KEY: BWOS:12
+  :cite-key: BWOS:12
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ A soulful, tearful gratitude-troop.
 * Doctor Janis Klavins
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-10-1978
-  :CITE-KEY: BWOS:13
+  :cite-key: BWOS:13
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Are singing, dancing near the shore.
 * Ambassador Jorge Illueca
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-11-1978
-  :CITE-KEY: BWOS:14
+  :cite-key: BWOS:14
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Within your ken, your Goal.
 * Eleanor Roosevelt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-12-1978
-  :CITE-KEY: BWOS:15
+  :cite-key: BWOS:15
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Illumination of poverty-nights.
 * Emily Dickinson
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-12-1978
-  :CITE-KEY: BWOS:16
+  :cite-key: BWOS:16
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ A deathless, Supreme Breath.
 * Immanuel Kant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-12-1978
-  :CITE-KEY: BWOS:17
+  :cite-key: BWOS:17
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Your vision-priori ignorance-hunt.
 * Albert Einstein
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-12-1978
-  :CITE-KEY: BWOS:18
+  :cite-key: BWOS:18
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ The supreme boon to humanity.
 * Muhammad Ali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 30-01-1979
-  :CITE-KEY: BWOS:19
+  :cite-key: BWOS:19
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ Sport with art-beauty’s wonders.
 * Nelson Rockefeller
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1979
-  :CITE-KEY: BWOS:20
+  :cite-key: BWOS:20
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Treasure your oneness-role.
 * Albert Einstein, Scientist-Sage!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-02-1979
-  :CITE-KEY: BWOS:21
+  :cite-key: BWOS:21
   :END:
 
 #+BEGIN_VERSE
@@ -508,10 +508,10 @@ The world’s fastest evolution-goal.
 * Leonard Bernstein
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-03-1979
-  :CITE-KEY: BWOS:22
+  :cite-key: BWOS:22
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ World-server-emperor in the cosmos ring.
 * Bill Rodgers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-05-1979
-  :CITE-KEY: BWOS:23
+  :cite-key: BWOS:23
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Your heart, your face.
 * Bharater Rabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-05-1979
-  :CITE-KEY: BWOS:24
+  :cite-key: BWOS:24
   :END:
 
 #+BEGIN_VERSE
@@ -574,10 +574,10 @@ Prema onkar nad
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 07-05-1979
-  :CITE-KEY: BWOS:25
+  :cite-key: BWOS:25
   :END:
 
 #+BEGIN_VERSE
@@ -599,10 +599,10 @@ In various walks of life.
 * Brother Elliot, Ambassador Richardson!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-06-1979
-  :CITE-KEY: BWOS:26
+  :cite-key: BWOS:26
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ Perfection-melody’s bells in your vision-mission ring.
 * Don Ritchie
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-06-1979
-  :CITE-KEY: BWOS:27
+  :cite-key: BWOS:27
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Victory within and victory without, your progress-light.
 * Governor Rafael Hernandez Colon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-07-1979
-  :CITE-KEY: BWOS:28
+  :cite-key: BWOS:28
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ Within, without, his is the heart of
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-07-1979
-  :CITE-KEY: BWOS:29
+  :cite-key: BWOS:29
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Adentro, afuera, suyo es el corazon de la carrera segura.
 * The New York Road Runners Club
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-08-1979
-  :CITE-KEY: BWOS:30
+  :cite-key: BWOS:30
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Salutes your wisdom-sun.
 * Pir Vilayat Khan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-08-1979
-  :CITE-KEY: BWOS:31
+  :cite-key: BWOS:31
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ Sanatan gati sthir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-08-1979
-  :CITE-KEY: BWOS:32
+  :cite-key: BWOS:32
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ Eternity’s movement and stillness.
 * Pope John Paul II
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-09-1979
-  :CITE-KEY: BWOS:33
+  :cite-key: BWOS:33
   :END:
 
 #+BEGIN_VERSE
@@ -787,10 +787,10 @@ You tell the world: “No bondage-night.”
 * Lord Louis Mountbatten
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-09-1979
-  :CITE-KEY: BWOS:34
+  :cite-key: BWOS:34
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Success-progress loved your journey’s victory-fight.
 * Compassion-Height
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-05-1994
-  :CITE-KEY: BWOS:35
+  :cite-key: BWOS:35
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ In you the U.N.’s high
 * Ron Clarke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-03-1976
-  :CITE-KEY: BWOS:36
+  :cite-key: BWOS:36
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ With seventeen crowns, yours is the goal.
 * U Thant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1976
-  :CITE-KEY: BWOS:37
+  :cite-key: BWOS:37
   :END:
 
 #+BEGIN_VERSE
@@ -880,10 +880,10 @@ You treasured perfection-dream.
 * O Kurt Waldheim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-05-1976
-  :CITE-KEY: BWOS:38
+  :cite-key: BWOS:38
   :END:
 
 #+BEGIN_VERSE
@@ -901,10 +901,10 @@ Awakens the sleeping world and its oneness-power.
 * O Pablo Casals
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1976
-  :CITE-KEY: BWOS:39
+  :cite-key: BWOS:39
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ You saw in your beauty’s world of strength.
 * Pranam Pradhan Mantri Desai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-09-1977
-  :CITE-KEY: BWOS:40
+  :cite-key: BWOS:40
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ Tyagi bhaskar anandamoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-09-1977
-  :CITE-KEY: BWOS:41
+  :cite-key: BWOS:41
   :END:
 
 #+BEGIN_VERSE
@@ -974,10 +974,10 @@ O manifestation-sun of infinite Delight!
 * O Great Pilot Mayor Beame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-09-1977
-  :CITE-KEY: BWOS:42
+  :cite-key: BWOS:42
   :END:
 
 #+BEGIN_VERSE
@@ -993,10 +993,10 @@ In you the bliss of oneness-light.
 * Ambassador Andrew Young
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-11-1977
-  :CITE-KEY: BWOS:43
+  :cite-key: BWOS:43
   :END:
 
 #+BEGIN_VERSE
@@ -1014,10 +1014,10 @@ Shall reach far and near, big and small.
 * O Martin Luther King
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-11-1977
-  :CITE-KEY: BWOS:44
+  :cite-key: BWOS:44
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ King, King, in your victory-trance.
 * Pele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-02-1978
-  :CITE-KEY: BWOS:45
+  :cite-key: BWOS:45
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ With you, for you, your Cosmos-vision soars.
 * Norman Rockwell
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-11-1978
-  :CITE-KEY: BWOS:46
+  :cite-key: BWOS:46
   :END:
 
 #+BEGIN_VERSE
@@ -1082,10 +1082,10 @@ Salute your splendid Americana-oneness-strength.
 * President Valery Giscard d’Estaing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-12-1978
-  :CITE-KEY: BWOS:47
+  :cite-key: BWOS:47
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ In you they touch their Goal.
 * Bach
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1978
-  :CITE-KEY: BWOS:48
+  :cite-key: BWOS:48
   :END:
 
 #+BEGIN_VERSE
@@ -1122,10 +1122,10 @@ You quenched the unquenched thirst of Eternity.
 * Beethoven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1978
-  :CITE-KEY: BWOS:49
+  :cite-key: BWOS:49
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ In your heart’s Eden.
 * Thakurer Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-01-1979
-  :CITE-KEY: BWOS:50
+  :cite-key: BWOS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Atmahutir dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-01-1979
-  :CITE-KEY: BWOS:51
+  :cite-key: BWOS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1190,10 +1190,10 @@ The incense of your self-offering.
 * Scientist Einstein
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-02-1979
-  :CITE-KEY: BWOS:52
+  :cite-key: BWOS:52
   :END:
 
 #+BEGIN_VERSE

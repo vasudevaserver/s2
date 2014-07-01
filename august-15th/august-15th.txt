@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1075
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: AGST
-  :GENRE: song
+  :book-number: 1075
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: AGST
+  :genre: song
   :END:
 
 
@@ -21,8 +21,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AGST:1e1
+  :genre: note
+  :cite-key: AGST:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,18 +31,18 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: AGST:1e2
+  :genre: note
+  :cite-key: AGST:1e2
   :END:
 
 
 * Dyulok Chariye Nara Narayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-07-1995
-  :CITE-KEY: AGST:1
+  :cite-key: AGST:1
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Dyulok chariye....
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-07-1995
-  :CITE-KEY: AGST:2
+  :cite-key: AGST:2
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0342
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1977
- :PUBLISHER: Agni Press
- :CITE-KEY: HM
- :GENRE: discourse, qa
- :KEYWORDS:
+ :book-number: 0342
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1977
+ :publisher: Agni Press
+ :cite-key: HM
+ :genre: discourse, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- Introduction: a talk to disciples
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: HM:1
+ :genre: discourse
+ :keywords:
+ :cite-key: HM:1
   :END:
 
 
@@ -45,9 +45,9 @@ Before you actually start to meditate, no matter what time it is, please wash yo
 * Part II -- The Master's presence
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: HM:2e1
+ :genre: section
+ :keywords:
+ :cite-key: HM:2e1
   :END:
 
 
@@ -55,9 +55,9 @@ Before you actually start to meditate, no matter what time it is, please wash yo
 * Question: What is your process for enlightenment and what do you ask of your disciples?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:2
+ :genre: qa
+ :keywords:
+ :cite-key: HM:2
   :END:
 
 
@@ -68,9 +68,9 @@ Before you actually start to meditate, no matter what time it is, please wash yo
 * Question: Do you teach people to meditate in a specific way?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:3
+ :genre: qa
+ :keywords:
+ :cite-key: HM:3
   :END:
 
 
@@ -89,9 +89,9 @@ However, if you want to be in a position to give constantly to the world at larg
 * Question: How can we meditate well?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:4
+ :genre: qa
+ :keywords:
+ :cite-key: HM:4
   :END:
 
 
@@ -102,9 +102,9 @@ However, if you want to be in a position to give constantly to the world at larg
 * Question: Guru, how can we go deeper and deeper within so we can go beyond the surface mind?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:5
+ :genre: qa
+ :keywords:
+ :cite-key: HM:5
   :END:
 
 
@@ -121,9 +121,9 @@ Again, you may feel that if you sit down for fifteen minutes, you will be able t
 * Question: I am strongly tuned to the mental plane. What can I do to enter into my inner being and feel my inner self more in my daily meditations?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:6
+ :genre: qa
+ :keywords:
+ :cite-key: HM:6
   :END:
 
 
@@ -140,9 +140,9 @@ Think of what will produce results. The conscious awareness of the soul will alw
 * Question: Some days I feel that instead of meditating I want to say prayers or I want to do something for another person. Is that the ego?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:7
+ :genre: qa
+ :keywords:
+ :cite-key: HM:7
   :END:
 
 
@@ -155,9 +155,9 @@ Then, when you have spiritual wealth, you must give your wealth to the right per
 * Question: What do you do when you are not one hundred percent alert during meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:8
+ :genre: qa
+ :keywords:
+ :cite-key: HM:8
   :END:
 
 
@@ -172,9 +172,9 @@ During your meditation you yourself will realise when, instead of getting a very
 * Question: Is it wrong to sleep in meditation if we have worked all night?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:9
+ :genre: qa
+ :keywords:
+ :cite-key: HM:9
   :END:
 
 
@@ -191,9 +191,9 @@ Emotionally disturbed people try to push too fast and realise God overnight. But
 * Question: Will visiting a holy place, such as the Himalayas, help our spiritual progress?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:10
+ :genre: qa
+ :keywords:
+ :cite-key: HM:10
   :END:
 
 
@@ -204,9 +204,9 @@ Emotionally disturbed people try to push too fast and realise God overnight. But
 * Question: I read a book about concentration and meditation in which it said that one should pay attention to the direction in which one is facing, whether it is to the East, South, West or North.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:11
+ :genre: qa
+ :keywords:
+ :cite-key: HM:11
   :END:
 
 
@@ -219,9 +219,9 @@ But when concentration is concerned, there is no necessity of facing a particula
 * Part III -- Collective meditation and the master: a talk
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: HM:12
+ :genre: discourse
+ :keywords:
+ :cite-key: HM:12
   :END:
 
 
@@ -242,9 +242,9 @@ So these are the major things that I do during the collective meditation. And on
 * Part IV -- Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: HM:13e1
+ :genre: section
+ :keywords:
+ :cite-key: HM:13e1
   :END:
 
 
@@ -252,9 +252,9 @@ So these are the major things that I do during the collective meditation. And on
 * Question: Can you please speak about collective meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:13
+ :genre: qa
+ :keywords:
+ :cite-key: HM:13
   :END:
 
 
@@ -267,9 +267,9 @@ As each spiritual Master has a boat of his own, we are also in our own boat. Eve
 * Question: Why is it important to meditate with other people?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:14
+ :genre: qa
+ :keywords:
+ :cite-key: HM:14
   :END:
 
 /Sri Chinmoy:/ If you have a friend who knows how to meditate, and if you meditate with him, even unconsciously you may receive inspiration from him. Then, automatically the power of meditation will increase in you and your ignorance will decrease. You will learn many things from your spiritual friends; you will be able to have a new perspective on life.
@@ -279,9 +279,9 @@ As each spiritual Master has a boat of his own, we are also in our own boat. Eve
 * Question: What are the ways to go deep within or raise our consciousness while meditating in a group?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:15
+ :genre: qa
+ :keywords:
+ :cite-key: HM:15
   :END:
 
 
@@ -294,9 +294,9 @@ Our best mantra is Aum. When we repeat it, it becomes japa. Kindly chant Aum mos
 * Question: Guru, sometimes when you come into the meditation hall, you ask people not to stand up.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:16
+ :genre: qa
+ :keywords:
+ :cite-key: HM:16
   :END:
 
 
@@ -307,9 +307,9 @@ Our best mantra is Aum. When we repeat it, it becomes japa. Kindly chant Aum mos
 * Question: At the end of a meditation for the general public, what is actually happening when you stand up and put on a garland?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:17
+ :genre: qa
+ :keywords:
+ :cite-key: HM:17
   :END:
 
 
@@ -322,9 +322,9 @@ When I put on the garland, it is not in any way an act of demonstration. I do no
 * Question: Are outer gestures important for aspiration to increase?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:18
+ :genre: qa
+ :keywords:
+ :cite-key: HM:18
   :END:
 
 
@@ -355,9 +355,9 @@ Today if you are waiting to get inspiration, or high aspiration, you don't have 
 * Question: Most disciples fold their hands when you are meditating and looking at them. But sometimes when I am meditating with you this doesn't come naturally. Is it all right not to fold our hands while you are looking at us?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:19
+ :genre: qa
+ :keywords:
+ :cite-key: HM:19
   :END:
 
 
@@ -372,9 +372,9 @@ In some instances you may even have a better meditation when I am looking at som
 * Part V -- Experiences in meditation
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: HM:20e1
+ :genre: section
+ :keywords:
+ :cite-key: HM:20e1
   :END:
 
 
@@ -382,9 +382,9 @@ In some instances you may even have a better meditation when I am looking at som
 * Question: How can we tune in to the particular quality that you are bringing down most in your meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:20
+ :genre: qa
+ :keywords:
+ :cite-key: HM:20
   :END:
 
 
@@ -397,9 +397,9 @@ Now, how will you identify yourself with the most prominent quality? Do not use 
 * Question: Why should we keep our eyes open and look at you in meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:21
+ :genre: qa
+ :keywords:
+ :cite-key: HM:21
   :END:
 
 
@@ -410,9 +410,9 @@ Now, how will you identify yourself with the most prominent quality? Do not use 
 * Question: When we receive light and peace from our meditation, is it assimilated and stored for our gradual use, or do we constantly need it as we need food?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:22
+ :genre: qa
+ :keywords:
+ :cite-key: HM:22
   :END:
 
 
@@ -427,9 +427,9 @@ If you don't establish an eternal friendship, you do not give your friend the op
 * Question: Is there any way to evaluate the result of our meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:23
+ :genre: qa
+ :keywords:
+ :cite-key: HM:23
   :END:
 
 
@@ -442,9 +442,9 @@ The other way to evaluate one's meditation, which is absolutely the best way, is
 * Question: Is dedication the same thing as meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:24
+ :genre: qa
+ :keywords:
+ :cite-key: HM:24
   :END:
 
 
@@ -455,9 +455,9 @@ The other way to evaluate one's meditation, which is absolutely the best way, is
 * Question: When people are sleeping during a very high meditation, do they receive anything?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:25
+ :genre: qa
+ :keywords:
+ :cite-key: HM:25
   :END:
 
 
@@ -468,9 +468,9 @@ The other way to evaluate one's meditation, which is absolutely the best way, is
 * Question: Why do I sometimes feel sad when I come out of meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:26
+ :genre: qa
+ :keywords:
+ :cite-key: HM:26
   :END:
 
 
@@ -487,9 +487,9 @@ So the best thing is, when you go up, always to go with joy and when you come do
 * Question: If we meditate in the evening or at other times during the day, is it as beneficial as meditating early in the morning?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:27
+ :genre: qa
+ :keywords:
+ :cite-key: HM:27
   :END:
 
 
@@ -506,9 +506,9 @@ To me, each seeker is a miracle because the same person could have stayed in ign
 * Question: Recently we were meditating four or five times a day. Has the effort of doing this caused any general improvement in our consciousness during the day?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:28
+ :genre: qa
+ :keywords:
+ :cite-key: HM:28
   :END:
 
 
@@ -523,9 +523,9 @@ So, the power that you have acquired to sit and meditate can and must be utilise
 * Question: Should we try to get up spontaneously to meditate or should we set an alarm?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:29
+ :genre: qa
+ :keywords:
+ :cite-key: HM:29
   :END:
 
 
@@ -536,9 +536,9 @@ So, the power that you have acquired to sit and meditate can and must be utilise
 * Question: Is it bad for someone to go back to sleep after meditating from two to three in the morning?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:30
+ :genre: qa
+ :keywords:
+ :cite-key: HM:30
   :END:
 
 
@@ -553,9 +553,9 @@ So you have to be very careful. For an hour or so, from two to three, you can me
 * Question: Once you said that if we concentrated on an idea for half an hour, it would work miracles.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:31
+ :genre: qa
+ :keywords:
+ :cite-key: HM:31
   :END:
 
 
@@ -566,9 +566,9 @@ So you have to be very careful. For an hour or so, from two to three, you can me
 * Question: If during your meditation you feel comfortable and really inspired, can you increase your meditation time?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:32
+ :genre: qa
+ :keywords:
+ :cite-key: HM:32
   :END:
 
 
@@ -579,9 +579,9 @@ So you have to be very careful. For an hour or so, from two to three, you can me
 * Question: If we start at the same time, can we meditate one day for half an hour and another day for an hour?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:33
+ :genre: qa
+ :keywords:
+ :cite-key: HM:33
   :END:
 
 
@@ -592,9 +592,9 @@ So you have to be very careful. For an hour or so, from two to three, you can me
 * Question: If you set a time for your meditation and are able to get up earlier, should you still keep your time?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:34
+ :genre: qa
+ :keywords:
+ :cite-key: HM:34
   :END:
 
 
@@ -607,9 +607,9 @@ Please meditate at the time you are supposed to. If you change your time every d
 * Question: Is it good to get up earlier than our appointed meditation time so that we can shower and get ready?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:35
+ :genre: qa
+ :keywords:
+ :cite-key: HM:35
   :END:
 
 
@@ -620,9 +620,9 @@ Please meditate at the time you are supposed to. If you change your time every d
 * Question: If we are sleepy, is it all right to exercise?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:36
+ :genre: qa
+ :keywords:
+ :cite-key: HM:36
   :END:
 
 
@@ -633,9 +633,9 @@ Please meditate at the time you are supposed to. If you change your time every d
 * Question: After five minutes of meditation I feel tired.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:37
+ :genre: qa
+ :keywords:
+ :cite-key: HM:37
   :END:
 
 
@@ -648,9 +648,9 @@ If I spend four hours playing volleyball, then I will develop some capacity; but
 * Question: What purpose do you have in offering a seven-hour meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:38
+ :genre: qa
+ :keywords:
+ :cite-key: HM:38
   :END:
 
 
@@ -661,9 +661,9 @@ If I spend four hours playing volleyball, then I will develop some capacity; but
 * Question: Why do you hold such a long meditation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: HM:39
+ :genre: qa
+ :keywords:
+ :cite-key: HM:39
   :END:
 
 

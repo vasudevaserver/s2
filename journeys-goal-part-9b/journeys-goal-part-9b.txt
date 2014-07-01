@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 433
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-9B
-  :GENRE: song
+  :book-number: 433
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-9B
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1341e1
+  :genre: note
+  :cite-key: JGS:1341e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1341e2
+  :genre: note
+  :cite-key: JGS:1341e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Chalbo Ami Parama Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-01-1978
-  :CITE-KEY: JGS:1341
+  :cite-key: JGS:1341
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Samarpaner giti geye dibasa rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-01-1978
-  :CITE-KEY: JGS:1342
+  :cite-key: JGS:1342
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ I shall walk along with You.
 * Asha Jiban Bhore Swapan Sarobare Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1343
+  :cite-key: JGS:1343
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Bahudure rekhechi aj timir bishad ghore
 * Ami Kandi Kandi Jatrar Bhore Kandi Jatrar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1344
+  :cite-key: JGS:1344
   :END:
 
 #+BEGIN_VERSE
@@ -116,10 +116,10 @@ More bandhi bandhi
 * Ekhano Samoy Ache Oi Ananta Nache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1345
+  :cite-key: JGS:1345
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Pran jena nahi jai
 * Shuna Dhara Basi Ebar Amare Harabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1346
+  :cite-key: JGS:1346
   :END:
 
 #+BEGIN_VERSE
@@ -156,10 +156,10 @@ Madhu prema bandhane
 * Ami Bandhibona Ar Bandhibona Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1347
+  :cite-key: JGS:1347
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Mrittyur dak shunibona
 * Ami Jakhan Tomar Kache Jai Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1348
+  :cite-key: JGS:1348
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Jug juganter andhar paran nasho
 * Shunye Uri Shunye Puta Hiyar Punye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1349
+  :cite-key: JGS:1349
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Sathi amar sathi sada dibarati
 * Kena Asi Dhara Buke Ami Barebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1350
+  :cite-key: JGS:1350
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Charidike bibhishika moha boyri kalo
 * Khudra Jiban Mama Shushka Kusum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1351
+  :cite-key: JGS:1351
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ Nahi chale bale
 * Nam Chahile Khate Habe Amar Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1352
+  :cite-key: JGS:1352
   :END:
 
 #+BEGIN_VERSE
@@ -273,10 +273,10 @@ Tomai amar spriha bhabe
 * Esecho Jakhan Kichu Niye Jao Maya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1353
+  :cite-key: JGS:1353
   :END:
 
 #+BEGIN_VERSE
@@ -293,10 +293,10 @@ Esecho jakhan kichu niye jao
 * Ogo Amar Hiya Nadir Gyaner Vela Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1354
+  :cite-key: JGS:1354
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Na kare ar amai kabhu abahela
 * Bhitare Kandi Bahire Hasi Bhitare Gari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1355
+  :cite-key: JGS:1355
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ Tomar prane ma bhalobasi
 * Ami Chanchal Tai Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1356
+  :cite-key: JGS:1356
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ Sarbada dure roy
 * Nibir Timir Dake Bale Tomai Bhule Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1357
+  :cite-key: JGS:1357
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ Tomai pete chai
 * Kandiya Hasiya Esechi Dharai Kandiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1358
+  :cite-key: JGS:1358
   :END:
 
 #+BEGIN_VERSE
@@ -389,10 +389,10 @@ Chiratare ami tomai pabo
 * Nahi Sur Nahi Gan Nahi Kariya Ban Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1359
+  :cite-key: JGS:1359
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Ache shudhu abhiman hiya nithur pashan
 * Alor Plaban Alor Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1360
+  :cite-key: JGS:1360
   :END:
 
 #+BEGIN_VERSE
@@ -425,10 +425,10 @@ Ure amar bijoy ketan
 * Ami Jani Ami Mani Prane Mor Shata Kalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1361
+  :cite-key: JGS:1361
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Baraboye ase dhalo akutir agun jwalo
 * Janina Tomai Janina Parina Kichui Parina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1362
+  :cite-key: JGS:1362
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ Bhabina kakhan bhabina tomare bidhata pujina
 * Atma Jane.. Taito Ami Bhuli Atma Gane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1363
+  :cite-key: JGS:1363
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Taito ami amai bhuli atma gane
 * Bhabna Amar Bhese Chale Nahi Bandhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1364
+  :cite-key: JGS:1364
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Sudur desher asha
 * Dure Dure Bahu Dure Chaleyechi Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1365
+  :cite-key: JGS:1365
   :END:
 
 #+BEGIN_VERSE
@@ -515,10 +515,10 @@ Kanna hasir sure sure
 * Hauk Abashan Hauk Abashan Sakal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1366
+  :cite-key: JGS:1366
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Karbo amai dan
 * Kato Swapane Mane Phuteni Je Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1367
+  :cite-key: JGS:1367
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Ami kandi gopane khudra hiyar gahane
 * Amar Lagi Chaibo Ami Kon Mukhe Dibas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1368
+  :cite-key: JGS:1368
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Dibas nishi kanna shuni sab bukhe
 * Naba Naba Rupe Naba Naba Bhabe Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1369
+  :cite-key: JGS:1369
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ Mor tanu prana man
 * Dub Dibo Aj Shunya Tai Purna Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1370
+  :cite-key: JGS:1370
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Pabo amai punarai
 * Kato Usha Elo Kato Usha Gelo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1371
+  :cite-key: JGS:1371
   :END:
 
 #+BEGIN_VERSE
@@ -623,10 +623,10 @@ Nahi khule hiya dor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1372
+  :cite-key: JGS:1372
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Has not come to an end.
 * Ashar Bhore Tumi Balo Hasir Pure Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1373
+  :cite-key: JGS:1373
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Bedanar abasan halo
 * Brahmananda Turiyananda Maha Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1374
+  :cite-key: JGS:1374
   :END:
 
 #+BEGIN_VERSE
@@ -681,10 +681,10 @@ Shashwata abhijan
 * Brahmananda Turiyananda Maha Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1375
+  :cite-key: JGS:1375
   :END:
 
 #+BEGIN_VERSE
@@ -700,10 +700,10 @@ Shashwata abhijan
 * Brahmananda Turiyananda Maha Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1376
+  :cite-key: JGS:1376
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ Shashwata abhijan
 * Chetanar Chidakashe Saumitra Samiran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1377
+  :cite-key: JGS:1377
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ Ache shudhu asimer alo shikha nartan
 * Dyuloke Purna Bhuloke Shunya Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1378
+  :cite-key: JGS:1378
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Kari ami abahela
 * Hetha Ami Chanchal Tai Hiya Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1379
+  :cite-key: JGS:1379
   :END:
 
 #+BEGIN_VERSE
@@ -780,10 +780,10 @@ Sarbada dure roy
 * Ogo Maner Andha Chapalata Janana Ki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1380
+  :cite-key: JGS:1380
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ Janana ki tomar agyanata
 * Ogo Puratan Kalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1381
+  :cite-key: JGS:1381
   :END:
 
 #+BEGIN_VERSE
@@ -823,10 +823,10 @@ Asile abar hanibo aghat kata ashani shire
 * Urdhe Sharani Garima Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1382
+  :cite-key: JGS:1382
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Sarba oishi pratima
 * Sabare Tushite Esechi Dharai Sabare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1383
+  :cite-key: JGS:1383
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Shudhu ei khudha jwalo
 * Sudur Desher Sonali Swapan Khani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1384
+  :cite-key: JGS:1384
   :END:
 
 #+BEGIN_VERSE
@@ -883,10 +883,10 @@ Taba asimer alok pijush bani
 * Tumi Balo Ami Shuni Taito Ami Guni Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1385
+  :cite-key: JGS:1385
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Sarbotyagi muni
 * Samoy Je Nai Kandbar Samoy Je Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1386
+  :cite-key: JGS:1386
   :END:
 
 #+BEGIN_VERSE
@@ -921,10 +921,10 @@ Prabhu tomai bandbar
 * Tutite Amar Bandhan Jal Prabhu Ami Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1387
+  :cite-key: JGS:1387
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ Pabo taba sandhan
 * Tabo Barabhoy Mor Parichoy Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1388
+  :cite-key: JGS:1388
   :END:
 
 #+BEGIN_VERSE
@@ -957,10 +957,10 @@ Ananda pran tomar bijoy
 * Tumi Balo Asbe Prane Kena Asona Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1389
+  :cite-key: JGS:1389
   :END:
 
 #+BEGIN_VERSE
@@ -974,10 +974,10 @@ Tumi balo basbe bhalo kena basona
 * Swarge Ami Mukta Chilam Lilara Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1390
+  :cite-key: JGS:1390
   :END:
 
 #+BEGIN_VERSE
@@ -993,10 +993,10 @@ Paran bhare sudha khabo
 * Sukhe Dukhe Apan Kare Niba Sarba Kibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1391
+  :cite-key: JGS:1391
   :END:
 
 #+BEGIN_VERSE
@@ -1012,10 +1012,10 @@ Praner thakur Shibe
 * Sundaramoy Anandamoy Jagiche Tarani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1392
+  :cite-key: JGS:1392
   :END:
 
 #+BEGIN_VERSE
@@ -1031,10 +1031,10 @@ Dakiche tomai majhi
 * Swapan Sathi Swapan Sathi Swapne
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1393
+  :cite-key: JGS:1393
   :END:
 
 #+BEGIN_VERSE
@@ -1050,10 +1050,10 @@ Ure jete dako
 * Swapani Swapani Tumi Kabi Rishi Maha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JGS:1394
+  :cite-key: JGS:1394
   :END:
 
 #+BEGIN_VERSE

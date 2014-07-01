@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0270
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: NAMS
-  :GENRE: qa, discourse, epistle
-  :KEYWORDS:
+  :book-number: 0270
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: NAMS
+  :genre: qa, discourse, epistle
+  :keywords:
   :END:
 
 
@@ -25,9 +25,9 @@
 * Remarks By Sri Chinmoy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: NAMS:1
+  :genre: discourse
+  :keywords:
+  :cite-key: NAMS:1
   :END:
 
 
@@ -64,9 +64,9 @@ Nothing gives me greater joy than to be of dedicated service. All the mothers ar
 * Questions From Mothers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: NAMS:2e1
+  :genre: section
+  :keywords:
+  :cite-key: NAMS:2e1
   :END:
 
 
@@ -74,9 +74,9 @@ Nothing gives me greater joy than to be of dedicated service. All the mothers ar
 * Mrs. Lebenson (Vinaya's Mother): Suppose There Are...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: NAMS:2
+  :genre: qa
+  :keywords:
+  :cite-key: NAMS:2
   :END:
 
 
@@ -93,9 +93,9 @@ You can forget the word 'God' and say 'Truth.' One of India's great politicians 
 * Mrs. Lebenson: But People Are Limited In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: NAMS:3
+  :genre: qa
+  :keywords:
+  :cite-key: NAMS:3
   :END:
 
 
@@ -114,9 +114,9 @@ Before you pray you can take a picture of yourself and see what you look like. A
 * Mrs. Burke (Chidananda's Mother): This Is A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: NAMS:4
+  :genre: qa
+  :keywords:
+  :cite-key: NAMS:4
   :END:
 
 
@@ -143,9 +143,9 @@ I wish to say that I am not binding and your children are not binding; only we a
 * Mrs. Marcantonio (Albert And Marc's Mother): I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: NAMS:5
+  :genre: qa
+  :keywords:
+  :cite-key: NAMS:5
   :END:
 
 
@@ -158,9 +158,9 @@ I wish to say that I am not binding and your children are not binding; only we a
 * Mrs. Marcantonio: Yes....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: NAMS:6
+  :genre: qa
+  :keywords:
+  :cite-key: NAMS:6
   :END:
 
 
@@ -175,9 +175,9 @@ I am extremely grateful to all the mothers who are present. As a token of my app
 * Comments From Mothers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: NAMS:7e1
+  :genre: section
+  :keywords:
+  :cite-key: NAMS:7e1
   :END:
 
 
@@ -185,9 +185,9 @@ I am extremely grateful to all the mothers who are present. As a token of my app
 * Several Of The Mothers Were Deeply Moved...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: NAMS:7e2
+  :genre: note
+  :keywords:
+  :cite-key: NAMS:7e2
   :END:
 
 
@@ -198,9 +198,9 @@ I am extremely grateful to all the mothers who are present. As a token of my app
 * Apeksha's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:7
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:7
   :END:
 
 
@@ -221,9 +221,9 @@ Mrs. Katherine Baccigaluppi
 * Ashrita's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:8
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:8
   :END:
 
 
@@ -246,9 +246,9 @@ Jessie Furman
 * Bhima And Larry Hogan's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:9
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:9
   :END:
 
 
@@ -267,9 +267,9 @@ Joan M. Hogan
 * Charles Podell's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:10
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:10
   :END:
 
 
@@ -290,9 +290,9 @@ Fay Podell
 * Chidananda's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:11
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:11
   :END:
 
 
@@ -313,9 +313,9 @@ Elsie Burke
 * Daniel Stern's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:12
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:12
   :END:
 
 
@@ -336,9 +336,9 @@ Very sincerely yours,
 * Kanan's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:13
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:13
   :END:
 
 
@@ -351,9 +351,9 @@ Harriet Roberts
 * Lelihan And Prabuddha's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:14
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:14
   :END:
 
 
@@ -366,9 +366,9 @@ Mrs. Mildred Browne
 * Lewis Kahn's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:15
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:15
   :END:
 
 
@@ -411,9 +411,9 @@ Mrs. Hortense Kahn
 * Marc And Albert Marcantonio's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:16
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:16
   :END:
 
 
@@ -438,9 +438,9 @@ Theresa Marcantonio
 * Peter Neumann's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:17
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:17
   :END:
 
 
@@ -469,9 +469,9 @@ Mom
 * Premananda's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:18
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:18
   :END:
 
 
@@ -498,9 +498,9 @@ Mary E. Brown
 * Ribhu's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:19
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:19
   :END:
 
 
@@ -513,9 +513,9 @@ Mrs. Charlotte Lepak
 * Jason's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:20
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:20
   :END:
 
 
@@ -530,9 +530,9 @@ Marta Strandberg
 * Sadhak's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:21
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:21
   :END:
 
 
@@ -547,9 +547,9 @@ Elfriede Kazarov
 * Sahishnu's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:22
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:22
   :END:
 
 
@@ -562,9 +562,9 @@ Mrs. Irene Szczesiul
 * Sal Viscardi's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:23
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:23
   :END:
 
 
@@ -585,9 +585,9 @@ Antoinette Viscardi
 * Steve Opera's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:24
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:24
   :END:
 
 
@@ -602,9 +602,9 @@ Anne Opera
 * Vinaya's Mother
 
   :PROPERTIES:
-  :GENRE: epistle
-  :KEYWORDS:
-  :CITE-KEY: NAMS:25
+  :genre: epistle
+  :keywords:
+  :cite-key: NAMS:25
   :END:
 
 

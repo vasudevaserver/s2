@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0020
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGML
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0020
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: MGML
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Vishwamitra
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:1
+  :genre: play
+  :keywords:
+  :cite-key: MGML:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:2e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:2e1
   :END:
 
 
@@ -57,9 +57,9 @@ MESSENGER FROM THE SUPREME
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:2
+  :genre: play
+  :keywords:
+  :cite-key: MGML:2
   :END:
 
 
@@ -67,9 +67,9 @@ MESSENGER FROM THE SUPREME
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:3
+  :genre: play
+  :keywords:
+  :cite-key: MGML:3
   :END:
 
 
@@ -159,9 +159,9 @@ VISHWAMITRA: The entire world knows that I am a man of action, immediate action.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:4
+  :genre: play
+  :keywords:
+  :cite-key: MGML:4
   :END:
 
 
@@ -254,9 +254,9 @@ O Queen of the Eternal.]
 * Dhruva
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:5
+  :genre: play
+  :keywords:
+  :cite-key: MGML:5
   :END:
 
 
@@ -264,9 +264,9 @@ O Queen of the Eternal.]
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:6e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:6e1
   :END:
 
 
@@ -309,9 +309,9 @@ NARRATOR: There was once a great King whose name was Uttanpada. He had two sons,
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:6
+  :genre: play
+  :keywords:
+  :cite-key: MGML:6
   :END:
 
 
@@ -319,9 +319,9 @@ NARRATOR: There was once a great King whose name was Uttanpada. He had two sons,
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:7
+  :genre: play
+  :keywords:
+  :cite-key: MGML:7
   :END:
 
 
@@ -338,9 +338,9 @@ SURUCHI: Dhruva, now get away from here. I don't want to see you anymore. You mu
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:8
+  :genre: play
+  :keywords:
+  :cite-key: MGML:8
   :END:
 
 
@@ -369,9 +369,9 @@ DHRUVA: Mother, I am off. I shall come back only when I have brought for you Joy
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:9
+  :genre: play
+  :keywords:
+  :cite-key: MGML:9
   :END:
 
 
@@ -450,9 +450,9 @@ DHRUVA: O sages, O seekers of the highest magnitude, O greatest lovers of God, m
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:10
+  :genre: play
+  :keywords:
+  :cite-key: MGML:10
   :END:
 
 
@@ -489,9 +489,9 @@ INDRA AND YAMA: Eat him up, eat him up! Kill him! Destroy him, destroy him! He w
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:11
+  :genre: play
+  :keywords:
+  :cite-key: MGML:11
   :END:
 
 
@@ -512,9 +512,9 @@ INDRA: O Lord Vishnu, as long as he does not surpass me, I will be most grateful
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:12
+  :genre: play
+  :keywords:
+  :cite-key: MGML:12
   :END:
 
 
@@ -545,9 +545,9 @@ ALL THE SAGES: Dhruva, long long before you were born we were praying to Lord Vi
 * Jajati
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:13
+  :genre: play
+  :keywords:
+  :cite-key: MGML:13
   :END:
 
 
@@ -555,9 +555,9 @@ ALL THE SAGES: Dhruva, long long before you were born we were praying to Lord Vi
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:14e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:14e1
   :END:
 
 
@@ -584,9 +584,9 @@ PURU, YOUNGEST SON OF JAJATI AND SHARMISHTHA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:14
+  :genre: play
+  :keywords:
+  :cite-key: MGML:14
   :END:
 
 
@@ -594,9 +594,9 @@ PURU, YOUNGEST SON OF JAJATI AND SHARMISHTHA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:15
+  :genre: play
+  :keywords:
+  :cite-key: MGML:15
   :END:
 
 
@@ -617,9 +617,9 @@ JAJATI: Oh, I am so grateful to you! I have so many devoted sons. I am sure one 
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:16
+  :genre: play
+  :keywords:
+  :cite-key: MGML:16
   :END:
 
 
@@ -664,9 +664,9 @@ JAJATI /(to Puru):/ Just a few years, a few fleeting years I shall enjoy, and th
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:17
+  :genre: play
+  :keywords:
+  :cite-key: MGML:17
   :END:
 
 
@@ -711,9 +711,9 @@ PURU /(gets up as a young man again):/ Father, I am glad and proud that I have p
 * Two Disciples
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:18
+  :genre: play
+  :keywords:
+  :cite-key: MGML:18
   :END:
 
 
@@ -721,9 +721,9 @@ PURU /(gets up as a young man again):/ Father, I am glad and proud that I have p
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:19e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:19e1
   :END:
 
 
@@ -738,9 +738,9 @@ MASTER
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:19
+  :genre: play
+  :keywords:
+  :cite-key: MGML:19
   :END:
 
 
@@ -748,9 +748,9 @@ MASTER
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:20
+  :genre: play
+  :keywords:
+  :cite-key: MGML:20
   :END:
 
 
@@ -803,9 +803,9 @@ MASTER /(to the first disciple):/ By recognising your stupidity, your ignorance,
 * Akbar, Tansen And Haridas
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:21
+  :genre: play
+  :keywords:
+  :cite-key: MGML:21
   :END:
 
 
@@ -813,9 +813,9 @@ MASTER /(to the first disciple):/ By recognising your stupidity, your ignorance,
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:22e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:22e1
   :END:
 
 
@@ -834,9 +834,9 @@ HARIDAS, MASTER OF TANSEN
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:22
+  :genre: play
+  :keywords:
+  :cite-key: MGML:22
   :END:
 
 
@@ -844,9 +844,9 @@ HARIDAS, MASTER OF TANSEN
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:23
+  :genre: play
+  :keywords:
+  :cite-key: MGML:23
   :END:
 
 
@@ -925,9 +925,9 @@ AKBAR: All right, Tansen, I will visit your teacher as your servant. I want to h
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:24
+  :genre: play
+  :keywords:
+  :cite-key: MGML:24
   :END:
 
 
@@ -1038,9 +1038,9 @@ AKBAR: Lord, I am also proud of my master, Tansen.
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:25
+  :genre: play
+  :keywords:
+  :cite-key: MGML:25
   :END:
 
 
@@ -1057,9 +1057,9 @@ AKBAR: Tansen, you are a great musician, but your sincerity is greater than your
 * Prajapati And His Three Students
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:26
+  :genre: play
+  :keywords:
+  :cite-key: MGML:26
   :END:
 
 
@@ -1067,9 +1067,9 @@ AKBAR: Tansen, you are a great musician, but your sincerity is greater than your
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:27e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:27e1
   :END:
 
 
@@ -1084,9 +1084,9 @@ A COSMIC GOD, A MAN, AN ASURA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:27
+  :genre: play
+  :keywords:
+  :cite-key: MGML:27
   :END:
 
 
@@ -1094,9 +1094,9 @@ A COSMIC GOD, A MAN, AN ASURA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:28
+  :genre: play
+  :keywords:
+  :cite-key: MGML:28
   :END:
 
 
@@ -1127,9 +1127,9 @@ PRAJAPATI: Indeed, that is a marvelous desire! /(To all.)/ I have three rooms he
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:29
+  :genre: play
+  :keywords:
+  :cite-key: MGML:29
   :END:
 
 
@@ -1146,9 +1146,9 @@ COSMIC GOD: I know I shall be able to illumine the whole world with my soul's Li
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:30
+  :genre: play
+  :keywords:
+  :cite-key: MGML:30
   :END:
 
 
@@ -1239,9 +1239,9 @@ THE THREE STUDENTS: We offer you our deepest gratitude, deepest love, deepest ad
 * I Am Fallen
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:31
+  :genre: play
+  :keywords:
+  :cite-key: MGML:31
   :END:
 
 
@@ -1249,9 +1249,9 @@ THE THREE STUDENTS: We offer you our deepest gratitude, deepest love, deepest ad
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MGML:32e1
+  :genre: note
+  :keywords:
+  :cite-key: MGML:32e1
   :END:
 
 
@@ -1268,9 +1268,9 @@ MINISTER
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:32
+  :genre: play
+  :keywords:
+  :cite-key: MGML:32
   :END:
 
 
@@ -1278,9 +1278,9 @@ MINISTER
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:33
+  :genre: play
+  :keywords:
+  :cite-key: MGML:33
   :END:
 
 
@@ -1313,9 +1313,9 @@ MASTER: Go and initiate the King and then come back to me. Let me see what I can
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:34
+  :genre: play
+  :keywords:
+  :cite-key: MGML:34
   :END:
 
 
@@ -1369,9 +1369,9 @@ Now towards the Eternal Dawn I march, I run towards the Eternal Dawn.]
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:35
+  :genre: play
+  :keywords:
+  :cite-key: MGML:35
   :END:
 
 
@@ -1404,9 +1404,9 @@ DISCIPLE: What you say is true. I am going. I shall walk along the street with t
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:36
+  :genre: play
+  :keywords:
+  :cite-key: MGML:36
   :END:
 
 
@@ -1441,9 +1441,9 @@ KING: Let his disciples be fatherless! He has made me an object of ridicule. He 
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:37
+  :genre: play
+  :keywords:
+  :cite-key: MGML:37
   :END:
 
 
@@ -1462,9 +1462,9 @@ DISCIPLE: How could you have kept silent? When your spiritual son does something
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:38
+  :genre: play
+  :keywords:
+  :cite-key: MGML:38
   :END:
 
 
@@ -1491,9 +1491,9 @@ KING /(to Minister):/ Bring me a large piece of paper. /(Minister brings the pap
 * Scene Vii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: MGML:39
+  :genre: play
+  :keywords:
+  :cite-key: MGML:39
   :END:
 
 

@@ -4,8 +4,8 @@
 
 
 * PREFACE
-:GENRE: PREFACE
-:KEYWORDS:
+:genre: PREFACE
+:keywords:
   :END:
 
 During the summer of 1976, Sri Chinmoy embarked on his forth European lecture tour. The talks that he delivered, and his answers to selected questions, have been collected into a three-part series, /My rose petals, parts 5 - 7/.
@@ -15,14 +15,14 @@ Lectures from Sri Chinmoy's earlier European tours have been published in /My ro
 
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0287
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: RP-6
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0287
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: RP-6
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -30,9 +30,9 @@ Lectures from Sri Chinmoy's earlier European tours have been published in /My ro
 * Fear and courage
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:351
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:351
   :END:
 
 
@@ -71,9 +71,9 @@ Then He tells us, "Children, don't be afraid of the known, don't be afraid of th
 * The cry and the smile
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:352
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:352
   :END:
 
 
@@ -124,9 +124,9 @@ God's Vision is the inner Cry to manifest His infinite Divinity. God's Reality i
 * Question: How can a sincere seeker distinguish a true teacher from an untrue teacher?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:353
+  :genre: qa
+  :keywords:
+  :cite-key: RP:353
   :END:
 
 
@@ -137,9 +137,9 @@ God's Vision is the inner Cry to manifest His infinite Divinity. God's Reality i
 * Question: I feel that there is a reality which is expressed through different religions, but I have read in the Upanishads that one must be able to transcend this reality. However, I find it very difficult.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:354
+  :genre: qa
+  :keywords:
+  :cite-key: RP:354
   :END:
 
 
@@ -150,9 +150,9 @@ God's Vision is the inner Cry to manifest His infinite Divinity. God's Reality i
 * Question: There are many different spiritual paths to reach the one Reality. What is the difference between these paths and do they all go to the same point?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:355
+  :genre: qa
+  :keywords:
+  :cite-key: RP:355
   :END:
 
 
@@ -165,9 +165,9 @@ But you have to know that some students are more advanced than others. Some will
 * Question: Who Determines The Capacities And Standards?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:356
+  :genre: qa
+  :keywords:
+  :cite-key: RP:356
   :END:
 
 
@@ -178,9 +178,9 @@ But you have to know that some students are more advanced than others. Some will
 * Question: Is there a way to increase the inner cry?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:357
+  :genre: qa
+  :keywords:
+  :cite-key: RP:357
   :END:
 
 
@@ -191,9 +191,9 @@ But you have to know that some students are more advanced than others. Some will
 * Question: How does one come to know which is one's /dharma?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:358
+  :genre: qa
+  :keywords:
+  :cite-key: RP:358
   :END:
 
 
@@ -204,9 +204,9 @@ But you have to know that some students are more advanced than others. Some will
 * Question: What Exactly Is Realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:359
+  :genre: qa
+  :keywords:
+  :cite-key: RP:359
   :END:
 
 
@@ -217,9 +217,9 @@ But you have to know that some students are more advanced than others. Some will
 * Question: What role does conscious will play in the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: RP:360
+  :genre: qa
+  :keywords:
+  :cite-key: RP:360
   :END:
 
 
@@ -241,9 +241,9 @@ Conscious will values time. It knows the necessity of time. Conscious will teach
 * The Third Eye
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:361
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:361
   :END:
 
 
@@ -286,9 +286,9 @@ The earthly eyes, the two human eyes, are side by side, but they cannot see each
 * Ignorance and knowledge
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:362
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:362
   :END:
 
 
@@ -326,9 +326,9 @@ Knowledge tells us something more. Divine knowledge tells us that the many and t
 * Ingratitude and gratitude
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:363
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:363
   :END:
 
 
@@ -365,9 +365,9 @@ The animal grows into the human by serving, the human grows into the divine by s
 * Satisfaction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:364
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:364
   :END:
 
 
@@ -422,9 +422,9 @@ How will we please God in His own way? There is only one way and that is through
 * Greatness and goodness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RP:365
+  :genre: discourse
+  :keywords:
+  :cite-key: RP:365
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0921
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PBPL
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0921
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: PBPL
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Mactan-Cebu International Airport...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:1
   :END:
 
 
@@ -63,9 +63,9 @@ I wish to offer my heart's very special gratitude to all those who serve this au
 * Rizal Memorial Library And Museum...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:2
   :END:
 
 
@@ -96,9 +96,9 @@ I am offering my heart of boundless gratitude to the Vice Mayor, the Curator, th
 * Davao International Airport...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:3
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:3
   :END:
 
 
@@ -123,9 +123,9 @@ Peace means happiness. This happiness comes when we see and feel the Infinite in
 * Mount Apo...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:4
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:4
   :END:
 
 
@@ -158,9 +158,9 @@ Once more to the Mayor of this beloved city I am offering my heart of gratitude 
 * Province Of Negros Oriental...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:5
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:5
   :END:
 
 
@@ -181,9 +181,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Press Conference At The Manila Hotel
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PBPL:6e1
+  :genre: section
+  :keywords:
+  :cite-key: PBPL:6e1
   :END:
 
 
@@ -191,9 +191,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: What Is The Purpose Of Your...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:6
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:6
   :END:
 
 
@@ -206,9 +206,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: As You Know, There Is An...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:7
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:7
   :END:
 
 
@@ -221,9 +221,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: We Understand You Are Going To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:8
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:8
   :END:
 
 
@@ -236,9 +236,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: Is Yours A Religion?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:9
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:9
   :END:
 
 
@@ -251,9 +251,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: Could You Tell Us Your Experience...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:10
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:10
   :END:
 
 
@@ -266,9 +266,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: What Is The Best Way Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:11
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:11
   :END:
 
 
@@ -281,9 +281,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: I Notice That You Have A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:12
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:12
   :END:
 
 
@@ -296,9 +296,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Press Conference At The Cebu Midtown Hotel
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PBPL:13e1
+  :genre: section
+  :keywords:
+  :cite-key: PBPL:13e1
   :END:
 
 
@@ -306,9 +306,9 @@ This is my prayer to the Heavenly Father for you, my dear friends, my sisters an
 * Question: To Be Able To Lift With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:13
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:13
   :END:
 
 
@@ -329,9 +329,9 @@ We pray and meditate so that we do not remain in the mind-reality, which is cons
 * Question: Would It Be Possible For Our...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:14
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:14
   :END:
 
 
@@ -352,9 +352,9 @@ On the other hand, if we do not do the right thing, then nothing good will ever 
 * Question: Do You Have A Message For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:15
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:15
   :END:
 
 
@@ -371,9 +371,9 @@ Right now the divine qualities that we have are not enough to make us absolutely
 * Television Interview At Davao International Airport
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PBPL:16e1
+  :genre: section
+  :keywords:
+  :cite-key: PBPL:16e1
   :END:
 
 
@@ -381,9 +381,9 @@ Right now the divine qualities that we have are not enough to make us absolutely
 * Interviewer: What Do You Hope Will Be...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:16
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:16
   :END:
 
 
@@ -398,9 +398,9 @@ Every day so many people are coming and going through this international Airport
 * Interviewer: What Is Your Message To The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:17
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:17
   :END:
 
 
@@ -415,9 +415,9 @@ My message to the people of Davao is the same: my heart of love, my heart of joy
 * Interviewer: Thank You Very Much, Sri Chinmoy....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:18
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:18
   :END:
 
 
@@ -430,9 +430,9 @@ My message to the people of Davao is the same: my heart of love, my heart of joy
 * Press Conferences At The South Seas Hotel
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PBPL:19e1
+  :genre: section
+  :keywords:
+  :cite-key: PBPL:19e1
   :END:
 
 
@@ -440,9 +440,9 @@ My message to the people of Davao is the same: my heart of love, my heart of joy
 * Question: Is This Your First Time In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:19
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:19
   :END:
 
 
@@ -457,9 +457,9 @@ God is inside you, inside me, inside everybody. No matter what you are, no matte
 * Question: Do You Notice Many Changes On...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:20
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:20
   :END:
 
 
@@ -482,9 +482,9 @@ Through your radio station, you are using your love properly. Because of your ra
 * Question: How Did You Start Your Crusade?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:21
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:21
   :END:
 
 
@@ -501,9 +501,9 @@ The great philosopher Socrates said, "I am not an Athenian; I am cosmopolitan." 
 * Question: Will You Be Joining Tomorrow's Peace...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:22
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:22
   :END:
 
 
@@ -520,9 +520,9 @@ We are seekers. As seekers, we will always try to do the right thing for humanit
 * Question: Do You Feel That War Is...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:23
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:23
   :END:
 
 
@@ -537,9 +537,9 @@ The animal propensities are still dominating us. If ninety per cent of the peopl
 * Question: Can You Give Us A Message...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: PBPL:24
+  :genre: qa
+  :keywords:
+  :cite-key: PBPL:24
   :END:
 
 
@@ -560,9 +560,9 @@ So in one sentence I can say that the simple life, the pure heart and the inquis
 * Millennium Man Of The Twenty-First Century Award
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: PBPL:25e1
+  :genre: section
+  :keywords:
+  :cite-key: PBPL:25e1
   :END:
 
 
@@ -570,9 +570,9 @@ So in one sentence I can say that the simple life, the pure heart and the inquis
 * The Title Of "Millenium Man Of The...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: PBPL:25
+  :genre: discourse
+  :keywords:
+  :cite-key: PBPL:25
   :END:
 
 

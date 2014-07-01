@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 723
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1986
-  :PUBLISHER:
-  :CITE-KEY: BGSB-1
-  :GENRE: song
+  :book-number: 723
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1986
+  :publisher:
+  :cite-key: BGSB-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BGSB:1e1
+  :genre: note
+  :cite-key: BGSB:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BGSB:1e2
+  :genre: note
+  :cite-key: BGSB:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Satya Satya Ke Jane Mitthya Mitthya Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:1
+  :cite-key: BGSB:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Mithya mithya ke jante chaina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:2
+  :cite-key: BGSB:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ Falsehood cares not to know falsehood.
 * Truth Knows Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:3
+  :cite-key: BGSB:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Falsehood cares not to know
 * Amar Jiban Taru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:4
+  :cite-key: BGSB:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Prashphutibe achire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:5
+  :cite-key: BGSB:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ My life-tree will blossom soon.
 * My Life-Tree
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:6
+  :cite-key: BGSB:6
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ Will blossom soon.
 * Sanga Habe Sanga Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:7
+  :cite-key: BGSB:7
   :END:
 
 #+BEGIN_VERSE
@@ -157,10 +157,10 @@ Jiban maran khela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:8
+  :cite-key: BGSB:8
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Will end life and death game.
 * Will End Life and Death Game
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:9
+  :cite-key: BGSB:9
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Will end life and death game.
 * Nahi Jani Nahi Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:10
+  :cite-key: BGSB:10
   :END:
 
 #+BEGIN_VERSE
@@ -205,10 +205,10 @@ Keno ami esechhi dharai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:11
+  :cite-key: BGSB:11
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ Why I have come into the world.
 * I Know Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:12
+  :cite-key: BGSB:12
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ Why I have come into the world.
 * Tomar Khama Amar Hiyar Naba Jagaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:13
+  :cite-key: BGSB:13
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Naba jagaran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:14
+  :cite-key: BGSB:14
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ My heart’s new awakening.
 * Your Forgiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:15
+  :cite-key: BGSB:15
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ My heart’s new awakening.
 * Urdhe Amar Jete Habe Pratikkhane Urdhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:16
+  :cite-key: BGSB:16
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Pratikkhane urdhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:17
+  :cite-key: BGSB:17
   :END:
 
 #+BEGIN_VERSE
@@ -321,10 +321,10 @@ High I must proceed sleeplessly.
 * High I Must Proceed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:18
+  :cite-key: BGSB:18
   :END:
 
 #+BEGIN_VERSE
@@ -338,10 +338,10 @@ High I must proceed      
 * Michha Asha Shudhu Sathi Dibarati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:19
+  :cite-key: BGSB:19
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ Michha asha shudhu sathi dibarati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:20
+  :cite-key: BGSB:20
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ All day and night.
 * A False Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:21
+  :cite-key: BGSB:21
   :END:
 
 #+BEGIN_VERSE
@@ -388,10 +388,10 @@ All day and night.
 * Priyatama Tomar Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:22
+  :cite-key: BGSB:22
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ Rekhechhi khuliya hiya duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:23
+  :cite-key: BGSB:23
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ My heart open.
 * Beloved, for You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:24
+  :cite-key: BGSB:24
   :END:
 
 #+BEGIN_VERSE
@@ -439,10 +439,10 @@ My heart open.
 * Dibanishi Kandi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:25
+  :cite-key: BGSB:25
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Nirabatar lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:26
+  :cite-key: BGSB:26
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ For silence.
 * Day and Night I Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:27
+  :cite-key: BGSB:27
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ For silence.
 * Maran Sathe Habe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:28
+  :cite-key: BGSB:28
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Shanti alapan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:29
+  :cite-key: BGSB:29
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ My peace talk.
 * My Peace Talk
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:30
+  :cite-key: BGSB:30
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ My peace talk.
 * Eshana Khudha Thakle Hiyai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:31
+  :cite-key: BGSB:31
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ Priyatame pabe go pabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:32
+  :cite-key: BGSB:32
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Your Beloved you will have.
 * Longing Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:33
+  :cite-key: BGSB:33
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Your Beloved you will have.
 * Asha Pakhi Sathe Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:34
+  :cite-key: BGSB:34
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Hiyar nabhe uri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:35
+  :cite-key: BGSB:35
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ In my heart-sky I fly.
 * With the Hope-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:36
+  :cite-key: BGSB:36
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ In my heart-sky
 * Dibo Aji Saral Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:37
+  :cite-key: BGSB:37
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ Tomai amar hiyar akulata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:38
+  :cite-key: BGSB:38
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ I shall offer You my eagerness.
 * With My Sincerity-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:39
+  :cite-key: BGSB:39
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ I shall offer You my eagerness.
 * Bhalobasi Ami Paran Bhariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:40
+  :cite-key: BGSB:40
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Taba kripa pada dhuli
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:41
+  :cite-key: BGSB:41
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Of Your Compassion-Feet.
 * With All My Heart I Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:42
+  :cite-key: BGSB:42
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Of Your Compassion-Feet.
 * Hriday Gabhire Kandibo Hasibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:43
+  :cite-key: BGSB:43
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Kebal hriday gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:44
+  :cite-key: BGSB:44
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Only in the depths of my heart.
 * In the Depths of My Heart I Shall Cry Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:45
+  :cite-key: BGSB:45
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ In the depths of my heart.
 * Bhangte Habe Mukti Lagi Moher Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:46
+  :cite-key: BGSB:46
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Moher bandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:47
+  :cite-key: BGSB:47
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ Attachment-chain for liberation.
 * Break Asunder I Must
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:48
+  :cite-key: BGSB:48
   :END:
 
 #+BEGIN_VERSE
@@ -845,10 +845,10 @@ For liberation.
 * Bhakti Bina Mukti Nahi Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:49
+  :cite-key: BGSB:49
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Bhakti bina mukti nahi pabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:50
+  :cite-key: BGSB:50
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ No liberation for you without devotion.
 * No Liberation for You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:51
+  :cite-key: BGSB:51
   :END:
 
 #+BEGIN_VERSE
@@ -893,10 +893,10 @@ Without devotion.
 * Amita Bhakati Bhitare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:52
+  :cite-key: BGSB:52
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ Amita shakati bahire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:53
+  :cite-key: BGSB:53
   :END:
 
 #+BEGIN_VERSE
@@ -926,10 +926,10 @@ Infinite power without.
 * Infinite Devotion Within
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:54
+  :cite-key: BGSB:54
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ Infinite power without.
 * Kandte Bhalo Lagena Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:55
+  :cite-key: BGSB:55
   :END:
 
 #+BEGIN_VERSE
@@ -959,10 +959,10 @@ Haste shudhu bhalo lage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:56
+  :cite-key: BGSB:56
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ I only like to smile.
 * I Never Like to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:57
+  :cite-key: BGSB:57
   :END:
 
 #+BEGIN_VERSE
@@ -993,10 +993,10 @@ I only like to smile.
 * Manush Haye O
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:58
+  :cite-key: BGSB:58
   :END:
 
 #+BEGIN_VERSE
@@ -1010,10 +1010,10 @@ Sadhana jahar nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:59
+  :cite-key: BGSB:59
   :END:
 
 #+BEGIN_VERSE
@@ -1028,10 +1028,10 @@ Therefore, he is an animal.
 * No Inner Life He Has
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:60
+  :cite-key: BGSB:60
   :END:
 
 #+BEGIN_VERSE
@@ -1046,10 +1046,10 @@ Therefore, he is an animal.
 * Urdhe Uthite Chahi Ami Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:61
+  :cite-key: BGSB:61
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Nimne namite chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:62
+  :cite-key: BGSB:62
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ Descent I want not.
 * I Want Only to Ascend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:63
+  :cite-key: BGSB:63
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ Descent I want not.
 * Nutaner Dake Puratane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:64
+  :cite-key: BGSB:64
   :END:
 
 #+BEGIN_VERSE
@@ -1111,10 +1111,10 @@ Nutaner dake puratane chhere jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:65
+  :cite-key: BGSB:65
   :END:
 
 #+BEGIN_VERSE
@@ -1129,10 +1129,10 @@ For the new.
 * When the New Life Beckons
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:66
+  :cite-key: BGSB:66
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ For the new.
 * Ebar Ami Hiya Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:67
+  :cite-key: BGSB:67
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Hese hese neche neche jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:68
+  :cite-key: BGSB:68
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ Into my heart-city this time.
 * Smiling and Dancing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:69
+  :cite-key: BGSB:69
   :END:
 
 #+BEGIN_VERSE
@@ -1198,10 +1198,10 @@ I shall enter into my heart-city
 * Jante Chahi Manash Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:70
+  :cite-key: BGSB:70
   :END:
 
 #+BEGIN_VERSE
@@ -1214,10 +1214,10 @@ Shikhte chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:71
+  :cite-key: BGSB:71
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ But does not want to learn.
 * My Mind Wants to Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:72
+  :cite-key: BGSB:72
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ But does not want to learn.
 * Esechho Jakhan Paran Bariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:73
+  :cite-key: BGSB:73
   :END:
 
 #+BEGIN_VERSE
@@ -1264,10 +1264,10 @@ Laho laho more prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:74
+  :cite-key: BGSB:74
   :END:
 
 #+BEGIN_VERSE
@@ -1281,10 +1281,10 @@ Do accept me with all Your Heart.
 * Since You Have Come, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:75
+  :cite-key: BGSB:75
   :END:
 
 #+BEGIN_VERSE
@@ -1298,10 +1298,10 @@ Do accept me with all Your Heart.
 * Ashar Bihane Kemane Rahibo Benche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:76
+  :cite-key: BGSB:76
   :END:
 
 #+BEGIN_VERSE
@@ -1314,10 +1314,10 @@ Rahibo benche
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:77
+  :cite-key: BGSB:77
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ How can I live without hope?
 * How Can I Live Without Hope?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:78
+  :cite-key: BGSB:78
   :END:
 
 #+BEGIN_VERSE
@@ -1346,10 +1346,10 @@ How can I live without hope?
 * Chahi Shudhu Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:79
+  :cite-key: BGSB:79
   :END:
 
 #+BEGIN_VERSE
@@ -1362,10 +1362,10 @@ Khudra amire nashite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:80
+  :cite-key: BGSB:80
   :END:
 
 #+BEGIN_VERSE
@@ -1379,10 +1379,10 @@ Want to destroy.
 * My Little Self
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:81
+  :cite-key: BGSB:81
   :END:
 
 #+BEGIN_VERSE
@@ -1397,10 +1397,10 @@ To destroy.
 * Tomai Kebal Bhalobasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:82
+  :cite-key: BGSB:82
   :END:
 
 #+BEGIN_VERSE
@@ -1413,10 +1413,10 @@ Ei je amar parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:83
+  :cite-key: BGSB:83
   :END:
 
 #+BEGIN_VERSE
@@ -1430,10 +1430,10 @@ This is my qualification.
 * I Love You Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:84
+  :cite-key: BGSB:84
   :END:
 
 #+BEGIN_VERSE
@@ -1447,10 +1447,10 @@ This is my qualification.
 * Kandte Habe Kandte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:85
+  :cite-key: BGSB:85
   :END:
 
 #+BEGIN_VERSE
@@ -1463,10 +1463,10 @@ Agyanatar binash lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:86
+  :cite-key: BGSB:86
   :END:
 
 #+BEGIN_VERSE
@@ -1480,10 +1480,10 @@ To end the life of ignorance.
 * I Must Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:87
+  :cite-key: BGSB:87
   :END:
 
 #+BEGIN_VERSE
@@ -1497,10 +1497,10 @@ To end the life of ignorance.
 * Chinta Roge Pratikkhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:88
+  :cite-key: BGSB:88
   :END:
 
 #+BEGIN_VERSE
@@ -1513,10 +1513,10 @@ Durbal abar man
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:89
+  :cite-key: BGSB:89
   :END:
 
 #+BEGIN_VERSE
@@ -1531,10 +1531,10 @@ My mind has become feeble.
 * Attacked by Thought-Disease
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:90
+  :cite-key: BGSB:90
   :END:
 
 #+BEGIN_VERSE
@@ -1549,10 +1549,10 @@ My mind has become feeble.
 * Karatale Rupar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:91
+  :cite-key: BGSB:91
   :END:
 
 #+BEGIN_VERSE
@@ -1565,10 +1565,10 @@ Kabhu karona nirbhar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:92
+  :cite-key: BGSB:92
   :END:
 
 #+BEGIN_VERSE
@@ -1581,10 +1581,10 @@ Never depend on applause.
 * Never Depend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:93
+  :cite-key: BGSB:93
   :END:
 
 #+BEGIN_VERSE
@@ -1598,10 +1598,10 @@ On applause.
 * Amar Basana Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:94
+  :cite-key: BGSB:94
   :END:
 
 #+BEGIN_VERSE
@@ -1614,10 +1614,10 @@ Nahe kabhu bishwa pitar joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:95
+  :cite-key: BGSB:95
   :END:
 
 #+BEGIN_VERSE
@@ -1631,10 +1631,10 @@ The Victory of the World-Father.
 * My Desire-Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:96
+  :cite-key: BGSB:96
   :END:
 
 #+BEGIN_VERSE
@@ -1648,10 +1648,10 @@ The Victory of the World-Father.
 * Anugata Sebak Haye Karbo Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:97
+  :cite-key: BGSB:97
   :END:
 
 #+BEGIN_VERSE
@@ -1664,10 +1664,10 @@ Prabhu hriday joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:98
+  :cite-key: BGSB:98
   :END:
 
 #+BEGIN_VERSE
@@ -1681,10 +1681,10 @@ To conquer my Lord’s Heart.
 * Today I Shall Become a Devoted Server
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:99
+  :cite-key: BGSB:99
   :END:
 
 #+BEGIN_VERSE
@@ -1699,10 +1699,10 @@ To conquer my Lord’s Heart.
 * Nahi Pari Karte Daman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:100
+  :cite-key: BGSB:100
   :END:
 
 #+BEGIN_VERSE
@@ -1715,10 +1715,10 @@ Amar chapal pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:101
+  :cite-key: BGSB:101
   :END:
 
 #+BEGIN_VERSE
@@ -1732,10 +1732,10 @@ My restless vital.
 * My Restless Vital
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:102
+  :cite-key: BGSB:102
   :END:
 
 #+BEGIN_VERSE
@@ -1749,10 +1749,10 @@ My restless vital.
 * Khunji Dasha Dishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:103
+  :cite-key: BGSB:103
   :END:
 
 #+BEGIN_VERSE
@@ -1766,10 +1766,10 @@ Amar birat amire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:104
+  :cite-key: BGSB:104
   :END:
 
 #+BEGIN_VERSE
@@ -1784,10 +1784,10 @@ For my universal existence-life.
 * I Look Around
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:105
+  :cite-key: BGSB:105
   :END:
 
 #+BEGIN_VERSE
@@ -1802,10 +1802,10 @@ For my universal existence-life.
 * Ami Amar Khudha Shikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:106
+  :cite-key: BGSB:106
   :END:
 
 #+BEGIN_VERSE
@@ -1818,10 +1818,10 @@ Tumi tomar kripar rabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:107
+  :cite-key: BGSB:107
   :END:
 
 #+BEGIN_VERSE
@@ -1835,10 +1835,10 @@ You are Your Compassion-Sun.
 * I Am My Hunger-Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:108
+  :cite-key: BGSB:108
   :END:
 
 #+BEGIN_VERSE
@@ -1852,10 +1852,10 @@ You are Your Compassion-Sun.
 * Chander Hasi Andhar Nashi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:109
+  :cite-key: BGSB:109
   :END:
 
 #+BEGIN_VERSE
@@ -1868,10 +1868,10 @@ Pran gabhire dilo aji dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:110
+  :cite-key: BGSB:110
   :END:
 
 #+BEGIN_VERSE
@@ -1886,10 +1886,10 @@ And is now in full appearance.
 * The Smile of the Moon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:111
+  :cite-key: BGSB:111
   :END:
 
 #+BEGIN_VERSE
@@ -1904,10 +1904,10 @@ And is now in full appearance.
 * Urte Chahi Pakhir Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:112
+  :cite-key: BGSB:112
   :END:
 
 #+BEGIN_VERSE
@@ -1921,10 +1921,10 @@ Bajte chahi banshir mato
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:113
+  :cite-key: BGSB:113
   :END:
 
 #+BEGIN_VERSE
@@ -1939,10 +1939,10 @@ Like a flute I wish to play music.
 * Like a Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:114
+  :cite-key: BGSB:114
   :END:
 
 #+BEGIN_VERSE
@@ -1957,10 +1957,10 @@ Like a flute I wish to play music.
 * Khulte Habe Hiyar Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:115
+  :cite-key: BGSB:115
   :END:
 
 #+BEGIN_VERSE
@@ -1973,10 +1973,10 @@ Sabar lagi khulte habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:116
+  :cite-key: BGSB:116
   :END:
 
 #+BEGIN_VERSE
@@ -1990,10 +1990,10 @@ I must open.
 * To All I Must Open
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:117
+  :cite-key: BGSB:117
   :END:
 
 #+BEGIN_VERSE
@@ -2008,10 +2008,10 @@ I must open.
 * Asha Ane Shanti Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:118
+  :cite-key: BGSB:118
   :END:
 
 #+BEGIN_VERSE
@@ -2024,10 +2024,10 @@ Amar lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:119
+  :cite-key: BGSB:119
   :END:
 
 #+BEGIN_VERSE
@@ -2040,10 +2040,10 @@ For me, hope brings a sea of peace.
 * For Me, Hope Brings
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:120
+  :cite-key: BGSB:120
   :END:
 
 #+BEGIN_VERSE
@@ -2057,10 +2057,10 @@ A sea of peace.
 * Biraher Giti Gahibar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:121
+  :cite-key: BGSB:121
   :END:
 
 #+BEGIN_VERSE
@@ -2073,10 +2073,10 @@ Asi nai dharanite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:122
+  :cite-key: BGSB:122
   :END:
 
 #+BEGIN_VERSE
@@ -2090,10 +2090,10 @@ To sing the separation-song.
 * The Separation-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:123
+  :cite-key: BGSB:123
   :END:
 
 #+BEGIN_VERSE
@@ -2107,10 +2107,10 @@ To sing the separation-song.
 * Haste Chahi Nachte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:124
+  :cite-key: BGSB:124
   :END:
 
 #+BEGIN_VERSE
@@ -2123,10 +2123,10 @@ Birer mato maran rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:125
+  :cite-key: BGSB:125
   :END:
 
 #+BEGIN_VERSE
@@ -2141,10 +2141,10 @@ When death-night arrives.
 * Like a Hero
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:126
+  :cite-key: BGSB:126
   :END:
 
 #+BEGIN_VERSE
@@ -2159,10 +2159,10 @@ When death-night arrives.
 * Kanurai Dao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:127
+  :cite-key: BGSB:127
   :END:
 
 #+BEGIN_VERSE
@@ -2174,10 +2174,10 @@ Kanurai dao more taba pade thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:128
+  :cite-key: BGSB:128
   :END:
 
 #+BEGIN_VERSE
@@ -2191,10 +2191,10 @@ Give me shelter at Your Haven-Feet.
 * My Lord Krishna, Give Me Shelter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:129
+  :cite-key: BGSB:129
   :END:
 
 #+BEGIN_VERSE
@@ -2209,10 +2209,10 @@ At Your Haven-Feet.
 * Kandte Chahi Bhore Sanjhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:130
+  :cite-key: BGSB:130
   :END:
 
 #+BEGIN_VERSE
@@ -2225,10 +2225,10 @@ Kebal tomar lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:131
+  :cite-key: BGSB:131
   :END:
 
 #+BEGIN_VERSE
@@ -2242,10 +2242,10 @@ And in the eve only for You.
 * I Want to Cry in the Morn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:132
+  :cite-key: BGSB:132
   :END:
 
 #+BEGIN_VERSE
@@ -2261,10 +2261,10 @@ Only for You.
 * Ek Nimeshe Bhangbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:133
+  :cite-key: BGSB:133
   :END:
 
 #+BEGIN_VERSE
@@ -2277,10 +2277,10 @@ Badhar bandhan moher shashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:134
+  :cite-key: BGSB:134
   :END:
 
 #+BEGIN_VERSE
@@ -2295,10 +2295,10 @@ And attachment-dominion.
 * In a Twinkling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:135
+  :cite-key: BGSB:135
   :END:
 
 #+BEGIN_VERSE
@@ -2313,10 +2313,10 @@ And attachment-dominion.
 * Swarga Duar Khulte Habe Martya Chabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:136
+  :cite-key: BGSB:136
   :END:
 
 #+BEGIN_VERSE
@@ -2329,10 +2329,10 @@ Martya chabi diye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:137
+  :cite-key: BGSB:137
   :END:
 
 #+BEGIN_VERSE
@@ -2346,10 +2346,10 @@ With the earth-key.
 * Heaven’s Door
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:138
+  :cite-key: BGSB:138
   :END:
 
 #+BEGIN_VERSE
@@ -2363,10 +2363,10 @@ With the earth-key.
 * Sara Jiban Chalte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:139
+  :cite-key: BGSB:139
   :END:
 
 #+BEGIN_VERSE
@@ -2379,10 +2379,10 @@ Ashar sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:140
+  :cite-key: BGSB:140
   :END:
 
 #+BEGIN_VERSE
@@ -2396,10 +2396,10 @@ All my life.
 * I Must Accompany Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:141
+  :cite-key: BGSB:141
   :END:
 
 #+BEGIN_VERSE
@@ -2413,10 +2413,10 @@ I must accompany hope
 * Khulibona Ar Basana Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:142
+  :cite-key: BGSB:142
   :END:
 
 #+BEGIN_VERSE
@@ -2429,10 +2429,10 @@ Khulibona kabhu ar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:143
+  :cite-key: BGSB:143
   :END:
 
 #+BEGIN_VERSE
@@ -2446,10 +2446,10 @@ I shall no more open.
 * I Shall No More Open
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:144
+  :cite-key: BGSB:144
   :END:
 
 #+BEGIN_VERSE
@@ -2464,10 +2464,10 @@ I shall no more open.
 * Kandbo Ami Pran Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:145
+  :cite-key: BGSB:145
   :END:
 
 #+BEGIN_VERSE
@@ -2480,10 +2480,10 @@ Hasbo ami sabar duare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:146
+  :cite-key: BGSB:146
   :END:
 
 #+BEGIN_VERSE
@@ -2497,10 +2497,10 @@ I shall stand and smile at every door.
 * I Shall Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:147
+  :cite-key: BGSB:147
   :END:
 
 #+BEGIN_VERSE
@@ -2514,10 +2514,10 @@ I shall stand and smile at every door.
 * Sabar Hasi Dekhte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:148
+  :cite-key: BGSB:148
   :END:
 
 #+BEGIN_VERSE
@@ -2530,10 +2530,10 @@ Amar hasir age
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:149
+  :cite-key: BGSB:149
   :END:
 
 #+BEGIN_VERSE
@@ -2547,10 +2547,10 @@ I long to see everybody smile.
 * Before I Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:150
+  :cite-key: BGSB:150
   :END:
 
 #+BEGIN_VERSE
@@ -2564,10 +2564,10 @@ I long to see everybody smile.
 * Kothai Amar Hiyar Ratan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:151
+  :cite-key: BGSB:151
   :END:
 
 #+BEGIN_VERSE
@@ -2580,10 +2580,10 @@ Kothai bhagaban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:152
+  :cite-key: BGSB:152
   :END:
 
 #+BEGIN_VERSE
@@ -2597,10 +2597,10 @@ Where is my Lord Supreme?
 * Where Is My Heart’s Wealth?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:153
+  :cite-key: BGSB:153
   :END:
 
 #+BEGIN_VERSE
@@ -2614,10 +2614,10 @@ Where is my Lord Supreme?
 * Dub Debe Mor Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:154
+  :cite-key: BGSB:154
   :END:
 
 #+BEGIN_VERSE
@@ -2630,10 +2630,10 @@ Dub debe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:155
+  :cite-key: BGSB:155
   :END:
 
 #+BEGIN_VERSE
@@ -2647,10 +2647,10 @@ My mind shall dive.
 * My Mind Shall Dive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:156
+  :cite-key: BGSB:156
   :END:
 
 #+BEGIN_VERSE
@@ -2664,10 +2664,10 @@ My mind shall dive.
 * Atal Tale Nahi Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:157
+  :cite-key: BGSB:157
   :END:
 
 #+BEGIN_VERSE
@@ -2680,10 +2680,10 @@ Atal tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:158
+  :cite-key: BGSB:158
   :END:
 
 #+BEGIN_VERSE
@@ -2697,10 +2697,10 @@ In measureless depth.
 * In Measureless Depth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:159
+  :cite-key: BGSB:159
   :END:
 
 #+BEGIN_VERSE
@@ -2715,10 +2715,10 @@ In measureless depth.
 * Satyam Shivam Sundaram
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:160
+  :cite-key: BGSB:160
   :END:
 
 #+BEGIN_VERSE
@@ -2731,10 +2731,10 @@ Asimer ananda fuara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:161
+  :cite-key: BGSB:161
   :END:
 
 #+BEGIN_VERSE
@@ -2748,10 +2748,10 @@ The fountain-delight of the Infinite.
 * Truth, Benevolence, Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:162
+  :cite-key: BGSB:162
   :END:
 
 #+BEGIN_VERSE
@@ -2765,10 +2765,10 @@ The fountain-delight of the Infinite.
 * Ananda Diye Jagabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:163
+  :cite-key: BGSB:163
   :END:
 
 #+BEGIN_VERSE
@@ -2780,10 +2780,10 @@ Ananda diye jagabo supta jibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:164
+  :cite-key: BGSB:164
   :END:
 
 #+BEGIN_VERSE
@@ -2797,10 +2797,10 @@ The sleeping souls.
 * Offering Delight I Shall Awaken
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:165
+  :cite-key: BGSB:165
   :END:
 
 #+BEGIN_VERSE
@@ -2814,10 +2814,10 @@ The sleeping souls.
 * Kato Dure Ogo Kato Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:166
+  :cite-key: BGSB:166
   :END:
 
 #+BEGIN_VERSE
@@ -2830,10 +2830,10 @@ Tomar bishwa rup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:167
+  :cite-key: BGSB:167
   :END:
 
 #+BEGIN_VERSE
@@ -2847,10 +2847,10 @@ Universal Form?
 * How Far, How Far?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:168
+  :cite-key: BGSB:168
   :END:
 
 #+BEGIN_VERSE
@@ -2864,10 +2864,10 @@ Is Your Universal Form?
 * Sakaler Prane Jagichhe Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:169
+  :cite-key: BGSB:169
   :END:
 
 #+BEGIN_VERSE
@@ -2880,10 +2880,10 @@ Amar sadhaka pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:170
+  :cite-key: BGSB:170
   :END:
 
 #+BEGIN_VERSE
@@ -2897,10 +2897,10 @@ Is blossoming today.
 * In All Hearts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:171
+  :cite-key: BGSB:171
   :END:
 
 #+BEGIN_VERSE
@@ -2914,10 +2914,10 @@ Is blossoming today.
 * Maraner Aji Haibe Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:172
+  :cite-key: BGSB:172
   :END:
 
 #+BEGIN_VERSE
@@ -2930,10 +2930,10 @@ Jani aji taha jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:173
+  :cite-key: BGSB:173
   :END:
 
 #+BEGIN_VERSE
@@ -2947,10 +2947,10 @@ Today I know.
 * Death Will Die
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:174
+  :cite-key: BGSB:174
   :END:
 
 #+BEGIN_VERSE
@@ -2965,10 +2965,10 @@ Today I know.
 * Ogo Prashanta Ogo Ananta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:175
+  :cite-key: BGSB:175
   :END:
 
 #+BEGIN_VERSE
@@ -2981,10 +2981,10 @@ Jago aji prane jago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:176
+  :cite-key: BGSB:176
   :END:
 
 #+BEGIN_VERSE
@@ -3000,10 +3000,10 @@ Within my heart today.
 * O Depths Unmeasured
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:177
+  :cite-key: BGSB:177
   :END:
 
 #+BEGIN_VERSE
@@ -3019,10 +3019,10 @@ Within my heart today.
 * Satyamoyi Shanti Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:178
+  :cite-key: BGSB:178
   :END:
 
 #+BEGIN_VERSE
@@ -3035,10 +3035,10 @@ Dur karo mor sakal chaowa khudha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:179
+  :cite-key: BGSB:179
   :END:
 
 #+BEGIN_VERSE
@@ -3052,10 +3052,10 @@ Cast aside my all-desire-hunger.
 * O Truth-Flooded Silence-Nectar-Delight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:180
+  :cite-key: BGSB:180
   :END:
 
 #+BEGIN_VERSE
@@ -3069,10 +3069,10 @@ Cast aside my all-desire-hunger.
 * Kothai Maran Kothai Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:181
+  :cite-key: BGSB:181
   :END:
 
 #+BEGIN_VERSE
@@ -3085,10 +3085,10 @@ Nitya naba dibya jiban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:182
+  :cite-key: BGSB:182
   :END:
 
 #+BEGIN_VERSE
@@ -3102,10 +3102,10 @@ Every day a new life.
 * Where Is Death?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:183
+  :cite-key: BGSB:183
   :END:
 
 #+BEGIN_VERSE
@@ -3119,10 +3119,10 @@ Every day a new life.
 * Shanti Dekha Pete Habe Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:184
+  :cite-key: BGSB:184
   :END:
 
 #+BEGIN_VERSE
@@ -3135,10 +3135,10 @@ E bishal dharanite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:185
+  :cite-key: BGSB:185
   :END:
 
 #+BEGIN_VERSE
@@ -3152,10 +3152,10 @@ With the Peace Goddess.
 * In this Vast World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:186
+  :cite-key: BGSB:186
   :END:
 
 #+BEGIN_VERSE
@@ -3169,10 +3169,10 @@ With the Peace Goddess.
 * Shantir Dekha Nahi Pabe Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:187
+  :cite-key: BGSB:187
   :END:
 
 #+BEGIN_VERSE
@@ -3185,10 +3185,10 @@ Atmagyaner age
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:188
+  :cite-key: BGSB:188
   :END:
 
 #+BEGIN_VERSE
@@ -3202,10 +3202,10 @@ Before self-knowledge is won.
 * Peace Cannot Be Found
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:189
+  :cite-key: BGSB:189
   :END:
 
 #+BEGIN_VERSE
@@ -3219,10 +3219,10 @@ Before self-knowledge is won.
 * Kripa Name Akarane Kripa Sada Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:190
+  :cite-key: BGSB:190
   :END:
 
 #+BEGIN_VERSE
@@ -3235,10 +3235,10 @@ Kripa sada name
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:191
+  :cite-key: BGSB:191
   :END:
 
 #+BEGIN_VERSE
@@ -3252,10 +3252,10 @@ Compassion descends.
 * Compassion Descends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:192
+  :cite-key: BGSB:192
   :END:
 
 #+BEGIN_VERSE
@@ -3270,10 +3270,10 @@ Compassion descends.
 * Alor Pakhi Balte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:193
+  :cite-key: BGSB:193
   :END:
 
 #+BEGIN_VERSE
@@ -3286,10 +3286,10 @@ Kon sudure thako
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:194
+  :cite-key: BGSB:194
   :END:
 
 #+BEGIN_VERSE
@@ -3305,10 +3305,10 @@ In which remotest land
 * O Bird of Light, You Must Tell Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:195
+  :cite-key: BGSB:195
   :END:
 
 #+BEGIN_VERSE
@@ -3324,10 +3324,10 @@ In which remotest land
 * Naba Rupe Asi Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:196
+  :cite-key: BGSB:196
   :END:
 
 #+BEGIN_VERSE
@@ -3340,10 +3340,10 @@ Naba prabhu kripa ghare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:197
+  :cite-key: BGSB:197
   :END:
 
 #+BEGIN_VERSE
@@ -3358,10 +3358,10 @@ We come back to earth-homes.
 * With New Forms
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:198
+  :cite-key: BGSB:198
   :END:
 
 #+BEGIN_VERSE
@@ -3376,10 +3376,10 @@ We come back to earth-homes.
 * Egiye Chalo Egiye Chalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:199
+  :cite-key: BGSB:199
   :END:
 
 #+BEGIN_VERSE
@@ -3392,10 +3392,10 @@ Asimatar jatri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:200
+  :cite-key: BGSB:200
   :END:
 
 #+BEGIN_VERSE
@@ -3409,10 +3409,10 @@ O pilgrim-souls of Eternity.
 * On You Proceed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:201
+  :cite-key: BGSB:201
   :END:
 
 #+BEGIN_VERSE
@@ -3426,10 +3426,10 @@ O pilgrim-souls of Eternity.
 * Alor Pathe Ratri Rabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:202
+  :cite-key: BGSB:202
   :END:
 
 #+BEGIN_VERSE
@@ -3442,10 +3442,10 @@ Dure bahu dure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:203
+  :cite-key: BGSB:203
   :END:
 
 #+BEGIN_VERSE
@@ -3459,10 +3459,10 @@ From the light-flooded road.
 * Night Remains Far Away
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:204
+  :cite-key: BGSB:204
   :END:
 
 #+BEGIN_VERSE
@@ -3476,10 +3476,10 @@ Far away from the light-flooded road.
 * E Bishal Dhara Pabe Ki Go Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:205
+  :cite-key: BGSB:205
   :END:
 
 #+BEGIN_VERSE
@@ -3492,10 +3492,10 @@ Shantir darashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:206
+  :cite-key: BGSB:206
   :END:
 
 #+BEGIN_VERSE
@@ -3509,10 +3509,10 @@ Silence-peace?
 * This Vast World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:207
+  :cite-key: BGSB:207
   :END:
 
 #+BEGIN_VERSE
@@ -3526,10 +3526,10 @@ Silence-peace?
 * Swarge Hate Dibanishi Kripa Name Akaran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:208
+  :cite-key: BGSB:208
   :END:
 
 #+BEGIN_VERSE
@@ -3542,10 +3542,10 @@ Kripa name akaran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:209
+  :cite-key: BGSB:209
   :END:
 
 #+BEGIN_VERSE
@@ -3559,10 +3559,10 @@ Day and night from Heaven.
 * Unconditionally Compassion Descends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:210
+  :cite-key: BGSB:210
   :END:
 
 #+BEGIN_VERSE
@@ -3576,10 +3576,10 @@ Day and night from Heaven.
 * Alor Pakhi Keno Thako
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:211
+  :cite-key: BGSB:211
   :END:
 
 #+BEGIN_VERSE
@@ -3592,10 +3592,10 @@ Ankhi dhaki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:212
+  :cite-key: BGSB:212
   :END:
 
 #+BEGIN_VERSE
@@ -3609,10 +3609,10 @@ Your eyes closed?
 * O Bird of Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:213
+  :cite-key: BGSB:213
   :END:
 
 #+BEGIN_VERSE
@@ -3626,10 +3626,10 @@ Why do you keep your eyes closed?
 * Maran Nahe Anya Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:214
+  :cite-key: BGSB:214
   :END:
 
 #+BEGIN_VERSE
@@ -3642,10 +3642,10 @@ Gopan bicharan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:215
+  :cite-key: BGSB:215
   :END:
 
 #+BEGIN_VERSE
@@ -3660,10 +3660,10 @@ In a different clime.
 * No Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:216
+  :cite-key: BGSB:216
   :END:
 
 #+BEGIN_VERSE
@@ -3678,10 +3678,10 @@ In a different clime.
 * Naba Rupe Naba Dehe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:217
+  :cite-key: BGSB:217
   :END:
 
 #+BEGIN_VERSE
@@ -3694,10 +3694,10 @@ Dharanite ami asi phire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:218
+  :cite-key: BGSB:218
   :END:
 
 #+BEGIN_VERSE
@@ -3711,10 +3711,10 @@ Into the world I come.
 * With a New Form
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:219
+  :cite-key: BGSB:219
   :END:
 
 #+BEGIN_VERSE
@@ -3729,10 +3729,10 @@ Into the world I come.
 * Egiye Chalo Egiye Chalo Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:220
+  :cite-key: BGSB:220
   :END:
 
 #+BEGIN_VERSE
@@ -3745,10 +3745,10 @@ Usha rathe nai je kothai ratri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:221
+  :cite-key: BGSB:221
   :END:
 
 #+BEGIN_VERSE
@@ -3763,10 +3763,10 @@ Darkness nowhere.
 * On You Proceed, On You Proceed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:222
+  :cite-key: BGSB:222
   :END:
 
 #+BEGIN_VERSE
@@ -3782,10 +3782,10 @@ Darkness nowhere.
 * Shikhte Habe Shikhte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:223
+  :cite-key: BGSB:223
   :END:
 
 #+BEGIN_VERSE
@@ -3798,10 +3798,10 @@ Bishwa pitar dhyan aradhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:224
+  :cite-key: BGSB:224
   :END:
 
 #+BEGIN_VERSE
@@ -3815,10 +3815,10 @@ On the World-Father.
 * I Must Learn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:225
+  :cite-key: BGSB:225
   :END:
 
 #+BEGIN_VERSE
@@ -3833,10 +3833,10 @@ On the World-Father.
 * Jege Utho Jege Utho Prerana Durbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:226
+  :cite-key: BGSB:226
   :END:
 
 #+BEGIN_VERSE
@@ -3849,10 +3849,10 @@ Prerana durbar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:227
+  :cite-key: BGSB:227
   :END:
 
 #+BEGIN_VERSE
@@ -3866,10 +3866,10 @@ Powerful, indomitable.
 * Arise, Awake, O Inspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:228
+  :cite-key: BGSB:228
   :END:
 
 #+BEGIN_VERSE
@@ -3884,10 +3884,10 @@ O inspiration powerful,
 * Nil Pakhi Atma Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:229
+  :cite-key: BGSB:229
   :END:
 
 #+BEGIN_VERSE
@@ -3900,10 +3900,10 @@ Kothai thako balo ekbar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:230
+  :cite-key: BGSB:230
   :END:
 
 #+BEGIN_VERSE
@@ -3917,10 +3917,10 @@ Where do you live?
 * O Blue Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:231
+  :cite-key: BGSB:231
   :END:
 
 #+BEGIN_VERSE
@@ -3935,10 +3935,10 @@ Where do you live?
 * Ganer Sure Bhulte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:232
+  :cite-key: BGSB:232
   :END:
 
 #+BEGIN_VERSE
@@ -3951,10 +3951,10 @@ Byethita mor pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:233
+  :cite-key: BGSB:233
   :END:
 
 #+BEGIN_VERSE
@@ -3969,10 +3969,10 @@ With melodious songs.
 * I Long to Forget
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:234
+  :cite-key: BGSB:234
   :END:
 
 #+BEGIN_VERSE
@@ -3987,10 +3987,10 @@ With melodious songs.
 * Chahi Ami Jibaner Rupantar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:235
+  :cite-key: BGSB:235
   :END:
 
 #+BEGIN_VERSE
@@ -4003,10 +4003,10 @@ Jibaner rupantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:236
+  :cite-key: BGSB:236
   :END:
 
 #+BEGIN_VERSE
@@ -4020,10 +4020,10 @@ Transformation.
 * I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:237
+  :cite-key: BGSB:237
   :END:
 
 #+BEGIN_VERSE
@@ -4037,10 +4037,10 @@ My life’s transformation.
 * Shubha Dine Shubha Khane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:238
+  :cite-key: BGSB:238
   :END:
 
 #+BEGIN_VERSE
@@ -4053,10 +4053,10 @@ Maraner habe je maran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:239
+  :cite-key: BGSB:239
   :END:
 
 #+BEGIN_VERSE
@@ -4071,10 +4071,10 @@ I know death will die.
 * At an Auspicious Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:240
+  :cite-key: BGSB:240
   :END:
 
 #+BEGIN_VERSE
@@ -4089,10 +4089,10 @@ I know death will die.
 * Chinta Karuk Dibya Rajye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:241
+  :cite-key: BGSB:241
   :END:
 
 #+BEGIN_VERSE
@@ -4105,10 +4105,10 @@ Nitya bicharan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:242
+  :cite-key: BGSB:242
   :END:
 
 #+BEGIN_VERSE
@@ -4122,10 +4122,10 @@ In the Kingdom divine.
 * Let My Thoughts Travel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:243
+  :cite-key: BGSB:243
   :END:
 
 #+BEGIN_VERSE
@@ -4140,10 +4140,10 @@ In the Kingdom divine.
 * Habo Ami Atmabhola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:244
+  :cite-key: BGSB:244
   :END:
 
 #+BEGIN_VERSE
@@ -4156,10 +4156,10 @@ Param Shiber mato
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:245
+  :cite-key: BGSB:245
   :END:
 
 #+BEGIN_VERSE
@@ -4173,10 +4173,10 @@ I shall remain in the self-forgetfulness-trance.
 * Like the Supreme Lord Shiva
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:246
+  :cite-key: BGSB:246
   :END:
 
 #+BEGIN_VERSE
@@ -4191,10 +4191,10 @@ In the self-forgetfulness-trance.
 * E Jiban Srot Bahe Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:247
+  :cite-key: BGSB:247
   :END:
 
 #+BEGIN_VERSE
@@ -4207,10 +4207,10 @@ Mahanande
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:248
+  :cite-key: BGSB:248
   :END:
 
 #+BEGIN_VERSE
@@ -4224,10 +4224,10 @@ With ecstasy supreme.
 * This Life-River Flows
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:249
+  :cite-key: BGSB:249
   :END:
 
 #+BEGIN_VERSE
@@ -4241,10 +4241,10 @@ With ecstasy supreme.
 * Hariye Phelechi Aspriha Durlabh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:250
+  :cite-key: BGSB:250
   :END:
 
 #+BEGIN_VERSE
@@ -4257,10 +4257,10 @@ Aspriha durlabh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:251
+  :cite-key: BGSB:251
   :END:
 
 #+BEGIN_VERSE
@@ -4273,10 +4273,10 @@ I have lost my aspiration invaluable.
 * I Have Lost My Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:252
+  :cite-key: BGSB:252
   :END:
 
 #+BEGIN_VERSE
@@ -4290,10 +4290,10 @@ My aspiration invaluable.
 * Bara Manohar Pratiti Jiber Puta Antar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:253
+  :cite-key: BGSB:253
   :END:
 
 #+BEGIN_VERSE
@@ -4306,10 +4306,10 @@ Puta antar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:254
+  :cite-key: BGSB:254
   :END:
 
 #+BEGIN_VERSE
@@ -4323,10 +4323,10 @@ Everybody's sacred heart.
 * Supremely Beautiful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:255
+  :cite-key: BGSB:255
   :END:
 
 #+BEGIN_VERSE
@@ -4340,10 +4340,10 @@ Everybody’s sacred heart.
 * Amar Katha Keno Sabai Shunbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:256
+  :cite-key: BGSB:256
   :END:
 
 #+BEGIN_VERSE
@@ -4355,10 +4355,10 @@ Amar katha keno sabai shunbe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:257
+  :cite-key: BGSB:257
   :END:
 
 #+BEGIN_VERSE
@@ -4372,10 +4372,10 @@ Listen to me?
 * Why Should Everybody Listen to Me?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:258
+  :cite-key: BGSB:258
   :END:
 
 #+BEGIN_VERSE
@@ -4389,10 +4389,10 @@ Listen to me?
 * Samayer Sathe Mitali Karite Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:259
+  :cite-key: BGSB:259
   :END:
 
 #+BEGIN_VERSE
@@ -4405,10 +4405,10 @@ Mitali karite habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:260
+  :cite-key: BGSB:260
   :END:
 
 #+BEGIN_VERSE
@@ -4422,10 +4422,10 @@ With time.
 * I Must Make Friends
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:261
+  :cite-key: BGSB:261
   :END:
 
 #+BEGIN_VERSE
@@ -4439,10 +4439,10 @@ I must make friends
 * Hiya Amar Prabhur Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:262
+  :cite-key: BGSB:262
   :END:
 
 #+BEGIN_VERSE
@@ -4455,10 +4455,10 @@ Jiban amar prabhur srijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:263
+  :cite-key: BGSB:263
   :END:
 
 #+BEGIN_VERSE
@@ -4472,10 +4472,10 @@ My life is my Lord’s creation.
 * My Heart Is My Lord’s Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:264
+  :cite-key: BGSB:264
   :END:
 
 #+BEGIN_VERSE
@@ -4489,10 +4489,10 @@ My life is my Lord’s creation.
 * Ankhir Kanna Thame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:265
+  :cite-key: BGSB:265
   :END:
 
 #+BEGIN_VERSE
@@ -4505,10 +4505,10 @@ Jani hiyar kanna thamena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:266
+  :cite-key: BGSB:266
   :END:
 
 #+BEGIN_VERSE
@@ -4522,10 +4522,10 @@ The cries of the heart never cease.
 * The Cries of the Eyes Cease
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:267
+  :cite-key: BGSB:267
   :END:
 
 #+BEGIN_VERSE
@@ -4541,10 +4541,10 @@ The cries of the heart
 * Dite Habe Tomai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:268
+  :cite-key: BGSB:268
   :END:
 
 #+BEGIN_VERSE
@@ -4557,10 +4557,10 @@ Bhalo manda dite habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:269
+  :cite-key: BGSB:269
   :END:
 
 #+BEGIN_VERSE
@@ -4574,10 +4574,10 @@ And my bad.
 * I Must Give You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:270
+  :cite-key: BGSB:270
   :END:
 
 #+BEGIN_VERSE
@@ -4592,10 +4592,10 @@ And my bad.
 * Janite Chahina Bujhite Chahina Chahi Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:271
+  :cite-key: BGSB:271
   :END:
 
 #+BEGIN_VERSE
@@ -4608,10 +4608,10 @@ Chahi shudhu ami tomare dharite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:272
+  :cite-key: BGSB:272
   :END:
 
 #+BEGIN_VERSE
@@ -4626,10 +4626,10 @@ I just want to hold You.
 * I Do Not Want to Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:273
+  :cite-key: BGSB:273
   :END:
 
 #+BEGIN_VERSE
@@ -4644,10 +4644,10 @@ I just want to hold You.
 * Urte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:274
+  :cite-key: BGSB:274
   :END:
 
 #+BEGIN_VERSE
@@ -4660,10 +4660,10 @@ Kandte kabhu chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:275
+  :cite-key: BGSB:275
   :END:
 
 #+BEGIN_VERSE
@@ -4677,10 +4677,10 @@ I never want to cry.
 * I Want to Fly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:276
+  :cite-key: BGSB:276
   :END:
 
 #+BEGIN_VERSE
@@ -4695,10 +4695,10 @@ I never want to cry.
 * Swapan Thake Muktakashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:277
+  :cite-key: BGSB:277
   :END:
 
 #+BEGIN_VERSE
@@ -4711,10 +4711,10 @@ Bastabata moher guhai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:278
+  :cite-key: BGSB:278
   :END:
 
 #+BEGIN_VERSE
@@ -4728,10 +4728,10 @@ Reality in attachment-cave.
 * Dream Abides
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:279
+  :cite-key: BGSB:279
   :END:
 
 #+BEGIN_VERSE
@@ -4745,10 +4745,10 @@ Reality in attachment-cave.
 * Bhulte Chahi Mor Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:280
+  :cite-key: BGSB:280
   :END:
 
 #+BEGIN_VERSE
@@ -4761,10 +4761,10 @@ Tomar hasi lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:281
+  :cite-key: BGSB:281
   :END:
 
 #+BEGIN_VERSE
@@ -4778,10 +4778,10 @@ My little ‘i’.
 * To See Your Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:282
+  :cite-key: BGSB:282
   :END:
 
 #+BEGIN_VERSE
@@ -4796,10 +4796,10 @@ My little “i”.
 * Nitya Ami Dekhte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:283
+  :cite-key: BGSB:283
   :END:
 
 #+BEGIN_VERSE
@@ -4812,10 +4812,10 @@ Amar hiyai kritagyatar rabi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:284
+  :cite-key: BGSB:284
   :END:
 
 #+BEGIN_VERSE
@@ -4829,10 +4829,10 @@ A gratitude-sun in my heart.
 * I Want to See Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:285
+  :cite-key: BGSB:285
   :END:
 
 #+BEGIN_VERSE
@@ -4846,10 +4846,10 @@ A gratitude-sun in my heart.
 * Timir Mane Phankir Sane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:286
+  :cite-key: BGSB:286
   :END:
 
 #+BEGIN_VERSE
@@ -4862,10 +4862,10 @@ Thakte ami chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:287
+  :cite-key: BGSB:287
   :END:
 
 #+BEGIN_VERSE
@@ -4879,10 +4879,10 @@ I want not to live.
 * In a Dark Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:288
+  :cite-key: BGSB:288
   :END:
 
 #+BEGIN_VERSE
@@ -4897,10 +4897,10 @@ I want not to live.
 * Basana Amare Parena Karite Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:289
+  :cite-key: BGSB:289
   :END:
 
 #+BEGIN_VERSE
@@ -4913,10 +4913,10 @@ Parena karite joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:290
+  :cite-key: BGSB:290
   :END:
 
 #+BEGIN_VERSE
@@ -4929,10 +4929,10 @@ Desire cannot still me.
 * Desire Cannot Still Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:291
+  :cite-key: BGSB:291
   :END:
 
 #+BEGIN_VERSE
@@ -4945,10 +4945,10 @@ Desire cannot still me.
 * Dukher Rate Sukher Dine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:292
+  :cite-key: BGSB:292
   :END:
 
 #+BEGIN_VERSE
@@ -4961,10 +4961,10 @@ Kandbo tomar kripar lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:293
+  :cite-key: BGSB:293
   :END:
 
 #+BEGIN_VERSE
@@ -4978,10 +4978,10 @@ I shall cry for Your Grace.
 * In Joyful Days and Doleful Nights
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:294
+  :cite-key: BGSB:294
   :END:
 
 #+BEGIN_VERSE
@@ -4995,10 +4995,10 @@ I shall cry for Your Grace.
 * Tomar Khama Sudha Bina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:295
+  :cite-key: BGSB:295
   :END:
 
 #+BEGIN_VERSE
@@ -5011,10 +5011,10 @@ Banchbo keman kare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:296
+  :cite-key: BGSB:296
   :END:
 
 #+BEGIN_VERSE
@@ -5028,10 +5028,10 @@ How can I live?
 * Without Your Forgiveness-Nectar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:297
+  :cite-key: BGSB:297
   :END:
 
 #+BEGIN_VERSE
@@ -5045,10 +5045,10 @@ Without Your Forgiveness-Nectar
 * Supti Nire Mukti Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:298
+  :cite-key: BGSB:298
   :END:
 
 #+BEGIN_VERSE
@@ -5061,10 +5061,10 @@ Nahi raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:299
+  :cite-key: BGSB:299
   :END:
 
 #+BEGIN_VERSE
@@ -5078,10 +5078,10 @@ The bird of liberation.
 * In a Sleeping Nest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-04-1986
-  :CITE-KEY: BGSB:300
+  :cite-key: BGSB:300
   :END:
 
 #+BEGIN_VERSE

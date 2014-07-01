@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1562
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2007
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CSC
-  :GENRE: talk, qa, interview
-  :KEYWORDS:
+  :book-number: 1562
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2007
+  :publisher: Agni Press
+  :cite-key: CSC
+  :genre: talk, qa, interview
+  :keywords:
   :END:
 
 
@@ -22,8 +22,8 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:1e1
+  :genre: note
+  :cite-key: CSC:1e1
   :END:
 
 
@@ -34,8 +34,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: talk
-  :CITE-KEY: CSC:1
+  :genre: talk
+  :cite-key: CSC:1
   :END:
 
 
@@ -52,8 +52,8 @@ Similarly, old people brought name, fame, plus financial security to the family.
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:2e1
+  :genre: note
+  :cite-key: CSC:2e1
   :END:
 
 
@@ -64,8 +64,8 @@ Similarly, old people brought name, fame, plus financial security to the family.
 * /Joop Koopman:/ Sri Chinmoy, you had important friendships and spent significant moments with Pope John Paul II and Mother Teresa of Calcutta. You are effusive in your praise of them, depicting them as wonderful, powerful and colourful beings. In the East, the celebration and appreciation of holy men and women is the norm. The charisma of leaders is experienced as real and palpable. The mainstream of Judaism and Christianity is more cerebral. We think of our leaders as good people, but not necessarily as living saints whose very touch or glance can heal. Can you please describe John Paul II and Mother Teresa in this regard?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:2
+  :genre: qa
+  :cite-key: CSC:2
   :END:
 
 
@@ -98,8 +98,8 @@ Mother Teresa: a daring soul, an all-loving soul and an all-sacrificing soul. Th
 * /Joop Koopman:/ What do you make of the great interest in spirituality in the US, much of it in the form of the pursuit of, if not quasi-religions and movements, then a sometimes vague New Age-ism?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:3
+  :genre: qa
+  :cite-key: CSC:3
   :END:
 
 
@@ -120,8 +120,8 @@ Each moment presents itself to us with a new dream, a new reality, a new inspira
 * /Joop Koopman:/ How do you look for the good in various traditions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:4
+  :genre: qa
+  :cite-key: CSC:4
   :END:
 
 
@@ -138,8 +138,8 @@ Each tradition is right in its own way. We need a cosmopolitan heart to apprecia
 * /Joop Koopman:/ You think of Jesus Christ as "an unparalleled Prophet and the beloved Son of God, but also as a supreme Oneness-Friend of mankind." What does "Oneness-Friend of mankind" mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:5
+  :genre: qa
+  :cite-key: CSC:5
   :END:
 
 
@@ -172,8 +172,8 @@ Christ the Friend blessingfully distributed everything he had and everything he 
 * /Joop Koopman:/ What are the most significant points that Christianity and Hinduism have in common?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:6
+  :genre: qa
+  :cite-key: CSC:6
   :END:
 
 
@@ -184,8 +184,8 @@ Christ the Friend blessingfully distributed everything he had and everything he 
 * /Joop Koopman:/ What areas are the greatest challenges in our interfaith relations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:7
+  :genre: qa
+  :cite-key: CSC:7
   :END:
 
 
@@ -196,8 +196,8 @@ Christ the Friend blessingfully distributed everything he had and everything he 
 * /Joop Koopman:/ What are the most urgent lessons the East can teach the West?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:8
+  :genre: qa
+  :cite-key: CSC:8
   :END:
 
 
@@ -212,8 +212,8 @@ There will be a meeting place where the East and the West can come together. Tog
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:9e1
+  :genre: note
+  :cite-key: CSC:9e1
   :END:
 
 
@@ -224,8 +224,8 @@ There will be a meeting place where the East and the West can come together. Tog
 * 1.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:9
+  :genre: qa
+  :cite-key: CSC:9
   :END:
 
 
@@ -238,8 +238,8 @@ Poetry can be very subtle; at the same time, it can be very powerful. With two w
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:10e1
+  :genre: note
+  :cite-key: CSC:10e1
   :END:
 
 
@@ -250,8 +250,8 @@ Poetry can be very subtle; at the same time, it can be very powerful. With two w
 * 2.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:10
+  :genre: qa
+  :cite-key: CSC:10
   :END:
 
 
@@ -268,8 +268,8 @@ Now I know that mantras are not the sole monopoly of Sanskrit. They can be the w
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:11e1
+  :genre: note
+  :cite-key: CSC:11e1
   :END:
 
 
@@ -280,8 +280,8 @@ Now I know that mantras are not the sole monopoly of Sanskrit. They can be the w
 * /Question:/ When the Cosmic Gods and Goddesses come to you while you are lifting heavy weights, what kind of help do they give you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:11
+  :genre: qa
+  :cite-key: CSC:11
   :END:
 
 
@@ -302,8 +302,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:12e1
+  :genre: note
+  :cite-key: CSC:12e1
   :END:
 
 
@@ -314,8 +314,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ What are the qualities of a spiritual person?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:12
+  :genre: qa
+  :cite-key: CSC:12
   :END:
 
 
@@ -326,8 +326,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ How important is it to follow a Guru and what should distinguish such a Teacher?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:13
+  :genre: qa
+  :cite-key: CSC:13
   :END:
 
 
@@ -338,8 +338,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ What role do discipline and obedience play?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:14
+  :genre: qa
+  :cite-key: CSC:14
   :END:
 
 
@@ -350,8 +350,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ What does Yoga mean for you and what is the benefit of meditating regularly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:15
+  :genre: qa
+  :cite-key: CSC:15
   :END:
 
 
@@ -362,8 +362,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ A Yoga teacher once said to me that to be detached is Yoga. Then that would mean everything is equally valid. What is your point of view concerning this, Sri Chinmoy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:16
+  :genre: qa
+  :cite-key: CSC:16
   :END:
 
 
@@ -374,8 +374,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ Does every person carry equally the Divine within himself or are there serious differences?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:17
+  :genre: qa
+  :cite-key: CSC:17
   :END:
 
 
@@ -386,8 +386,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ Is the inner peace of the individual a prerequisite or the result of outer peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:18
+  :genre: qa
+  :cite-key: CSC:18
   :END:
 
 
@@ -398,8 +398,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ The Bhagavad Gita has been quoted again and again as a justification for war. Is such an interpretation justified?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:19
+  :genre: qa
+  :cite-key: CSC:19
   :END:
 
 
@@ -410,8 +410,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ One has to pay from US $25 up to US $140 for attending a concert nowadays. How is it possible that your concerts are free?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:20
+  :genre: qa
+  :cite-key: CSC:20
   :END:
 
 
@@ -422,8 +422,8 @@ Here also, when the Cosmic Gods and Goddesses come to bless me, they have such s
 * /Question:/ What do you mean exactly by the term "World Harmony" which was used for your concert tour?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:21
+  :genre: qa
+  :cite-key: CSC:21
   :END:
 
 
@@ -436,8 +436,8 @@ If there is harmony, there can be no misunderstanding, and if there is no misund
 * /Question:/ Are you, as a musician, also open to criticism and controversies and how do you handle them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:22
+  :genre: qa
+  :cite-key: CSC:22
   :END:
 
 
@@ -450,8 +450,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ The musicians Carlos Santana and John McLaughlin were among your most prominent students. Do these contacts still exist?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:23
+  :genre: qa
+  :cite-key: CSC:23
   :END:
 
 
@@ -462,8 +462,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:24e1
+  :genre: note
+  :cite-key: CSC:24e1
   :END:
 
 
@@ -474,8 +474,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ What do you try to accomplish with your concerts?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:24
+  :genre: qa
+  :cite-key: CSC:24
   :END:
 
 
@@ -486,8 +486,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ Do you find Westerners open to your Eastern concepts, or does it take extra training?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:25
+  :genre: qa
+  :cite-key: CSC:25
   :END:
 
 
@@ -502,8 +502,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ Please talk a little more about some of your teachings that we are not familiar with -— for instance, how jealousy can ruin our lives.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:26
+  :genre: qa
+  :cite-key: CSC:26
   :END:
 
 
@@ -514,8 +514,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ How does one truly reach one's own pure heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:27
+  :genre: qa
+  :cite-key: CSC:27
   :END:
 
 
@@ -526,8 +526,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ Please say a little more about your statement that, for the beginner, meditation seems to be the highest reality, but when one becomes an advanced seeker one knows that meditation only /leads/ to the highest reality.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:28
+  :genre: qa
+  :cite-key: CSC:28
   :END:
 
 
@@ -535,8 +535,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Sri Chinmoy:/ Meditation is both the way and the goal. In the beginning, meditation plays the role of a staircase. We need a staircase to climb up to a certain height. Then there comes a time when we see that this meditation not only leads to the highest but actually embodies the highest. We say that God is the Boat, God is the Boatman, God is the Way and God is the Goal. In exactly the same way we can describe meditation. With meditation we go up, up, and up until finally we become the meditation itself. And this meditation embodies the universal Light, the universal Delight, God the Creator and God the Creation at the same time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:29
+  :genre: qa
+  :cite-key: CSC:29
   :END:
 
 
@@ -544,8 +544,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ You work with people of many faiths. Do you accept that all faiths are valid?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:30
+  :genre: qa
+  :cite-key: CSC:30
   :END:
 
 
@@ -560,8 +560,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ What is your ultimate desire?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:31
+  :genre: qa
+  :cite-key: CSC:31
   :END:
 
 
@@ -576,8 +576,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ Of all the people you have met, who has the closest understanding of what you teach?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:32
+  :genre: qa
+  :cite-key: CSC:32
   :END:
 
 
@@ -588,8 +588,8 @@ I am a musician; I am an artist. I listen to the dictates of my inner musician a
 * /Question:/ Don't you ever get discouraged at the state of the world, with all the fighting, violence and unhappiness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:33
+  :genre: qa
+  :cite-key: CSC:33
   :END:
 
 
@@ -602,8 +602,8 @@ Each individual can become discouraged when his desire is not fulfilled, when hi
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:34e1
+  :genre: note
+  :cite-key: CSC:34e1
   :END:
 
 
@@ -625,8 +625,8 @@ So there are things we cannot do outwardly, owing to some reason. But inwardly w
 * /Question:/ I would like to know how to be vigilant in my spiritual life without being anxious and worried.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:34
+  :genre: qa
+  :cite-key: CSC:34
   :END:
 
 
@@ -641,8 +641,8 @@ If eagerness is there, real eagerness, then God's Grace descends spontaneously a
 * /Question:/ When we pray, is there any way that God would prefer us to pray, besides being intense? There are so many ways to pray -— we can pray with a cry, we can pray with a smile and so forth. Is there any way that God prefers to hear our prayers that would make our prayers reach His Ears or be more effective?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:35
+  :genre: qa
+  :cite-key: CSC:35
   :END:
 
 
@@ -659,8 +659,8 @@ While we are praying for something, we do not know how the outcome or result wil
 * /Question:/ Lately I have not only been feeling physically weak, but also weak in other ways. I am wondering how I can become strong to run the fastest.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:36
+  :genre: qa
+  :cite-key: CSC:36
   :END:
 
 
@@ -673,8 +673,8 @@ Only keep the mind absolutely quiet —- even for two minutes, three minutes. It
 * /Question:/ At this particular time in history, what is the best way for each of us as individuals to help our own country go forward?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:37
+  :genre: qa
+  :cite-key: CSC:37
   :END:
 
 
@@ -687,8 +687,8 @@ Now only try to accumulate and hold as much as you can in the inner world, in th
 * /Question:/ When I feel unworthy, I doubt that God will forgive me. I do not see how I can expect to be forgiven in one short incarnation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:38
+  :genre: qa
+  :cite-key: CSC:38
   :END:
 
 
@@ -707,8 +707,8 @@ God's Forgiveness is always there, true, but God will be proud of us when we can
 * /Question:/ When I work with world decision-makers who have built their career with their mind and with their power, how can I bring their heart to the fore?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:39
+  :genre: qa
+  :cite-key: CSC:39
   :END:
 
 
@@ -725,8 +725,8 @@ If these important world decision-makers continue using their mind, they are bou
 * /Question:/ I find that as we get older, we have to be kinder to our physical body.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:40
+  :genre: qa
+  :cite-key: CSC:40
   :END:
 
 
@@ -751,8 +751,8 @@ If we take the attitude, "O my body, you are too old! Now I have to be very care
 * /Question:/ How can one bring forward the determination from within to do the right thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:41
+  :genre: qa
+  :cite-key: CSC:41
   :END:
 
 
@@ -769,8 +769,8 @@ Everything is inside the heart. If we can live inside the heart for five minutes
 * /Question:/ When does oneness become permanent?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:42
+  :genre: qa
+  :cite-key: CSC:42
   :END:
 
 
@@ -797,8 +797,8 @@ When God starts executing His Will in and through you, that means God has establ
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:43e1
+  :genre: note
+  :cite-key: CSC:43e1
   :END:
 
 
@@ -809,8 +809,8 @@ When God starts executing His Will in and through you, that means God has establ
 * /Question:/ If somebody does something first, does that person pave the way for others in the inner worlds? If somebody breaks the four-minute mile barrier, for example, is it easier for others to follow him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:43
+  :genre: qa
+  :cite-key: CSC:43
   :END:
 
 
@@ -821,8 +821,8 @@ When God starts executing His Will in and through you, that means God has establ
 * /Question:/ Is there any quick way to get affection and forgiveness from our soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:44
+  :genre: qa
+  :cite-key: CSC:44
   :END:
 
 
@@ -833,8 +833,8 @@ When God starts executing His Will in and through you, that means God has establ
 * /Question:/ When we were listening to your synthesizer the other day, it seemed like different qualities were coming forward in different parts, and I was just wondering if you wanted to tell us anything about what was happening inwardly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:45
+  :genre: qa
+  :cite-key: CSC:45
   :END:
 
 
@@ -845,8 +845,8 @@ When God starts executing His Will in and through you, that means God has establ
 * /Question:/ When I am back at home working, I try to imagine you in person as often as possible, but sometimes because there is so much happening, it is difficult. And yet, when I concentrate on my heart, I often feel it is full of light and full of joy. I was wondering if that is enough?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:46
+  :genre: qa
+  :cite-key: CSC:46
   :END:
 
 
@@ -857,8 +857,8 @@ When God starts executing His Will in and through you, that means God has establ
 * /Question:/ Why is the mind afraid of visiting Heaven?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:47
+  :genre: qa
+  :cite-key: CSC:47
   :END:
 
 
@@ -875,8 +875,8 @@ The mind is like a student before the examination and the heart is like a little
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:48e1
+  :genre: note
+  :cite-key: CSC:48e1
   :END:
 
 
@@ -895,8 +895,8 @@ I understand you have several questions. May I start answering them?
 * /Question:/ What message do you wish to offer people through your music?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:48
+  :genre: qa
+  :cite-key: CSC:48
   :END:
 
 
@@ -911,8 +911,8 @@ I believe in God. Other seekers will say that they believe in Truth. My God and 
 * /Question:/ How many instruments do you play during a concert?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:49
+  :genre: qa
+  :cite-key: CSC:49
   :END:
 
 
@@ -925,8 +925,8 @@ My students are very, very kind and generous to me. They supply me with musical 
 * /Question:/ In the face of natural disasters, such as the tsunami that recently occurred, there are two ways in which we can respond. The first is to feel that human beings must respect nature much more. The second is to feel that human beings should come first and so we need even more advanced technology to protect humans from disasters. Which is your view?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:50
+  :genre: qa
+  :cite-key: CSC:50
   :END:
 
 
@@ -981,8 +981,8 @@ When goodwill works, immediately we open up our heart's door. This is how we lib
 * /Question:/ Can you say something about science and technology in China?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:51
+  :genre: qa
+  :cite-key: CSC:51
   :END:
 
 
@@ -999,8 +999,8 @@ Again, it is China's love of the ancient wisdom and her love of modern, scientif
 * /Question:/ How do you like the Chinese people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:52
+  :genre: qa
+  :cite-key: CSC:52
   :END:
 
 
@@ -1013,8 +1013,8 @@ Many years ago, your Premier Chou En-lai went to India, and Prime Minister Nehru
 * /Question:/ How can people have faith when we face so much suffering in the world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:53
+  :genre: qa
+  :cite-key: CSC:53
   :END:
 
 
@@ -1041,8 +1041,8 @@ The ultimate goal of this Mother Earth, this earth-planet, is not suffering; it 
 * /Question:/ What is your purpose in visiting China?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:54
+  :genre: qa
+  :cite-key: CSC:54
   :END:
 
 
@@ -1055,8 +1055,8 @@ It is with a heart full of admiration and love that I came to China. Here it is 
 * /Question:/ Can you please tell me about your connection with Mother Teresa?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:55
+  :genre: qa
+  :cite-key: CSC:55
   :END:
 
 
@@ -1073,8 +1073,8 @@ I am eternally grateful to Mother Teresa. She had a heart that was vaster than t
 * /Question:/ Could you please tell me about your "Lifting Up the World with a Oneness-Heart" programme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:56
+  :genre: qa
+  :cite-key: CSC:56
   :END:
 
 
@@ -1093,8 +1093,8 @@ I do hope that I can be of service to the heart and soul of China while I am her
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:57e1
+  :genre: note
+  :cite-key: CSC:57e1
   :END:
 
 
@@ -1105,8 +1105,8 @@ I do hope that I can be of service to the heart and soul of China while I am her
 * /Question:/ Which qualities can we develop more in South America to offer to the world? What kind of special qualities does South America have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:57
+  :genre: qa
+  :cite-key: CSC:57
   :END:
 
 
@@ -1131,8 +1131,8 @@ When Mr. Mehrotra saw this girl, he said to me, "You do not need more disciples 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:58e1
+  :genre: note
+  :cite-key: CSC:58e1
   :END:
 
 
@@ -1161,8 +1161,8 @@ So the answer depends on the individual. Some will say that a thousand years ago
 * /Question:/ In the time of the Mahabharata did any of the warriors have muscles like Mr. Universe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:58
+  :genre: qa
+  :cite-key: CSC:58
   :END:
 
 
@@ -1173,8 +1173,8 @@ So the answer depends on the individual. Some will say that a thousand years ago
 * /Question:/ Can our receptivity be enhanced with greater fitness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:59
+  :genre: qa
+  :cite-key: CSC:59
   :END:
 
 
@@ -1185,8 +1185,8 @@ So the answer depends on the individual. Some will say that a thousand years ago
 * /Question:/ How does the Supreme view the use of steroids?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:60
+  :genre: qa
+  :cite-key: CSC:60
   :END:
 
 
@@ -1199,8 +1199,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ Is there a mantra or prayer that can help us get joy from exercising?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:61
+  :genre: qa
+  :cite-key: CSC:61
   :END:
 
 
@@ -1211,8 +1211,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ Can weightlifting and bodybuilding elevate our consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:62
+  :genre: qa
+  :cite-key: CSC:62
   :END:
 
 
@@ -1223,8 +1223,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ What is your most significant physical feat in this lifetime?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:63
+  :genre: qa
+  :cite-key: CSC:63
   :END:
 
 
@@ -1235,8 +1235,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ Is there any way to store up excess energy for future use?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:64
+  :genre: qa
+  :cite-key: CSC:64
   :END:
 
 
@@ -1247,8 +1247,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ Does working out with machines give you the same joy as free weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:65
+  :genre: qa
+  :cite-key: CSC:65
   :END:
 
 
@@ -1259,8 +1259,8 @@ With our aspiration, we can get everything inside the heart of nature, Mother Ea
 * /Question:/ Do marathon runners have any connection with the Cosmic Gods?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:66
+  :genre: qa
+  :cite-key: CSC:66
   :END:
 
 
@@ -1273,8 +1273,8 @@ So it entirely depends on the runners. If the runners pray to the Cosmic Gods an
 * /Question:/ Do long distance runners benefit in any way from heavy weight training?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:67
+  :genre: qa
+  :cite-key: CSC:67
   :END:
 
 
@@ -1290,8 +1290,8 @@ So it entirely depends on the runners. If the runners pray to the Cosmic Gods an
 * /Question:/ Can weightlifting develop inner strength?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:68
+  :genre: qa
+  :cite-key: CSC:68
   :END:
 
 
@@ -1302,8 +1302,8 @@ So it entirely depends on the runners. If the runners pray to the Cosmic Gods an
 * /Question:/ When you lift, do you lift our ignorance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:69
+  :genre: qa
+  :cite-key: CSC:69
   :END:
 
 
@@ -1322,8 +1322,8 @@ Practise, practise, practise! One day God's Grace will descend. If you practise 
 * /Question:/ Does weightlifting destroy the subtle nerves?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:70
+  :genre: qa
+  :cite-key: CSC:70
   :END:
 
 
@@ -1334,8 +1334,8 @@ Practise, practise, practise! One day God's Grace will descend. If you practise 
 * /Question:/ Is the soul happier when the body is stronger and fitter?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:71
+  :genre: qa
+  :cite-key: CSC:71
   :END:
 
 
@@ -1346,8 +1346,8 @@ Practise, practise, practise! One day God's Grace will descend. If you practise 
 * /Question:/ Why do weightlifters look ugly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:72
+  :genre: qa
+  :cite-key: CSC:72
   :END:
 
 
@@ -1364,8 +1364,8 @@ So joy can come to us through beauty and it can come to us through power. This b
 * /Question:/ Does the weight of people change when you meditate on them before you lift them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:73
+  :genre: qa
+  :cite-key: CSC:73
   :END:
 
 
@@ -1376,8 +1376,8 @@ So joy can come to us through beauty and it can come to us through power. This b
 * /Question:/ What benefit do your students get from watching you lift weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:74
+  :genre: qa
+  :cite-key: CSC:74
   :END:
 
 
@@ -1388,8 +1388,8 @@ So joy can come to us through beauty and it can come to us through power. This b
 * /Question:/ Is physical fitness superior to spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:75
+  :genre: qa
+  :cite-key: CSC:75
   :END:
 
 
@@ -1402,8 +1402,8 @@ But if you have to separate them, if you put physical fitness on one side and th
 * /Question:/ Do you encourage your students to lift weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:76
+  :genre: qa
+  :cite-key: CSC:76
   :END:
 
 
@@ -1414,8 +1414,8 @@ But if you have to separate them, if you put physical fitness on one side and th
 * /Question:/ What thoughts or images should a long distance runner hold in his mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:77
+  :genre: qa
+  :cite-key: CSC:77
   :END:
 
 
@@ -1426,8 +1426,8 @@ But if you have to separate them, if you put physical fitness on one side and th
 * /Question:/ What is the most effective mantra for a runner?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:78
+  :genre: qa
+  :cite-key: CSC:78
   :END:
 
 
@@ -1438,8 +1438,8 @@ But if you have to separate them, if you put physical fitness on one side and th
 * /Question:/ What does the Supreme do for His physical fitness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:79
+  :genre: qa
+  :cite-key: CSC:79
   :END:
 
 
@@ -1450,8 +1450,8 @@ But if you have to separate them, if you put physical fitness on one side and th
 * /Question:/ How should our vital feel when we transcend ourselves in sport?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:80
+  :genre: qa
+  :cite-key: CSC:80
   :END:
 
 
@@ -1472,8 +1472,8 @@ Not only the vital should be happy, but the mind should also be very happy. The 
 * /Question:/ Are professional athletes aspiring in some way?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:81
+  :genre: qa
+  :cite-key: CSC:81
   :END:
 
 
@@ -1484,8 +1484,8 @@ Not only the vital should be happy, but the mind should also be very happy. The 
 * /Question:/ Surely if someone takes steroids, it is his own problem?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:82
+  :genre: qa
+  :cite-key: CSC:82
   :END:
 
 
@@ -1498,8 +1498,8 @@ People who do wrong things create wrong movements, wrong vibrations, in the eart
 * /Question:/ Why do some intellectuals not understand bodybuilding?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:83
+  :genre: qa
+  :cite-key: CSC:83
   :END:
 
 
@@ -1510,8 +1510,8 @@ People who do wrong things create wrong movements, wrong vibrations, in the eart
 * /Question:/ How were the ancient heroes able to lift awesome weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:84
+  :genre: qa
+  :cite-key: CSC:84
   :END:
 
 
@@ -1522,8 +1522,8 @@ People who do wrong things create wrong movements, wrong vibrations, in the eart
 * /Question:/ How can one increase one's outer strength without increasing one's muscle size?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:85
+  :genre: qa
+  :cite-key: CSC:85
   :END:
 
 
@@ -1538,8 +1538,8 @@ In my case, you can say that grapes are sour! I tried to have big muscles. I tol
 * /Question:/ Top athletes like Carl Lewis speak about being relaxed. What is your comment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:86
+  :genre: qa
+  :cite-key: CSC:86
   :END:
 
 
@@ -1552,8 +1552,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * /Question:/ What is the best way for an athlete to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:87
+  :genre: qa
+  :cite-key: CSC:87
   :END:
 
 
@@ -1564,8 +1564,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:88e1
+  :genre: note
+  :cite-key: CSC:88e1
   :END:
 
 
@@ -1576,8 +1576,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * /Question:/ Lifting up human beings looks very easy for you.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:88
+  :genre: qa
+  :cite-key: CSC:88
   :END:
 
 
@@ -1648,8 +1648,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * /Question:/ What is the nature of your training? Every day I do not lift people, but weight training I do every day. I use free weights up to 120 pounds and then I use about twenty different types of machines to strengthen my muscles and different parts of my body. I do this for at least three hours early in the morning. Around eight o'clock I come here to Aspiration-Ground and take some more exercise.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:89
+  :genre: qa
+  :cite-key: CSC:89
   :END:
 
 
@@ -1666,8 +1666,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:90e1
+  :genre: note
+  :cite-key: CSC:90e1
   :END:
 
 
@@ -1678,8 +1678,8 @@ So in everything you do, relaxation is of paramount importance. But it must be r
 * /Question:/ May we have a tune from your flute before I talk to you?
 
   :PROPERTIES:
-  :GENRE: qa, interview
-  :CITE-KEY: CSC:90
+  :genre: qa, interview
+  :cite-key: CSC:90
   :END:
 
 
@@ -1764,8 +1764,8 @@ I believe that each individual has a body, vital, mind, heart and soul. So, whil
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:91e1
+  :genre: note
+  :cite-key: CSC:91e1
   :END:
 
 
@@ -1776,8 +1776,8 @@ I believe that each individual has a body, vital, mind, heart and soul. So, whil
 * /Question:/ In your own words, who are you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:91
+  :genre: qa
+  :cite-key: CSC:91
   :END:
 
 
@@ -1788,8 +1788,8 @@ I believe that each individual has a body, vital, mind, heart and soul. So, whil
 * /Question:/ Tell me about your weightlifting.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:92
+  :genre: qa
+  :cite-key: CSC:92
   :END:
 
 
@@ -1808,8 +1808,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ How do you lift people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:93
+  :genre: qa
+  :cite-key: CSC:93
   :END:
 
 
@@ -1820,8 +1820,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ How do you feel about the attention that you get? Is that sometimes a hindrance for you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:94
+  :genre: qa
+  :cite-key: CSC:94
   :END:
 
 
@@ -1858,8 +1858,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:95e1
+  :genre: note
+  :cite-key: CSC:95e1
   :END:
 
 
@@ -1870,8 +1870,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ Sri Chinmoy, how can athletes use your philosophy to help them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:95
+  :genre: qa
+  :cite-key: CSC:95
   :END:
 
 
@@ -1882,8 +1882,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ What do you draw upon to be able to lift people as you did here tonight?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:96
+  :genre: qa
+  :cite-key: CSC:96
   :END:
 
 
@@ -1906,8 +1906,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ What do you think about the state of sport in the world at present with the current focus on drugs and corruption?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:97
+  :genre: qa
+  :cite-key: CSC:97
   :END:
 
 
@@ -1918,8 +1918,8 @@ When I lift up these weights, I try to unite both the inner world and the outer 
 * /Question:/ You must be very tired after lifting all that weight?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:98
+  :genre: qa
+  :cite-key: CSC:98
   :END:
 
 
@@ -1995,8 +1995,8 @@ But if we can play a trick on the mind, if we can wisely tell the mind that what
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CSC:99e1
+  :genre: note
+  :cite-key: CSC:99e1
   :END:
 
 
@@ -2007,8 +2007,8 @@ But if we can play a trick on the mind, if we can wisely tell the mind that what
 * /Question:/ Sri Chinmoy, why are you doing this weightlifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:99
+  :genre: qa
+  :cite-key: CSC:99
   :END:
 
 
@@ -2034,8 +2034,8 @@ As you can see, I do not know any weightlifting techniques. I do not have the ph
 * /Question:/ You talk about God. In Holland, people will say we are Christians, so we have a Christian God. There are people in other countries who have their own God.
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:100
+  :genre: qa
+  :cite-key: CSC:100
   :END:
 
 
@@ -2054,8 +2054,8 @@ So each religion starts with love of God. Is there any religion that will say it
 * /Question:/ Let us return to the topic of sport. Let us say there are two sportsmen. They may fight each other, even if it is a friendly fight. It could be boxing, it could be wrestling. If both of them pray, would that be good?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:101
+  :genre: qa
+  :cite-key: CSC:101
   :END:
 
 
@@ -2084,8 +2084,8 @@ So each religion starts with love of God. Is there any religion that will say it
 * /Question:/ If sports people would like to meditate, how should they do it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:102
+  :genre: qa
+  :cite-key: CSC:102
   :END:
 
 
@@ -2112,8 +2112,8 @@ When you pray and meditate, you increase your inner strength, inner capacities. 
 * /Question:/ Do you lift these heavy weights with the help of prayer and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:103
+  :genre: qa
+  :cite-key: CSC:103
   :END:
 
 
@@ -2128,8 +2128,8 @@ In the bodybuilding and weightlifting world, look at the biceps and triceps of t
 * /Question:/ If there is a sports competition, can you see by the aura around people who will win?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:104
+  :genre: qa
+  :cite-key: CSC:104
   :END:
 
 
@@ -2140,8 +2140,8 @@ In the bodybuilding and weightlifting world, look at the biceps and triceps of t
 * /Question:/ My last question is, would you kindly address the young Dutch public who watch my programme? I would like to give you some time to talk to the young people. What would you like to give them as a message?
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:105
+  :genre: qa
+  :cite-key: CSC:105
   :END:
 
 
@@ -2158,8 +2158,8 @@ So this is my soulful message to the children of Holland, the land of flowers: t
 * Footnotes
 
   :PROPERTIES:
-  :GENRE: qa
-  :CITE-KEY: CSC:106
+  :genre: qa
+  :cite-key: CSC:106
   :END:
 
 

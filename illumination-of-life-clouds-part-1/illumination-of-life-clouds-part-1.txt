@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0189
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1974
- :PUBLISHER: Agni Press
- :CITE-KEY: ILC-1
- :GENRE: discourse, qa
- :KEYWORDS:
+ :book-number: 0189
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1974
+ :publisher: Agni Press
+ :cite-key: ILC-1
+ :genre: discourse, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Discourse
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:1e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Ignorance
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILC:1
+ :genre: discourse
+ :keywords:
+ :cite-key: ILC:1
   :END:
 
 
@@ -65,9 +65,9 @@ What to accept? Light. Why to accept? Because it is in the light that we have th
 * Part II: Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:2e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:2e1
   :END:
 
 
@@ -75,9 +75,9 @@ What to accept? Light. Why to accept? Because it is in the light that we have th
 * Question: What is ignorance? I don't understand what it is.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:2
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:2
   :END:
 
 
@@ -88,9 +88,9 @@ What to accept? Light. Why to accept? Because it is in the light that we have th
 * Question: When did ignorance first strike us?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:3
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:3
   :END:
 
 
@@ -103,9 +103,9 @@ Now ignorance is ruling us and lording it over us. But if we transform our ignor
 * Question: From the spiritual point of view what is the difference between stupidity and ignorance?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:4
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:4
   :END:
 
 
@@ -120,9 +120,9 @@ We stupidly feel that God is eternal and immortal and we are all meaningless cre
 * Question: If a person has something like a brain defect and in this incarnation is like a vegetable, will he suffer even if he is not outwardly conscious or aware of his defect?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:5
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:5
   :END:
 
 
@@ -133,9 +133,9 @@ We stupidly feel that God is eternal and immortal and we are all meaningless cre
 * Part III: Discourse
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:6e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:6e1
   :END:
 
 
@@ -143,9 +143,9 @@ We stupidly feel that God is eternal and immortal and we are all meaningless cre
 * Physical pain and psychic pain
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILC:6
+ :genre: discourse
+ :keywords:
+ :cite-key: ILC:6
   :END:
 
 
@@ -166,9 +166,9 @@ The highest discovery is this: we came from Delight, we are in Delight, we grow 
 * Part IV: Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:7e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:7e1
   :END:
 
 
@@ -176,9 +176,9 @@ The highest discovery is this: we came from Delight, we are in Delight, we grow 
 * Question: Why do we have to pass through sad experiences such as suffering and sorrow?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:7
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:7
   :END:
 
 
@@ -199,9 +199,9 @@ But when suffering does come we have to feel that even in this suffering there i
 * Question: I feel unhappy when I think of the suffering that is going on in the world, that children are starving and things like that.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:8
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:8
   :END:
 
 
@@ -222,9 +222,9 @@ If we try to make our fastest progress, we will become one with God. When we go 
 * Question: Is there any spiritual significance to the energy crises, wars and other problems the world is having now?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:9
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:9
   :END:
 
 
@@ -241,9 +241,9 @@ Seekers must be very careful. They must not resort to violence even in their tho
 * Question: When I read the newspapers and see all the suffering and violence in the world, it upsets me.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:10
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:10
   :END:
 
 
@@ -260,9 +260,9 @@ A newspaper has only world-information. By getting world-information, you come n
 * Question: Often when I know I am coming to meditation, I develop a swollen gland or a headache. Is there a connection between this and my looking forward to this occasion?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:11
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:11
   :END:
 
 
@@ -277,9 +277,9 @@ The second reason for these hostile attacks is uncertainty. You have jumped into
 * Question: Why does a God-realised Yogi suffer?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:12
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:12
   :END:
 
 
@@ -304,9 +304,9 @@ But in the soul's region, suffering has no value. Let us think of God, pray to G
 * Question: How can we understand the suffering of Jesus on the Cross when he said, "My God, my God, why hast Thou forsaken me?"
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:13
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:13
   :END:
 
 
@@ -321,9 +321,9 @@ I have concentrated deeply on this utterance, and I know at that last fateful mo
 * Question: Why do I feel a kind of pain when I create something?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:14
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:14
   :END:
 
 
@@ -334,9 +334,9 @@ I have concentrated deeply on this utterance, and I know at that last fateful mo
 * Part V: Negative forces
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILC:15e1
+ :genre: section
+ :keywords:
+ :cite-key: ILC:15e1
   :END:
 
 
@@ -344,9 +344,9 @@ I have concentrated deeply on this utterance, and I know at that last fateful mo
 * Question: What are negative forces?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:15
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:15
   :END:
 
 
@@ -359,9 +359,9 @@ Positive forces make you feel that you are God's chosen son and that you have th
 * Question: If we are nice to others, won't they be nice to us?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:16
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:16
   :END:
 
 
@@ -374,9 +374,9 @@ I am a nice man, but two days ago while I was sitting on the playing field, a wa
 * Question: Do wars result from the fact that we have not been able to reconcile our lives to our souls?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:17
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:17
   :END:
 
 
@@ -393,9 +393,9 @@ So you have to be very careful. Remain only in the heart, and not in the unaspir
 * Question: Where are the hostile forces located?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:18
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:18
   :END:
 
 
@@ -406,9 +406,9 @@ So you have to be very careful. Remain only in the heart, and not in the unaspir
 * Question: Under what circumstances are the hostile forces most likely to attack us?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILC:19
+ :genre: qa
+ :keywords:
+ :cite-key: ILC:19
   :END:
 
 

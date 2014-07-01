@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0733
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1988
-  :PUBLISHER: Agni Press
-  :CITE-KEY: EJ
-  :GENRE: qa, discourse
-  :KEYWORDS:
+  :book-number: 0733
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1988
+  :publisher: Agni Press
+  :cite-key: EJ
+  :genre: qa, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: EJ:1e1
+  :genre: section
+  :keywords:
+  :cite-key: EJ:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * No more the desire-life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EJ:1
+  :genre: discourse
+  :keywords:
+  :cite-key: EJ:1
   :END:
 
 
@@ -53,9 +53,9 @@ Hyannis, Massachusetts \\
 * Transcendence and perfection
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: EJ:2
+  :genre: discourse
+  :keywords:
+  :cite-key: EJ:2
   :END:
 
 
@@ -78,9 +78,9 @@ We learn and unlearn, we accept and reject, we command and surrender. If we can 
 * Part II: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: EJ:3e1
+  :genre: section
+  :keywords:
+  :cite-key: EJ:3e1
   :END:
 
 
@@ -88,9 +88,9 @@ We learn and unlearn, we accept and reject, we command and surrender. If we can 
 * Question: Can you say that love is the only law in the whole universe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:3
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:3
   :END:
 
 
@@ -101,9 +101,9 @@ We learn and unlearn, we accept and reject, we command and surrender. If we can 
 * Question: We just lost our baby, and we were questioning ourselves why the baby, in the span of one week, came to earth and then left.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:4
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:4
   :END:
 
 
@@ -118,9 +118,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: One lady, when she meditates on your transcendental picture, sees it grow bigger, then smaller, change hues and take on a physical presence.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:5
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:5
   :END:
 
 
@@ -131,9 +131,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: She says she sees a violet colour a lot.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:6
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:6
   :END:
 
 
@@ -144,9 +144,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: I used to go to a resting place where I can talk to myself and where I have been in contact with two people, a man and a woman. I have never seen their faces; I don’t know them. But I can talk to them, although they cannot talk to me. When I ask them questions, they answer me with signs, or by doing something with the body. But since I started to meditate, I can’t go to this place anymore.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:7
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:7
   :END:
 
 
@@ -157,9 +157,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: Are the inner bodies composed of spiritual energy? I feel within me several bodies, and sometimes they clash in their will.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:8
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:8
   :END:
 
 
@@ -170,9 +170,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: What can you do to get them unified?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:9
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:9
   :END:
 
 
@@ -183,9 +183,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: I feel a strange vibration in my neck. First there is joy, and then this vibration. What is that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:10
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:10
   :END:
 
 
@@ -196,9 +196,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: What can I do to have that experience more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:11
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:11
   :END:
 
 
@@ -209,9 +209,9 @@ If you surrender to the Will of the Supreme, then you are doing absolutely the r
 * Question: I feel that I don’t know how to receive /prasad/ (food blessed by the spiritual Master) properly.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:12
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:12
   :END:
 
 
@@ -224,9 +224,9 @@ It is not just an orange or a banana that I am giving you, but a living portion 
 * Question: I am not sure that I know how to feel humble.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:13
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:13
   :END:
 
 
@@ -245,9 +245,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: I would like to ask you how you experience God when you meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:14
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:14
   :END:
 
 
@@ -258,9 +258,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: Is it possible to reach a form of realisation from a very straight back ground? It is hard to keep trying to stay with it. Is it possible, although it is difficult?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:15
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:15
   :END:
 
 
@@ -271,9 +271,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: Why is there some pain when the third eye starts to open?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:16
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:16
   :END:
 
 
@@ -284,9 +284,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: I have been meditating on and off for a couple of years, but a few months ago I did some Hatha Yoga and shortly afterwards I experienced pain in the third eye area. I don’t want it, but at the same time I don’t want to get rid of it. It helps me become conscious of everything I am doing, yet I feel confused about it. I was wondering if you could suggest anything.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:17
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:17
   :END:
 
 
@@ -297,9 +297,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: During meditation I find I have feelings of stress in the area of the solar plexus -- sometimes a spasm or contraction. Should I continue meditating?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:18
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:18
   :END:
 
 
@@ -310,9 +310,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: Some Masters teach that you should hold your spine erect. Is that always necessary?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:19
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:19
   :END:
 
 
@@ -323,9 +323,9 @@ Sometimes we become very haughty and proud; we are assailed by ego. Again, somet
 * Question: Guru, I noticed that some of your disciples are married, and others are single and celibate. I was wondering if you could comment on how a person decides whether to do his sadhana in partnership or alone?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:20
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:20
   :END:
 
 
@@ -340,9 +340,9 @@ Some spiritual Masters, like Sri Ramakrishna, used to advise most seekers not to
 * Question: I would like to lead a spiritual life, and my husband would too. But he doesn’t know which path to follow, and this is causing a lot of confusion as far as he is concerned. How can we know which path we should follow, and who our Guru is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:21
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:21
   :END:
 
 
@@ -353,9 +353,9 @@ Some spiritual Masters, like Sri Ramakrishna, used to advise most seekers not to
 * Question: Why don’t people have as much awareness of their soul while living as they do between one lifetime and another?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:22
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:22
   :END:
 
 
@@ -370,9 +370,9 @@ If we pray and meditate, we can become fully aware of the soul’s divine activi
 * Question: If you feel you have a sincere desire, how do you deal with the parts or aspects of yourself that you feel may not be sincere?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:23
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:23
   :END:
 
 
@@ -385,9 +385,9 @@ In the desire-world, if you want something, you try to get it with your intense 
 * Question: I had the feeling last week that you were thinking about me, and I saw you smiling, and found myself smiling like you. Is that possible?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:24
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:24
   :END:
 
 
@@ -398,9 +398,9 @@ In the desire-world, if you want something, you try to get it with your intense 
 * Question: I want to be in the spiritual life only.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:25
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:25
   :END:
 
 
@@ -417,9 +417,9 @@ It does not matter where you are, but what you are keeping inside your heart. If
 * Question: Does intuition come about from having previous incarnations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:26
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:26
   :END:
 
 
@@ -430,9 +430,9 @@ It does not matter where you are, but what you are keeping inside your heart. If
 * Question: You have told us that the planet Saturn has a powerful relationship with us. Is there also a relationship between us and other planets, or are they just beautiful manifestations of the Supreme’s multiplicity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:27
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:27
   :END:
 
 
@@ -447,9 +447,9 @@ Each soul is connected with some planet, and each planet has some influence on t
 * Question: What causes clothing to be uncomfortable? Sometimes I can’t stand the feel of clothing against my skin.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:28
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:28
   :END:
 
 
@@ -462,9 +462,9 @@ Again, if you are in a wrong consciousness, your clothing may be an outer manife
 * Question: Guru, is it possible to be in your consciousness but not be conscious or aware that we are in your consciousness? If so, is it better to be consciously in your consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:29
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:29
   :END:
 
 
@@ -479,9 +479,9 @@ It is always better to be consciously aware. If you are in the boat, that boat w
 * Question: How can we know our mission in the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:30
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:30
   :END:
 
 
@@ -496,9 +496,9 @@ We can feel the presence of our heart. But inside the heart we have to feel that
 * Question: Guru, a lady had an experience in which you made the sign of the cross on her forehead. You baptised and spoke to her daughter, then rose up. Was this a real experience from you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: EJ:31
+  :genre: qa
+  :keywords:
+  :cite-key: EJ:31
   :END:
 
 

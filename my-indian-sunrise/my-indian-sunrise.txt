@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER:
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1998
-  :PUBLISHER:
-  :CITE-KEY: MIS
-  :GENRE: song
+  :book-number:
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1998
+  :publisher:
+  :cite-key: MIS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MIS:1e1
+  :genre: note
+  :cite-key: MIS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MIS:1e2
+  :genre: note
+  :cite-key: MIS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Mother Yogamaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1994
-  :CITE-KEY: MIS:1
+  :cite-key: MIS:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Became Heaven’s fragrance-rose.
 * Mago Yogamaya Mago Yogamaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:2
+  :cite-key: MIS:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Amar hiyai jago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:3
+  :cite-key: MIS:3
   :END:
 
 #+BEGIN_VERSE
@@ -98,10 +98,10 @@ To awaken my heart.
 * Mata Yogamaya Janita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:4
+  :cite-key: MIS:4
   :END:
 
 #+BEGIN_VERSE
@@ -116,10 +116,10 @@ Hriday narahe mudita
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:5
+  :cite-key: MIS:5
   :END:
 
 #+BEGIN_VERSE
@@ -136,10 +136,10 @@ Prayer-heart sleepless you were.
 * Dushta Baro Chhilam Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:6
+  :cite-key: MIS:6
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Hate param tushta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:7
+  :cite-key: MIS:7
   :END:
 
 #+BEGIN_VERSE
@@ -174,10 +174,10 @@ Delight enormous and satisfaction precious.
 * Bhitar Bahir Dibash Rati (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:8
+  :cite-key: MIS:8
   :END:
 
 #+BEGIN_VERSE
@@ -192,10 +192,10 @@ Chhilam tomar Jishu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:9
+  :cite-key: MIS:9
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Like Jesus of his Mother Mary.
 * Tumi Je Tomar Karuna Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:10
+  :cite-key: MIS:10
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Ati chhoto taba kaya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:11
+  :cite-key: MIS:11
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Gave birth to a vastness-heart.
 * Baroi Bhalo Lage Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:12
+  :cite-key: MIS:12
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ Oishi nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:13
+  :cite-key: MIS:13
   :END:
 
 #+BEGIN_VERSE
@@ -287,10 +287,10 @@ And blossoms inside my heart-garden.
 * Dharar Buke Esechile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:14
+  :cite-key: MIS:14
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Baroi anurage
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:15
+  :cite-key: MIS:15
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ And enlighten us — all your dear ones.
 * Param Pita Bhagabane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:16
+  :cite-key: MIS:16
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Brata anukhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:17
+  :cite-key: MIS:17
   :END:
 
 #+BEGIN_VERSE
@@ -366,10 +366,10 @@ To the Lord Absolute Supreme.
 * Dyulok Hate Bhakti Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:18
+  :cite-key: MIS:18
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Moder prane nitya rahe jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:19
+  :cite-key: MIS:19
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Inside each family member.
 * Mora Chhilam Tomar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:20
+  :cite-key: MIS:20
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Param prabhur kanti saurabh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:21
+  :cite-key: MIS:21
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Our Lord Supreme in the family.
 * Bhitar Bahir Dibash Rati (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:22
+  :cite-key: MIS:22
   :END:
 
 #+BEGIN_VERSE
@@ -461,10 +461,10 @@ Chhilam tomar Jishu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-03-1994
-  :CITE-KEY: MIS:23
+  :cite-key: MIS:23
   :END:
 
 #+BEGIN_VERSE
@@ -482,10 +482,10 @@ Like Jesus of his Mother Mary.
 * Mago Amar Sakal Chinta Bhavana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-03-1994
-  :CITE-KEY: MIS:24
+  :cite-key: MIS:24
   :END:
 
 #+BEGIN_VERSE
@@ -499,10 +499,10 @@ Deije tomar vishan jatana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-03-1994
-  :CITE-KEY: MIS:25
+  :cite-key: MIS:25
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ Alas!
 * Namami Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-03-1994
-  :CITE-KEY: MIS:26
+  :cite-key: MIS:26
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Amai laho pranami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-03-1994
-  :CITE-KEY: MIS:27
+  :cite-key: MIS:27
   :END:
 
 #+BEGIN_VERSE
@@ -557,10 +557,10 @@ Do accept my love-devotion-obeisance.
 * Mantu Madal Rani Meri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-03-1994
-  :CITE-KEY: MIS:28
+  :cite-key: MIS:28
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Tara shashi bhanu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-03-1994
-  :CITE-KEY: MIS:29
+  :cite-key: MIS:29
   :END:
 
 #+BEGIN_VERSE
@@ -596,10 +596,10 @@ Sempiternally inside your soul we breathe.
 * Yogamaya Ghosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1994
-  :CITE-KEY: MIS:30
+  :cite-key: MIS:30
   :END:
 
 #+BEGIN_VERSE
@@ -613,10 +613,10 @@ Manab charite apaner dosh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1994
-  :CITE-KEY: MIS:31
+  :cite-key: MIS:31
   :END:
 
 #+BEGIN_VERSE
@@ -632,10 +632,10 @@ All around you in human life.
 * Yogamaya Shashi Kumar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-04-1994
-  :CITE-KEY: MIS:32
+  :cite-key: MIS:32
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ Shantir triptir ek parabar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-04-1994
-  :CITE-KEY: MIS:33
+  :cite-key: MIS:33
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ In Your earth-journey and Heaven-life.
 * Ma.......................... Yogamaya..... Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-04-1994
-  :CITE-KEY: MIS:34
+  :cite-key: MIS:34
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Ma Yogamaya
 * Shashi Kumar.. Ghosh Shanta Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:35
+  :cite-key: MIS:35
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Durbar manush dosh
 * Pita Amar Shashi Kumar Ghosh Cheye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1997
-  :CITE-KEY: MIS:36
+  :cite-key: MIS:36
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ Pracharite param prabhu bane
 * Tumi Je Hao Se Hao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:37
+  :cite-key: MIS:37
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Sri Chinmoy’s eldest brother]
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MIS:38
+  :cite-key: MIS:38
   :END:
 
 #+BEGIN_VERSE
@@ -789,10 +789,10 @@ Inside the world-room?
 * Man Chale Jai Akashe Hiya Ure Dhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:39
+  :cite-key: MIS:39
   :END:
 
 #+BEGIN_VERSE
@@ -814,10 +814,10 @@ Ananda rase dubaba dharani jagabo supta shibe
 * Kabe Amar Dip Shikhati Jwaliye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:40
+  :cite-key: MIS:40
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ Sab sadhana saphal habe miliye giye antare
 * Jhili Mili Jhili Mili Lily Lily
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-11-1995
-  :CITE-KEY: MIS:41
+  :cite-key: MIS:41
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ Hayecho aj dharar majhir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 01-11-1995
-  :CITE-KEY: MIS:42
+  :cite-key: MIS:42
   :END:
 
 #+BEGIN_VERSE
@@ -877,10 +877,10 @@ Of the World-Pilot Supreme.
 * Jago Paran Jago (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1997
-  :CITE-KEY: MIS:43
+  :cite-key: MIS:43
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Jagore paran jago
 * Jago Paran Jago (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-1997
-  :CITE-KEY: MIS:44
+  :cite-key: MIS:44
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ Jagore paran jago
 * Ananda Bhola Nirvana Dola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-10-1977
-  :CITE-KEY: MIS:45
+  :cite-key: MIS:45
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ Tunga ala chinmoy bhela
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-10-1977
-  :CITE-KEY: MIS:46
+  :cite-key: MIS:46
   :END:
 
 #+BEGIN_VERSE
@@ -961,10 +961,10 @@ Is spreading pinnacle-light.
 * Ami Chinmoy Mangalamoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-12-1984
-  :CITE-KEY: MIS:47
+  :cite-key: MIS:47
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Parama abhyudoy
 * Tomari Hok Jai Jai Jai E Katha Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:48
+  :cite-key: MIS:48
   :END:
 
 #+BEGIN_VERSE
@@ -1007,10 +1007,10 @@ Hasi bedana bhiti bhabana sadhana bhalobasa
 * Joy Krishna Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-02-1988
-  :CITE-KEY: MIS:49
+  :cite-key: MIS:49
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ Jachi ami barabhoi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-02-1988
-  :CITE-KEY: MIS:50
+  :cite-key: MIS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Your own supreme Divinity.
 * He Gopal He Gopal Dekho Dekho Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-03-1987
-  :CITE-KEY: MIS:51
+  :cite-key: MIS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Dekho dekho mor banda kapal
 * Krishna Name Kandbe Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-04-1988
-  :CITE-KEY: MIS:52
+  :cite-key: MIS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ Krishna name nachbe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-04-1988
-  :CITE-KEY: MIS:53
+  :cite-key: MIS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ My life shall dance while chanting Krishna’s name.
 * Kanu Kukur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-01-1993
-  :CITE-KEY: MIS:54
+  :cite-key: MIS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1112,10 +1112,10 @@ Thakte tumi sada jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-01-1993
-  :CITE-KEY: MIS:55
+  :cite-key: MIS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1131,10 +1131,10 @@ For the sweet affection of my heart.
 * Bhaja Govinda Charan Arabinda Shyama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-10-1994
-  :CITE-KEY: MIS:56
+  :cite-key: MIS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1148,10 +1148,10 @@ Shyama sundara gokulananda
 * Rama Raghava.. Rakshamam Krishna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-10-1994
-  :CITE-KEY: MIS:57
+  :cite-key: MIS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1165,10 +1165,10 @@ Krishna keshava krishna keshava krishna keshaba pahimam
 * Brindabane Brindabane Kheli Nachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-07-1996
-  :CITE-KEY: MIS:58
+  :cite-key: MIS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ Kheli nachi kanu sane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-07-1996
-  :CITE-KEY: MIS:59
+  :cite-key: MIS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1198,10 +1198,10 @@ I play and dance with Lord Krishna.
 * Mata Tumi Tomar Asi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: MIS:60
+  :cite-key: MIS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1218,10 +1218,10 @@ Tomai pabar byakulata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: MIS:61
+  :cite-key: MIS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1238,10 +1238,10 @@ To receive you.
 * Ek Hate Karga Ek Hate Padma Tumi Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1991
-  :CITE-KEY: MIS:62
+  :cite-key: MIS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1257,10 +1257,10 @@ Bhuloker bedana harani
 * Amar Mata Kali Mata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1992
-  :CITE-KEY: MIS:63
+  :cite-key: MIS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1274,10 +1274,10 @@ Pujte tomai tushte tomai karo amai atmajoyi
 * Amar Janani Sabar Janani Ma Kali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-05-1992
-  :CITE-KEY: MIS:64
+  :cite-key: MIS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ Atmagyaner amrita dao ogo maramer marali
 * Ma Je Amar Khamamoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1992
-  :CITE-KEY: MIS:65
+  :cite-key: MIS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1307,10 +1307,10 @@ Ma je amar dayamoyi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1992
-  :CITE-KEY: MIS:66
+  :cite-key: MIS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1324,10 +1324,10 @@ My Mother is the Mother of Compassion.
 * Kali Ma Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1992
-  :CITE-KEY: MIS:67
+  :cite-key: MIS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1340,10 +1340,10 @@ Tumije tomar karuna apar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-06-1992
-  :CITE-KEY: MIS:68
+  :cite-key: MIS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1357,10 +1357,10 @@ You are your Compassion infinite.
 * Khama Sindhu.. More Karo Ma Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-06-1992
-  :CITE-KEY: MIS:69
+  :cite-key: MIS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1374,10 +1374,10 @@ More karo ma taba karunar indu
 * Khama Karo Khamamoyi Kripa Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-06-1992
-  :CITE-KEY: MIS:70
+  :cite-key: MIS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1391,10 +1391,10 @@ More karo bighnajoyi more karo atmajoyi
 * Khama Karo More Khama Karo More E
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-06-1992
-  :CITE-KEY: MIS:71
+  :cite-key: MIS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1408,10 +1408,10 @@ Keno nahi jani malin e man tomare niyata hane
 * Kring Kring Kring
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: MIS:72
+  :cite-key: MIS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Amara tomar ushar swapani
 * Nam Dhare Ma Kali Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-01-1991
-  :CITE-KEY: MIS:73
+  :cite-key: MIS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1443,10 +1443,10 @@ Amar hiyai rakhbona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-01-1991
-  :CITE-KEY: MIS:74
+  :cite-key: MIS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1463,10 +1463,10 @@ And desire-fulfilments.
 * Mata Mata Dashabhuja
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-10-1991
-  :CITE-KEY: MIS:75
+  :cite-key: MIS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1483,10 +1483,10 @@ Kari taba stuti stab
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 03-10-1991
-  :CITE-KEY: MIS:76
+  :cite-key: MIS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1503,10 +1503,10 @@ I worship her with all my devotion.
 * Nandi Bhringi Mahadev Anuchar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-02-1989
-  :CITE-KEY: MIS:77
+  :cite-key: MIS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1519,10 +1519,10 @@ Priti bhara atmatyage nirantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-02-1989
-  :CITE-KEY: MIS:78
+  :cite-key: MIS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1539,10 +1539,10 @@ You love and serve your Master.
 * He Muralidhar Tumi Chira Manohar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-03-1987
-  :CITE-KEY: MIS:79
+  :cite-key: MIS:79
   :END:
 
 #+BEGIN_VERSE

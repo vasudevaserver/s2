@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1280
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MP-2
-  :GENRE: prayer
-  :KEYWORDS:
+  :book-number: 1280
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: MP-2
+  :genre: prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MP:96e1
+  :genre: note
+  :keywords:
+  :cite-key: MP:96e1
   :END:
 
 
@@ -37,9 +37,9 @@
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:96
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:96
   :END:
 
 
@@ -75,9 +75,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:97
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:97
   :END:
 
 
@@ -115,9 +115,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:98
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:98
   :END:
 
 
@@ -153,9 +153,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:99
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:99
   :END:
 
 
@@ -195,9 +195,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:100
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:100
   :END:
 
 
@@ -231,9 +231,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:101
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:101
   :END:
 
 
@@ -267,9 +267,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:102
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:102
   :END:
 
 
@@ -303,9 +303,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:103
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:103
   :END:
 
 
@@ -349,9 +349,9 @@ My Supreme, my Supreme, my Supreme!
 * Hawaii...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:104
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:104
   :END:
 
 
@@ -397,9 +397,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:105
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:105
   :END:
 
 
@@ -445,9 +445,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:106
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:106
   :END:
 
 
@@ -487,9 +487,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:107
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:107
   :END:
 
 
@@ -545,9 +545,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:108
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:108
   :END:
 
 
@@ -595,9 +595,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:109
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:109
   :END:
 
 
@@ -643,9 +643,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:110
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:110
   :END:
 
 
@@ -683,9 +683,9 @@ My Supreme, my Supreme, my Supreme!
 * Singapore...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:111
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:111
   :END:
 
 
@@ -721,9 +721,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:112
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:112
   :END:
 
 
@@ -759,9 +759,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:113
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:113
   :END:
 
 
@@ -813,9 +813,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:114
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:114
   :END:
 
 
@@ -855,9 +855,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:115
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:115
   :END:
 
 
@@ -907,9 +907,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:116
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:116
   :END:
 
 
@@ -949,9 +949,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:117
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:117
   :END:
 
 
@@ -995,9 +995,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:118
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:118
   :END:
 
 
@@ -1031,9 +1031,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:119
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:119
   :END:
 
 
@@ -1075,9 +1075,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:120
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:120
   :END:
 
 
@@ -1113,9 +1113,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:121
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:121
   :END:
 
 
@@ -1161,9 +1161,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:122
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:122
   :END:
 
 
@@ -1201,9 +1201,9 @@ My Supreme, my Supreme, my Supreme!
 * Kuala Lumpur, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:123
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:123
   :END:
 
 
@@ -1241,9 +1241,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:124
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:124
   :END:
 
 
@@ -1285,9 +1285,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:125
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:125
   :END:
 
 
@@ -1337,9 +1337,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:126
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:126
   :END:
 
 
@@ -1373,9 +1373,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:127
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:127
   :END:
 
 
@@ -1417,9 +1417,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:128
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:128
   :END:
 
 
@@ -1457,9 +1457,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:129
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:129
   :END:
 
 
@@ -1511,9 +1511,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:130
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:130
   :END:
 
 
@@ -1553,9 +1553,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:131
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:131
   :END:
 
 
@@ -1607,9 +1607,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:132
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:132
   :END:
 
 
@@ -1663,9 +1663,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:133
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:133
   :END:
 
 
@@ -1707,9 +1707,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:134
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:134
   :END:
 
 
@@ -1749,9 +1749,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:135
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:135
   :END:
 
 
@@ -1793,9 +1793,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:136
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:136
   :END:
 
 
@@ -1843,9 +1843,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:137
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:137
   :END:
 
 
@@ -1889,9 +1889,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:138
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:138
   :END:
 
 
@@ -1933,9 +1933,9 @@ My Supreme, my Supreme, my Supreme!
 * Penang, Malaysia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:139
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:139
   :END:
 
 
@@ -1977,9 +1977,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:140
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:140
   :END:
 
 
@@ -2041,9 +2041,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:141
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:141
   :END:
 
 
@@ -2085,9 +2085,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:142
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:142
   :END:
 
 
@@ -2129,9 +2129,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:143
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:143
   :END:
 
 
@@ -2173,9 +2173,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:144
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:144
   :END:
 
 
@@ -2221,9 +2221,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:145
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:145
   :END:
 
 
@@ -2273,9 +2273,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:146
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:146
   :END:
 
 
@@ -2315,9 +2315,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:147
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:147
   :END:
 
 
@@ -2367,9 +2367,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:148
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:148
   :END:
 
 
@@ -2409,9 +2409,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:149
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:149
   :END:
 
 
@@ -2453,9 +2453,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:150
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:150
   :END:
 
 
@@ -2505,9 +2505,9 @@ My Supreme, my Supreme, my Supreme!
 * Surabaya, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:151
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:151
   :END:
 
 
@@ -2557,9 +2557,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:152
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:152
   :END:
 
 
@@ -2593,9 +2593,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:153
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:153
   :END:
 
 
@@ -2633,9 +2633,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:154
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:154
   :END:
 
 
@@ -2673,9 +2673,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:155
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:155
   :END:
 
 
@@ -2711,9 +2711,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:156
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:156
   :END:
 
 
@@ -2749,9 +2749,9 @@ My Supreme, my Supreme, my Supreme!
 * Bandung, Indonesia...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:157
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:157
   :END:
 
 

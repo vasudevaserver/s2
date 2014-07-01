@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0238
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1975
- :PUBLISHER: Agni Press
- :CITE-KEY: ILMC
- :GENRE: discourse, qa
- :KEYWORDS:
+ :book-number: 0238
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1975
+ :publisher: Agni Press
+ :cite-key: ILMC
+ :genre: discourse, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Discourses
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILMC:1e1
+ :genre: section
+ :keywords:
+ :cite-key: ILMC:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * America in her depths
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILMC:1
+ :genre: discourse
+ :keywords:
+ :cite-key: ILMC:1
   :END:
 
 
@@ -67,9 +67,9 @@ It is not only for political and economic purposes that the divine logic of even
 * Spirituality and patriotism
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILMC:2
+ :genre: discourse
+ :keywords:
+ :cite-key: ILMC:2
   :END:
 
 
@@ -92,9 +92,9 @@ So you cannot separate your country from your spiritual life. As you have accept
 * Patriotism and government
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: ILMC:3
+ :genre: discourse
+ :keywords:
+ :cite-key: ILMC:3
   :END:
 
 
@@ -125,9 +125,9 @@ We say politics is bad and makes mistakes. We say we are bad -- that our body is
 * Part II: Questions and answers on patriotism
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: ILMC:4e1
+ :genre: section
+ :keywords:
+ :cite-key: ILMC:4e1
   :END:
 
 
@@ -135,9 +135,9 @@ We say politics is bad and makes mistakes. We say we are bad -- that our body is
 * Question: In what manner does a large physical object, such as a mountain, show its patriotism towards the country that it is in?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:4
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:4
   :END:
 
 
@@ -148,9 +148,9 @@ We say politics is bad and makes mistakes. We say we are bad -- that our body is
 * Question: What does the soul of America think of patriotism?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:5
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:5
   :END:
 
 
@@ -161,9 +161,9 @@ We say politics is bad and makes mistakes. We say we are bad -- that our body is
 * Question: Why do Americans tend to be unpatriotic?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:6
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:6
   :END:
 
 
@@ -178,9 +178,9 @@ If there are some individuals who exploit the idea of patriotism, we can't say t
 * Question: How can I increase my patriotism?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:7
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:7
   :END:
 
 
@@ -195,9 +195,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: When we express patriotism, how can we still make it clear to people that we feel there is something higher and brighter that they should aim for?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:8
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:8
   :END:
 
 
@@ -208,9 +208,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: What does patriotism do for the growth of an individual soul?/
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:9
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:9
   :END:
 
 
@@ -221,9 +221,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: How can one be divinely patriotic to one's country?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:10
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:10
   :END:
 
 
@@ -234,9 +234,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: How can America's leaders best foster true patriotism in the American people?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:11
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:11
   :END:
 
 
@@ -247,9 +247,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: What were the most prominent essential qualities of Thomas Jefferson?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:12
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:12
   :END:
 
 
@@ -260,9 +260,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: When a seeker aspires, God reciprocates with Grace. When people of a country are patriotic, does that inspire God to shower a special type of Grace on that country?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:13
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:13
   :END:
 
 
@@ -273,9 +273,9 @@ You can increase your patriotism only by loving your countrymen more. If there a
 * Question: In a country which is predominantly intellectual, what is the best way of inspiring soulful patriotism?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:14
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:14
   :END:
 
 
@@ -288,9 +288,9 @@ But in the spiritual life, we have to know that the power of the heart is much m
 * Question: Is it more important to offer inner patriotic love or outer patriotic service?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:15
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:15
   :END:
 
 
@@ -303,9 +303,9 @@ Now, there are some people who inwardly have true love for their country, but ou
 * Question: Could you please tell us what the motto of America means from the highest spiritual point of view?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:16
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:16
   :END:
 
 
@@ -316,9 +316,9 @@ Now, there are some people who inwardly have true love for their country, but ou
 * Question: How can we have a patriotic feeling for our country when we are not one hundred percent behind the government?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:17
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:17
   :END:
 
 
@@ -331,9 +331,9 @@ On your part as a seeker you have to create aspiration and inspiration in those 
 * Question: What qualities in particular made the American patriots so great?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:18
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:18
   :END:
 
 
@@ -348,9 +348,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: Each nation says, "God is on our side." Which side is God really on?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:19
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:19
   :END:
 
 
@@ -361,9 +361,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: At its best, what does patriotism do for the world consciousness?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:20
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:20
   :END:
 
 
@@ -374,9 +374,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: Last week in Philadelphia when we visited Independence Hall and went through the rooms, I got a very strong feeling that I had been there before; and I want to know if my soul just was reacting patriotically or whether I really was there during the revolutionary period?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:21
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:21
   :END:
 
 
@@ -387,9 +387,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: If someone doesn't feel very patriotic, how can he increase his patriotic spirit?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:22
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:22
   :END:
 
 
@@ -400,9 +400,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: How has the patriotic feeling in America changed since the American Revolution?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:23
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:23
   :END:
 
 
@@ -413,9 +413,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: Guru, if there is a difference between the souls of nations, does that mean that the word "patriotism" will have a separate meaning in, say, Australia as opposed to America?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:24
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:24
   :END:
 
 
@@ -426,9 +426,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: From Heaven does a great patriot see his offering as an offering to a country or to God in general?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:25
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:25
   :END:
 
 
@@ -439,9 +439,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: What is the spiritual significance of the colours red, white and blue in the American flag?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:26
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:26
   :END:
 
 
@@ -452,9 +452,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: Do children have a more spontaneous love for their country than adults?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:27
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:27
   :END:
 
 
@@ -465,9 +465,9 @@ The American patriots were very noble souls. They never said they desired leader
 * Question: What is patriotism?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:28
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:28
   :END:
 
 
@@ -480,9 +480,9 @@ Some countries are regarded as the fatherland. In these cases, the father's wisd
 * Question: How can we be patriots without separating ourselves from other countries?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:29
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:29
   :END:
 
 
@@ -501,9 +501,9 @@ We start by loving something small and gradually we learn to love the whole univ
 * Question: If we love our country but live elsewhere, how can we serve our country?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: ILMC:30
+ :genre: qa
+ :keywords:
+ :cite-key: ILMC:30
   :END:
 
 

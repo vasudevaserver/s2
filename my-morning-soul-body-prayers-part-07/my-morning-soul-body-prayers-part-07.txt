@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1321
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MP-7
-  :GENRE: prayer
-  :KEYWORDS:
+  :book-number: 1321
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: MP-7
+  :genre: prayer
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MP:412e1
+  :genre: note
+  :keywords:
+  :cite-key: MP:412e1
   :END:
 
 
@@ -42,7 +42,7 @@ Before using seated
 
 double-arm machine
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I do not want to be blinded
@@ -65,7 +65,7 @@ with both arms simultaneously
 
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 You are asking me
@@ -93,7 +93,7 @@ with one arm
 (28 right, 29 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I shall obey Your Eye
@@ -117,7 +117,7 @@ with both arms simultaneously
 and 190 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -150,7 +150,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 If I am not for You only,
@@ -172,7 +172,7 @@ Before lifting 350 lbs. 56 times
 with one arm
 (27 right, 29 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -196,7 +196,7 @@ and 160 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Please, please awaken my heart.
@@ -215,7 +215,7 @@ with both arms simultaneously
 (Total: 500 lbs.)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I need inspiration every day
@@ -237,7 +237,7 @@ with one arm
 (29 right, 28 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -265,7 +265,7 @@ with both arms simultaneously
 and 190 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Today I shall keep only one thing
@@ -286,7 +286,7 @@ Before lifting 250 lbs. 3 times
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 May my heart obey Your Eye.
@@ -305,7 +305,7 @@ with one arm
 (25 right, 29 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My Lord Beloved Supreme,
@@ -330,7 +330,7 @@ with both arms simultaneously
 and 80 lbs.
 with right arm
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I must face all my life's problems
@@ -350,7 +350,7 @@ Before using seated
 calf raise machine
 up to 900 lbs.
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -374,7 +374,7 @@ up to 210 lbs.
 with both arms simultaneously
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I have looked far beyond the clouds,
@@ -398,7 +398,7 @@ and 190 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Do give my heart the capacity
@@ -418,7 +418,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -440,7 +440,7 @@ with one arm
 
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -464,7 +464,7 @@ with both arms simultaneously
 and 160 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 
@@ -487,7 +487,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My Lord Beloved Supreme,
@@ -507,7 +507,7 @@ Before lifting 350 lbs. 54 times
 with one arm
 (27 right, 27 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -529,7 +529,7 @@ from the ground
 up to 40 lbs.
 with both arms simultaneously
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Today I am receiving
@@ -552,7 +552,7 @@ with one arm
 
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 What we need is faith in our mind.
@@ -572,7 +572,7 @@ Before using seated
 calf raise machine
 up to 900 lbs.
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My Supreme, You are
@@ -592,7 +592,7 @@ Before lifting 400 lbs. 66 times
 with one arm
 (33 right, 33 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 There was a time when I was
@@ -619,7 +619,7 @@ with both arms simultaneously
 and 190 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Indeed, the smiles of my life
@@ -638,7 +638,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -660,7 +660,7 @@ with one arm
 (27 right, 30 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Your absolute Commands
@@ -679,7 +679,7 @@ from the ground
 up to 40 lbs.
 with both arms simultaneously
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -700,7 +700,7 @@ double-arm machine
 up to 160 lbs.
 with both arms simultaneously
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Do inundate my entire life
@@ -720,7 +720,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I am my heart's deep sorrow.
@@ -739,7 +739,7 @@ Before lifting 400 lbs. 72 times
 with one arm
 (36 right, 36 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Today my heart would like
@@ -758,7 +758,7 @@ calf raise machine
 up to 1,000 lbs.
 New record
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I know, I know,
@@ -780,7 +780,7 @@ up to 45 lbs.
 with both arms simultaneously
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -803,7 +803,7 @@ and 230 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My soul's confidence-height
@@ -822,7 +822,7 @@ with one arm
 (56 right, 53 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -847,7 +847,7 @@ with both arms simultaneously
 and 160 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 
@@ -871,7 +871,7 @@ Before lifting 250 lbs. 3 times
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -894,7 +894,7 @@ Before lifting 400 lbs. 107 times
 with one arm
 (52 right, 55 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -918,7 +918,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Today I shall have purity
@@ -940,7 +940,7 @@ double-arm machine
 up to 160 lbs.
 with both arms simultaneously
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -963,7 +963,7 @@ from the ground
 up to 70 lbs.
 with one arm
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -986,7 +986,7 @@ Before using seated
 calf raise machine
 up to 900 lbs.
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1011,7 +1011,7 @@ and 190 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My heart shall keep dreaming,
@@ -1032,7 +1032,7 @@ with both arms simultaneously
 (Total 500 lbs.)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Do bless me and my life
@@ -1051,7 +1051,7 @@ with one arm
 (55 right, 54 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 May my life be a life of duty.
@@ -1070,7 +1070,7 @@ Before using seated
 double-arm machine
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Your sustaining Grace
@@ -1091,7 +1091,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1113,7 +1113,7 @@ Before lifting 400 lbs. 98 times
 with one arm
 (48 right, 50 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Your unending Grace
@@ -1135,7 +1135,7 @@ with both arms simultaneously
 (Total: 500 lbs.)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 When I am in my soul,
@@ -1156,7 +1156,7 @@ from the ground
 up to 85 lbs.
 with one arm
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1180,7 +1180,7 @@ and 200 lbs.
 with each arm separately
 New record
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 
@@ -1206,7 +1206,7 @@ and 160 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1227,7 +1227,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1248,7 +1248,7 @@ Before lifting 400 lbs.
 with one arm
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1272,7 +1272,7 @@ and 160 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 A true God-lover
@@ -1293,7 +1293,7 @@ Before lifting 250 lbs. twice
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1309,9 +1309,9 @@ My Supreme, my Supreme!
 * 24 July 1999...
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: MP:412
+  :genre: prayer
+  :keywords:
+  :cite-key: MP:412
   :END:
 
 
@@ -1342,7 +1342,7 @@ Before using seated
 calf raise machine
 up to 1,000 lbs.
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Self-doubters are self-torturers
@@ -1366,7 +1366,7 @@ with both arms simultaneously
 and 160 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Your Compassion is
@@ -1387,7 +1387,7 @@ Before lifting 250 lbs. 3 times
 with both arms simultaneously
 (Total: 500 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 My prayers, my meditations,
@@ -1408,7 +1408,7 @@ Before lifting 400 lbs. 99 times
 with one arm
 (50 right, 49 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 
@@ -1434,7 +1434,7 @@ with both arms simultaneously
 and 200 lbs.
 with each arm separately
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1455,7 +1455,7 @@ Before lifting 260 lbs. 3 times
 with both arms simultaneously
 (Total: 520 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Please, please never allow me
@@ -1475,7 +1475,7 @@ Before lifting 400 lbs. 102 times
 with one arm
 (50 right, 52 left)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I have seen the head and face
@@ -1500,7 +1500,7 @@ from the ground
 up to 45 lbs.
 with both arms simultaneously
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I must meditate and meditate
@@ -1520,7 +1520,7 @@ Before using seated
 calf raise machine
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 A purity-flooded heart
@@ -1542,7 +1542,7 @@ and 160 lbs.
 with each arm separately
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1562,7 +1562,7 @@ Before lifting 260 lbs. 3 times
 with both arms simultaneously
 (Total: 520 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I wish to have a private interview.
@@ -1582,7 +1582,7 @@ with one arm
 (52 right, 53 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 I am so grateful to You
@@ -1602,7 +1602,7 @@ from the ground
 up to 85 lbs.
 with one arm
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1622,7 +1622,7 @@ with both arms simultaneously
 (Total: 520 lbs.)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 
 My Supreme, my Supreme!
@@ -1642,7 +1642,7 @@ Before using seated
 calf raise machine
 up to 1,000 lbs.
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 Do remove the thick veil
@@ -1664,7 +1664,7 @@ Before lifting 260 lbs. twice
 with both arms simultaneously
 (Total: 520 lbs.)
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 May my life be made of
@@ -1683,7 +1683,7 @@ with one arm
 (51 right, 52 left)
 
 
-  :GENRE: prayer
+  :genre: prayer
 
 My Supreme, my Supreme!
 May willingness be

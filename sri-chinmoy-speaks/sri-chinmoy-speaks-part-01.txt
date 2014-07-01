@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0269
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCS-1
-  :GENRE: discourse, story, qa
-  :KEYWORDS:
+  :book-number: 0269
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: SCS-1
+  :genre: discourse, story, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 Part I - Discourses
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@ Part I - Discourses
 * My Puerto Rico
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:1
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:1
   :END:
 
 
@@ -74,9 +74,9 @@ O my Puerto Rico!
 * Mother Earth
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:2
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:2
   :END:
 
 
@@ -101,9 +101,9 @@ Mother Earth, powerfully you concentrate, soulfully you meditate, fruitfully you
 * Patience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:3
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:3
   :END:
 
 
@@ -132,9 +132,9 @@ New York, New York \\
 * Desire-life and aspiration-life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:4
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:4
   :END:
 
 
@@ -155,9 +155,9 @@ Before he entered into the spiritual life, the seeker quite often, if not always
 * Question: How can I maintain my inner strength during my meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:5
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:5
   :END:
   
   
@@ -174,9 +174,9 @@ New York, New York \\
 * Consciousness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCS:6
+  :genre: discourse
+  :keywords:
+  :cite-key: SCS:6
   :END:
 
 
@@ -201,9 +201,9 @@ New York, New York \\
 * Part II - Interview with two Boston journalists
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:7e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:7e1
   :END:
 
 
@@ -211,9 +211,9 @@ New York, New York \\
 * Question: Could you say a few words on your purpose in coming to the West?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:7
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:7
   :END:
   
 
@@ -224,9 +224,9 @@ New York, New York \\
 * Question: Thank you very much. There seems to be a growing number of young people in the West who are interested in spirituality. Could you comment on that -- if you see any reason for that or any future to it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:8
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:8
   :END:
 
 
@@ -239,9 +239,9 @@ The spiritual life is not the sole monopoly of India. Spirituality is for everyo
 * Question:  Why at this period in history is the West, which has been developing materialistically, now beginning to develop spiritually?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:9
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:9
   :END:
 
 
@@ -256,9 +256,9 @@ What the West is doing now is diving deep within in order to become the life of 
 * Question: Could you say something about your activities at the U.N.?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:10
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:10
   :END:
  
 
@@ -269,9 +269,9 @@ What the West is doing now is diving deep within in order to become the life of 
 * Question: How do you find the response; do you find it is growing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:11
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:11
   :END:
 
 
@@ -282,9 +282,9 @@ What the West is doing now is diving deep within in order to become the life of 
 * Question: How did you come to begin doing this work at the U.N.?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:12
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:12
   :END:
   
 
@@ -295,9 +295,9 @@ What the West is doing now is diving deep within in order to become the life of 
 * Question: Do you have any comments on the world food problem -- the fact that many people are starving and more will be starving? Some people say that that is due to the fact that it requires much more grain today to feed a cow than a person would eat directly.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:13
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:13
   :END:
   
 
@@ -308,9 +308,9 @@ What the West is doing now is diving deep within in order to become the life of 
 * Question: Can you explain to us your philosophy of love, devotion and surrender?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:14
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:14
   :END:
 
 
@@ -329,9 +329,9 @@ When we surrender to God, we feel that God is our most illumined existence. The 
 * Question: What is the cause of this separation between man and God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:15
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:15
   :END:
 
 
@@ -342,9 +342,9 @@ When we surrender to God, we feel that God is our most illumined existence. The 
 * Question: What about the fact that we take physical incarnations? Isn't that separation right there? I mean, just the fact that we all live in individual homes and do different tasks and things like that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:16
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:16
   :END:
 
 
@@ -355,9 +355,9 @@ When we surrender to God, we feel that God is our most illumined existence. The 
 * Question: When people in America began to take an interest in Eastern spirituality, many of them were disillusioned with social action and the consciousness of social problems, and they just wanted to meditate and be quiet. But now people are beginning to form communities to work together and to develop a little bit of that sense you were talking about. What is your view of the relation between spirituality and social consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:17
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:17
   :END:
 
 
@@ -370,9 +370,9 @@ But first we have to know the supreme secret. The supreme secret is God comes fi
 * Question: What is the purpose of ignorance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:18
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:18
   :END:
  
 
@@ -385,9 +385,9 @@ This life, as you know, is a kind of game that we play; we call it a cosmic Game
 * Question: Is it necessary to have a Guru, or teacher, to come to this realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:19
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:19
   :END:
  
 
@@ -404,9 +404,9 @@ If I know there is a way to reach my destination sooner than otherwise, then why
 * Question: The opportunity is not open to everyone. Not everyone finds the right teacher.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:20
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:20
   :END:
 
 
@@ -425,9 +425,9 @@ I take my disciples' spiritual life as a serious matter, a most serious matter. 
 * Question: Do you believe there is only one teacher for each individual?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:21
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:21
   :END:
 
 
@@ -438,9 +438,9 @@ I take my disciples' spiritual life as a serious matter, a most serious matter. 
 * Question: What happens if you disagree with some of your Master's teachings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:22
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:22
   :END:
 
 
@@ -451,9 +451,9 @@ I take my disciples' spiritual life as a serious matter, a most serious matter. 
 * Question: In the East there is more of a tradition of seeking a teacher like this. But in the West we are more into being individual. Could you comment on that please?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:23
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:23
   :END:
 
 
@@ -465,9 +465,9 @@ I take my disciples' spiritual life as a serious matter, a most serious matter. 
  
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:24
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:24
   :END:
 
 
@@ -478,9 +478,9 @@ I take my disciples' spiritual life as a serious matter, a most serious matter. 
 * Question: And then you came to America?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:25
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:25
   :END:
 
 
@@ -493,9 +493,9 @@ So again, it was my obedience that brought me here. I listened to the dictates o
 * Question: How do you go about spreading your teachings? Do you write?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:26
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:26
   :END:
  
 
@@ -508,9 +508,9 @@ It is just like sunlight. I can leave my windows and doors open and, again, I ca
 * Question: What is the greatest thing we can do for our children?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:27
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:27
   :END:
 
 
@@ -527,9 +527,9 @@ In the beginning, if the child is not instructed, if the child is not taught, ho
 * Question: At what age can you get a child to start meditating?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:28
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:28
   :END:
 
 
@@ -540,9 +540,9 @@ In the beginning, if the child is not instructed, if the child is not taught, ho
 * Question: What do you think of marriage? And what do you think the spiritual place of a man and a woman is in this life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:29
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:29
   :END:
 
 
@@ -557,9 +557,9 @@ There is no hard and fast rule that one cannot realise God if he is married or i
 * Question: Can a husband and wife have different teachers?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:30
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:30
   :END:
 
 
@@ -570,9 +570,9 @@ There is no hard and fast rule that one cannot realise God if he is married or i
 * Question: But does the union of two people diminish at all when they are following two different paths to the same thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:31
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:31
   :END:
 
 
@@ -585,9 +585,9 @@ But if the wife says, "I want to follow the path of the heart," and the husband 
 * Question: What about the place of women in the spiritual life at this time of 'women's liberation' and all that? What is the woman's real place in a spiritual sense and a man's real place?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:32
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:32
   :END:
 
 
@@ -598,9 +598,9 @@ But if the wife says, "I want to follow the path of the heart," and the husband 
 * Question: We don't want to take much more of your time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCS:33
+  :genre: qa
+  :keywords:
+  :cite-key: SCS:33
   :END:
 
 
@@ -613,18 +613,18 @@ But if the wife says, "I want to follow the path of the heart," and the husband 
 * Appendixes
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCS:34e1
+  :genre: section
+  :keywords:
+  :cite-key: SCS:34e1
   :END:
 
 
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCS:34e2
+  :genre: note
+  :keywords:
+  :cite-key: SCS:34e2
   :END: 
 
 

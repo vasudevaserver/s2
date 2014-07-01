@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 878
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: THYH
-  :GENRE: song
+  :book-number: 878
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: THYH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: THYH:1e1
+  :genre: note
+  :cite-key: THYH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: THYH:1e2
+  :genre: note
+  :cite-key: THYH:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ Folk song melodies with Bengali words
 * Asha Tari Hase Asha Tari Hase Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:1
+  :cite-key: THYH:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Hiya majhi nashe kalo man akashe
 * Chal... Bhai Bon Oi Shun.. Bibhur Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:2
+  :cite-key: THYH:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Bibhur dak sab kichu ghor tyag anahata dhani paramer bani
 * Jago..... Vidhu Kripa Mago Vidhu Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:3
+  :cite-key: THYH:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Aum kring kling aum kring kling
 * Ore Amar Pusha Mahish Ore Tui Ar Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:4
+  :cite-key: THYH:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ Mahanander ek abhinya kaya
 * Sadhu Jadu Madhu Ar Sona Char Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:5
+  :cite-key: THYH:5
   :END:
 
 #+BEGIN_VERSE
@@ -130,10 +130,10 @@ Char deha jyoti diye bona
 * Nijhum Rate.. Pujibo Ami Chokher Jale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:6
+  :cite-key: THYH:6
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ Pujibo ami chokher jale amar nathe
 * Ashesh Dhan Chahe Man Anukhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:7
+  :cite-key: THYH:7
   :END:
 
 #+BEGIN_VERSE
@@ -166,10 +166,10 @@ Sandhani mor khudha shudhu alo sudha
 * Ananda Tiyasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:8
+  :cite-key: THYH:8
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Jai jai jai jai jai jai jai jai jai jai
 * Sukhi Habo Sukhi Habo Sukhi Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:9
+  :cite-key: THYH:9
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Maha pulakite shiharibo
 * Maner Bane Ghure Berai Maner Bane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:10
+  :cite-key: THYH:10
   :END:
 
 #+BEGIN_VERSE
@@ -221,10 +221,10 @@ Jiban rane dhangsa habo jiban rane
 * Nacho Nacho Oi Kanu Asimer Hiya Bhanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:11
+  :cite-key: THYH:11
   :END:
 
 #+BEGIN_VERSE
@@ -240,10 +240,10 @@ Ananda plaban muktir spandan
 * London Setu Kampiche.. London Setu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:12
+  :cite-key: THYH:12
   :END:
 
 #+BEGIN_VERSE
@@ -257,10 +257,10 @@ London setu kampiche sundari kandiche
 * Majhi.. Manthare Aji Paramanande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:13
+  :cite-key: THYH:13
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ Paramanande paramanande jiban swapan
 * Tin Harin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:14
+  :cite-key: THYH:14
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ the tune of the English nursery rhyme
 * Ei Taba Bhumi Ei Mama Bhumi Jabadip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:15
+  :cite-key: THYH:15
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Moder ei bhumi mora bhir swami
 * E Taba Antar E Mama Antar Akuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: THYH:16
+  :cite-key: THYH:16
   :END:
 
 #+BEGIN_VERSE
@@ -333,10 +333,10 @@ Janme chila e hiya moder lagiya
 * This Heart Is Your Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: THYH:17
+  :cite-key: THYH:17
   :END:
 
 #+BEGIN_VERSE

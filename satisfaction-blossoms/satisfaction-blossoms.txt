@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 544
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1983
-  :PUBLISHER:
-  :CITE-KEY: SBS
-  :GENRE: song
+  :book-number: 544
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1983
+  :publisher:
+  :cite-key: SBS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SBS:1e1
+  :genre: note
+  :cite-key: SBS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SBS:1e2
+  :genre: note
+  :cite-key: SBS:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Amar Jiban Tomar Charane Tomar Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:1
+  :cite-key: SBS:1
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Paramananda sudha nirjhar
 * Ami Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:2
+  :cite-key: SBS:2
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ blind singer Krishna Chandra Dey]
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SBS:3
+  :cite-key: SBS:3
   :END:
 
 #+BEGIN_VERSE
@@ -123,10 +123,10 @@ Encircling fast my earth-bound life.
 * Ananda Dheu Charidhare Mor Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:4
+  :cite-key: SBS:4
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ Labhiyachi sandhan
 * Anna Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:5
+  :cite-key: SBS:5
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Nami madhumayi asima janani
 * Antare Eso Shiba Shankar Jwaliye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:6
+  :cite-key: SBS:6
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Niye jao maha rati
 * Antare Mamo Sundaratama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:7
+  :cite-key: SBS:7
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ Nashiya timir kalo
 * Ashar Pahar Trishar Pahar Tyager Pahar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:8
+  :cite-key: SBS:8
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Bhitare bahire ek ajanar fuara opar
 * Asuk Namiya Jibane Amar Nitya Jyotir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:9
+  :cite-key: SBS:9
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Purna atmahara
 * Atal Tale Atala Hriday Dale Kamala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:10
+  :cite-key: SBS:10
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ Atma bale pralaya
 * Bane Bane Ghure Berai Bane.. Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:11
+  :cite-key: SBS:11
   :END:
 
 #+BEGIN_VERSE
@@ -277,10 +277,10 @@ Heri chirantane
 * Baoul Ami Baoul Sure Param Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:12
+  :cite-key: SBS:12
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Ek abhinna prithi
 * Bedanar Halo Abasan Abasan Jani Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:13
+  :cite-key: SBS:13
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Mor samarpaner gan
 * Bishal Haite Subishal Ami Anu Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:14
+  :cite-key: SBS:14
   :END:
 
 #+BEGIN_VERSE
@@ -336,10 +336,10 @@ Sahe mor ei tanu
 * Chetana Amar Akashe Batase Mukta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:15
+  :cite-key: SBS:15
   :END:
 
 #+BEGIN_VERSE
@@ -355,10 +355,10 @@ Shashwata premanandan
 * Dake Amai Dake Tomai Dake Sarba Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:16
+  :cite-key: SBS:16
   :END:
 
 #+BEGIN_VERSE
@@ -374,10 +374,10 @@ Pran matano gane
 * Darashan Mor Sundara Hok
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:17
+  :cite-key: SBS:17
   :END:
 
 #+BEGIN_VERSE
@@ -393,10 +393,10 @@ Sundare bhalobasi
 * Jabo Kathati Na Bale Gahan Hriday Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:18
+  :cite-key: SBS:18
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ Jagabo jyoti rabi
 * Janma Bhumi Alo Bhumi Amar Janma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:19
+  :cite-key: SBS:19
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ Sanataner rabi
 * Jatri Chalo Jatri Chalo Chalo Anukkhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:20
+  :cite-key: SBS:20
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ Hatashar maran
 * Jiban Maran Chinta Plaban Amare Karena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:21
+  :cite-key: SBS:21
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ Shanta madhur harsha
 * Kabindra Rabindranath Amarar Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:22
+  :cite-key: SBS:22
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ Rishi kabi anupama prachurjya bhashwar
 * Kanna Hasir Dheu Uteche Kanna Hasir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:23
+  :cite-key: SBS:23
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Ache ki hai keu
 * Kanna Nadi Epare Ananda Dheu Opare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:24
+  :cite-key: SBS:24
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Mukti tapan opare
 * Kapalika.. Shankara Parvati Shusadikha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:25
+  :cite-key: SBS:25
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Suro duni bijoyini hiya bale
 * Karabi Prasun Chayan Karibo Bhatir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:26
+  :cite-key: SBS:26
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Atmagyaner brate
 * Karma Phal Mor Nitya Ami Karbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:27
+  :cite-key: SBS:27
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Nami narayan
 * Katha Kaje Jena Chintai Jena Satya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:28
+  :cite-key: SBS:28
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ Satyer uddeshe
 * Ke Jai Ke Jai Charana Parashe (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:29
+  :cite-key: SBS:29
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ Ingite bale ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SBS:30
+  :cite-key: SBS:30
   :END:
 
 #+BEGIN_VERSE
@@ -650,10 +650,10 @@ And inspires me in silence supreme
 * Lila Sathi Hate Bale Karte Bale Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:31
+  :cite-key: SBS:31
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ Purna habe mela
 * Madal Bal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:32
+  :cite-key: SBS:32
   :END:
 
 #+BEGIN_VERSE
@@ -688,10 +688,10 @@ Jharna parimal jharna parimal
 * Madhu Jara Chai Ai Ai Ai Kari Madhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:33
+  :cite-key: SBS:33
   :END:
 
 #+BEGIN_VERSE
@@ -707,10 +707,10 @@ Madhu rupe kari rupayan
 * Mane Pare Geche Amar Swarup Peyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:34
+  :cite-key: SBS:34
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Madhu amrita gyan
 * Narada Narada Brahma Manasha Putra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:35
+  :cite-key: SBS:35
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Pranati janai maharshi
 * Nikhil Bhuban Amar Apan Amar Nijer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:36
+  :cite-key: SBS:36
   :END:
 
 #+BEGIN_VERSE
@@ -766,10 +766,10 @@ Par nahe ar keha
 * Phulero Dola
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-10-1980
-  :CITE-KEY: SBS:37
+  :cite-key: SBS:37
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Jibanahutir pabitra dhup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-10-1980
-  :CITE-KEY: SBS:38
+  :cite-key: SBS:38
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ No division-dole.
 * Pita Amar Vishwapita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:39
+  :cite-key: SBS:39
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Alor desher tari
 * Prahllad.. Dhara Ar Adharar Ahllad Vishnu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:40
+  :cite-key: SBS:40
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Bidhatar pada anandamoy
 * Rakta Lochana Bhim Lochana Bhim
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:41
+  :cite-key: SBS:41
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Amar amire nasho
 * Sabar Parane Amare Nehari Hayegechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:42
+  :cite-key: SBS:42
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Jwale amar bishwarup
 * Sangit Sambit Lahari Sangit Sambit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:43
+  :cite-key: SBS:43
   :END:
 
 #+BEGIN_VERSE
@@ -900,10 +900,10 @@ Chidakashe niyata
 * Sanjher Tara.. Tumi Tomar Para Shantir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:44
+  :cite-key: SBS:44
   :END:
 
 #+BEGIN_VERSE
@@ -919,10 +919,10 @@ Srotadhara
 * Shashi Kumar.. Ghosh Shanta Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:45
+  :cite-key: SBS:45
   :END:
 
 #+BEGIN_VERSE
@@ -944,10 +944,10 @@ Durbar manush dosh
 * Shyama Amar Dhyane Gyane Shyama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:46
+  :cite-key: SBS:46
   :END:
 
 #+BEGIN_VERSE
@@ -963,10 +963,10 @@ Shakti abhijane
 * Singharaj Sangram Garjan Saj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:47
+  :cite-key: SBS:47
   :END:
 
 #+BEGIN_VERSE
@@ -981,10 +981,10 @@ Urdhe gagane nimne pabane taj
 * Sonali Baran Madhur Nayan Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:48
+  :cite-key: SBS:48
   :END:
 
 #+BEGIN_VERSE
@@ -1000,10 +1000,10 @@ Swarger naba Jishu
 * Sonar Baran Jyotir Toran Jemni Gela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:49
+  :cite-key: SBS:49
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ Aloi dila chheye
 * Sundar Oi Ankhi Nahi Dei Kabhu Phankhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:50
+  :cite-key: SBS:50
   :END:
 
 #+BEGIN_VERSE
@@ -1044,10 +1044,10 @@ Amarar mahadan
 * Tomar Lilar Sathi Hate Esechi Ei Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:51
+  :cite-key: SBS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1065,10 +1065,10 @@ Tomar bijoy habe
 * Vijali Chamake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-01-1982
-  :CITE-KEY: SBS:52
+  :cite-key: SBS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1084,10 +1084,10 @@ Paramanande bajai sabai murali
 * Vishnu Debata Vishnu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:53
+  :cite-key: SBS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1102,10 +1102,10 @@ Taba khama srotadhar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: SBS:54
+  :cite-key: SBS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1121,10 +1121,10 @@ You are Your Infinity’s Forgiveness-Flow.
 * Vishwaruper Dhyane Tanmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SBS:55
+  :cite-key: SBS:55
   :END:
 
 #+BEGIN_VERSE

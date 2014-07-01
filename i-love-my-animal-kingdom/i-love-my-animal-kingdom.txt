@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1402
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: ILAK
-  :GENRE: song
+  :book-number: 1402
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: ILAK
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ILAK:1e1
+  :genre: note
+  :cite-key: ILAK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ILAK:1e2
+  :genre: note
+  :cite-key: ILAK:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ Collection of 40 English animal songs
 * Ant-Frugality I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:1
+  :cite-key: ILAK:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Ant-frugality I want not.
 * Ass-Stupidity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:2
+  :cite-key: ILAK:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Ass-stupidity I want not.
 * Bee Industry I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:3
+  :cite-key: ILAK:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Bee industry I want.
 * Bull Straight-Forwardness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:4
+  :cite-key: ILAK:4
   :END:
 
 #+BEGIN_VERSE
@@ -106,10 +106,10 @@ Bull straight-forwardness
 * Cat Slyness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:5
+  :cite-key: ILAK:5
   :END:
 
 #+BEGIN_VERSE
@@ -122,10 +122,10 @@ Cat slyness I want not.
 * Crocodile Hypocrisy I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:6
+  :cite-key: ILAK:6
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ Crocodile hypocrisy I want not.
 * Butterfly Sportiveness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:7
+  :cite-key: ILAK:7
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ Butterfly sportiveness I want.
 * Dove Innocence I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:8
+  :cite-key: ILAK:8
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Dove innocence I want.
 * Fox Cunning I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:9
+  :cite-key: ILAK:9
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Fox cunning I want not.
 * Monkey Tricks I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:10
+  :cite-key: ILAK:10
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Monkey tricks I want not.
 * Cock Vigilance I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:11
+  :cite-key: ILAK:11
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ I want.
 * Dog Fidelity I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:12
+  :cite-key: ILAK:12
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ Dog fidelity I want.
 * Worm Cringing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:13
+  :cite-key: ILAK:13
   :END:
 
 #+BEGIN_VERSE
@@ -251,10 +251,10 @@ Worm cringing I want not.
 * Pig Obstinacy I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:14
+  :cite-key: ILAK:14
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ Pig obstinacy I want not.
 * Elephant Sagacity I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:15
+  :cite-key: ILAK:15
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Elephant sagacity I want.
 * Horse Speed I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:16
+  :cite-key: ILAK:16
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ Horse speed I want.
 * Nightingale Forlornness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:17
+  :cite-key: ILAK:17
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ Nightingale forlornness I want not.
 * Tiger Ferocity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:18
+  :cite-key: ILAK:18
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Tiger ferocity I want not.
 * Lion Nobility I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:19
+  :cite-key: ILAK:19
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Lion nobility I want.
 * Lamb Sacrifice I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:20
+  :cite-key: ILAK:20
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Lamb sacrifice I want.
 * Peacock Pride I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:21
+  :cite-key: ILAK:21
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Peacock pride I want not.
 * Pigeon Timidity I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:22
+  :cite-key: ILAK:22
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Pigeon timidity I want not.
 * Swan Grace I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:23
+  :cite-key: ILAK:23
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Swan grace I want.
 * Hen Maternal Care I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:24
+  :cite-key: ILAK:24
   :END:
 
 #+BEGIN_VERSE
@@ -427,10 +427,10 @@ Hen maternal care I want.
 * Hare Shyness I Want Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:25
+  :cite-key: ILAK:25
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Hare shyness I want not.
 * Bear Ill-Temper
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:26
+  :cite-key: ILAK:26
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Bear ill-temper I want not.
 * Kitten Playfulness I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:27
+  :cite-key: ILAK:27
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ Kitten playfulness I want.
 * Cow Self-Giving I Want
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-12-1997
-  :CITE-KEY: ILAK:28
+  :cite-key: ILAK:28
   :END:
 
 #+BEGIN_VERSE
@@ -491,10 +491,10 @@ Cow self-giving I want.
 * O Crow, O Kak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:29
+  :cite-key: ILAK:29
   :END:
 
 #+BEGIN_VERSE
@@ -508,10 +508,10 @@ Tor chetanar rupantarer asiyachhe dak
 * O pigeon, kabutar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:30
+  :cite-key: ILAK:30
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Bhaye bhaye bhaye kena sada tumi kampa tharathar
 * Swan: Raj Hangsa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:31
+  :cite-key: ILAK:31
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Karo tumi dhangsa
 * Peacock: Mayur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:32
+  :cite-key: ILAK:32
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Tumi ano bijayer ananda prachur
 * Ghughu: Dove
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:33
+  :cite-key: ILAK:33
   :END:
 
 #+BEGIN_VERSE
@@ -577,10 +577,10 @@ Shanti debir abirbhab
 * Crane: Bak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 12-06-1995
-  :CITE-KEY: ILAK:34
+  :cite-key: ILAK:34
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ Habe shesh habe shesh tor chalakir shakh
 * Concentration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: ILAK:35
+  :cite-key: ILAK:35
   :END:
 
 #+BEGIN_VERSE
@@ -611,10 +611,10 @@ The deer-speed.
 * Meditation Has and Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: ILAK:36
+  :cite-key: ILAK:36
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ The elephant-confidence.
 * Contemplation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: ILAK:37
+  :cite-key: ILAK:37
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ The lion-victory.
 * Friendship-Birds Can Fly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: ILAK:38
+  :cite-key: ILAK:38
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ Only on the wings of sincerity.
 * I Am a Pig
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-08-1999
-  :CITE-KEY: ILAK:39
+  :cite-key: ILAK:39
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ No good, no good, no good, no good!
 * I Am a Lion-Roar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1999
-  :CITE-KEY: ILAK:40
+  :cite-key: ILAK:40
   :END:
 
 #+BEGIN_VERSE

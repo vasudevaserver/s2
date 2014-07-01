@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 856
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1992
-  :PUBLISHER:
-  :CITE-KEY: PRBW
-  :GENRE: song
+  :book-number: 856
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1992
+  :publisher:
+  :cite-key: PRBW
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PRBW:1e1
+  :genre: note
+  :cite-key: PRBW:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PRBW:1e2
+  :genre: note
+  :cite-key: PRBW:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Aum Uccharaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:1
+  :cite-key: PRBW:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Aum Uccharaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:2
+  :cite-key: PRBW:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ To the highest Absolute Lord Supreme.
 * Aum Deveshaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:3
+  :cite-key: PRBW:3
   :END:
 
 #+BEGIN_VERSE
@@ -88,10 +88,10 @@ Aum Deveshaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:4
+  :cite-key: PRBW:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ To the Lord of the Cosmic Gods.
 * Aum Viraya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:5
+  :cite-key: PRBW:5
   :END:
 
 #+BEGIN_VERSE
@@ -120,10 +120,10 @@ Aum viraya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:6
+  :cite-key: PRBW:6
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ To the Hero Supreme.
 * Aum Purnaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:7
+  :cite-key: PRBW:7
   :END:
 
 #+BEGIN_VERSE
@@ -152,10 +152,10 @@ Aum purnaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:8
+  :cite-key: PRBW:8
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Absolute Perfection-Fulness.
 * Aum Sarvajaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:9
+  :cite-key: PRBW:9
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ Aum sarvajaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:10
+  :cite-key: PRBW:10
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ To the Conqueror of all.
 * Aum Surjaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:11
+  :cite-key: PRBW:11
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ Aum Surjaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:12
+  :cite-key: PRBW:12
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ To the Sun God.
 * Aum Anantaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:13
+  :cite-key: PRBW:13
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Aum anantaya namaja
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:14
+  :cite-key: PRBW:14
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ To the Absolute Supreme who embodies Infinity.
 * Aum Papanashaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:15
+  :cite-key: PRBW:15
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ Aum papanashaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:16
+  :cite-key: PRBW:16
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ Who destroys all our ignorance-sins.
 * Aum Punyaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:17
+  :cite-key: PRBW:17
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Aum punyaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:18
+  :cite-key: PRBW:18
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ Who embodies Infinity's divine qualities.
 * Aum Aravindaya Kashaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:19
+  :cite-key: PRBW:19
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Aum aravinda kashaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:20
+  :cite-key: PRBW:20
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ To the lotus-eyed God.
 * Aum Parameshwaraya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:21
+  :cite-key: PRBW:21
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Aum parameshwaraya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:22
+  :cite-key: PRBW:22
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Eternity and Immortality.
 * Aum Paravhabe Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:23
+  :cite-key: PRBW:23
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ Aum Paravhabe namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:24
+  :cite-key: PRBW:24
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ To the Highest Lord.
 * Aum Kantaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:25
+  :cite-key: PRBW:25
   :END:
 
 #+BEGIN_VERSE
@@ -445,10 +445,10 @@ Aum Kantaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:26
+  :cite-key: PRBW:26
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ To the Beauty Supreme.
 * Aum Bhanabe Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:27
+  :cite-key: PRBW:27
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Aum Bhanabe namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:28
+  :cite-key: PRBW:28
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ To the supernal Sun.
 * Aum Vardhanaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:29
+  :cite-key: PRBW:29
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ Aum vardhanaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:30
+  :cite-key: PRBW:30
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ Prosperity Infinite.
 * Aum Purujate Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:31
+  :cite-key: PRBW:31
   :END:
 
 #+BEGIN_VERSE
@@ -542,10 +542,10 @@ Aum purujate namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 15-07-1992
-  :CITE-KEY: PRBW:32
+  :cite-key: PRBW:32
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ The Conqueror of all our adversaries.
 * Aum Atulaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:33
+  :cite-key: PRBW:33
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Aum atulaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:34
+  :cite-key: PRBW:34
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ To the Absolute Supreme who has no equal.
 * Aum Kumudaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:35
+  :cite-key: PRBW:35
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Aum kumudaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:36
+  :cite-key: PRBW:36
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Who gives delight to humanity.
 * Aum Baradaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:37
+  :cite-key: PRBW:37
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ Aum baradaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:38
+  :cite-key: PRBW:38
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Who gives blessingful boons.
 * Aum Analaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:39
+  :cite-key: PRBW:39
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Aum Analaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:40
+  :cite-key: PRBW:40
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Who consumes destruction-fire.
 * Aum Narayanaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:41
+  :cite-key: PRBW:41
   :END:
 
 #+BEGIN_VERSE
@@ -706,10 +706,10 @@ Aum Narayanaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:42
+  :cite-key: PRBW:42
   :END:
 
 #+BEGIN_VERSE
@@ -724,10 +724,10 @@ Who pervades the entire Universe.
 * Aum Netre Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:43
+  :cite-key: PRBW:43
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ Aum netre namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:44
+  :cite-key: PRBW:44
   :END:
 
 #+BEGIN_VERSE
@@ -756,10 +756,10 @@ To the Leader Supreme.
 * Aum Gurabe Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:45
+  :cite-key: PRBW:45
   :END:
 
 #+BEGIN_VERSE
@@ -771,10 +771,10 @@ Aum gurabe namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:46
+  :cite-key: PRBW:46
   :END:
 
 #+BEGIN_VERSE
@@ -788,10 +788,10 @@ To the Absolute Teacher Supreme.
 * Aum Govindaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:47
+  :cite-key: PRBW:47
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ Aum Govindaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:48
+  :cite-key: PRBW:48
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ From being submerged.
 * Aum Madhavaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:49
+  :cite-key: PRBW:49
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ Aum Madhavaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:50
+  :cite-key: PRBW:50
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ Who embodies infinite, divine Wisdom-Light.
 * Aum Janardanaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:51
+  :cite-key: PRBW:51
   :END:
 
 #+BEGIN_VERSE
@@ -870,10 +870,10 @@ Aum Janardanaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:52
+  :cite-key: PRBW:52
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Who is the fulfiller of all human desires.
 * Aum Achyutaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:53
+  :cite-key: PRBW:53
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +903,10 @@ Aum achyutaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:54
+  :cite-key: PRBW:54
   :END:
 
 #+BEGIN_VERSE
@@ -920,10 +920,10 @@ To the Immutable One.
 * Aum Ishwaraya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:55
+  :cite-key: PRBW:55
   :END:
 
 #+BEGIN_VERSE
@@ -935,10 +935,10 @@ Aum Ishwaraya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:56
+  :cite-key: PRBW:56
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ To the Omnipotent Lord Supreme.
 * Aum Shreshthaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:57
+  :cite-key: PRBW:57
   :END:
 
 #+BEGIN_VERSE
@@ -967,10 +967,10 @@ Aum Shreshthaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:58
+  :cite-key: PRBW:58
   :END:
 
 #+BEGIN_VERSE
@@ -984,10 +984,10 @@ To the unique, unparalleled Lord Supreme.
 * Aum Pranaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:59
+  :cite-key: PRBW:59
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ Aum Pranaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:60
+  :cite-key: PRBW:60
   :END:
 
 #+BEGIN_VERSE
@@ -1017,10 +1017,10 @@ The Universal Life-Breath.
 * Aum Krishnayam Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:61
+  :cite-key: PRBW:61
   :END:
 
 #+BEGIN_VERSE
@@ -1032,10 +1032,10 @@ Aum Krishnayam namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:62
+  :cite-key: PRBW:62
   :END:
 
 #+BEGIN_VERSE
@@ -1049,10 +1049,10 @@ To the Existence-Consciousness-Bliss.
 * Aum Rishikeshaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:63
+  :cite-key: PRBW:63
   :END:
 
 #+BEGIN_VERSE
@@ -1064,10 +1064,10 @@ Aum rishikeshaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:64
+  :cite-key: PRBW:64
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ To the Supreme Ruler of the senses.
 * Aum Dhatre Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:65
+  :cite-key: PRBW:65
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ Aum dhatre namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:66
+  :cite-key: PRBW:66
   :END:
 
 #+BEGIN_VERSE
@@ -1113,10 +1113,10 @@ To the all-nourisher Supreme.
 * Aum Shivaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:67
+  :cite-key: PRBW:67
   :END:
 
 #+BEGIN_VERSE
@@ -1128,10 +1128,10 @@ Aum Shivaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-07-1992
-  :CITE-KEY: PRBW:68
+  :cite-key: PRBW:68
   :END:
 
 #+BEGIN_VERSE
@@ -1146,10 +1146,10 @@ The silence-flooded trance.
 * Aum Nandanaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:69
+  :cite-key: PRBW:69
   :END:
 
 #+BEGIN_VERSE
@@ -1161,10 +1161,10 @@ Aum nandanaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:70
+  :cite-key: PRBW:70
   :END:
 
 #+BEGIN_VERSE
@@ -1178,10 +1178,10 @@ To the One who gives Delight to all.
 * Aum Anandaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:71
+  :cite-key: PRBW:71
   :END:
 
 #+BEGIN_VERSE
@@ -1193,10 +1193,10 @@ Aum Anandaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:72
+  :cite-key: PRBW:72
   :END:
 
 #+BEGIN_VERSE
@@ -1210,10 +1210,10 @@ To the One who is Infinite Bliss Supreme.
 * Aum Aparajitaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:73
+  :cite-key: PRBW:73
   :END:
 
 #+BEGIN_VERSE
@@ -1225,10 +1225,10 @@ Aum aparajitaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:74
+  :cite-key: PRBW:74
   :END:
 
 #+BEGIN_VERSE
@@ -1242,10 +1242,10 @@ To the One who is eternally unconquerable.
 * Aum Amritaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:75
+  :cite-key: PRBW:75
   :END:
 
 #+BEGIN_VERSE
@@ -1257,10 +1257,10 @@ Aum amritaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:76
+  :cite-key: PRBW:76
   :END:
 
 #+BEGIN_VERSE
@@ -1275,10 +1275,10 @@ Nectar-Delight infinite.
 * Aum Rudraya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:77
+  :cite-key: PRBW:77
   :END:
 
 #+BEGIN_VERSE
@@ -1290,10 +1290,10 @@ Aum rudraya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:78
+  :cite-key: PRBW:78
   :END:
 
 #+BEGIN_VERSE
@@ -1308,10 +1308,10 @@ Of all our earthly sorrows.
 * Aum Adidevaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:79
+  :cite-key: PRBW:79
   :END:
 
 #+BEGIN_VERSE
@@ -1323,10 +1323,10 @@ Aum adidevaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:80
+  :cite-key: PRBW:80
   :END:
 
 #+BEGIN_VERSE
@@ -1340,10 +1340,10 @@ To the One who is the primeval Deity.
 * Aum Dhrubhaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:81
+  :cite-key: PRBW:81
   :END:
 
 #+BEGIN_VERSE
@@ -1355,10 +1355,10 @@ Aum dhrubhaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:82
+  :cite-key: PRBW:82
   :END:
 
 #+BEGIN_VERSE
@@ -1373,10 +1373,10 @@ Who is fixed in His nature and Form.
 * Aum Brahmane Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:83
+  :cite-key: PRBW:83
   :END:
 
 #+BEGIN_VERSE
@@ -1388,10 +1388,10 @@ Aum brahmane namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:84
+  :cite-key: PRBW:84
   :END:
 
 #+BEGIN_VERSE
@@ -1405,10 +1405,10 @@ To the Creator of the Universe.
 * Aum Brihate Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:85
+  :cite-key: PRBW:85
   :END:
 
 #+BEGIN_VERSE
@@ -1420,10 +1420,10 @@ Aum brihate namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:86
+  :cite-key: PRBW:86
   :END:
 
 #+BEGIN_VERSE
@@ -1437,10 +1437,10 @@ To the One who is greater than the Greatest.
 * Aum Shokanshaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:87
+  :cite-key: PRBW:87
   :END:
 
 #+BEGIN_VERSE
@@ -1452,10 +1452,10 @@ Aum Shokanashaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:88
+  :cite-key: PRBW:88
   :END:
 
 #+BEGIN_VERSE
@@ -1470,10 +1470,10 @@ Who destroys human sorrows and grief.
 * Aum Bhagabate Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:89
+  :cite-key: PRBW:89
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ Aum Bhagabate namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:90
+  :cite-key: PRBW:90
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ Who has and is Everything.
 * Aum Mukundaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:91
+  :cite-key: PRBW:91
   :END:
 
 #+BEGIN_VERSE
@@ -1517,10 +1517,10 @@ Aum mukundaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:92
+  :cite-key: PRBW:92
   :END:
 
 #+BEGIN_VERSE
@@ -1534,10 +1534,10 @@ To the One who gives Liberation-Light.
 * Aum Sate Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:93
+  :cite-key: PRBW:93
   :END:
 
 #+BEGIN_VERSE
@@ -1549,10 +1549,10 @@ Aum sate namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:94
+  :cite-key: PRBW:94
   :END:
 
 #+BEGIN_VERSE
@@ -1566,10 +1566,10 @@ To the One who is Infinity's pure Existence.
 * Aum Prithabe Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:95
+  :cite-key: PRBW:95
   :END:
 
 #+BEGIN_VERSE
@@ -1581,10 +1581,10 @@ Aum prithabe namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:96
+  :cite-key: PRBW:96
   :END:
 
 #+BEGIN_VERSE
@@ -1599,10 +1599,10 @@ The length and breadth of the Universe.
 * Aum Sanatantamaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:97
+  :cite-key: PRBW:97
   :END:
 
 #+BEGIN_VERSE
@@ -1614,10 +1614,10 @@ Aum sanatantamaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 04-08-1992
-  :CITE-KEY: PRBW:98
+  :cite-key: PRBW:98
   :END:
 
 #+BEGIN_VERSE
@@ -1631,10 +1631,10 @@ To the most ancient One.
 * Aum Marichaye Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:99
+  :cite-key: PRBW:99
   :END:
 
 #+BEGIN_VERSE
@@ -1646,10 +1646,10 @@ Aum marichaye namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:100
+  :cite-key: PRBW:100
   :END:
 
 #+BEGIN_VERSE
@@ -1663,10 +1663,10 @@ To the substance of light.
 * Aum Jetre Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:101
+  :cite-key: PRBW:101
   :END:
 
 #+BEGIN_VERSE
@@ -1678,10 +1678,10 @@ Aum jetre namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:102
+  :cite-key: PRBW:102
   :END:
 
 #+BEGIN_VERSE
@@ -1695,10 +1695,10 @@ To the supreme Conqueror of all.
 * Aum Sri Nibashaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:103
+  :cite-key: PRBW:103
   :END:
 
 #+BEGIN_VERSE
@@ -1710,10 +1710,10 @@ Aum sri nibashaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:104
+  :cite-key: PRBW:104
   :END:
 
 #+BEGIN_VERSE
@@ -1728,10 +1728,10 @@ The Goddess Lakshmi always dwells.
 * Aum Damanaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:105
+  :cite-key: PRBW:105
   :END:
 
 #+BEGIN_VERSE
@@ -1743,10 +1743,10 @@ Aum damanaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:106
+  :cite-key: PRBW:106
   :END:
 
 #+BEGIN_VERSE
@@ -1761,10 +1761,10 @@ All human beings.
 * Aum Suchaye Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:107
+  :cite-key: PRBW:107
   :END:
 
 #+BEGIN_VERSE
@@ -1776,10 +1776,10 @@ Aum Suchaye namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:108
+  :cite-key: PRBW:108
   :END:
 
 #+BEGIN_VERSE
@@ -1794,10 +1794,10 @@ And has no blemish.
 * Aum Vishishtaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:109
+  :cite-key: PRBW:109
   :END:
 
 #+BEGIN_VERSE
@@ -1809,10 +1809,10 @@ Aum vishishtaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:110
+  :cite-key: PRBW:110
   :END:
 
 #+BEGIN_VERSE
@@ -1826,10 +1826,10 @@ To the One who excels all in every way.
 * Aum Taranaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:111
+  :cite-key: PRBW:111
   :END:
 
 #+BEGIN_VERSE
@@ -1841,10 +1841,10 @@ Aum taranaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:112
+  :cite-key: PRBW:112
   :END:
 
 #+BEGIN_VERSE
@@ -1858,10 +1858,10 @@ To the One who takes me across the ocean of birth.
 * Aum Suraya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:113
+  :cite-key: PRBW:113
   :END:
 
 #+BEGIN_VERSE
@@ -1873,10 +1873,10 @@ Aum suraya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:114
+  :cite-key: PRBW:114
   :END:
 
 #+BEGIN_VERSE
@@ -1890,10 +1890,10 @@ To the Supreme Possessor of unparalleled valour.
 * Aum Abhabe Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:115
+  :cite-key: PRBW:115
   :END:
 
 #+BEGIN_VERSE
@@ -1905,10 +1905,10 @@ Aum abhabe namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:116
+  :cite-key: PRBW:116
   :END:
 
 #+BEGIN_VERSE
@@ -1924,10 +1924,10 @@ Beyond the creation.
 * Aum Sughoshaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:117
+  :cite-key: PRBW:117
   :END:
 
 #+BEGIN_VERSE
@@ -1939,10 +1939,10 @@ Aum sughoshaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:118
+  :cite-key: PRBW:118
   :END:
 
 #+BEGIN_VERSE
@@ -1956,10 +1956,10 @@ To the One who is the supreme Proclamation-Voice.
 * Aum Darunaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:119
+  :cite-key: PRBW:119
   :END:
 
 #+BEGIN_VERSE
@@ -1971,10 +1971,10 @@ Aum darunaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:120
+  :cite-key: PRBW:120
   :END:
 
 #+BEGIN_VERSE
@@ -1989,10 +1989,10 @@ Disciplining those who do not do the right thing.
 * Aum Siddhaya Namaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: sa
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:121
+  :cite-key: PRBW:121
   :END:
 
 #+BEGIN_VERSE
@@ -2004,10 +2004,10 @@ Aum siddhaya namaha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-08-1992
-  :CITE-KEY: PRBW:122
+  :cite-key: PRBW:122
   :END:
 
 #+BEGIN_VERSE

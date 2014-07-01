@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 822
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1991
-  :PUBLISHER:
-  :CITE-KEY: GFUN
-  :GENRE: song
+  :book-number: 822
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1991
+  :publisher:
+  :cite-key: GFUN
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GFUN:1e1
+  :genre: note
+  :cite-key: GFUN:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GFUN:1e2
+  :genre: note
+  :cite-key: GFUN:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * The Beauty of Transcendental Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-1989
-  :CITE-KEY: GFUN:1
+  :cite-key: GFUN:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Of universal Truth.
 * God’s Compassion-Eye Came to Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-1989
-  :CITE-KEY: GFUN:2
+  :cite-key: GFUN:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ And then my heart’s love went to see Him.
 * Even in the Night of Sufferings
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-1989
-  :CITE-KEY: GFUN:3
+  :cite-key: GFUN:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Confidence-expectation-dawn.
 * The Hour Is Fast Approaching
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-01-1989
-  :CITE-KEY: GFUN:4
+  :cite-key: GFUN:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ A true child of God’s Perfection-Delight.
 * My Sleepless Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1989
-  :CITE-KEY: GFUN:5
+  :cite-key: GFUN:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Saves my life.
 * My Heart’s Blossoming Faith Is Always Deaf
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-01-1989
-  :CITE-KEY: GFUN:6
+  :cite-key: GFUN:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ Is always deaf to doubt.
 * My Hope-Streams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-02-1989
-  :CITE-KEY: GFUN:7
+  :cite-key: GFUN:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ I shall never allow my hope-streams
 * My Blue-Gold Inspiration-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-02-1989
-  :CITE-KEY: GFUN:8
+  :cite-key: GFUN:8
   :END:
 
 #+BEGIN_VERSE
@@ -183,10 +183,10 @@ Flying in my mind-sky.
 * My Lord Supreme, Make Me Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-02-1989
-  :CITE-KEY: GFUN:9
+  :cite-key: GFUN:9
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Endless road of unwillingness.
 * At Last My Doubting Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-02-1989
-  :CITE-KEY: GFUN:10
+  :cite-key: GFUN:10
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ To transformation-destination.
 * Obedience Is My Purity’s Sweetness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: GFUN:11
+  :cite-key: GFUN:11
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ My purity's sweetness-heart.
 * Willingness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: GFUN:12
+  :cite-key: GFUN:12
   :END:
 
 #+BEGIN_VERSE
@@ -253,10 +253,10 @@ My beauty’s fulness-life.
 * Because of God’s Compassion-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: GFUN:13
+  :cite-key: GFUN:13
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ I am of God only.
 * Because of God’s Forgiveness-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-02-1989
-  :CITE-KEY: GFUN:14
+  :cite-key: GFUN:14
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ I am for God only.
 * Expelled
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: GFUN:15
+  :cite-key: GFUN:15
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ Doubt-thief needed faith-saint.
 * My Surrender-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-03-1989
-  :CITE-KEY: GFUN:16
+  :cite-key: GFUN:16
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ And together dine.
 * Everywhere My Mind Sees
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GFUN:17
+  :cite-key: GFUN:17
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ A boundless impossibility-sea.
 * I Shall Never Allow My Mind to Resume
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-03-1989
-  :CITE-KEY: GFUN:18
+  :cite-key: GFUN:18
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Its fear-doubt-studies.
 * God the Carpenter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-03-1989
-  :CITE-KEY: GFUN:19
+  :cite-key: GFUN:19
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ My own broken heart-door.
 * I Am Not Enslaved Any More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-03-1989
-  :CITE-KEY: GFUN:20
+  :cite-key: GFUN:20
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ By my own desire-life.
 * What Am I Doing?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-03-1989
-  :CITE-KEY: GFUN:21
+  :cite-key: GFUN:21
   :END:
 
 #+BEGIN_VERSE
@@ -416,10 +416,10 @@ And world-acceptance-pace.
 * I Have a Valid Passport
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-03-1989
-  :CITE-KEY: GFUN:22
+  :cite-key: GFUN:22
   :END:
 
 #+BEGIN_VERSE
@@ -434,10 +434,10 @@ To humanity’s heart.
 * My Vastness-Richness-Core
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: GFUN:23
+  :cite-key: GFUN:23
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ I live in my vastness-richness-core.
 * My Frustration Is a Ferocious Tiger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 17-03-1989
-  :CITE-KEY: GFUN:24
+  :cite-key: GFUN:24
   :END:
 
 #+BEGIN_VERSE
@@ -468,10 +468,10 @@ My frustration is a ferocious tiger.
 * Every Day, Every Hour, Every Minute
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: GFUN:25
+  :cite-key: GFUN:25
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ I love my mountain-high hopes.
 * I Must Never Blame God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-03-1989
-  :CITE-KEY: GFUN:26
+  :cite-key: GFUN:26
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ For my failure inevitable.
 * My Mind Visits Inspiration-Village
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1989
-  :CITE-KEY: GFUN:27
+  :cite-key: GFUN:27
   :END:
 
 #+BEGIN_VERSE
@@ -519,10 +519,10 @@ My heart visits aspiration-home every day.
 * Eagerness Is the Best Beginning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-04-1989
-  :CITE-KEY: GFUN:28
+  :cite-key: GFUN:28
   :END:
 
 #+BEGIN_VERSE
@@ -536,10 +536,10 @@ Of complete fulness.
 * Truth Is in All (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-04-1989
-  :CITE-KEY: GFUN:29
+  :cite-key: GFUN:29
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ But love is all.
 * There Is No Perfect Excuse
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-05-1989
-  :CITE-KEY: GFUN:30
+  :cite-key: GFUN:30
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ A perfect citizen of the world.
 * At Last
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-05-1989
-  :CITE-KEY: GFUN:31
+  :cite-key: GFUN:31
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Thought-debris.
 * My Heart’s Rainbow-Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-05-1989
-  :CITE-KEY: GFUN:32
+  :cite-key: GFUN:32
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Is my heart’s rainbow-dream.
 * No Man Is a Complete Failure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-05-1989
-  :CITE-KEY: GFUN:33
+  :cite-key: GFUN:33
   :END:
 
 #+BEGIN_VERSE
@@ -624,10 +624,10 @@ God wants me to accept His Opinion.
 * Prayerful, Soulful and Cheerful Moments
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-05-1989
-  :CITE-KEY: GFUN:34
+  :cite-key: GFUN:34
   :END:
 
 #+BEGIN_VERSE
@@ -641,10 +641,10 @@ Prayerful, soulful and cheerful moments.
 * Where Has My Heart’s Aspiration-Cry Gone?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-05-1989
-  :CITE-KEY: GFUN:35
+  :cite-key: GFUN:35
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Where has my heart’s aspiration-cry gone?
 * Love and Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-05-1989
-  :CITE-KEY: GFUN:36
+  :cite-key: GFUN:36
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Must manage my life.
 * I Am Alive, I Shall Remain Alive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-05-1989
-  :CITE-KEY: GFUN:37
+  :cite-key: GFUN:37
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ To God’s Compassion-Height.
 * Compassion-Boatman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-05-1989
-  :CITE-KEY: GFUN:38
+  :cite-key: GFUN:38
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Ignorance-sea is taking my breath away.
 * Insecurity-Tragedy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-05-1989
-  :CITE-KEY: GFUN:39
+  :cite-key: GFUN:39
   :END:
 
 #+BEGIN_VERSE
@@ -733,10 +733,10 @@ Of confidence-light.
 * Truth Is in All (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-06-1989
-  :CITE-KEY: GFUN:40
+  :cite-key: GFUN:40
   :END:
 
 #+BEGIN_VERSE

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 275
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1976
-  :PUBLISHER:
-  :CITE-KEY: ISLD-3
-  :GENRE: song
+  :book-number: 275
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1976
+  :publisher:
+  :cite-key: ISLD-3
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:201e1
+  :genre: note
+  :cite-key: ISLD:201e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:201e2
+  :genre: note
+  :cite-key: ISLD:201e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ami Je Moher Rachana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:201
+  :cite-key: ISLD:201
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Ami ke amare balona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:202
+  :cite-key: ISLD:202
   :END:
 
 #+BEGIN_VERSE
@@ -82,10 +82,10 @@ O Lord, do tell me who I really am.
 * Diner Sheshe Pathe Base
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:203
+  :cite-key: ISLD:203
   :END:
 
 #+BEGIN_VERSE
@@ -104,10 +104,10 @@ Jetha ami jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:204
+  :cite-key: ISLD:204
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Satisfaction.
 * Hath Ache Khali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:205
+  :cite-key: ISLD:205
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ Kritagyatar thali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:206
+  :cite-key: ISLD:206
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ I shall always keep my heart’s gratitude-receptacle.
 * Nai Ayojan Sadhan Bhajan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:207
+  :cite-key: ISLD:207
   :END:
 
 #+BEGIN_VERSE
@@ -195,10 +195,10 @@ Janena man tomai bhule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:208
+  :cite-key: ISLD:208
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Who You are.
 * Ki Kare Jaibo Kaho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:209
+  :cite-key: ISLD:209
   :END:
 
 #+BEGIN_VERSE
@@ -240,10 +240,10 @@ Ki kare paibo kaho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:210
+  :cite-key: ISLD:210
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ O pilgrim, do tell me how I can achieve
 * Khelar Lagi Praner Thakur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:211
+  :cite-key: ISLD:211
   :END:
 
 #+BEGIN_VERSE
@@ -291,10 +291,10 @@ Ke shunbe go kahar mana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:212
+  :cite-key: ISLD:212
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ No restriction, no disciplinary action.
 * Man Janena Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:213
+  :cite-key: ISLD:213
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Shranto klanto deha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:214
+  :cite-key: ISLD:214
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ An energyless body.
 * Bhalobasar Parash Chhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:215
+  :cite-key: ISLD:215
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Sei tomare tanbe andhare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:216
+  :cite-key: ISLD:216
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ In his own ignorance-night.
 * Michhe Tomar Sukher Dali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:217
+  :cite-key: ISLD:217
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Na thak chokhe jal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:218
+  :cite-key: ISLD:218
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Let there be no tears in any human heart.
 * He Achena Tomai Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:219
+  :cite-key: ISLD:219
   :END:
 
 #+BEGIN_VERSE
@@ -463,10 +463,10 @@ Thakbo bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:220
+  :cite-key: ISLD:220
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Without You?
 * Amar Bhanga Ghare Kalo Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:221
+  :cite-key: ISLD:221
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Amar ghare ki pele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:222
+  :cite-key: ISLD:222
   :END:
 
 #+BEGIN_VERSE
@@ -532,10 +532,10 @@ What have you received from my heart-room?
 * Ke Oi Abar Bajai Banshi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:223
+  :cite-key: ISLD:223
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Mukhe shudhu achhe hasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:224
+  :cite-key: ISLD:224
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ His smiling face will discover my heart’s emptiness.
 * Kal Ki Habe Ke Jane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:225
+  :cite-key: ISLD:225
   :END:
 
 #+BEGIN_VERSE
@@ -593,10 +593,10 @@ Kon debatar gopan dane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:226
+  :cite-key: ISLD:226
   :END:
 
 #+BEGIN_VERSE
@@ -615,10 +615,10 @@ Will fulfil my earthly sojourn.
 * Jayto Chahini Cheyechhi Shikhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:227
+  :cite-key: ISLD:227
   :END:
 
 #+BEGIN_VERSE
@@ -635,10 +635,10 @@ Prabhu taba hathe parajoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:228
+  :cite-key: ISLD:228
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Is my defeat at the Hands of my Beloved Supreme.
 * Kal Ja Chhila Puraskar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:229
+  :cite-key: ISLD:229
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Tarei namaskar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:230
+  :cite-key: ISLD:230
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +702,10 @@ Is Your emissary carrying Your Light.
 * Man Daoni Mani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:231
+  :cite-key: ISLD:231
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ Eso hriday rani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:232
+  :cite-key: ISLD:232
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ O Queen of my heart.
 * He Ajana Tumi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:233
+  :cite-key: ISLD:233
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ Tomar mahotsabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:234
+  :cite-key: ISLD:234
   :END:
 
 #+BEGIN_VERSE
@@ -802,10 +802,10 @@ Festival supreme?
 * Hasi Hase Ashru Hase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:235
+  :cite-key: ISLD:235
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Manda mor kapal
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:236
+  :cite-key: ISLD:236
   :END:
 
 #+BEGIN_VERSE
@@ -841,10 +841,10 @@ Is a strong net of illusion and delusion.
 * Kato Sampad Sanchito Achhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:237
+  :cite-key: ISLD:237
   :END:
 
 #+BEGIN_VERSE
@@ -861,10 +861,10 @@ Niyata nirantar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:238
+  :cite-key: ISLD:238
   :END:
 
 #+BEGIN_VERSE
@@ -883,10 +883,10 @@ I am endeavouring day in and day out.
 * Eki Amar Pulak Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:239
+  :cite-key: ISLD:239
   :END:
 
 #+BEGIN_VERSE
@@ -904,10 +904,10 @@ Tumi chhara ar gane ke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:240
+  :cite-key: ISLD:240
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Nobody else knows save and except we two.
 * Ghuche Geche Ama Nisha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:241
+  :cite-key: ISLD:241
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ Nahi tabu mor trisha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:242
+  :cite-key: ISLD:242
   :END:
 
 #+BEGIN_VERSE
@@ -968,10 +968,10 @@ Yet I am not parched with thirst.
 * Ekla Ghare Nayan Bhare Kand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:243
+  :cite-key: ISLD:243
   :END:
 
 #+BEGIN_VERSE
@@ -988,10 +988,10 @@ Nayan bhare kand
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:244
+  :cite-key: ISLD:244
   :END:
 
 #+BEGIN_VERSE
@@ -1010,10 +1010,10 @@ And cry and weep incessantly.
 * Chokhe Ashru Mukhe Hasi Bhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:245
+  :cite-key: ISLD:245
   :END:
 
 #+BEGIN_VERSE
@@ -1029,10 +1029,10 @@ Tabu mukhe kare hasi bhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:246
+  :cite-key: ISLD:246
   :END:
 
 #+BEGIN_VERSE
@@ -1049,10 +1049,10 @@ Yet the vital smile continues outwardly.
 * Ami Eka Chira Eka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:247
+  :cite-key: ISLD:247
   :END:
 
 #+BEGIN_VERSE
@@ -1067,10 +1067,10 @@ Nutan kariya dao dekha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:248
+  :cite-key: ISLD:248
   :END:
 
 #+BEGIN_VERSE
@@ -1086,10 +1086,10 @@ May I be granted a new body, a fortress true.
 * Dao Paran Bhari Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:249
+  :cite-key: ISLD:249
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ Prabhu dainya ghuchao
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:250
+  :cite-key: ISLD:250
   :END:
 
 #+BEGIN_VERSE
@@ -1124,10 +1124,10 @@ The more You remove my meanness, darkness
 * Gaibana Ar Kulai Base
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:251
+  :cite-key: ISLD:251
   :END:
 
 #+BEGIN_VERSE
@@ -1145,10 +1145,10 @@ Gaibona ar kulai base
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:252
+  :cite-key: ISLD:252
   :END:
 
 #+BEGIN_VERSE
@@ -1167,10 +1167,10 @@ I shall no longer sing inside the cage.
 * Geye Ja Tui Akaran Ajiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:253
+  :cite-key: ISLD:253
   :END:
 
 #+BEGIN_VERSE
@@ -1187,10 +1187,10 @@ Gandha kari bitaran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:254
+  :cite-key: ISLD:254
   :END:
 
 #+BEGIN_VERSE
@@ -1210,10 +1210,10 @@ Like the tiny fragrant buds.
 * Megh Chalechhe Kon Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:255
+  :cite-key: ISLD:255
   :END:
 
 #+BEGIN_VERSE
@@ -1234,10 +1234,10 @@ Megh chalechhe kon deshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:256
+  :cite-key: ISLD:256
   :END:
 
 #+BEGIN_VERSE
@@ -1258,10 +1258,10 @@ O sky, tell me where the clouds are sailing.
 * Katai Dekhechho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:257
+  :cite-key: ISLD:257
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ Paoni patha sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:258
+  :cite-key: ISLD:258
   :END:
 
 #+BEGIN_VERSE
@@ -1311,10 +1311,10 @@ No destination at all.
 * Alpa Kathar Manush Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:259
+  :cite-key: ISLD:259
   :END:
 
 #+BEGIN_VERSE
@@ -1332,10 +1332,10 @@ Taito ami alpa katha koy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:260
+  :cite-key: ISLD:260
   :END:
 
 #+BEGIN_VERSE
@@ -1354,10 +1354,10 @@ Therefore, I am a man of few words.
 * Ke Jane Deher Parinati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:261
+  :cite-key: ISLD:261
   :END:
 
 #+BEGIN_VERSE
@@ -1376,10 +1376,10 @@ Taito amar hoina urdhagati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:262
+  :cite-key: ISLD:262
   :END:
 
 #+BEGIN_VERSE
@@ -1399,10 +1399,10 @@ Therefore, I make no upward progress.
 * Kare Diye Bhaba Ghure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:263
+  :cite-key: ISLD:263
   :END:
 
 #+BEGIN_VERSE
@@ -1421,10 +1421,10 @@ Ki dhan ami chahi nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:264
+  :cite-key: ISLD:264
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ And forgot to long for the real wealth from You.
 * Ar Katokal Thakbe Base
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:265
+  :cite-key: ISLD:265
   :END:
 
 #+BEGIN_VERSE
@@ -1470,10 +1470,10 @@ Tomar mago kole tule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:266
+  :cite-key: ISLD:266
   :END:
 
 #+BEGIN_VERSE
@@ -1494,10 +1494,10 @@ And draw me towards Your Forgiveness-Heart.
 * Jibaner Sukh Maraner Dukh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:267
+  :cite-key: ISLD:267
   :END:
 
 #+BEGIN_VERSE
@@ -1514,10 +1514,10 @@ Andhar bhariya hriday akashe bijali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:268
+  :cite-key: ISLD:268
   :END:
 
 #+BEGIN_VERSE
@@ -1540,10 +1540,10 @@ Yet I see there illumining flashes of lightning.
 * Paran Bhariya Dakini Ma Kali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:269
+  :cite-key: ISLD:269
   :END:
 
 #+BEGIN_VERSE
@@ -1563,10 +1563,10 @@ Kandi sada ami dukhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:270
+  :cite-key: ISLD:270
   :END:
 
 #+BEGIN_VERSE
@@ -1593,10 +1593,10 @@ Here the life of sorrow and I
 * Sudure Kar Payer Dhwani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:271
+  :cite-key: ISLD:271
   :END:
 
 #+BEGIN_VERSE
@@ -1613,10 +1613,10 @@ Aro jena kachhe elo nayan mani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:272
+  :cite-key: ISLD:272
   :END:
 
 #+BEGIN_VERSE
@@ -1634,10 +1634,10 @@ My beloved Lord seems to be right beside me.
 * Prabhu Tumi Karo Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:273
+  :cite-key: ISLD:273
   :END:
 
 #+BEGIN_VERSE
@@ -1653,10 +1653,10 @@ Thai nai thai nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:274
+  :cite-key: ISLD:274
   :END:
 
 #+BEGIN_VERSE
@@ -1676,10 +1676,10 @@ Sorry, there is no room for You.”
 * Prabhu Tomar Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:275
+  :cite-key: ISLD:275
   :END:
 
 #+BEGIN_VERSE
@@ -1697,10 +1697,10 @@ Amar bhabna jabena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:276
+  :cite-key: ISLD:276
   :END:
 
 #+BEGIN_VERSE
@@ -1719,10 +1719,10 @@ In the grip of worries and anxieties.
 * Bela Hale Chale Jabe Tari Bahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:277
+  :cite-key: ISLD:277
   :END:
 
 #+BEGIN_VERSE
@@ -1739,10 +1739,10 @@ Tomar bijoy giti gahi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:278
+  :cite-key: ISLD:278
   :END:
 
 #+BEGIN_VERSE
@@ -1760,10 +1760,10 @@ To invoke you always and sing your victory-song.
 * Rupar Tarani Bahiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:279
+  :cite-key: ISLD:279
   :END:
 
 #+BEGIN_VERSE
@@ -1781,10 +1781,10 @@ Bela gela ai namiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-04-1976
-  :CITE-KEY: ISLD:280
+  :cite-key: ISLD:280
   :END:
 
 #+BEGIN_VERSE
@@ -1803,10 +1803,10 @@ Slowly my life’s evening sets in.
 * Na Jani Ki Mane Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:281
+  :cite-key: ISLD:281
   :END:
 
 #+BEGIN_VERSE
@@ -1823,10 +1823,10 @@ Jibaner puta bhore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:282
+  :cite-key: ISLD:282
   :END:
 
 #+BEGIN_VERSE
@@ -1844,10 +1844,10 @@ Right from the sacred dawn of my life.
 * Sabar Majhe Lukiye Thak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:283
+  :cite-key: ISLD:283
   :END:
 
 #+BEGIN_VERSE
@@ -1863,10 +1863,10 @@ Kandisna ar mayer kole thak
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:284
+  :cite-key: ISLD:284
   :END:
 
 #+BEGIN_VERSE
@@ -1886,10 +1886,10 @@ Just stay in the Mother’s Lap.
 * Nutan Katha Koi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:285
+  :cite-key: ISLD:285
   :END:
 
 #+BEGIN_VERSE
@@ -1908,10 +1908,10 @@ Chira madhur chira madhumoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:286
+  :cite-key: ISLD:286
   :END:
 
 #+BEGIN_VERSE
@@ -1930,10 +1930,10 @@ You are eternally sweet and delightful.
 * Sthayi Kichu Kotha Achhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:287
+  :cite-key: ISLD:287
   :END:
 
 #+BEGIN_VERSE
@@ -1953,10 +1953,10 @@ Hokna ta dudin tare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:288
+  :cite-key: ISLD:288
   :END:
 
 #+BEGIN_VERSE
@@ -1977,10 +1977,10 @@ Even if it is for fleeting days.
 * Priyatama Eso Nirabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:289
+  :cite-key: ISLD:289
   :END:
 
 #+BEGIN_VERSE
@@ -1997,10 +1997,10 @@ Tabo baibhab amar bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:290
+  :cite-key: ISLD:290
   :END:
 
 #+BEGIN_VERSE
@@ -2021,10 +2021,10 @@ With Your Infinite Light.
 * Tumi Amai Dharo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:291
+  :cite-key: ISLD:291
   :END:
 
 #+BEGIN_VERSE
@@ -2042,10 +2042,10 @@ Manomato tomar kare gare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:292
+  :cite-key: ISLD:292
   :END:
 
 #+BEGIN_VERSE
@@ -2064,10 +2064,10 @@ And shape me in Your own way.
 * Raj Pathe Pathe Kato Ghurilam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:293
+  :cite-key: ISLD:293
   :END:
 
 #+BEGIN_VERSE
@@ -2087,10 +2087,10 @@ Ogo pankajabasini
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:294
+  :cite-key: ISLD:294
   :END:
 
 #+BEGIN_VERSE
@@ -2119,10 +2119,10 @@ Inside the crying pages of my life’s sorrowful
 * Sabai Jakhan Chai Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:295
+  :cite-key: ISLD:295
   :END:
 
 #+BEGIN_VERSE
@@ -2141,10 +2141,10 @@ Thakbo mago tomar paye pare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:296
+  :cite-key: ISLD:296
   :END:
 
 #+BEGIN_VERSE
@@ -2168,10 +2168,10 @@ Mother, may my entire life breathe
 * Sedin Ki Kabhu Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:297
+  :cite-key: ISLD:297
   :END:
 
 #+BEGIN_VERSE
@@ -2189,10 +2189,10 @@ Subishal ei bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:298
+  :cite-key: ISLD:298
   :END:
 
 #+BEGIN_VERSE
@@ -2217,10 +2217,10 @@ But for all, born and yet unborn?
 * Prabhu E Jiban Bhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:299
+  :cite-key: ISLD:299
   :END:
 
 #+BEGIN_VERSE
@@ -2238,10 +2238,10 @@ Milibo tomar sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-04-1976
-  :CITE-KEY: ISLD:300
+  :cite-key: ISLD:300
   :END:
 
 #+BEGIN_VERSE

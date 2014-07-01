@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1003
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GHID
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1003
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: GHID
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:1
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:1
   :END:
 
 
@@ -41,9 +41,9 @@ To make me happy.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:2
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:2
   :END:
 
 
@@ -59,9 +59,9 @@ Are never undeserved.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:3
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:3
   :END:
 
 
@@ -79,9 +79,9 @@ Possibility-reality.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:4
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:4
   :END:
 
 
@@ -99,9 +99,9 @@ The highest Heaven of Bliss.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:5
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:5
   :END:
 
 
@@ -117,9 +117,9 @@ To fulness-smiles.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:6
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:6
   :END:
 
 
@@ -135,9 +135,9 @@ The desiring mind's forte.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:7
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:7
   :END:
 
 
@@ -153,9 +153,9 @@ So is man's patience.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:8
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:8
   :END:
 
 
@@ -171,9 +171,9 @@ That I am not alone.
 * 9.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:9
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:9
   :END:
 
 
@@ -189,9 +189,9 @@ A paralysing fear.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:10
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:10
   :END:
 
 
@@ -208,9 +208,9 @@ An ill-founded reality.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:11
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:11
   :END:
 
 
@@ -228,9 +228,9 @@ To do for God.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:12
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:12
   :END:
 
 
@@ -250,9 +250,9 @@ Inside my sweetness-heart.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:13
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:13
   :END:
 
 
@@ -269,9 +269,9 @@ The heart swims.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:14
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:14
   :END:
 
 
@@ -290,9 +290,9 @@ The Light of the heart.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:15
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:15
   :END:
 
 
@@ -308,9 +308,9 @@ Two winner-partners.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:16
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:16
   :END:
 
 
@@ -327,9 +327,9 @@ Remain the same.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:17
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:17
   :END:
 
 
@@ -346,9 +346,9 @@ Of mental hallucination.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:18
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:18
   :END:
 
 
@@ -367,9 +367,9 @@ Than you can ever imagine.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:19
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:19
   :END:
 
 
@@ -386,9 +386,9 @@ Is all I need.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:20
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:20
   :END:
 
 
@@ -404,9 +404,9 @@ To my desiring mind.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:21
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:21
   :END:
 
 
@@ -422,9 +422,9 @@ To my aspiring heart.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:22
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:22
   :END:
 
 
@@ -441,9 +441,9 @@ Wisdom-perfection.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:23
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:23
   :END:
 
 
@@ -459,9 +459,9 @@ And transform it.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:24
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:24
   :END:
 
 
@@ -477,9 +477,9 @@ And control it.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:25
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:25
   :END:
 
 
@@ -497,9 +497,9 @@ Endlessly in a doubt-circle?
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:26
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:26
   :END:
 
 
@@ -521,9 +521,9 @@ Divinity of the soul.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:27
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:27
   :END:
 
 
@@ -540,9 +540,9 @@ Always in each other live.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:28
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:28
   :END:
 
 
@@ -560,9 +560,9 @@ And useless today.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:29
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:29
   :END:
 
 
@@ -579,9 +579,9 @@ Unwanted sleep.
 * 30.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:30
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:30
   :END:
 
 
@@ -597,9 +597,9 @@ To give me oneness-fulness-peace.
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:31
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:31
   :END:
 
 
@@ -617,9 +617,9 @@ Is immanent.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:32
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:32
   :END:
 
 
@@ -635,9 +635,9 @@ A mind of intensity.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:33
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:33
   :END:
 
 
@@ -653,9 +653,9 @@ A heart of vastness.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:34
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:34
   :END:
 
 
@@ -672,9 +672,9 @@ God-service-satisfaction.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:35
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:35
   :END:
 
 
@@ -692,9 +692,9 @@ Has crumbled into dust.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:36
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:36
   :END:
 
 
@@ -711,9 +711,9 @@ That will transform my life.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:37
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:37
   :END:
 
 
@@ -730,9 +730,9 @@ Your expectation-flight.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:38
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:38
   :END:
 
 
@@ -750,9 +750,9 @@ Unaccomplished.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:39
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:39
   :END:
 
 
@@ -770,9 +770,9 @@ Is speeding towards me.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:40
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:40
   :END:
 
 
@@ -789,9 +789,9 @@ From inner circle friends.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:41
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:41
   :END:
 
 
@@ -809,9 +809,9 @@ Enjoying God-gossip.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:42
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:42
   :END:
 
 
@@ -830,9 +830,9 @@ With God's Fragrance-Heart.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:43
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:43
   :END:
 
 
@@ -849,9 +849,9 @@ My heavenward journey.
 * 44.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:44
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:44
   :END:
 
 
@@ -868,9 +868,9 @@ Mind-neighbourhood.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:45
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:45
   :END:
 
 
@@ -893,9 +893,9 @@ With My Dream about you.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: GHID:46
+  :genre: poem
+  :keywords:
+  :cite-key: GHID:46
   :END:
 
 

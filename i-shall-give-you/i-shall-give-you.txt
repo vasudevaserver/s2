@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 780
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1990
-  :PUBLISHER:
-  :CITE-KEY: GMFH
-  :GENRE: song
+  :book-number: 780
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1990
+  :publisher:
+  :cite-key: GMFH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GMFH:1e1
+  :genre: note
+  :cite-key: GMFH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GMFH:1e2
+  :genre: note
+  :cite-key: GMFH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ami Ebar Shanto Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:1
+  :cite-key: GMFH:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Ami ebar shanto habo tomar charan tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:2
+  :cite-key: GMFH:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ This time, I shall become silent
 * This Time I Shall Become Silent
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:3
+  :cite-key: GMFH:3
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ This time I shall become silent
 * Bidai Bidai Ahamika Bidai Chira Tare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:4
+  :cite-key: GMFH:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Bidai bidai ahamika bidai chira tare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:5
+  :cite-key: GMFH:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ Farewell, farewell, pride, farewell forever.
 * Farewell, Farewell Pride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:6
+  :cite-key: GMFH:6
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ Farewell forever.
 * Chalbo Ami Ashar Pathe Dibasrate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:7
+  :cite-key: GMFH:7
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ Chalbo ami ashar pathe dibarate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:8
+  :cite-key: GMFH:8
   :END:
 
 #+BEGIN_VERSE
@@ -169,10 +169,10 @@ Day and night I shall walk along the hope-road.
 * Day and Night I Shall Walk
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:9
+  :cite-key: GMFH:9
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Along the hope-road.
 * Dibo Tomai Hiya Kusum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:10
+  :cite-key: GMFH:10
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Dibo tomai hiya kusum dibo tomai aji
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:11
+  :cite-key: GMFH:11
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ I shall give You today.
 * I Shall Give You My Flower-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:12
+  :cite-key: GMFH:12
   :END:
 
 #+BEGIN_VERSE
@@ -235,10 +235,10 @@ I shall give You today.
 * E Jibane Kebal Kandibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:13
+  :cite-key: GMFH:13
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ E jibane kebal kandibo kandibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:14
+  :cite-key: GMFH:14
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ In this life-time I shall cry,
 * In this Lifetime I Shall Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:15
+  :cite-key: GMFH:15
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ In this lifetime I shall cry, only cry.
 * Pheliya Rekhechi Dure Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:16
+  :cite-key: GMFH:16
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Pheliya rekhechi dure bahu dure basanar bandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:17
+  :cite-key: GMFH:17
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Far, very far I have thrown away desire-bondage.
 * Far, Very Far
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:18
+  :cite-key: GMFH:18
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ Desire-bondage.
 * Ganer Sure Chitta Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:19
+  :cite-key: GMFH:19
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Karbo ami joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:20
+  :cite-key: GMFH:20
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ I shall win Your Heart.
 * With Song-Melodies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:21
+  :cite-key: GMFH:21
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ I shall win Your Heart.
 * Harite Chahi Go Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:22
+  :cite-key: GMFH:22
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Harite chahi go tomar charane paramanande
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:23
+  :cite-key: GMFH:23
   :END:
 
 #+BEGIN_VERSE
@@ -413,10 +413,10 @@ I long to lose at Your Feet most happily.
 * I Long to Lose at Your Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:24
+  :cite-key: GMFH:24
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Most happily.
 * Indur Mato Pabitra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:25
+  :cite-key: GMFH:25
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ Bhitare bahire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:26
+  :cite-key: GMFH:26
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ Like the moon, within, without, pure I shall be.
 * Like the Moon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:27
+  :cite-key: GMFH:27
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Within, without, pure I shall be.
 * Jabar Dine Swapan Tari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:28
+  :cite-key: GMFH:28
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ Rekhe jabo ei dharate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:29
+  :cite-key: GMFH:29
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Here on earth on the last day.
 * I Shall Leave My Dream-Boat Here
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:30
+  :cite-key: GMFH:30
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ Here on earth on the last day.
 * Kandiya Hasiya Bandhiya Rakhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:31
+  :cite-key: GMFH:31
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ Tomare hriday gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:32
+  :cite-key: GMFH:32
   :END:
 
 #+BEGIN_VERSE
@@ -563,10 +563,10 @@ In the depth of my heart.
 * Crying and Smiling
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:33
+  :cite-key: GMFH:33
   :END:
 
 #+BEGIN_VERSE
@@ -581,10 +581,10 @@ In the depth of my heart.
 * Labhinu Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:34
+  :cite-key: GMFH:34
   :END:
 
 #+BEGIN_VERSE
@@ -598,10 +598,10 @@ Ghor mana bane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:35
+  :cite-key: GMFH:35
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ In my dark mind-forest.
 * Peace I Have Got
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:36
+  :cite-key: GMFH:36
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ In my dark mind-forest.
 * Moha Bandhan Karibo Binash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:37
+  :cite-key: GMFH:37
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ Moha bandhan karibo binash hasiya hasiya achire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:38
+  :cite-key: GMFH:38
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ I shall break attachment-bondage soon.
 * Smiling and Smiling, I Shall Break
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:39
+  :cite-key: GMFH:39
   :END:
 
 #+BEGIN_VERSE
@@ -683,10 +683,10 @@ I shall break attachment-bondage soon.
 * Nandana Ban Hiyar Majhare Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:40
+  :cite-key: GMFH:40
   :END:
 
 #+BEGIN_VERSE
@@ -698,10 +698,10 @@ Nandana ban hiyar majhare tomare heribo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:41
+  :cite-key: GMFH:41
   :END:
 
 #+BEGIN_VERSE
@@ -714,10 +714,10 @@ Inside my heart-paradise I shall see You.
 * Inside My Heart-Paradise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:42
+  :cite-key: GMFH:42
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ I shall see You.
 * Ogo Sundaro Khule Dao Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:43
+  :cite-key: GMFH:43
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Akuti bhakati duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:44
+  :cite-key: GMFH:44
   :END:
 
 #+BEGIN_VERSE
@@ -764,10 +764,10 @@ Open my aspiration-devotion-door.
 * O Beautiful One
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:45
+  :cite-key: GMFH:45
   :END:
 
 #+BEGIN_VERSE
@@ -781,10 +781,10 @@ Open my aspiration-devotion-door.
 * Pakhi Hiyakashe Mor Oi Ure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:46
+  :cite-key: GMFH:46
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Pakhi pakhi pakhi hiyakashe mor oi ure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:47
+  :cite-key: GMFH:47
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ Behold a flight of birds in my heart-sky!
 * Behold! A Flight of Birds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:48
+  :cite-key: GMFH:48
   :END:
 
 #+BEGIN_VERSE
@@ -830,10 +830,10 @@ In my heart-sky.
 * Ratul Kamal Charan Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:49
+  :cite-key: GMFH:49
   :END:
 
 #+BEGIN_VERSE
@@ -845,10 +845,10 @@ Ratul kamal charan tomar puji ami dibanishi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:50
+  :cite-key: GMFH:50
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ I worship day and night.
 * Your Red Lotus-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:51
+  :cite-key: GMFH:51
   :END:
 
 #+BEGIN_VERSE
@@ -879,10 +879,10 @@ I worship day and night.
 * Sabar Sathe Dakle Kebal Tomar Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:52
+  :cite-key: GMFH:52
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Sabar sathe dakle kebal tomar dekha pai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:53
+  :cite-key: GMFH:53
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ I see You only when I invoke You with everybody.
 * I See You Only When I Invoke You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:54
+  :cite-key: GMFH:54
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ I see You only when I invoke You
 * Tomar Katha Balbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:55
+  :cite-key: GMFH:55
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ Atmatyager bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:56
+  :cite-key: GMFH:56
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ On the strength of my self-giving.
 * About You I Shall Speak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:57
+  :cite-key: GMFH:57
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ On the strength of my self-giving.
 * Udara Mudara Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:58
+  :cite-key: GMFH:58
   :END:
 
 #+BEGIN_VERSE
@@ -993,10 +993,10 @@ Tomader majhe habo je atmahara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:59
+  :cite-key: GMFH:59
   :END:
 
 #+BEGIN_VERSE
@@ -1010,10 +1010,10 @@ In you I shall lose my raison d’etre.
 * Bass, Alto, Soprano
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:60
+  :cite-key: GMFH:60
   :END:
 
 #+BEGIN_VERSE
@@ -1027,10 +1027,10 @@ In you I shall lose my ‘raison d’etre’.
 * Vanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:61
+  :cite-key: GMFH:61
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ Taba paye rahi ami haye nata janu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:62
+  :cite-key: GMFH:62
   :END:
 
 #+BEGIN_VERSE
@@ -1060,10 +1060,10 @@ At your feet I remain kneeling down.
 * Sun, at Your Feet I Remain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1989
-  :CITE-KEY: GMFH:63
+  :cite-key: GMFH:63
   :END:
 
 #+BEGIN_VERSE

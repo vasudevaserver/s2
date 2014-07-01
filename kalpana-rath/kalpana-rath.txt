@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1282
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1999
-  :PUBLISHER:
-  :CITE-KEY: KRIC
-  :GENRE: song
+  :book-number: 1282
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1999
+  :publisher:
+  :cite-key: KRIC
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KRIC:1e1
+  :genre: note
+  :cite-key: KRIC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KRIC:1e2
+  :genre: note
+  :cite-key: KRIC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Malin Maner Karbo Binash Chiratare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:1
+  :cite-key: KRIC:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Raibo shudhu bishwa matar charan dhare
 * Jeyona Chhariya Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:2
+  :cite-key: KRIC:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Amare Danite Dibase nishithe E minati rakho prabhu
 * Basana Kamana Jatana Bedana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:3
+  :cite-key: KRIC:3
   :END:
 
 #+BEGIN_VERSE
@@ -94,10 +94,10 @@ Eseche parama majhi
 * Urdhe Madal Nimne Badal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:4
+  :cite-key: KRIC:4
   :END:
 
 #+BEGIN_VERSE
@@ -111,10 +111,10 @@ Phuteche ajike hiya shatadal
 * Tomare Pujite Ekhano Samoi Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:5
+  :cite-key: KRIC:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Hiyar bagane tai hiya shikhi nache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:6
+  :cite-key: KRIC:6
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ My heart-deer is dancing
 * Baroi Byatha Labhi Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:7
+  :cite-key: KRIC:7
   :END:
 
 #+BEGIN_VERSE
@@ -164,10 +164,10 @@ Tomar katha
 * Khule Dao Khule Dao Mama Hiya Dwar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:8
+  :cite-key: KRIC:8
   :END:
 
 #+BEGIN_VERSE
@@ -183,10 +183,10 @@ More arbar
 * Sukher Dine Dukher Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:9
+  :cite-key: KRIC:9
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Darpa kharba kari
 * Sudurer Simanar Simanai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:10
+  :cite-key: KRIC:10
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ Paramer sathe ghuriya berai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:11
+  :cite-key: KRIC:11
   :END:
 
 #+BEGIN_VERSE
@@ -237,10 +237,10 @@ Together all-where roam.
 * Kalpana Rath Kalpana Rath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:12
+  :cite-key: KRIC:12
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Dekhao nutan path
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:13
+  :cite-key: KRIC:13
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ And show me a new way.
 * Animeshe Pujbo Tomar Charan Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:14
+  :cite-key: KRIC:14
   :END:
 
 #+BEGIN_VERSE
@@ -291,10 +291,10 @@ Habe amar jiban maran dhabal amal
 * Kandbo Ami Kandbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:15
+  :cite-key: KRIC:15
   :END:
 
 #+BEGIN_VERSE
@@ -310,10 +310,10 @@ Amire mor bandhbo
 * Jagat Matar Amar Bijoy Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:16
+  :cite-key: KRIC:16
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ Dilo amai asimatar priti
 * Durbalata Bhitar Bahir Durbalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:17
+  :cite-key: KRIC:17
   :END:
 
 #+BEGIN_VERSE
@@ -344,10 +344,10 @@ Taito dure bahu dure saphalata
 * Maner Bane Ghure Berai Jara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:18
+  :cite-key: KRIC:18
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Habe tara patha hara sarba hara
 * Dake Amai Dake Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:19
+  :cite-key: KRIC:19
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Asim barabhoy
 * Jiban Pathe Maner Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:20
+  :cite-key: KRIC:20
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ Prabhur charan dhari
 * Desh Bideshe Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:21
+  :cite-key: KRIC:21
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Amaratar prate
 * Aghat Hani Ajo Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:22
+  :cite-key: KRIC:22
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ Puta ebar habo ami tomar bijoy gane
 * Nahi Jani Kabe Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-12-1998
-  :CITE-KEY: KRIC:23
+  :cite-key: KRIC:23
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ Pujte tomai nirantar
 * Phul Phuteche Man Kanane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:24
+  :cite-key: KRIC:24
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ Aj chuteche
 * Bhitare Bahire Sundar Hate Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:25
+  :cite-key: KRIC:25
   :END:
 
 #+BEGIN_VERSE
@@ -490,10 +490,10 @@ Prati pale pale taba joy jena gahi
 * Bishwa Priti Bishalatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:26
+  :cite-key: KRIC:26
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Ei duniyar ghare ghare gaibo mayer giti
 * Nabiner Dake Nahi Dei Jara Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:27
+  :cite-key: KRIC:27
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ Nishchita tara habe jena patha hara
 * Bhebe Bhebe Mari Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:28
+  :cite-key: KRIC:28
   :END:
 
 #+BEGIN_VERSE
@@ -543,10 +543,10 @@ Amar jiban nebe
 * Mahater Bani Shunibo Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:29
+  :cite-key: KRIC:29
   :END:
 
 #+BEGIN_VERSE
@@ -562,10 +562,10 @@ Tader charane tani
 * Urdha Loker Bani Jara Shunte Nahi Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:30
+  :cite-key: KRIC:30
   :END:
 
 #+BEGIN_VERSE
@@ -579,10 +579,10 @@ Tara habe sarba hara bhitar bahir hai
 * Akash Dane Bishalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:31
+  :cite-key: KRIC:31
   :END:
 
 #+BEGIN_VERSE
@@ -598,10 +598,10 @@ Akash dane saphalata
 * Baroi Madhur Prabhur Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:32
+  :cite-key: KRIC:32
   :END:
 
 #+BEGIN_VERSE
@@ -617,10 +617,10 @@ Amarar sandhani
 * Akuti Minati Bhakati Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:33
+  :cite-key: KRIC:33
   :END:
 
 #+BEGIN_VERSE
@@ -635,10 +635,10 @@ Barek e katha kaho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:34
+  :cite-key: KRIC:34
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ That You are eternally mine.
 * Nil Pakhi Ure Bishal Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:35
+  :cite-key: KRIC:35
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Baje apurba sure
 * Khulo Khulo Aji Malin Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:36
+  :cite-key: KRIC:36
   :END:
 
 #+BEGIN_VERSE
@@ -693,10 +693,10 @@ Ratul charan tani
 * Bel Pata Diye Bhakati Hridaye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:37
+  :cite-key: KRIC:37
   :END:
 
 #+BEGIN_VERSE
@@ -712,10 +712,10 @@ Amare anke nibe
 * Alas Sharir Chapal Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:38
+  :cite-key: KRIC:38
   :END:
 
 #+BEGIN_VERSE
@@ -729,10 +729,10 @@ Dure bahu dure rahibe jiban tarir karna dhar
 * More Tumi Karbe Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:39
+  :cite-key: KRIC:39
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Taito ami nachi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:40
+  :cite-key: KRIC:40
   :END:
 
 #+BEGIN_VERSE
@@ -767,10 +767,10 @@ Therefore, I am dancing.
 * Ganer Sure Basibhalo Chitta Rabire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:41
+  :cite-key: KRIC:41
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Ganer sure jagai amar rishi kabire
 * Amai Chhere Jeona Dure Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:42
+  :cite-key: KRIC:42
   :END:
 
 #+BEGIN_VERSE
@@ -801,10 +801,10 @@ Thakte chahi charan kamal tale
 * Phule Phale Jiban Habe Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:43
+  :cite-key: KRIC:43
   :END:
 
 #+BEGIN_VERSE
@@ -818,10 +818,10 @@ Ahamika jakhan habe churna
 * Hasite Shikhechi Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:44
+  :cite-key: KRIC:44
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ Nachite shikhibo atma tyager bale
 * Tomare Tushite Tomar Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-1998
-  :CITE-KEY: KRIC:45
+  :cite-key: KRIC:45
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ Amar sarbanash
 * Base Tomar Charan Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:46
+  :cite-key: KRIC:46
   :END:
 
 #+BEGIN_VERSE
@@ -871,10 +871,10 @@ Pujbo tomai pale pale
 * Khulechi Aj Ashar Duar Khulechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:47
+  :cite-key: KRIC:47
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Bedan bhara hriday khani bhulechi
 * He Param Priya Jibane Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:48
+  :cite-key: KRIC:48
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Dure niye chale jao
 * Asakti Asakti Tumi Acho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:49
+  :cite-key: KRIC:49
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Tumi acho tai mor nahi je kabhu bhakti
 * Jiban Mama Britha Gelo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:50
+  :cite-key: KRIC:50
   :END:
 
 #+BEGIN_VERSE
@@ -943,10 +943,10 @@ Prabhu param pita
 * Asimer Dake Asimer Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:51
+  :cite-key: KRIC:51
   :END:
 
 #+BEGIN_VERSE
@@ -962,10 +962,10 @@ Achire janigo pabo
 * Chokher Jale Pujle Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:52
+  :cite-key: KRIC:52
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Charan tale jabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:53
+  :cite-key: KRIC:53
   :END:
 
 #+BEGIN_VERSE
@@ -1002,10 +1002,10 @@ To place ourselves at His Feet.
 * Nahi Jani Tomar Adesh Keno Manina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:54
+  :cite-key: KRIC:54
   :END:
 
 #+BEGIN_VERSE
@@ -1019,10 +1019,10 @@ Nahi jani kutil mane keno hanina
 * Dak Eseche Jabo Ebar Karbo Na Ar Deri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:55
+  :cite-key: KRIC:55
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Atma dane habo ami prabhur bijoy bheri
 * Tomar Kripar Tomar Khamar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1998
-  :CITE-KEY: KRIC:56
+  :cite-key: KRIC:56
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Ei kathati kabhu jeno bhule nahi jai
 * Esecho Jakhan Jeyona Chaliya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:57
+  :cite-key: KRIC:57
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ Esecho jakhan rakhibo bandhiya
 * Khulechi Ajike Premer Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:58
+  :cite-key: KRIC:58
   :END:
 
 #+BEGIN_VERSE
@@ -1091,10 +1091,10 @@ Taito binash amar amir
 * Maner Bane Shanti Nai Go Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:59
+  :cite-key: KRIC:59
   :END:
 
 #+BEGIN_VERSE
@@ -1108,10 +1108,10 @@ Hiya pure chalo chalo jai
 * Manbona Ar Maya Moher Shasan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:60
+  :cite-key: KRIC:60
   :END:
 
 #+BEGIN_VERSE
@@ -1125,10 +1125,10 @@ Saibona ar ahamikar jatan
 * Kandibo Na Ar Basana Puran Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:61
+  :cite-key: KRIC:61
   :END:
 
 #+BEGIN_VERSE
@@ -1142,10 +1142,10 @@ Pujite tomare raibo nidra jagi
 * Tomar Asan Patbo Ebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:62
+  :cite-key: KRIC:62
   :END:
 
 #+BEGIN_VERSE
@@ -1161,10 +1161,10 @@ Kandbo ami kandbo
 * Urdhe Raje Bishalatar Mukti Akash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:63
+  :cite-key: KRIC:63
   :END:
 
 #+BEGIN_VERSE
@@ -1178,10 +1178,10 @@ Nimne supta jiban bhagna hriday hatash
 * He Param Prabhu Esecho Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:64
+  :cite-key: KRIC:64
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ Paramanande nite
 * Kanna Hasir Bandhan Hara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:65
+  :cite-key: KRIC:65
   :END:
 
 #+BEGIN_VERSE
@@ -1216,10 +1216,10 @@ Nai je jane keu
 * Shatek Juger Basana Chhariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:66
+  :cite-key: KRIC:66
   :END:
 
 #+BEGIN_VERSE
@@ -1234,10 +1234,10 @@ Eso hiya tari majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-12-1998
-  :CITE-KEY: KRIC:67
+  :cite-key: KRIC:67
   :END:
 
 #+BEGIN_VERSE
@@ -1255,10 +1255,10 @@ O my heart-Boatman, do come.
 * Pari Na Ar Saite Ogo Hatur Jantrana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:68
+  :cite-key: KRIC:68
   :END:
 
 #+BEGIN_VERSE
@@ -1272,10 +1272,10 @@ Ogo amar param pita jachi mantrana
 * Pagol Kareche Amar Hatur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:69
+  :cite-key: KRIC:69
   :END:
 
 #+BEGIN_VERSE
@@ -1291,10 +1291,10 @@ Diyeche jibana bhore
 * Dan Hatu Dan Hatu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:70
+  :cite-key: KRIC:70
   :END:
 
 #+BEGIN_VERSE
@@ -1308,10 +1308,10 @@ Paribena keu kabhu byatha anuman
 * Asim Jatana Ditecho Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:71
+  :cite-key: KRIC:71
   :END:
 
 #+BEGIN_VERSE
@@ -1327,10 +1327,10 @@ Amar ashru lor
 * Ogo Hatu Chalte Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:72
+  :cite-key: KRIC:72
   :END:
 
 #+BEGIN_VERSE
@@ -1344,10 +1344,10 @@ Bhalobasa diye mora paraspare bandi
 * Nahi Jani Hai Ei Jatanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:73
+  :cite-key: KRIC:73
   :END:
 
 #+BEGIN_VERSE
@@ -1363,10 +1363,10 @@ Kripamoy paramesh
 * Sampechi Ajike Tomare Bidhata Amar Hatur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:74
+  :cite-key: KRIC:74
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ Daogo amare eshana
 * Uthte Giye Kende Mari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:75
+  :cite-key: KRIC:75
   :END:
 
 #+BEGIN_VERSE
@@ -1401,10 +1401,10 @@ Tomai prabhu smari
 * Amar Byathai Kande Tara Jara Amai Base
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:76
+  :cite-key: KRIC:76
   :END:
 
 #+BEGIN_VERSE
@@ -1420,10 +1420,10 @@ Ashish plaban dhalo
 * Saite Jeno Pari Ami Amar Hatur Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-12-1998
-  :CITE-KEY: KRIC:77
+  :cite-key: KRIC:77
   :END:
 
 #+BEGIN_VERSE
@@ -1439,10 +1439,10 @@ Amar saphalata
 * Nil Akashe Ghure Berai Amar Chitta Khani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:78
+  :cite-key: KRIC:78
   :END:
 
 #+BEGIN_VERSE
@@ -1456,10 +1456,10 @@ Dhara tale purna kari param pitar bani
 * Biraher Giti Barai Madhur Jani Biraher Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:79
+  :cite-key: KRIC:79
   :END:
 
 #+BEGIN_VERSE
@@ -1473,10 +1473,10 @@ Biraha ante labhibe jiban nabin ushar priti
 * Maran Kande Jiban Lagi Maran Kande
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:80
+  :cite-key: KRIC:80
   :END:
 
 #+BEGIN_VERSE
@@ -1490,10 +1490,10 @@ Jiban bandhe prabhur charan jiban bandhe
 * Shunechi Aj Amar Desher Amaratar Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:81
+  :cite-key: KRIC:81
   :END:
 
 #+BEGIN_VERSE
@@ -1507,10 +1507,10 @@ Bajai mora bishwa prabhur bishwa jayer shank
 * Ashar Duar Rekhechi Khuliya Ajike Dekhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:82
+  :cite-key: KRIC:82
   :END:
 
 #+BEGIN_VERSE
@@ -1524,10 +1524,10 @@ Dekhite haibe hiya taranir majhike
 * Tomar Bani Karte Prachar Dharar Kole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:83
+  :cite-key: KRIC:83
   :END:
 
 #+BEGIN_VERSE
@@ -1541,10 +1541,10 @@ Tushbo tomai sabar majhe ei pratigya karechi
 * Chalo Jai.. Sudurer Pane Heri Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:84
+  :cite-key: KRIC:84
   :END:
 
 #+BEGIN_VERSE
@@ -1558,10 +1558,10 @@ Heri jena nishchita swarupere swaruper gane
 * Nil Akasher Asimatai Heri Jena Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:85
+  :cite-key: KRIC:85
   :END:
 
 #+BEGIN_VERSE
@@ -1575,10 +1575,10 @@ Sabar sathe mile mishe tushi jena sabare
 * Kanna Hasir Parapare Thakbe Amar Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:86
+  :cite-key: KRIC:86
   :END:
 
 #+BEGIN_VERSE
@@ -1592,10 +1592,10 @@ Sethai ami gaibo shudhu prabhur bijoy gan
 * Thakte Chahi Dibanishi Nirabatar Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:87
+  :cite-key: KRIC:87
   :END:
 
 #+BEGIN_VERSE
@@ -1611,10 +1611,10 @@ Madhur hasi hese
 * Kende Mari Dibanishi Ektu Tripti Lagi Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:88
+  :cite-key: KRIC:88
   :END:
 
 #+BEGIN_VERSE
@@ -1628,10 +1628,10 @@ Puta ushar purna bhore uthi jena jagi
 * Amar Katha Bale Bale Haye Gelam Klanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:89
+  :cite-key: KRIC:89
   :END:
 
 #+BEGIN_VERSE
@@ -1645,10 +1645,10 @@ Habe ki hai khanik tare jiban amar shanto
 * Asha Je Din Chale Jabe Sabi Chhere Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:90
+  :cite-key: KRIC:90
   :END:
 
 #+BEGIN_VERSE
@@ -1662,10 +1662,10 @@ Hasi amar kabhu keha dekhte nahi pabe
 * Basanare Chhere Jabo Dure Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:91
+  :cite-key: KRIC:91
   :END:
 
 #+BEGIN_VERSE
@@ -1679,10 +1679,10 @@ Eshanare khunji pabo nirabata pure
 * Ratrir Shesh Ache Jatrar Shesh Nai Jatrire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:92
+  :cite-key: KRIC:92
   :END:
 
 #+BEGIN_VERSE
@@ -1696,10 +1696,10 @@ Jatrire khunji pabe paramer pade thai
 * Aram Bagane Paramanande Harai Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:93
+  :cite-key: KRIC:93
   :END:
 
 #+BEGIN_VERSE
@@ -1713,10 +1713,10 @@ Jiban amar haibe takhan andhar supti magan
 * Jader Katha Bhebe Mari Tara Ki Hai Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:94
+  :cite-key: KRIC:94
   :END:
 
 #+BEGIN_VERSE
@@ -1732,10 +1732,10 @@ Tomar kache jabe
 * Cheyona Phiriya.. Cheyona Sandeha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:95
+  :cite-key: KRIC:95
   :END:
 
 #+BEGIN_VERSE
@@ -1751,10 +1751,10 @@ Sathe kare tumi jeyona
 * Aparer Dosh Heri Dibanishi Aparer Dosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:96
+  :cite-key: KRIC:96
   :END:
 
 #+BEGIN_VERSE
@@ -1768,10 +1768,10 @@ Taito prabhu hriday bagane ami nahi kabhu phuti
 * Nirabadhi Maner Majhe Etoi Sangshoy Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:97
+  :cite-key: KRIC:97
   :END:
 
 #+BEGIN_VERSE
@@ -1785,10 +1785,10 @@ Taito jani bhore sanjhe bhoy kari bhoy
 * Nata Janu Haye Pujibo Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:98
+  :cite-key: KRIC:98
   :END:
 
 #+BEGIN_VERSE
@@ -1803,10 +1803,10 @@ Tomar kripai phutibe amar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:99
+  :cite-key: KRIC:99
   :END:
 
 #+BEGIN_VERSE
@@ -1822,10 +1822,10 @@ By Your Grace the sun of my heart
 * Ghumer Ghore Katai Jiban Nishith Ghumer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:100
+  :cite-key: KRIC:100
   :END:
 
 #+BEGIN_VERSE
@@ -1841,10 +1841,10 @@ Amaratar bhore
 * Ar Katokal Bhugbo Ami Sharir Jatanai Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:101
+  :cite-key: KRIC:101
   :END:
 
 #+BEGIN_VERSE
@@ -1858,10 +1858,10 @@ Ar katokal kandbe jiban nithur bedanai
 * Nutan Ashai Nutan Bhashai Karbo Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:102
+  :cite-key: KRIC:102
   :END:
 
 #+BEGIN_VERSE
@@ -1877,10 +1877,10 @@ Kripa khama sudha pathar
 * Bhul Kareo Jaina Keno Tomar Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:103
+  :cite-key: KRIC:103
   :END:
 
 #+BEGIN_VERSE
@@ -1894,10 +1894,10 @@ Tabu tumi dekho na mor asim truti kabhu
 * Jiban Juddhe Bijoyi Na Hale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:104
+  :cite-key: KRIC:104
   :END:
 
 #+BEGIN_VERSE
@@ -1912,10 +1912,10 @@ Tomar charan khani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1998
-  :CITE-KEY: KRIC:105
+  :cite-key: KRIC:105
   :END:
 
 #+BEGIN_VERSE
@@ -1932,10 +1932,10 @@ With my devotion-heart.
 * Ami Hate Chahi Ogo Oishi Nandan Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:106
+  :cite-key: KRIC:106
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Mor majhe nahi raje dhara bandan
 * Swarga Basi Hate Chaho Swarga Basi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:107
+  :cite-key: KRIC:107
   :END:
 
 #+BEGIN_VERSE
@@ -1968,10 +1968,10 @@ Andhar nashi
 * Bhaye Bhaye Kare Amar Hriday Kampan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:108
+  :cite-key: KRIC:108
   :END:
 
 #+BEGIN_VERSE
@@ -1985,10 +1985,10 @@ Bhenge jakhan jai go amar madhur swapan
 * Atma Amar Chira Kal Sumahan Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:109
+  :cite-key: KRIC:109
   :END:
 
 #+BEGIN_VERSE
@@ -2002,10 +2002,10 @@ Dhara adharai kare abasthan
 * Swarger Ran Martyer Ran Bhitarer Ran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:110
+  :cite-key: KRIC:110
   :END:
 
 #+BEGIN_VERSE
@@ -2021,10 +2021,10 @@ Nishchita jani ei mor pan
 * Bishwa Premer Uday Habe Amar Hiya Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:111
+  :cite-key: KRIC:111
   :END:
 
 #+BEGIN_VERSE
@@ -2038,10 +2038,10 @@ Bishwa priti geye jabo sudha madhu sure
 * Amar Bhitare Parama Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:112
+  :cite-key: KRIC:112
   :END:
 
 #+BEGIN_VERSE
@@ -2055,10 +2055,10 @@ Amar bhitare hese ar nache kagoler debagan
 * Jogi O Jogini Hate Hate Habe Ek Din Bajate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:113
+  :cite-key: KRIC:113
   :END:
 
 #+BEGIN_VERSE
@@ -2072,10 +2072,10 @@ Bajate prabhur chira bijoyer bin
 * Asi Taba Kache Mago Phulla Chite Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:114
+  :cite-key: KRIC:114
   :END:
 
 #+BEGIN_VERSE
@@ -2089,10 +2089,10 @@ Bajate prabhur chira bijoyer bin
 * Amare Tumi Je Karecho Srijan Tomar Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:115
+  :cite-key: KRIC:115
   :END:
 
 #+BEGIN_VERSE
@@ -2106,10 +2106,10 @@ Tomare pujite karechi je suru bhakati ashru bhare
 * Deepti Bina Tripti Lagi Kande Jara Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:116
+  :cite-key: KRIC:116
   :END:
 
 #+BEGIN_VERSE
@@ -2123,10 +2123,10 @@ Tara je hai nahi pabe tomar dekha kabhu
 * Aramer Bukhe Haram Gopane Rahe Ekatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:117
+  :cite-key: KRIC:117
   :END:
 
 #+BEGIN_VERSE
@@ -2140,10 +2140,10 @@ E katha bidhata ajike amare kahe
 * Chitta Amar Abhoy Karo Chira Abhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:118
+  :cite-key: KRIC:118
   :END:
 
 #+BEGIN_VERSE
@@ -2157,10 +2157,10 @@ Andhar nashi gaite chahi tomar bijoy
 * He Param Pita Dao Darashan Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:119
+  :cite-key: KRIC:119
   :END:
 
 #+BEGIN_VERSE
@@ -2174,10 +2174,10 @@ Charan tomar bandhiya rakhibo bhakati premer dare
 * Hao Go Saday.. Mukti Shikha Dao Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:120
+  :cite-key: KRIC:120
   :END:
 
 #+BEGIN_VERSE
@@ -2191,10 +2191,10 @@ Mukti shikha dao go more ogo dayamoy
 * Simar Bandhan Kare Dahan Amar Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:121
+  :cite-key: KRIC:121
   :END:
 
 #+BEGIN_VERSE
@@ -2208,10 +2208,10 @@ Amar pane nahi chahe deb debira keha
 * Jiban Samare Bhiti Das Haye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:122
+  :cite-key: KRIC:122
   :END:
 
 #+BEGIN_VERSE
@@ -2226,10 +2226,10 @@ Kapurush bhiru pabe ki go tara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:123
+  :cite-key: KRIC:123
   :END:
 
 #+BEGIN_VERSE
@@ -2246,10 +2246,10 @@ Of Your Feet, O my Lord Supreme.
 * Jogi Muni Rishi Puje Dibanishi Tomar Kamal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:124
+  :cite-key: KRIC:124
   :END:
 
 #+BEGIN_VERSE
@@ -2265,10 +2265,10 @@ Chinta plaban haran
 * Prabhu.. Shudhu Ekbar Dao Aji Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:125
+  :cite-key: KRIC:125
   :END:
 
 #+BEGIN_VERSE
@@ -2284,10 +2284,10 @@ Amar chinta ban
 * Dao Go Amare Minati Bhakati Apar Ta Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:126
+  :cite-key: KRIC:126
   :END:
 
 #+BEGIN_VERSE
@@ -2301,10 +2301,10 @@ Ta na hale mor raibe jiban asar
 * Jaga Jananir Amara Stotra Diyeche Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:127
+  :cite-key: KRIC:127
   :END:
 
 #+BEGIN_VERSE
@@ -2318,10 +2318,10 @@ Amaratar deshe ghuriya berabo amarata shantan
 * Ami Habo Jiban Rane Durbar Nashbo Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:128
+  :cite-key: KRIC:128
   :END:
 
 #+BEGIN_VERSE
@@ -2335,10 +2335,10 @@ Nashbo prane agyanatar andhiyar
 * Chinta Sagare Dubiche Jahara Chinta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:129
+  :cite-key: KRIC:129
   :END:
 
 #+BEGIN_VERSE
@@ -2354,10 +2354,10 @@ Smariche ki hai smariche
 * Ke Amare Dake Aji Asim Desher Sathi Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:130
+  :cite-key: KRIC:130
   :END:
 
 #+BEGIN_VERSE
@@ -2371,10 +2371,10 @@ Ke amare phutte bale atmatyager brate
 * Jahar Jibane Nahi Raje Kabhu Sadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:131
+  :cite-key: KRIC:131
   :END:
 
 #+BEGIN_VERSE
@@ -2388,10 +2388,10 @@ Kemane se hai mukti khudite karibe daman
 * Klanti Hara Sranti Hara Pujbo Tomai Pujbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:132
+  :cite-key: KRIC:132
   :END:
 
 #+BEGIN_VERSE
@@ -2405,10 +2405,10 @@ Nidrahara nimesh hara pujbo tomai pujbo
 * Gopane Asiya Gopane Chaliya Gele Turiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:133
+  :cite-key: KRIC:133
   :END:
 
 #+BEGIN_VERSE
@@ -2422,10 +2422,10 @@ Turiya dhamer paramananda tai bujhi aji pele
 * Sukher Dine Tomar Kache Nahi Kichu Jachi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:134
+  :cite-key: KRIC:134
   :END:
 
 #+BEGIN_VERSE
@@ -2439,10 +2439,10 @@ Dukher dine ek nimeshe maran hale banchi
 * Jar Ache Je Manase Ghor Sangshoi Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:135
+  :cite-key: KRIC:135
   :END:
 
 #+BEGIN_VERSE
@@ -2456,10 +2456,10 @@ Jiban rane habe na tar bijoy
 * Kandte Chahi Haste Chahi Tomar Tripti Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:136
+  :cite-key: KRIC:136
   :END:
 
 #+BEGIN_VERSE
@@ -2473,10 +2473,10 @@ Hate chahi tomar kebal baroi anuragi
 * Mayer Kripa Mayer Khama Nitya Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:137
+  :cite-key: KRIC:137
   :END:
 
 #+BEGIN_VERSE
@@ -2490,10 +2490,10 @@ Mayer asim sagar buke jiban amar santare
 * Mayer Kripa Bina Ami Ati Abhajan Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:138
+  :cite-key: KRIC:138
   :END:
 
 #+BEGIN_VERSE
@@ -2507,10 +2507,10 @@ Jiban amar habe jani kantakita man
 * Kusum Sama Phuteche Aj Puta Hiya Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:139
+  :cite-key: KRIC:139
   :END:
 
 #+BEGIN_VERSE
@@ -2524,10 +2524,10 @@ Tomar bijoy gaite giti ogo manorama
 * Chhale Bale Hate Chaho Baro Samoy Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:140
+  :cite-key: KRIC:140
   :END:
 
 #+BEGIN_VERSE
@@ -2541,10 +2541,10 @@ Samoy ache prabhur charan dharo
 * Jasher Garima Peyechi Anek Peyechi Bakke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:141
+  :cite-key: KRIC:141
   :END:
 
 #+BEGIN_VERSE
@@ -2558,10 +2558,10 @@ Bakke amar tomar charan niyechi
 * Dinatar Bojha Bhitare Bahire Bahan Kariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:142
+  :cite-key: KRIC:142
   :END:
 
 #+BEGIN_VERSE
@@ -2575,10 +2575,10 @@ Marmapiran e gopan katha kemane kahare bali
 * Sarbabhute Na Herile Ekiy Ishwar Ei Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:143
+  :cite-key: KRIC:143
   :END:
 
 #+BEGIN_VERSE
@@ -2592,10 +2592,10 @@ Ei jiban rabe jani atiba nishwar
 * Deher Khudha Chai Mithate Hiyar Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:144
+  :cite-key: KRIC:144
   :END:
 
 #+BEGIN_VERSE
@@ -2611,10 +2611,10 @@ Nahi pari taito phutate
 * Gopan Katha Balbo Shudhu Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-12-1998
-  :CITE-KEY: KRIC:145
+  :cite-key: KRIC:145
   :END:
 
 #+BEGIN_VERSE
@@ -2628,10 +2628,10 @@ Swapan sathi karbe ashish swapane
 * Chapal Parane Tomar Charane Labhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1998
-  :CITE-KEY: KRIC:146
+  :cite-key: KRIC:146
   :END:
 
 #+BEGIN_VERSE
@@ -2647,10 +2647,10 @@ Nahi taba dekha pai
 * Bhitare Eshana Bahire Basana Bhitare Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1998
-  :CITE-KEY: KRIC:147
+  :cite-key: KRIC:147
   :END:
 
 #+BEGIN_VERSE
@@ -2667,10 +2667,10 @@ Bahire bahire praner samire
 * He Param Pita Urdhe Nimne Sthale Ar Jale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1998
-  :CITE-KEY: KRIC:148
+  :cite-key: KRIC:148
   :END:
 
 #+BEGIN_VERSE
@@ -2684,10 +2684,10 @@ Rahite chahigo animesh chite taba pada tale
 * Sunil Baridhi Sunil Akash Sunil Bishalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1998
-  :CITE-KEY: KRIC:149
+  :cite-key: KRIC:149
   :END:
 
 #+BEGIN_VERSE
@@ -2701,10 +2701,10 @@ Tomar majhare kariche biraj paramer purnata
 * Amara Jibana Tomara Charana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1998
-  :CITE-KEY: KRIC:150
+  :cite-key: KRIC:150
   :END:
 
 #+BEGIN_VERSE
@@ -2720,10 +2720,10 @@ paramananda dhan
 * Khama Jadi Nahi Karo Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:151
+  :cite-key: KRIC:151
   :END:
 
 #+BEGIN_VERSE
@@ -2739,10 +2739,10 @@ Keman kare bajbo
 * Asha Kusum Phutlo Na Go Phutlo Na Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:152
+  :cite-key: KRIC:152
   :END:
 
 #+BEGIN_VERSE
@@ -2756,10 +2756,10 @@ Ei jibaner sad je kono mithlona
 * Gopane Kandibo Gopane Pujibo Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:153
+  :cite-key: KRIC:153
   :END:
 
 #+BEGIN_VERSE
@@ -2773,10 +2773,10 @@ Eso eso prabhu dharao barek amar hiyar duare
 * Sabar Sathe Chalbo Ami Sabar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:154
+  :cite-key: KRIC:154
   :END:
 
 #+BEGIN_VERSE
@@ -2792,10 +2792,10 @@ Dharar timir nashbo
 * Jadi Nahi Pai Taba Darashan E Jibane Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:155
+  :cite-key: KRIC:155
   :END:
 
 #+BEGIN_VERSE
@@ -2811,10 +2811,10 @@ Nimesher tare prabhu
 * Pratikkhane Tushte Tomai Harai Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:156
+  :cite-key: KRIC:156
   :END:
 
 #+BEGIN_VERSE
@@ -2828,10 +2828,10 @@ Tomar majhe dekhi jena mita ari sabare
 * Diner Sheshe Ghumer Deshe Ke Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:157
+  :cite-key: KRIC:157
   :END:
 
 #+BEGIN_VERSE
@@ -2847,10 +2847,10 @@ Amar bishwa make
 * Nami Tomai Bishwa Mata Pranami Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:158
+  :cite-key: KRIC:158
   :END:
 
 #+BEGIN_VERSE
@@ -2864,10 +2864,10 @@ Ami tomar kripa pathar marami
 * Dure Jara Thakte Chahe Rakho Tader Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:159
+  :cite-key: KRIC:159
   :END:
 
 #+BEGIN_VERSE
@@ -2881,10 +2881,10 @@ Kache jara thakte chahe rakho hiya pure
 * Basanar Bale Prati Pale Pale Chahi Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:160
+  :cite-key: KRIC:160
   :END:
 
 #+BEGIN_VERSE
@@ -2900,10 +2900,10 @@ Tomar lagiya kandite
 * Sampinu Aj Tomar Paye Tomar Bijoy Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:161
+  :cite-key: KRIC:161
   :END:
 
 #+BEGIN_VERSE
@@ -2917,10 +2917,10 @@ Taito amar bhitar bahir jiban maran ala
 * Jayi Habo Jayi Habo Jiban Samare Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:162
+  :cite-key: KRIC:162
   :END:
 
 #+BEGIN_VERSE
@@ -2934,10 +2934,10 @@ Mukti pabo param pitar param ashish bare
 * Kendechi Hesechi Sabiy Karechi Herite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1998
-  :CITE-KEY: KRIC:163
+  :cite-key: KRIC:163
   :END:
 
 #+BEGIN_VERSE
@@ -2951,10 +2951,10 @@ Barek bajao ogo priyatama rupantarer banshi
 * Ke Amare Shikhabe Hai Atmajoyer Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:164
+  :cite-key: KRIC:164
   :END:
 
 #+BEGIN_VERSE
@@ -2968,10 +2968,10 @@ Ke amare dibe balo asimatar ban
 * Deher Byatha Praner Byatha Maner Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:165
+  :cite-key: KRIC:165
   :END:
 
 #+BEGIN_VERSE
@@ -2986,10 +2986,10 @@ Tomar charan tale
 * Jani Jani Tumi Tomar Ashesh Khama Sindhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:166
+  :cite-key: KRIC:166
   :END:
 
 #+BEGIN_VERSE
@@ -3004,10 +3004,10 @@ Tomar kripa bindu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:167
+  :cite-key: KRIC:167
   :END:
 
 #+BEGIN_VERSE
@@ -3023,10 +3023,10 @@ A tiny Compassion-drop of Yours.
 * Dibarati Jara Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:168
+  :cite-key: KRIC:168
   :END:
 
 #+BEGIN_VERSE
@@ -3041,10 +3041,10 @@ Karbe sarbanash
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:169
+  :cite-key: KRIC:169
   :END:
 
 #+BEGIN_VERSE
@@ -3060,10 +3060,10 @@ Leave no stones unturned to destroy me.
 * Upahas Kare Amare Tomara Tripti Petecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:170
+  :cite-key: KRIC:170
   :END:
 
 #+BEGIN_VERSE
@@ -3077,10 +3077,10 @@ Pratisod nite tomader prane ami jena nahi hani
 * Nutan Pathe Chalte Habe Nutan Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:171
+  :cite-key: KRIC:171
   :END:
 
 #+BEGIN_VERSE
@@ -3094,10 +3094,10 @@ Chalte habe nitya nutan dibya rathe
 * Maner Katha Balbo Kare Kothai Apan Jan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:172
+  :cite-key: KRIC:172
   :END:
 
 #+BEGIN_VERSE
@@ -3111,10 +3111,10 @@ Kahar paye khunje pabo chirantaner dhan
 * Bhitar Jibane Hate Jadi Chaha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1998
-  :CITE-KEY: KRIC:173
+  :cite-key: KRIC:173
   :END:
 
 #+BEGIN_VERSE
@@ -3130,10 +3130,10 @@ Keha nahe kabhu par
 * Raja Sultan Raja Sultan Gahi Mora Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:174
+  :cite-key: KRIC:174
   :END:
 
 #+BEGIN_VERSE
@@ -3149,10 +3149,10 @@ Madhu amayik Allahr dan
 * Agater Par Aghat Peyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:175
+  :cite-key: KRIC:175
   :END:
 
 #+BEGIN_VERSE
@@ -3167,10 +3167,10 @@ Dharanir ghor kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:176
+  :cite-key: KRIC:176
   :END:
 
 #+BEGIN_VERSE
@@ -3187,10 +3187,10 @@ Dark ignorance as my own.
 * Mukti Jadi Chaho Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:177
+  :cite-key: KRIC:177
   :END:
 
 #+BEGIN_VERSE
@@ -3205,10 +3205,10 @@ Thako hiya pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:178
+  :cite-key: KRIC:178
   :END:
 
 #+BEGIN_VERSE
@@ -3225,10 +3225,10 @@ Your heart-citadel.
 * Maner Byatha Praner Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:179
+  :cite-key: KRIC:179
   :END:
 
 #+BEGIN_VERSE
@@ -3243,10 +3243,10 @@ Parbo ki hai baite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:180
+  :cite-key: KRIC:180
   :END:
 
 #+BEGIN_VERSE
@@ -3263,10 +3263,10 @@ The Victory-Banner of the World Father?
 * Dibanishi Pratikkhane Pujte Tomai Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:181
+  :cite-key: KRIC:181
   :END:
 
 #+BEGIN_VERSE
@@ -3280,10 +3280,10 @@ Dibe na ki khanik tare tomar paye thai
 * Aghat Diye Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:182
+  :cite-key: KRIC:182
   :END:
 
 #+BEGIN_VERSE
@@ -3297,10 +3297,10 @@ Amar jiban binash kare tripti bujhi pao
 * Shanti Chahi Go.. Shanti Ar Katokal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:183
+  :cite-key: KRIC:183
   :END:
 
 #+BEGIN_VERSE
@@ -3314,10 +3314,10 @@ Ar katokal jibane rahibe bhranti kebal bhranti
 * Cheyona Parame Bujhite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:184
+  :cite-key: KRIC:184
   :END:
 
 #+BEGIN_VERSE
@@ -3330,10 +3330,10 @@ Cheyo shudhu ogo parame khunjite pujite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:185
+  :cite-key: KRIC:185
   :END:
 
 #+BEGIN_VERSE
@@ -3348,10 +3348,10 @@ Only try to find Him and worship Him.
 * Chalak Chatur Hate Ami Chai Na Ogo Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:186
+  :cite-key: KRIC:186
   :END:
 
 #+BEGIN_VERSE
@@ -3365,10 +3365,10 @@ Tader sathe mishle ami prabhur dekha pai na
 * Hiyai Khudha Pete Habe Hiyai Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:187
+  :cite-key: KRIC:187
   :END:
 
 #+BEGIN_VERSE
@@ -3382,10 +3382,10 @@ Chaho jadi dhara tale swarga sudha
 * Tomar Kache Thakte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:188
+  :cite-key: KRIC:188
   :END:
 
 #+BEGIN_VERSE
@@ -3400,10 +3400,10 @@ Na chai tader gunte
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:189
+  :cite-key: KRIC:189
   :END:
 
 #+BEGIN_VERSE
@@ -3421,10 +3421,10 @@ And I do not wish to count them.
 * Maner Basana Praner Jatana Hiyare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:190
+  :cite-key: KRIC:190
   :END:
 
 #+BEGIN_VERSE
@@ -3438,10 +3438,10 @@ Taito hiyai nahi phute kabhu parame pujite shatadal
 * Chokher Jale Khunjechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:191
+  :cite-key: KRIC:191
   :END:
 
 #+BEGIN_VERSE
@@ -3456,10 +3456,10 @@ Tyager bale peyechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:192
+  :cite-key: KRIC:192
   :END:
 
 #+BEGIN_VERSE
@@ -3479,10 +3479,10 @@ I have discovered You.
 * Naba Nabiner Sathi Hate Chahi Chira Naba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:193
+  :cite-key: KRIC:193
   :END:
 
 #+BEGIN_VERSE
@@ -3496,10 +3496,10 @@ Dharar bandhan bahu dure rekhe dekha pabo tridiber
 * Esechi Dharai Taba Hema Bani Pracharite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:194
+  :cite-key: KRIC:194
   :END:
 
 #+BEGIN_VERSE
@@ -3513,10 +3513,10 @@ Madhurima taba asim karuna prakashite
 * Nabin Ushai Jegechi Dharani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:195
+  :cite-key: KRIC:195
   :END:
 
 #+BEGIN_VERSE
@@ -3532,10 +3532,10 @@ Amar hiyar majhi
 * Dibarati Namer Jasher Kangal Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:196
+  :cite-key: KRIC:196
   :END:
 
 #+BEGIN_VERSE
@@ -3548,10 +3548,10 @@ Dao na je thai prabhu amai charan tale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-12-1998
-  :CITE-KEY: KRIC:197
+  :cite-key: KRIC:197
   :END:
 
 #+BEGIN_VERSE
@@ -3567,10 +3567,10 @@ My Lord Supreme.
 * Amar Jiban Amar Maran Mage Taba Pada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:198
+  :cite-key: KRIC:198
   :END:
 
 #+BEGIN_VERSE
@@ -3585,10 +3585,10 @@ Tomare na jena bhuli
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:199
+  :cite-key: KRIC:199
   :END:
 
 #+BEGIN_VERSE
@@ -3606,10 +3606,10 @@ Do not allow me to forget You.
 * Cheyechhilam Kabi Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:200
+  :cite-key: KRIC:200
   :END:
 
 #+BEGIN_VERSE
@@ -3629,10 +3629,10 @@ Tomar mukut tomar singhasan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:201
+  :cite-key: KRIC:201
   :END:
 
 #+BEGIN_VERSE
@@ -3653,10 +3653,10 @@ Your Crown and Your Throne.
 * Ekhano Samoi Ache Nijere Khunjite Nijere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:202
+  :cite-key: KRIC:202
   :END:
 
 #+BEGIN_VERSE
@@ -3670,10 +3670,10 @@ Nijere khunjite nijere herite nirabata gabhire
 * Nahi Jani.. Shanto Habe Kabe Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:203
+  :cite-key: KRIC:203
   :END:
 
 #+BEGIN_VERSE
@@ -3687,10 +3687,10 @@ Shanto habe kabe chapal paran khani
 * Shatek Juger Basana Kamana Karecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:204
+  :cite-key: KRIC:204
   :END:
 
 #+BEGIN_VERSE
@@ -3706,10 +3706,10 @@ Tomar hiyai purna
 * Tomar Kripai Tomar Khamai Tomar Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:205
+  :cite-key: KRIC:205
   :END:
 
 #+BEGIN_VERSE
@@ -3725,10 +3725,10 @@ Dharar bandhan nai je sathe nai
 * Asbe Tara Phire Amai Asbe Tara Phire Hese
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:206
+  :cite-key: KRIC:206
   :END:
 
 #+BEGIN_VERSE
@@ -3743,10 +3743,10 @@ Raibe amai ghire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:207
+  :cite-key: KRIC:207
   :END:
 
 #+BEGIN_VERSE
@@ -3763,10 +3763,10 @@ And move around me.
 * Chahi Taba Barabhoy Ogo Premamoy Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:208
+  :cite-key: KRIC:208
   :END:
 
 #+BEGIN_VERSE
@@ -3780,10 +3780,10 @@ Gahi jena animeshe shudhu taba joy
 * Base Achi Tomar Lagi Khule Hiyar Dwar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:209
+  :cite-key: KRIC:209
   :END:
 
 #+BEGIN_VERSE
@@ -3799,10 +3799,10 @@ Khama parabar
 * Amai Khunje Peyechi Aj Nirabatar Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:210
+  :cite-key: KRIC:210
   :END:
 
 #+BEGIN_VERSE
@@ -3818,10 +3818,10 @@ Amaratar rabire
 * Jani Jani Balar Mato Nai Je Kichu Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:211
+  :cite-key: KRIC:211
   :END:
 
 #+BEGIN_VERSE
@@ -3835,10 +3835,10 @@ Prabhu tomar kripa khama kebal pete chai
 * Aparer Dosh Truti Heribona Kadachan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:212
+  :cite-key: KRIC:212
   :END:
 
 #+BEGIN_VERSE
@@ -3852,10 +3852,10 @@ Pujite tushite mor paramere anukhan
 * Bhisan Tibra Aghat Kare Jai Je Jara Chale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:213
+  :cite-key: KRIC:213
   :END:
 
 #+BEGIN_VERSE
@@ -3869,10 +3869,10 @@ Minati mor pai jena thai tomar charan tale
 * Prabhu Tomar Tripti Lagi Rahi Jena Nidra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:214
+  :cite-key: KRIC:214
   :END:
 
 #+BEGIN_VERSE
@@ -3888,10 +3888,10 @@ Pantha amar karbe ala
 * Nahi Jani Hiya Kusum Phutbe Kabe Hatash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:215
+  :cite-key: KRIC:215
   :END:
 
 #+BEGIN_VERSE
@@ -3905,10 +3905,10 @@ Hatash haye rahi kebal andhar bhabe
 * Hiya Pure Kahar Sathe Alap Kari Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:216
+  :cite-key: KRIC:216
   :END:
 
 #+BEGIN_VERSE
@@ -3922,10 +3922,10 @@ Jani shudhu tahar katha kabhu ami manina
 * Jiban Taru Phule Phale Halo Aji Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:217
+  :cite-key: KRIC:217
   :END:
 
 #+BEGIN_VERSE
@@ -3939,10 +3939,10 @@ Bishwa basi amar mita sab bhedabed churna
 * Jiban Lila Sanga Je Din Habe Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:218
+  :cite-key: KRIC:218
   :END:
 
 #+BEGIN_VERSE
@@ -3956,10 +3956,10 @@ Tomar charan rakhbo prabhu bhabe
 * Garba Kare Puji Bale Tomar Dekha Pai Na
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:219
+  :cite-key: KRIC:219
   :END:
 
 #+BEGIN_VERSE
@@ -3974,10 +3974,10 @@ Namra shire chai na je hai Namra shire chai na
 * Tomai Jara Tushte Pare Tara Amar Baroi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:220
+  :cite-key: KRIC:220
   :END:
 
 #+BEGIN_VERSE
@@ -3993,10 +3993,10 @@ Tomar hasi ami anukhan
 * Amarata Deshe Ghuriya Berai Asimer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:221
+  :cite-key: KRIC:221
   :END:
 
 #+BEGIN_VERSE
@@ -4012,10 +4012,10 @@ Rakhinu moder mathe
 * Ashar Pathe Chalte Gele Pai Je Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:222
+  :cite-key: KRIC:222
   :END:
 
 #+BEGIN_VERSE
@@ -4029,10 +4029,10 @@ Samarpaner gaite giti dao go byakulata
 * Namer Jasher Habo Na Ar Bhikkuk Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:223
+  :cite-key: KRIC:223
   :END:
 
 #+BEGIN_VERSE
@@ -4046,10 +4046,10 @@ Tomar ashish pete kebal utsuk
 * Tomar Tripti Amar Tripti E Katha Rekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:224
+  :cite-key: KRIC:224
   :END:
 
 #+BEGIN_VERSE
@@ -4065,10 +4065,10 @@ Ghume ar jagarane
 * Bishalatar Khudha Chahi Bishalatar Khudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:225
+  :cite-key: KRIC:225
   :END:
 
 #+BEGIN_VERSE
@@ -4082,10 +4082,10 @@ Ta na hale nahi pabo amaratar sudha
 * Chal..... Hriday Gahane Chal Moder Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:226
+  :cite-key: KRIC:226
   :END:
 
 #+BEGIN_VERSE
@@ -4101,10 +4101,10 @@ Amarar shatadal
 * Ke Amare Dake Aji Ke Amare Prabheshite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:227
+  :cite-key: KRIC:227
   :END:
 
 #+BEGIN_VERSE
@@ -4118,10 +4118,10 @@ Prabheshite nirabatar parabare
 * Nil Akashe Ure Berai Mukti Pakkhir Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-01-1999
-  :CITE-KEY: KRIC:228
+  :cite-key: KRIC:228
   :END:
 
 #+BEGIN_VERSE
@@ -4135,10 +4135,10 @@ Prabhur ashish charan dhuli rakhi mora mathe
 * Sudur Deshe Jete Habe Sudur Deshe Moitri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:229
+  :cite-key: KRIC:229
   :END:
 
 #+BEGIN_VERSE
@@ -4152,10 +4152,10 @@ Moitri giti geye jabo bhalobese
 * Asimatar Dak Eseche Asimatar Dak Chal...
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:230
+  :cite-key: KRIC:230
   :END:
 
 #+BEGIN_VERSE
@@ -4171,10 +4171,10 @@ Sakal kichu pechan phele rakh
 * Keno Kandi Diba Rati Kahar Lagi Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:231
+  :cite-key: KRIC:231
   :END:
 
 #+BEGIN_VERSE
@@ -4188,10 +4188,10 @@ Chita tar hai amar pane ajo tanina
 * Dibya Rathe Charte Chaile Dibya Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:232
+  :cite-key: KRIC:232
   :END:
 
 #+BEGIN_VERSE
@@ -4207,10 +4207,10 @@ Deepti shanti tripti param
 * Nutan Usha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:233
+  :cite-key: KRIC:233
   :END:
 
 #+BEGIN_VERSE
@@ -4224,10 +4224,10 @@ Habo ami amaratar madhur bhasa
 * Mayer Katha Balte Giye Kebal Bali Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:234
+  :cite-key: KRIC:234
   :END:
 
 #+BEGIN_VERSE
@@ -4243,10 +4243,10 @@ Amar sakal saphalata
 * Bishwa Sabhai Esechi Aj Bishwa Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1999
-  :CITE-KEY: KRIC:235
+  :cite-key: KRIC:235
   :END:
 
 #+BEGIN_VERSE
@@ -4260,10 +4260,10 @@ Pabe tara akatare amar hiyar sudha priti
 * Ati Druta Bege Chale Samoy Jogi Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:236
+  :cite-key: KRIC:236
   :END:
 
 #+BEGIN_VERSE
@@ -4277,10 +4277,10 @@ Jogi hate habe haye abhoy
 * Tomare Pujite Tomare Khunjite Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:237
+  :cite-key: KRIC:237
   :END:
 
 #+BEGIN_VERSE
@@ -4296,10 +4296,10 @@ Taba jaya giti gahi
 * Nimne Urdhe Bhitare Bahire Aji Ekatar Sur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:238
+  :cite-key: KRIC:238
   :END:
 
 #+BEGIN_VERSE
@@ -4315,10 +4315,10 @@ Ananda bhara pur
 * Bhakti Bhare Mathai Amar Karechi Aj Brato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:239
+  :cite-key: KRIC:239
   :END:
 
 #+BEGIN_VERSE
@@ -4334,10 +4334,10 @@ Ei je amar brato
 * Ami Amai Bhulegechi Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:240
+  :cite-key: KRIC:240
   :END:
 
 #+BEGIN_VERSE
@@ -4353,10 +4353,10 @@ Tomar paye marte
 * Maner Trisha Hiyar Khudha Ke Mithabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:241
+  :cite-key: KRIC:241
   :END:
 
 #+BEGIN_VERSE
@@ -4372,10 +4372,10 @@ Karbo prachar madhu bani
 * Tomar Adesh Karbo Palan Tomar Adesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:242
+  :cite-key: KRIC:242
   :END:
 
 #+BEGIN_VERSE
@@ -4391,10 +4391,10 @@ Tomar charan sebar
 * Tomar Paye Thai Peyechi Chaibona Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:243
+  :cite-key: KRIC:243
   :END:
 
 #+BEGIN_VERSE
@@ -4410,10 +4410,10 @@ Moher pichu pichu
 * Jiban Amar Hriday Amar Shanti Mage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:244
+  :cite-key: KRIC:244
   :END:
 
 #+BEGIN_VERSE
@@ -4429,10 +4429,10 @@ Jabona ar kabhu
 * Tomar Hasi Baroi Madhu Tomar Hasi Chita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:245
+  :cite-key: KRIC:245
   :END:
 
 #+BEGIN_VERSE
@@ -4446,10 +4446,10 @@ Chita amar kare pagol tomar banshi
 * Amar Hajar Basana Kamana Karecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:246
+  :cite-key: KRIC:246
   :END:
 
 #+BEGIN_VERSE
@@ -4463,10 +4463,10 @@ Amar dhara je taba pada tale asim amar purna
 * Tomar Sathe Katha Bali Tomar Sathe Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:247
+  :cite-key: KRIC:247
   :END:
 
 #+BEGIN_VERSE
@@ -4480,10 +4480,10 @@ Laho laho laho amar hiyar pushpanjali
 * Tomare Pujite Tomare Khunjite Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:248
+  :cite-key: KRIC:248
   :END:
 
 #+BEGIN_VERSE
@@ -4499,10 +4499,10 @@ Nahi jena bhuli kabhu
 * Bhakti Bihane Shakti Plaban Jani Jani Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:249
+  :cite-key: KRIC:249
   :END:
 
 #+BEGIN_VERSE
@@ -4518,10 +4518,10 @@ Nahi prane byakulata
 * Bhakati Plaban Asibe Abar Phiriya Doibi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:250
+  :cite-key: KRIC:250
   :END:
 
 #+BEGIN_VERSE
@@ -4535,10 +4535,10 @@ Doibi shakati rahibe amare ghiriya
 * Taba Pada Tale Prati Pale Pale Rakhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:251
+  :cite-key: KRIC:251
   :END:
 
 #+BEGIN_VERSE
@@ -4554,10 +4554,10 @@ Tomar adesh mani
 * Nil Akasher Gabhir Nilimai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:252
+  :cite-key: KRIC:252
   :END:
 
 #+BEGIN_VERSE
@@ -4571,10 +4571,10 @@ Rahi ami prabhur suchintai
 * Bhango Prabhu Bhango Amar Supti Dhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:253
+  :cite-key: KRIC:253
   :END:
 
 #+BEGIN_VERSE
@@ -4588,10 +4588,10 @@ Dhalo prane tomar asim deepti
 * Tomare Tushite Rayechi Dharai Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:254
+  :cite-key: KRIC:254
   :END:
 
 #+BEGIN_VERSE
@@ -4607,10 +4607,10 @@ Tomar param kushite
 * Jago Jago Hriday Amar Jiban Amar Jago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:255
+  :cite-key: KRIC:255
   :END:
 
 #+BEGIN_VERSE
@@ -4624,10 +4624,10 @@ Animeshe param pitar kripa sudha mago
 * Chutiya Chalibo Ati Druta Bege Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:256
+  :cite-key: KRIC:256
   :END:
 
 #+BEGIN_VERSE
@@ -4643,10 +4643,10 @@ Naba pallaba shakhe
 * Amar Kandan Hridaya Deepan Amar Kandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:257
+  :cite-key: KRIC:257
   :END:
 
 #+BEGIN_VERSE
@@ -4662,10 +4662,10 @@ Amar kandan prabhur sthapan
 * O -- Paramanande Jibaner Gati Phirabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:258
+  :cite-key: KRIC:258
   :END:
 
 #+BEGIN_VERSE
@@ -4679,10 +4679,10 @@ O -- khudra amire chiratare harabo
 * Chinta Bhabana Asim Jatana Pagol
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:259
+  :cite-key: KRIC:259
   :END:
 
 #+BEGIN_VERSE
@@ -4698,10 +4698,10 @@ Tushite satata sabare
 * Amar — Hiyar Bedan Deher Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:260
+  :cite-key: KRIC:260
   :END:
 
 #+BEGIN_VERSE
@@ -4716,10 +4716,10 @@ Debe ogo ke debe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:261
+  :cite-key: KRIC:261
   :END:
 
 #+BEGIN_VERSE
@@ -4735,10 +4735,10 @@ Whose blessing-flower shall I receive, whose?
 * Jatra Sheshe Mukti Deshe Pabo Ki Hai Jete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:262
+  :cite-key: KRIC:262
   :END:
 
 #+BEGIN_VERSE
@@ -4754,10 +4754,10 @@ Kripa sindhu pete
 * Ar Katokal Thakbo Benche Hai Ar Katokal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:263
+  :cite-key: KRIC:263
   :END:
 
 #+BEGIN_VERSE
@@ -4771,10 +4771,10 @@ Ke balo go dharbe amar jiban tarir hal
 * Kusum Hriday Tomar Paye Rakhte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:264
+  :cite-key: KRIC:264
   :END:
 
 #+BEGIN_VERSE
@@ -4790,10 +4790,10 @@ Jago ebar jago
 * Utho Jege Utho Jege
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:265
+  :cite-key: KRIC:265
   :END:
 
 #+BEGIN_VERSE
@@ -4807,10 +4807,10 @@ Uthle jege amar jiban amar maran habe tripta
 * Nahi Chahi Chhuti Ami Nahi Chahi Chhuti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1999
-  :CITE-KEY: KRIC:266
+  :cite-key: KRIC:266
   :END:
 
 #+BEGIN_VERSE
@@ -4826,10 +4826,10 @@ Mayer charan duti
 * Ami Hate Chahi Mago Tomar Paritosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:267
+  :cite-key: KRIC:267
   :END:
 
 #+BEGIN_VERSE
@@ -4843,10 +4843,10 @@ Dekhbona ar ei jibane kabhu karo dosh
 * Pratiti Dibas Niye Ase Sathe Jangal Kolahal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:268
+  :cite-key: KRIC:268
   :END:
 
 #+BEGIN_VERSE
@@ -4860,10 +4860,10 @@ Dekha dao prabhu dao go amare amita sahasa bal
 * He Param Prabhu Taba Pada Dhuli Rakho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:269
+  :cite-key: KRIC:269
   :END:
 
 #+BEGIN_VERSE
@@ -4879,10 +4879,10 @@ Taba kripa ankhi sathe
 * Thakbena Ar Chinta Plaban Amar Khudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:270
+  :cite-key: KRIC:270
   :END:
 
 #+BEGIN_VERSE
@@ -4898,10 +4898,10 @@ Mahanande rabe
 * Neme Eso Ogo Parama Janaka Parama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:271
+  :cite-key: KRIC:271
   :END:
 
 #+BEGIN_VERSE
@@ -4915,10 +4915,10 @@ Alokito karo kripa khama bale amar abani
 * Nam Chahi Bale Jash Chahi Bale Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:272
+  :cite-key: KRIC:272
   :END:
 
 #+BEGIN_VERSE
@@ -4934,10 +4934,10 @@ Maha muktir sure
 * Kende Kende Marbo Ami Tomar Paye Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:273
+  :cite-key: KRIC:273
   :END:
 
 #+BEGIN_VERSE
@@ -4953,10 +4953,10 @@ Kripa sindhu kripa bindu chai
 * Supti Na Gele Kemane Gabhire Jabo Deepti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:274
+  :cite-key: KRIC:274
   :END:
 
 #+BEGIN_VERSE
@@ -4970,10 +4970,10 @@ Deepti na pele kemane tripti pabo
 * Chinta Plaban Rakhe Je Jan Dure Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:275
+  :cite-key: KRIC:275
   :END:
 
 #+BEGIN_VERSE
@@ -4987,10 +4987,10 @@ Prabhur dekha pai se hiya ure
 * Phuler Mata Phulte Chahi Tomar Pada Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:276
+  :cite-key: KRIC:276
   :END:
 
 #+BEGIN_VERSE
@@ -5006,10 +5006,10 @@ Tomar kripa bale
 * Urdhe Akash Nimne Batas Gahe Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:277
+  :cite-key: KRIC:277
   :END:
 
 #+BEGIN_VERSE
@@ -5023,10 +5023,10 @@ Jani mago jani ami ei je tomar kripar dan
 * Dhanya Halam Amar Hiyar Mandire Nehari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:278
+  :cite-key: KRIC:278
   :END:
 
 #+BEGIN_VERSE
@@ -5040,10 +5040,10 @@ Nehari ajike karuna sindhu jananire
 * Deshe Deshe Ghure Berai Dekhte Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:279
+  :cite-key: KRIC:279
   :END:
 
 #+BEGIN_VERSE
@@ -5057,10 +5057,10 @@ Gahi tader bijoy giti ami barebare
 * Padmasini Tomai Bandhi Rakhbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:280
+  :cite-key: KRIC:280
   :END:
 
 #+BEGIN_VERSE
@@ -5074,10 +5074,10 @@ Amar sakal moher bandhan tutbe jani achire
 * Puji Bale Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:281
+  :cite-key: KRIC:281
   :END:
 
 #+BEGIN_VERSE
@@ -5092,10 +5092,10 @@ Ami je suprabha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:282
+  :cite-key: KRIC:282
   :END:
 
 #+BEGIN_VERSE
@@ -5112,10 +5112,10 @@ All illumination.
 * Janma Chahina Mrittyu Chahina Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:283
+  :cite-key: KRIC:283
   :END:
 
 #+BEGIN_VERSE
@@ -5131,10 +5131,10 @@ Chahi shudhu kripa dhan
 * Ati Sajatane Hridaya Gahane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:284
+  :cite-key: KRIC:284
   :END:
 
 #+BEGIN_VERSE
@@ -5148,10 +5148,10 @@ Taba khama bale taba kripa bale tomar bijoy gahi
 * Tomar Adesh Kabhu Prabhu Manina Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:285
+  :cite-key: KRIC:285
   :END:
 
 #+BEGIN_VERSE
@@ -5165,10 +5165,10 @@ Tabu amai dakho keno janina
 * Mago Tomar Hasi Bina Nahi Baje Chitta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:286
+  :cite-key: KRIC:286
   :END:
 
 #+BEGIN_VERSE
@@ -5182,10 +5182,10 @@ Nahi baje chitta beena
 * Nutan Alor Agamane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:287
+  :cite-key: KRIC:287
   :END:
 
 #+BEGIN_VERSE
@@ -5201,10 +5201,10 @@ Shanti pelam amar mane
 * Bhitar Jibane Prashanti Parabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:288
+  :cite-key: KRIC:288
   :END:
 
 #+BEGIN_VERSE
@@ -5217,10 +5217,10 @@ Bahir jibane ahakar anibar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:289
+  :cite-key: KRIC:289
   :END:
 
 #+BEGIN_VERSE
@@ -5236,10 +5236,10 @@ You are crying desperately.
 * Namer Jasher Pichu Pichu Taito Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:290
+  :cite-key: KRIC:290
   :END:
 
 #+BEGIN_VERSE
@@ -5253,10 +5253,10 @@ Taito amar matha nichu
 * Amar Sakal Basana Kamana Karecho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:291
+  :cite-key: KRIC:291
   :END:
 
 #+BEGIN_VERSE
@@ -5272,10 +5272,10 @@ Rakhite satata purna
 * Ar Katokal Raibo Ami Abhukta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:292
+  :cite-key: KRIC:292
   :END:
 
 #+BEGIN_VERSE
@@ -5288,10 +5288,10 @@ Tomar paye karbo amai unmukta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:293
+  :cite-key: KRIC:293
   :END:
 
 #+BEGIN_VERSE
@@ -5307,10 +5307,10 @@ Freedom-light at Your Feet?
 * Jiban Chale Maran Chale Jahar Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:294
+  :cite-key: KRIC:294
   :END:
 
 #+BEGIN_VERSE
@@ -5324,10 +5324,10 @@ Mugdha haye nami tare bijoy gane
 * He Param Pita Karogo Amare Tomar Kripar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:295
+  :cite-key: KRIC:295
   :END:
 
 #+BEGIN_VERSE
@@ -5343,10 +5343,10 @@ Rupantarer banshari
 * Jogi Hate Chaho Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:296
+  :cite-key: KRIC:296
   :END:
 
 #+BEGIN_VERSE
@@ -5361,10 +5361,10 @@ Prabhur giti gaho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:297
+  :cite-key: KRIC:297
   :END:
 
 #+BEGIN_VERSE
@@ -5379,10 +5379,10 @@ And only sing God-songs.
 * Esechho Jakhan Balo Ekbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:298
+  :cite-key: KRIC:298
   :END:
 
 #+BEGIN_VERSE
@@ -5397,10 +5397,10 @@ Maner kalima nasho
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-01-1999
-  :CITE-KEY: KRIC:299
+  :cite-key: KRIC:299
   :END:
 
 #+BEGIN_VERSE

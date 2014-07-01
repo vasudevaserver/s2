@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 911
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: CNEFS-1
-  :GENRE: song
+  :book-number: 911
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: CNEFS-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNEFS:1e1
+  :genre: note
+  :cite-key: CNEFS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CNEFS:1e2
+  :genre: note
+  :cite-key: CNEFS:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Chide: Scold
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:1
+  :cite-key: CNEFS:1
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ My heart’s happiness.
 * Concomitant
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:2
+  :cite-key: CNEFS:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Failure is always a concomitant of doubt.
 * Condone: Forgive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:3
+  :cite-key: CNEFS:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Is to condone an unruly mind.
 * Disgruntle: Discontent
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:4
+  :cite-key: CNEFS:4
   :END:
 
 #+BEGIN_VERSE
@@ -115,10 +115,10 @@ In your climbing Heavenward journey.
 * Disparage: Belittle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:5
+  :cite-key: CNEFS:5
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ For it does not become you.
 * Effrontery: Shameless Boldness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:6
+  :cite-key: CNEFS:6
   :END:
 
 #+BEGIN_VERSE
@@ -152,10 +152,10 @@ I take you as a useless human being.
 * Exonerate: to Acquit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:7
+  :cite-key: CNEFS:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ From the impure falsehood-crime.
 * Extricate: Free
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:8
+  :cite-key: CNEFS:8
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ From the imaginary temptation-life.
 * Fealty: Faithfulness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:9
+  :cite-key: CNEFS:9
   :END:
 
 #+BEGIN_VERSE
@@ -206,10 +206,10 @@ No fealty, no progress in the inner life.
 * Gainsay: Deny
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:10
+  :cite-key: CNEFS:10
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ My heart’s child-like joy?
 * Hedonism: Excessive Pleasure-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:11
+  :cite-key: CNEFS:11
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Asceticism means self-torture-life-enforcement.
 * Insipid: Tasteless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:12
+  :cite-key: CNEFS:12
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Constant, insipid doubt-talk.
 * Magnate: Man of Prominence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:13
+  :cite-key: CNEFS:13
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ I have nothing to do with you.
 * Perforce: of Necessity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:14
+  :cite-key: CNEFS:14
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ To become a nicer world citizen.
 * Presage: Foretell
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:15
+  :cite-key: CNEFS:15
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ The perfection of anything.
 * Proximity: Nearness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:16
+  :cite-key: CNEFS:16
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ The proximity of a faithful heart.
 * Sub Rosa: in Strict Confidence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:17
+  :cite-key: CNEFS:17
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ God will make you another God.
 * Subjugate: Conquer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:18
+  :cite-key: CNEFS:18
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ We must subjugate.
 * Sunder: Separate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:19
+  :cite-key: CNEFS:19
   :END:
 
 #+BEGIN_VERSE
@@ -392,10 +392,10 @@ It knows how to thunder.
 * Ultimatum: Last Demand
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:20
+  :cite-key: CNEFS:20
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ Or I will leave you for good.
 * Unfeigned: Genuine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: CNEFS:21
+  :cite-key: CNEFS:21
   :END:
 
 #+BEGIN_VERSE

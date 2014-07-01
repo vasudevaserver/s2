@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 1400
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 2001
- :PUBLISHER: Agni Press
- :CITE-KEY: HN
- :GENRE: poem
- :KEYWORDS:
+ :book-number: 1400
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 2001
+ :publisher: Agni Press
+ :cite-key: HN
+ :genre: poem
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:1e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:1e1
   :END:
 
 
@@ -39,9 +39,9 @@ Ottawa, Canada
 * 1.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:1
+ :genre: poem
+ :keywords:
+ :cite-key: HN:1
   :END:
 
 
@@ -59,9 +59,9 @@ Nor mysterious.
 * 2.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:2
+ :genre: poem
+ :keywords:
+ :cite-key: HN:2
   :END:
 
 
@@ -79,9 +79,9 @@ Like a flower or a child.
 * 3.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:3
+ :genre: poem
+ :keywords:
+ :cite-key: HN:3
   :END:
 
 
@@ -100,9 +100,9 @@ But His Treasury.
 * 4.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:4
+ :genre: poem
+ :keywords:
+ :cite-key: HN:4
   :END:
 
 
@@ -121,9 +121,9 @@ The God-representative on earth.
 * 5.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:5
+ :genre: poem
+ :keywords:
+ :cite-key: HN:5
   :END:
 
 
@@ -141,9 +141,9 @@ Into His Heart.
 * 6.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:6
+ :genre: poem
+ :keywords:
+ :cite-key: HN:6
   :END:
 
 
@@ -160,9 +160,9 @@ HERE and NOW."
 * 7.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:7
+ :genre: poem
+ :keywords:
+ :cite-key: HN:7
   :END:
 
 
@@ -180,9 +180,9 @@ Unannounced and unescorted.
 * 8.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:8
+ :genre: poem
+ :keywords:
+ :cite-key: HN:8
   :END:
 
 
@@ -202,9 +202,9 @@ Of the present-day world.
 * 9.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:9
+ :genre: poem
+ :keywords:
+ :cite-key: HN:9
   :END:
 
 
@@ -223,9 +223,9 @@ And the outer dedication-life.
 * 10.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:10
+ :genre: poem
+ :keywords:
+ :cite-key: HN:10
   :END:
 
 
@@ -242,9 +242,9 @@ Of my life.
 * 11.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:11
+ :genre: poem
+ :keywords:
+ :cite-key: HN:11
   :END:
 
 
@@ -264,9 +264,9 @@ Only to find my Universal Self.
 * 12.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:12
+ :genre: poem
+ :keywords:
+ :cite-key: HN:12
   :END:
 
 
@@ -285,9 +285,9 @@ My only enlightenment.
 * 13.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:13
+ :genre: poem
+ :keywords:
+ :cite-key: HN:13
   :END:
 
 
@@ -310,9 +310,9 @@ I must not reject.
 * 14.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:14
+ :genre: poem
+ :keywords:
+ :cite-key: HN:14
   :END:
 
 
@@ -330,9 +330,9 @@ Most seriously.
 * 15.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:15
+ :genre: poem
+ :keywords:
+ :cite-key: HN:15
   :END:
 
 
@@ -350,9 +350,9 @@ Of world peace.
 * 16.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:16
+ :genre: poem
+ :keywords:
+ :cite-key: HN:16
   :END:
 
 
@@ -371,9 +371,9 @@ Dauntless concentration.
 * 17.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:17
+ :genre: poem
+ :keywords:
+ :cite-key: HN:17
   :END:
 
 
@@ -394,9 +394,9 @@ HERE and NOW.
 * 18.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:18
+ :genre: poem
+ :keywords:
+ :cite-key: HN:18
   :END:
 
 
@@ -420,9 +420,9 @@ Are bound to succeed.
 * 19.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:19
+ :genre: poem
+ :keywords:
+ :cite-key: HN:19
   :END:
 
 
@@ -443,9 +443,9 @@ On earth.
 * 20.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:20
+ :genre: poem
+ :keywords:
+ :cite-key: HN:20
   :END:
 
 
@@ -464,9 +464,9 @@ And Encouragement-Smile.
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:21e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:21e1
   :END:
 
 
@@ -480,9 +480,9 @@ USA
 * 21.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:21
+ :genre: poem
+ :keywords:
+ :cite-key: HN:21
   :END:
 
 
@@ -501,9 +501,9 @@ Of my pleasing God.
 * 22.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:22
+ :genre: poem
+ :keywords:
+ :cite-key: HN:22
   :END:
 
 
@@ -522,9 +522,9 @@ Aspiration-heart-failure.
 * 23.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:23
+ :genre: poem
+ :keywords:
+ :cite-key: HN:23
   :END:
 
 
@@ -541,9 +541,9 @@ The breath of the world.
 * 24.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:24
+ :genre: poem
+ :keywords:
+ :cite-key: HN:24
   :END:
 
 
@@ -560,9 +560,9 @@ The heart of the world.
 * 25.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:25
+ :genre: poem
+ :keywords:
+ :cite-key: HN:25
   :END:
 
 
@@ -579,9 +579,9 @@ The life of the world.
 * 26.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:26
+ :genre: poem
+ :keywords:
+ :cite-key: HN:26
   :END:
 
 
@@ -601,9 +601,9 @@ HERE and NOW.
 * 27.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:27
+ :genre: poem
+ :keywords:
+ :cite-key: HN:27
   :END:
 
 
@@ -620,9 +620,9 @@ No more desire-slavery.
 * 28.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:28
+ :genre: poem
+ :keywords:
+ :cite-key: HN:28
   :END:
 
 
@@ -639,9 +639,9 @@ And my God-attachment.
 * 29.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:29
+ :genre: poem
+ :keywords:
+ :cite-key: HN:29
   :END:
 
 
@@ -659,9 +659,9 @@ Of HERE and NOW.
 * 30.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:30
+ :genre: poem
+ :keywords:
+ :cite-key: HN:30
   :END:
 
 
@@ -682,9 +682,9 @@ HERE and NOW.
 * 31.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:31
+ :genre: poem
+ :keywords:
+ :cite-key: HN:31
   :END:
 
 
@@ -703,9 +703,9 @@ Of the golden dust of Your Feet.
 * 32.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:32
+ :genre: poem
+ :keywords:
+ :cite-key: HN:32
   :END:
 
 
@@ -723,9 +723,9 @@ From the Ultimate Beyond.
 * 33.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:33
+ :genre: poem
+ :keywords:
+ :cite-key: HN:33
   :END:
 
 
@@ -745,9 +745,9 @@ With His everlasting Smiles.
 * 34.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:34
+ :genre: poem
+ :keywords:
+ :cite-key: HN:34
   :END:
 
 
@@ -767,9 +767,9 @@ No separate existence.
 * 35.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:35
+ :genre: poem
+ :keywords:
+ :cite-key: HN:35
   :END:
 
 
@@ -791,9 +791,9 @@ So far, mine are not!
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:36e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:36e1
   :END:
 
 
@@ -807,9 +807,9 @@ USA
 * 36.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:36
+ :genre: poem
+ :keywords:
+ :cite-key: HN:36
   :END:
 
 
@@ -826,9 +826,9 @@ For my God-realisation.
 * 37.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:37
+ :genre: poem
+ :keywords:
+ :cite-key: HN:37
   :END:
 
 
@@ -847,9 +847,9 @@ And never run away.
 * 38.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:38
+ :genre: poem
+ :keywords:
+ :cite-key: HN:38
   :END:
 
 
@@ -866,9 +866,9 @@ Of ignorance-night.
 * 39.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:39
+ :genre: poem
+ :keywords:
+ :cite-key: HN:39
   :END:
 
 
@@ -886,9 +886,9 @@ And never grows old.
 * 40.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:40
+ :genre: poem
+ :keywords:
+ :cite-key: HN:40
   :END:
 
 
@@ -906,9 +906,9 @@ To please God in His own Way.
 * 41.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:41
+ :genre: poem
+ :keywords:
+ :cite-key: HN:41
   :END:
 
 
@@ -925,9 +925,9 @@ Of my Lord Beloved Supreme.
 * 42.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:42
+ :genre: poem
+ :keywords:
+ :cite-key: HN:42
   :END:
 
 
@@ -947,9 +947,9 @@ God the creation-manifestation.
 * 43.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:43
+ :genre: poem
+ :keywords:
+ :cite-key: HN:43
   :END:
 
 
@@ -966,9 +966,9 @@ Truly are.
 * 44.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:44
+ :genre: poem
+ :keywords:
+ :cite-key: HN:44
   :END:
 
 
@@ -986,9 +986,9 @@ Of enthusiasm-sky.
 * 45.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:45
+ :genre: poem
+ :keywords:
+ :cite-key: HN:45
   :END:
 
 
@@ -1008,9 +1008,9 @@ God-obedience.
 * 46.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:46
+ :genre: poem
+ :keywords:
+ :cite-key: HN:46
   :END:
 
 
@@ -1030,9 +1030,9 @@ My will.
 * 47.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:47
+ :genre: poem
+ :keywords:
+ :cite-key: HN:47
   :END:
 
 
@@ -1049,9 +1049,9 @@ Self-doubt-waves.
 * 48.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:48
+ :genre: poem
+ :keywords:
+ :cite-key: HN:48
   :END:
 
 
@@ -1069,9 +1069,9 @@ That glows and flows.
 * 49.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:49
+ :genre: poem
+ :keywords:
+ :cite-key: HN:49
   :END:
 
 
@@ -1089,9 +1089,9 @@ Is my new winning.
 * 50.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:50
+ :genre: poem
+ :keywords:
+ :cite-key: HN:50
   :END:
 
 
@@ -1109,9 +1109,9 @@ God's Compassion-Eye-Circle.
 * 51.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:51
+ :genre: poem
+ :keywords:
+ :cite-key: HN:51
   :END:
 
 
@@ -1127,9 +1127,9 @@ A God-devotion-heart-fragrance.
 * 52.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:52
+ :genre: poem
+ :keywords:
+ :cite-key: HN:52
   :END:
 
 
@@ -1147,9 +1147,9 @@ In return.
 * 53.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:53
+ :genre: poem
+ :keywords:
+ :cite-key: HN:53
   :END:
 
 
@@ -1166,9 +1166,9 @@ Open at all hours.
 * 54.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:54
+ :genre: poem
+ :keywords:
+ :cite-key: HN:54
   :END:
 
 
@@ -1185,9 +1185,9 @@ Has no shore.
 * 55.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:55
+ :genre: poem
+ :keywords:
+ :cite-key: HN:55
   :END:
 
 
@@ -1207,9 +1207,9 @@ From my heart.
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:56e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:56e1
   :END:
 
 
@@ -1223,9 +1223,9 @@ USA
 * 56.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:56
+ :genre: poem
+ :keywords:
+ :cite-key: HN:56
   :END:
 
 
@@ -1241,9 +1241,9 @@ With my streaming heart-tears.
 * 57.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:57
+ :genre: poem
+ :keywords:
+ :cite-key: HN:57
   :END:
 
 
@@ -1259,9 +1259,9 @@ As my own, very own.
 * 58.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:58
+ :genre: poem
+ :keywords:
+ :cite-key: HN:58
   :END:
 
 
@@ -1279,9 +1279,9 @@ God-dreamer and God-lover.
 * 59.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:59
+ :genre: poem
+ :keywords:
+ :cite-key: HN:59
   :END:
 
 
@@ -1298,9 +1298,9 @@ Is no love at all.
 * 60.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:60
+ :genre: poem
+ :keywords:
+ :cite-key: HN:60
   :END:
 
 
@@ -1318,9 +1318,9 @@ My God-devotion-heart.
 * 61.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:61
+ :genre: poem
+ :keywords:
+ :cite-key: HN:61
   :END:
 
 
@@ -1338,9 +1338,9 @@ Private and confidential.
 * 62.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:62
+ :genre: poem
+ :keywords:
+ :cite-key: HN:62
   :END:
 
 
@@ -1356,9 +1356,9 @@ Are my only satisfaction-fulfilments.
 * 63.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:63
+ :genre: poem
+ :keywords:
+ :cite-key: HN:63
   :END:
 
 
@@ -1376,9 +1376,9 @@ Of my Absolute Supreme.
 * 64.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:64
+ :genre: poem
+ :keywords:
+ :cite-key: HN:64
   :END:
 
 
@@ -1395,9 +1395,9 @@ Of my blossoming heart.
 * 65.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:65
+ :genre: poem
+ :keywords:
+ :cite-key: HN:65
   :END:
 
 
@@ -1414,9 +1414,9 @@ Of my aspiration-cries.
 * 66.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:66
+ :genre: poem
+ :keywords:
+ :cite-key: HN:66
   :END:
 
 
@@ -1432,9 +1432,9 @@ Make my life a faith-citadel.
 * 67.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:67
+ :genre: poem
+ :keywords:
+ :cite-key: HN:67
   :END:
 
 
@@ -1450,9 +1450,9 @@ My life's most prized possession.
 * 68.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:68
+ :genre: poem
+ :keywords:
+ :cite-key: HN:68
   :END:
 
 
@@ -1469,9 +1469,9 @@ Surrender-life-stage-performances.
 * 69.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:69
+ :genre: poem
+ :keywords:
+ :cite-key: HN:69
   :END:
 
 
@@ -1488,9 +1488,9 @@ Of a child.
 * 70.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:70
+ :genre: poem
+ :keywords:
+ :cite-key: HN:70
   :END:
 
 
@@ -1507,9 +1507,9 @@ By countless doubts.
 * 71.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:71
+ :genre: poem
+ :keywords:
+ :cite-key: HN:71
   :END:
 
 
@@ -1527,9 +1527,9 @@ My God-gratitude-heart.
 * 72.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:72
+ :genre: poem
+ :keywords:
+ :cite-key: HN:72
   :END:
 
 
@@ -1547,9 +1547,9 @@ A little more time."
 * 73.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:73
+ :genre: poem
+ :keywords:
+ :cite-key: HN:73
   :END:
 
 
@@ -1568,9 +1568,9 @@ God's Satisfaction-Descent.
 * 74.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:74
+ :genre: poem
+ :keywords:
+ :cite-key: HN:74
   :END:
 
 
@@ -1586,9 +1586,9 @@ Engulf my aspiration-heart-tears.
 * 75.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:75
+ :genre: poem
+ :keywords:
+ :cite-key: HN:75
   :END:
 
 
@@ -1606,9 +1606,9 @@ For me.
 * 76.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:76
+ :genre: poem
+ :keywords:
+ :cite-key: HN:76
   :END:
 
 
@@ -1626,9 +1626,9 @@ For God.
 * 77.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:77
+ :genre: poem
+ :keywords:
+ :cite-key: HN:77
   :END:
 
 
@@ -1647,9 +1647,9 @@ He Himself wants to do it.
 * 78.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:78
+ :genre: poem
+ :keywords:
+ :cite-key: HN:78
   :END:
 
 
@@ -1666,9 +1666,9 @@ Surround my life all the time.
 * 79.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:79
+ :genre: poem
+ :keywords:
+ :cite-key: HN:79
   :END:
 
 
@@ -1686,9 +1686,9 @@ But my gratitude-breath-tears.
 * 80.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:80
+ :genre: poem
+ :keywords:
+ :cite-key: HN:80
   :END:
 
 
@@ -1705,9 +1705,9 @@ Has no problem left to solve.
 * 81.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:81
+ :genre: poem
+ :keywords:
+ :cite-key: HN:81
   :END:
 
 
@@ -1724,9 +1724,9 @@ In my God-oneness-heart.
 * 82.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:82
+ :genre: poem
+ :keywords:
+ :cite-key: HN:82
   :END:
 
 
@@ -1743,9 +1743,9 @@ To listen to God's daily Broadcast.
 * 83.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:83
+ :genre: poem
+ :keywords:
+ :cite-key: HN:83
   :END:
 
 
@@ -1762,9 +1762,9 @@ The nectar-dust of God's Feet.
 * 84.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:84
+ :genre: poem
+ :keywords:
+ :cite-key: HN:84
   :END:
 
 
@@ -1780,9 +1780,9 @@ Towards my own heart-home.
 * 85.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:85
+ :genre: poem
+ :keywords:
+ :cite-key: HN:85
   :END:
 
 
@@ -1800,9 +1800,9 @@ In His own Way.
 * 86.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:86
+ :genre: poem
+ :keywords:
+ :cite-key: HN:86
   :END:
 
 
@@ -1820,9 +1820,9 @@ God-satisfaction-blossom.
 * 87.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:87
+ :genre: poem
+ :keywords:
+ :cite-key: HN:87
   :END:
 
 
@@ -1840,9 +1840,9 @@ And to dive inward.
 * 88.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:88
+ :genre: poem
+ :keywords:
+ :cite-key: HN:88
   :END:
 
 
@@ -1859,9 +1859,9 @@ The same thing to each other:
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:89e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:89e1
   :END:
 
 
@@ -1873,9 +1873,9 @@ Montreal, Canada
 * 89.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:89
+ :genre: poem
+ :keywords:
+ :cite-key: HN:89
   :END:
 
 
@@ -1891,9 +1891,9 @@ God's Absolute Will.
 * 90.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:90
+ :genre: poem
+ :keywords:
+ :cite-key: HN:90
   :END:
 
 
@@ -1911,9 +1911,9 @@ When everything else fails.
 * 91.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:91
+ :genre: poem
+ :keywords:
+ :cite-key: HN:91
   :END:
 
 
@@ -1932,9 +1932,9 @@ And His All.
 * 92.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:92
+ :genre: poem
+ :keywords:
+ :cite-key: HN:92
   :END:
 
 
@@ -1953,9 +1953,9 @@ With my complete surrender.
 * 93.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:93
+ :genre: poem
+ :keywords:
+ :cite-key: HN:93
   :END:
 
 
@@ -1972,9 +1972,9 @@ God's each and every Dream.
 * 94.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:94
+ :genre: poem
+ :keywords:
+ :cite-key: HN:94
   :END:
 
 
@@ -1994,9 +1994,9 @@ That is for God.
 * 95.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:95
+ :genre: poem
+ :keywords:
+ :cite-key: HN:95
   :END:
 
 
@@ -2015,9 +2015,9 @@ Of my God-purity-heart.
 * 96.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:96
+ :genre: poem
+ :keywords:
+ :cite-key: HN:96
   :END:
 
 
@@ -2034,9 +2034,9 @@ For the nectar-dust of God's Feet.
 * 97.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:97
+ :genre: poem
+ :keywords:
+ :cite-key: HN:97
   :END:
 
 
@@ -2055,9 +2055,9 @@ All God's headaches.
 * 98.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:98
+ :genre: poem
+ :keywords:
+ :cite-key: HN:98
   :END:
 
 
@@ -2074,9 +2074,9 @@ God is God's Fulness-Embrace.
 * 99.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:99
+ :genre: poem
+ :keywords:
+ :cite-key: HN:99
   :END:
 
 
@@ -2094,9 +2094,9 @@ Jungle-stories.
 * 100.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:100
+ :genre: poem
+ :keywords:
+ :cite-key: HN:100
   :END:
 
 
@@ -2117,9 +2117,9 @@ My child."
 * 101.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:101
+ :genre: poem
+ :keywords:
+ :cite-key: HN:101
   :END:
 
 
@@ -2138,9 +2138,9 @@ Are God's immediate neighbours.
 * 102.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:102
+ :genre: poem
+ :keywords:
+ :cite-key: HN:102
   :END:
 
 
@@ -2158,9 +2158,9 @@ Of my Lord's Feet.
 * 103.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:103
+ :genre: poem
+ :keywords:
+ :cite-key: HN:103
   :END:
 
 
@@ -2178,9 +2178,9 @@ Or for anybody on earth.
 * 104.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:104
+ :genre: poem
+ :keywords:
+ :cite-key: HN:104
   :END:
 
 
@@ -2198,9 +2198,9 @@ In my spiritual life.
 * 105.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:105
+ :genre: poem
+ :keywords:
+ :cite-key: HN:105
   :END:
 
 
@@ -2219,9 +2219,9 @@ To vacation.
 * 106.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:106
+ :genre: poem
+ :keywords:
+ :cite-key: HN:106
   :END:
 
 
@@ -2238,9 +2238,9 @@ Have Eternity's Life.
 * 107.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:107
+ :genre: poem
+ :keywords:
+ :cite-key: HN:107
   :END:
 
 
@@ -2258,9 +2258,9 @@ But Eternity's ever-increasing miles.
 * 108.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:108
+ :genre: poem
+ :keywords:
+ :cite-key: HN:108
   :END:
 
 
@@ -2280,9 +2280,9 @@ Unaspiring years.
 * 109.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:109
+ :genre: poem
+ :keywords:
+ :cite-key: HN:109
   :END:
 
 
@@ -2300,9 +2300,9 @@ And God-dedication-life.
 * 110.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:110
+ :genre: poem
+ :keywords:
+ :cite-key: HN:110
   :END:
 
 
@@ -2321,9 +2321,9 @@ God's forgiving Heart.
 * 111.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:111
+ :genre: poem
+ :keywords:
+ :cite-key: HN:111
   :END:
 
 
@@ -2340,9 +2340,9 @@ After me.
 * 112.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:112
+ :genre: poem
+ :keywords:
+ :cite-key: HN:112
   :END:
 
 
@@ -2363,9 +2363,9 @@ I shall, without fail, complete it.
 * 113.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:113
+ :genre: poem
+ :keywords:
+ :cite-key: HN:113
   :END:
 
 
@@ -2383,9 +2383,9 @@ Of ignorance-night.
 * 114.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:114
+ :genre: poem
+ :keywords:
+ :cite-key: HN:114
   :END:
 
 
@@ -2404,9 +2404,9 @@ Than I can ever imagine.
 * 115.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:115
+ :genre: poem
+ :keywords:
+ :cite-key: HN:115
   :END:
 
 
@@ -2425,9 +2425,9 @@ Never!
 * 116.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:116
+ :genre: poem
+ :keywords:
+ :cite-key: HN:116
   :END:
 
 
@@ -2444,9 +2444,9 @@ And His omnipotent Will.
 * 117.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:117
+ :genre: poem
+ :keywords:
+ :cite-key: HN:117
   :END:
 
 
@@ -2463,9 +2463,9 @@ Of a silence-sea-heart.
 * 118.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:118
+ :genre: poem
+ :keywords:
+ :cite-key: HN:118
   :END:
 
 
@@ -2483,9 +2483,9 @@ Messenger-boy.
 * 119.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:119
+ :genre: poem
+ :keywords:
+ :cite-key: HN:119
   :END:
 
 
@@ -2503,9 +2503,9 @@ My heart's nectar-flute.
 * 120.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:120
+ :genre: poem
+ :keywords:
+ :cite-key: HN:120
   :END:
 
 
@@ -2525,9 +2525,9 @@ And utterly godless mind-subway.
 * 121.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:121
+ :genre: poem
+ :keywords:
+ :cite-key: HN:121
   :END:
 
 
@@ -2546,9 +2546,9 @@ Of my Lord's Feet.
 * 122.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:122
+ :genre: poem
+ :keywords:
+ :cite-key: HN:122
   :END:
 
 
@@ -2565,9 +2565,9 @@ With His own Motto:
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:123e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:123e1
   :END:
 
 
@@ -2581,9 +2581,9 @@ USA
 * 123.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:123
+ :genre: poem
+ :keywords:
+ :cite-key: HN:123
   :END:
 
 
@@ -2599,9 +2599,9 @@ My desire-land-journey.
 * 124.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:124
+ :genre: poem
+ :keywords:
+ :cite-key: HN:124
   :END:
 
 
@@ -2617,9 +2617,9 @@ Frustration-exasperations.
 * 125.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:125
+ :genre: poem
+ :keywords:
+ :cite-key: HN:125
   :END:
 
 
@@ -2637,9 +2637,9 @@ God-disobedience-country.
 * 126.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:126
+ :genre: poem
+ :keywords:
+ :cite-key: HN:126
   :END:
 
 
@@ -2657,9 +2657,9 @@ And sleeplessly.
 * 127.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:127
+ :genre: poem
+ :keywords:
+ :cite-key: HN:127
   :END:
 
 
@@ -2677,9 +2677,9 @@ His own infallible origin.
 * 128.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:128
+ :genre: poem
+ :keywords:
+ :cite-key: HN:128
   :END:
 
 
@@ -2699,9 +2699,9 @@ To please God.
 * 129.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:129
+ :genre: poem
+ :keywords:
+ :cite-key: HN:129
   :END:
 
 
@@ -2718,9 +2718,9 @@ Of the ever-transcending Beyond.
 * 130.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:130
+ :genre: poem
+ :keywords:
+ :cite-key: HN:130
   :END:
 
 
@@ -2739,9 +2739,9 @@ To my Absolute Lord Supreme.
 * 131.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:131
+ :genre: poem
+ :keywords:
+ :cite-key: HN:131
   :END:
 
 
@@ -2759,9 +2759,9 @@ World-transformation-actions.
 * 132.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:132
+ :genre: poem
+ :keywords:
+ :cite-key: HN:132
   :END:
 
 
@@ -2778,9 +2778,9 @@ To God's Nectar-Heart-Harbour.
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:133e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:133e1
   :END:
 
 
@@ -2793,9 +2793,9 @@ USA
 * 133.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:133
+ :genre: poem
+ :keywords:
+ :cite-key: HN:133
   :END:
 
 
@@ -2812,9 +2812,9 @@ Is my only heart-compass.
 * 134.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:134
+ :genre: poem
+ :keywords:
+ :cite-key: HN:134
   :END:
 
 
@@ -2833,9 +2833,9 @@ Inside My Blessing-Eye-Smiles."
 * 135.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:135
+ :genre: poem
+ :keywords:
+ :cite-key: HN:135
   :END:
 
 
@@ -2854,9 +2854,9 @@ Inside my gratitude-heart-tears.
 * 136.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:136
+ :genre: poem
+ :keywords:
+ :cite-key: HN:136
   :END:
 
 
@@ -2876,9 +2876,9 @@ Light-delight sea-waves.
 * 137.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:137
+ :genre: poem
+ :keywords:
+ :cite-key: HN:137
   :END:
 
 
@@ -2897,9 +2897,9 @@ Throughout Eternity.
 * 138.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:138
+ :genre: poem
+ :keywords:
+ :cite-key: HN:138
   :END:
 
 
@@ -2916,9 +2916,9 @@ Widespread inner peace-starvation.
 * 139.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:139
+ :genre: poem
+ :keywords:
+ :cite-key: HN:139
   :END:
 
 
@@ -2938,9 +2938,9 @@ On earth.
 * 140.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:140
+ :genre: poem
+ :keywords:
+ :cite-key: HN:140
   :END:
 
 
@@ -2957,9 +2957,9 @@ To clasp His Divinity's Feet.
 * 141.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:141
+ :genre: poem
+ :keywords:
+ :cite-key: HN:141
   :END:
 
 
@@ -2977,9 +2977,9 @@ Nectar-Embraces.
 * 142.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:142
+ :genre: poem
+ :keywords:
+ :cite-key: HN:142
   :END:
 
 
@@ -2996,9 +2996,9 @@ Compassion-flooded Eye.
 * 143.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:143
+ :genre: poem
+ :keywords:
+ :cite-key: HN:143
   :END:
 
 
@@ -3017,9 +3017,9 @@ Pride, insecurity, fear and doubt.
 * 144.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:144
+ :genre: poem
+ :keywords:
+ :cite-key: HN:144
   :END:
 
 
@@ -3041,9 +3041,9 @@ His universal Fulfilment.
 * 145.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:145
+ :genre: poem
+ :keywords:
+ :cite-key: HN:145
   :END:
 
 
@@ -3065,9 +3065,9 @@ Here on earth."
 * 146.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:146
+ :genre: poem
+ :keywords:
+ :cite-key: HN:146
   :END:
 
 
@@ -3084,9 +3084,9 @@ With ignorance-night.
 * 147.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:147
+ :genre: poem
+ :keywords:
+ :cite-key: HN:147
   :END:
 
 
@@ -3103,9 +3103,9 @@ God-faith-reservoir.
 * 148.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:148
+ :genre: poem
+ :keywords:
+ :cite-key: HN:148
   :END:
 
 
@@ -3122,9 +3122,9 @@ As a God-service-day.
 * 149.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:149
+ :genre: poem
+ :keywords:
+ :cite-key: HN:149
   :END:
 
 
@@ -3142,9 +3142,9 @@ God's Heart-Room.
 * 150.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:150
+ :genre: poem
+ :keywords:
+ :cite-key: HN:150
   :END:
 
 
@@ -3161,9 +3161,9 @@ Into millions of pieces.
 * 151.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:151
+ :genre: poem
+ :keywords:
+ :cite-key: HN:151
   :END:
 
 
@@ -3181,9 +3181,9 @@ God-satisfaction-height.
 * 152.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:152
+ :genre: poem
+ :keywords:
+ :cite-key: HN:152
   :END:
 
 
@@ -3200,9 +3200,9 @@ From blocking my Godward way.
 * 153.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:153
+ :genre: poem
+ :keywords:
+ :cite-key: HN:153
   :END:
 
 
@@ -3219,9 +3219,9 @@ To God.
 * 154.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:154
+ :genre: poem
+ :keywords:
+ :cite-key: HN:154
   :END:
 
 
@@ -3237,9 +3237,9 @@ Desire-tiger-attacks.
 * 155.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:155
+ :genre: poem
+ :keywords:
+ :cite-key: HN:155
   :END:
 
 
@@ -3260,9 +3260,9 @@ Just to bless and crown me.
 * 156.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:156
+ :genre: poem
+ :keywords:
+ :cite-key: HN:156
   :END:
 
 
@@ -3280,9 +3280,9 @@ His Smiling Eye.
 * 157.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:157
+ :genre: poem
+ :keywords:
+ :cite-key: HN:157
   :END:
 
 
@@ -3303,9 +3303,9 @@ Away from Him.
 * 158.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:158
+ :genre: poem
+ :keywords:
+ :cite-key: HN:158
   :END:
 
 
@@ -3322,9 +3322,9 @@ Running after me.
 * 159.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:159
+ :genre: poem
+ :keywords:
+ :cite-key: HN:159
   :END:
 
 
@@ -3344,9 +3344,9 @@ Infinitely more.
 * 160.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:160
+ :genre: poem
+ :keywords:
+ :cite-key: HN:160
   :END:
 
 
@@ -3363,9 +3363,9 @@ Of my unaspiring days.
 * 161.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:161
+ :genre: poem
+ :keywords:
+ :cite-key: HN:161
   :END:
 
 
@@ -3382,9 +3382,9 @@ For His Heart-bound children.
 * 162.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:162
+ :genre: poem
+ :keywords:
+ :cite-key: HN:162
   :END:
 
 
@@ -3402,9 +3402,9 @@ Clearer.
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:163e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:163e1
   :END:
 
 
@@ -3418,9 +3418,9 @@ Reykjavik, Iceland
 * 163.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:163
+ :genre: poem
+ :keywords:
+ :cite-key: HN:163
   :END:
 
 
@@ -3437,9 +3437,9 @@ Very own.
 * 164.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:164
+ :genre: poem
+ :keywords:
+ :cite-key: HN:164
   :END:
 
 
@@ -3458,9 +3458,9 @@ Absolutely immaculate.
 * 165.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:165
+ :genre: poem
+ :keywords:
+ :cite-key: HN:165
   :END:
 
 
@@ -3477,9 +3477,9 @@ To God's Heart-Garden.
 * 166.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:166
+ :genre: poem
+ :keywords:
+ :cite-key: HN:166
   :END:
 
 
@@ -3497,9 +3497,9 @@ To perpetual happiness.
 * 167.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:167
+ :genre: poem
+ :keywords:
+ :cite-key: HN:167
   :END:
 
 
@@ -3518,9 +3518,9 @@ On earth.
 * 168.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:168
+ :genre: poem
+ :keywords:
+ :cite-key: HN:168
   :END:
 
 
@@ -3537,9 +3537,9 @@ In God's Forgiveness-Heart-Sea.
 * 169.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:169
+ :genre: poem
+ :keywords:
+ :cite-key: HN:169
   :END:
 
 
@@ -3555,9 +3555,9 @@ Under God's Forgiveness-Tree.
 * 170.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:170
+ :genre: poem
+ :keywords:
+ :cite-key: HN:170
   :END:
 
 
@@ -3574,9 +3574,9 @@ For my self-doubt-conquest.
 * 171.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:171
+ :genre: poem
+ :keywords:
+ :cite-key: HN:171
   :END:
 
 
@@ -3593,9 +3593,9 @@ Of my Pilot Supreme.
 * 172.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:172
+ :genre: poem
+ :keywords:
+ :cite-key: HN:172
   :END:
 
 
@@ -3611,9 +3611,9 @@ A concentration-mind-seeker.
 * 173.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:173
+ :genre: poem
+ :keywords:
+ :cite-key: HN:173
   :END:
 
 
@@ -3629,9 +3629,9 @@ A meditation-heart-builder.
 * 174.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:174
+ :genre: poem
+ :keywords:
+ :cite-key: HN:174
   :END:
 
 
@@ -3647,9 +3647,9 @@ A dedication-life-enjoyer.
 * 175.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:175
+ :genre: poem
+ :keywords:
+ :cite-key: HN:175
   :END:
 
 
@@ -3665,9 +3665,9 @@ A problem-solution-warrior.
 * 176.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:176
+ :genre: poem
+ :keywords:
+ :cite-key: HN:176
   :END:
 
 
@@ -3685,9 +3685,9 @@ Every single day.
 * 177.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:177
+ :genre: poem
+ :keywords:
+ :cite-key: HN:177
   :END:
 
 
@@ -3705,9 +3705,9 @@ All-where, always.
 * 178.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:178
+ :genre: poem
+ :keywords:
+ :cite-key: HN:178
   :END:
 
 
@@ -3724,9 +3724,9 @@ Ambition-boat.
 * 179.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:179
+ :genre: poem
+ :keywords:
+ :cite-key: HN:179
   :END:
 
 
@@ -3745,9 +3745,9 @@ And not demolish them altogether.
 * 180.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:180
+ :genre: poem
+ :keywords:
+ :cite-key: HN:180
   :END:
 
 
@@ -3764,9 +3764,9 @@ With inner sunshine.
 * 181.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:181
+ :genre: poem
+ :keywords:
+ :cite-key: HN:181
   :END:
 
 
@@ -3785,9 +3785,9 @@ My heart delights in seeking God.
 * 182.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:182
+ :genre: poem
+ :keywords:
+ :cite-key: HN:182
   :END:
 
 
@@ -3805,9 +3805,9 @@ As a pressing necessity.
 * 183.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:183
+ :genre: poem
+ :keywords:
+ :cite-key: HN:183
   :END:
 
 
@@ -3824,9 +3824,9 @@ Of my God-realisation-soul.
 * 184.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:184
+ :genre: poem
+ :keywords:
+ :cite-key: HN:184
   :END:
 
 
@@ -3844,9 +3844,9 @@ In the depths of soundless silence.
 * 185.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:185
+ :genre: poem
+ :keywords:
+ :cite-key: HN:185
   :END:
 
 
@@ -3864,9 +3864,9 @@ Shining upon me.
 * 186.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:186
+ :genre: poem
+ :keywords:
+ :cite-key: HN:186
   :END:
 
 
@@ -3885,9 +3885,9 @@ On earth.
 * 187.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:187
+ :genre: poem
+ :keywords:
+ :cite-key: HN:187
   :END:
 
 
@@ -3904,9 +3904,9 @@ My soul's ever-transcending pole.
 * 188.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:188
+ :genre: poem
+ :keywords:
+ :cite-key: HN:188
   :END:
 
 
@@ -3923,9 +3923,9 @@ All the anxiety-worry-seas.
 * 189.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:189
+ :genre: poem
+ :keywords:
+ :cite-key: HN:189
   :END:
 
 
@@ -3943,9 +3943,9 @@ For my cheerful face.
 * 190.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:190
+ :genre: poem
+ :keywords:
+ :cite-key: HN:190
   :END:
 
 
@@ -3965,9 +3965,9 @@ Gratitude infinite.
 * 191.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:191
+ :genre: poem
+ :keywords:
+ :cite-key: HN:191
   :END:
 
 
@@ -3986,9 +3986,9 @@ Is the heart-road.
 * 192.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:192
+ :genre: poem
+ :keywords:
+ :cite-key: HN:192
   :END:
 
 
@@ -4008,9 +4008,9 @@ Just before I fall.
 * 193.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:193
+ :genre: poem
+ :keywords:
+ :cite-key: HN:193
   :END:
 
 
@@ -4028,9 +4028,9 @@ Implicit Faith in my ability.
 * 194.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:194
+ :genre: poem
+ :keywords:
+ :cite-key: HN:194
   :END:
 
 
@@ -4048,9 +4048,9 @@ Not to retire.
 * 195.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:195
+ :genre: poem
+ :keywords:
+ :cite-key: HN:195
   :END:
 
 
@@ -4067,9 +4067,9 @@ In my Beloved Lord's Heart-Sky.
 * 196.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:196
+ :genre: poem
+ :keywords:
+ :cite-key: HN:196
   :END:
 
 
@@ -4087,9 +4087,9 @@ My God-devotion-addiction.
 * 197.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:197
+ :genre: poem
+ :keywords:
+ :cite-key: HN:197
   :END:
 
 
@@ -4109,9 +4109,9 @@ From the beginning to the end.
 * 198.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:198
+ :genre: poem
+ :keywords:
+ :cite-key: HN:198
   :END:
 
 
@@ -4130,9 +4130,9 @@ Of Heaven.
 * 199.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:199
+ :genre: poem
+ :keywords:
+ :cite-key: HN:199
   :END:
 
 
@@ -4150,9 +4150,9 @@ My heart-capacity.
 * 200.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:200
+ :genre: poem
+ :keywords:
+ :cite-key: HN:200
   :END:
 
 
@@ -4170,9 +4170,9 @@ Worships God.
 * 201.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:201
+ :genre: poem
+ :keywords:
+ :cite-key: HN:201
   :END:
 
 
@@ -4191,9 +4191,9 @@ My strangling vital.
 * 202.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:202
+ :genre: poem
+ :keywords:
+ :cite-key: HN:202
   :END:
 
 
@@ -4212,9 +4212,9 @@ And my life: "Cheer up!"
 * Note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: HN:203e1
+ :genre: note
+ :keywords:
+ :cite-key: HN:203e1
   :END:
 
 
@@ -4228,9 +4228,9 @@ Cambridge, England
 * 203.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:203
+ :genre: poem
+ :keywords:
+ :cite-key: HN:203
   :END:
 
 
@@ -4247,9 +4247,9 @@ With every sure step.
 * 204.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:204
+ :genre: poem
+ :keywords:
+ :cite-key: HN:204
   :END:
 
 
@@ -4267,9 +4267,9 @@ My ego-vital-wrestler.
 * 205.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:205
+ :genre: poem
+ :keywords:
+ :cite-key: HN:205
   :END:
 
 
@@ -4286,9 +4286,9 @@ Ignorance-stupidity-capacities.
 * 206.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:206
+ :genre: poem
+ :keywords:
+ :cite-key: HN:206
   :END:
 
 
@@ -4306,9 +4306,9 @@ A God-pleasing heart.
 * 207.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:207
+ :genre: poem
+ :keywords:
+ :cite-key: HN:207
   :END:
 
 
@@ -4327,9 +4327,9 @@ With patience solid.
 * 208.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:208
+ :genre: poem
+ :keywords:
+ :cite-key: HN:208
   :END:
 
 
@@ -4348,9 +4348,9 @@ Forgiveness-Heart-Fragrance.
 * 209.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:209
+ :genre: poem
+ :keywords:
+ :cite-key: HN:209
   :END:
 
 
@@ -4368,9 +4368,9 @@ The God-intimacy-world.
 * 210.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:210
+ :genre: poem
+ :keywords:
+ :cite-key: HN:210
   :END:
 
 
@@ -4388,9 +4388,9 @@ And a God-Victory-ringing bell.
 * 211.
 
  :PROPERTIES:
- :GENRE: poem
- :KEYWORDS:
- :CITE-KEY: HN:211
+ :genre: poem
+ :keywords:
+ :cite-key: HN:211
   :END:
 
 

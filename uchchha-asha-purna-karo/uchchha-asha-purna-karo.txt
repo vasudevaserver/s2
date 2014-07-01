@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1026
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1994
-  :PUBLISHER:
-  :CITE-KEY: UAPK
-  :GENRE: song
+  :book-number: 1026
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1994
+  :publisher:
+  :cite-key: UAPK
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: UAPK:1e1
+  :genre: note
+  :cite-key: UAPK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: UAPK:1e2
+  :genre: note
+  :cite-key: UAPK:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * He Chinta Ban He Chinta Ban Rakhbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:1
+  :cite-key: UAPK:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Rakhbo dure ei je mor pan
 * Hiyar Bale Maner Bale Praner Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:2
+  :cite-key: UAPK:2
   :END:
 
 #+BEGIN_VERSE
@@ -74,10 +74,10 @@ Rakhbo more tomar kripar charan tale
 * Namra Shire Bhakti Bhare Tomai Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:3
+  :cite-key: UAPK:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Tomar paye sampite
 * Khudra Ami Mahat Habe Ei Barashai Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:4
+  :cite-key: UAPK:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Taito ami nachi
 * Dekhite Chahina Tomare Bidhata Maner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:5
+  :cite-key: UAPK:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Hiyar ushai
 * Maran Deshe Ghure Ghure Mrittyu Hiner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:6
+  :cite-key: UAPK:6
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ Katoi kichu mora khelam
 * Chander Deshe Shanti Lagi Rabir Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:7
+  :cite-key: UAPK:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ Nithur aghat pete chahi nahi
 * Tomar Dekha Pele Amar Nayan Hase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:8
+  :cite-key: UAPK:8
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ Bandhan nashe
 * Asha Phuler Bagane Urdha Loker Sopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:9
+  :cite-key: UAPK:9
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ Amire mor sampite
 * Bahudin Pare Esecho Thakur Bahudin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:10
+  :cite-key: UAPK:10
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Bhakti arghya sanji
 * Tomai Jadi Nahi Tushi Keman Kare Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:11
+  :cite-key: UAPK:11
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Keman kare habo kushi
 * Hiya Pakhi Tumi Amar Mukti Nabher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:12
+  :cite-key: UAPK:12
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Swapan ankhi
 * Khulte Giye Ashar Duar Pelam Boroi Aghat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:13
+  :cite-key: UAPK:13
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Nahi heri prabhar
 * Jiban Amar Saphal Halo Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:14
+  :cite-key: UAPK:14
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Amire mor harashe
 * Balbona Ar Amar Katha Bishwa Sabha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:15
+  :cite-key: UAPK:15
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ Prabhu Krishna raje
 * Hasibo Hiyar Gabhire Nijere Daniya Achire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:16
+  :cite-key: UAPK:16
   :END:
 
 #+BEGIN_VERSE
@@ -339,10 +339,10 @@ Phutabo shashire rabire
 * Maner Prachir Bhenge Prabhu Eso Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:17
+  :cite-key: UAPK:17
   :END:
 
 #+BEGIN_VERSE
@@ -358,10 +358,10 @@ Tomar charan dhare
 * Heribona Kabhu Jiban Samare Antara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:18
+  :cite-key: UAPK:18
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Habe mor parichoy
 * Sabiy Madhur Sabiy Prachur Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:19
+  :cite-key: UAPK:19
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Maner timire
 * Nahi Raje Rabi Nahi Raje Shashi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-04-1994
-  :CITE-KEY: UAPK:20
+  :cite-key: UAPK:20
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Bijoy pataka jibane
 * Ankhi Bhara Jal Herite Chahigo Abirata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1994
-  :CITE-KEY: UAPK:21
+  :cite-key: UAPK:21
   :END:
 
 #+BEGIN_VERSE
@@ -434,10 +434,10 @@ Garbita shir kare nata
 * Jagite Chahi Gahite Chahi Ami Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-04-1994
-  :CITE-KEY: UAPK:22
+  :cite-key: UAPK:22
   :END:
 
 #+BEGIN_VERSE
@@ -453,10 +453,10 @@ Sonar hiyar prate
 * Mukti Giti Gaite Chahi Bhitar Bahir Bhangte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:23
+  :cite-key: UAPK:23
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Nisthur prachir
 * Santar Ami Katte Chahi Shanti Sagare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:24
+  :cite-key: UAPK:24
   :END:
 
 #+BEGIN_VERSE
@@ -491,10 +491,10 @@ Jiban samare
 * Jedike Takai Sedike Nehari Kebal Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:25
+  :cite-key: UAPK:25
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ Labhiya ajike nutan drishti
 * Jiban Amar Rakhiya Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:26
+  :cite-key: UAPK:26
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ Swapane
 * Uchcha Asha Purna Karo Hiyar Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:27
+  :cite-key: UAPK:27
   :END:
 
 #+BEGIN_VERSE
@@ -548,10 +548,10 @@ Maner timire
 * Hiyar Jale Chokher Jale Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:28
+  :cite-key: UAPK:28
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Pujte habe prabhu amai kahe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:29
+  :cite-key: UAPK:29
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ I shall have to worship my Lord Supreme.
 * Nijere Sampite Prabhur Charane Karona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:30
+  :cite-key: UAPK:30
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ Bidhatar jaya bheri
 * Tushta Ami Karbo Tomai Bhangbena Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:31
+  :cite-key: UAPK:31
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ Amar maha swapan nashi ketu
 * Pujte Chahi Tushte Chahi Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:32
+  :cite-key: UAPK:32
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Rekho sada dhabal
 * Chalanar Sathe Rahibena Kabhu Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:33
+  :cite-key: UAPK:33
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Bishwa tibra pan
 * Kandte Habe Shishur Mato Phutte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-04-1994
-  :CITE-KEY: UAPK:34
+  :cite-key: UAPK:34
   :END:
 
 #+BEGIN_VERSE
@@ -677,10 +677,10 @@ Jiban amar abirato
 * Santana... Tumi Je Kebal Maner Kalpana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:35
+  :cite-key: UAPK:35
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Maner kalpana
 * He Param Pita Hasite Janina Kandite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:36
+  :cite-key: UAPK:36
   :END:
 
 #+BEGIN_VERSE
@@ -715,10 +715,10 @@ Tomare pabar lagi
 * Bhitar Bahir Kebal Banchana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:37
+  :cite-key: UAPK:37
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ Nahi kari taito bandana
 * Rakhbo Khule Ashru Duar Pete Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:38
+  :cite-key: UAPK:38
   :END:
 
 #+BEGIN_VERSE
@@ -749,10 +749,10 @@ Pete tomar kripar jowar
 * Sukher Dine Tomai Chinina Dukher Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:39
+  :cite-key: UAPK:39
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ Tomai pujina
 * Hiyar Swapan Manena Bandhan Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:40
+  :cite-key: UAPK:40
   :END:
 
 #+BEGIN_VERSE
@@ -787,10 +787,10 @@ Manena jatan
 * Kemane Haibo Tapas Jadi Nahi Chhari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:41
+  :cite-key: UAPK:41
   :END:
 
 #+BEGIN_VERSE
@@ -804,10 +804,10 @@ Jadi nahi chhari tamas
 * Moha Bandhan Bhangiya Nadi Sama Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:42
+  :cite-key: UAPK:42
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Nadi sama jabo chaliya
 * Swapane Sabare Basi Bhalo Bastabe Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:43
+  :cite-key: UAPK:43
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ Bastabe heri shudhu kalo
 * Maner Katha Balte Giye Hiyar Katha Bali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-04-1994
-  :CITE-KEY: UAPK:44
+  :cite-key: UAPK:44
   :END:
 
 #+BEGIN_VERSE

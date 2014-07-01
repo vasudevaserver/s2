@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 445
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: ISLD-8
-  :GENRE: song
+  :book-number: 445
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: ISLD-8
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:646e1
+  :genre: note
+  :cite-key: ISLD:646e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:646e2
+  :genre: note
+  :cite-key: ISLD:646e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ajike Ei Sanya Bela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:646
+  :cite-key: ISLD:646
   :END:
 
 #+BEGIN_VERSE
@@ -65,10 +65,10 @@ Byartha habe maya moher jal phela
 * Akash Batas Bale Jai Biday Biday Kato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:647
+  :cite-key: ISLD:647
   :END:
 
 #+BEGIN_VERSE
@@ -87,10 +87,10 @@ Se dik pane pran phire chai
 * Akhyato Agyato Dur Gaganer Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:648
+  :cite-key: ISLD:648
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Dur gaganer tara
 * Aman Andha Praner Tane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:649
+  :cite-key: ISLD:649
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Tomar pane
 * Asa Jaowar Mela Kato Ase Dato Chale Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:650
+  :cite-key: ISLD:650
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ Nitya pujai jena na hoy abahela
 * Asta Chale Rabi Asta Gela Utha Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:651
+  :cite-key: ISLD:651
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ Hisab nikash karona bhai ki rahilo ar gela
 * Bhalo Amar Lage Kena Se Tarker Kaj Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:652
+  :cite-key: ISLD:652
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Naba rupe naba bhabe shudhu mai
 * Bidhatar Joy Bidhatar Joy Gaha Bidhatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:653
+  :cite-key: ISLD:653
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Gaha bidhatar joy
 * Bipader Megh Kileche Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:654
+  :cite-key: ISLD:654
   :END:
 
 #+BEGIN_VERSE
@@ -252,10 +252,10 @@ Tomar sebak jagya kariya nao go amai
 * Britha Bhabi Mane Mane Pulak Jage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:655
+  :cite-key: ISLD:655
   :END:
 
 #+BEGIN_VERSE
@@ -275,10 +275,10 @@ Praphulla anane
 * Chilam Akul Kul Meleche Amito Ar Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:656
+  :cite-key: ISLD:656
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Ashish karo swarup jena pai
 * Diyo More Prakrito Binoy Amar Satya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:657
+  :cite-key: ISLD:657
   :END:
 
 #+BEGIN_VERSE
@@ -322,10 +322,10 @@ Simar bandhan joy
 * Ei Jibaner Pratikaje Tomar Parichoy Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:658
+  :cite-key: ISLD:658
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Tomari hok joy
 * Ekla Ami Base Achi Ki Jani Kar Asai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:659
+  :cite-key: ISLD:659
   :END:
 
 #+BEGIN_VERSE
@@ -373,10 +373,10 @@ Se jon kothai
 * Hriday Amar Jai Je Bhese Nil Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:660
+  :cite-key: ISLD:660
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Ke amare nibe ese
 * Janam Niyechi Dhulite Chahi Na Se Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:661
+  :cite-key: ISLD:661
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Diyona tomare bhulite
 * Jani Ache Jabar Prayojan Tabu Bali Tamo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:662
+  :cite-key: ISLD:662
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Ektu ganer alap kari surer gunjon
 * Jani Jete Habe Thaki Bena Keha Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:663
+  :cite-key: ISLD:663
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Jadi balo puna khela khelibo bhabe
 * Jhara Pata Ure Jai Dekhe Bale Ai Ai Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:664
+  :cite-key: ISLD:664
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ Jetha sabe jai
 * Jhare Nahi Pai Ami Tare Chai Jaha Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:665
+  :cite-key: ISLD:665
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ Nai nai nai
 * Kar Sneha Amai Parash Kare Khape Para
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:666
+  :cite-key: ISLD:666
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Kal je naire
 * Kato Dhan Je Pare Ache Shyama Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:667
+  :cite-key: ISLD:667
   :END:
 
 #+BEGIN_VERSE
@@ -561,10 +561,10 @@ Nirabadhi ma bale
 * Kena Tabe Jete Chahe Jadi Ase Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:668
+  :cite-key: ISLD:668
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Nimesher milai
 * Keno.. Bijan Ghater Pane Takiye Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:669
+  :cite-key: ISLD:669
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Se je aj dakche khane
 * Khusi Mane Setha Keha Jete Nahi Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:670
+  :cite-key: ISLD:670
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Sabuj nutan beshe latai patai
 * Ki Peyechi Tari Hisha Milate Pran Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:671
+  :cite-key: ISLD:671
   :END:
 
 #+BEGIN_VERSE
@@ -648,10 +648,10 @@ Bharini amar saji
 * Kolre Dar Kol Bali Ese Kalir Prane Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:672
+  :cite-key: ISLD:672
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ Shunna kallol
 * Ma Jani Tumi Asbe Phire Satya Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:673
+  :cite-key: ISLD:673
   :END:
 
 #+BEGIN_VERSE
@@ -693,10 +693,10 @@ Ma jani tumi asbe phire jani
 * Ma Sab Rekhecho Amar Kache Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:674
+  :cite-key: ISLD:674
   :END:
 
 #+BEGIN_VERSE
@@ -718,10 +718,10 @@ Sei garba mor prane nache
 * Maner Bojha Kotai Namai Kichutai Jaina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:675
+  :cite-key: ISLD:675
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Shanti tabu chaina
 * Megh Je Deke Jai Ai.. Ghare Thaka Dai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:676
+  :cite-key: ISLD:676
   :END:
 
 #+BEGIN_VERSE
@@ -765,10 +765,10 @@ Sedake kar pran na matai
 * Shiter Haowa Chire Chire Ek Katha Koi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:677
+  :cite-key: ISLD:677
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Khule gai
 * Bahir Haye Eso Prabhu Je Acho Antare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:678
+  :cite-key: ISLD:678
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ Rekho amai aral kare eso prabhu tomar kare
 * Basechinu Dur Pane Nayan Mele Atiter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:679
+  :cite-key: ISLD:679
   :END:
 
 #+BEGIN_VERSE
@@ -833,10 +833,10 @@ Herilam deba lila nayan mele
 * Bela Jai Shuni Katobar Bela Je Jaina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:680
+  :cite-key: ISLD:680
   :END:
 
 #+BEGIN_VERSE
@@ -856,10 +856,10 @@ Kakhan ke jane ki habe amar
 * Nutan Jiban Kari Abahan Deba Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:681
+  :cite-key: ISLD:681
   :END:
 
 #+BEGIN_VERSE
@@ -881,10 +881,10 @@ Deba jibaner kari aradhan
 * Pechan Pane Chai Na Phire Age Jali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:682
+  :cite-key: ISLD:682
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Bhoi kari na mayer kripa ache amai ghire
 * Subasito Mukharito Madhu Prabane Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:683
+  :cite-key: ISLD:683
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ Tomar swarup mago ghume jagarane
 * Sukh Je Tor Noi Re Chirantan Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:684
+  :cite-key: ISLD:684
   :END:
 
 #+BEGIN_VERSE
@@ -952,10 +952,10 @@ Dukha sukher para pare satya niranjan
 * Theke Maner Gopan Dale Pathar Antar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: ISLD:685
+  :cite-key: ISLD:685
   :END:
 
 #+BEGIN_VERSE

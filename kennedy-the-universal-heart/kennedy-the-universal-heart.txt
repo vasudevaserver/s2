@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0061
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: KUH
-  :GENRE: poem, discourse
-  :KEYWORDS:
+  :book-number: 0061
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: KUH
+  :genre: poem, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I -- Kennedy: the universal heart
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: KUH:1e1
+  :genre: section
+  :keywords:
+  :cite-key: KUH:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Unique
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:1
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:1
   :END:
 
 
@@ -85,9 +85,9 @@ Daring.
 * Never was he alone
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:2
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:2
   :END:
 
 
@@ -110,9 +110,9 @@ Lavishly in him were grown.
 * Alone he stood
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:3
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:3
   :END:
 
 
@@ -133,9 +133,9 @@ To change earth's tearful face.
 * The father: Joseph Kennedy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:4
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:4
   :END:
 
 
@@ -167,9 +167,9 @@ A promise cherished by God Himself.
 * The mother: Rose Kennedy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:5
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:5
   :END:
 
 
@@ -206,9 +206,9 @@ Of the world.
 * Joe and Jack
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:6
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:6
   :END:
 
 
@@ -240,9 +240,9 @@ No one fully knows, Save God.
 * Senator Robert Kennedy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:7
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:7
   :END:
 
 
@@ -293,9 +293,9 @@ South and North.
 * Senator Edward Kennedy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:8
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:8
   :END:
 
 
@@ -331,9 +331,9 @@ With destined glory.
 * The fateful link
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:9
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:9
   :END:
 
 
@@ -364,9 +364,9 @@ Today's roaring Gloom.
 * Marriage: John and Jacqueline
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:10
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:10
   :END:
 
 
@@ -401,9 +401,9 @@ In the dance of mounting Oneness.
 * President
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:11
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:11
   :END:
 
 
@@ -428,9 +428,9 @@ Heaven's all-transforming Message.
 * The creator and his creations
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:12
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:12
   :END:
 
 
@@ -453,9 +453,9 @@ The sky of hopes within her core arranged.
 * Kennedy and Caesar
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:13
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:13
   :END:
 
 
@@ -481,9 +481,9 @@ Covered in shame his face.
 * Kennedy - Nehru
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:14
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:14
   :END:
 
 
@@ -536,9 +536,9 @@ Fear and defeat.
 * One two three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:15
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:15
   :END:
 
 
@@ -565,9 +565,9 @@ A fathomless Sea.
 * Name
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:16
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:16
   :END:
 
 
@@ -590,9 +590,9 @@ A name of kindled hope below, above.
 * Kennedy and the world
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:17
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:17
   :END:
 
 
@@ -610,9 +610,9 @@ Together they breathe through Eternity.
 * Part II -- To the Kennedys:
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: KUH:18e1
+  :genre: section
+  :keywords:
+  :cite-key: KUH:18e1
   :END:
 
  
@@ -620,9 +620,9 @@ Together they breathe through Eternity.
 * John-John
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:18
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:18
   :END:
 
 
@@ -641,9 +641,9 @@ In you is the light of his promised dawn.
 * Caroline
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:19
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:19
   :END:
 
 
@@ -664,9 +664,9 @@ The promise of the brightest Sun.
 * Jacqueline
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: KUH:20
+  :genre: poem
+  :keywords:
+  :cite-key: KUH:20
   :END:
 
 
@@ -693,9 +693,9 @@ today's world is grown.
 * John Fitzgerald Kennedy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: KUH:21
+  :genre: discourse
+  :keywords:
+  :cite-key: KUH:21
   :END:
 
 

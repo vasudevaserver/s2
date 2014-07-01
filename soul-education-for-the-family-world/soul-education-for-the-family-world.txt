@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0340
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SEFW
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0340
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: SEFW
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 
   :PROPERTIES:
   :SUBTITLE: Their Spiritual Roles And Earthly Roles
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:1e1
+  :genre: section
+  :keywords:
+  :cite-key: SEFW:1e1
   :END:
 
 
@@ -33,9 +33,9 @@
 * Question: Is There A Distinction Between Man...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:1
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:1
   :END:
 
 
@@ -48,9 +48,9 @@
 * Question: Are Women Different Spiritually From Men?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:2
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:2
   :END:
 
 
@@ -63,9 +63,9 @@
 * Question: Is There Any Particular Reason, Or...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:3
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:3
   :END:
 
 
@@ -84,9 +84,9 @@ If women used the time that they waste in jealousy to cultivate their own inner 
 * Question: I Have Noticed That Most Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:4
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:4
   :END:
 
 
@@ -111,9 +111,9 @@ In India there is a God-realised spiritual Master who is a woman. Her name is An
 * Question: Are There More Single Women Today...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:5
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:5
   :END:
 
 
@@ -132,9 +132,9 @@ I do support the women’s movement, but women should know what kind of freedom 
 * Question: How Do Men And Women Compete...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:6
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:6
   :END:
 
 
@@ -147,9 +147,9 @@ I do support the women’s movement, but women should know what kind of freedom 
 * Question: I Think It’s Wonderful If Women...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:7
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:7
   :END:
 
 
@@ -162,9 +162,9 @@ I do support the women’s movement, but women should know what kind of freedom 
 * Question: Are Women Beginning To Compete With...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:8
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:8
   :END:
 
 
@@ -184,9 +184,9 @@ If there are two kinds of work, should we not give the same importance to both? 
 
   :PROPERTIES:
   :SUBTITLE: Husbands And Wives, Children And Parents
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:9e1
+  :genre: section
+  :keywords:
+  :cite-key: SEFW:9e1
   :END:
 
 
@@ -194,9 +194,9 @@ If there are two kinds of work, should we not give the same importance to both? 
 * Question: It Is Said That In The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:9
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:9
   :END:
 
 
@@ -217,9 +217,9 @@ Husband and wife have to feel as one, but when sometimes they do not feel as one
 * Question: Do You Think That If One...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:10
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:10
   :END:
 
 
@@ -232,9 +232,9 @@ Husband and wife have to feel as one, but when sometimes they do not feel as one
 * Question: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:11
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:11
   :END:
 
 
@@ -247,9 +247,9 @@ Husband and wife have to feel as one, but when sometimes they do not feel as one
 * Question: Guru, How Can The Husband Feel...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:12
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:12
   :END:
 
 
@@ -262,9 +262,9 @@ Husband and wife have to feel as one, but when sometimes they do not feel as one
 * Question: What If The Wife Goes Outside...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:13
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:13
   :END:
 
 
@@ -277,9 +277,9 @@ Husband and wife have to feel as one, but when sometimes they do not feel as one
 * Question: Would You Like To Say Something...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:14
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:14
   :END:
 
 
@@ -300,9 +300,9 @@ The only thing is, when a woman knows that she is going to have a child that she
 * Question: Is The Reason You Discourage Your...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:15
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:15
   :END:
 
 
@@ -327,9 +327,9 @@ If some individuals say that they have the capacity, in spite of having one or t
 * Question: When We Have Children, How Can...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:16
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:16
   :END:
 
 
@@ -346,9 +346,9 @@ There is a world of difference between praying for your children and then taking
 * Question: Can A Bad Mother Make Her...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:17
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:17
   :END:
 
 
@@ -361,9 +361,9 @@ There is a world of difference between praying for your children and then taking
 * Question: There Is Disharmony Between My Parents...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:18
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:18
   :END:
 
 
@@ -382,9 +382,9 @@ So do not worry about your father. Tell him only to have faith in what he believ
 * Question: I Just Visited My Family And...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:19
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:19
   :END:
 
 
@@ -405,9 +405,9 @@ They are your parents, true. But if they deliberately try to create additional c
 * Question: It Seems That If You Really...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:20
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:20
   :END:
 
 
@@ -420,9 +420,9 @@ They are your parents, true. But if they deliberately try to create additional c
 * Question: What If Your Child Is Very...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:21
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:21
   :END:
 
 
@@ -435,9 +435,9 @@ They are your parents, true. But if they deliberately try to create additional c
 * Question: How Can I Stop Being So...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:22
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:22
   :END:
 
 
@@ -454,9 +454,9 @@ If they are totally against your spiritual life, then what is the use of mixing 
 * Question: Christ Said In The Gospels That...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:23
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:23
   :END:
 
 
@@ -471,9 +471,9 @@ If you can satisfy God, your parents will eventually be satisfied because you wi
 * Question: When They Go To The Soul’s...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:24
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:24
   :END:
 
 
@@ -488,9 +488,9 @@ Good parents only want happiness for their children. Unfortunately, they sometim
 * Question: If Parents Sincerely Accept The Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:25
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:25
   :END:
 
 
@@ -505,9 +505,9 @@ You want from them. I want nothing from them. I want everything from You.” Whe
 * Question: Is Having Pets Anything Like Having...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:26
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:26
   :END:
 
 
@@ -522,9 +522,9 @@ You have to know how much time you spend on your dog or cat, and how much time y
 * Question: What Is The Best Thing I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:27
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:27
   :END:
 
 
@@ -537,9 +537,9 @@ You have to know how much time you spend on your dog or cat, and how much time y
 * Question: What Is The Best Way To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:28
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:28
   :END:
 
 
@@ -553,9 +553,9 @@ You have to know how much time you spend on your dog or cat, and how much time y
 
   :PROPERTIES:
   :SUBTITLE: The Teachers Role And The Student’s Role
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:29e1
+  :genre: section
+  :keywords:
+  :cite-key: SEFW:29e1
   :END:
 
 
@@ -563,9 +563,9 @@ You have to know how much time you spend on your dog or cat, and how much time y
 * Question: Could You Speak About The Education...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:29
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:29
   :END:
 
 
@@ -594,9 +594,9 @@ Here we are all seekers, we are spiritual people. Spiritual parents immediately 
 * Question: How Should I Meditate Before I...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:30
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:30
   :END:
 
 
@@ -609,9 +609,9 @@ Here we are all seekers, we are spiritual people. Spiritual parents immediately 
 * Question: How Can I Best Serve The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:31
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:31
   :END:
 
 
@@ -626,9 +626,9 @@ When you teach children, do not think that the school authorities are paying you
 * Question: When We Have A Choice Between...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:32
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:32
   :END:
 
 
@@ -647,9 +647,9 @@ The brother who studied long hours was a fool. The day will come when the outer 
 * Question: I'm A Student....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:33
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:33
   :END:
 
 
@@ -666,9 +666,9 @@ Study itself is a kind of service. From now on you have to take your study as a 
 * Question: Many Disciples Are Teachers And Some...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:34
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:34
   :END:
 
 
@@ -681,9 +681,9 @@ Study itself is a kind of service. From now on you have to take your study as a 
 * Question: Is It Necessary For My Growth...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:35
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:35
   :END:
 
 
@@ -696,9 +696,9 @@ Study itself is a kind of service. From now on you have to take your study as a 
 * Question: At This Point I Am Planning...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:36
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:36
   :END:
 
 
@@ -711,9 +711,9 @@ Study itself is a kind of service. From now on you have to take your study as a 
 * Technology And Science
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:37e1
+  :genre: section
+  :keywords:
+  :cite-key: SEFW:37e1
   :END:
 
 
@@ -721,9 +721,9 @@ Study itself is a kind of service. From now on you have to take your study as a 
 * Question: Matter Is Made Up Of Atoms....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:37
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:37
   :END:
 
 
@@ -738,9 +738,9 @@ The transcendental spirit does not act like matter. An atom can be broken into f
 * Question: Does A Strong Involvement With Technology...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:38
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:38
   :END:
 
 
@@ -759,9 +759,9 @@ There is no necessary barrier between a seeker and a technologist, but one has t
 * Question: You Told Us About A Disciple...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:39
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:39
   :END:
 
 
@@ -776,9 +776,9 @@ She is sincere enough to know that it is spirituality that has the inner wisdom 
 * Question: As Far As Psychology Is Concerned,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:40
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:40
   :END:
 
 
@@ -799,9 +799,9 @@ Many years ago I studied Freud and Jung, and last year I studied an authority on
 * Question: If A Student Is Studying Science...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:41
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:41
   :END:
 
 
@@ -816,9 +816,9 @@ When he is studying or conducting an experiment, he should feel that he is fulfi
 * Question: An Anthropologist Studies His Brother Human...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:42
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:42
   :END:
 
 
@@ -833,9 +833,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: I Was Talking With A Scientifically...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:43
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:43
   :END:
 
 
@@ -848,9 +848,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: These People Say That Between Fish...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:44
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:44
   :END:
 
 
@@ -863,9 +863,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: Does An Invention Exist In The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:45
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:45
   :END:
 
 
@@ -878,9 +878,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: When Somebody Invents Something, Is The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:46
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:46
   :END:
 
 
@@ -893,9 +893,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: Can Man Speed Discovery?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:47
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:47
   :END:
 
 
@@ -908,9 +908,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: What About Bad Inventions, Like The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:48
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:48
   :END:
 
 
@@ -923,9 +923,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: What Part Does Imagination Play In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:49
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:49
   :END:
 
 
@@ -938,9 +938,9 @@ He has become an anthropologist because he studied that subject. Similarly, if h
 * Question: I Would Like To Know If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:50
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:50
   :END:
 
 
@@ -955,9 +955,9 @@ Electric light is only in the physical world. It is absolutely limited. But the 
 * Question: Is It Always Best For Doctors...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:51
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:51
   :END:
 
 
@@ -972,9 +972,9 @@ In India some people live for over two hundred years, but they do not have time 
 * Question: If The Doctors Kill A Patient...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:52
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:52
   :END:
 
 
@@ -987,9 +987,9 @@ In India some people live for over two hundred years, but they do not have time 
 * Question: There Is A Girl Who Has...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:53
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:53
   :END:
 
 
@@ -1002,9 +1002,9 @@ In India some people live for over two hundred years, but they do not have time 
 * Question: They're Not Trying To Bring Her...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:54
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:54
   :END:
 
 
@@ -1017,9 +1017,9 @@ In India some people live for over two hundred years, but they do not have time 
 * Question: Is There Any Reason For This...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:55
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:55
   :END:
 
 
@@ -1034,9 +1034,9 @@ Either the soul is enjoying the experience, or it is waiting for the right momen
 * Question: Are We Really Responsible For The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:56
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:56
   :END:
 
 
@@ -1049,9 +1049,9 @@ Either the soul is enjoying the experience, or it is waiting for the right momen
 * Question: Is God Worried About The Population...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:57
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:57
   :END:
 
 
@@ -1064,9 +1064,9 @@ Either the soul is enjoying the experience, or it is waiting for the right momen
 * Drugs And Alcohol
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SEFW:58e1
+  :genre: section
+  :keywords:
+  :cite-key: SEFW:58e1
   :END:
 
 
@@ -1074,9 +1074,9 @@ Either the soul is enjoying the experience, or it is waiting for the right momen
 * Question: Do Drug Experiences Have....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:58
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:58
   :END:
 
 
@@ -1089,9 +1089,9 @@ Either the soul is enjoying the experience, or it is waiting for the right momen
 * Question: Should Marijuana Be Legalised, So You...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:59
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:59
   :END:
 
 
@@ -1112,9 +1112,9 @@ One does not have to go through an experience in order to say, “I know it beca
 * Question: Can You Explain To Us In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SEFW:60
+  :genre: qa
+  :keywords:
+  :cite-key: SEFW:60
   :END:
 
 

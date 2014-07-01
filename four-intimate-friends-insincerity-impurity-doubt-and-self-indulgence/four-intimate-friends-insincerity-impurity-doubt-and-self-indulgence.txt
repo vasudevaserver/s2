@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0332
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FIF
-  :GENRE: qa, discourse
-  :KEYWORDS:
+  :book-number: 0332
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: FIF
+  :genre: qa, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Emotion, detachment and attachment
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FIF:1e1
+  :genre: section
+  :keywords:
+  :cite-key: FIF:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FIF:1
+  :genre: discourse
+  :keywords:
+  :cite-key: FIF:1
   :END:
 
 
@@ -51,9 +51,9 @@ It is not at all difficult to detach oneself from one's environment. But true de
 * Question: In our daily life, are we supposed to suppress our emotions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:2
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:2
   :END:
 
 
@@ -70,9 +70,9 @@ So whenever emotion comes to the fore, do not try to suppress it. Just try to th
 * Question: I have trouble with emotions and bad thoughts. They attack me and when I try to fight them off, they become stronger.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:3
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:3
   :END:
 
 
@@ -87,9 +87,9 @@ Again, if the enemy comes, you have to be strong. You are not going to attack an
 * Question: We usually think that we are attached only to someone we like. But we can also be attached to somebody we dislike. How can we detach ourselves from a person we dislike?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:4
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:4
   :END:
 
 
@@ -110,9 +110,9 @@ So whether this attachment is positive or negative, it is always destructive. Wh
 * Part II: Psychic depression and vital depression
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FIF:5e1
+  :genre: section
+  :keywords:
+  :cite-key: FIF:5e1
   :END:
 
 
@@ -120,9 +120,9 @@ So whether this attachment is positive or negative, it is always destructive. Wh
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FIF:5
+  :genre: discourse
+  :keywords:
+  :cite-key: FIF:5
   :END:
 
 
@@ -141,9 +141,9 @@ The cure for psychic depression is to surrender openly to God's Will. Aspire sou
 * Question: When something in the world bothers me, I lose all my sincerity and become depressed.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:6
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:6
   :END:
 
 
@@ -158,9 +158,9 @@ Depression is not the answer. When you run a race, if you are disqualified, what
 * Question: What causes depression?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:7
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:7
   :END:
 
 
@@ -177,9 +177,9 @@ We have to feel that we are not ignorance, we do not represent ignorance, we are
 * Question: Guru, do you ever feel depressed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:8
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:8
   :END:
 
 
@@ -190,9 +190,9 @@ We have to feel that we are not ignorance, we do not represent ignorance, we are
 * Question: Guru, when you see our states of mind and our moods, do you see us as a sort of composite or average of what we were during the day, or do you see us as we are at that moment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:9
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:9
   :END:
 
 
@@ -203,9 +203,9 @@ We have to feel that we are not ignorance, we do not represent ignorance, we are
 * Question: In psychology there's a symptom called manic depression where first of all the person is very lively and gay and then he becomes depressed. Sometimes I've noticed this in disciples because it seems to be part of the human psyche. What can we do to break the cycle?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:10
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:10
   :END:
 
 
@@ -222,9 +222,9 @@ We should be like an Indian farmer. An Indian farmer does not wait for rain or s
 * Question: If we feel elated or depressed and we don't know the reason for it, can there be an inner reason?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:11
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:11
   :END:
 
 
@@ -235,9 +235,9 @@ We should be like an Indian farmer. An Indian farmer does not wait for rain or s
 * Question: How can I control my moods?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:12
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:12
   :END:
 
 
@@ -254,9 +254,9 @@ Please do not consciously cherish the feeling of inferiority. In God's family th
 * Question: How can we have a wonderful meditation one day and then the very next day a terrible one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:13
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:13
   :END:
 
 
@@ -267,9 +267,9 @@ Please do not consciously cherish the feeling of inferiority. In God's family th
 * Question: What should we do if we are struggling and, at the same time, losing the quality of joy in our lives?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:14
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:14
   :END:
 
 
@@ -284,9 +284,9 @@ We have to know how hard we are trying to realise the Highest, how many minutes 
 * Question: Sometimes I feel much devotion towards you, and at other times I feel very far away from you, almost unspiritual.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:15
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:15
   :END:
 
 
@@ -301,9 +301,9 @@ Please feel that I am an extension of your consciousness. Don't think that I am 
 * Question: I've been trying to meditate for some months now, but have been troubled by restlessness and depression.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:16
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:16
   :END:
 
 
@@ -318,9 +318,9 @@ The best way to conquer depression is to meditate every day early in the morning
 * Part III: Four intimate friends: Insincerity, impurity, doubt and self-indulgence
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FIF:17e1
+  :genre: section
+  :keywords:
+  :cite-key: FIF:17e1
   :END:
 
 
@@ -328,9 +328,9 @@ The best way to conquer depression is to meditate every day early in the morning
 * 1.
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FIF:17
+  :genre: discourse
+  :keywords:
+  :cite-key: FIF:17
   :END:
 
 
@@ -361,9 +361,9 @@ When we look at self-indulgence from the highest point of view, we see that it i
 * Question: Even though I have accepted the spiritual life, I still have doubts. Why is this, Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:18
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:18
   :END:
 
 
@@ -376,9 +376,9 @@ Actually, we have many inner suns. If we could see even one of our inner suns, t
 * Question: Sometimes when I am attacked by doubt, my first reaction is that I won't let it enter. But it comes back every five minutes. I want to know what is the best thing to do to put it away permanently.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:19
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:19
   :END:
 
 
@@ -395,9 +395,9 @@ Doubt is an undivine force. I call it a slow poison. Doubt is our worst enemy in
 * /Question: Is not the absence of doubt the same thing as unquestioning faith?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:20
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:20
   :END:
 
 
@@ -408,9 +408,9 @@ Doubt is an undivine force. I call it a slow poison. Doubt is our worst enemy in
 * Question: What is the best way for me to conquer doubt?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:21
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:21
   :END:
 
 
@@ -427,9 +427,9 @@ If you do change friends, then what happens? In the beginning those old friends,
 * Question: How can one transcend the self-indulgence that interferes with duty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:22
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:22
   :END:
 
 
@@ -442,9 +442,9 @@ You may say that by punishing yourself you do not illumine yourself. But we feel
 * Part IV: Jealousy and personality conflicts
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FIF:23e1
+  :genre: section
+  :keywords:
+  :cite-key: FIF:23e1
   :END:
 
 
@@ -452,9 +452,9 @@ You may say that by punishing yourself you do not illumine yourself. But we feel
 * Question: What is the difference between jealousy and admiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:23
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:23
   :END:
 
 
@@ -467,9 +467,9 @@ But if it is sincere admiration, then you have a feeling of an ideal in your lif
 * Question: I was wondering about jealousy. Sometimes I try to convince myself that it doesn't matter if you show more attention to somebody else but it doesn't work.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:24
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:24
   :END:
 
 
@@ -486,9 +486,9 @@ You have to feel that the things that you cannot do in front of me are things th
 * Question: Guru, one thing that really often ruins my morning and my whole day is very negative feelings against one or two disciples. A few months ago you said to try to think of their divine qualities, but I haven't been able to do it successfully.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:25
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:25
   :END:
 
 
@@ -507,9 +507,9 @@ Even a child will eat only the candy that pleases him most. You may put in front
 * Question: How can your spiritual children help one another to overcome jealousy and other undivine qualities?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:26
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:26
   :END:
 
 
@@ -520,9 +520,9 @@ Even a child will eat only the candy that pleases him most. You may put in front
 * Question: How can we avoid minor personality conflicts?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:27
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:27
   :END:
 
 
@@ -539,9 +539,9 @@ You can also do something else when minor conflicts arise. Feel that these confl
 * Question: What should our attitude be in regard to the competitive spirit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FIF:28
+  :genre: qa
+  :keywords:
+  :cite-key: FIF:28
   :END:
 
 

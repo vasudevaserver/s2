@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0254
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: dd
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0254
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: dd
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1. Dedication
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:1
+  :genre: poem
+  :keywords:
+  :cite-key: dd:1
   :END:
 
 
@@ -42,9 +42,9 @@ In earth's heart.
 * 2. Surrender
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:2
+  :genre: poem
+  :keywords:
+  :cite-key: dd:2
   :END:
 
 
@@ -66,9 +66,9 @@ Of the finite itself.
 * 3. Consciousness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:3
+  :genre: poem
+  :keywords:
+  :cite-key: dd:3
   :END:
 
 
@@ -86,9 +86,9 @@ Heaven's satisfaction-smile.
 * 4. Purity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:4
+  :genre: poem
+  :keywords:
+  :cite-key: dd:4
   :END:
 
 
@@ -106,9 +106,9 @@ Immortality.
 * 5. Light
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:5
+  :genre: poem
+  :keywords:
+  :cite-key: dd:5
   :END:
 
 
@@ -127,9 +127,9 @@ Immortality's Depth.
 * 6. Cosmos
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:6
+  :genre: poem
+  :keywords:
+  :cite-key: dd:6
   :END:
 
 
@@ -152,9 +152,9 @@ Itself.
 * 7. Consistency
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:7
+  :genre: poem
+  :keywords:
+  :cite-key: dd:7
   :END:
 
 
@@ -174,9 +174,9 @@ God-satisfaction.
 * 8. Courage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:8
+  :genre: poem
+  :keywords:
+  :cite-key: dd:8
   :END:
 
 
@@ -196,9 +196,9 @@ Here on earth.
 * 9. Peace
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:9
+  :genre: poem
+  :keywords:
+  :cite-key: dd:9
   :END:
 
 
@@ -218,9 +218,9 @@ The life divine.
 * 10. Life
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:10
+  :genre: poem
+  :keywords:
+  :cite-key: dd:10
   :END:
 
 
@@ -245,9 +245,9 @@ The reality-sun.
 * 11. Worship
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:11
+  :genre: poem
+  :keywords:
+  :cite-key: dd:11
   :END:
 
 
@@ -274,9 +274,9 @@ Not even we ourselves.
 * 12. Devotion
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:12
+  :genre: poem
+  :keywords:
+  :cite-key: dd:12
   :END:
 
 
@@ -295,9 +295,9 @@ Unmanifested divinity.
 * 13. Detachment
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:13
+  :genre: poem
+  :keywords:
+  :cite-key: dd:13
   :END:
 
 
@@ -329,9 +329,9 @@ In and through each human being.
 * 14. Humility
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:14
+  :genre: poem
+  :keywords:
+  :cite-key: dd:14
   :END:
 
 
@@ -352,9 +352,9 @@ Consciousness-reality in us.
 * 15. Union
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:15
+  :genre: poem
+  :keywords:
+  :cite-key: dd:15
   :END:
 
 
@@ -373,9 +373,9 @@ Is God-Satisfaction in us.
 * 16. Simplicity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:16
+  :genre: poem
+  :keywords:
+  :cite-key: dd:16
   :END:
 
 
@@ -397,9 +397,9 @@ Is the fourth and highest.
 * 17. Transformation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:17
+  :genre: poem
+  :keywords:
+  :cite-key: dd:17
   :END:
 
 
@@ -421,9 +421,9 @@ On earth.
 * 18. Work
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:18
+  :genre: poem
+  :keywords:
+  :cite-key: dd:18
   :END:
 
 
@@ -443,9 +443,9 @@ Of our eternal Pilot Supreme.
 * 19. Love
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:19
+  :genre: poem
+  :keywords:
+  :cite-key: dd:19
   :END:
 
 
@@ -475,9 +475,9 @@ For us.
 * 20. Delight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:20
+  :genre: poem
+  :keywords:
+  :cite-key: dd:20
   :END:
 
 
@@ -499,9 +499,9 @@ For us.
 * 21. Sincerity
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:21
+  :genre: poem
+  :keywords:
+  :cite-key: dd:21
   :END:
 
 
@@ -523,9 +523,9 @@ For us.
 * 22. Patience
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:22
+  :genre: poem
+  :keywords:
+  :cite-key: dd:22
   :END:
 
 
@@ -546,9 +546,9 @@ To see the face of satisfaction-light.
 * 23. Manifestation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:23
+  :genre: poem
+  :keywords:
+  :cite-key: dd:23
   :END:
 
 
@@ -571,9 +571,9 @@ Is Reality absolute.
 * 24. Silence and sound
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:24
+  :genre: poem
+  :keywords:
+  :cite-key: dd:24
   :END:
 
 
@@ -600,9 +600,9 @@ Are of paramount importance.
 * 25. Dynamism
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:25
+  :genre: poem
+  :keywords:
+  :cite-key: dd:25
   :END:
 
 
@@ -626,9 +626,9 @@ God satisfaction.
 * 26. Joy
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:26
+  :genre: poem
+  :keywords:
+  :cite-key: dd:26
   :END:
 
 
@@ -649,9 +649,9 @@ Voice.
 * 27. Soulful invocation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:27
+  :genre: poem
+  :keywords:
+  :cite-key: dd:27
   :END:
 
 
@@ -668,9 +668,9 @@ To the seeker's promise-heart.
 * 28. God's Feet
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:28
+  :genre: poem
+  :keywords:
+  :cite-key: dd:28
   :END:
 
 
@@ -693,9 +693,9 @@ For our own use.
 * 29. Patience
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:29
+  :genre: poem
+  :keywords:
+  :cite-key: dd:29
   :END:
 
 
@@ -722,9 +722,9 @@ At His own time.
 * 30. Family
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:30
+  :genre: poem
+  :keywords:
+  :cite-key: dd:30
   :END:
 
 
@@ -758,9 +758,9 @@ Here on earth.
 * 31. Gratitude-flower
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:31
+  :genre: poem
+  :keywords:
+  :cite-key: dd:31
   :END:
 
 
@@ -786,9 +786,9 @@ And, at the same time, for me.
 * 32. God-Realisation
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:32
+  :genre: poem
+  :keywords:
+  :cite-key: dd:32
   :END:
 
 
@@ -813,9 +813,9 @@ For His constant Satisfaction.
 * 33. Supreme's Justice
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:33
+  :genre: poem
+  :keywords:
+  :cite-key: dd:33
   :END:
 
 
@@ -837,9 +837,9 @@ In His eternal Perfection-Height.
 * 34. Love
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:34
+  :genre: poem
+  :keywords:
+  :cite-key: dd:34
   :END:
 
 
@@ -862,9 +862,9 @@ Of Delight.
 * 35. Surrender
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:35
+  :genre: poem
+  :keywords:
+  :cite-key: dd:35
   :END:
 
 
@@ -897,9 +897,9 @@ In me.
 * 36. Delight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:36
+  :genre: poem
+  :keywords:
+  :cite-key: dd:36
   :END:
 
 
@@ -935,9 +935,9 @@ Which is equally Delight."
 * 37. Truth
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:37
+  :genre: poem
+  :keywords:
+  :cite-key: dd:37
   :END:
 
 
@@ -964,9 +964,9 @@ Is the only Truth.
 * 38. Discipline
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:38
+  :genre: poem
+  :keywords:
+  :cite-key: dd:38
   :END:
 
 
@@ -991,9 +991,9 @@ With the world of outer dedication.
 * 39. Song
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:39
+  :genre: poem
+  :keywords:
+  :cite-key: dd:39
   :END:
 
 
@@ -1016,9 +1016,9 @@ Constant self-giving.
 * 40. Bliss
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:40
+  :genre: poem
+  :keywords:
+  :cite-key: dd:40
   :END:
 
 
@@ -1044,9 +1044,9 @@ Wants me to.
 * 41. Courage
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:41
+  :genre: poem
+  :keywords:
+  :cite-key: dd:41
   :END:
 
 
@@ -1068,9 +1068,9 @@ To live in the vast receptivity of the dynamic vital.
 * 42. Sacrifice
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:42
+  :genre: poem
+  :keywords:
+  :cite-key: dd:42
   :END:
 
 
@@ -1107,9 +1107,9 @@ Oneness-dance.
 * 43. Faith
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:43
+  :genre: poem
+  :keywords:
+  :cite-key: dd:43
   :END:
 
 
@@ -1135,9 +1135,9 @@ In His Dream of Eternity.
 * 44. Humility
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:44
+  :genre: poem
+  :keywords:
+  :cite-key: dd:44
   :END:
 
 
@@ -1163,9 +1163,9 @@ The Goal itself.
 * 45. Gratitude
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:45
+  :genre: poem
+  :keywords:
+  :cite-key: dd:45
   :END:
 
 
@@ -1191,9 +1191,9 @@ The Absolute Supreme.
 * 46. Oneness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:46
+  :genre: poem
+  :keywords:
+  :cite-key: dd:46
   :END:
 
 
@@ -1217,9 +1217,9 @@ The Divine without.
 * 47. Willpower
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:47
+  :genre: poem
+  :keywords:
+  :cite-key: dd:47
   :END:
 
 
@@ -1242,9 +1242,9 @@ The Supreme.
 * 48. Oneness
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:48
+  :genre: poem
+  :keywords:
+  :cite-key: dd:48
   :END:
 
 
@@ -1267,9 +1267,9 @@ In the evening.
 * 49. Perfection
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:49
+  :genre: poem
+  :keywords:
+  :cite-key: dd:49
   :END:
 
 
@@ -1288,9 +1288,9 @@ Fulfils itself in compassion-delight.
 * 50. Independence-day
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: dd:50
+  :genre: poem
+  :keywords:
+  :cite-key: dd:50
   :END:
 
 

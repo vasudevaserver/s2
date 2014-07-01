@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1057
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: ASPH-1
-  :GENRE: song
+  :book-number: 1057
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: ASPH-1
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ASPH:1e1
+  :genre: note
+  :cite-key: ASPH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ASPH:1e2
+  :genre: note
+  :cite-key: ASPH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Homer Bahni Shikha Lelihan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:1
+  :cite-key: ASPH:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Dao more paramer sandhan
 * Pashan Debata Pashan Debata Debata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:2
+  :cite-key: ASPH:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Keno nahi hero amar bhakati ujan tuphan
 * Kripamoyi Mago Tomar Payer Tale Phutbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:3
+  :cite-key: ASPH:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Phutbo ami prati bhore chokher jale
 * Amar Hiyar Bishal Akashe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:4
+  :cite-key: ASPH:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Param prabhur kripar lagiya hayeche akul
 * Hiya Amar Jane Jane Sadhan Bina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:5
+  :cite-key: ASPH:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Pabena kabhu mama prabhur madhur pada darashan
 * Bishwa Janani Tomar Karuna Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:6
+  :cite-key: ASPH:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Ananda dhane amar bandhan hara
 * Jani Mago Khama Asim Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:7
+  :cite-key: ASPH:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Dao go more bhakti kana amar khudra jibane
 * Kothai Ore Amar Hiyar Pujanjali Bihane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:8
+  :cite-key: ASPH:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Bihane tor agyanata dei je amai bali
 * Bindu Ami Rabo Bindu Sindhu Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:9
+  :cite-key: ASPH:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Rasmi ami rabo rasmi sindhu hate chahina
 * Kandi Ami Tomar Paye Keno More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:10
+  :cite-key: ASPH:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Kandi ami tomar buke keno ami phutina
 * Swalpe Tushta Hate Chahi Swalpe Tushta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:11
+  :cite-key: ASPH:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Tomar kripa bindu shudhu karbe pushta
 * Mayer Puja Habe Ebar Mayer Puja Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:12
+  :cite-key: ASPH:12
   :END:
 
 #+BEGIN_VERSE
@@ -245,10 +245,10 @@ Mayer bani shunbo ami dharar kalarabe
 * Amar Bahir Jibane Mandire Nai Pujari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:13
+  :cite-key: ASPH:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Amar bithar jibane parabare nai dishari
 * Taba Kripa Bina Ami Asohai Mago Ati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:14
+  :cite-key: ASPH:14
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ Ei kotha jeno hriday amar nahi kabhu bhule jai
 * Dako Amai Shyama Mago Dako Ekti Bar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:15
+  :cite-key: ASPH:15
   :END:
 
 #+BEGIN_VERSE
@@ -296,10 +296,10 @@ Tomar paye rakhte chahi agyanatar bhar
 * Amar Maner Pap Kali Tui Je Tuchchha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:16
+  :cite-key: ASPH:16
   :END:
 
 #+BEGIN_VERSE
@@ -313,10 +313,10 @@ Bhulishnare ei kotha tui je amar biphalata
 * Maha kali Tomai Keno Kari Mago Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:17
+  :cite-key: ASPH:17
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ Tomar kripai habe amar malin maner khoy
 * Amar Kripamoyi Mayer Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:18
+  :cite-key: ASPH:18
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Ekti name pujle pabo mahananda dham
 * Shashan Bhumite Ghuri Ami Kato Shashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:19
+  :cite-key: ASPH:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Naba jibaner sandhani haye tomare pujite
 * Maner Bane Ghure Berai Andhar Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:20
+  :cite-key: ASPH:20
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ Tomar hasi tomar khama charidhare jani jani tomar habe joy
 * Samukhe Amar Karunarupini Bhubhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:21
+  :cite-key: ASPH:21
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Hasiya nachiya pujibo tomare diye mago karatali
 * Bhakti Pradip Jwale Amar Bhakti Pradip
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:22
+  :cite-key: ASPH:22
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Taito ami heri amai tomar charan tale
 * Ma Ma Ma Ma Kripamoyi Mago Shyama Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:23
+  :cite-key: ASPH:23
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Mukti giti geye aji amar hiyai jago
 * Pataner Bhoye Haye Asohai Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:24
+  :cite-key: ASPH:24
   :END:
 
 #+BEGIN_VERSE
@@ -449,10 +449,10 @@ Andhiyar ghor dangsha danab heri dashadishi
 * Kandte Chahi Haste Chahi Tomai Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:25
+  :cite-key: ASPH:25
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Jiban maran sanpechi aj tomar nayan tushite
 * Amar Mayer Ratul Charana Kamale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:26
+  :cite-key: ASPH:26
   :END:
 
 #+BEGIN_VERSE
@@ -483,10 +483,10 @@ Phutechi ajike saral shishur amale
 * He Bandhu Sreshtha Kothai Ogo Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:27
+  :cite-key: ASPH:27
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Tumi bina mithya deshe ghure berai sarba hara
 * Dayamoyi Mayer Kole Esechi Aj Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:28
+  :cite-key: ASPH:28
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ Chokher jale khama magi ami nata shire
 * Nil Akashe Rabi Sama Hiyakashe Phutbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:29
+  :cite-key: ASPH:29
   :END:
 
 #+BEGIN_VERSE
@@ -534,10 +534,10 @@ Dharar bandhan ek nimeshe tutbo ami tutbo
 * Amar Namer Jasher Mala Seto Hiyar Jala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:30
+  :cite-key: ASPH:30
   :END:
 
 #+BEGIN_VERSE
@@ -551,10 +551,10 @@ Amar mayer bijoy mala karbe sabi ala
 * Amarar Santan Ami Dur Amarar Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:31
+  :cite-key: ASPH:31
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Dhara gahane joyi habo ami chira durbar
 * Lilamoyi Tomar Lilai Chahi Ami Jog Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:32
+  :cite-key: ASPH:32
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Akul haye cheye achi eso mago aj nite
 * Hiya Pure Prabhur Nupur Baje Ami Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:33
+  :cite-key: ASPH:33
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ Agyanatar nirab alo aji ami hani ami nashi
 * Tomar Hasi Jilikane Amar Rupantar Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:34
+  :cite-key: ASPH:34
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Tomai ami tushbo ami mago nirantar
 * Sukhaye Gelo Je Amar Ankhir Jal Bahu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:35
+  :cite-key: ASPH:35
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ Bahu dure tabu tomar charana tal
 * Phul Phute Nirabe Phul Phute Andhare Phul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:36
+  :cite-key: ASPH:36
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Phul dake sabare prabhu hiya duare
 * Bhakti Bina Shakti Nahi Mile Bhakti Ghumai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:37
+  :cite-key: ASPH:37
   :END:
 
 #+BEGIN_VERSE
@@ -670,10 +670,10 @@ Bhakti ghumai hiya nahi dile
 * Chitta Purush Param Purush Dake Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:38
+  :cite-key: ASPH:38
   :END:
 
 #+BEGIN_VERSE
@@ -687,10 +687,10 @@ Baddha tabu keno ami maya moher phanke
 * Mrinmoyi Chokhe Chinmoyi Rup Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:39
+  :cite-key: ASPH:39
   :END:
 
 #+BEGIN_VERSE
@@ -704,10 +704,10 @@ Tomare pujite karibona ar deri
 * Banshari Kahar Bajiche Hriday Gabhire Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:40
+  :cite-key: ASPH:40
   :END:
 
 #+BEGIN_VERSE
@@ -723,10 +723,10 @@ Ke amare kahe urite ushar samire
 * Dharmer Ved Charidhare Heri Tai Nahi Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:41
+  :cite-key: ASPH:41
   :END:
 
 #+BEGIN_VERSE
@@ -740,10 +740,10 @@ Ekata dharme phutibe dharai  madhumoy puta kanti
 * Ar Katokal Rahibo Bendhe Ami Maha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:42
+  :cite-key: ASPH:42
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Dekhbona ki kabhu ami mukti tapan amar bhale
 * Bed Vedanta Lakhbena Mor Lakhbe Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:43
+  :cite-key: ASPH:43
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Mayer paye phutuk amar jiban maran sab swapan
 * Sarba Mangala Dashabhuja Sarba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:44
+  :cite-key: ASPH:44
   :END:
 
 #+BEGIN_VERSE
@@ -791,10 +791,10 @@ Nehari jena taba puja kari jena go taba puja
 * Ghume Jagarane Karuna Nayane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:45
+  :cite-key: ASPH:45
   :END:
 
 #+BEGIN_VERSE
@@ -808,10 +808,10 @@ Keno nahi chai tomare dakite amar hridaye kabhu
 * Hridayer Shatadale Heri Taba Ankhi Tabu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:46
+  :cite-key: ASPH:46
   :END:
 
 #+BEGIN_VERSE
@@ -825,10 +825,10 @@ Tabu hai dite chahi ami prabhu phanki
 * Shanti Pataka Urabo Ajike Mukti Gagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:47
+  :cite-key: ASPH:47
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ Nutan abani phuti ache aji ekata swapane
 * Krishna Charan Puji Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:48
+  :cite-key: ASPH:48
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Taito halo purna amar sakal manas kam
 * Nanda Dulal Sathi Amar Nanda Dulal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:49
+  :cite-key: ASPH:49
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ Taito amar jibane ar nai je bhejal
 * Bangshidhari Krishna Amar Kon Sudhure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-12-1994
-  :CITE-KEY: ASPH:50
+  :cite-key: ASPH:50
   :END:
 
 #+BEGIN_VERSE

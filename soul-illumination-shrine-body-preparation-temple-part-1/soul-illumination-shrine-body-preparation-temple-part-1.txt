@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0693
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1985
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SIS-1
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0693
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1985
+  :publisher: Agni Press
+  :cite-key: SIS-1
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:1e1
+  :genre: note
+  :keywords:
+  :cite-key: SIS:1e1
   :END:
 
 
@@ -43,9 +43,9 @@ Sri Chinmoy
 * Sri Chinmoy's progress in weightlifting
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:1e2
+  :genre: note
+  :keywords:
+  :cite-key: SIS:1e2
   :END:
 
 
@@ -78,9 +78,9 @@ Below is a record of Sri Chinmoy's progress in weightlifting.
 * Part I
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:1e3
+  :genre: note
+  :keywords:
+  :cite-key: SIS:1e3
   :END:
 
 
@@ -91,9 +91,9 @@ Below is a record of Sri Chinmoy's progress in weightlifting.
 * Franco Columbu: How important are yoga stretching exercises to the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:1
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:1
   :END:
 
 
@@ -106,9 +106,9 @@ I have a few students who are extremely good at stretching exercises. But unfort
 * Franco Columbu: Are there yoga stretching exercises which benefit nerve conduction or nerve supply to the muscles?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:2
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:2
   :END:
 
 
@@ -119,9 +119,9 @@ I have a few students who are extremely good at stretching exercises. But unfort
 * Franco Columbu: What will be the percentage of change or help to the mind when one does bodybuilding?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:3
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:3
   :END:
 
 
@@ -136,9 +136,9 @@ A strong mind is a mind that has conquered or can easily conquer the power of ne
 * Franco Columbu: What will be the change in the mind when someone is training professionally in comparison to someone who is not training professionally?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:4
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:4
   :END:
 
 
@@ -155,9 +155,9 @@ Of course, in success there can also be progress, since one usually has to reach
 * Part II
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:5e1
+  :genre: note
+  :keywords:
+  :cite-key: SIS:5e1
   :END:
 
 
@@ -178,9 +178,9 @@ Of course, in success there can also be progress, since one usually has to reach
 * Mary Roberts: I have been bodybuilding for approximately seven years. I find that now I am very interested in helping other women learn to compete. Do you feel this is a proper attitude for a champion to have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:5
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:5
   :END:
 
 
@@ -193,9 +193,9 @@ If you live only in the world of personal success, then perhaps it would be a mi
 * Ken Hall: I've been bodybuilding for over 40 years now. I've watched many changes come to this sport. One of the most significant changes in recent years is the ever-increasing number of women who are entering this field. I feel this is a wonderful change, both for women and for bodybuilding in general. Do you agree?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:6
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:6
   :END:
 
 
@@ -206,9 +206,9 @@ If you live only in the world of personal success, then perhaps it would be a mi
 * Terri Locicero: When I'm competing on stage and it is not going well -- for instance, if the audience is not applauding or there is a technical problem with my back-up music -- I have to struggle not to lose my concentration. How can I keep poised when problems arise?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:7
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:7
   :END:
 
 
@@ -219,9 +219,9 @@ If you live only in the world of personal success, then perhaps it would be a mi
 * Terri Locicero: When I win a contest, I'm on top of the world; I'm so happy! When I lose, I worry too much about why that happened. How can I learn to keep a proper balance when I compete in a contest?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:8
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:8
   :END:
 
 
@@ -232,9 +232,9 @@ If you live only in the world of personal success, then perhaps it would be a mi
 * Nina Schoenbaum: They say in bodybuilding, "No pain, no gain." To me, that sounds ridiculous. I've never been in pain. Bodybuilding is the fountain of youth -- you get stronger as you go along. I've made gains without pain. Why do people feel they have to hurt themselves to improve themselves?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:9
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:9
   :END:
 
 
@@ -249,9 +249,9 @@ Everything has a capacity of its own. This capacity has to be increased intellig
 * Jean Laguerre: When I feel that I've honestly done my best, how can I feel that the outcome of the competition has been fair and just, if I didn't win?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:10
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:10
   :END:
 
 
@@ -262,9 +262,9 @@ Everything has a capacity of its own. This capacity has to be increased intellig
 * Part III
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:11e1
+  :genre: note
+  :keywords:
+  :cite-key: SIS:11e1
   :END:
 
 
@@ -275,9 +275,9 @@ Everything has a capacity of its own. This capacity has to be increased intellig
 * Question: How much of heavy lifting is mental preparation and how much is physical preparation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:11
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:11
   :END:
 
 
@@ -290,9 +290,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: How do you mentally prepare yourself to lift a weight that is much heavier than your training weight?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:12
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:12
   :END:
 
 
@@ -303,9 +303,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: Do you actually meditate on the weight itself before you lift it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:13
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:13
   :END:
 
 
@@ -316,9 +316,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: If a seeker has physical strength, what other quality does he need most?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:14
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:14
   :END:
 
 
@@ -329,9 +329,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: How do the qualities of strength and power differ?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:15
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:15
   :END:
 
 
@@ -342,9 +342,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: How can an athlete use his soul-power to increase his mental and physical strength?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:16
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:16
   :END:
 
 
@@ -355,9 +355,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: How can I use my strength to please God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:17
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:17
   :END:
 
 
@@ -368,9 +368,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: What type of strength challenges overwhelming ignorance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:18
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:18
   :END:
 
 
@@ -381,9 +381,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: What is the connection between weight training, will power, determination and spiritual aspiration?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:19
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:19
   :END:
 
 
@@ -394,9 +394,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: What is the inner aspect of the quality of virility?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:20
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:20
   :END:
 
 
@@ -407,9 +407,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: Sometimes I wonder why we take the trouble to compete in weightlifting or bodybuilding.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:21
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:21
   :END:
 
 
@@ -420,9 +420,9 @@ Many times when I look at the weight that I have lifted, my mind gets confused a
 * Question: If a person has a job in which he does heavy work or heavy lifting, is that as beneficial for the body as weightlifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:22
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:22
   :END:
 
 
@@ -435,9 +435,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: When one acquires physical strength, do other positive or negative qualities come with it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:23
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:23
   :END:
 
 
@@ -448,9 +448,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: How can you build a well-developed body and not become vain in the process?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:24
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:24
   :END:
 
 
@@ -461,9 +461,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Are bodybuilders over-concerned with their physical?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:25
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:25
   :END:
 
 
@@ -474,9 +474,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Does lifting weights cause the vital to become more aggressive?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:26
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:26
   :END:
 
 
@@ -487,9 +487,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Does serious weight training tend to make an ordinary person's consciousness more aggressive?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:27
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:27
   :END:
 
 
@@ -500,9 +500,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Why is it that after a very demanding weightlifting workout we feel more relaxed, more at peace with ourselves, purer and less aggressive?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:28
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:28
   :END:
 
 
@@ -513,9 +513,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Is there any difference between the effect of weight training on a woman's consciousness compared to a man's?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:29
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:29
   :END:
 
 
@@ -526,9 +526,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Can a woman ever be too muscular?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:30
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:30
   :END:
 
 
@@ -539,9 +539,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Would women benefit more from weightlifting or from bodybuilding?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:31
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:31
   :END:
 
 
@@ -552,9 +552,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: In weightlifting, how much does the idea of failure hold back your progress in training or competition?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:32
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:32
   :END:
 
 
@@ -565,9 +565,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Can you get rid of an injury by lifting weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:33
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:33
   :END:
 
 
@@ -578,9 +578,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: Do muscles get happier when they are trained on weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:34
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:34
   :END:
 
 
@@ -591,9 +591,9 @@ If both a seeker and a non-seeker have physical strength, the seeker will get mo
 * Question: With the advent of plant steroids and the genetic restructuring of growth hormones to eliminate unwanted side effects, do you foresee an acceptance of steroid use?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:35
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:35
   :END:
 
 
@@ -606,9 +606,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: A very famous Russian gold-medal Olympic weightlifting champion described intense moments of joy while lifting heavy weights in competition. He called these moments "white light experiences." What was he experiencing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:36
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:36
   :END:
 
 
@@ -619,9 +619,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: What is the relationship between God the Supreme Weightlifter, God the Supreme Runner and God the Supreme Musician?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:37
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:37
   :END:
 
 
@@ -632,9 +632,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: How far can your students go as strength athletes?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:38
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:38
   :END:
 
 
@@ -645,9 +645,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: Is weightlifting an end in itself, or is it better to do it in conjunction with another sport?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:39
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:39
   :END:
 
 
@@ -658,9 +658,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: How much weight training do we need to do to supplement our running?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:40
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:40
   :END:
 
 
@@ -671,9 +671,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: Is it really possible to be a great weightlifter and a great runner at the same time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:41
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:41
   :END:
 
 
@@ -684,9 +684,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: You have said that for physical fitness, it is not necessary for your students to lift more than 30 pounds, except for the few who practise weightlifting seriously. But if we practised weightlifting in the past, can we now start weightlifting again with the goal to lift much higher weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:42
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:42
   :END:
 
 
@@ -697,9 +697,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: As a sprinter, what can I do to make my calves bigger? I've tried many things.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:43
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:43
   :END:
 
 
@@ -710,9 +710,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: How much weightlifting should I do in connection with training to swim the English Channel?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:44
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:44
   :END:
 
 
@@ -723,9 +723,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: Do you feel that your weightlifting represents one of your greatest physical achievements?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:45
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:45
   :END:
 
 
@@ -736,9 +736,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: How did you decide to start lifting weights? Did it happen gradually or just suddenly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:46
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:46
   :END:
 
 
@@ -749,9 +749,9 @@ So my ardent prayer to man and God is for people to use nothing unnatural, for t
 * Question: Why have you taken up weightlifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:47
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:47
   :END:
 
 
@@ -766,9 +766,9 @@ From the outer point of view, I have taken up weightlifting because my knee inju
 * Question: What warm-up exercises do you do before you try a heavy lift?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:48
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:48
   :END:
 
 
@@ -785,9 +785,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Is there any particular exercise that you do not feel like doing when you first start training in the morning?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:49
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:49
   :END:
 
 
@@ -798,9 +798,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: When you lift those incredibly heavy weights, do you feel that you are lifting a little bit of the darkness and ignorance of the whole universe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:50
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:50
   :END:
 
 
@@ -811,9 +811,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: When you lift extremely heavy weights, are you using the cosmic strength that comes from Heaven, or is it actually human physical strength? When I saw you lift the 106 1/4 pounds, I felt I saw the spark of energy that created the universe!
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:51
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:51
   :END:
 
 
@@ -824,9 +824,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: In your strength training, which quality is your greatest ally?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:52
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:52
   :END:
 
 
@@ -837,9 +837,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Are there any tricks that you use to help you concentrate when lifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:53
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:53
   :END:
 
 
@@ -850,9 +850,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: When you achieve a goal that you have set for yourself, such as lifting 155 pounds, what inner experiences do you have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:54
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:54
   :END:
 
 
@@ -863,9 +863,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: In the one-arm military press, what do you feel is the ultimate a human being can do right now?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:55
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:55
   :END:
 
 
@@ -876,9 +876,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Do you appreciate weightlifting or bodybuilding more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:56
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:56
   :END:
 
 
@@ -889,9 +889,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Do you feel any younger since you have been lifting weights?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:57
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:57
   :END:
 
 
@@ -902,9 +902,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Did your physical get more tired from the intense training when you were running a lot than it does from the intense weight training?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:58
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:58
   :END:
 
 
@@ -915,9 +915,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: If you had a body like Arnold Schwarzenegger or Frank Zane, would this give you great joy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:59
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:59
   :END:
 
 
@@ -928,9 +928,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: What lessons can we learn in the inner world and in the outer world from your weightlifting?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:60
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:60
   :END:
 
 
@@ -941,9 +941,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Question: Because we can see your new physical strength with our outer eyes, does it help us spiritually?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SIS:61
+  :genre: qa
+  :keywords:
+  :cite-key: SIS:61
   :END:
 
 
@@ -954,9 +954,9 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 * Editor's preface to the first edition
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SIS:62e1
+  :genre: note
+  :keywords:
+  :cite-key: SIS:62e1
   :END:
 
 

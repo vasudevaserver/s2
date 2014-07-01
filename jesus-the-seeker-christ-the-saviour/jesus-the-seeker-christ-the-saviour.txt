@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 783
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1990
-  :PUBLISHER:
-  :CITE-KEY: JSCS
-  :GENRE: song
+  :book-number: 783
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1990
+  :publisher:
+  :cite-key: JSCS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JSCS:1e1
+  :genre: note
+  :cite-key: JSCS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JSCS:1e2
+  :genre: note
+  :cite-key: JSCS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Man Shall Not Live by Bread Alone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:1
+  :cite-key: JSCS:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Matthew 4:4]
 * I Will Make You Fishers of Men
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:2
+  :cite-key: JSCS:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Matthew 4:19]
 * Blessed Are the Pure in Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:3
+  :cite-key: JSCS:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Matthew 5:8]
 * Blessed Are the Peacemakers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:4
+  :cite-key: JSCS:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ Matthew 5:9]
 * My God, Why Hast Thou Forsaken Me?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:5
+  :cite-key: JSCS:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Matthew 27:46]
 * Not My Will, But Thine, Be Done
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:6
+  :cite-key: JSCS:6
   :END:
 
 #+BEGIN_VERSE
@@ -149,10 +149,10 @@ Luke 22:42]
 * He That Is Not with Me Is Against Me (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-12-1981
-  :CITE-KEY: JSCS:7
+  :cite-key: JSCS:7
   :END:
 
 #+BEGIN_VERSE
@@ -167,10 +167,10 @@ Matthew 12:30]
 * Father, Forgive Them (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-12-1981
-  :CITE-KEY: JSCS:8
+  :cite-key: JSCS:8
   :END:
 
 #+BEGIN_VERSE
@@ -187,10 +187,10 @@ Luke 23:24]
 * What Shall It Profit a Man?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-12-1981
-  :CITE-KEY: JSCS:9
+  :cite-key: JSCS:9
   :END:
 
 #+BEGIN_VERSE
@@ -206,10 +206,10 @@ Mark 8:36]
 * Let Not Thy Left Hand Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-12-1981
-  :CITE-KEY: JSCS:10
+  :cite-key: JSCS:10
   :END:
 
 #+BEGIN_VERSE
@@ -224,10 +224,10 @@ Matthew 6:3]
 * He That Endureth to the End
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-12-1981
-  :CITE-KEY: JSCS:11
+  :cite-key: JSCS:11
   :END:
 
 #+BEGIN_VERSE
@@ -242,10 +242,10 @@ Matthew 10:22]
 * The Kingdom of Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1981
-  :CITE-KEY: JSCS:12
+  :cite-key: JSCS:12
   :END:
 
 #+BEGIN_VERSE
@@ -260,10 +260,10 @@ Luke 17:21]
 * I and My Father Are One
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-12-1981
-  :CITE-KEY: JSCS:13
+  :cite-key: JSCS:13
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ John 10:30]
 * I Am Alpha and Omega
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:14
+  :cite-key: JSCS:14
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Revelation 22:13]
 * There Is No Fear in Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:15
+  :cite-key: JSCS:15
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ There is no fear in love, but perfect love casteth out fear.
 * He Shall Rule Them
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:16
+  :cite-key: JSCS:16
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ He shall rule them with a rod of iron.
 * Charity Shall Cover
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:17
+  :cite-key: JSCS:17
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Charity shall cover the multitude of sins.
 * The Love of Money
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:18
+  :cite-key: JSCS:18
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ The love of money is the root of all evils.
 * God Is No Respecter of Persons
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:19
+  :cite-key: JSCS:19
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ God is no respecter of persons.
 * Many Are Called, Few Are Chosen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:20
+  :cite-key: JSCS:20
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Matthew 22:14]
 * Get Thee Behind Me, Satan!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:21
+  :cite-key: JSCS:21
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ Get thee behind me, Satan!
 * Father, Forgive Them (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:22
+  :cite-key: JSCS:22
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +440,10 @@ Luke 23:24]
 * He That Is Not With Me Is Against Me (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:23
+  :cite-key: JSCS:23
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Matthew 12:30]
 * A Prophet Is Not Without Honour
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:24
+  :cite-key: JSCS:24
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ Mark 6:4]
 * No Man Can Serve Two Masters
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:25
+  :cite-key: JSCS:25
   :END:
 
 #+BEGIN_VERSE
@@ -494,10 +494,10 @@ Matthew 6:24]
 * Where There Is No Vision
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:26
+  :cite-key: JSCS:26
   :END:
 
 #+BEGIN_VERSE
@@ -511,10 +511,10 @@ Where there is no vision, the people perish.
 * Dust Thou Art
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:27
+  :cite-key: JSCS:27
   :END:
 
 #+BEGIN_VERSE
@@ -528,10 +528,10 @@ Dust thou art, and unto dust shalt thou return.
 * Thou Shalt Have
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:28
+  :cite-key: JSCS:28
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Exodus 20:3]
 * Thou Shalt Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:29
+  :cite-key: JSCS:29
   :END:
 
 #+BEGIN_VERSE
@@ -565,10 +565,10 @@ Exodus 20:7]
 * My Redeemer Liveth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:30
+  :cite-key: JSCS:30
   :END:
 
 #+BEGIN_VERSE
@@ -583,10 +583,10 @@ Job 19:25]
 * A Still, Small Voice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:31
+  :cite-key: JSCS:31
   :END:
 
 #+BEGIN_VERSE
@@ -601,10 +601,10 @@ A still, small voice.
 * Into Thy Hands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:32
+  :cite-key: JSCS:32
   :END:
 
 #+BEGIN_VERSE
@@ -619,10 +619,10 @@ Luke 23:46]
 * I Am That I Am
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1981
-  :CITE-KEY: JSCS:33
+  :cite-key: JSCS:33
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ I am that I am.
 * Ami Shishu Ami Shishu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1987
-  :CITE-KEY: JSCS:34
+  :cite-key: JSCS:34
   :END:
 
 #+BEGIN_VERSE
@@ -654,10 +654,10 @@ Jatha chhila Jishu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 16-03-1987
-  :CITE-KEY: JSCS:35
+  :cite-key: JSCS:35
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Like Jesus on the lap
 * I Am a Child, an Eternal Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-03-1987
-  :CITE-KEY: JSCS:36
+  :cite-key: JSCS:36
   :END:
 
 #+BEGIN_VERSE
@@ -692,10 +692,10 @@ Like Jesus on the lap
 * Ar Katokal Kandbo Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:37
+  :cite-key: JSCS:37
   :END:
 
 #+BEGIN_VERSE
@@ -714,10 +714,10 @@ Tumi amar bishwa mata Jishur jeman Meri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:38
+  :cite-key: JSCS:38
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ So are You my World-Mother.
 * Baro Anurage Daki Toma Pita Kemane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:39
+  :cite-key: JSCS:39
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Mor jibanere abahele
 * Dharar Buke Esechhilam Eka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:40
+  :cite-key: JSCS:40
   :END:
 
 #+BEGIN_VERSE
@@ -778,10 +778,10 @@ Merir kole jeman Jishu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:41
+  :cite-key: JSCS:41
   :END:
 
 #+BEGIN_VERSE
@@ -802,10 +802,10 @@ I always stay in Your Lap.
 * Janamila Debashishu Jishu Dharatale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:42
+  :cite-key: JSCS:42
   :END:
 
 #+BEGIN_VERSE
@@ -823,10 +823,10 @@ Dharanite prasphutibe alo phule phale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:43
+  :cite-key: JSCS:43
   :END:
 
 #+BEGIN_VERSE
@@ -848,10 +848,10 @@ Inside the flower and fruit-garden
 * Jishu Jishu Baroi Madhur Nam Ti Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-1985
-  :CITE-KEY: JSCS:44
+  :cite-key: JSCS:44
   :END:
 
 #+BEGIN_VERSE
@@ -867,10 +867,10 @@ Tomar pane tani
 * Jishu Tumi Dyuloker Shishu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:45
+  :cite-key: JSCS:45
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ Raye acho sada jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:46
+  :cite-key: JSCS:46
   :END:
 
 #+BEGIN_VERSE
@@ -905,10 +905,10 @@ You sleeplessly remain awake.
 * Jishu Jishu Nam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:47
+  :cite-key: JSCS:47
   :END:
 
 #+BEGIN_VERSE
@@ -925,10 +925,10 @@ Pitar dharar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:48
+  :cite-key: JSCS:48
   :END:
 
 #+BEGIN_VERSE
@@ -955,10 +955,10 @@ And humanity's Father.
 * Jishu Kristo Jishu Kristo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:49
+  :cite-key: JSCS:49
   :END:
 
 #+BEGIN_VERSE
@@ -973,10 +973,10 @@ Baroy mista
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:50
+  :cite-key: JSCS:50
   :END:
 
 #+BEGIN_VERSE
@@ -993,10 +993,10 @@ Nectar-Delight you are.
 * Jishur Swapna Sarga Rajya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-12-1974
-  :CITE-KEY: JSCS:51
+  :cite-key: JSCS:51
   :END:
 
 #+BEGIN_VERSE
@@ -1015,10 +1015,10 @@ Ajike abhyudoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 31-12-1974
-  :CITE-KEY: JSCS:52
+  :cite-key: JSCS:52
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ Of new illumination and new perfection.
 * Kalipada Sarala Abhinna Suphala Nimner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:53
+  :cite-key: JSCS:53
   :END:
 
 #+BEGIN_VERSE
@@ -1060,10 +1060,10 @@ Krister shanti
 * Karuna Mayer Jyotir Dulal Tumi Je Dharar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:54
+  :cite-key: JSCS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1079,10 +1079,10 @@ Rayecho gopane nijere dhaki
 * Khama Karo Pita Agyan Jane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:55
+  :cite-key: JSCS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1097,10 +1097,10 @@ Janibena tara tahar marma
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:56
+  :cite-key: JSCS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1120,10 +1120,10 @@ For their most deplorable fate.
 * Kross Bedanai Pran Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:57
+  :cite-key: JSCS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1139,10 +1139,10 @@ Kantar mukut parinu mathai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:58
+  :cite-key: JSCS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ Is far beyond my capacity to bear.
 * Mukher Katha Jaina Prabhur Kane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:59
+  :cite-key: JSCS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1184,10 +1184,10 @@ Sarba tyaji haye anuragi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:60
+  :cite-key: JSCS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ And become all that you are:
 * Ogo Debashishu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:61
+  :cite-key: JSCS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Shuni taba jaya dhwani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:62
+  :cite-key: JSCS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1254,10 +1254,10 @@ I hear your victory-bell.
 * Ogo Debashishu Meri Kole Jishu Kiba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:63
+  :cite-key: JSCS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1274,10 +1274,10 @@ Geye taba agamani anahata jaya dhwani
 * Pale Pale Prema Bale Pale Pale Kripa Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:64
+  :cite-key: JSCS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ Sundara madhumoy
 * Param Pitare Hasiya Kandiya Basiyacho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:65
+  :cite-key: JSCS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1315,10 +1315,10 @@ Peyeche sabai alo
 * Prabhu Jishu Chira Mahiyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:66
+  :cite-key: JSCS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1335,10 +1335,10 @@ Ghor jiban pashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-04-1976
-  :CITE-KEY: JSCS:67
+  :cite-key: JSCS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1358,10 +1358,10 @@ For what they have is a dark, stone-hearted life.
 * Sabai Amai Pagol Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1975
-  :CITE-KEY: JSCS:68
+  :cite-key: JSCS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1380,10 +1380,10 @@ Bishwajayi habo ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-11-1975
-  :CITE-KEY: JSCS:69
+  :cite-key: JSCS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1406,10 +1406,10 @@ And another Buddha of
 * Samarpaner Sangit Sur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-12-1988
-  :CITE-KEY: JSCS:70
+  :cite-key: JSCS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1425,10 +1425,10 @@ Shreshtha asan labhecho
 * Sonali Baran Madhur Nayan Chapal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: JSCS:71
+  :cite-key: JSCS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1444,10 +1444,10 @@ Swarger naba Jishu
 * Teman Kare Kand Dekhire Man Je Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-05-1976
-  :CITE-KEY: JSCS:72
+  :cite-key: JSCS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1469,10 +1469,10 @@ Jishur karechen rodan
 * He Promised to Return
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-12-1975
-  :CITE-KEY: JSCS:73
+  :cite-key: JSCS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1491,10 +1491,10 @@ With a sword
 * O Saviour Dear
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JSCS:74
+  :cite-key: JSCS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1512,10 +1512,10 @@ I am all yours, sure.
 * I Like Joseph’s Son
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1976
-  :CITE-KEY: JSCS:75
+  :cite-key: JSCS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ He is Immortality’s Love.
 * Father Joseph’s Little Son
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-11-1976
-  :CITE-KEY: JSCS:76
+  :cite-key: JSCS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1557,10 +1557,10 @@ I saw his Heaven-Father’s Smile.
 * He Param Pita He Param Pita Bedanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:77
+  :cite-key: JSCS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1576,10 +1576,10 @@ Ajike more
 * He Param Pita He Param Pita Manabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:78
+  :cite-key: JSCS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1595,10 +1595,10 @@ Tomar lagiya kandite
 * He Param Pita He Param Pita Dharar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:79
+  :cite-key: JSCS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1614,10 +1614,10 @@ Charane sanpibo
 * He Param Pita He Param Pita Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:80
+  :cite-key: JSCS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1633,10 +1633,10 @@ Sabar param nidhi
 * He Param Pita He Param Pita Na Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:81
+  :cite-key: JSCS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1652,10 +1652,10 @@ Tomar dibya jadu
 * He Param Pita He Param Pita Ami Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:82
+  :cite-key: JSCS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1671,10 +1671,10 @@ Ami je tomar khamar hriday
 * He Param Pita He Param Pita Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:83
+  :cite-key: JSCS:83
   :END:
 
 #+BEGIN_VERSE
@@ -1690,10 +1690,10 @@ Hok taba joy hok
 * He Param Pita He Param Pita Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:84
+  :cite-key: JSCS:84
   :END:
 
 #+BEGIN_VERSE
@@ -1709,10 +1709,10 @@ Dharanir buke asiyachi aji ami
 * He Param Pita Tomar Swapan Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:85
+  :cite-key: JSCS:85
   :END:
 
 #+BEGIN_VERSE
@@ -1726,10 +1726,10 @@ Amare diyecho tomar kripar bale
 * He Param Pita He Param Pita Tumi Ar Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:86
+  :cite-key: JSCS:86
   :END:
 
 #+BEGIN_VERSE
@@ -1745,10 +1745,10 @@ Dharanite habe ei mor maha dan
 * He Param Pita He Param Pita Swarga
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:87
+  :cite-key: JSCS:87
   :END:
 
 #+BEGIN_VERSE
@@ -1764,10 +1764,10 @@ Ei maha mor pan
 * He Param Pita He Param Pita Tumi Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:88
+  :cite-key: JSCS:88
   :END:
 
 #+BEGIN_VERSE
@@ -1785,10 +1785,10 @@ Amar jibane
 * O He Param Pita He Param Pita Bhuliya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-1984
-  :CITE-KEY: JSCS:89
+  :cite-key: JSCS:89
   :END:
 
 #+BEGIN_VERSE

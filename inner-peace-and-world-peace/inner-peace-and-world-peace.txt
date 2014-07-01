@@ -7,14 +7,14 @@
 * Index
 
  :PROPERTIES:
- :BOOK-NUMBER: 0881
- :AUTHOR: Sri Chinmoy
- :ORIGINAL-EDITION: True
- :YEAR: 1992
- :PUBLISHER: Agni Press
- :CITE-KEY: IPWP
- :GENRE: discourse, qa
- :KEYWORDS:
+ :book-number: 0881
+ :author: Sri Chinmoy
+ :original-edition: True
+ :year: 1992
+ :publisher: Agni Press
+ :cite-key: IPWP
+ :genre: discourse, qa
+ :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: Discourses
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPWP:1e1
+ :genre: section
+ :keywords:
+ :cite-key: IPWP:1e1
   :END:
 
 
@@ -33,9 +33,9 @@
 * Peace
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: IPWP:1
+ :genre: discourse
+ :keywords:
+ :cite-key: IPWP:1
   :END:
 
 
@@ -74,9 +74,9 @@ Burlington, Vermont \\
 * Inner peace and world peace
 
  :PROPERTIES:
- :GENRE: discourse
- :KEYWORDS:
- :CITE-KEY: IPWP:2
+ :genre: discourse
+ :keywords:
+ :cite-key: IPWP:2
   :END:
 
 
@@ -129,9 +129,9 @@ Stuttgart, Germany \\
 * Part II: Interview on Wbab-Fm's "Long Island Spectrum"
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPWP:3e1
+ :genre: section
+ :keywords:
+ :cite-key: IPWP:3e1
   :END:
 
 
@@ -139,9 +139,9 @@ Stuttgart, Germany \\
 * Interview with Joel Martin
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:3
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:3
   :END:
 
 
@@ -158,9 +158,9 @@ In our meditation we try to achieve an inseparable union with our Inner Pilot, t
 * /Joel Martin:/ When one wants to learn meditation, must a spiritual Master teach it to you? If so, how does he do it?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:4
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:4
   :END:
 
 
@@ -175,9 +175,9 @@ In the spiritual life also, if the seeker does not take help, then he may have s
 * /Joel Martin:/ Let us talk about your spiritual path. Perhaps you can explain to us exactly what your path is?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:5
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:5
   :END:
 
 
@@ -190,9 +190,9 @@ But divine love is something totally different. It grows within us like a flower
 * /Joel Martin:/ In your writings you talk about reconciling the inner world of silence and the outer life of action. Something that troubles me is the idea of putting your ideas and theories into practice in our day to day lives.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:6
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:6
   :END:
 
 
@@ -209,9 +209,9 @@ When they see right in front of them life's multifarious activities, they are si
 * /Joel Martin:/ Can I strive for material wealth in my outer life and still be at peace in my inner life?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:7
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:7
   :END:
 
 
@@ -224,9 +224,9 @@ We may be a millionaire, a billionaire, but when we see that people do not love 
 * /Joel Martin:/ You have offered meditations at the United Nations, and you have a fine reputation for that. So let me ask you some questions about problems of world conflict. Why do we see so much strife around us in the world? Why are many nations in conflict with each other, and why do people not get along because of different religions or races or economic points of view?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:8
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:8
   :END:
 
 
@@ -243,9 +243,9 @@ It is lack of prayer and meditation that causes this problem of separativity. If
 * /Joel Martin:/ May we talk, Sri Chinmoy, about you personally, where you come from, where you were born, your childhood, your special visions and how you came to the United States?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:9
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:9
   :END:
 
 
@@ -256,9 +256,9 @@ It is lack of prayer and meditation that causes this problem of separativity. If
 * /Joel Martin:/ Why would your Inner Pilot have directed you to come to the United States? Is it because we need help in many ways?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:10
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:10
   :END:
 
 
@@ -269,9 +269,9 @@ It is lack of prayer and meditation that causes this problem of separativity. If
 * /Joel Martin:/ Westerners sometimes have difficulty with some of the Indian concepts -- for example, a spiritual Master or Guru. So perhaps the divisions between East and West are very evident.
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:11
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:11
   :END:
 
 
@@ -284,9 +284,9 @@ The eldest member in the family is expected to know more about the Father in the
 * /Joel Martin:/ How do your disciples reflect the fruits of the meditation that they practise with you?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:12
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:12
   :END:
 
 
@@ -297,9 +297,9 @@ The eldest member in the family is expected to know more about the Father in the
 * /Joel Martin:/ When you play. music as a spiritual Master, a Guru, your music is therefore spiritual. But if I did not know you were a Guru, how would I know if your music were spiritual?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:13
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:13
   :END:
 
 
@@ -310,9 +310,9 @@ The eldest member in the family is expected to know more about the Father in the
 * /Joel Martin:/ How do you feel when you play the music?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:14
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:14
   :END:
 
 
@@ -323,9 +323,9 @@ The eldest member in the family is expected to know more about the Father in the
 * /Joel Martin:/ If I wanted to, how could I make my music spiritual or help create a more spiritual kind of music?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:15
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:15
   :END:
 
 
@@ -338,9 +338,9 @@ The inner life has to accept spirituality first. Then the outer life will become
 * /Joel Martin:/ When we think about music, of course, we think about sound. And when we think about meditation, we think about that inner world of peace, of silence. Is there any conflict between music and silence?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:16
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:16
   :END:
 
 
@@ -351,9 +351,9 @@ The inner life has to accept spirituality first. Then the outer life will become
 * /Joel Martin:/ Sri Chinmoy, as well as being a musician and songwriter, I know that you are a prolific writer and poet. How are you able to create so many thousands of poems?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:17
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:17
   :END:
 
 
@@ -364,9 +364,9 @@ The inner life has to accept spirituality first. Then the outer life will become
 * /Joel Martin:/ I notice that when I ask a question, you look at me and your eyes are open. Yet when you answer a question, your eyes are closed, as if you are, well, in meditation, or in a restful state. Is there some reason for that?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:18
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:18
   :END:
 
 
@@ -377,9 +377,9 @@ The inner life has to accept spirituality first. Then the outer life will become
 * /Joel Martin:/ There are many people who believe in ESP and mental telepathy and similar things. Do you believe in some of these things?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:19
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:19
   :END:
 
 
@@ -392,9 +392,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ How many of us can strive to become as disciplined as you are in your spiritual life? Is that a realistic goal?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:20
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:20
   :END:
 
 
@@ -405,9 +405,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ Because you are an artist, I want to ask you a question about art. Are there different forms of art -- higher forms of art?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:21
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:21
   :END:
 
 
@@ -418,9 +418,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ How many paintings do you do a day? Is that okay to ask, or it doesn't work that way?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:22
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:22
   :END:
 
 
@@ -431,9 +431,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ I am curious as to what inspired you on that day. What did you feel like when that happened?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:23
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:23
   :END:
 
 
@@ -444,9 +444,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ But admittedly, there are days when you are not as creative as other days?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:24
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:24
   :END:
 
 
@@ -457,9 +457,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ What about healing? Do you have the power to heal?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:25
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:25
   :END:
 
 
@@ -470,9 +470,9 @@ I tell my students only to pray and meditate and reach the Highest. If you have 
 * /Joel Martin:/ I understand about reincarnation and this earthly world, but what will happen to your disciples when you leave this earth?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:26
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:26
   :END:
 
 
@@ -485,9 +485,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * /Joel Martin:/ What about the phenomenon of /karma/? Will what we do on this plane somehow be reflected when we come back in another incarnation?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:27
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:27
   :END:
 
 
@@ -498,9 +498,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * /Joel Martin:/ Do you believe we will ever reach the goal we are striving for?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:28
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:28
   :END:
 
 
@@ -513,9 +513,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Part III: Questions and answers
 
  :PROPERTIES:
- :GENRE: section
- :KEYWORDS:
- :CITE-KEY: IPWP:29e1
+ :genre: section
+ :keywords:
+ :cite-key: IPWP:29e1
   :END:
 
 
@@ -523,9 +523,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Editor's note
 
  :PROPERTIES:
- :GENRE: note
- :KEYWORDS:
- :CITE-KEY: IPWP:29e2
+ :genre: note
+ :keywords:
+ :cite-key: IPWP:29e2
   :END:
 
 
@@ -536,9 +536,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How far away is my constant aspiration?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:29
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:29
   :END:
 
 
@@ -549,9 +549,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: What is a violation of the Cosmic Law?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:30
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:30
   :END:
 
 
@@ -562,9 +562,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: What is the highest offering that I can give to you?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:31
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:31
   :END:
 
 
@@ -575,9 +575,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I embody both true humility and divine self-confidence?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:32
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:32
   :END:
 
 
@@ -588,9 +588,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: Although I am all light, why is there darkness?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:33
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:33
   :END:
 
 
@@ -601,9 +601,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: What will inspire me not to love sleep?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:34
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:34
   :END:
 
 
@@ -614,9 +614,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I make faster spiritual progress?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:35
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:35
   :END:
 
 
@@ -627,9 +627,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I remain vigilant over my thoughts?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:36
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:36
   :END:
 
 
@@ -640,9 +640,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: Why have I never felt part of humanity?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:37
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:37
   :END:
 
 
@@ -653,9 +653,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I patiently await God's chosen Hour?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:38
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:38
   :END:
 
 
@@ -666,9 +666,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I invoke spiritual power to radically transform my life?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:39
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:39
   :END:
 
 
@@ -679,9 +679,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I overcome the feeling of repression and understand true freedom?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:40
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:40
   :END:
 
 
@@ -692,9 +692,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can we distinguish between the different inner voices?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:41
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:41
   :END:
 
 
@@ -705,9 +705,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: Will humanity ever fully accept the Light of the Supreme?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:42
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:42
   :END:
 
 
@@ -718,9 +718,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I become receptive to God's Love and Compassion?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:43
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:43
   :END:
 
 
@@ -731,9 +731,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I more soulfully give and accept help from others?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:44
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:44
   :END:
 
 
@@ -744,9 +744,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: If God loves everything, does He love ignorance?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:45
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:45
   :END:
 
 
@@ -757,9 +757,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: Why has God not revealed and manifested Himself before humanity?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:46
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:46
   :END:
 
 
@@ -770,9 +770,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can I overcome fear of other people?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:47
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:47
   :END:
 
 
@@ -783,9 +783,9 @@ There are many spiritual Masters who have left the body, but their disciples are
 * Question: How can we tell when we are sincerely aspiring and when we are just exploiting God's Compassion?
 
  :PROPERTIES:
- :GENRE: qa
- :KEYWORDS:
- :CITE-KEY: IPWP:48
+ :genre: qa
+ :keywords:
+ :cite-key: IPWP:48
   :END:
 
 

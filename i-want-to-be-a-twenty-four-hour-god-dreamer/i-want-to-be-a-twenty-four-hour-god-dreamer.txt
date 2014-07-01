@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 779
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2003
-  :PUBLISHER:
-  :CITE-KEY: WBGD
-  :GENRE: song
+  :book-number: 779
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2003
+  :publisher:
+  :cite-key: WBGD
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: WBGD:1e1
+  :genre: note
+  :cite-key: WBGD:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: WBGD:1e2
+  :genre: note
+  :cite-key: WBGD:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Want to Be a 24-Hour God-Dreamer (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:1
+  :cite-key: WBGD:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ I want to be a 24-hour God-dreamer.
 * I Want to Be a 24-Hour God-Lover (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:2
+  :cite-key: WBGD:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ I want to be a 24-hour God-lover.
 * A Twenty-Four-Hour Truth-Seeker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:3
+  :cite-key: WBGD:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ I want to be a twenty-four-hour Truth-seeker.
 * I Want to Be a 24-Hour Self-Giver
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:4
+  :cite-key: WBGD:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ I want to be a 24-hour self-giver.
 * I Want to Be a 24-Hour God-Crier
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:5
+  :cite-key: WBGD:5
   :END:
 
 #+BEGIN_VERSE
@@ -122,10 +122,10 @@ A twenty-four-hour God-crier.
 * I Want to Be a 24-Hour God-Server (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-12-1987
-  :CITE-KEY: WBGD:6
+  :cite-key: WBGD:6
   :END:
 
 #+BEGIN_VERSE
@@ -138,10 +138,10 @@ I want to be a 24-hour God-server.
 * I Want to Be a 24-Hour God-Lover (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:7
+  :cite-key: WBGD:7
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ I want to be a 24-hour God-lover.
 * I Want to Be a 24-Hour God-Server (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:8
+  :cite-key: WBGD:8
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ I want to be a 24-hour God-server.
 * I Want to Be a 24-Hour God-Dreamer (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:9
+  :cite-key: WBGD:9
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ I want to be a 24-hour God-dreamer.
 * I Want to Be a 24-Hour God-Giver
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:10
+  :cite-key: WBGD:10
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ I want to be a 24-hour God-giver.
 * I Want to Be a 24-Hour God-Voter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:11
+  :cite-key: WBGD:11
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ I want to be a 24-hour God-voter.
 * I Want to Be a 24-Hour God-Promoter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:12
+  :cite-key: WBGD:12
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ I want to be a 24-hour God-promoter.
 * A Twenty-Four-Hour God-Neighbour
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-03-1988
-  :CITE-KEY: WBGD:13
+  :cite-key: WBGD:13
   :END:
 
 #+BEGIN_VERSE
@@ -251,10 +251,10 @@ A twenty-four-hour God-neighbour.
 * I Am a 24-Hour God-Charmer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:14
+  :cite-key: WBGD:14
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ I Am a 24-hour God-charmer.
 * I Am a 24-Hour God-Warrior
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:15
+  :cite-key: WBGD:15
   :END:
 
 #+BEGIN_VERSE
@@ -285,10 +285,10 @@ God-warrior.
 * A Twenty-Four-Hour God-Singer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:16
+  :cite-key: WBGD:16
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ I want to be a twenty-four-hour God-singer.
 * I Am a 24-Hour God-Smiler
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:17
+  :cite-key: WBGD:17
   :END:
 
 #+BEGIN_VERSE
@@ -319,10 +319,10 @@ God-smiler.
 * I Am a 24-Hour God-Claimer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:18
+  :cite-key: WBGD:18
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ God-claimer.
 * I Am a 24-Hour God-Obeyer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:19
+  :cite-key: WBGD:19
   :END:
 
 #+BEGIN_VERSE
@@ -355,10 +355,10 @@ God-obeyer.
 * I Am a 24-Hour God-Becomer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-03-1988
-  :CITE-KEY: WBGD:20
+  :cite-key: WBGD:20
   :END:
 
 #+BEGIN_VERSE

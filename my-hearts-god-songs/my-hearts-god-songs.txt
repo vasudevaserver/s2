@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1401
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: MHGS
-  :GENRE: song
+  :book-number: 1401
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: MHGS
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MHGS:1e1
+  :genre: note
+  :cite-key: MHGS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MHGS:1e2
+  :genre: note
+  :cite-key: MHGS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Simplicity Is God’s Beauty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:1
+  :cite-key: MHGS:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ God’s Beauty.
 * Sincerity Is God’s Wisdom
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:2
+  :cite-key: MHGS:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Sincerity is God’s Wisdom.
 * Purity Is God’s Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:3
+  :cite-key: MHGS:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ Purity is God’s Smile.
 * Humility Is God’s Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:4
+  :cite-key: MHGS:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ God’s Song.
 * Divinity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:5
+  :cite-key: MHGS:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ God’s Silence-Sound.
 * My Perfection Is Another Name
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:6
+  :cite-key: MHGS:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ For God’s Transcendence in me.
 * My Oneness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:7
+  :cite-key: MHGS:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ For God’s Satisfaction in me.
 * A Yogi’s Purest Purity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:8
+  :cite-key: MHGS:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ The height of God’s Glory.
 * An Avatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:9
+  :cite-key: MHGS:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Of infinite Compassion.
 * To Have an Avatar Guru
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:10
+  :cite-key: MHGS:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Is to run on the shortest road to God.
 * Love Is the Essence of God’s Divinity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:11
+  :cite-key: MHGS:11
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Love is the essence of God’s Divinity.
 * The Willing Shall Feel
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:12
+  :cite-key: MHGS:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ God’s Thunder-Power.
 * An Aspiring Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:13
+  :cite-key: MHGS:13
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ God’s constant Victory.
 * We Shall Never Find any Replacement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:14
+  :cite-key: MHGS:14
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ For God’s Compassion.
 * Opportunity Means
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:15
+  :cite-key: MHGS:15
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Necessity means to be loved by God.
 * He Who Loves Never Grows Old
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:16
+  :cite-key: MHGS:16
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ God is a shining example.
 * Self-Effort Is Necessary
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:17
+  :cite-key: MHGS:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ God’s Grace is indispensable.
 * God’s Divinity Dreams
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:18
+  :cite-key: MHGS:18
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ God’s Reality acts.
 * I See Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:19
+  :cite-key: MHGS:19
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ God sees me as another God.
 * When God’s Will Is Not My Will
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:20
+  :cite-key: MHGS:20
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ Everybody can dare to be my master.
 * My God-Obedience Is My Aspiration-Trophy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:21
+  :cite-key: MHGS:21
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ My aspiration-trophy.
 * Justice-Glasses (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:22
+  :cite-key: MHGS:22
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ Never uses Justice-Glasses.
 * God Teaches Only the Heart-Singers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:23
+  :cite-key: MHGS:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ His Peace-Songs.
 * God Is Unreachable
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:24
+  :cite-key: MHGS:24
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Man’s self-doubt is unteachable.
 * Between My Life and Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:25
+  :cite-key: MHGS:25
   :END:
 
 #+BEGIN_VERSE
@@ -473,10 +473,10 @@ I see only God the Aspiration.
 * God the Eye Tells Me to Be Perfect
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:26
+  :cite-key: MHGS:26
   :END:
 
 #+BEGIN_VERSE
@@ -490,10 +490,10 @@ God the Heart shows me how.
 * God the Eye Shows Me the Way
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:27
+  :cite-key: MHGS:27
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ God the Heart hastens my Goal.
 * Mine Is a God-Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:28
+  :cite-key: MHGS:28
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Across the ocean of impossibility.
 * With My Concentration-Acquaintance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:29
+  :cite-key: MHGS:29
   :END:
 
 #+BEGIN_VERSE
@@ -542,10 +542,10 @@ I march towards God.
 * With My Meditation-Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:30
+  :cite-key: MHGS:30
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ I fly towards God.
 * With My Contemplation-Brother
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:31
+  :cite-key: MHGS:31
   :END:
 
 #+BEGIN_VERSE
@@ -576,10 +576,10 @@ I reach God.
 * A Life of Austerity
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:32
+  :cite-key: MHGS:32
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ A guaranteed proximity
 * God the Master Becomes God the Slave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:33
+  :cite-key: MHGS:33
   :END:
 
 #+BEGIN_VERSE
@@ -612,10 +612,10 @@ The moment we soulfully love Him.
 * I May Not Always Please God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:34
+  :cite-key: MHGS:34
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ But I can and must always try.
 * Today I Am Determined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:35
+  :cite-key: MHGS:35
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ To honour all my promises to God.
 * Yesterday I Pleased
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:36
+  :cite-key: MHGS:36
   :END:
 
 #+BEGIN_VERSE
@@ -663,10 +663,10 @@ God the Power.
 * Today I Am Pleasing God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:37
+  :cite-key: MHGS:37
   :END:
 
 #+BEGIN_VERSE
@@ -680,10 +680,10 @@ God the Love.
 * Tomorrow I Shall Be Pleasing God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:38
+  :cite-key: MHGS:38
   :END:
 
 #+BEGIN_VERSE
@@ -697,10 +697,10 @@ God the Compassion.
 * Yesterday I Gave God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:39
+  :cite-key: MHGS:39
   :END:
 
 #+BEGIN_VERSE
@@ -714,10 +714,10 @@ My aspiration-heart.
 * Today I Am Giving God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:40
+  :cite-key: MHGS:40
   :END:
 
 #+BEGIN_VERSE
@@ -731,10 +731,10 @@ My dedication-life.
 * Tomorrow I Shall Be Giving God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:41
+  :cite-key: MHGS:41
   :END:
 
 #+BEGIN_VERSE
@@ -748,10 +748,10 @@ My surrender-breath.
 * Yesterday God Showed Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:42
+  :cite-key: MHGS:42
   :END:
 
 #+BEGIN_VERSE
@@ -765,10 +765,10 @@ And gave me His Greatness.
 * Today God Is Showing Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:43
+  :cite-key: MHGS:43
   :END:
 
 #+BEGIN_VERSE
@@ -782,10 +782,10 @@ And giving me His Goodness.
 * Tomorrow God Will Show Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:44
+  :cite-key: MHGS:44
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ And give me His Fulness.
 * Yesterday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:45
+  :cite-key: MHGS:45
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ God does not care for me.
 * Today My Life-Book Reads
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:46
+  :cite-key: MHGS:46
   :END:
 
 #+BEGIN_VERSE
@@ -833,10 +833,10 @@ God does not love me.
 * My Life-Book
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:47
+  :cite-key: MHGS:47
   :END:
 
 #+BEGIN_VERSE
@@ -851,10 +851,10 @@ God even needs me.
 * Prayer Cries for God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:48
+  :cite-key: MHGS:48
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ Meditation dreams of God.
 * Prayer Glorifies God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:49
+  :cite-key: MHGS:49
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ Meditation beautifies God.
 * Sailing in the Same Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:50
+  :cite-key: MHGS:50
   :END:
 
 #+BEGIN_VERSE
@@ -903,10 +903,10 @@ We have too many critics!
 * I Pray for an Elevator Ride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:51
+  :cite-key: MHGS:51
   :END:
 
 #+BEGIN_VERSE
@@ -920,10 +920,10 @@ To God’s Compassion-flooded Floor.
 * Of All the Limbs of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:52
+  :cite-key: MHGS:52
   :END:
 
 #+BEGIN_VERSE
@@ -937,10 +937,10 @@ I choose God’s Protection-Feet.
 * Show Your Surrender-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:53
+  :cite-key: MHGS:53
   :END:
 
 #+BEGIN_VERSE
@@ -954,10 +954,10 @@ God will stop your desire train.
 * I Came into the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:54
+  :cite-key: MHGS:54
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ To sleeplessly produce God-Smiles
 * Only a Peace-Bird-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:55
+  :cite-key: MHGS:55
   :END:
 
 #+BEGIN_VERSE
@@ -988,10 +988,10 @@ Can fly in God’s own Rainbow-Sky.
 * Peace Will Take You Closer to God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:56
+  :cite-key: MHGS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ Bliss will keep you in God.
 * Look Up, Look Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:57
+  :cite-key: MHGS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1023,10 +1023,10 @@ His Smile is for you.
 * In Life There Are Many Questions
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-07-1995
-  :CITE-KEY: MHGS:58
+  :cite-key: MHGS:58
   :END:
 
 #+BEGIN_VERSE
@@ -1041,10 +1041,10 @@ Is the only answer.
 * God-Lovers Are God-Warriors
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:59
+  :cite-key: MHGS:59
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ God-lovers are God-warriors.
 * God-Worshippers Are God-Feeders
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:60
+  :cite-key: MHGS:60
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ God-feeders.
 * God-Meditators Are God-Elevators
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:61
+  :cite-key: MHGS:61
   :END:
 
 #+BEGIN_VERSE
@@ -1091,10 +1091,10 @@ God-elevators.
 * God-Servers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:62
+  :cite-key: MHGS:62
   :END:
 
 #+BEGIN_VERSE
@@ -1108,10 +1108,10 @@ Are God-builders.
 * God-Seers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:63
+  :cite-key: MHGS:63
   :END:
 
 #+BEGIN_VERSE
@@ -1125,10 +1125,10 @@ Are God-introducers.
 * God-Knowers Are God-Partners
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:64
+  :cite-key: MHGS:64
   :END:
 
 #+BEGIN_VERSE
@@ -1142,10 +1142,10 @@ God-partners.
 * God-Boasters Are God-Betrayers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:65
+  :cite-key: MHGS:65
   :END:
 
 #+BEGIN_VERSE
@@ -1159,10 +1159,10 @@ God-Betrayers.
 * God-Thinkers Are God-Beginners
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:66
+  :cite-key: MHGS:66
   :END:
 
 #+BEGIN_VERSE
@@ -1176,10 +1176,10 @@ God-beginners.
 * God-Preachers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:67
+  :cite-key: MHGS:67
   :END:
 
 #+BEGIN_VERSE
@@ -1193,10 +1193,10 @@ Are God-interpreters.
 * God-Criers Are God-Flyers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:68
+  :cite-key: MHGS:68
   :END:
 
 #+BEGIN_VERSE
@@ -1210,10 +1210,10 @@ God-flyers.
 * God-Doubters Are God-Pinchers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:69
+  :cite-key: MHGS:69
   :END:
 
 #+BEGIN_VERSE
@@ -1227,10 +1227,10 @@ God-pinchers.
 * God-Philosophers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:70
+  :cite-key: MHGS:70
   :END:
 
 #+BEGIN_VERSE
@@ -1244,10 +1244,10 @@ Are God-speculators.
 * God-Seekers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:71
+  :cite-key: MHGS:71
   :END:
 
 #+BEGIN_VERSE
@@ -1261,10 +1261,10 @@ Are God-inspirers.
 * God-Dreamers Are God-Breathers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:72
+  :cite-key: MHGS:72
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ God-breathers.
 * God-Yogis Are God-Drinkers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:73
+  :cite-key: MHGS:73
   :END:
 
 #+BEGIN_VERSE
@@ -1296,10 +1296,10 @@ God-drinkers.
 * God-Believers Are God-Smilers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:74
+  :cite-key: MHGS:74
   :END:
 
 #+BEGIN_VERSE
@@ -1313,10 +1313,10 @@ God-Smilers.
 * God-Gurus Are God-Awakeners
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:75
+  :cite-key: MHGS:75
   :END:
 
 #+BEGIN_VERSE
@@ -1330,10 +1330,10 @@ God-awakeners.
 * God-Singers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:76
+  :cite-key: MHGS:76
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ Are God-choosers.
 * God-Children Are God-Owners
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:77
+  :cite-key: MHGS:77
   :END:
 
 #+BEGIN_VERSE
@@ -1364,10 +1364,10 @@ God-owners.
 * God-Obeyers Are God-Winners
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:78
+  :cite-key: MHGS:78
   :END:
 
 #+BEGIN_VERSE
@@ -1381,10 +1381,10 @@ God-winners.
 * God-Flatterers Are God-Charmers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:79
+  :cite-key: MHGS:79
   :END:
 
 #+BEGIN_VERSE
@@ -1398,10 +1398,10 @@ God-charmers.
 * God-Surrenderers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:80
+  :cite-key: MHGS:80
   :END:
 
 #+BEGIN_VERSE
@@ -1415,10 +1415,10 @@ Are God-towers.
 * God-Invokers Are God-Realisers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:81
+  :cite-key: MHGS:81
   :END:
 
 #+BEGIN_VERSE
@@ -1432,10 +1432,10 @@ God-realisers.
 * God-Treasurers Are God-Becomers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:82
+  :cite-key: MHGS:82
   :END:
 
 #+BEGIN_VERSE
@@ -1449,10 +1449,10 @@ God-becomers.
 * God-Avatars Are God-Shoulders
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-01-2001
-  :CITE-KEY: MHGS:83
+  :cite-key: MHGS:83
   :END:
 
 #+BEGIN_VERSE

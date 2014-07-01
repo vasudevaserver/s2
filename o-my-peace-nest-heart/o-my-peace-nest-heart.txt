@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1179
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: MPNH
-  :GENRE: song
+  :book-number: 1179
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: MPNH
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MPNH:1e1
+  :genre: note
+  :cite-key: MPNH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MPNH:1e2
+  :genre: note
+  :cite-key: MPNH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Peace I Get When My Mind Laughs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:1
+  :cite-key: MPNH:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Laughs at me powerfully.
 * Peace I Get When My Heart Cries
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:2
+  :cite-key: MPNH:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Cries with me helplessly.
 * Peace I Get When My Soul Smiles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:3
+  :cite-key: MPNH:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Smiles at me majestically.
 * A Man of Peace Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:4
+  :cite-key: MPNH:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ God-Victory-singing heart.
 * A Man of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:5
+  :cite-key: MPNH:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ God the Creation-bowing head.
 * My Mind-Tempests May Roar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:6
+  :cite-key: MPNH:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ Will have its peace-harvest.
 * When I Make My God-Shrine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:7
+  :cite-key: MPNH:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Peace inundates my life.
 * My Self-Effacement-Days
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:8
+  :cite-key: MPNH:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ If not in my self-effacement-days?
 * Where Else Is Peace?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:9
+  :cite-key: MPNH:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ If not in my God-appointment-hours?
 * Heart-Expansion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:10
+  :cite-key: MPNH:10
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Is peace-invention.
 * Doubt-Invasion
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:11
+  :cite-key: MPNH:11
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Peace-perdition.
 * When I Pray, My Mind Charmingly Flies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:12
+  :cite-key: MPNH:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ In peace-sky.
 * When I Meditate, My Heart Confidently Flies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:13
+  :cite-key: MPNH:13
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Beyond, far beyond, the peace-sky.
 * My Mind’s Peace-Fortress
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:14
+  :cite-key: MPNH:14
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Always remain invulnerable.
 * May My Heart’s Peace-Temple
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:15
+  :cite-key: MPNH:15
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ Always remain unassailable.
 * We Are Destined to Run
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:16
+  :cite-key: MPNH:16
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ If our heart is all peace.
 * Peace Devours Both
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:17
+  :cite-key: MPNH:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ And our God-doubt-thoughts.
 * Peace Is the Source
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:18
+  :cite-key: MPNH:18
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Of my detachment-perfection.
 * Truth-Finder
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:19
+  :cite-key: MPNH:19
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ And falsehood-chaser.
 * My Heart’s God-Receptivity Magnet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:20
+  :cite-key: MPNH:20
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ God-receptivity-magnet.
 * With Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:21
+  :cite-key: MPNH:21
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ Begins.
 * My Heart’s Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:22
+  :cite-key: MPNH:22
   :END:
 
 #+BEGIN_VERSE
@@ -421,10 +421,10 @@ Is my God-satisfaction-secret.
 * Peace Is the Heart of My Future
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:23
+  :cite-key: MPNH:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ And not the mind of my past.
 * O My Peace-Nest-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:24
+  :cite-key: MPNH:24
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ I shall cherish you to my last breath.
 * God’s Private Plane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:25
+  :cite-key: MPNH:25
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Peace is God’s private plane.
 * God’s Fastest Flight
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:26
+  :cite-key: MPNH:26
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Peace is God’s fastest flight.
 * In the Higher World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:27
+  :cite-key: MPNH:27
   :END:
 
 #+BEGIN_VERSE
@@ -506,10 +506,10 @@ Peace is man’s happiest destination.
 * A God-Lover’s Aspiration-Harvest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:28
+  :cite-key: MPNH:28
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ Aspiration-harvest.
 * A Heart of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:29
+  :cite-key: MPNH:29
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ The mind’s confusion tornado.
 * When Your Life Becomes a Faith-Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-02-1995
-  :CITE-KEY: MPNH:30
+  :cite-key: MPNH:30
   :END:
 
 #+BEGIN_VERSE

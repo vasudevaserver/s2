@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0146
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GBS
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0146
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: GBS
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GBS:1e1
+  :genre: section
+  :keywords:
+  :cite-key: GBS:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: GBS:1e2
+  :genre: note
+  :keywords:
+  :cite-key: GBS:1e2
   :END:
 
 
@@ -49,9 +49,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Does Beauty come from Light or Peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:1
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:1
   :END:
 
 
@@ -62,9 +62,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Are there hints in the world around us of higher forms of beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:2
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:2
   :END:
 
 
@@ -75,9 +75,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What kind of consciousness does one have when one sees beauty in everything?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:3
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:3
   :END:
 
 
@@ -88,9 +88,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Do children see more beauty than grown-ups do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:4
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:4
   :END:
 
 
@@ -101,9 +101,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: If we feel a necessity for beauty in our physical surroundings, is it a form of attachment to the physical
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:5
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:5
   :END:
 
 
@@ -114,9 +114,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, what is the main purpose of beauty in the creation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:6
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:6
   :END:
 
 
@@ -127,9 +127,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: When we see spiritual beauty, what are the predominant feelings that we will have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:7
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:7
   :END:
 
 
@@ -140,9 +140,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can a seeker increase his inner beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:8
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:8
   :END:
 
 
@@ -153,9 +153,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can you see the inner beauty of something you want to paint or draw, and bring it out?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:9
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:9
   :END:
 
 
@@ -166,9 +166,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can I make my music full of supreme beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:10
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:10
   :END:
 
 
@@ -179,9 +179,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we bring beauty into our physical mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:11
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:11
   :END:
 
 
@@ -192,9 +192,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can one describe to a small child spiritual feelings which tend to be abstract, as opposed to beauty which a child can receive with the senses?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:12
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:12
   :END:
 
 
@@ -205,9 +205,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Are some souls more beautiful than others?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:13
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:13
   :END:
 
 
@@ -218,9 +218,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Is there a connection between love and beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:14
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:14
   :END:
 
 
@@ -231,9 +231,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we see the inner beauty in people and not the outer physical beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:15
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:15
   :END:
 
 
@@ -244,9 +244,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What is the most beautiful thing on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:16
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:16
   :END:
 
 
@@ -257,9 +257,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can one discriminate between lesser beauty and higher beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:17
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:17
   :END:
 
 
@@ -270,9 +270,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we always see beauty within ourselves?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:18
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:18
   :END:
 
 
@@ -283,9 +283,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we become inseparably one with beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:19
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:19
   :END:
 
 
@@ -296,9 +296,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Being sensitive to beauty, how can one avoid being upset by others' ugliness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:20
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:20
   :END:
 
 
@@ -309,9 +309,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Could you speak on beauty's evolving manifestation in man?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:21
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:21
   :END:
 
 
@@ -322,9 +322,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Why is it that the beauty of nature gives me such boundless joy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:22
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:22
   :END:
 
 
@@ -335,9 +335,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we maintain our inner beauty when we have to go to undivine places?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:23
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:23
   :END:
 
 
@@ -348,9 +348,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Is it unspiritual to try to enhance one's physical beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:24
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:24
   :END:
 
 
@@ -361,9 +361,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What are the things that obscure our inner beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:25
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:25
   :END:
 
 
@@ -374,9 +374,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can I help my little daughter always see and feel beauty as she does now?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:26
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:26
   :END:
 
 
@@ -387,9 +387,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, when we see in you what appears to be a new beauty, is there a special significance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:27
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:27
   :END:
 
 
@@ -400,9 +400,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can we identify with our soul's beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:28
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:28
   :END:
 
 
@@ -413,9 +413,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, is ugliness a quality in itself, or is it just a lack of beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:29
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:29
   :END:
 
 
@@ -426,9 +426,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, what is the relationship between physical beauty with spirituality and physical beauty without spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:30
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:30
   :END:
 
 
@@ -439,9 +439,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, since you say that gratitude is the most beautiful thing on earth, what is the effect of gratitude on man and God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:31
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:31
   :END:
 
 
@@ -452,9 +452,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, does the world have more beauty or less beauty than it had one hundred years ago?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:32
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:32
   :END:
 
 
@@ -465,9 +465,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, what is the relationship of Beauty and Power in the Divine Mother?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:33
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:33
   :END:
 
 
@@ -478,9 +478,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, is beauty dynamic and changing or is it merely a reflection of our soul's evolution?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:34
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:34
   :END:
 
 
@@ -491,9 +491,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What is the essence of nature's beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:35
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:35
   :END:
 
 
@@ -504,9 +504,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, can you describe the Supreme's Beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:36
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:36
   :END:
 
 
@@ -517,9 +517,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Do some animals see more beauty than others?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:37
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:37
   :END:
 
 
@@ -530,9 +530,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can I inspire the world more with your divine beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:38
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:38
   :END:
 
 
@@ -543,9 +543,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Is there a difference between the beauty that is in simplicity and the beauty that is in something very striking?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:39
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:39
   :END:
 
 
@@ -556,9 +556,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What as the best way to appreciate nature's beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:40
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:40
   :END:
 
 
@@ -569,9 +569,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can I become a vehicle for beauty within my work and life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:41
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:41
   :END:
 
 
@@ -582,9 +582,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: When we want to create, how can we invoke beauty to inspire us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:42
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:42
   :END:
 
 
@@ -595,9 +595,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What is the relationship between beauty in the physical, the vital, the mind and the heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:43
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:43
   :END:
 
 
@@ -608,9 +608,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Is beauty in the eye of the beholder?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:44
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:44
   :END:
 
 
@@ -621,9 +621,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: What is beautiful about the mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:45
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:45
   :END:
 
 
@@ -634,9 +634,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: If you say that someone has a beautiful soul, does this mean that that person has an aura of a particular colour?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:46
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:46
   :END:
 
 
@@ -647,9 +647,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: When beauty manifests through an individual, does this victory increase the impetus of universal Beauty-manifestation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:47
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:47
   :END:
 
 
@@ -660,9 +660,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Do God the Father and God the Mother manifest their Beauty in different ways?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:48
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:48
   :END:
 
 
@@ -673,9 +673,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, if gratitude is the most beautiful thing on earth, how can a disciple feel more gratitude toward his Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:49
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:49
   :END:
 
 
@@ -686,9 +686,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, how is beauty manifested through oneness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:50
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:50
   :END:
 
 
@@ -699,9 +699,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: If a soul is more evolved, will it take on a body that is more physically beautiful, or is there no correlation between physical beauty and spiritual development?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:51
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:51
   :END:
 
 
@@ -712,9 +712,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can one see and feel beauty in one's work and school work?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:52
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:52
   :END:
 
 
@@ -725,9 +725,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Does outer cheerfulness help us to manifest inner beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:53
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:53
   :END:
 
 
@@ -738,9 +738,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: How can I cultivate the mature kind of beauty that you spoke of without losing the innocent childlike beauty?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:54
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:54
   :END:
 
 
@@ -751,9 +751,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Guru, purity and beauty seem to have a feminine quality, whereas power and dynamism seem to have a masculine quality. Can you speak about this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:55
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:55
   :END:
 
 
@@ -764,9 +764,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Is our inner beauty due to the Grace of God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:56
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:56
   :END:
 
 
@@ -777,9 +777,9 @@ Questions like these have fascinated philosophers and poets from the beginning o
 * Question: Needless to say, you've answered every question I've ever asked so I identify with all the questions and all the answers.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GBS:57
+  :genre: qa
+  :keywords:
+  :cite-key: GBS:57
   :END:
 
 

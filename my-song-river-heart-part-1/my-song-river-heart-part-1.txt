@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 847
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1992
-  :PUBLISHER:
-  :CITE-KEY: SRH-1
-  :GENRE: song
+  :book-number: 847
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1992
+  :publisher:
+  :cite-key: SRH-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SRH:1e1
+  :genre: note
+  :cite-key: SRH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SRH:1e2
+  :genre: note
+  :cite-key: SRH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * No Matter What Happens
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:1
+  :cite-key: SRH:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Against ignorance-night.
 * No Matter What I Do
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:2
+  :cite-key: SRH:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Unconditionally.
 * No Matter Where I Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:3
+  :cite-key: SRH:3
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Shall follow me.
 * No Matter What I Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:4
+  :cite-key: SRH:4
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ My Lord’s infant child.
 * No Matter Who
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:5
+  :cite-key: SRH:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ I shall be supremely happy.
 * No Matter How Often
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:6
+  :cite-key: SRH:6
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ Sleeplessly and breathlessly.
 * No Matter How Many Times I Have Failed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 31-12-1988
-  :CITE-KEY: SRH:7
+  :cite-key: SRH:7
   :END:
 
 #+BEGIN_VERSE
@@ -170,10 +170,10 @@ I shall not give up.
 * No Matter How Many Times
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:8
+  :cite-key: SRH:8
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ With a new card.
 * God Has No Time to Read
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:9
+  :cite-key: SRH:9
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ He reads only my surrender-letters
 * May I Enjoy Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:10
+  :cite-key: SRH:10
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ My heart’s faith-mountain-expedition.
 * Whenever There Is a Doubt-Meeting
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:11
+  :cite-key: SRH:11
   :END:
 
 #+BEGIN_VERSE
@@ -244,10 +244,10 @@ Or I simply walk out.
 * O My Heart’s God-Confidence-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:12
+  :cite-key: SRH:12
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Certain is your victory.
 * Every Day My Soul Trains My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:13
+  :cite-key: SRH:13
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ On high aspiration-hills.
 * Because I Live
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-1989
-  :CITE-KEY: SRH:14
+  :cite-key: SRH:14
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ My mind-limitation-boundaries.
 * God’s Compassion-Heart Travels
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:15
+  :cite-key: SRH:15
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Travels in first class.
 * Chase Away
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:16
+  :cite-key: SRH:16
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Chase away teeming frustration-clouds.
 * Finally, My Mind Has Crashed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:17
+  :cite-key: SRH:17
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ With fruitless thought-exhaustion.
 * I Shall Not Allow My Ingratitude-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:18
+  :cite-key: SRH:18
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ Brightest progress-crown.
 * An Ignorance-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:19
+  :cite-key: SRH:19
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ Between frustration-mind and destruction-heart.
 * O My Will-Power Adamantine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:20
+  :cite-key: SRH:20
   :END:
 
 #+BEGIN_VERSE
@@ -405,10 +405,10 @@ In my Lord Supreme.
 * O My Heart’s Aspiration-Plane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 02-01-1989
-  :CITE-KEY: SRH:21
+  :cite-key: SRH:21
   :END:
 
 #+BEGIN_VERSE
@@ -423,10 +423,10 @@ Kingdom-Light, Kingdom-Delight.
 * My Confidence-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:22
+  :cite-key: SRH:22
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +440,10 @@ Only my Lord’s Hope-Promise-News.
 * If You Want To Be Another God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:23
+  :cite-key: SRH:23
   :END:
 
 #+BEGIN_VERSE
@@ -458,10 +458,10 @@ Your mind’s pounding thoughts.
 * The Ignorance-Zoo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:24
+  :cite-key: SRH:24
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ Is full of monkey-mind-tricks.
 * Every Day My Purity-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:25
+  :cite-key: SRH:25
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ Cheerfully clears my mind’s thorny road.
 * No More My Heart Shall Listen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:26
+  :cite-key: SRH:26
   :END:
 
 #+BEGIN_VERSE
@@ -509,10 +509,10 @@ To my mind’s daily ignorance-broadcast.
 * No, Not Tomorrow!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:27
+  :cite-key: SRH:27
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ God’s Fulfilment-Dawn.
 * My Tiny Heart-Hope-Seed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 04-01-1989
-  :CITE-KEY: SRH:28
+  :cite-key: SRH:28
   :END:
 
 #+BEGIN_VERSE
@@ -547,10 +547,10 @@ And God’s Satisfaction Supreme.
 * O My Beloved Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1989
-  :CITE-KEY: SRH:29
+  :cite-key: SRH:29
   :END:
 
 #+BEGIN_VERSE
@@ -566,10 +566,10 @@ Where?
 * May My Life Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1989
-  :CITE-KEY: SRH:30
+  :cite-key: SRH:30
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ Of my humility-heart.
 * The Cloud of Doubt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1989
-  :CITE-KEY: SRH:31
+  :cite-key: SRH:31
   :END:
 
 #+BEGIN_VERSE
@@ -602,10 +602,10 @@ To devour my determination-eye.
 * No, Not for Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1989
-  :CITE-KEY: SRH:32
+  :cite-key: SRH:32
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ To walk along the unwillingness-track.
 * My Morning Friend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1989
-  :CITE-KEY: SRH:33
+  :cite-key: SRH:33
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Is my surrender-peace.
 * My Heart Thrives Only
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:34
+  :cite-key: SRH:34
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ My Lord’s Compassion-Smiles.
 * I Am All Ready to Start
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:35
+  :cite-key: SRH:35
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ My faith-mountain-expedition.
 * I Never Allow Discouragement to Enter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:36
+  :cite-key: SRH:36
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ To enter into my heart-room.
 * My Cheerful Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:37
+  :cite-key: SRH:37
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ A bountiful inner village.
 * Each Thought-Thorn-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:38
+  :cite-key: SRH:38
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ Is a confusion-hesitation-life.
 * I Reject Temptation-Wages
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:39
+  :cite-key: SRH:39
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Therefore, I need no ignorance-employer.
 * Every Day My Lord Accepts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:40
+  :cite-key: SRH:40
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ With His blessingful and peaceful Smile.
 * An Unwillingness-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:41
+  :cite-key: SRH:41
   :END:
 
 #+BEGIN_VERSE
@@ -778,10 +778,10 @@ Unforgiveness-blows.
 * O Soulful Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:42
+  :cite-key: SRH:42
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ A God-fondness-garland.
 * No Dark Doubt-Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:43
+  :cite-key: SRH:43
   :END:
 
 #+BEGIN_VERSE
@@ -813,10 +813,10 @@ No bold impossibility-day.
 * My Obedience-Promise (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1989
-  :CITE-KEY: SRH:44
+  :cite-key: SRH:44
   :END:
 
 #+BEGIN_VERSE
@@ -830,10 +830,10 @@ My heart is my obedience-promise to You.
 * My Mind’s Artificial Poise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:45
+  :cite-key: SRH:45
   :END:
 
 #+BEGIN_VERSE
@@ -847,10 +847,10 @@ To be exposed.
 * My Soul Is Welcoming My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:46
+  :cite-key: SRH:46
   :END:
 
 #+BEGIN_VERSE
@@ -864,10 +864,10 @@ To its Infinity’s Dream.
 * I Never Allow Fear to Be Fearless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:47
+  :cite-key: SRH:47
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ In my life.
 * My First God-Manifestation-Sunrise
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:48
+  :cite-key: SRH:48
   :END:
 
 #+BEGIN_VERSE
@@ -899,10 +899,10 @@ God-manifestation-sunrise.
 * My Volcano-Doubt-Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:49
+  :cite-key: SRH:49
   :END:
 
 #+BEGIN_VERSE
@@ -916,10 +916,10 @@ Of my volcano-doubt-mind.
 * I Am Fully Determined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:50
+  :cite-key: SRH:50
   :END:
 
 #+BEGIN_VERSE
@@ -934,10 +934,10 @@ Confusion-mountain.
 * My Perfection-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:51
+  :cite-key: SRH:51
   :END:
 
 #+BEGIN_VERSE
@@ -951,10 +951,10 @@ Is only God’s Dream.
 * Who Can Hide?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:52
+  :cite-key: SRH:52
   :END:
 
 #+BEGIN_VERSE
@@ -968,10 +968,10 @@ From God’s choice Hour?
 * My Life’s Goodness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-01-1989
-  :CITE-KEY: SRH:53
+  :cite-key: SRH:53
   :END:
 
 #+BEGIN_VERSE
@@ -985,10 +985,10 @@ My heart’s fulness-harvest.
 * My Hope-Heart-Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:54
+  :cite-key: SRH:54
   :END:
 
 #+BEGIN_VERSE
@@ -1002,10 +1002,10 @@ My hope-heart-child.
 * Even on Off Days
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:55
+  :cite-key: SRH:55
   :END:
 
 #+BEGIN_VERSE
@@ -1021,10 +1021,10 @@ And be the right person.
 * Victory Can Never Be Mine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:56
+  :cite-key: SRH:56
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ To take chances.
 * O Upstream Faith
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:57
+  :cite-key: SRH:57
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ When will you stop lowering my mind?
 * O My Mind, Are You Not Ashamed?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:58
+  :cite-key: SRH:58
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ An ignorance-messenger boy?
 * My Mind’s Re-Election Campaign
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:59
+  :cite-key: SRH:59
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ My mind’s re-election campaign.
 * Be Not Caught Any More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:60
+  :cite-key: SRH:60
   :END:
 
 #+BEGIN_VERSE
@@ -1111,10 +1111,10 @@ In your mind’s doubt-downpour.
 * Beautiful Is the Total Eclipse
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:61
+  :cite-key: SRH:61
   :END:
 
 #+BEGIN_VERSE
@@ -1129,10 +1129,10 @@ Of my ego’s face.
 * My Heart’s Gratitude-Room
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 20-01-1989
-  :CITE-KEY: SRH:62
+  :cite-key: SRH:62
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ I see God is already there.
 * Drop, Drop at Once
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-1989
-  :CITE-KEY: SRH:63
+  :cite-key: SRH:63
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ Your doubt-revolver!
 * A Self-Proclaimed Glory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-01-1989
-  :CITE-KEY: SRH:64
+  :cite-key: SRH:64
   :END:
 
 #+BEGIN_VERSE
@@ -1182,10 +1182,10 @@ A clown’s crown.
 * The Beauty of Transcendental Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-01-1989
-  :CITE-KEY: SRH:65
+  :cite-key: SRH:65
   :END:
 
 #+BEGIN_VERSE

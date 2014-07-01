@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0198
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SDLS
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0198
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: SDLS
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SDLS:1
+  :genre: discourse
+  :keywords:
+  :cite-key: SDLS:1
   :END:
 
 
@@ -37,9 +37,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Questions And Answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SDLS:2e1
+  :genre: section
+  :keywords:
+  :cite-key: SDLS:2e1
   :END:
 
 
@@ -50,9 +50,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Blaise: I Read Before I Go To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:2
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:2
   :END:
 
 
@@ -65,9 +65,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Brian: When I Wake Up To Meditate...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:3
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:3
   :END:
 
 
@@ -80,9 +80,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * David: Why Does My Body Tell Me...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:4
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:4
   :END:
 
 
@@ -95,9 +95,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Dolores: Often I Wake Up During The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:5
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:5
   :END:
 
 
@@ -110,9 +110,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Dodi: If We Are Tired Or Sick,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:6
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:6
   :END:
 
 
@@ -125,9 +125,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Ed: Why Is It That You Appear...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:7
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:7
   :END:
 
 
@@ -140,9 +140,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Ina: How Can I Be Punctual In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:8
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:8
   :END:
 
 
@@ -155,9 +155,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Jeff: What Happens To Our Soul While...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:9
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:9
   :END:
 
 
@@ -170,9 +170,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * John: How Do I Continue My Aspiration...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:10
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:10
   :END:
 
 
@@ -185,9 +185,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Jose: Does Our Consciousness Manifest Itself During...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:11
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:11
   :END:
 
 
@@ -200,9 +200,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Michelle: When I Am Sleeping, Even Loud...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:12
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:12
   :END:
 
 
@@ -215,9 +215,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Nancy: Do Dreams Have Any Significance In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:13
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:13
   :END:
 
 
@@ -230,9 +230,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Purna: When I Am Asleep I Feel...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:14
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:14
   :END:
 
 
@@ -245,9 +245,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Stan: When We Are Sleeping Does Our...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:15
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:15
   :END:
 
 
@@ -260,9 +260,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Steve: Is It True That You Actually...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:16
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:16
   :END:
 
 
@@ -275,9 +275,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Susan: Sometimes In My Sleep I Feel...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:17
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:17
   :END:
 
 
@@ -290,9 +290,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Tom: How Can We Achieve Immediate Alertness...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:18
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:18
   :END:
 
 
@@ -305,9 +305,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Question: I Feel We Are Trying To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:19
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:19
   :END:
 
 
@@ -320,9 +320,9 @@ Let us awaken. Let us rise up. Let us concentrate, meditate and contemplate. Let
 * Question: When You Look At The Disciples,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:20
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:20
   :END:
 
 
@@ -339,9 +339,9 @@ When you show a little aspiration, all the forces which you have not conquered a
 * Question: Guru, What Happens If You're Really...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:21
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:21
   :END:
 
 
@@ -356,9 +356,9 @@ Suppose you have worked very hard and have accumulated lots of money. You get tr
 * Question: Can We Start Sleeping Very Little...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:22
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:22
   :END:
 
 
@@ -379,9 +379,9 @@ It is not necessary for anyone to sleep for more than eight hours. I know this d
 * Question: When I Practice Sports, I Don't...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:23
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:23
   :END:
 
 
@@ -394,9 +394,9 @@ It is not necessary for anyone to sleep for more than eight hours. I know this d
 * Question: How Can We Be More Active...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:24
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:24
   :END:
 
 
@@ -411,9 +411,9 @@ The nature of the body is to encourage tiredness. Our physical body is so clever
 * Question: Guru, What Can We Do If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:25
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:25
   :END:
 
 
@@ -430,9 +430,9 @@ This is why it is good for the disciples to meditate at the Centre before I arri
 * Question: I Feel That I Don't Meditate...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:26
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:26
   :END:
 
 
@@ -449,9 +449,9 @@ But you must make it a point, whether you meditate or not, to keep the physical 
 * Question: It Seems That During Our Group...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:27
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:27
   :END:
 
 
@@ -466,9 +466,9 @@ So please do not feel that you have done your part just by coming to the meditat
 * Question: Sometimes I Wake Up Very Early....
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:28
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:28
   :END:
 
 
@@ -481,9 +481,9 @@ So please do not feel that you have done your part just by coming to the meditat
 * Question: In The Morning Is It A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:29
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:29
   :END:
 
 
@@ -496,9 +496,9 @@ So please do not feel that you have done your part just by coming to the meditat
 * Question: Sometimes When I'm Going To Be...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:30
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:30
   :END:
 
 
@@ -511,9 +511,9 @@ So please do not feel that you have done your part just by coming to the meditat
 * Question: If We Are Up Very Late...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:31
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:31
   :END:
 
 
@@ -528,9 +528,9 @@ When you have a fixed hour for meditation, feel that at that hour your Beloved w
 * Question: Guru, My Hours Are A Little...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:32
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:32
   :END:
 
 
@@ -543,9 +543,9 @@ When you have a fixed hour for meditation, feel that at that hour your Beloved w
 * Question: From What I Understand About Ashrams,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:33
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:33
   :END:
 
 
@@ -558,9 +558,9 @@ When you have a fixed hour for meditation, feel that at that hour your Beloved w
 * Question: You Say That If We Are...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:34
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:34
   :END:
 
 
@@ -573,9 +573,9 @@ When you have a fixed hour for meditation, feel that at that hour your Beloved w
 * Question: Usually After Six-Thirty I Get The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:35
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:35
   :END:
 
 
@@ -588,9 +588,9 @@ When you have a fixed hour for meditation, feel that at that hour your Beloved w
 * Question: Can I Get Up Early To...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:36
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:36
   :END:
 
 
@@ -605,9 +605,9 @@ At night you are dealing with uncertainty and you know it. Sleep is necessary at
 * Question: What Happens If We Aren't Regular...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:37
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:37
   :END:
 
 
@@ -620,9 +620,9 @@ At night you are dealing with uncertainty and you know it. Sleep is necessary at
 * Question: Does It Influence The Vibration If...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:38
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:38
   :END:
 
 
@@ -635,9 +635,9 @@ At night you are dealing with uncertainty and you know it. Sleep is necessary at
 * Question: When I Meditate After Six-Thirty In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:39
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:39
   :END:
 
 
@@ -650,9 +650,9 @@ At night you are dealing with uncertainty and you know it. Sleep is necessary at
 * Question: How Is It Possible To Have...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:40
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:40
   :END:
 
 
@@ -665,9 +665,9 @@ At night you are dealing with uncertainty and you know it. Sleep is necessary at
 * Question: What Should We Do When We...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SDLS:41
+  :genre: qa
+  :keywords:
+  :cite-key: SDLS:41
   :END:
 
 

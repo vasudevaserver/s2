@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 781
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1990
-  :PUBLISHER:
-  :CITE-KEY: OGSH
-  :GENRE: song
+  :book-number: 781
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1990
+  :publisher:
+  :cite-key: OGSH
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: OGSH:1e1
+  :genre: note
+  :cite-key: OGSH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: OGSH:1e2
+  :genre: note
+  :cite-key: OGSH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Germany, Germany, Germany!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-12-1978
-  :CITE-KEY: OGSH:1
+  :cite-key: OGSH:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Max Muller all-where placed its nectar-core.
 * I Am a Dauntless, Selfless German Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: OGSH:2
+  :cite-key: OGSH:2
   :END:
 
 #+BEGIN_VERSE
@@ -79,10 +79,10 @@ I have won many times life’s supreme trophy.
 * My German Children
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 25-05-1987
-  :CITE-KEY: OGSH:3
+  :cite-key: OGSH:3
   :END:
 
 #+BEGIN_VERSE
@@ -101,10 +101,10 @@ Ekatar pranaban aphuran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 25-05-1987
-  :CITE-KEY: OGSH:4
+  :cite-key: OGSH:4
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ Limitless is your life-energy’s oneness-flood.
 * Germany, I Bow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:5
+  :cite-key: OGSH:5
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ High have you lifted mankind’s blind and huge burden
 * East Germany, No More!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:6
+  :cite-key: OGSH:6
   :END:
 
 #+BEGIN_VERSE
@@ -166,10 +166,10 @@ the liberator of East Germany]
 * No More the Berlin Wall
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:7
+  :cite-key: OGSH:7
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ Fondness-oneness-equal.
 * Ignorance-Supremacy-Torture-Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:8
+  :cite-key: OGSH:8
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ The soul of Germany has won the zenith-victory-crown.
 * Behold, Nowhere Barrier
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:9
+  :cite-key: OGSH:9
   :END:
 
 #+BEGIN_VERSE
@@ -220,10 +220,10 @@ A German soul is a oneness-warrior.
 * Hostility’s Death
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1989
-  :CITE-KEY: OGSH:10
+  :cite-key: OGSH:10
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Ecstasy’s open rainbow-gate.
 * Long Twenty-Eight Years
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-11-1989
-  :CITE-KEY: OGSH:11
+  :cite-key: OGSH:11
   :END:
 
 #+BEGIN_VERSE
@@ -263,10 +263,10 @@ Enjoys ecstasy’s flights.
 * Freedom-Feast and Oneness-Nest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1990
-  :CITE-KEY: OGSH:12
+  :cite-key: OGSH:12
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ You are your oneness-nest.
 * One Life Became Two Lives
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1990
-  :CITE-KEY: OGSH:13
+  :cite-key: OGSH:13
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Silenced division-pain.
 * East Germany and West Germany
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-02-1990
-  :CITE-KEY: OGSH:14
+  :cite-key: OGSH:14
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ Have now become perfection-prosperity.
 * Germany.. Tumi Aj Ekatar Maha Bani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-02-1990
-  :CITE-KEY: OGSH:15
+  :cite-key: OGSH:15
   :END:
 
 #+BEGIN_VERSE
@@ -339,10 +339,10 @@ Abasheshe khunje pele bidhatare
 * Purba Germany Pashchim Germany
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-02-1990
-  :CITE-KEY: OGSH:16
+  :cite-key: OGSH:16
   :END:
 
 #+BEGIN_VERSE
@@ -356,10 +356,10 @@ Kandiya hasiya premalingane nijere bilaye diya
 * Gan Geye Ekatar Hat Dhare Sabakar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-02-1990
-  :CITE-KEY: OGSH:17
+  :cite-key: OGSH:17
   :END:
 
 #+BEGIN_VERSE
@@ -374,10 +374,10 @@ Paramananda kripamoy majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 16-02-1990
-  :CITE-KEY: OGSH:18
+  :cite-key: OGSH:18
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Illumination-Boat Supreme.
 * German Hiya German Man German Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-02-1990
-  :CITE-KEY: OGSH:19
+  :cite-key: OGSH:19
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Akutir shikha muktir rabi simahin gaurab
 * East Germany East Germany Purba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-02-1990
-  :CITE-KEY: OGSH:20
+  :cite-key: OGSH:20
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Taba antara khani
 * Berlin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 22-02-1990
-  :CITE-KEY: OGSH:21
+  :cite-key: OGSH:21
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Victory’s lion-roar.
 * East Berlin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 23-02-1990
-  :CITE-KEY: OGSH:22
+  :cite-key: OGSH:22
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Your life’s perfection-joy soon shall thrive.
 * East Berlin East Berlin Purba Berlin Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-02-1990
-  :CITE-KEY: OGSH:23
+  :cite-key: OGSH:23
   :END:
 
 #+BEGIN_VERSE
@@ -496,10 +496,10 @@ Dukhero rajani rupayito aji ananda parabare
 * Cologne
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 26-03-1984
-  :CITE-KEY: OGSH:24
+  :cite-key: OGSH:24
   :END:
 
 #+BEGIN_VERSE

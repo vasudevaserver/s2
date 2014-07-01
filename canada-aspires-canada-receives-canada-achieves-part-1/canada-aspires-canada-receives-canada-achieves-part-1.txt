@@ -7,23 +7,23 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0155
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CARA-1
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0155
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: CARA-1
+  :genre: qa
+  :keywords:
   :END:
 
 
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: CARA:1e1
+  :genre: note
+  :keywords:
+  :cite-key: CARA:1e1
   :END:
 
 
@@ -34,9 +34,9 @@
 * Part 1: Dalhousie University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:1e2
+  :genre: section
+  :keywords:
+  :cite-key: CARA:1e2
   :END:
 
 
@@ -44,9 +44,9 @@
 * Question: How should I love God and how can I love Him more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:1
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:1
   :END:
 
 
@@ -59,9 +59,9 @@ How can you love God more? By feeling that He loves you infinitely more than you
 * Question: How can I achieve humility?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:2
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:2
   :END:
 
 
@@ -76,9 +76,9 @@ There is also a practical way to achieve humility in the outer life. If you are 
 * Question: How important is a Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:3
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:3
   :END:
 
 
@@ -93,9 +93,9 @@ If we consider time a great factor, then if we can do something today, we shall 
 * Part 2: University Of New Brunswick Fredericton
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:4e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:4e1
   :END:
 
 
@@ -103,9 +103,9 @@ If we consider time a great factor, then if we can do something today, we shall 
 * Question: How can I be more thankful to God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:4
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:4
   :END:
 
 
@@ -122,9 +122,9 @@ In spiritual happiness, in the happiness that comes from self-giving and aspirat
 * Question: What is the difference between prayer and meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:5
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:5
   :END:
 
 
@@ -143,9 +143,9 @@ Unfortunately, in the West prayer is not given the same importance that it was o
 * Question: When we pray, should we pray for inner tranquility, or what?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:6
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:6
   :END:
 
 
@@ -158,9 +158,9 @@ When a beginner-seeker prays, we can say that his prayer has a kind of innocent 
 * Question: When I think of the goal of God-realisation, it still seems to be light-years away. I know I will never attain it in this short life.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:7
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:7
   :END:
 
 
@@ -175,9 +175,9 @@ If we pray to God and meditate on God in this incarnation, then we definitely ac
 * Question: How can a seeker give himself to God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:8
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:8
   :END:
 
 
@@ -188,9 +188,9 @@ If we pray to God and meditate on God in this incarnation, then we definitely ac
 * Question: What is the best technique for a beginner to use in meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:9
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:9
   :END:
 
 
@@ -211,9 +211,9 @@ A beginner’s progress entirely depends on the friendships he makes in the inne
 * Part 3: Laval University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:10e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:10e1
   :END:
 
 
@@ -221,9 +221,9 @@ A beginner’s progress entirely depends on the friendships he makes in the inne
 * Question: How can I differentiate between a real inner feeling of God and a thought that comes from my subconscious mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:10
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:10
   :END:
 
 
@@ -238,9 +238,9 @@ God is in everything, in dirty water as well as in pure water, in unspiritual pe
 * Question: Is there a method I should follow to find the inner Light?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:11
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:11
   :END:
 
 
@@ -251,9 +251,9 @@ God is in everything, in dirty water as well as in pure water, in unspiritual pe
 * Question: Do several hours of breathing exercises help our meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:12
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:12
   :END:
 
 
@@ -264,9 +264,9 @@ God is in everything, in dirty water as well as in pure water, in unspiritual pe
 * Question: Does God have a special name?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:13
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:13
   :END:
 
 
@@ -277,9 +277,9 @@ God is in everything, in dirty water as well as in pure water, in unspiritual pe
 * Question: One time the Christ said, “I and my Father are one,” and another time the Christ said, “Our Father who is in Heaven.” How can we resolve this apparent contradiction?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:14
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:14
   :END:
 
 
@@ -294,9 +294,9 @@ Not only the Christ, but each and every one of us will one day be able to procla
 * Question: You say that man is God, but I don’t feel that about myself.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:15
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:15
   :END:
 
 
@@ -307,9 +307,9 @@ Not only the Christ, but each and every one of us will one day be able to procla
 * Part 4: Sir George Williams University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:16e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:16e1
   :END:
 
 
@@ -317,9 +317,9 @@ Not only the Christ, but each and every one of us will one day be able to procla
 * Question: How is it possible for one human being to really love another human being?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:16
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:16
   :END:
 
 
@@ -334,9 +334,9 @@ If first we love God, who is the heart-room, then it is possible for us to reall
 * Question: Are the human in us, the divine in us and the Supreme in us one thing, or are they three things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:17
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:17
   :END:
 
 
@@ -347,9 +347,9 @@ If first we love God, who is the heart-room, then it is possible for us to reall
 * Question: How is it possible to reach the divine and the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:18
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:18
   :END:
 
 
@@ -360,9 +360,9 @@ If first we love God, who is the heart-room, then it is possible for us to reall
 * Question: How can we remember to keep crying throughout the day, even when we are busy and active?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:19
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:19
   :END:
 
 
@@ -375,9 +375,9 @@ It is not enough just to cry during meditation; when our meditation is over, our
 * Question: If someone attacks you and tries to steal something from you, should you resist?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:20
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:20
   :END:
 
 
@@ -388,9 +388,9 @@ It is not enough just to cry during meditation; when our meditation is over, our
 * Question: And in the same way, if you saw someone striking another person, would you try to stop that person?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:21
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:21
   :END:
 
 
@@ -401,9 +401,9 @@ It is not enough just to cry during meditation; when our meditation is over, our
 * Question: Is it possible to follow the spiritual path and to have a family also?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:22
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:22
   :END:
 
 
@@ -416,9 +416,9 @@ In the real spiritual life you do not exclude the family. On the contrary, you t
 * Question: When I witness social injustice, what is the best way to respond to it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:23
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:23
   :END:
 
 
@@ -429,9 +429,9 @@ In the real spiritual life you do not exclude the family. On the contrary, you t
 * Question: Do you think that meditation is the only way to reach God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:24
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:24
   :END:
 
 
@@ -442,9 +442,9 @@ In the real spiritual life you do not exclude the family. On the contrary, you t
 * Universite De Sherbrooke
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:25e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:25e1
   :END:
 
 
@@ -452,9 +452,9 @@ In the real spiritual life you do not exclude the family. On the contrary, you t
 * Question: What is the spiritual conception of responsibility and how does it differ from the human conception?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:25
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:25
   :END:
 
 
@@ -465,9 +465,9 @@ In the real spiritual life you do not exclude the family. On the contrary, you t
 * Question: Is necessity different from attachment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:26
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:26
   :END:
 
 
@@ -480,9 +480,9 @@ When we pray and meditate, we come to realise what is really essential in our li
 * Question: Is there some technique to arrive at the divine consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:27
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:27
   :END:
 
 
@@ -497,9 +497,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: Are the mind and the body two separate entities or are they one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:28
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:28
   :END:
 
 
@@ -510,9 +510,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: Do you think that Western society is really ready to be involved in spirituality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:29
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:29
   :END:
 
 
@@ -523,9 +523,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: When we attain a divine consciousness, is it better to say that the divine consciousness attains us or that we attain it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:30
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:30
   :END:
 
 
@@ -536,9 +536,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Universite De Montreal
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:31e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:31e1
   :END:
 
 
@@ -546,9 +546,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: How does one obtain purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:31
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:31
   :END:
 
 
@@ -559,9 +559,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: What is the relationship between sex and purity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:32
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:32
   :END:
 
 
@@ -572,9 +572,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: If we are all progressing to higher incarnations, why are there still animals on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:33
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:33
   :END:
 
 
@@ -585,9 +585,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: Do we need many lifetimes to obtain real illumination.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:34
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:34
   :END:
 
 
@@ -598,9 +598,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: Does a Master have to be in the physical body in order to help an aspirant?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:35
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:35
   :END:
 
 
@@ -611,9 +611,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: What is Karma Yoga?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:36
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:36
   :END:
 
 
@@ -624,9 +624,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: We forget our past lives when we reincarnate and then we have to do the same things all over again. Why is this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:37
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:37
   :END:
 
 
@@ -637,9 +637,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Queens University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:38e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:38e1
   :END:
 
 
@@ -647,9 +647,9 @@ If we want to arrive at the divine consciousness, or if we want to have access t
 * Question: How can one remain calm in the physical mind when one has so many things to do in so little time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:38
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:38
   :END:
 
 
@@ -664,9 +664,9 @@ While we are on earth we have to know that it is through constant aspiration tha
 * Question: Is time really eternal?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:39
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:39
   :END:
 
 
@@ -677,9 +677,9 @@ While we are on earth we have to know that it is through constant aspiration tha
 * Question: Is it true that a seeker will return to earth in a new body to continue the fight against ignorance that he carried on in his past incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:40
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:40
   :END:
 
 
@@ -690,9 +690,9 @@ While we are on earth we have to know that it is through constant aspiration tha
 * Question: Sometimes I feel a sense of insecurity in my heart. Could you please tell me how I can overcome this feeling?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:41
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:41
   :END:
 
 
@@ -707,9 +707,9 @@ From now on during your prayer and meditation, please try to offer yourself to G
 * Question: Why does God need man more than anything else on the physical plane to manifest Himself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:42
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:42
   :END:
 
 
@@ -722,9 +722,9 @@ In a family, the eldest member knows much more about the father than the younges
 * Question: Does the planet Earth have a special role in the universe?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:43
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:43
   :END:
 
 
@@ -735,9 +735,9 @@ In a family, the eldest member knows much more about the father than the younges
 * Question: How does the oldest son explain his position or relationship with the Father to the youngest son?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:44
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:44
   :END:
 
 
@@ -748,9 +748,9 @@ In a family, the eldest member knows much more about the father than the younges
 * Question: How does the older one dispel his feelings of superiority over the younger ones?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:45
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:45
   :END:
 
 
@@ -763,9 +763,9 @@ The feeling of superiority comes only when we are not spiritual. Then ego comes 
 * Question: How can we manifest our spiritual aspiration in our relationships with other people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:46
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:46
   :END:
 
 
@@ -778,9 +778,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: What are the ways of God-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:47
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:47
   :END:
 
 
@@ -791,9 +791,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: What is the difference between the Christian way of realising God and the Indian way?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:48
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:48
   :END:
 
 
@@ -804,9 +804,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Part 5: University Of Ottawa
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CARA:49e1
+  :genre: section
+  :keywords:
+  :cite-key: CARA:49e1
   :END:
 
 
@@ -814,9 +814,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: How can one discover one’s mantra?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:49
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:49
   :END:
 
 
@@ -827,9 +827,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: If we do not enter the spiritual life when the opportunity comes, are we forever barred from the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:50
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:50
   :END:
 
 
@@ -840,9 +840,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: How can I measure my spiritual progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:51
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:51
   :END:
 
 
@@ -853,9 +853,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: What is wrong with desire?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:52
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:52
   :END:
 
 
@@ -866,9 +866,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: Do you have to go through the seven planes of consciousness in order to arrive at ultimate Freedom?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:53
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:53
   :END:
 
 
@@ -879,9 +879,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: What is /Moksha/?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:54
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:54
   :END:
 
 
@@ -892,9 +892,9 @@ But we can do this only if we sincerely aspire and make ourselves feel that we a
 * Question: Does the soul have a mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:55
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:55
   :END:
 
 
@@ -911,9 +911,9 @@ The physical mind is an insufficient, inadequate instrument for the divine manif
 * Question: What is the relationship between light and peace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:56
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:56
   :END:
 
 
@@ -924,9 +924,9 @@ The physical mind is an insufficient, inadequate instrument for the divine manif
 * Question: How can a seeker learn the mission of his soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:57
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:57
   :END:
 
 
@@ -937,9 +937,9 @@ The physical mind is an insufficient, inadequate instrument for the divine manif
 * Question: Can you please say something about sound and silence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CARA:58
+  :genre: qa
+  :keywords:
+  :cite-key: CARA:58
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0900
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LCF
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0900
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: LCF
+  :genre: poem
+  :keywords:
   :END: 
 
 
@@ -22,9 +22,9 @@
 * Dedication ...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LCF:1e1
+  :genre: note
+  :keywords:
+  :cite-key: LCF:1e1
   :END:
 
 
@@ -55,9 +55,9 @@ On earth.
 * Long ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:1
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:1
   :END:
 
 
@@ -76,9 +76,9 @@ Is the Forgiveness-list of God.
 * Doubt Is A Sin ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:2
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:2
   :END:
 
 
@@ -95,9 +95,9 @@ Of the heart.
 * I Breathe Out ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:3
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:3
   :END:
 
 
@@ -114,9 +114,9 @@ Newness-hope.
 * The Mind ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:4
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:4
   :END:
 
 
@@ -133,9 +133,9 @@ Claims the world.
 * Purity's Beauty ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:5
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:5
   :END:
 
 
@@ -153,9 +153,9 @@ Of God.
 * God Wants ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:6
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:6
   :END:
 
 
@@ -174,9 +174,9 @@ My cheerfulness-mind.
 * The Mind Likes ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:7
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:7
   :END:
 
 
@@ -193,9 +193,9 @@ To embrace God.
 * The Mind Cries ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:8
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:8
   :END:
 
 
@@ -212,9 +212,9 @@ For God's Direction.
 * My Mind Is Afraid ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:9
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:9
   :END:
 
 
@@ -231,9 +231,9 @@ Of failing God the Lover.
 * Patience ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:10
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:10
   :END:
 
 
@@ -250,9 +250,9 @@ Is mind-born.
 * Silence Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:11
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:11
   :END:
 
 
@@ -269,9 +269,9 @@ Infinity's Voice.
 * My Mind Does Not ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:12
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:12
   :END:
 
 
@@ -292,9 +292,9 @@ At this very moment.
 * Yesterday ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:13
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:13
   :END:
 
 
@@ -313,9 +313,9 @@ Frustration-bitterness.
 * When I Soulfully ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:14
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:14
   :END:
 
 
@@ -333,9 +333,9 @@ As my own, very own.
 * The Mind ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:15
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:15
   :END:
 
 
@@ -352,9 +352,9 @@ Steers and sails.
 * Prayer ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:16
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:16
   :END:
 
 
@@ -371,9 +371,9 @@ Selects.
 * My Mind Wants ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:17
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:17
   :END:
 
 
@@ -390,9 +390,9 @@ To change the whole world.
 * O My Gratitude-Heart-Garden, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:18
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:18
   :END:
 
 
@@ -409,9 +409,9 @@ Where are you not?
 * My Mind Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:19
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:19
   :END:
 
 
@@ -428,9 +428,9 @@ A God-Song-Singer.
 * I Shall Not Allow Myself ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:20
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:20
   :END:
 
 
@@ -448,9 +448,9 @@ My tomorrow's anxieties.
 * My Lord, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:21
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:21
   :END:
 
 
@@ -470,9 +470,9 @@ Will be the sweetest."
 * Yesterday I Prayed ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:22
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:22
   :END:
 
 
@@ -491,9 +491,9 @@ A God-reality-flower.
 * When God Sees ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:23
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:23
   :END:
 
 
@@ -512,9 +512,9 @@ My Forgiveness-Heart."
 * Enthusiasm ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:24
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:24
   :END:
 
 
@@ -534,9 +534,9 @@ Quickens my speed.
 * A God-Obedience-Mind ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:25
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:25
   :END:
 
 
@@ -552,9 +552,9 @@ Achievement.
 * I May Not Claim God ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:26
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:26
   :END:
 
 
@@ -573,9 +573,9 @@ Have already claimed me.
 * I Must Not Forget ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:27
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:27
   :END:
 
 
@@ -594,9 +594,9 @@ With Infinity's Sound-Mind.
 * My Heart's ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:28
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:28
   :END:
 
 
@@ -614,9 +614,9 @@ In action.
 * God's Blessingful Compassion ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:29
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:29
   :END:
 
 
@@ -633,9 +633,9 @@ Of human pride.
 * At Long Last ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:30
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:30
   :END:
 
 
@@ -653,9 +653,9 @@ For my desire-mind.
 * How Can God ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:31
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:31
   :END:
 
 
@@ -673,9 +673,9 @@ To humanity?
 * I Greet The Morning ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:32
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:32
   :END:
 
 
@@ -694,9 +694,9 @@ God-surrender-smiles.
 * In The Morning ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:33
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:33
   :END:
 
 
@@ -717,9 +717,9 @@ A Whisper from God Himself.
 * Of All The Most Beautiful ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:34
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:34
   :END:
 
 
@@ -738,9 +738,9 @@ Protection-feet.
 * Greed ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:35
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:35
   :END:
 
 
@@ -757,9 +757,9 @@ Is my heart-hunger.
 * My Lord, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:36
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:36
   :END:
 
 
@@ -779,9 +779,9 @@ My Lord!
 * Every Day I Must Renew ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:37
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:37
   :END:
 
 
@@ -801,9 +801,9 @@ My happiness-horizon.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:38
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:38
   :END:
 
 
@@ -821,9 +821,9 @@ Aspiration-progress.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:39
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:39
   :END:
 
 
@@ -841,9 +841,9 @@ Dedication-failures.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:40
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:40
   :END:
 
 
@@ -864,9 +864,9 @@ My pure gratitude-flooded heart.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:41
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:41
   :END:
 
 
@@ -884,9 +884,9 @@ In Your own Way.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:42
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:42
   :END:
 
 
@@ -904,9 +904,9 @@ In Your own Way.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:43
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:43
   :END:
 
 
@@ -924,9 +924,9 @@ In Your own Way.
 * My Lord Supreme, ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:44
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:44
   :END:
 
 
@@ -945,9 +945,9 @@ Useless.
 * "My Child, Do Not Worry....
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: LCF:45
+  :genre: poem
+  :keywords:
+  :cite-key: LCF:45
   :END:
 
 

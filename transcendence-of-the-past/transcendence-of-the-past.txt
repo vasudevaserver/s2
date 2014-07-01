@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0347
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: TP
-  :GENRE: qa, discourse
-  :KEYWORDS:
+  :book-number: 0347
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: TP
+  :genre: qa, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Transcendence Of The Past
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:1e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: How Can I Best Forget The...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:1
+  :genre: qa
+  :keywords:
+  :cite-key: TP:1
   :END:
 
 
@@ -67,9 +67,9 @@ So your present and future must go together. Then you will see that you are tran
 * Question: What Is The Best Way For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:2
+  :genre: qa
+  :keywords:
+  :cite-key: TP:2
   :END:
 
 
@@ -82,9 +82,9 @@ So your present and future must go together. Then you will see that you are tran
 * Question: How Can I Offer My Ignorance...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:3
+  :genre: qa
+  :keywords:
+  :cite-key: TP:3
   :END:
 
 
@@ -97,9 +97,9 @@ So your present and future must go together. Then you will see that you are tran
 * Question: How Can I Overcome The Obstacle...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:4
+  :genre: qa
+  :keywords:
+  :cite-key: TP:4
   :END:
 
 
@@ -112,9 +112,9 @@ So your present and future must go together. Then you will see that you are tran
 * Question: If All Suffering Is Not Necessarily...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:5
+  :genre: qa
+  :keywords:
+  :cite-key: TP:5
   :END:
 
 
@@ -127,9 +127,9 @@ So your present and future must go together. Then you will see that you are tran
 * Vibrations
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:6e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:6e1
   :END:
 
 
@@ -137,9 +137,9 @@ So your present and future must go together. Then you will see that you are tran
 * Question: Could You Speak About Vibrations?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:6
+  :genre: qa
+  :keywords:
+  :cite-key: TP:6
   :END:
 
 
@@ -154,9 +154,9 @@ At that time, if you give yourself a mark, you may not get more than twenty out 
 * Question: Can Somebody Lower Your Consciousness By...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:7
+  :genre: qa
+  :keywords:
+  :cite-key: TP:7
   :END:
 
 
@@ -171,9 +171,9 @@ Sometimes when you look at a particular person, all your inspiration disappears.
 * Question: What Should We Do When We...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:8
+  :genre: qa
+  :keywords:
+  :cite-key: TP:8
   :END:
 
 
@@ -188,9 +188,9 @@ The unripe and unready souls will be awakened at God’s choice Hour. When they 
 * Depression, Frustration And Destruction
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:9e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:9e1
   :END:
 
 
@@ -198,9 +198,9 @@ The unripe and unready souls will be awakened at God’s choice Hour. When they 
 * If You Feel That You Are Not...
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TP:9
+  :genre: discourse
+  :keywords:
+  :cite-key: TP:9
   :END:
 
 
@@ -219,9 +219,9 @@ By becoming happy everybody will be able to please me. When you /know/ that if y
 * Question: How Can We Come Out Of...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:10
+  :genre: qa
+  :keywords:
+  :cite-key: TP:10
   :END:
 
 
@@ -234,9 +234,9 @@ By becoming happy everybody will be able to please me. When you /know/ that if y
 * Question: Why Am I Disappointed With My...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:11
+  :genre: qa
+  :keywords:
+  :cite-key: TP:11
   :END:
 
 
@@ -251,9 +251,9 @@ So you add to their inner cry, to their capacity. Although they have imperfectio
 * Question: The Other Day You Asked Me...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:12
+  :genre: qa
+  :keywords:
+  :cite-key: TP:12
   :END:
 
 
@@ -274,9 +274,9 @@ So in the future, try to do the right thing first. Try to please me. Then depres
 * The Ego’s Reality
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:13e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:13e1
   :END:
 
 
@@ -284,9 +284,9 @@ So in the future, try to do the right thing first. Try to please me. Then depres
 * Question: How Can I Silence My Ego?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:13
+  :genre: qa
+  :keywords:
+  :cite-key: TP:13
   :END:
 
 
@@ -303,9 +303,9 @@ So give up your little ego and feel always your oneness with the Supreme, your u
 * Question: When Does The Ego Develop In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:14
+  :genre: qa
+  :keywords:
+  :cite-key: TP:14
   :END:
 
 
@@ -326,9 +326,9 @@ But if the same child at the age of twenty or thirty can be spiritual, if he pra
 * Question: Why Does The “i” Seek So...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:15
+  :genre: qa
+  :keywords:
+  :cite-key: TP:15
   :END:
 
 
@@ -347,9 +347,9 @@ The capital “I” is always satisfied. It is growing and expanding and fulfill
 * Problems And Difficulties
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:16e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:16e1
   :END:
 
 
@@ -357,9 +357,9 @@ The capital “I” is always satisfied. It is growing and expanding and fulfill
 * Question: What Is The Best Way For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:16
+  :genre: qa
+  :keywords:
+  :cite-key: TP:16
   :END:
 
 
@@ -374,9 +374,9 @@ The second method, which is the second-best method, is as follows: If you have a
 * Question: How Do You Discipline Your Emotions?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:17
+  :genre: qa
+  :keywords:
+  :cite-key: TP:17
   :END:
 
 
@@ -395,9 +395,9 @@ So if you want to discipline your lower emotion, then I wish to say that you mus
 * Question: Why Do I Sometimes Become Angry...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:18
+  :genre: qa
+  :keywords:
+  :cite-key: TP:18
   :END:
 
 
@@ -410,9 +410,9 @@ So if you want to discipline your lower emotion, then I wish to say that you mus
 * Question: How Can We Stop Ourselves From...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:19
+  :genre: qa
+  :keywords:
+  :cite-key: TP:19
   :END:
 
 
@@ -425,9 +425,9 @@ So if you want to discipline your lower emotion, then I wish to say that you mus
 * Question: How Can We Avoid Crying For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:20
+  :genre: qa
+  :keywords:
+  :cite-key: TP:20
   :END:
 
 
@@ -442,9 +442,9 @@ If you play the role of daughter, then oneness will come. You will say, “Right
 * Question: What Do You Mean By A...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:21
+  :genre: qa
+  :keywords:
+  :cite-key: TP:21
   :END:
 
 
@@ -459,9 +459,9 @@ But the attitude should be, “Yes, here is the mountain. The mountain is claimi
 * Question: How Can We Know If It...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:22
+  :genre: qa
+  :keywords:
+  :cite-key: TP:22
   :END:
 
 
@@ -482,9 +482,9 @@ In this way we acquire spiritual wisdom. Intensity will never come, sincerity wi
 * Question: What Should Be Our Attitude Towards...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:23
+  :genre: qa
+  :keywords:
+  :cite-key: TP:23
   :END:
 
 
@@ -497,9 +497,9 @@ In this way we acquire spiritual wisdom. Intensity will never come, sincerity wi
 * Question: How Can I Kill Expectation?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:24
+  :genre: qa
+  :keywords:
+  :cite-key: TP:24
   :END:
 
 
@@ -518,9 +518,9 @@ When we are able to please God, we shall not ask Him for human things but for di
 * Question: What Causes Pride, And How Do...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:25
+  :genre: qa
+  :keywords:
+  :cite-key: TP:25
   :END:
 
 
@@ -535,9 +535,9 @@ When I throw the shot with my right hand, I throw much farther than with my left
 * Question: How Can We Avoid Compromising In...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:26
+  :genre: qa
+  :keywords:
+  :cite-key: TP:26
   :END:
 
 
@@ -550,9 +550,9 @@ When I throw the shot with my right hand, I throw much farther than with my left
 * Question: I Am Caught Between My Spiritual...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:27
+  :genre: qa
+  :keywords:
+  :cite-key: TP:27
   :END:
 
 
@@ -569,9 +569,9 @@ The next time you come, please try to stay with the disciples. When you make con
 * Question: How Can We Overcome Shyness When...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:28
+  :genre: qa
+  :keywords:
+  :cite-key: TP:28
   :END:
 
 
@@ -584,9 +584,9 @@ The next time you come, please try to stay with the disciples. When you make con
 * Question: How Can I Become More Coordinated?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:29
+  :genre: qa
+  :keywords:
+  :cite-key: TP:29
   :END:
 
 
@@ -601,9 +601,9 @@ Another theory is that people are clumsy when the coordination of the physical, 
 * The Battle Of The Hostile Forces
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: TP:30e1
+  :genre: section
+  :keywords:
+  :cite-key: TP:30e1
   :END:
 
 
@@ -611,9 +611,9 @@ Another theory is that people are clumsy when the coordination of the physical, 
 * Question: Even When We Are Aspiring, Dark...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:30
+  :genre: qa
+  :keywords:
+  :cite-key: TP:30
   :END:
 
 
@@ -630,9 +630,9 @@ So when you know that something is attacking you, be very alert and careful. Don
 * Question: What Is The Quickest Way For...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:31
+  :genre: qa
+  :keywords:
+  :cite-key: TP:31
   :END:
 
 
@@ -645,9 +645,9 @@ So when you know that something is attacking you, be very alert and careful. Don
 * Question: As One’s Being Becomes More Pure,...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:32
+  :genre: qa
+  :keywords:
+  :cite-key: TP:32
   :END:
 
 
@@ -664,9 +664,9 @@ The forces do not attack because people are doing good things; it is just that t
 * Question: Are Hostile Forces And Occult Things...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:33
+  :genre: qa
+  :keywords:
+  :cite-key: TP:33
   :END:
 
 
@@ -681,9 +681,9 @@ Hostile forces attack everyone very naturally. You may think that hostile forces
 * Question: How Powerful Are The Hostile Forces?...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:34
+  :genre: qa
+  :keywords:
+  :cite-key: TP:34
   :END:
 
 
@@ -696,9 +696,9 @@ Hostile forces attack everyone very naturally. You may think that hostile forces
 * Question: By What Process Do Hostile Forces...
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: TP:35
+  :genre: qa
+  :keywords:
+  :cite-key: TP:35
   :END:
 
 

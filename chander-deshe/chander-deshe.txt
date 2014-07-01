@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1326
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1991
-  :PUBLISHER:
-  :CITE-KEY: CDM
-  :GENRE: song
+  :book-number: 1326
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1991
+  :publisher:
+  :cite-key: CDM
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CDM:1e1
+  :genre: note
+  :cite-key: CDM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: CDM:1e2
+  :genre: note
+  :cite-key: CDM:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Dine Rate Thakte Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:1
+  :cite-key: CDM:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Na bhebe mor katha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:2
+  :cite-key: CDM:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Without thinking of my own life.
 * Day and Night I Long to Live
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:3
+  :cite-key: CDM:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Without thinking of my own life.
 * Ajike Prabhate Chahinu Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:4
+  :cite-key: CDM:4
   :END:
 
 #+BEGIN_VERSE
@@ -108,10 +108,10 @@ Nutan chinta dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:5
+  :cite-key: CDM:5
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ To grant me a new thought-flow.
 * This Morning I Beg of Thee
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:6
+  :cite-key: CDM:6
   :END:
 
 #+BEGIN_VERSE
@@ -142,10 +142,10 @@ To grant me a new thought-flow.
 * Prati Rate Chander Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:7
+  :cite-key: CDM:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Shanti dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:8
+  :cite-key: CDM:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ There I shall receive peace boundless.
 * Every Evening
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:9
+  :cite-key: CDM:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ There I shall receive peace boundless.
 * Maner Chhalana Hiyar Bedana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:10
+  :cite-key: CDM:10
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ Ek sathe tara chale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:11
+  :cite-key: CDM:11
   :END:
 
 #+BEGIN_VERSE
@@ -229,10 +229,10 @@ Together they move.
 * Mind-Deception, Heart-Pangs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:12
+  :cite-key: CDM:12
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ Together they move.
 * Hiyar Khudha Kothai Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:13
+  :cite-key: CDM:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Kothai thako gopane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:14
+  :cite-key: CDM:14
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ In secrecy supreme?
 * O My Heart-Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:15
+  :cite-key: CDM:15
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ In secrecy supreme?
 * Ashar Pathe Na Chalile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:16
+  :cite-key: CDM:16
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Jiban habe britha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:17
+  :cite-key: CDM:17
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Everything in my life shall end in vain.
 * If I Do Not Walk Along the Hope-Road
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:18
+  :cite-key: CDM:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ Everything in my life shall end in vain.
 * Dyulok Kothai Dyulok Kothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:19
+  :cite-key: CDM:19
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Taje kebal amar hiyar puta hasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:20
+  :cite-key: CDM:20
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ But my heart’s pure smile.
 * Where Is Heaven?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:21
+  :cite-key: CDM:21
   :END:
 
 #+BEGIN_VERSE
@@ -402,10 +402,10 @@ My heart’s pure smile.
 * Basana Dwar Khule Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:22
+  :cite-key: CDM:22
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Pelam baroi byatha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:23
+  :cite-key: CDM:23
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ By opening my desire-door.
 * I Am Deeply Hurt
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:24
+  :cite-key: CDM:24
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ By opening my desire-door.
 * Ogo Maner Durbalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:25
+  :cite-key: CDM:25
   :END:
 
 #+BEGIN_VERSE
@@ -468,10 +468,10 @@ Tumi amar bhitar bahir biphalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:26
+  :cite-key: CDM:26
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Within, without, you are my failure.
 * O Weakness of My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:27
+  :cite-key: CDM:27
   :END:
 
 #+BEGIN_VERSE
@@ -502,10 +502,10 @@ Within, without, you are my failure.
 * Basana Mukta Hate Habe More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:28
+  :cite-key: CDM:28
   :END:
 
 #+BEGIN_VERSE
@@ -518,10 +518,10 @@ Prabhur tripti lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:29
+  :cite-key: CDM:29
   :END:
 
 #+BEGIN_VERSE
@@ -535,10 +535,10 @@ To satisfy my Lord Beloved Supreme.
 * I Must Free Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 28-12-1990
-  :CITE-KEY: CDM:30
+  :cite-key: CDM:30
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ To satisfy my Lord Beloved Supreme.
 * Jagite Chahina Kandite Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:31
+  :cite-key: CDM:31
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Pujite chahina amar hridaya gahane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:32
+  :cite-key: CDM:32
   :END:
 
 #+BEGIN_VERSE
@@ -587,10 +587,10 @@ I do not want to worship.
 * In the Depths of My Heart I Do Not Want To
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:33
+  :cite-key: CDM:33
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ I do not want to worship.
 * Pabo Ki Hai Ei Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:34
+  :cite-key: CDM:34
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ Shanti matar darashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:35
+  :cite-key: CDM:35
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ Of Peace-Mother in this lifetime?
 * Alas, Will I Ever Have A Glimpse?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:36
+  :cite-key: CDM:36
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ Of Peace-Mother in this lifetime?
 * Shishur Hriday Pabe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:37
+  :cite-key: CDM:37
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ Bishwa prabhur parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:38
+  :cite-key: CDM:38
   :END:
 
 #+BEGIN_VERSE
@@ -689,10 +689,10 @@ Of my Lord Beloved Supreme.
 * Shishur Mato Na Hasile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:39
+  :cite-key: CDM:39
   :END:
 
 #+BEGIN_VERSE
@@ -705,10 +705,10 @@ Jishur dekha pabona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:40
+  :cite-key: CDM:40
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ How can I see the face of Jesus Christ?
 * If I Smile Not Like a Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:41
+  :cite-key: CDM:41
   :END:
 
 #+BEGIN_VERSE
@@ -739,10 +739,10 @@ How can I see the face of Jesus Christ?
 * Basanar Deshe Jatanar Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:42
+  :cite-key: CDM:42
   :END:
 
 #+BEGIN_VERSE
@@ -755,10 +755,10 @@ Nahi habe nahi habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:43
+  :cite-key: CDM:43
   :END:
 
 #+BEGIN_VERSE
@@ -772,10 +772,10 @@ Can never come to an end.
 * In Desire-Land
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:44
+  :cite-key: CDM:44
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ Come to an end.
 * Hai Hai Bhabi Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:45
+  :cite-key: CDM:45
   :END:
 
 #+BEGIN_VERSE
@@ -806,10 +806,10 @@ Kandi shudhu saphalata lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:46
+  :cite-key: CDM:46
   :END:
 
 #+BEGIN_VERSE
@@ -824,10 +824,10 @@ I cry only for success-life.
 * Alas, I Think Only of Success-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:47
+  :cite-key: CDM:47
   :END:
 
 #+BEGIN_VERSE
@@ -842,10 +842,10 @@ I cry only for success-life.
 * Alo Alo Eso Eso Jao Go Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:48
+  :cite-key: CDM:48
   :END:
 
 #+BEGIN_VERSE
@@ -858,10 +858,10 @@ Maner malin kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:49
+  :cite-key: CDM:49
   :END:
 
 #+BEGIN_VERSE
@@ -876,10 +876,10 @@ Take away my mind’s darkness-ignorance.
 * Light, Light Divine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:50
+  :cite-key: CDM:50
   :END:
 
 #+BEGIN_VERSE
@@ -894,10 +894,10 @@ Take away my mind’s darkness-ignorance.
 * Chetana Sagare Santar Katite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:51
+  :cite-key: CDM:51
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ Param tripti lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:52
+  :cite-key: CDM:52
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ While swimming in consciousness-ocean.
 * Satisfaction Supreme I Receive
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:53
+  :cite-key: CDM:53
   :END:
 
 #+BEGIN_VERSE
@@ -944,10 +944,10 @@ While swimming in consciousness-ocean.
 * Usha Devi Eso Eso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:54
+  :cite-key: CDM:54
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ Bhango amar agyanatar ghum
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:55
+  :cite-key: CDM:55
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ Destroy my ignorance-sleep.
 * Dawn Goddess
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:56
+  :cite-key: CDM:56
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Destroy my ignorance-sleep.
 * Nirab Bhashai Gahite Chahi Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:57
+  :cite-key: CDM:57
   :END:
 
 #+BEGIN_VERSE
@@ -1010,10 +1010,10 @@ Amije tomar bijoy giti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:58
+  :cite-key: CDM:58
   :END:
 
 #+BEGIN_VERSE
@@ -1027,10 +1027,10 @@ In silence-secrecy.
 * Your Victory-Songs
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:59
+  :cite-key: CDM:59
   :END:
 
 #+BEGIN_VERSE
@@ -1044,10 +1044,10 @@ In silence-secrecy.
 * Khandana Kare Maha Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:60
+  :cite-key: CDM:60
   :END:
 
 #+BEGIN_VERSE
@@ -1060,10 +1060,10 @@ Sutibra bege chalechi ajike ami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:61
+  :cite-key: CDM:61
   :END:
 
 #+BEGIN_VERSE
@@ -1078,10 +1078,10 @@ At fastest speed I run today.
 * Attachment-Bondage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:62
+  :cite-key: CDM:62
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ At fastest speed I run today.
 * Ghumer Deshe Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:63
+  :cite-key: CDM:63
   :END:
 
 #+BEGIN_VERSE
@@ -1112,10 +1112,10 @@ Dibanishi hai asohai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:64
+  :cite-key: CDM:64
   :END:
 
 #+BEGIN_VERSE
@@ -1130,10 +1130,10 @@ In the world of slumber,
 * I Am Roaming Day and Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:65
+  :cite-key: CDM:65
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ In the world of slumber, helplessly.
 * Janite Amare Danite Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:66
+  :cite-key: CDM:66
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Dhara buke asi ami phire phire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:67
+  :cite-key: CDM:67
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ To know myself and to offer myself.
 * I Come into the World Again and Again
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:68
+  :cite-key: CDM:68
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ To know myself and to offer myself.
 * Rakhbo Kabe Mor Amire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:69
+  :cite-key: CDM:69
   :END:
 
 #+BEGIN_VERSE
@@ -1213,10 +1213,10 @@ Tomar paye balo prabhu balo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:70
+  :cite-key: CDM:70
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ When I shall place my ego-life
 * My Lord Supreme, Do Tell Me When
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:71
+  :cite-key: CDM:71
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ Place my ego-life at Your Feet.
 * Dure Chale Jao Ogo Manaser
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:72
+  :cite-key: CDM:72
   :END:
 
 #+BEGIN_VERSE
@@ -1264,10 +1264,10 @@ Ashesh durbalata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:73
+  :cite-key: CDM:73
   :END:
 
 #+BEGIN_VERSE
@@ -1281,10 +1281,10 @@ O my mind’s endless weaknesses.
 * Away You Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-12-1990
-  :CITE-KEY: CDM:74
+  :cite-key: CDM:74
   :END:
 
 #+BEGIN_VERSE
@@ -1298,10 +1298,10 @@ O my mind’s endless weaknesses.
 * Ashar Duar Khuliya Rekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:75
+  :cite-key: CDM:75
   :END:
 
 #+BEGIN_VERSE
@@ -1314,10 +1314,10 @@ Tomare bidhata herite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:76
+  :cite-key: CDM:76
   :END:
 
 #+BEGIN_VERSE
@@ -1332,10 +1332,10 @@ To see You.
 * My Lord, I Have Kept My Hope-Door Open
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:77
+  :cite-key: CDM:77
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ My hope-door open to see You.
 * Ananda Parabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:78
+  :cite-key: CDM:78
   :END:
 
 #+BEGIN_VERSE
@@ -1365,10 +1365,10 @@ Mor hiya habe taba sathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:79
+  :cite-key: CDM:79
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ My heart will be your companion.
 * O Delight-Ocean
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:80
+  :cite-key: CDM:80
   :END:
 
 #+BEGIN_VERSE
@@ -1399,10 +1399,10 @@ My heart will be your companion.
 * Sagarer Jale Kheliya Nachiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:81
+  :cite-key: CDM:81
   :END:
 
 #+BEGIN_VERSE
@@ -1415,10 +1415,10 @@ Amar amire harabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:82
+  :cite-key: CDM:82
   :END:
 
 #+BEGIN_VERSE
@@ -1432,10 +1432,10 @@ I shall lose my little self.
 * Playing and Dancing in Ocean Waters
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:83
+  :cite-key: CDM:83
   :END:
 
 #+BEGIN_VERSE
@@ -1449,10 +1449,10 @@ I shall lose my little self.
 * Sangi Bihin Din Rajani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:84
+  :cite-key: CDM:84
   :END:
 
 #+BEGIN_VERSE
@@ -1465,10 +1465,10 @@ Sangi bihin bhitar bahir
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:85
+  :cite-key: CDM:85
   :END:
 
 #+BEGIN_VERSE
@@ -1483,10 +1483,10 @@ No friend within, no friend without.
 * No Friend During the Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:86
+  :cite-key: CDM:86
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ No friend without.
 * Kandte Chahi Kandte Janina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:87
+  :cite-key: CDM:87
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ Haste chahi haste janina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:88
+  :cite-key: CDM:88
   :END:
 
 #+BEGIN_VERSE
@@ -1535,10 +1535,10 @@ I want to smile, but I know not how to smile.
 * I Want to Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:89
+  :cite-key: CDM:89
   :END:
 
 #+BEGIN_VERSE
@@ -1552,10 +1552,10 @@ I want to smile, but I know not how to smile.
 * Bhul Karego Amar Jiban katai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:90
+  :cite-key: CDM:90
   :END:
 
 #+BEGIN_VERSE
@@ -1568,10 +1568,10 @@ Amar jiban katai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:91
+  :cite-key: CDM:91
   :END:
 
 #+BEGIN_VERSE
@@ -1585,10 +1585,10 @@ I spend my life.
 * Ceaselessly Making Mistakes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:92
+  :cite-key: CDM:92
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ I spend my life.
 * Nil Baridhir Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:93
+  :cite-key: CDM:93
   :END:
 
 #+BEGIN_VERSE
@@ -1619,10 +1619,10 @@ Heri aji ami amar hiyar majhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:94
+  :cite-key: CDM:94
   :END:
 
 #+BEGIN_VERSE
@@ -1637,10 +1637,10 @@ Inside the depths of the ocean.
 * My Heart’s Inner Pilot Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:95
+  :cite-key: CDM:95
   :END:
 
 #+BEGIN_VERSE
@@ -1655,10 +1655,10 @@ Inside the depths of the ocean.
 * Samudra Aji Dekhalo Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:96
+  :cite-key: CDM:96
   :END:
 
 #+BEGIN_VERSE
@@ -1671,10 +1671,10 @@ Rudra tahar murati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:97
+  :cite-key: CDM:97
   :END:
 
 #+BEGIN_VERSE
@@ -1688,10 +1688,10 @@ Its destruction-form.
 * Ocean Has Shown Me Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:98
+  :cite-key: CDM:98
   :END:
 
 #+BEGIN_VERSE
@@ -1705,10 +1705,10 @@ Its destruction-form.
 * Kende Kende Mari Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:99
+  :cite-key: CDM:99
   :END:
 
 #+BEGIN_VERSE
@@ -1721,10 +1721,10 @@ Ektu tomar hasi lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:100
+  :cite-key: CDM:100
   :END:
 
 #+BEGIN_VERSE
@@ -1739,10 +1739,10 @@ From You, my Lord.
 * Only to See a Little Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:101
+  :cite-key: CDM:101
   :END:
 
 #+BEGIN_VERSE
@@ -1757,10 +1757,10 @@ From You, my Lord.
 * Chorer Mato Lukiye Thake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:102
+  :cite-key: CDM:102
   :END:
 
 #+BEGIN_VERSE
@@ -1773,10 +1773,10 @@ Amar sakal bhitar truti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:103
+  :cite-key: CDM:103
   :END:
 
 #+BEGIN_VERSE
@@ -1790,10 +1790,10 @@ Hide inside me like a thief.
 * All My Inner Mistakes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:104
+  :cite-key: CDM:104
   :END:
 
 #+BEGIN_VERSE
@@ -1807,10 +1807,10 @@ Hide inside me like a thief.
 * Moha Bandhan Kare Khandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:105
+  :cite-key: CDM:105
   :END:
 
 #+BEGIN_VERSE
@@ -1823,10 +1823,10 @@ Nabin ushare dakibo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:106
+  :cite-key: CDM:106
   :END:
 
 #+BEGIN_VERSE
@@ -1840,10 +1840,10 @@ Breaking  asunder my attachment-bondage.
 * I Shall Invoke the New Dawn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:107
+  :cite-key: CDM:107
   :END:
 
 #+BEGIN_VERSE
@@ -1857,10 +1857,10 @@ Breaking asunder my attachment-bondage.
 * Shanti Sagare Nijere Harate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:108
+  :cite-key: CDM:108
   :END:
 
 #+BEGIN_VERSE
@@ -1873,10 +1873,10 @@ Britha kende ami mari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:109
+  :cite-key: CDM:109
   :END:
 
 #+BEGIN_VERSE
@@ -1890,10 +1890,10 @@ In vain I cry and die.
 * To Lose Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:110
+  :cite-key: CDM:110
   :END:
 
 #+BEGIN_VERSE
@@ -1907,10 +1907,10 @@ In vain I cry and die.
 * Sundaro Paramer Sara Sundaro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:111
+  :cite-key: CDM:111
   :END:
 
 #+BEGIN_VERSE
@@ -1923,10 +1923,10 @@ Laho laho laho toma lagi mor antara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:112
+  :cite-key: CDM:112
   :END:
 
 #+BEGIN_VERSE
@@ -1942,10 +1942,10 @@ It is all for You.
 * O My Lord Supreme, O Beautiful One
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:113
+  :cite-key: CDM:113
   :END:
 
 #+BEGIN_VERSE
@@ -1961,10 +1961,10 @@ It is all for You.
 * Chaowar Kudha Sarbada
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:114
+  :cite-key: CDM:114
   :END:
 
 #+BEGIN_VERSE
@@ -1977,10 +1977,10 @@ Barai tibra jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:115
+  :cite-key: CDM:115
   :END:
 
 #+BEGIN_VERSE
@@ -1994,10 +1994,10 @@ We all know.
 * Desire-Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:116
+  :cite-key: CDM:116
   :END:
 
 #+BEGIN_VERSE
@@ -2012,10 +2012,10 @@ We all know.
 * Dakbo Kare Apan Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:117
+  :cite-key: CDM:117
   :END:
 
 #+BEGIN_VERSE
@@ -2028,10 +2028,10 @@ Ei dharate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:118
+  :cite-key: CDM:118
   :END:
 
 #+BEGIN_VERSE
@@ -2045,10 +2045,10 @@ In this world?
 * Whom Can I Call My Own?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:119
+  :cite-key: CDM:119
   :END:
 
 #+BEGIN_VERSE
@@ -2062,10 +2062,10 @@ In this world?
 * Bhore Sanjhe Pran Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:120
+  :cite-key: CDM:120
   :END:
 
 #+BEGIN_VERSE
@@ -2078,10 +2078,10 @@ Ashru shudhu sathi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:121
+  :cite-key: CDM:121
   :END:
 
 #+BEGIN_VERSE
@@ -2096,10 +2096,10 @@ Tear is my only friend.
 * In the Morning, in the Evening
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:122
+  :cite-key: CDM:122
   :END:
 
 #+BEGIN_VERSE
@@ -2114,10 +2114,10 @@ Tear is my only friend.
 * Basana Eshana Shikeche Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:123
+  :cite-key: CDM:123
   :END:
 
 #+BEGIN_VERSE
@@ -2130,10 +2130,10 @@ Samarpaner giti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:124
+  :cite-key: CDM:124
   :END:
 
 #+BEGIN_VERSE
@@ -2148,10 +2148,10 @@ The surrender-song.
 * Desire and Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:125
+  :cite-key: CDM:125
   :END:
 
 #+BEGIN_VERSE
@@ -2166,10 +2166,10 @@ The surrender-song.
 * Amar Hiyar Sunil Pakhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:126
+  :cite-key: CDM:126
   :END:
 
 #+BEGIN_VERSE
@@ -2182,10 +2182,10 @@ Tomar sathe khelte chahi lukochuri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:127
+  :cite-key: CDM:127
   :END:
 
 #+BEGIN_VERSE
@@ -2199,10 +2199,10 @@ With you I wish to play hide-and-seek.
 * O My Heart’s Blue Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:128
+  :cite-key: CDM:128
   :END:
 
 #+BEGIN_VERSE
@@ -2216,10 +2216,10 @@ With you I wish to play hide-and-seek.
 * Nai Shesh.. Basanar Ar Jatanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:129
+  :cite-key: CDM:129
   :END:
 
 #+BEGIN_VERSE
@@ -2232,10 +2232,10 @@ Basanar ar jatanar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:130
+  :cite-key: CDM:130
   :END:
 
 #+BEGIN_VERSE
@@ -2250,10 +2250,10 @@ Suffering has no end.
 * No End
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:131
+  :cite-key: CDM:131
   :END:
 
 #+BEGIN_VERSE
@@ -2268,10 +2268,10 @@ Suffering has no end.
 * Ke Habe Mor Hiyar Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:132
+  :cite-key: CDM:132
   :END:
 
 #+BEGIN_VERSE
@@ -2284,10 +2284,10 @@ Ke habe mor apan jan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:133
+  :cite-key: CDM:133
   :END:
 
 #+BEGIN_VERSE
@@ -2301,10 +2301,10 @@ Who will be my dear one?
 * Who Will Become My Heart’s Friend?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-01-1991
-  :CITE-KEY: CDM:134
+  :cite-key: CDM:134
   :END:
 
 #+BEGIN_VERSE
@@ -2318,10 +2318,10 @@ Who will be my dear one?
 * Maner Baner Dukher Sukher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:135
+  :cite-key: CDM:135
   :END:
 
 #+BEGIN_VERSE
@@ -2334,10 +2334,10 @@ Kanna amar thamena
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:136
+  :cite-key: CDM:136
   :END:
 
 #+BEGIN_VERSE
@@ -2351,10 +2351,10 @@ My heart-suffering-cries never stop.
 * Inside My Mind-Forest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:137
+  :cite-key: CDM:137
   :END:
 
 #+BEGIN_VERSE
@@ -2369,10 +2369,10 @@ Never stop, never stop, never stop.
 * Amar Jiban Amar Maran Taba Swapaner Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:138
+  :cite-key: CDM:138
   :END:
 
 #+BEGIN_VERSE
@@ -2385,10 +2385,10 @@ Taba swapaner tripti lagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:139
+  :cite-key: CDM:139
   :END:
 
 #+BEGIN_VERSE
@@ -2403,10 +2403,10 @@ Only to satisfy Your Dream.
 * I Keep My Life with Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:140
+  :cite-key: CDM:140
   :END:
 
 #+BEGIN_VERSE
@@ -2421,10 +2421,10 @@ Only to satisfy Your Dream.
 * Diner Sheshe Chander Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:141
+  :cite-key: CDM:141
   :END:
 
 #+BEGIN_VERSE
@@ -2437,10 +2437,10 @@ Tarar sathe hiyai amar nache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:142
+  :cite-key: CDM:142
   :END:
 
 #+BEGIN_VERSE
@@ -2455,10 +2455,10 @@ With the stars my heart is dancing.
 * At the End of the Day in the Land
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:143
+  :cite-key: CDM:143
   :END:
 
 #+BEGIN_VERSE
@@ -2473,10 +2473,10 @@ With the stars my heart is dancing.
 * Amar Katha Bali Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:144
+  :cite-key: CDM:144
   :END:
 
 #+BEGIN_VERSE
@@ -2489,10 +2489,10 @@ Sabai kare upahas
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:145
+  :cite-key: CDM:145
   :END:
 
 #+BEGIN_VERSE
@@ -2506,10 +2506,10 @@ When I speak of myself.
 * Everybody Ridicules Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:146
+  :cite-key: CDM:146
   :END:
 
 #+BEGIN_VERSE
@@ -2523,10 +2523,10 @@ When I speak of myself.
 * Hethai Nahe Hothai Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:147
+  :cite-key: CDM:147
   :END:
 
 #+BEGIN_VERSE
@@ -2540,10 +2540,10 @@ Dekha tomai pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:148
+  :cite-key: CDM:148
   :END:
 
 #+BEGIN_VERSE
@@ -2558,10 +2558,10 @@ I shall be able to see You.
 * Not Here, Not There
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-01-1991
-  :CITE-KEY: CDM:149
+  :cite-key: CDM:149
   :END:
 
 #+BEGIN_VERSE
@@ -2576,10 +2576,10 @@ I shall be able to see You.
 * Baroi Madhur Janani Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:150
+  :cite-key: CDM:150
   :END:
 
 #+BEGIN_VERSE
@@ -2592,10 +2592,10 @@ Karuna barishan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:151
+  :cite-key: CDM:151
   :END:
 
 #+BEGIN_VERSE
@@ -2609,10 +2609,10 @@ Is extremely sweet.
 * Mother Divine, Your Compassion-Rain
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:152
+  :cite-key: CDM:152
   :END:
 
 #+BEGIN_VERSE
@@ -2626,10 +2626,10 @@ Is extremely sweet.
 * Manas Purite Ke Peyeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:153
+  :cite-key: CDM:153
   :END:
 
 #+BEGIN_VERSE
@@ -2642,10 +2642,10 @@ Balo shantir darashan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:154
+  :cite-key: CDM:154
   :END:
 
 #+BEGIN_VERSE
@@ -2659,10 +2659,10 @@ In the mind-citadel?
 * O, Tell Me Who Has Seen?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:155
+  :cite-key: CDM:155
   :END:
 
 #+BEGIN_VERSE
@@ -2677,10 +2677,10 @@ In the mind-citadel?
 * Phuler Mato Puto Hale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:156
+  :cite-key: CDM:156
   :END:
 
 #+BEGIN_VERSE
@@ -2693,10 +2693,10 @@ Manas marma dekha tomar pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:157
+  :cite-key: CDM:157
   :END:
 
 #+BEGIN_VERSE
@@ -2710,10 +2710,10 @@ I shall be able to see You.
 * When My Mind Becomes a Purity-Flower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:158
+  :cite-key: CDM:158
   :END:
 
 #+BEGIN_VERSE
@@ -2727,10 +2727,10 @@ I shall be able to see You.
 * Deher Khudha Kichui Na Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:159
+  :cite-key: CDM:159
   :END:
 
 #+BEGIN_VERSE
@@ -2743,10 +2743,10 @@ Hiyar khudhar tulanai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:160
+  :cite-key: CDM:160
   :END:
 
 #+BEGIN_VERSE
@@ -2760,10 +2760,10 @@ For my heart-hunger.
 * My Body-Hunger
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:161
+  :cite-key: CDM:161
   :END:
 
 #+BEGIN_VERSE
@@ -2777,10 +2777,10 @@ For my heart-hunger.
 * Hridaye Kanna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:162
+  :cite-key: CDM:162
   :END:
 
 #+BEGIN_VERSE
@@ -2795,10 +2795,10 @@ Tai unnati ati druta gati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:163
+  :cite-key: CDM:163
   :END:
 
 #+BEGIN_VERSE
@@ -2814,10 +2814,10 @@ Therefore, my fastest progress.
 * Tearful Cries in My Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-01-1991
-  :CITE-KEY: CDM:164
+  :cite-key: CDM:164
   :END:
 
 #+BEGIN_VERSE
@@ -2833,10 +2833,10 @@ Therefore, my fastest progress.
 * Basana Khudha Eshana Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:165
+  :cite-key: CDM:165
   :END:
 
 #+BEGIN_VERSE
@@ -2849,10 +2849,10 @@ Tomar paye rakhbo aji rakhbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:166
+  :cite-key: CDM:166
   :END:
 
 #+BEGIN_VERSE
@@ -2866,10 +2866,10 @@ At Your Feet today I shall place.
 * My Desire-Hunger, My Aspiration-Nectar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:167
+  :cite-key: CDM:167
   :END:
 
 #+BEGIN_VERSE
@@ -2883,10 +2883,10 @@ At Your Feet today I shall place.
 * Amar Katha Bhabi Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:168
+  :cite-key: CDM:168
   :END:
 
 #+BEGIN_VERSE
@@ -2900,10 +2900,10 @@ Bahu dure mago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:169
+  :cite-key: CDM:169
   :END:
 
 #+BEGIN_VERSE
@@ -2918,10 +2918,10 @@ Far away from me, Mother.
 * I Think Only of Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:170
+  :cite-key: CDM:170
   :END:
 
 #+BEGIN_VERSE
@@ -2936,10 +2936,10 @@ Far away from me, Mother.
 * Bahir Jagater Phanki Dite Pari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:171
+  :cite-key: CDM:171
   :END:
 
 #+BEGIN_VERSE
@@ -2952,10 +2952,10 @@ Bhitar jagater parina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:172
+  :cite-key: CDM:172
   :END:
 
 #+BEGIN_VERSE
@@ -2969,10 +2969,10 @@ But not in the inner world.
 * I Can Deceive in the Outer World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:173
+  :cite-key: CDM:173
   :END:
 
 #+BEGIN_VERSE
@@ -2986,10 +2986,10 @@ But not in the inner world.
 * Nijere Na Dile Kemane Labhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:174
+  :cite-key: CDM:174
   :END:
 
 #+BEGIN_VERSE
@@ -3002,10 +3002,10 @@ Amiya shanti jharna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:175
+  :cite-key: CDM:175
   :END:
 
 #+BEGIN_VERSE
@@ -3019,10 +3019,10 @@ How can I receive nectar-peace-fountain?
 * If I Do Not Offer Myself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:176
+  :cite-key: CDM:176
   :END:
 
 #+BEGIN_VERSE
@@ -3036,10 +3036,10 @@ How can I receive nectar-peace-fountain?
 * Bahu Kal Pare Sandeha Chore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:177
+  :cite-key: CDM:177
   :END:
 
 #+BEGIN_VERSE
@@ -3052,10 +3052,10 @@ Ajike dhariya phelechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:178
+  :cite-key: CDM:178
   :END:
 
 #+BEGIN_VERSE
@@ -3069,10 +3069,10 @@ Today I have caught the doubt-thief.
 * After a Long Time, Today I Have Caught
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-01-1991
-  :CITE-KEY: CDM:179
+  :cite-key: CDM:179
   :END:
 
 #+BEGIN_VERSE
@@ -3087,10 +3087,10 @@ The doubt-thief.
 * Amar Amire Karite Chahigo Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:180
+  :cite-key: CDM:180
   :END:
 
 #+BEGIN_VERSE
@@ -3103,10 +3103,10 @@ Ei asha ei mor pan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:181
+  :cite-key: CDM:181
   :END:
 
 #+BEGIN_VERSE
@@ -3120,10 +3120,10 @@ This is my hope and this is my promise.
 * I Long to Offer My Little Self
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:182
+  :cite-key: CDM:182
   :END:
 
 #+BEGIN_VERSE
@@ -3137,10 +3137,10 @@ This is my hope and this is my promise.
 * Bandhan Hara Karo Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:183
+  :cite-key: CDM:183
   :END:
 
 #+BEGIN_VERSE
@@ -3153,10 +3153,10 @@ Amar hiyar bhakti dhara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:184
+  :cite-key: CDM:184
   :END:
 
 #+BEGIN_VERSE
@@ -3171,10 +3171,10 @@ Do make my heart’s devotion-flow
 * My Heart’s Devotion-Flow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:185
+  :cite-key: CDM:185
   :END:
 
 #+BEGIN_VERSE
@@ -3188,10 +3188,10 @@ Do make my heart's devotion-flow boundless.
 * Klanto Manas Klanto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:186
+  :cite-key: CDM:186
   :END:
 
 #+BEGIN_VERSE
@@ -3204,10 +3204,10 @@ Asi ami tomar hiyar dware
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:187
+  :cite-key: CDM:187
   :END:
 
 #+BEGIN_VERSE
@@ -3221,10 +3221,10 @@ With a tired body, I am at Your Heart-Door.
 * With a Tired Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:188
+  :cite-key: CDM:188
   :END:
 
 #+BEGIN_VERSE
@@ -3240,10 +3240,10 @@ I am at Your Heart-Door.
 * Janite Chahigo Amar Swarupe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:189
+  :cite-key: CDM:189
   :END:
 
 #+BEGIN_VERSE
@@ -3256,10 +3256,10 @@ Bandhite chahigo malin maner kurupe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:190
+  :cite-key: CDM:190
   :END:
 
 #+BEGIN_VERSE
@@ -3273,10 +3273,10 @@ I long to bind my impure mind’s uncomely form.
 * I Long to Know My Supreme Form
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:191
+  :cite-key: CDM:191
   :END:
 
 #+BEGIN_VERSE
@@ -3290,10 +3290,10 @@ I long to bind my impure mind’s uncomely form.
 * Aghat Karo Aghat Karo Bahu Jore
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:192
+  :cite-key: CDM:192
   :END:
 
 #+BEGIN_VERSE
@@ -3306,10 +3306,10 @@ Karte amai apan priyatama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:193
+  :cite-key: CDM:193
   :END:
 
 #+BEGIN_VERSE
@@ -3324,10 +3324,10 @@ My Lord Beloved Supreme.
 * Strike Me Hard
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:194
+  :cite-key: CDM:194
   :END:
 
 #+BEGIN_VERSE
@@ -3342,10 +3342,10 @@ My Lord Beloved Supreme.
 * Dehe Prane Mane Kena Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:195
+  :cite-key: CDM:195
   :END:
 
 #+BEGIN_VERSE
@@ -3358,10 +3358,10 @@ Shudhu sandeha barishan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:196
+  :cite-key: CDM:196
   :END:
 
 #+BEGIN_VERSE
@@ -3375,10 +3375,10 @@ In my body, in my vital, in my mind today?
 * Why Do I Have Doubt-Downpour?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:197
+  :cite-key: CDM:197
   :END:
 
 #+BEGIN_VERSE
@@ -3392,10 +3392,10 @@ In my body, in my vital, in my mind today?
 * Jabe Jabe Dudin Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:198
+  :cite-key: CDM:198
   :END:
 
 #+BEGIN_VERSE
@@ -3408,10 +3408,10 @@ Agyanatar rati amai chhere jabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:199
+  :cite-key: CDM:199
   :END:
 
 #+BEGIN_VERSE
@@ -3425,10 +3425,10 @@ Will leave me and go away.
 * In a Short While
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-1991
-  :CITE-KEY: CDM:200
+  :cite-key: CDM:200
   :END:
 
 #+BEGIN_VERSE

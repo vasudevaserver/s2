@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0936
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: TBMC-4
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0936
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: TBMC-4
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: TBMC:151e1
+  :genre: note
+  :keywords:
+  :cite-key: TBMC:151e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * 151 Ribald
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:151
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:151
   :END:
 
 
@@ -50,9 +50,9 @@
 * 152 Salacious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:152
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:152
   :END:
 
 
@@ -65,9 +65,9 @@
 * 153 Sanguine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:153
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:153
   :END:
 
 
@@ -80,9 +80,9 @@
 * 154 Sapient
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:154
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:154
   :END:
 
 
@@ -95,9 +95,9 @@
 * 155 Saturnine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:155
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:155
   :END:
 
 
@@ -110,9 +110,9 @@
 * 156 Sententious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:156
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:156
   :END:
 
 
@@ -125,9 +125,9 @@
 * 157 Signification
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:157
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:157
   :END:
 
 
@@ -140,9 +140,9 @@
 * 158 Somnolent
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:158
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:158
   :END:
 
 
@@ -155,9 +155,9 @@
 * 159 Splenetic
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:159
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:159
   :END:
 
 
@@ -170,9 +170,9 @@
 * 160 Spurious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:160
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:160
   :END:
 
 
@@ -185,9 +185,9 @@
 * 161 Stoic
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:161
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:161
   :END:
 
 
@@ -200,9 +200,9 @@
 * 162 Succour
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:162
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:162
   :END:
 
 
@@ -215,9 +215,9 @@
 * 153 Supercilious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:163
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:163
   :END:
 
 
@@ -230,9 +230,9 @@
 * 164 Sybarites
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:164
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:164
   :END:
 
 
@@ -245,9 +245,9 @@
 * 165 Sycophants
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:165
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:165
   :END:
 
 
@@ -260,9 +260,9 @@
 * 166 Synthesis
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:166
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:166
   :END:
 
 
@@ -275,9 +275,9 @@
 * 167 Tacit
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:167
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:167
   :END:
 
 
@@ -290,9 +290,9 @@
 * 168 Tenuous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:168
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:168
   :END:
 
 
@@ -305,9 +305,9 @@
 * 169 Turgid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:169
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:169
   :END:
 
 
@@ -320,9 +320,9 @@
 * 170 Tutelage
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:170
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:170
   :END:
 
 
@@ -335,9 +335,9 @@
 * 171 Tyro
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:171
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:171
   :END:
 
 
@@ -350,9 +350,9 @@
 * 172 Ubiquitous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:172
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:172
   :END:
 
 
@@ -365,9 +365,9 @@
 * 173 Unctuous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:173
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:173
   :END:
 
 
@@ -380,9 +380,9 @@
 * 174 Upbraid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:174
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:174
   :END:
 
 
@@ -395,9 +395,9 @@
 * 175 Urbane
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:175
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:175
   :END:
 
 
@@ -410,9 +410,9 @@
 * 176 Uxorious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:176
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:176
   :END:
 
 
@@ -425,9 +425,9 @@
 * 177 Vagaries
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:177
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:177
   :END:
 
 
@@ -440,9 +440,9 @@
 * 178 Vapid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:178
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:178
   :END:
 
 
@@ -455,9 +455,9 @@
 * 179 Vegetate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:179
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:179
   :END:
 
 
@@ -470,9 +470,9 @@
 * 180 Venial
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:180
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:180
   :END:
 
 
@@ -485,9 +485,9 @@
 * 181 Verboten
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:181
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:181
   :END:
 
 
@@ -500,9 +500,9 @@
 * 182 Verity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:182
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:182
   :END:
 
 
@@ -515,9 +515,9 @@
 * 183 Vicissitudes
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:183
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:183
   :END:
 
 
@@ -530,9 +530,9 @@
 * 184 Vindictive
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:184
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:184
   :END:
 
 
@@ -545,9 +545,9 @@
 * 185 Vociferous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:185
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:185
   :END:
 
 
@@ -560,9 +560,9 @@
 * 186 Voluptuous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:186
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:186
   :END:
 
 
@@ -575,9 +575,9 @@
 * 187 Wry
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:187
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:187
   :END:
 
 

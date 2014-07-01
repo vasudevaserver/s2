@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0027
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: RAM
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0027
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: RAM
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Why Should I Be Responsible?
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:1
+  :genre: play
+  :keywords:
+  :cite-key: RAM:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:2e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:2e1
   :END:
 
 
@@ -55,9 +55,9 @@ SON OF RATNAKAR
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:2
+  :genre: play
+  :keywords:
+  :cite-key: RAM:2
   :END:
 
 
@@ -65,9 +65,9 @@ SON OF RATNAKAR
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:3
+  :genre: play
+  :keywords:
+  :cite-key: RAM:3
   :END:
 
 
@@ -140,9 +140,9 @@ NARADA: Go and see.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:4
+  :genre: play
+  :keywords:
+  :cite-key: RAM:4
   :END:
 
 
@@ -175,9 +175,9 @@ RATNAKAR /(giving a smart slap to his son):/ You ungrateful creature! /(He kicks
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:5
+  :genre: play
+  :keywords:
+  :cite-key: RAM:5
   :END:
 
 
@@ -204,9 +204,9 @@ NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name be
 * Dasharatha Promises And Rama Executes
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:6
+  :genre: play
+  :keywords:
+  :cite-key: RAM:6
   :END:
 
 
@@ -214,9 +214,9 @@ NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name be
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:7e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:7e1
   :END:
 
 
@@ -245,9 +245,9 @@ OFFICERS IN BHARATA'S ARMY
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:7
+  :genre: play
+  :keywords:
+  :cite-key: RAM:7
   :END:
 
 
@@ -255,9 +255,9 @@ OFFICERS IN BHARATA'S ARMY
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:8
+  :genre: play
+  :keywords:
+  :cite-key: RAM:8
   :END:
 
 
@@ -312,9 +312,9 @@ KAIKEYI /(to herself):/ Perhaps she is right . . .
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:9
+  :genre: play
+  :keywords:
+  :cite-key: RAM:9
   :END:
 
 
@@ -399,9 +399,9 @@ RAMA: No, Mother, the world will not hate you. But even if the world hates you I
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:10
+  :genre: play
+  :keywords:
+  :cite-key: RAM:10
   :END:
 
 
@@ -424,9 +424,9 @@ BHARATA /(turning to Kaikeyi, nearly in tears):/ Mother, are you a human being? 
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:11
+  :genre: play
+  :keywords:
+  :cite-key: RAM:11
   :END:
 
 
@@ -489,9 +489,9 @@ BHARATA /(places the pair of wooden sandals on his heart):/ This is the symbol o
 * The Golden Deer
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:12
+  :genre: play
+  :keywords:
+  :cite-key: RAM:12
   :END:
 
 
@@ -499,9 +499,9 @@ BHARATA /(places the pair of wooden sandals on his heart):/ This is the symbol o
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:13e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:13e1
   :END:
 
 
@@ -520,9 +520,9 @@ RAVANA, KING OF THE DEMONS
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:13
+  :genre: play
+  :keywords:
+  :cite-key: RAM:13
   :END:
 
 
@@ -530,9 +530,9 @@ RAVANA, KING OF THE DEMONS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:14
+  :genre: play
+  :keywords:
+  :cite-key: RAM:14
   :END:
 
 
@@ -569,9 +569,9 @@ RAMA: Lakshmana, I am off. Look after Sita.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:15
+  :genre: play
+  :keywords:
+  :cite-key: RAM:15
   :END:
 
 
@@ -588,9 +588,9 @@ DEER /(in Rama's voice):/ Ah Sita, Ah Lakshmana! Ahhh Sita, Ahhh Lakshmana.
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:16
+  :genre: play
+  :keywords:
+  :cite-key: RAM:16
   :END:
 
 
@@ -621,9 +621,9 @@ LAKSHMANA: Mother, I go.
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:17
+  :genre: play
+  :keywords:
+  :cite-key: RAM:17
   :END:
 
 
@@ -636,9 +636,9 @@ LAKSHMANA: O God, you know my heart. I adore Sita as my own mother. I have never
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:18
+  :genre: play
+  :keywords:
+  :cite-key: RAM:18
   :END:
 
 
@@ -665,9 +665,9 @@ SITA: I shall bring food for you.
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:19
+  :genre: play
+  :keywords:
+  :cite-key: RAM:19
   :END:
 
 
@@ -684,9 +684,9 @@ SITA: You wretch, you rogue, you brute! What else can I expect from a /rakshasa?
 * Scene Vii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:20
+  :genre: play
+  :keywords:
+  :cite-key: RAM:20
   :END:
 
 
@@ -709,9 +709,9 @@ LAKSHMANA: How hard it is to please two masters. I wanted to please you, I wante
 * Scene Viii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:21
+  :genre: play
+  :keywords:
+  :cite-key: RAM:21
   :END:
 
 
@@ -732,9 +732,9 @@ LAKSHMANA: Sita, Sita, no matter where you are, Mother Sita, this heart of adora
 * Dasharatha's Dream Is At Last Fulfilled
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:22
+  :genre: play
+  :keywords:
+  :cite-key: RAM:22
   :END:
 
 
@@ -742,9 +742,9 @@ LAKSHMANA: Sita, Sita, no matter where you are, Mother Sita, this heart of adora
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:23e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:23e1
   :END:
 
 
@@ -763,9 +763,9 @@ A LARGE CROWD OF PEOPLE
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:23
+  :genre: play
+  :keywords:
+  :cite-key: RAM:23
   :END:
 
 
@@ -773,9 +773,9 @@ A LARGE CROWD OF PEOPLE
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:24
+  :genre: play
+  :keywords:
+  :cite-key: RAM:24
   :END:
 
 
@@ -824,9 +824,9 @@ RAMA: Urmila, your silence when we left for the forest was deeply appreciated an
 * My Rama Is My All
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:25
+  :genre: play
+  :keywords:
+  :cite-key: RAM:25
   :END:
 
 
@@ -834,9 +834,9 @@ RAMA: Urmila, your silence when we left for the forest was deeply appreciated an
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:26e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:26e1
   :END:
 
 
@@ -849,9 +849,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:26
+  :genre: play
+  :keywords:
+  :cite-key: RAM:26
   :END:
 
 
@@ -859,9 +859,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:27
+  :genre: play
+  :keywords:
+  :cite-key: RAM:27
   :END:
 
 
@@ -937,9 +937,9 @@ KING: Hanuman's strength is unparalleled, but his blind and stupid faith in Rama
 * Fire Surrenders To Sita
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:28
+  :genre: play
+  :keywords:
+  :cite-key: RAM:28
   :END:
 
 
@@ -947,9 +947,9 @@ KING: Hanuman's strength is unparalleled, but his blind and stupid faith in Rama
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:29e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:29e1
   :END:
 
 
@@ -966,9 +966,9 @@ A LARGE AUDIENCE
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:29
+  :genre: play
+  :keywords:
+  :cite-key: RAM:29
   :END:
 
 
@@ -976,9 +976,9 @@ A LARGE AUDIENCE
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:30
+  :genre: play
+  :keywords:
+  :cite-key: RAM:30
   :END:
 
 
@@ -1001,9 +1001,9 @@ SITA: I know that fire is the cosmic Reality and Rama is the cosmic Reality. If 
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:31
+  :genre: play
+  :keywords:
+  :cite-key: RAM:31
   :END:
 
 
@@ -1044,9 +1044,9 @@ I know, I know.]
 * No Faith, No Safety
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:32
+  :genre: play
+  :keywords:
+  :cite-key: RAM:32
   :END:
 
 
@@ -1054,9 +1054,9 @@ I know, I know.]
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:33e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:33e1
   :END:
 
 
@@ -1067,9 +1067,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA A MAN
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:33
+  :genre: play
+  :keywords:
+  :cite-key: RAM:33
   :END:
 
 
@@ -1077,9 +1077,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA A MAN
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:34
+  :genre: play
+  :keywords:
+  :cite-key: RAM:34
   :END:
 
 
@@ -1162,9 +1162,9 @@ HANUMAN: No. You sneer at my Rama, you ridicule my Rama. I won't save you. He wh
 * Rama Fails
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:35
+  :genre: play
+  :keywords:
+  :cite-key: RAM:35
   :END:
 
 
@@ -1172,9 +1172,9 @@ HANUMAN: No. You sneer at my Rama, you ridicule my Rama. I won't save you. He wh
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:36e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:36e1
   :END:
 
 
@@ -1195,9 +1195,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:36
+  :genre: play
+  :keywords:
+  :cite-key: RAM:36
   :END:
 
 
@@ -1205,9 +1205,9 @@ HANUMAN, A GREAT DEVOTEE OF RAMA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:37
+  :genre: play
+  :keywords:
+  :cite-key: RAM:37
   :END:
 
 
@@ -1240,9 +1240,9 @@ RAMA: With your blessing let me leave.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:38
+  :genre: play
+  :keywords:
+  :cite-key: RAM:38
   :END:
 
 
@@ -1329,9 +1329,9 @@ my ego-reality's existence.]
 * Brother Lakshmana, I Shall Follow You
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:39
+  :genre: play
+  :keywords:
+  :cite-key: RAM:39
   :END:
 
 
@@ -1339,9 +1339,9 @@ my ego-reality's existence.]
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: RAM:40e1
+  :genre: note
+  :keywords:
+  :cite-key: RAM:40e1
   :END:
 
 
@@ -1362,9 +1362,9 @@ MINISTERS AND ELDERS
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:40
+  :genre: play
+  :keywords:
+  :cite-key: RAM:40
   :END:
 
 
@@ -1372,9 +1372,9 @@ MINISTERS AND ELDERS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:41
+  :genre: play
+  :keywords:
+  :cite-key: RAM:41
   :END:
 
 
@@ -1466,9 +1466,9 @@ DURVASHA: Rama, I bless you with all my heart and soul. You have satisfied my ou
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: RAM:42
+  :genre: play
+  :keywords:
+  :cite-key: RAM:42
   :END:
 
 

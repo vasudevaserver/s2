@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 944
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: QHT
-  :GENRE: song
+  :book-number: 944
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: QHT
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: QHT:1e1
+  :genre: note
+  :cite-key: QHT:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: QHT:1e2
+  :genre: note
+  :cite-key: QHT:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Maner Bane Kathar Sane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:1
+  :cite-key: QHT:1
   :END:
 
 #+BEGIN_VERSE
@@ -56,10 +56,10 @@ Thakbe ami chaina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:2
+  :cite-key: QHT:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ I want not to live.
 * Inside My Mind-Forest, with Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:3
+  :cite-key: QHT:3
   :END:
 
 #+BEGIN_VERSE
@@ -91,10 +91,10 @@ I want not to live.
 * Hiyar Tiyasha Mitate Chahigo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:4
+  :cite-key: QHT:4
   :END:
 
 #+BEGIN_VERSE
@@ -107,10 +107,10 @@ Amar chokher jale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:5
+  :cite-key: QHT:5
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ With tears.
 * Bhul Karego Tomai Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:6
+  :cite-key: QHT:6
   :END:
 
 #+BEGIN_VERSE
@@ -140,10 +140,10 @@ Keno prabhu daki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:7
+  :cite-key: QHT:7
   :END:
 
 #+BEGIN_VERSE
@@ -157,10 +157,10 @@ Even by mistake?
 * Bidai Dine Shanti Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:8
+  :cite-key: QHT:8
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Ei barashai asi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:9
+  :cite-key: QHT:9
   :END:
 
 #+BEGIN_VERSE
@@ -191,10 +191,10 @@ With this hope I am alive.
 * At the End of My Journey’s Close
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:10
+  :cite-key: QHT:10
   :END:
 
 #+BEGIN_VERSE
@@ -209,10 +209,10 @@ With this hope I am alive.
 * Shuno Shuno Shuno Ogo Dhara Basi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:11
+  :cite-key: QHT:11
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ ananda tai pete ananda shudhu dite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:12
+  :cite-key: QHT:12
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Delight only in self-offering.
 * Hearken, Hearken
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:13
+  :cite-key: QHT:13
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Delight only in self-offering.
 * Dibanishi Ami Khuliya Rakhibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:14
+  :cite-key: QHT:14
   :END:
 
 #+BEGIN_VERSE
@@ -278,10 +278,10 @@ Amar ashar duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:15
+  :cite-key: QHT:15
   :END:
 
 #+BEGIN_VERSE
@@ -295,10 +295,10 @@ My heart-door open.
 * Day and Night I Shall Keep
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:16
+  :cite-key: QHT:16
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ My heart-door open.
 * Jakhan Bhabi Trutir Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:17
+  :cite-key: QHT:17
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Barai kare bhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:18
+  :cite-key: QHT:18
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ When I think of my mistakes.
 * I Am Terribly Frightened
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:19
+  :cite-key: QHT:19
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ When I think of my mistakes.
 * Kemane Hasibo Bedanai Bhara Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:20
+  :cite-key: QHT:20
   :END:
 
 #+BEGIN_VERSE
@@ -377,10 +377,10 @@ Kemane hasibo bedanai bhara jibane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:21
+  :cite-key: QHT:21
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ With a life full of suffering?
 * How Can I Smile?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:22
+  :cite-key: QHT:22
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ With a life full of suffering?
 * After a Long Time
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:23
+  :cite-key: QHT:23
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ Aspiration-chariot I see
 * Into the World I Came to Play
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:24
+  :cite-key: QHT:24
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ To play on transformation-flute.
 * Ananda Bitaran Sakaler Hiya Sware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:25
+  :cite-key: QHT:25
   :END:
 
 #+BEGIN_VERSE
@@ -462,10 +462,10 @@ E je mor aji pan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:26
+  :cite-key: QHT:26
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Is my today’s promise.
 * Delight-Distribution
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:27
+  :cite-key: QHT:27
   :END:
 
 #+BEGIN_VERSE
@@ -497,10 +497,10 @@ Is my today’s promise.
 * Ami Toiri Aghat Diye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:28
+  :cite-key: QHT:28
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Karbe apan daro karo prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:29
+  :cite-key: QHT:29
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Striking me, make me Your own.
 * I Am Ready, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:30
+  :cite-key: QHT:30
   :END:
 
 #+BEGIN_VERSE
@@ -549,10 +549,10 @@ Striking me, make me Your own.
 * Ekti Eshana Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:31
+  :cite-key: QHT:31
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Ekti eshana hiyar kanna plaban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:32
+  :cite-key: QHT:32
   :END:
 
 #+BEGIN_VERSE
@@ -580,10 +580,10 @@ My heart’s tear-flood is my only aspiration.
 * Mukta Hate Chira Kaler Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:33
+  :cite-key: QHT:33
   :END:
 
 #+BEGIN_VERSE
@@ -596,10 +596,10 @@ Jukta hate habe amai sabar sathe jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:34
+  :cite-key: QHT:34
   :END:
 
 #+BEGIN_VERSE
@@ -613,10 +613,10 @@ For Eternity’s freedom.
 * Bhul Kareo Bandha Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:35
+  :cite-key: QHT:35
   :END:
 
 #+BEGIN_VERSE
@@ -629,10 +629,10 @@ Karbona go hiyar kanna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:36
+  :cite-key: QHT:36
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Even by mistake.
 * Akashe Urite Batase Nachite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:37
+  :cite-key: QHT:37
   :END:
 
 #+BEGIN_VERSE
@@ -661,10 +661,10 @@ Akashe urite batase nachite nijere bilate habe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:38
+  :cite-key: QHT:38
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ I must give myself away.
 * Chetanar Jagaran Taje Shudhu Sakaler
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:39
+  :cite-key: QHT:39
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Shudhu sakaler prayojan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:40
+  :cite-key: QHT:40
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Consciousness awakening is everybody's need.
 * Consciousness-Awakening
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:41
+  :cite-key: QHT:41
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ Is everybody’s need.
 * Maraner Deshe Nahi Gele Kabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:42
+  :cite-key: QHT:42
   :END:
 
 #+BEGIN_VERSE
@@ -743,10 +743,10 @@ Kemane karibo marane joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:43
+  :cite-key: QHT:43
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ If I do not enter into death-clime?
 * How Can I Conquer Death?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:44
+  :cite-key: QHT:44
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ If I do not enter into death-clime?
 * Kalpana Pakhi Esecho Jakhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:45
+  :cite-key: QHT:45
   :END:
 
 #+BEGIN_VERSE
@@ -793,10 +793,10 @@ Jeyona chhariya kadapi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:46
+  :cite-key: QHT:46
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Leave me no more alone.
 * Imagination-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:47
+  :cite-key: QHT:47
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ Leave me no more alone.
 * Kothai Thako Hiya Tari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:48
+  :cite-key: QHT:48
   :END:
 
 #+BEGIN_VERSE
@@ -844,10 +844,10 @@ Hiya tari hiya nadi hiya majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:49
+  :cite-key: QHT:49
   :END:
 
 #+BEGIN_VERSE
@@ -865,10 +865,10 @@ Where do you live?
 * If You Do Not Enter into the Hope-Land
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:50
+  :cite-key: QHT:50
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ Everything will be all in vain.
 * Hiya Nil Pakhi Karuna Nayane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:51
+  :cite-key: QHT:51
   :END:
 
 #+BEGIN_VERSE
@@ -898,10 +898,10 @@ Dake more aji prashanti nabhe urite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:52
+  :cite-key: QHT:52
   :END:
 
 #+BEGIN_VERSE
@@ -915,10 +915,10 @@ Is calling me to fly in the sky of peace.
 * Amar Katha Balbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:53
+  :cite-key: QHT:53
   :END:
 
 #+BEGIN_VERSE
@@ -933,10 +933,10 @@ Dharar byethar katha mago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:54
+  :cite-key: QHT:54
   :END:
 
 #+BEGIN_VERSE
@@ -951,10 +951,10 @@ Of the world to You, Mother.
 * Asha Kusum Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:55
+  :cite-key: QHT:55
   :END:
 
 #+BEGIN_VERSE
@@ -969,10 +969,10 @@ Bahu dibas pare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:56
+  :cite-key: QHT:56
   :END:
 
 #+BEGIN_VERSE
@@ -987,10 +987,10 @@ Inside my heart-tears.
 * Hope-Flower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:57
+  :cite-key: QHT:57
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ Inside my heart-tears.
 * Mulya Bihin Tripti Bihin
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:58
+  :cite-key: QHT:58
   :END:
 
 #+BEGIN_VERSE
@@ -1021,10 +1021,10 @@ Sakal kichui tomar hasi bina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:59
+  :cite-key: QHT:59
   :END:
 
 #+BEGIN_VERSE
@@ -1038,10 +1038,10 @@ Without Your Smile.
 * Meaningless and Useless
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:60
+  :cite-key: QHT:60
   :END:
 
 #+BEGIN_VERSE
@@ -1056,10 +1056,10 @@ Without Your Smile.
 * Hai Hai Hai Apare Janite Chahije Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:61
+  :cite-key: QHT:61
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ Nijere janite chahina
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:62
+  :cite-key: QHT:62
   :END:
 
 #+BEGIN_VERSE
@@ -1090,10 +1090,10 @@ And not myself.
 * Alas, I Want To Know
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:63
+  :cite-key: QHT:63
   :END:
 
 #+BEGIN_VERSE
@@ -1108,10 +1108,10 @@ And not myself.
 * Kalpana Prerana Eshana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:64
+  :cite-key: QHT:64
   :END:
 
 #+BEGIN_VERSE
@@ -1124,10 +1124,10 @@ Eso eso niye paramer apar karuna
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:65
+  :cite-key: QHT:65
   :END:
 
 #+BEGIN_VERSE
@@ -1143,10 +1143,10 @@ From my Lord Supreme.
 * Imagination, Inspiration, Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:66
+  :cite-key: QHT:66
   :END:
 
 #+BEGIN_VERSE
@@ -1162,10 +1162,10 @@ From my Lord Supreme.
 * I Long to Quench My Heart-Thirst
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:67
+  :cite-key: QHT:67
   :END:
 
 #+BEGIN_VERSE
@@ -1179,10 +1179,10 @@ With tears.
 * O My Lord, Why Do I Not Invoke You?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-12-1990
-  :CITE-KEY: QHT:68
+  :cite-key: QHT:68
   :END:
 
 #+BEGIN_VERSE
@@ -1196,10 +1196,10 @@ Even by mistake?
 * Bahudin Pare Aspriha Rathe Samukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:69
+  :cite-key: QHT:69
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Samukhe amar heri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:70
+  :cite-key: QHT:70
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Aspiration-chariot I see before me.
 * Rupantarer Banshari Bajate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:71
+  :cite-key: QHT:71
   :END:
 
 #+BEGIN_VERSE
@@ -1245,10 +1245,10 @@ Charanite mora esechi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:72
+  :cite-key: QHT:72
   :END:
 
 #+BEGIN_VERSE
@@ -1262,10 +1262,10 @@ To play on transformation-flute.
 * Phuler Mato Puta Hate Habe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:73
+  :cite-key: QHT:73
   :END:
 
 #+BEGIN_VERSE
@@ -1278,10 +1278,10 @@ Prabhur charan dharte
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:74
+  :cite-key: QHT:74
   :END:
 
 #+BEGIN_VERSE
@@ -1295,10 +1295,10 @@ To touch my Lord’s Feet.
 * I Shall Have to Be as Pure as a Flower
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:75
+  :cite-key: QHT:75
   :END:
 
 #+BEGIN_VERSE
@@ -1312,10 +1312,10 @@ To touch my Lord’s Feet.
 * My Heart’s Tear-Flood
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:76
+  :cite-key: QHT:76
   :END:
 
 #+BEGIN_VERSE
@@ -1329,10 +1329,10 @@ Is my only aspiration.
 * With All I Must Be United
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:77
+  :cite-key: QHT:77
   :END:
 
 #+BEGIN_VERSE
@@ -1347,10 +1347,10 @@ For Eternity’s freedom.
 * I Shall Never Stop My Heart-Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:78
+  :cite-key: QHT:78
   :END:
 
 #+BEGIN_VERSE
@@ -1364,10 +1364,10 @@ Even by mistake.
 * To Fly in the Sky
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:79
+  :cite-key: QHT:79
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ I must give myself away.
 * Prabhur Priya Hate Hale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:80
+  :cite-key: QHT:80
   :END:
 
 #+BEGIN_VERSE
@@ -1398,10 +1398,10 @@ Kandte habe hiya gabhire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:81
+  :cite-key: QHT:81
   :END:
 
 #+BEGIN_VERSE
@@ -1415,10 +1415,10 @@ To be my Lord’s choice instrument.
 * I Must Cry for Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:82
+  :cite-key: QHT:82
   :END:
 
 #+BEGIN_VERSE
@@ -1432,10 +1432,10 @@ To be my Lord’s choice instrument.
 * Sanjher Tara Amar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:83
+  :cite-key: QHT:83
   :END:
 
 #+BEGIN_VERSE
@@ -1448,10 +1448,10 @@ Tumi ano shanti plaban
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:84
+  :cite-key: QHT:84
   :END:
 
 #+BEGIN_VERSE
@@ -1464,10 +1464,10 @@ O evening star, you bring me peace-flood.
 * O Evening Star
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:85
+  :cite-key: QHT:85
   :END:
 
 #+BEGIN_VERSE
@@ -1481,10 +1481,10 @@ You bring me peace-flood.
 * O My Heart-Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:86
+  :cite-key: QHT:86
   :END:
 
 #+BEGIN_VERSE
@@ -1502,10 +1502,10 @@ Where do you live?
 * Sakal Kichu Britha Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:87
+  :cite-key: QHT:87
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ Asha deshe nahi gele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:88
+  :cite-key: QHT:88
   :END:
 
 #+BEGIN_VERSE
@@ -1535,10 +1535,10 @@ Everything will be all in vain.
 * With the Compassion-Eye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:89
+  :cite-key: QHT:89
   :END:
 
 #+BEGIN_VERSE
@@ -1553,10 +1553,10 @@ To fly in the sky of peace.
 * I Shall No More Tell the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-12-1990
-  :CITE-KEY: QHT:90
+  :cite-key: QHT:90
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0920
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MLP
-  :GENRE: discourse, interview
-  :KEYWORDS:
+  :book-number: 0920
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: MLP
+  :genre: discourse, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MLP:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MLP:1
   :END:
 
 
@@ -42,9 +42,9 @@ With utmost humility I am once again offering my heart's boundless love and joy 
 
   :PROPERTIES:
   :SUBTITLE: Malacanang Palace, Manila, 4 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:2
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:2
   :END:
 
 
@@ -52,9 +52,9 @@ With utmost humility I am once again offering my heart's boundless love and joy 
 * Fidel Valdez Ramos Was Elected President Of...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:3e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:3e1
   :END:
 
 
@@ -65,9 +65,9 @@ With utmost humility I am once again offering my heart's boundless love and joy 
 * President Ramos: Good Afternoon, Your Excellency....
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:3
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:3
   :END:
 
 
@@ -90,9 +90,9 @@ With utmost humility I am once again offering my heart's boundless love and joy 
 * Coming From Viet Nam
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:4
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:4
   :END:
 
 
@@ -145,9 +145,9 @@ With utmost humility I am once again offering my heart's boundless love and joy 
 * Fidel Ramos: Self-Discipline And Self-Discovery
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLP:5
+  :genre: poem
+  :keywords:
+  :cite-key: MLP:5
   :END:
 
 
@@ -170,9 +170,9 @@ Have made your life a fruitful tree.
 
   :PROPERTIES:
   :SUBTITLE: Former President Of The Philippines, Cojuangco Building, Makati, Manila, 27 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:6
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:6
   :END:
 
 
@@ -180,9 +180,9 @@ Have made your life a fruitful tree.
 * Corazon Aquino Was President Of The Republic...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:7e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:7e1
   :END:
 
 
@@ -195,9 +195,9 @@ Have made your life a fruitful tree.
 * The Meeting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:7
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:7
   :END:
 
 
@@ -256,9 +256,9 @@ I was more daring when I was not President because I felt that only I would be h
 * Corazon Aquino: Philippines' Mother-Heart
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLP:8
+  :genre: poem
+  :keywords:
+  :cite-key: MLP:8
   :END:
 
 
@@ -283,9 +283,9 @@ In you your country's hope and promise throng.
 
   :PROPERTIES:
   :SUBTITLE: Edsa Shrine, Manila, 1 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:9
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:9
   :END:
 
 
@@ -293,9 +293,9 @@ In you your country's hope and promise throng.
 * Jaime L....
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:10e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:10e1
   :END:
 
 
@@ -306,9 +306,9 @@ In you your country's hope and promise throng.
 * "it Is Good That You Have Come"
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:10
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:10
   :END:
 
 
@@ -341,9 +341,9 @@ It is so good to know your wisdom-light. You are so great, Father, to deal with 
 * Non-Violent Revolution
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:11
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:11
   :END:
 
 
@@ -374,9 +374,9 @@ It is so good to know your wisdom-light. You are so great, Father, to deal with 
 * Pope Paul Vi
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:12
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:12
   :END:
 
 
@@ -406,9 +406,9 @@ It is so good to know your wisdom-light. You are so great, Father, to deal with 
 
   :PROPERTIES:
   :SUBTITLE: The Manila Hotel, Manila, 27 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:13
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:13
   :END:
 
 
@@ -416,9 +416,9 @@ It is so good to know your wisdom-light. You are so great, Father, to deal with 
 * Senator Leticia Ramos Shahani, A Sister Of...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:14e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:14e1
   :END:
 
 
@@ -429,9 +429,9 @@ It is so good to know your wisdom-light. You are so great, Father, to deal with 
 * My Most Esteemed Sister
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:14
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:14
   :END:
 
 
@@ -468,9 +468,9 @@ As I mentioned a few minutes ago, we are all part of the one life-tree. So the l
 * An Escalation Of Violence
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:15
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:15
   :END:
 
 
@@ -526,9 +526,9 @@ In terms of spiritual light, his country was fast asleep. He aroused the people,
 
   :PROPERTIES:
   :SUBTITLE: The Manila Hotel, Manila, 1 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:16
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:16
   :END:
 
 
@@ -536,9 +536,9 @@ In terms of spiritual light, his country was fast asleep. He aroused the people,
 * Beth Day Romulo Is A Well-Known Journalist...
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:17e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:17e1
   :END:
 
 
@@ -549,9 +549,9 @@ In terms of spiritual light, his country was fast asleep. He aroused the people,
 * What Are Your Plans
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:17
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:17
   :END:
 
 
@@ -582,9 +582,9 @@ It is the mind-power, the power of division, that is creating this problem not o
 * How Do People Learn How To Meditate?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:18
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:18
   :END:
 
 
@@ -611,9 +611,9 @@ Again, there are times in our spiritual life when we feel the necessity of liste
 * Does That Give You Energy To Accomplish Things?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:19
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:19
   :END:
 
 
@@ -632,9 +632,9 @@ I have accomplished a few things, but I cannot take any credit myself, for I kno
 * How Many Instruments Do You Play
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:20
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:20
   :END:
 
 
@@ -677,9 +677,9 @@ There are many, many things that I have done because I have been inspired from d
 * Your Inner Self
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:21
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:21
   :END:
 
 
@@ -696,9 +696,9 @@ We believe in the process of evolution. Sometimes we are evolving slowly and som
 * Beth Day Romulo: When You Visit A...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:22
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:22
   :END:
 
 
@@ -719,9 +719,9 @@ When a child is learning the alphabet from his mother, he feels that his mother 
 * Beth Day Romulo: Do You Think World...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:23
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:23
   :END:
 
 
@@ -742,9 +742,9 @@ If I can change one thief on the strength of my prayer, meditation and good advi
 * Beth Day Romulo: I Will Soon Be...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:24
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:24
   :END:
 
 
@@ -762,9 +762,9 @@ The inner India has not lost its peace and divinity, but the outer India is all 
 
   :PROPERTIES:
   :SUBTITLE: Governor Of The Province Of Negros Oriental, Dumaguete, 24 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:25
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:25
   :END:
 
 
@@ -772,9 +772,9 @@ The inner India has not lost its peace and divinity, but the outer India is all 
 * Emilio C....
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:26e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:26e1
   :END:
 
 
@@ -785,9 +785,9 @@ The inner India has not lost its peace and divinity, but the outer India is all 
 * Peace Effort
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:26
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:26
   :END:
 
 
@@ -806,9 +806,9 @@ But again, we are also doing the right thing by working for peace. That is why G
 * Governor Macias: I Hope That We Get...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:27
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:27
   :END:
 
 
@@ -831,9 +831,9 @@ As soon as we come to realise that we need something, we become like a child. As
 * World Leaders
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:28
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:28
   :END:
 
 
@@ -856,9 +856,9 @@ Today the whole world is hungry for peace. But what is happening? America and Ir
 * Governor Macias: In Advanced Countries, I Think...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:29
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:29
   :END:
 
 
@@ -873,9 +873,9 @@ We have to regard the poverty-stricken countries as little children who are help
 * Governor Macias: How Did You Bring Running...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:30
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:30
   :END:
 
 
@@ -901,9 +901,9 @@ I offer this to people of inspiration and dedication to honour them for what the
 
   :PROPERTIES:
   :SUBTITLE: Indian Ambassador To The Philippines, The Manila Hotel, Manila, 27 January 1993
-  :GENRE: meeting
-  :KEYWORDS:
-  :CITE-KEY: MLP:31
+  :genre: meeting
+  :keywords:
+  :cite-key: MLP:31
   :END:
 
 
@@ -911,9 +911,9 @@ I offer this to people of inspiration and dedication to honour them for what the
 * Mrs. Shyamala B....
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MLP:32e1
+  :genre: note
+  :keywords:
+  :cite-key: MLP:32e1
   :END:
 
 
@@ -924,9 +924,9 @@ I offer this to people of inspiration and dedication to honour them for what the
 * Sri Chinmoy: We Carry Within Us The...
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:32
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:32
   :END:
 
 
@@ -951,9 +951,9 @@ I am so happy to learn that you are so closely connected with Mr. Lakhan Mehrotr
 * Hindu And Muslim Fighting
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: MLP:33
+  :genre: interview
+  :keywords:
+  :cite-key: MLP:33
   :END:
 
 

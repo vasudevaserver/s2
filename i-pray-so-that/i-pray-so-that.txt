@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0600
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1983
-  :PUBLISHER: Agni Press
-  :CITE-KEY: PST
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0600
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1983
+  :publisher: Agni Press
+  :cite-key: PST
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:1
+  :genre: poem
+  :keywords:
+  :cite-key: PST:1
   :END:
 
 
@@ -41,9 +41,9 @@ Every day at least for an hour.
 * 2 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:2
+  :genre: poem
+  :keywords:
+  :cite-key: PST:2
   :END:
 
 
@@ -62,9 +62,9 @@ Of world-transformation.
 * 3 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:3
+  :genre: poem
+  :keywords:
+  :cite-key: PST:3
   :END:
 
 
@@ -82,9 +82,9 @@ Lump of clay.
 * 4 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:4
+  :genre: poem
+  :keywords:
+  :cite-key: PST:4
   :END:
 
 
@@ -102,9 +102,9 @@ Inside my gratitude-heart.
 * 5 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:5
+  :genre: poem
+  :keywords:
+  :cite-key: PST:5
   :END:
 
 
@@ -121,9 +121,9 @@ My only way.
 * 6 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:6
+  :genre: poem
+  :keywords:
+  :cite-key: PST:6
   :END:
 
 
@@ -143,9 +143,9 @@ Infinitely more than I deserve.
 * 7 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:7
+  :genre: poem
+  :keywords:
+  :cite-key: PST:7
   :END:
 
 
@@ -163,9 +163,9 @@ Of my human nature.
 * 8 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:8
+  :genre: poem
+  :keywords:
+  :cite-key: PST:8
   :END:
 
 
@@ -182,9 +182,9 @@ To slay my purity-heart.
 * 9 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:9
+  :genre: poem
+  :keywords:
+  :cite-key: PST:9
   :END:
 
 
@@ -203,9 +203,9 @@ Than visible divinity on earth.
 * 10 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:10
+  :genre: poem
+  :keywords:
+  :cite-key: PST:10
   :END:
 
 
@@ -222,9 +222,9 @@ Compassion-Lord Supreme.
 * 11 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:11
+  :genre: poem
+  :keywords:
+  :cite-key: PST:11
   :END:
 
 
@@ -246,9 +246,9 @@ As I do on my birthday.
 * 12 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:12
+  :genre: poem
+  :keywords:
+  :cite-key: PST:12
   :END:
 
 
@@ -267,9 +267,9 @@ Of my nature.
 * 13 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:13
+  :genre: poem
+  :keywords:
+  :cite-key: PST:13
   :END:
 
 
@@ -287,9 +287,9 @@ My Heaven-free soul.
 * 14 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:14
+  :genre: poem
+  :keywords:
+  :cite-key: PST:14
   :END:
 
 
@@ -308,9 +308,9 @@ As many ill-fated seekers do.
 * 15 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:15
+  :genre: poem
+  :keywords:
+  :cite-key: PST:15
   :END:
 
 
@@ -329,9 +329,9 @@ From my Beloved Supreme.
 * 16 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:16
+  :genre: poem
+  :keywords:
+  :cite-key: PST:16
   :END:
 
 
@@ -349,9 +349,9 @@ By dark doubts.
 * 17 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:17
+  :genre: poem
+  :keywords:
+  :cite-key: PST:17
   :END:
 
 
@@ -370,9 +370,9 @@ Never decay.
 * 18 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:18
+  :genre: poem
+  :keywords:
+  :cite-key: PST:18
   :END:
 
 
@@ -390,9 +390,9 @@ And unconscious movements.
 * 19 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:19
+  :genre: poem
+  :keywords:
+  :cite-key: PST:19
   :END:
 
 
@@ -412,9 +412,9 @@ Torture me ruthlessly.
 * 20 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:20
+  :genre: poem
+  :keywords:
+  :cite-key: PST:20
   :END:
 
 
@@ -432,9 +432,9 @@ To my Beloved Supreme.
 * 21 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:21
+  :genre: poem
+  :keywords:
+  :cite-key: PST:21
   :END:
 
 
@@ -452,9 +452,9 @@ Of my shameless doubts.
 * 22 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:22
+  :genre: poem
+  :keywords:
+  :cite-key: PST:22
   :END:
 
 
@@ -471,9 +471,9 @@ Can weigh measureless weights.
 * 23 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:23
+  :genre: poem
+  :keywords:
+  :cite-key: PST:23
   :END:
 
 
@@ -490,9 +490,9 @@ Of my Lord's Victory-Day.
 * 24 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:24
+  :genre: poem
+  :keywords:
+  :cite-key: PST:24
   :END:
 
 
@@ -509,9 +509,9 @@ Security-perfume.
 * 25 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:25
+  :genre: poem
+  :keywords:
+  :cite-key: PST:25
   :END:
 
 
@@ -528,9 +528,9 @@ Of God-manifesting possibilities.
 * 26 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:26
+  :genre: poem
+  :keywords:
+  :cite-key: PST:26
   :END:
 
 
@@ -547,9 +547,9 @@ The failure-life of centuries.
 * 27 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:27
+  :genre: poem
+  :keywords:
+  :cite-key: PST:27
   :END:
 
 
@@ -566,9 +566,9 @@ From its mind-exile.
 * 28 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:28
+  :genre: poem
+  :keywords:
+  :cite-key: PST:28
   :END:
 
 
@@ -587,9 +587,9 @@ Is by far the best.
 * 29 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:29
+  :genre: poem
+  :keywords:
+  :cite-key: PST:29
   :END:
 
 
@@ -606,9 +606,9 @@ Blossoming inside my heart.
 * 30 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:30
+  :genre: poem
+  :keywords:
+  :cite-key: PST:30
   :END:
 
 
@@ -627,9 +627,9 @@ Remains unharmed.
 * 31 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:31
+  :genre: poem
+  :keywords:
+  :cite-key: PST:31
   :END:
 
 
@@ -646,9 +646,9 @@ Unemployed.
 * 32 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:32
+  :genre: poem
+  :keywords:
+  :cite-key: PST:32
   :END:
 
 
@@ -666,9 +666,9 @@ Of unmistakable taxation.
 * 33 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:33
+  :genre: poem
+  :keywords:
+  :cite-key: PST:33
   :END:
 
 
@@ -685,9 +685,9 @@ An undeserved inner promotion.
 * 34 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:34
+  :genre: poem
+  :keywords:
+  :cite-key: PST:34
   :END:
 
 
@@ -706,9 +706,9 @@ Do not collide.
 * 35 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:35
+  :genre: poem
+  :keywords:
+  :cite-key: PST:35
   :END:
 
 
@@ -726,9 +726,9 @@ With His Infinity's Compassion-Eye.
 * 36 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:36
+  :genre: poem
+  :keywords:
+  :cite-key: PST:36
   :END:
 
 
@@ -745,9 +745,9 @@ My confidence-counsellor.
 * 37 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:37
+  :genre: poem
+  :keywords:
+  :cite-key: PST:37
   :END:
 
 
@@ -765,9 +765,9 @@ Ignorance.
 * 38 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:38
+  :genre: poem
+  :keywords:
+  :cite-key: PST:38
   :END:
 
 
@@ -784,9 +784,9 @@ Walks only on truth-trail.
 * 39 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:39
+  :genre: poem
+  :keywords:
+  :cite-key: PST:39
   :END:
 
 
@@ -805,9 +805,9 @@ Of each other.
 * 40 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:40
+  :genre: poem
+  :keywords:
+  :cite-key: PST:40
   :END:
 
 
@@ -825,9 +825,9 @@ Even temporarily.
 * 41 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:41
+  :genre: poem
+  :keywords:
+  :cite-key: PST:41
   :END:
 
 
@@ -846,9 +846,9 @@ And my Lord's Satisfaction.
 * 42 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:42
+  :genre: poem
+  :keywords:
+  :cite-key: PST:42
   :END:
 
 
@@ -865,9 +865,9 @@ With my life's outer voice.
 * 43 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:43
+  :genre: poem
+  :keywords:
+  :cite-key: PST:43
   :END:
 
 
@@ -885,9 +885,9 @@ Self-image.
 * 44 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:44
+  :genre: poem
+  :keywords:
+  :cite-key: PST:44
   :END:
 
 
@@ -904,9 +904,9 @@ My faithful heart's signature.
 * 45 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:45
+  :genre: poem
+  :keywords:
+  :cite-key: PST:45
   :END:
 
 
@@ -923,9 +923,9 @@ My visible heart invincible.
 * 46 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:46
+  :genre: poem
+  :keywords:
+  :cite-key: PST:46
   :END:
 
 
@@ -942,9 +942,9 @@ Is by no means God-approach.
 * 47 I Pray ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: PST:47
+  :genre: poem
+  :keywords:
+  :cite-key: PST:47
   :END:
 
 

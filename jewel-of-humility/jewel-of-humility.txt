@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0398
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1979
-  :PUBLISHER: Agni Press
-  :CITE-KEY: JH
-  :GENRE: story, qa, interview
-  :KEYWORDS:
+  :book-number: 0398
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1979
+  :publisher: Agni Press
+  :cite-key: JH
+  :genre: story, qa, interview
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: JH:1e1
+  :genre: section
+  :keywords:
+  :cite-key: JH:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Childhood tale
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: JH:1
+  :genre: story
+  :keywords:
+  :cite-key: JH:1
   :END:
 
 
@@ -61,9 +61,9 @@ I have disciples whose children were once upon a time their pets. In a previous 
 * Part II: Mundane, funny and illumining questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: JH:2e1
+  :genre: section
+  :keywords:
+  :cite-key: JH:2e1
   :END:
 
 
@@ -74,9 +74,9 @@ I have disciples whose children were once upon a time their pets. In a previous 
 * Question: Is there spiritual significance to body-building?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:2
+  :genre: qa
+  :keywords:
+  :cite-key: JH:2
   :END:
 
 
@@ -87,9 +87,9 @@ I have disciples whose children were once upon a time their pets. In a previous 
 * Question: Was the Vishma of the Mahabharata a bad person for fighting against Sri Krishna?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:3
+  :genre: qa
+  :keywords:
+  :cite-key: JH:3
   :END:
 
 
@@ -106,9 +106,9 @@ Vishma was so great; he kept all his promises. He even told his so-called enemie
 * Question: Are there individuals among your disciples today who have a soul's connection with Vishma? How does it compare with the soul's connection we'll have with you in our next incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:4
+  :genre: qa
+  :keywords:
+  :cite-key: JH:4
   :END:
 
 
@@ -119,9 +119,9 @@ Vishma was so great; he kept all his promises. He even told his so-called enemie
 * Question: Who made me a space cadet? Did God make me a space cadet or did I make myself a space cadet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:5
+  :genre: qa
+  :keywords:
+  :cite-key: JH:5
   :END:
 
 
@@ -138,9 +138,9 @@ To be a space cadet is the greatest honour. Many times I have taught the space c
 * Question: Guru, why do you tell us not to touch paper with our feet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:6
+  :genre: qa
+  :keywords:
+  :cite-key: JH:6
   :END:
 
 
@@ -153,9 +153,9 @@ There is a special deity who embodies knowledge and wisdom. Her name is Saraswat
 * Question: Sometimes the boys fool around in physical ways like in wrestling. Is that okay to do at certain times or is it not good to do at all?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:7
+  :genre: qa
+  :keywords:
+  :cite-key: JH:7
   :END:
 
 
@@ -172,9 +172,9 @@ So fun I appreciate, but it has to remain altogether innocent and harmless. If i
 * Question: How can we get instant, automatic inspiration? A lot of times, when you are meditating one by one on all the disciples, I notice that my mind is wandering when you are about to concentrate on me. How can I get instant inspiration to be receptive in any situations
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:8
+  :genre: qa
+  :keywords:
+  :cite-key: JH:8
   :END:
 
 
@@ -193,9 +193,9 @@ So always when you want to do something or become something, think of the highes
 * Question: The other day I was walking by the United Nations and I saw a little baby in a baby carriage. He was about a year or a year and a half old. The baby had sort of a blank expression, but somehow I saw in this expression great anxiety and perplexity, as if the world were a very painful and bewildering place. I was very moved, very pained by this experience, and whenever I think of it I still feel very moved. What can I learn from this experience?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:9
+  :genre: qa
+  :keywords:
+  :cite-key: JH:9
   :END:
 
 
@@ -210,9 +210,9 @@ So always when you want to do something or become something, think of the highes
 * Question: It made me feel that I wanted to help the suffering of the world, but I didn't know how.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:10
+  :genre: qa
+  :keywords:
+  :cite-key: JH:10
   :END:
 
 
@@ -223,9 +223,9 @@ So always when you want to do something or become something, think of the highes
 * Question: When you meditate you become very, very still. Even if you are standing up, your physical doesn't move at all. You can become like a statue if you want. How can you do that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:11
+  :genre: qa
+  :keywords:
+  :cite-key: JH:11
   :END:
 
 
@@ -244,9 +244,9 @@ So if you use the physical eye, then it is stillness; and if you use the inner e
 * Question: May I ask something in relation to that? When you sit on your throne you will be absolutely still and all of a sudden you will move your foot.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:12
+  :genre: qa
+  :keywords:
+  :cite-key: JH:12
   :END:
 
 
@@ -257,9 +257,9 @@ So if you use the physical eye, then it is stillness; and if you use the inner e
 * Question: You don't really shake it, you just move it up and down once or twice.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:13
+  :genre: qa
+  :keywords:
+  :cite-key: JH:13
   :END:
 
 
@@ -272,9 +272,9 @@ Again, the feet of the Master represent boundless compassion. This compassion yo
 * Question: The smoke from the fire got into everything in my store and it made everything smell. My question is, did it also get into the soul of the store?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:14
+  :genre: qa
+  :keywords:
+  :cite-key: JH:14
   :END:
 
 
@@ -289,9 +289,9 @@ If a soul is very undeveloped or unripe, or very restless, we say that the soul 
 * Question: Occasionally I see a little flash of light, a tiny light that goes in your eye and travels all around. Sometimes it travels in a definite pattern and I watch it while I am meditating on your picture. What does it mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:15
+  :genre: qa
+  :keywords:
+  :cite-key: JH:15
   :END:
 
 
@@ -306,9 +306,9 @@ So the light that you see is the light of the Beyond. When you see it circling a
 * Part III: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: JH:16e1
+  :genre: section
+  :keywords:
+  :cite-key: JH:16e1
   :END:
 
 
@@ -316,9 +316,9 @@ So the light that you see is the light of the Beyond. When you see it circling a
 * Question: Guru, you once said that if you come two minutes late to God, then He will not even open the door for you. This makes me unhappy.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:16
+  :genre: qa
+  :keywords:
+  :cite-key: JH:16
   :END:
 
 
@@ -337,9 +337,9 @@ Now you are in the Boat of the Supreme, so you are safe; you are bound to reach 
 * Question: Could you speak a little about how a new disciple should handle the pleasures and problems of daily life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:17
+  :genre: qa
+  :keywords:
+  :cite-key: JH:17
   :END:
 
 
@@ -366,9 +366,9 @@ Each person has a friend and an enemy. If he aspires, then he feels that desire 
 * Question: Why do we sometimes think that we are in a bad consciousness or a good consciousness and later you tell us we were in a different consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:18
+  :genre: qa
+  :keywords:
+  :cite-key: JH:18
   :END:
 
 
@@ -379,9 +379,9 @@ Each person has a friend and an enemy. If he aspires, then he feels that desire 
 * Question: How can we deal with the discouragement that comes from trying to sustain a lot of activities after we get physically exhausted from the pace?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:19
+  :genre: qa
+  :keywords:
+  :cite-key: JH:19
   :END:
 
 
@@ -398,9 +398,9 @@ So in the beginning we have to take discouragement and other wrong forces as our
 * Question: When we set our alarm and we don't get up to meditate, what should we do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:20
+  :genre: qa
+  :keywords:
+  :cite-key: JH:20
   :END:
 
 
@@ -411,9 +411,9 @@ So in the beginning we have to take discouragement and other wrong forces as our
 * Question: When we meditate you ask us to keep our eyes open and look at you. But so many times the physical world disappears and I have to make an effort to bring it back into focus.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:21
+  :genre: qa
+  :keywords:
+  :cite-key: JH:21
   :END:
 
 
@@ -426,9 +426,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * Part IV -- The jewel of humility: an interview
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: JH:22
+  :genre: interview
+  :keywords:
+  :cite-key: JH:22
   :END:
 
 
@@ -439,9 +439,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * NAC: It is a great honour to meet you; we've heard a lot about you over the years. What does your work generally consist of?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:23
+  :genre: qa
+  :keywords:
+  :cite-key: JH:23
   :END:
 
 
@@ -452,9 +452,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * NAC: What shape does your activity take in that service?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:24
+  :genre: qa
+  :keywords:
+  :cite-key: JH:24
   :END:
 
 
@@ -465,9 +465,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * NAC: Do you relate to the politicians at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:25
+  :genre: qa
+  :keywords:
+  :cite-key: JH:25
   :END:
 
 
@@ -478,9 +478,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * NAC: Are there many politicians seeking actively?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:26
+  :genre: qa
+  :keywords:
+  :cite-key: JH:26
   :END:
 
 
@@ -491,9 +491,9 @@ When I first started meditating in 1944, for the first few months I was inwardly
 * NAC: From the point of view of a lot of people, the world is a very cruel and negative place and their consciousness is not in a position to absorb the negativity. What can you say, or what service can we perform ("we" in the largest sense of the word) to help with that situation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:27
+  :genre: qa
+  :keywords:
+  :cite-key: JH:27
   :END:
 
 
@@ -506,9 +506,9 @@ What you need, what I need, what others need, is one thing: soulful patience. We
 * NAC: When one is engaged in a way of life which is not satisfactory to the person and one feels the first tug to begin seeking (I am asking this question because a great many people who will be reading this interview will be in that position), one has the impulse to do something. The philosophy and the ideals and so on make some sense, but here in the West people have the impulse to do something and make it happen. Is there anything practical, direct, that you can suggest for someone to do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:28
+  :genre: qa
+  :keywords:
+  :cite-key: JH:28
   :END:
 
 
@@ -519,9 +519,9 @@ What you need, what I need, what others need, is one thing: soulful patience. We
 * NAC: Most of our minds are so confused and our bodies so tense that we can't listen to the inner self, or even if we can, there are so many conflicting voices that we don't know which one is true. How can we cut through all that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:29
+  :genre: qa
+  :keywords:
+  :cite-key: JH:29
   :END:
 
 
@@ -534,9 +534,9 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 * NAC: Are you optimistic about the future of humanity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:30
+  :genre: qa
+  :keywords:
+  :cite-key: JH:30
   :END:
 
 
@@ -547,9 +547,9 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 * NAC: Do people look to you and bow to you as Master?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:31
+  :genre: qa
+  :keywords:
+  :cite-key: JH:31
   :END:
 
 
@@ -560,9 +560,9 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 * NAC: What shall we do with these characters who go around calling themselves "perfect Masters"? How shall we talk to them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:32
+  :genre: qa
+  :keywords:
+  :cite-key: JH:32
   :END:
 
 
@@ -573,9 +573,9 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 * NAC: You appear in the Vancouver Airport as an ordinary, middle-aged businessman in your summer suit. Why is that? Why are you not clad in your Indian robes and all that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:33
+  :genre: qa
+  :keywords:
+  :cite-key: JH:33
   :END:
 
 
@@ -586,9 +586,9 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 * NAC: I don't know if it is possible, but do you feel any sort of urge to create a song right now?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: JH:34
+  :genre: qa
+  :keywords:
+  :cite-key: JH:34
   :END:
 
 

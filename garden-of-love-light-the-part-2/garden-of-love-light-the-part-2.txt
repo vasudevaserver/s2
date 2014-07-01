@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 60
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1975
-  :PUBLISHER:
-  :CITE-KEY: GLL-2
-  :GENRE: song
+  :book-number: 60
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1975
+  :publisher:
+  :cite-key: GLL-2
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:99e1
+  :genre: note
+  :cite-key: GLL:99e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:99e2
+  :genre: note
+  :cite-key: GLL:99e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * O Bujhi Kanu Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:99
+  :cite-key: GLL:99
   :END:
 
 #+BEGIN_VERSE
@@ -68,10 +68,10 @@ Godhan niye jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:100
+  :cite-key: GLL:100
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ My cowherd boy goes.
 * Barai Boka Tumi Priya Barai Tumi Boka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:101
+  :cite-key: GLL:101
   :END:
 
 #+BEGIN_VERSE
@@ -113,10 +113,10 @@ Ashru jhare nitya moder agyanatar rate
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:102
+  :cite-key: GLL:102
   :END:
 
 #+BEGIN_VERSE
@@ -135,10 +135,10 @@ Day in and day out we shed bitter
 * Nil Pakhi Hase Hriday Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:103
+  :cite-key: GLL:103
   :END:
 
 #+BEGIN_VERSE
@@ -155,10 +155,10 @@ Bishwa srashta nahe ar kichhu amader bhalobasa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:104
+  :cite-key: GLL:104
   :END:
 
 #+BEGIN_VERSE
@@ -184,10 +184,10 @@ The world-creator is none other than our love.
 * Kata Gan Ami Geyechi Dharai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:105
+  :cite-key: GLL:105
   :END:
 
 #+BEGIN_VERSE
@@ -202,10 +202,10 @@ Subishal ei bhaba parabare ami je bhasiya jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:106
+  :cite-key: GLL:106
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ In the vast life-ocean, I am floating all alone.
 * Jogyata Mor Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:107
+  :cite-key: GLL:107
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Tahar kachhe khunjle pabe amar parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:108
+  :cite-key: GLL:108
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ I do not exist.
 * Amar Gane Dao Ma Sara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:109
+  :cite-key: GLL:109
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Mora tomar lilar sathi tara rabi indu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:110
+  :cite-key: GLL:110
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ In Your Cosmic Game.
 * Amai Ami Jante Giye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:111
+  :cite-key: GLL:111
   :END:
 
 #+BEGIN_VERSE
@@ -338,10 +338,10 @@ Tabu kena bandhi amai chanchalatar dore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:112
+  :cite-key: GLL:112
   :END:
 
 #+BEGIN_VERSE
@@ -362,10 +362,10 @@ Alas, why do I bind myself, then, with the
 * Ekti Katha Mane Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:113
+  :cite-key: GLL:113
   :END:
 
 #+BEGIN_VERSE
@@ -380,10 +380,10 @@ Ke nila ma kere amar hiyar praphullata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:114
+  :cite-key: GLL:114
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ And who has taken away the
 * Bahire Amar Anek Arati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:115
+  :cite-key: GLL:115
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Bhitare amar chira sundara chira ananta nache
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:116
+  :cite-key: GLL:116
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ In my inner world, the ever-beautiful,
 * Ebar Ami Shanto Habo Man Kananer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:117
+  :cite-key: GLL:117
   :END:
 
 #+BEGIN_VERSE
@@ -464,10 +464,10 @@ Kothao tomar paina dekha ogo dukha hara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:118
+  :cite-key: GLL:118
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Alas, I cannot see You anywhere.
 * Sima Jadi Hai Asimer Prane (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:119
+  :cite-key: GLL:119
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Jiban je tar habe bilupta mithya dainya pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:120
+  :cite-key: GLL:120
   :END:
 
 #+BEGIN_VERSE
@@ -527,10 +527,10 @@ His life is bound to be lost in the
 * Amije Amai Karechi Srijan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:121
+  :cite-key: GLL:121
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Shatata amar lakyer sudha mor pada tale magi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:122
+  :cite-key: GLL:122
   :END:
 
 #+BEGIN_VERSE
@@ -570,10 +570,10 @@ It is I who implore the nectar of
 * Dekha Dao More Dekha Dao Arbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:123
+  :cite-key: GLL:123
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ Pujite tomai dao more adhikar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:124
+  :cite-key: GLL:124
   :END:
 
 #+BEGIN_VERSE
@@ -616,10 +616,10 @@ Do give me the right to worship You, You alone.
 * Se Je Gan Geye Jai Gan Geye Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:125
+  :cite-key: GLL:125
   :END:
 
 #+BEGIN_VERSE
@@ -634,10 +634,10 @@ Bhuban amar raibena ar moher karagare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:126
+  :cite-key: GLL:126
   :END:
 
 #+BEGIN_VERSE
@@ -656,10 +656,10 @@ Ah, there He goes, singing around my heart’s door.
 * He Jogiraj Ebar Amar Pala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:127
+  :cite-key: GLL:127
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ Taito tomai bakhe amar tani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:128
+  :cite-key: GLL:128
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ O Yogi of the highest magnitude, now it is my turn.
 * He Jogiraj Dikkha Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:129
+  :cite-key: GLL:129
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Nirabatar lagi ami magi aji bhikkha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:130
+  :cite-key: GLL:130
   :END:
 
 #+BEGIN_VERSE
@@ -751,10 +751,10 @@ O Yogi of the highest magnitude, initiate me today.
 * Mrittyu Eseche Dware Dure Chale Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:131
+  :cite-key: GLL:131
   :END:
 
 #+BEGIN_VERSE
@@ -774,10 +774,10 @@ Purnata parabare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:132
+  :cite-key: GLL:132
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ Death has approached our door today.
 * Amai Rakho Tomar Ghare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:133
+  :cite-key: GLL:133
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Amai laho mantrabare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:134
+  :cite-key: GLL:134
   :END:
 
 #+BEGIN_VERSE
@@ -843,10 +843,10 @@ Accept me with the boon of magic incantation.
 * Oi Je Dure Shuni Nupur Dhwani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:135
+  :cite-key: GLL:135
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ Nam dhare aj dakchhe amai ai ai ai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:136
+  :cite-key: GLL:136
   :END:
 
 #+BEGIN_VERSE
@@ -886,10 +886,10 @@ She says: “Come, come, My child, come.”
 * Nahoi Kichu Nai Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:137
+  :cite-key: GLL:137
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ Amai diye nai halo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:138
+  :cite-key: GLL:138
   :END:
 
 #+BEGIN_VERSE
@@ -931,10 +931,10 @@ Would it even then be worth my while to
 * Amar Bhuban Tomar Charan Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:139
+  :cite-key: GLL:139
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ Eso eso eso e hiya rayechhe jagi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:140
+  :cite-key: GLL:140
   :END:
 
 #+BEGIN_VERSE
@@ -971,10 +971,10 @@ This heart remains awake.
 * Deshe Deshe Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:141
+  :cite-key: GLL:141
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Hiya tarir majhi tomai bhalobese
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:142
+  :cite-key: GLL:142
   :END:
 
 #+BEGIN_VERSE
@@ -1018,10 +1018,10 @@ By loving You, we do all this.
 * Amar Katha Bhabi Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:143
+  :cite-key: GLL:143
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Nemi hiyay tomai prabhu nitya jena smari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:144
+  :cite-key: GLL:144
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ With sanctified heart, may I always remember You,
 * Aro Apan Kare Nebe Amai Dhele Debe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:145
+  :cite-key: GLL:145
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ Jachha abahele jachha abahele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:146
+  :cite-key: GLL:146
   :END:
 
 #+BEGIN_VERSE
@@ -1098,10 +1098,10 @@ That is why right now You are ignoring me so much.
 * Ekla Ami Tomar Kache Jabona Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:147
+  :cite-key: GLL:147
   :END:
 
 #+BEGIN_VERSE
@@ -1120,10 +1120,10 @@ Sabar sathe tomai pabo ei shudhu mor sadhana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:148
+  :cite-key: GLL:148
   :END:
 
 #+BEGIN_VERSE
@@ -1145,10 +1145,10 @@ This is my life’s only aspiration, only meditation,
 * Amar Parane Tomar Bhabana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:149
+  :cite-key: GLL:149
   :END:
 
 #+BEGIN_VERSE
@@ -1167,10 +1167,10 @@ Bandho more aji muktir dore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:150
+  :cite-key: GLL:150
   :END:
 
 #+BEGIN_VERSE
@@ -1190,10 +1190,10 @@ And bind me with Your cord of Liberation.
 * Ekbar Shudhu Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:151
+  :cite-key: GLL:151
   :END:
 
 #+BEGIN_VERSE
@@ -1211,10 +1211,10 @@ Antara mama taba priyatama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:152
+  :cite-key: GLL:152
   :END:
 
 #+BEGIN_VERSE
@@ -1232,10 +1232,10 @@ In Heaven and on earth, tell me only once
 * Ei Jibaner Mahanander Halo Aji Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:153
+  :cite-key: GLL:153
   :END:
 
 #+BEGIN_VERSE
@@ -1250,10 +1250,10 @@ Hriday gabhire arun charane bandini sharbari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:154
+  :cite-key: GLL:154
   :END:
 
 #+BEGIN_VERSE
@@ -1276,10 +1276,10 @@ At the feet of my inner sun.
 * Jagiyache Bishwanath Asundar Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:155
+  :cite-key: GLL:155
   :END:
 
 #+BEGIN_VERSE
@@ -1292,10 +1292,10 @@ Chalilam shashwater ahana sandhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:156
+  :cite-key: GLL:156
   :END:
 
 #+BEGIN_VERSE
@@ -1311,10 +1311,10 @@ I run towards the Eternal Dawn.
 * Tomar Bhuban Amar Bhabane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:157
+  :cite-key: GLL:157
   :END:
 
 #+BEGIN_VERSE
@@ -1331,10 +1331,10 @@ Taba jaya mala gopane ganthibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:158
+  :cite-key: GLL:158
   :END:
 
 #+BEGIN_VERSE
@@ -1353,10 +1353,10 @@ In silence and in secret, they will
 * Taba Sri Charan Mama Aradhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:159
+  :cite-key: GLL:159
   :END:
 
 #+BEGIN_VERSE
@@ -1371,10 +1371,10 @@ Taba alo dhan mama niketan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:160
+  :cite-key: GLL:160
   :END:
 
 #+BEGIN_VERSE
@@ -1391,10 +1391,10 @@ And Your Light of Infinite Wealth
 * Khama Karo Khama Karo Ei Sheshbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:161
+  :cite-key: GLL:161
   :END:
 
 #+BEGIN_VERSE
@@ -1409,10 +1409,10 @@ Tumi sindhu ami bindu mor parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:162
+  :cite-key: GLL:162
   :END:
 
 #+BEGIN_VERSE
@@ -1431,10 +1431,10 @@ This is my only identification.
 * Janar Age Tomai Ami Henechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:163
+  :cite-key: GLL:163
   :END:
 
 #+BEGIN_VERSE
@@ -1449,10 +1449,10 @@ Taito tomai mor amire sanpechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:164
+  :cite-key: GLL:164
   :END:
 
 #+BEGIN_VERSE
@@ -1469,10 +1469,10 @@ Therefore to You I have offered, sacrificed
 * Purnatar Chidakashe Heriya Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:165
+  :cite-key: GLL:165
   :END:
 
 #+BEGIN_VERSE
@@ -1485,10 +1485,10 @@ Bidhatar jayadhwani dakichhe sabare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:166
+  :cite-key: GLL:166
   :END:
 
 #+BEGIN_VERSE
@@ -1504,10 +1504,10 @@ The Victory of my Supreme Pilot is
 * Tomar Habe Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:167
+  :cite-key: GLL:167
   :END:
 
 #+BEGIN_VERSE
@@ -1524,10 +1524,10 @@ Amar amir loy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:168
+  :cite-key: GLL:168
   :END:
 
 #+BEGIN_VERSE
@@ -1544,10 +1544,10 @@ The day my I-ness is extinguished
 * Ami Tomar Phul Tumi Amar Kul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:169
+  :cite-key: GLL:169
   :END:
 
 #+BEGIN_VERSE
@@ -1562,10 +1562,10 @@ Ami tomar khama tumi amar rama
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:170
+  :cite-key: GLL:170
   :END:
 
 #+BEGIN_VERSE
@@ -1585,10 +1585,10 @@ I am Your forgiveness; You are my Beauty,
 * Sabar Sheshe Dak Diyecho Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:171
+  :cite-key: GLL:171
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ Ashesh taba shanti sudha sabai mile pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:172
+  :cite-key: GLL:172
   :END:
 
 #+BEGIN_VERSE
@@ -1625,10 +1625,10 @@ We shall drink together.
 * Jibaner Bhore Cheyechhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:173
+  :cite-key: GLL:173
   :END:
 
 #+BEGIN_VERSE
@@ -1645,10 +1645,10 @@ Rupantarer alor banshari na jani kemane peyechhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:174
+  :cite-key: GLL:174
   :END:
 
 #+BEGIN_VERSE
@@ -1672,10 +1672,10 @@ I do not know how I have obtained the Flute
 * Jabona Jabona Jabona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:175
+  :cite-key: GLL:175
   :END:
 
 #+BEGIN_VERSE
@@ -1691,10 +1691,10 @@ Tabu ami kabhu jabona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:176
+  :cite-key: GLL:176
   :END:
 
 #+BEGIN_VERSE
@@ -1712,10 +1712,10 @@ I shall not go.
 * Chahi Tomar Pane Barai Abhimane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:177
+  :cite-key: GLL:177
   :END:
 
 #+BEGIN_VERSE
@@ -1730,10 +1730,10 @@ Chahi tomar pane mukti shikhar gane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:178
+  :cite-key: GLL:178
   :END:
 
 #+BEGIN_VERSE
@@ -1749,10 +1749,10 @@ I look at You with the flames of liberation.
 * Amar Amire Sanpibo Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:179
+  :cite-key: GLL:179
   :END:
 
 #+BEGIN_VERSE
@@ -1769,10 +1769,10 @@ Urabo kebal tomar bijoy ketane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:180
+  :cite-key: GLL:180
   :END:
 
 #+BEGIN_VERSE
@@ -1790,10 +1790,10 @@ I shall only fly Your Victory-Banner.
 * Amar Ankhir Asim Gehe Dharar Ankhi Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:181
+  :cite-key: GLL:181
   :END:
 
 #+BEGIN_VERSE
@@ -1808,10 +1808,10 @@ Sabai sathi amar jani ami amar prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:182
+  :cite-key: GLL:182
   :END:
 
 #+BEGIN_VERSE
@@ -1831,10 +1831,10 @@ I know again I am the lord of my life,
 * Kemane Tomare Pujibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:183
+  :cite-key: GLL:183
   :END:
 
 #+BEGIN_VERSE
@@ -1853,10 +1853,10 @@ Kemane gahibo dibase nishite kemane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:184
+  :cite-key: GLL:184
   :END:
 
 #+BEGIN_VERSE
@@ -1876,10 +1876,10 @@ How can I sing day and night
 * Dekha Dao Ogo Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:185
+  :cite-key: GLL:185
   :END:
 
 #+BEGIN_VERSE
@@ -1898,10 +1898,10 @@ Chira bijayer turiya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:186
+  :cite-key: GLL:186
   :END:
 
 #+BEGIN_VERSE
@@ -1925,10 +1925,10 @@ You are the Clarion Call of Eternal Victory.
 * Ogo Sundara Ogo Ananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:187
+  :cite-key: GLL:187
   :END:
 
 #+BEGIN_VERSE
@@ -1943,10 +1943,10 @@ Hasiya nachiya harabo amare rakhal rajar dhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:188
+  :cite-key: GLL:188
   :END:
 
 #+BEGIN_VERSE
@@ -1966,10 +1966,10 @@ Smiling and dancing I shall lose myself
 * Janina Ami Amar Katha Janbo Kena Shuni
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:189
+  :cite-key: GLL:189
   :END:
 
 #+BEGIN_VERSE
@@ -1984,10 +1984,10 @@ Bhaba sagare tumi priya amar shudhu neye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:190
+  :cite-key: GLL:190
   :END:
 
 #+BEGIN_VERSE
@@ -2006,10 +2006,10 @@ You are my only Boatman.
 * Sabar Majhe Tumi Priya Sabiy Tumi Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:191
+  :cite-key: GLL:191
   :END:
 
 #+BEGIN_VERSE
@@ -2024,10 +2024,10 @@ Dinata bojha churna habe amar mana bane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:192
+  :cite-key: GLL:192
   :END:
 
 #+BEGIN_VERSE
@@ -2047,10 +2047,10 @@ And then the load of inner poverty will
 * Dureo Tumi Kacheo Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:193
+  :cite-key: GLL:193
   :END:
 
 #+BEGIN_VERSE
@@ -2065,10 +2065,10 @@ Tomar paye sanpi jena amar sakal paowa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:194
+  :cite-key: GLL:194
   :END:
 
 #+BEGIN_VERSE
@@ -2088,10 +2088,10 @@ My wish is to offer at Your Feet
 * Chalo Jai Chalo Jai Chalo Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:195
+  :cite-key: GLL:195
   :END:
 
 #+BEGIN_VERSE
@@ -2111,10 +2111,10 @@ Nahi pabo hetha kabhu jaha chai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:196
+  :cite-key: GLL:196
   :END:
 
 #+BEGIN_VERSE
@@ -2138,10 +2138,10 @@ Let us go, let us go.
 * Cheyechhi Anek Kichhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:197
+  :cite-key: GLL:197
   :END:
 
 #+BEGIN_VERSE
@@ -2158,10 +2158,10 @@ Eso mor hiya majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 17-12-1972
-  :CITE-KEY: GLL:198
+  :cite-key: GLL:198
   :END:
 
 #+BEGIN_VERSE

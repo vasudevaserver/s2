@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1240
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1998
-  :PUBLISHER:
-  :CITE-KEY: EEP-2
-  :GENRE: song
+  :book-number: 1240
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1998
+  :publisher:
+  :cite-key: EEP-2
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EEP:188e1
+  :genre: note
+  :cite-key: EEP:188e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: EEP:188e2
+  :genre: note
+  :cite-key: EEP:188e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jog Dibo Aj Sabar Sathe Tomar Pete Sneha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:188
+  :cite-key: EEP:188
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Manas paran deha
 * Ami Kebal Basi Bhalo Krishna Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:189
+  :cite-key: EEP:189
   :END:
 
 #+BEGIN_VERSE
@@ -80,10 +80,10 @@ Amar kanur hasi
 * Charan Tale Thai Peyechi Taito Nahi Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:190
+  :cite-key: EEP:190
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ Gahi tomar joy
 * Nutan Gati Chalte Chahi Mago Tomar Pane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:191
+  :cite-key: EEP:191
   :END:
 
 #+BEGIN_VERSE
@@ -118,10 +118,10 @@ Amar abhijane
 * Shanti Pelam Tripti Pelam Kare Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:192
+  :cite-key: EEP:192
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Madhur sakal swapan
 * Ati Anurage Ase Tara Prabhu Ati Abhimane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:193
+  :cite-key: EEP:193
   :END:
 
 #+BEGIN_VERSE
@@ -156,10 +156,10 @@ Taba barabhoy bhor-pai
 * Supta Jiban Supta Hriday Sabi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:194
+  :cite-key: EEP:194
   :END:
 
 #+BEGIN_VERSE
@@ -175,10 +175,10 @@ Ajo je hai lupta
 * Bajna Baje.. Hiya Pure Amar Amir Binash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:195
+  :cite-key: EEP:195
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Prabhur joyer giti sure
 * Shanto Habe Praner Tuphan Shanto Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:196
+  :cite-key: EEP:196
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Amar bhabe
 * Dhyaner Samoi Pujar Samoi Thaki Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:197
+  :cite-key: EEP:197
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ Tabu param kripalu
 * Tomar Lagi Kendechi Bale Tomar Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:198
+  :cite-key: EEP:198
   :END:
 
 #+BEGIN_VERSE
@@ -251,10 +251,10 @@ Mago tomar geyechi
 * Tomar Sebai Tomar Pujai Hayechi Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:199
+  :cite-key: EEP:199
   :END:
 
 #+BEGIN_VERSE
@@ -270,10 +270,10 @@ Karo amai chinmoy
 * Chandrika Rate Janani Mugdha Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:200
+  :cite-key: EEP:200
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ Amar purir bani
 * Manas Amar Tomai Jakhan Kare Sandeha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:201
+  :cite-key: EEP:201
   :END:
 
 #+BEGIN_VERSE
@@ -308,10 +308,10 @@ Khudra ei deha
 * Hiyar Duar Rekhechi Khuliya Tomar Karuna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:202
+  :cite-key: EEP:202
   :END:
 
 #+BEGIN_VERSE
@@ -327,10 +327,10 @@ Tomar charane sampite
 * Deha Amar Nahe Deha Kanti Debaloy Ei
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:203
+  :cite-key: EEP:203
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ Shudhui parichoy
 * Kahar Bajna Shuni Aharaha Hridaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:204
+  :cite-key: EEP:204
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ Jibane achire
 * Hriday Mukut Tomar Paye Rakhbo Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:205
+  :cite-key: EEP:205
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Nahe anye kabhu
 * Amar Bhuler Anta Nai Go Bhuler Anta Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:206
+  :cite-key: EEP:206
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Labhiyachi thai
 * Prati Khane Jara Amai Aghat Kare Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:207
+  :cite-key: EEP:207
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Nadiy aghat kabhu
 * Bhitare Bahire Haye Gechi Aji Jyotir Plaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:208
+  :cite-key: EEP:208
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Badhar bandhan
 * Keno Asi Dhara Buke Jante Chahi Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:209
+  :cite-key: EEP:209
   :END:
 
 #+BEGIN_VERSE
@@ -460,10 +460,10 @@ Nahi gahi
 * Asha Kusum Tumi Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:210
+  :cite-key: EEP:210
   :END:
 
 #+BEGIN_VERSE
@@ -479,10 +479,10 @@ Prabhur bijoy gan
 * Nutan Rabi Dekha Dilo Hriday Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:211
+  :cite-key: EEP:211
   :END:
 
 #+BEGIN_VERSE
@@ -498,10 +498,10 @@ Ami achire
 * He Anather Nath Ami Chira Asahai Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:212
+  :cite-key: EEP:212
   :END:
 
 #+BEGIN_VERSE
@@ -517,10 +517,10 @@ Ami hai nirupai
 * Kahar Banshi Shuni Ami Aj Nijhum Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:213
+  :cite-key: EEP:213
   :END:
 
 #+BEGIN_VERSE
@@ -536,10 +536,10 @@ Nutan juger prate
 * Dao Dao More Nirab Nithar Pran Gahite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:214
+  :cite-key: EEP:214
   :END:
 
 #+BEGIN_VERSE
@@ -553,10 +553,10 @@ Gahite tomar chira bijoyer gan
 * Ahamika Tomar Nidhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:215
+  :cite-key: EEP:215
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Dharbo ami dharbo
 * Bedanar Gan Bhalo Nahi Lage Ar Ekatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:216
+  :cite-key: EEP:216
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Ekatha janai mago tomai barebar
 * Nahi Jani Manase Mor Keno Eto Maral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:217
+  :cite-key: EEP:217
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +608,10 @@ Puta shishu saral
 * Se Din Ami Chilam Jani Ma Pujari Manab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:218
+  :cite-key: EEP:218
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ Atya chari danab
 * Japi Kebal Dibanishi Tomar Madhu Nam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:219
+  :cite-key: EEP:219
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Tahar kato dam
 * He Banshari Bajao He Param Pita Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:220
+  :cite-key: EEP:220
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ He - Banshari bajao he param pita
 * Ami Hate Chahi Janani Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:221
+  :cite-key: EEP:221
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ Tomar jyotir tarani
 * Karte Chahi Dharar Gehe Tomar Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:222
+  :cite-key: EEP:222
   :END:
 
 #+BEGIN_VERSE
@@ -703,10 +703,10 @@ Muktikami eshana
 * Nahi Jani Bhore Sanjhe Kahar Lagi Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:223
+  :cite-key: EEP:223
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Ami amai bandhi
 * Niye Jete Chaho Amai Tumi Niye Jete Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:224
+  :cite-key: EEP:224
   :END:
 
 #+BEGIN_VERSE
@@ -741,10 +741,10 @@ Ashesh kripa pete
 * Nitya Nutan Badhar Bandhan Chalar Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:225
+  :cite-key: EEP:225
   :END:
 
 #+BEGIN_VERSE
@@ -758,10 +758,10 @@ Muktikami chaigo hate atmatyager brate
 * Chinta Srote Bese Chali Dure Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:226
+  :cite-key: EEP:226
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ Kahar hiya pure
 * Ke Nibe Go Mor Jibaner Sakal Biphalata Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:227
+  :cite-key: EEP:227
   :END:
 
 #+BEGIN_VERSE
@@ -796,10 +796,10 @@ Madhur nirabata
 * Pujibo Tomare Mudita Nayane Base Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:228
+  :cite-key: EEP:228
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Taba kripa bannyai
 * Nirabadhi Mane Prane Vishan Gandagol
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:229
+  :cite-key: EEP:229
   :END:
 
 #+BEGIN_VERSE
@@ -834,10 +834,10 @@ Mukti sudha kol
 * Bhitar Bahir Heri Kebal Nitya Nutan Badhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:230
+  :cite-key: EEP:230
   :END:
 
 #+BEGIN_VERSE
@@ -853,10 +853,10 @@ Nai je ami madhar
 * Chandana Pakhi Chandana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:231
+  :cite-key: EEP:231
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Mor eshanar alpana
 * Jiban Amar Phutlo Aji Tomar Sudha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:232
+  :cite-key: EEP:232
   :END:
 
 #+BEGIN_VERSE
@@ -891,10 +891,10 @@ Tomar paye gopane
 * Jwalao Jwalao Agun Shikha Hriday Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:233
+  :cite-key: EEP:233
   :END:
 
 #+BEGIN_VERSE
@@ -910,10 +910,10 @@ Mukta rabire
 * Baroi Tibra Hiyar Bedan Shesh Habe Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:234
+  :cite-key: EEP:234
   :END:
 
 #+BEGIN_VERSE
@@ -929,10 +929,10 @@ Phutbe jabe mor bhabe
 * Nirabatar Deshe Jete Baroi Kare Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:235
+  :cite-key: EEP:235
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ Na hoy kabhu khoy
 * Maner Bane Hiya Kusum Phutabo Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:236
+  :cite-key: EEP:236
   :END:
 
 #+BEGIN_VERSE
@@ -967,10 +967,10 @@ Mithabo go mithabo
 * Asimatar Jatri Ami Asimatar Jatri Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:237
+  :cite-key: EEP:237
   :END:
 
 #+BEGIN_VERSE
@@ -986,10 +986,10 @@ Agyanatar ratri
 * Sandeha Ghor Maner Duar Khulbona Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:238
+  :cite-key: EEP:238
   :END:
 
 #+BEGIN_VERSE
@@ -1005,10 +1005,10 @@ Bhulbona go bhulbona
 * Sabar Sukhe Paran Amar Tripta Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:239
+  :cite-key: EEP:239
   :END:
 
 #+BEGIN_VERSE
@@ -1024,10 +1024,10 @@ Dipta habe dipta
 * Amai Jara Ghrina Kare Tader Hiyai Phutbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:240
+  :cite-key: EEP:240
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ Vajra hate tutbo
 * Kandte Chahi Haste Chahi Shikhao More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:241
+  :cite-key: EEP:241
   :END:
 
 #+BEGIN_VERSE
@@ -1062,10 +1062,10 @@ Amar hiyar raj
 * Amai Chere Jeyona Go
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:242
+  :cite-key: EEP:242
   :END:
 
 #+BEGIN_VERSE
@@ -1081,10 +1081,10 @@ Kritagyatar kusum saji
 * Jukti Jethai Bhakti Sethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:243
+  :cite-key: EEP:243
   :END:
 
 #+BEGIN_VERSE
@@ -1099,10 +1099,10 @@ Bale moder prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:244
+  :cite-key: EEP:244
   :END:
 
 #+BEGIN_VERSE
@@ -1119,10 +1119,10 @@ You cannot find devotion.
 * Tomar Bani Karte Prachar Esechi Ei Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:245
+  :cite-key: EEP:245
   :END:
 
 #+BEGIN_VERSE
@@ -1138,10 +1138,10 @@ Dibe dekha kabe
 * Jethai Jabo Sethai Gabo Mayer Bijoy Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:246
+  :cite-key: EEP:246
   :END:
 
 #+BEGIN_VERSE
@@ -1157,10 +1157,10 @@ Brihat bishwa priti
 * Khaniker Tare Bhule Jai Jabe Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:247
+  :cite-key: EEP:247
   :END:
 
 #+BEGIN_VERSE
@@ -1176,10 +1176,10 @@ Ati druta gati nashi
 * Hiya Pure Ghure Berai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:248
+  :cite-key: EEP:248
   :END:
 
 #+BEGIN_VERSE
@@ -1194,10 +1194,10 @@ Sathi dibarat
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:249
+  :cite-key: EEP:249
   :END:
 
 #+BEGIN_VERSE
@@ -1213,10 +1213,10 @@ My broken heart is full of suffering,
 * Sanjher Tara Dake Amai Sanjher Tara Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:250
+  :cite-key: EEP:250
   :END:
 
 #+BEGIN_VERSE
@@ -1232,10 +1232,10 @@ Bandhan hara
 * Mita Tumi Jani Mago Kripa Jalaprapat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:251
+  :cite-key: EEP:251
   :END:
 
 #+BEGIN_VERSE
@@ -1251,10 +1251,10 @@ Habe prabhat
 * Jhup Jhup Jhup Jhup Brishti Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:252
+  :cite-key: EEP:252
   :END:
 
 #+BEGIN_VERSE
@@ -1270,10 +1270,10 @@ Hiyar drishti
 * Krishna Prabhur Jhumur Jhumur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:253
+  :cite-key: EEP:253
   :END:
 
 #+BEGIN_VERSE
@@ -1288,10 +1288,10 @@ Dhyaner majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:254
+  :cite-key: EEP:254
   :END:
 
 #+BEGIN_VERSE
@@ -1309,10 +1309,10 @@ When I am having my deepest meditation.
 * Tomai Chhere Param Pita Na Jeno Jai Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1998
-  :CITE-KEY: EEP:255
+  :cite-key: EEP:255
   :END:
 
 #+BEGIN_VERSE

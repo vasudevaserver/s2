@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0003
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1971
-  :PUBLISHER: Agni Press
-  :CITE-KEY: YSL
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0003
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1971
+  :publisher: Agni Press
+  :cite-key: YSL
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part One: Spiritual and philosophical articles
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:1e1
+  :genre: section
+  :keywords:
+  :cite-key: YSL:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Man and God
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:1
   :END:
 
 
@@ -94,9 +94,9 @@ Man is Immortality's Life.
 * Within us is our goal
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:2
   :END:
 
 
@@ -139,9 +139,9 @@ Our Goal is within us. To reach that Goal we have to take to the spiritual life.
 * Our peace is within
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:3
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:3
   :END:
 
 
@@ -184,9 +184,9 @@ Our peace is within, and this peace is the basis of our life. So from today let 
 * Who is fit for Yoga?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:4
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:4
   :END:
 
 
@@ -215,9 +215,9 @@ Yoga is our union with Truth. There are three unfolding stages of this union. In
 * The strength of surrender
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:5
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:5
   :END:
 
 
@@ -252,9 +252,9 @@ In man's complete and absolute surrender is his realisation: his realisation of 
 * Meditation: Individual and collective
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:6
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:6
   :END:
 
 
@@ -291,9 +291,9 @@ Finally, each human being must have the spirit of a divine hero. If he is left a
 * Has your soul a special mission?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:7
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:7
   :END:
 
 
@@ -322,9 +322,9 @@ Such is the case with you. Your special mission -- which is the fulfilment of yo
 * How far are we from realisation?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:8
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:8
   :END:
 
 
@@ -359,9 +359,9 @@ Realisation can be achieved by God's Grace, the Guru's grace and the seeker's as
 * The role of purity in the spiritual life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:9
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:9
   :END:
 
 
@@ -402,9 +402,9 @@ The mother holds the hand of the child. But it is the child who has to walk, and
 * Two secrets: Reincarnation and evolution
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:10
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:10
   :END:
 
 
@@ -437,9 +437,9 @@ Evolution is the hyphen between what was and what shall be. I am a man. I must k
 * What is the aim of life?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:11
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:11
   :END:
 
 
@@ -472,9 +472,9 @@ Let us all be truly spiritual. Let us realise God through our constant communion
 * What is spirituality?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:12
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:12
   :END:
 
 
@@ -511,9 +511,9 @@ Finally, I have an open secret for those who want to launch into the spiritual l
 * What is Yoga?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:13
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:13
   :END:
 
 
@@ -540,9 +540,9 @@ One thing is certain. These three paths lead us to Self-realisation in God-reali
 * Bhakti Yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:14
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:14
   :END:
 
 
@@ -571,9 +571,9 @@ A bird sings. A man sings. God too sings. He sings His sweetest songs of Infinit
 * Karma Yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:15
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:15
   :END:
 
 
@@ -594,9 +594,9 @@ It is easy for a Bhakta to forget the world, and for a Jnani to ignore the world
 * Jnana Yoga
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:16
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:16
   :END:
 
 
@@ -617,9 +617,9 @@ A Jnana yogin declares: /Neti, neti./ "Not this, not this." What does he mean? H
 * What is God's plan?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:17
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:17
   :END:
 
 
@@ -650,9 +650,9 @@ Man's unconscious, semi-conscious, conscious and spiritually conscious plans and
 * Part Two: Questions and answers on the inner life
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:18e1
+  :genre: section
+  :keywords:
+  :cite-key: YSL:18e1
   :END:
 
 
@@ -660,9 +660,9 @@ Man's unconscious, semi-conscious, conscious and spiritually conscious plans and
 * How can one reconcile America's inner decay and crassness with her evolving spiritual awareness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:18
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:18
   :END:
 
 
@@ -681,9 +681,9 @@ America, moreover, is a young nation. It does not want to walk; it wants to run 
 * Do you not feel that national boundaries, economic disparity and religious dogma divide human beings into different camps, creating unspiritual environments and making peace, for an individual as well as for a nation, a distant star?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:19
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:19
   :END:
 
 
@@ -696,9 +696,9 @@ It is only a matter of time until time itself will create an opening so the spir
 * I would frankly like to know what India's spirituality has ever done for her. How is it that in spite of her yogis and saints, she is still a poor and backward country?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:20
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:20
   :END:
 
 
@@ -715,9 +715,9 @@ India may be poverty-stricken today, but she will progress quickly by virtue of 
 * Could you please tell me why people in India worship so many gods and goddesses and not one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:21
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:21
   :END:
 
 
@@ -730,9 +730,9 @@ Indeed, these gods and goddesses are simply different manifestations of the Sole
 * The caste system is absolutely bad. Why do you have it? Can you say even one word in favour of it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:22
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:22
   :END:
 
 
@@ -744,9 +744,9 @@ Well, I must take exception to your comment and tell you that in this world ther
 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:23
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:23
   :END:
 
 
@@ -757,9 +757,9 @@ It depends entirely on the parents. If they are orthodox and conservative, they 
 * Is it true that some people in India can walk on fire? Doesn't it scare you or astonish you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:24
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:24
   :END:
 
 
@@ -770,9 +770,9 @@ I have twice had the opportunity to witness such a performance. I was not afraid
 * In India, the wives surrender to their husbands. Why do they not care for their own individuality?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:25
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:25
   :END:
 
 
@@ -783,9 +783,9 @@ I hope that you know the meaning of surrender. In real surrender, we do not lose
 * You have explained to us what the supreme surrender is. Now I would like to know from you what the supreme sacrifice is.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:26
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:26
   :END:
 
 
@@ -796,9 +796,9 @@ My young friend, it gives me great pleasure to hear your question. The supreme s
 * If man, when dissatisfied with the world, escapes the world and seeks out higher planes of existence, how will humanity ever be able to establish peace and happiness on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:27
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:27
   :END:
 
 
@@ -813,9 +813,9 @@ God is perfect Perfection. This Perfection can be achieved only when there is an
 * My wife, who is otherwise the most reasonable of beings, insists that all religious beliefs are delusions brought about by existential anxiety. Most people find the thought unbearable that there is no meaning in life except for the biological and rational fact of life itself. But this, she feels, should satisfy anybody. The fact of death, she believes, is to be similarly faced as a biological reality. It is an old theory, which I realise can neither be proved or disproved at an intellectual level.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:28
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:28
   :END:
 
 
@@ -836,9 +836,9 @@ Similarly, those who have realised God fully have every right to tell us that th
 * I believe that love is always the same, whether human or divine. Is this true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:29
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:29
   :END:
 
 
@@ -849,9 +849,9 @@ No, my young friend, human love and divine Love are two completely different thi
 * You have been speaking of faith. Could you make it a bit easier for me to understand this concept?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:30
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:30
   :END:
 
 
@@ -862,9 +862,9 @@ Let me try. First of all, faith is not credulity or blind belief. It does not me
 * How may we strengthen our inner faith in God when we are beset with discouragements in our daily life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:31
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:31
   :END:
 
 
@@ -877,9 +877,9 @@ When we are worried, or are afraid of something, we immediately try to create a 
 * I have studied a good many scriptures. I also indulge in preaching about spirituality, religion, the inner life and so forth. But personally, I feel a barren desert within me. I get no satisfaction at all from what I am doing. I feel I am wasting my own precious time and that of others. Could you possibly enlighten me regarding this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:32
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:32
   :END:
 
 
@@ -902,9 +902,9 @@ Similarly, a speaker, in spite of his own lame faith, can inspire a genuine fait
 * Would you kindly advise me as to whether I should leave my wife and child in order to enter deeper into the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:33
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:33
   :END:
 
 
@@ -914,9 +914,9 @@ In your case, I feel that you should remain with your wife and child. Today you 
 
 * Are spiritual experiences absolutely necessary to realise God?
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:34
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:34
   :END:
 
 
@@ -931,9 +931,9 @@ But you can also have full and complete Realisation without so-called "experienc
 * Why do you believe in rebirth? I know pretty well that I shall go to God when I die. And that's all.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:35
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:35
   :END:
 
 
@@ -944,9 +944,9 @@ My friend, as you will go to God when you leave the body, so will I. Let us be w
 * Do you believe that in each incarnation the individual improves himself?
 
  :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
- :CITE-KEY: YSL:36
+  :genre: qa
+  :keywords:
+ :cite-key: YSL:36
   :END:
 
 
@@ -957,9 +957,9 @@ Yes, because he is evolving consciously or unconsciously.
 * Does the law of karma apply to everybody?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:37
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:37
   :END:
 
 
@@ -970,9 +970,9 @@ The law of karma applies to everyone, but one can transcend it through one's med
 * To pray to God or to work as God wants us to work: which is the better of the two?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:38
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:38
   :END:
 
 
@@ -983,9 +983,9 @@ I am happy to answer this question of questions. The answer is quite simple. To 
 * You said there are different ways of approaching God: action, devotion and knowledge. If one person possesses all these qualities, will it help his progress?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:39
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:39
   :END:
 
 
@@ -996,9 +996,9 @@ Certainly it helps. The attitude of service, the attitude of devotion and the qu
 * Will you please tell me something about meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:40
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:40
   :END:
 
 
@@ -1011,9 +1011,9 @@ When your meditation is correct, you will feel a kind of joy all over your body.
 * In order to come into closer contact with one's Self, to know the mysteries of one's inner Self, what is the correct procedure? I believe that meditation is where answers will be given about one's inner Self. Is this correct?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:41
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:41
   :END:
 
 
@@ -1024,9 +1024,9 @@ Yes, in meditation and concentration. Both will help. If you want to know your i
 * Are there any set procedures one must follow in order to meditate correctly?
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:42
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:42
   :END:
 
 
@@ -1039,9 +1039,9 @@ When you have a teacher you are extremely lucky, especially if the teacher is a 
 * But very often I may not recognise my inner Self. I do not know whether the voice I hear is the inner voice or the outer voice, and this is extremely confusing.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:43
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:43
   :END:
 
 
@@ -1052,9 +1052,9 @@ I fully understand. But if you get a teacher who is a realised soul, you can go 
 * What is the difference between the voice of Silence and the voice of Yoga? Or isn't there any difference?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:44
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:44
   :END:
 
 
@@ -1067,9 +1067,9 @@ But Yoga encompasses everything; it is the whole field. In Yoga you will get Sil
 * When I try to meditate, I get a feeling of oceans and water before my mind's eye. This creates fear in me, and I cannot meditate very well. How can I meditate without getting this feeling of oceans and water?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:45
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:45
   :END:
 
 
@@ -1082,9 +1082,9 @@ Do not focus your attention on the surface of the ocean, but please go, silently
 * Sir, when did you come upon the thought that there is an inner Self within yourself? And after you discovered that you had an inner Self, how did you make a connection with other people who were not aware that they had an inner Self?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:46
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:46
   :END:
 
 
@@ -1101,9 +1101,9 @@ So first within yourself, just like watering a plant every day, feed your inner 
 * There are seven planes of consciousness in the spiritual development. How can I determine which plane I belong to?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:47
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:47
   :END:
 
 
@@ -1118,9 +1118,9 @@ In your case, let us suppose that you want to act from the intuitive mind. Once 
 * You are always using the word "consciousness". What exactly does it mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:48
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:48
   :END:
 
 
@@ -1133,9 +1133,9 @@ Consciousness is a spark that lets us enter into the Light. It is our consciousn
 * Do we have control of our consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:49
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:49
   :END:
 
 
@@ -1146,9 +1146,9 @@ An ordinary man does not have control of his consciousness. But a spiritual man 
 * How do I work on my consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:50
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:50
   :END:
 
 
@@ -1159,9 +1159,9 @@ Don't think of doing anything. Just keep the door of your consciousness open, bu
 * What is the meaning of AUM?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:51
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:51
   :END:
 
 
@@ -1176,9 +1176,9 @@ When you repeat AUM, please try to observe what actually happens. If you repeat 
 * Is it better to meditate on AUM or on God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:52
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:52
   :END:
 
 
@@ -1191,9 +1191,9 @@ In India, we repeat AUM or the name of a god or goddess, such as Shiva, Krishna 
 * Is God a mental being?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:53
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:53
   :END:
 
 
@@ -1206,9 +1206,9 @@ Human beings usually think before they act. But in God's case, it is not like th
 * How can one move ultimately towards success, believing that "As thy feet bend, so bends the path"? Is that really possible?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:54
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:54
   :END:
 
 
@@ -1221,9 +1221,9 @@ At each moment, the possibility of the total manifestation that is going to take
 * About the vision and its fulfilment, how do you know that you are having the right "vision"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:55
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:55
   :END:
 
 
@@ -1234,9 +1234,9 @@ Are you referring to yourself or are you speaking generally? If it is yourself, 
 * Guru Chinmoy, you were speaking about the vision without the mind. Is this what is known as intuition? Or is intuition something else?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:56
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:56
   :END:
 
 
@@ -1247,9 +1247,9 @@ You may call it either intuition or the direct perception of Truth, which needs 
 * Is the mind itself a kind of machine connecting the higher and the lower?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:57
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:57
   :END:
 
 
@@ -1260,9 +1260,9 @@ The mind is a link. Through the mind you can go to the regions far above the min
 * In the old books they talk about /Nama-Rupa/, Name and Form. Words are / Nama-Rupa/ right? Ideas are /Nama-Rupa/. Now this is not really God. These are human concoctions. The meaning is a manufactured thing. There is no reality in the word itself, true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:58
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:58
   :END:
 
 
@@ -1275,9 +1275,9 @@ The spiritual approach to the problem of words is that we have to go from the fo
 * Sri Chinmoy, in the Hindu tradition one speaks of how /Atman/ equals / Brahman/ -- the individual soul equals the Universal Soul. Jesus Christ once said, "I and my Father are one." These two statements, coming from two different spiritual backgrounds -- are they, in the spiritual light, one and the same?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:59
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:59
   :END:
 
 
@@ -1290,9 +1290,9 @@ The statements are the same. When Christ said, "I and my Father are one", it was
 * Would you care to elaborate on the statement, "The Kingdom of Heaven is within you"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:60
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:60
   :END:
 
 
@@ -1309,9 +1309,9 @@ To be sure, the Kingdom of Heaven is more than just a mere plane, like other pla
 * What exactly is the ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:61
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:61
   :END:
 
 
@@ -1324,9 +1324,9 @@ The ordinary human ego gives us a sense of separate identity, separate conscious
 * How was the ego born? How did it come into being?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:62
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:62
   :END:
 
 
@@ -1339,9 +1339,9 @@ The ego each day gets the opportunity to function independently and gets stronge
 * How do we weaken the ego and ultimately subdue it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:63
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:63
   :END:
 
 
@@ -1352,9 +1352,9 @@ By thinking of God's all-pervading Consciousness. This Consciousness is not some
 * Part Two: Questions asked by children
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:64e1
+  :genre: section
+  :keywords:
+  :cite-key: YSL:64e1
   :END:
 
 
@@ -1362,9 +1362,9 @@ By thinking of God's all-pervading Consciousness. This Consciousness is not some
 * Gurudev, I want to ask you something. If I break an egg, can God put it together again?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:64
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:64
   :END:
 
 Certainly He can. God can do anything He wants.
@@ -1374,9 +1374,9 @@ Certainly He can. God can do anything He wants.
 * Can you do it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:65
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:65
   :END:
 
 
@@ -1386,9 +1386,9 @@ No. Sorry, Shannon, your Gurudev cannot do it. But if God gives me the power, I 
 * Can I do it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:66
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:66
   :END:
 
 
@@ -1399,9 +1399,9 @@ Why not? The moment God gives you the power, you can easily put a broken egg tog
 * Is it true that anybody can become a yogi if he really tries?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:67
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:67
   :END:
 
 
@@ -1416,9 +1416,9 @@ Now, how do you go about praying? If you pray to God for candy today, tomorrow y
 * What does God look like?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:68
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:68
   :END:
 
 
@@ -1433,9 +1433,9 @@ Because God is in you, God looks exactly like you. Right now, you are God veiled
 * How come you can see God and I can't?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:69
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:69
   :END:
 
 
@@ -1450,9 +1450,9 @@ If you pray to God every day, someday this inner eye will open up. Get up early 
 * Part Two: Questions and answers on the soul
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:70e1
+  :genre: section
+  :keywords:
+  :cite-key: YSL:70e1
   :END:
 
 
@@ -1460,9 +1460,9 @@ If you pray to God every day, someday this inner eye will open up. Get up early 
 * Is the soul always with the person during his lifetime, or can it leave him temporarily, even making its home elsewhere?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:70
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:70
   :END:
 
 
@@ -1473,9 +1473,9 @@ As a rule, the soul always remains with the person during his lifetime, but it c
 * During sleep, does the person's soul make journeys?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:71
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:71
   :END:
 
 
@@ -1486,9 +1486,9 @@ Yes. The soul makes journeys to different levels of consciousness. There are sev
 * Can a person's body and consciousness so change during his lifetime that he becomes fit for a finer soul to enter him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:72
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:72
   :END:
 
 
@@ -1499,9 +1499,9 @@ A finer soul does not enter him. But if the person's body and consciousness are 
 * Does a change, such as purification, during the lifetime, change the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:73
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:73
   :END:
 
 
@@ -1512,9 +1512,9 @@ It is the same soul. Previously it accepted ignorance, but now, throwing away th
 * When we think another's thoughts, we let ourselves tune in to his "psychic" agitations. However, if we tune in to one whom we believe to be grounded in the Source of his being, his soul, would this be a valid practice, at least until our own spiritual unfolding developed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:74
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:74
   :END:
 
 
@@ -1525,9 +1525,9 @@ First of all, let us be clear about the use of the word "psychic." As I use it, 
 * How does one know if his soul is happy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:75
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:75
   :END:
 
 
@@ -1538,9 +1538,9 @@ First of all, one has to know and feel where the soul abides, its location in th
 * Does the soul cry when it is unhappy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:76
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:76
   :END:
 
 
@@ -1551,9 +1551,9 @@ No. The real soul, which is a portion of the Cosmic Self, is all Delight. Since 
 * Are there two sets of instructions within the person, one from his deepest nature -- which includes and unfolds all in goodness and compassion -- and the other, which is clever about "me" and "mine"?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:77
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:77
   :END:
 
 
@@ -1564,9 +1564,9 @@ Yes. There are two sets of instructions within the person. Goodness and compassi
 * Can the soul be equally represented in dreams by an old woman, wrinkled and wise, as well as by a young baby babbling a new language?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:78
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:78
   :END:
 
 
@@ -1577,9 +1577,9 @@ Yes. The soul can be represented in dreams by an old woman or by a young baby. I
 * Is the soul both male and female?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:79
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:79
   :END:
 
 
@@ -1590,9 +1590,9 @@ The soul itself is neither male nor female. But when the soul at the start of it
 * Is it the soul that makes the decision in selecting a new body in each incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:80
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:80
   :END:
 
 
@@ -1603,9 +1603,9 @@ Yes. It is the soul that makes the decision in selecting a body, but with the di
 * Is it the soul that must surrender to the Cosmic Self?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:81
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:81
   :END:
 
 
@@ -1616,9 +1616,9 @@ Yes. Each human being has an individual soul. This soul has to surrender to the 
 * Does the soul get new instruction in its development, or does it merely uncover what it has always known?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:82
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:82
   :END:
 
 
@@ -1631,9 +1631,9 @@ The soul is uncovering what it has always known. But at the same time, it is gro
 * Does the soul experience loneliness? If so, how does this differ from our superficial need to have the company of others, regardless of whether we like them or not, simply because we want someone to talk to?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:83
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:83
   :END:
 
 
@@ -1644,9 +1644,9 @@ The soul experiences loneliness only when the body, vital, mind and heart, which
 * Does the soul make demands on a person so that he has to change his ways?
  
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:84
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:84
   :END:
 
 
@@ -1657,9 +1657,9 @@ The soul does not make demands as such. It is not like a mother making demands o
 * How different is this from the demands the ego makes?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:85
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:85
   :END:
 
 
@@ -1670,9 +1670,9 @@ We now know that the soul does not make any demands. When the ego makes a demand
 * When the vital or mental tries to satisfy itself without the soul's approval, what happens to the soul? 
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:86
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:86
   :END:
 
 
@@ -1683,9 +1683,9 @@ In such cases the soul usually remains silent. But at times the Supreme may put 
 * Do things or places have a soul? For example, does a chair have a soul, does a city have a soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:87
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:87
   :END:
 
 
@@ -1696,9 +1696,9 @@ Each thing and each place has a soul. Like all other cities, the city of New Yor
 * Does the earth have a soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:88
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:88
   :END:
 
 
@@ -1709,9 +1709,9 @@ Certainly. The earth represents the Mother aspect of the Divine. It is on earth 
 * Can the gross ever give the subtle anything? That is, can the soul become stronger by the right use of the body such as exercise, right food, and so on?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:89
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:89
   :END:
 
 
@@ -1722,9 +1722,9 @@ Certainly. The gross can and must help the subtle. The body is gross, but in its
 * Can the soul select what the individual is to experience in the manifested world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:90
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:90
   :END:
 
 
@@ -1735,9 +1735,9 @@ Normally it is the soul that determines the experiences that the individual will
 * Approximately where in the physical body does one feel a sense of soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:91
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:91
   :END:
 
 
@@ -1750,9 +1750,9 @@ The true spiritual heart, about four finger-breadths in width, is located approx
 * If the body or personality is the newcomer and the soul is the real landlord, or lord, then how is it that the newcomer, which is always seeking satisfaction, can so suffocate the soul that its inspiration cannot be heard?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:92
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:92
   :END:
 
 
@@ -1765,9 +1765,9 @@ You are the landlady of the building in which we have our Centre. You own this b
 * When someone is described as having a young soul or an old soul, what does this mean?
 
  :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
- :CITE-KEY: YSL:93
+  :genre: qa
+  :keywords:
+ :cite-key: YSL:93
   :END:
 
 
@@ -1778,9 +1778,9 @@ From the spiritual point of view, when one has acquired higher and deeper experi
 * Do things move faster with a young soul because there is less overlay from previous incarnations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:94
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:94
   :END:
 
 
@@ -1793,9 +1793,9 @@ Here again we have to be aware of one thing: It is not the number of incarnation
 * What is the difference between "strength of soul" and "strength of character?"
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:95
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:95
   :END:
 
 
@@ -1806,9 +1806,9 @@ Strength of character is the pride of morality and humanity. Strength of soul is
 * Could the soul that inhabits a human body have inhabited an animal body or a plant in previous times?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:96
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:96
   :END:
 
 
@@ -1821,9 +1821,9 @@ The total process of evolution on earth includes the soul as well as the physica
 * Do souls differ in their characteristics?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:97
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:97
   :END:
 
 
@@ -1838,9 +1838,9 @@ It is by manifesting their hidden potentialities through the process of reincarn
 * What is the connection of the soul to past and future karma?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:98
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:98
   :END:
 
 
@@ -1853,9 +1853,9 @@ At the same time, the soul is far beyond the snare of cause and effect. It is th
 * Where does the soul rest when it first leaves the body? Does it carry over its bodily or earthly limitations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: YSL:99
+  :genre: qa
+  :keywords:
+  :cite-key: YSL:99
   :END:
 
 
@@ -1868,9 +1868,9 @@ The soul does not carry over any earthly limitations to the higher worlds. The s
 * Part Three: Religion (mainly Hinduism)
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: YSL:100e1
+  :genre: section
+  :keywords:
+  :cite-key: YSL:100e1
   :END:
 
 
@@ -1878,9 +1878,9 @@ The soul does not carry over any earthly limitations to the higher worlds. The s
 * What is religion?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:100
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:100
   :END:
 
 
@@ -1919,9 +1919,9 @@ The divine aim of religion is to release the pent-up reservoir of human energy. 
 * The universality of religion
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:101
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:101
   :END:
 
 
@@ -1964,9 +1964,9 @@ I am a Hindu. I am proud of my Hinduism. My Hinduism, /Sanatana dharma/, the ete
 * Hinduism
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:102
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:102
   :END:
 
 
@@ -2023,9 +2023,9 @@ My brothers and sisters, I find no reason why I should fail to find in you a hea
 * The Hinduism of today
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:103
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:103
   :END:
 
 
@@ -2064,9 +2064,9 @@ So our boat is sailing, dancing in tune with God's eternal, mystic cadence. We a
 * The quintessence of Hinduism
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:104
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:104
   :END:
 
 
@@ -2145,9 +2145,9 @@ The present-day world is consciously longing for unity. Hinduism teaches that In
 * Hinduism: Its spiritual significance
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:105
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:105
   :END:
 
 
@@ -2185,9 +2185,9 @@ The vision of Hinduism is unity in diversity. First, Hinduism lovingly embraces 
 * Hinduism: The journey of India's soul
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:106
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:106
   :END:
 
 
@@ -2264,9 +2264,9 @@ To know Hinduism is to discover India. To discover India is to feel the Breath o
 * India: Her consciousness and light
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:107
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:107
   :END:
 
 
@@ -2341,9 +2341,9 @@ India is the vault of an ancient eternal wisdom that has a universal appeal. She
 * East and West
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: YSL:108
+  :genre: discourse
+  :keywords:
+  :cite-key: YSL:108
   :END:
 
 

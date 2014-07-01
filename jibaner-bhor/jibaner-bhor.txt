@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1085
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: JBBH
-  :GENRE: song
+  :book-number: 1085
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: JBBH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JBBH:1e1
+  :genre: note
+  :cite-key: JBBH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JBBH:1e2
+  :genre: note
+  :cite-key: JBBH:1e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Chahina Amare Tushite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1994
-  :CITE-KEY: JBBH:1
+  :cite-key: JBBH:1
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ Prabhur charan pujite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 09-01-1994
-  :CITE-KEY: JBBH:2
+  :cite-key: JBBH:2
   :END:
 
 #+BEGIN_VERSE
@@ -80,10 +80,10 @@ At my Lord’s Feet.
 * Nutan Ashar Kusum Kanane Phutibo Ajike
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1994
-  :CITE-KEY: JBBH:3
+  :cite-key: JBBH:3
   :END:
 
 #+BEGIN_VERSE
@@ -97,10 +97,10 @@ Puratan mor moha bandhan tutibo tutibo
 * Bhakati Ashru Dao Go Amai Tomare Basite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-01-1994
-  :CITE-KEY: JBBH:4
+  :cite-key: JBBH:4
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Nahi jena raje manase amar mithya malin kalo
 * Bhakti Hiyai Pujbo Tomai Bhakti Hiyai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1994
-  :CITE-KEY: JBBH:5
+  :cite-key: JBBH:5
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Benche achi ami mago ei bharashai
 * Amar Hiya Kannar Nahi Chahi Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1994
-  :CITE-KEY: JBBH:6
+  :cite-key: JBBH:6
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ Ogo kripamoy ogo mor paramesh
 * Kanpe Paran Bhaye Bhaye Kanpe Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1994
-  :CITE-KEY: JBBH:7
+  :cite-key: JBBH:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ Keman kare urabo hai tomar nishan
 * Jani Ami Tumi Tomar Ankhi Sudha Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1994
-  :CITE-KEY: JBBH:8
+  :cite-key: JBBH:8
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ Hiya pure dao go amai ashesh khudha
 * Namer Kangal Hayeche Jahara Peyeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1994
-  :CITE-KEY: JBBH:9
+  :cite-key: JBBH:9
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ Mukti labhite pete habe jani tader urdha chetana
 * Tomai Ami Na Dile Mor Maner Mukharata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:10
+  :cite-key: JBBH:10
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Keman kare pabe jiban madhur nirabata
 * Khuliya Rakhibo Mor Bhakati Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:11
+  :cite-key: JBBH:11
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Prabeshibe hiya pure karuna joar
 * Dub Dibo Aj Shanti Parabare Mukti Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:12
+  :cite-key: JBBH:12
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Mukti giti gaibo barebare
 * Kandite Janina Kandite Janina Kandite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:13
+  :cite-key: JBBH:13
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ Prabhu sanjhe ar bhore
 * Ar Katokal Gaibo Ami Amar Bedan Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:14
+  :cite-key: JBBH:14
   :END:
 
 #+BEGIN_VERSE
@@ -286,10 +286,10 @@ Keman kare dibo tomai hiya pakhir priti
 * Sabai Amare Chhariya Jaibe Sabai Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:15
+  :cite-key: JBBH:15
   :END:
 
 #+BEGIN_VERSE
@@ -305,10 +305,10 @@ Tare kadapi tader smariya
 * Jibaner Bhore Dekhechi Tomare Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-01-1994
-  :CITE-KEY: JBBH:16
+  :cite-key: JBBH:16
   :END:
 
 #+BEGIN_VERSE
@@ -324,10 +324,10 @@ Toma paye more rakhibo
 * Esechi Phiriya Taba Pada Tale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:17
+  :cite-key: JBBH:17
   :END:
 
 #+BEGIN_VERSE
@@ -340,10 +340,10 @@ Chiratare rakho more kripa bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:18
+  :cite-key: JBBH:18
   :END:
 
 #+BEGIN_VERSE
@@ -360,10 +360,10 @@ Do keep me forever and forever.
 * Tomar Adesh Na Shunile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:19
+  :cite-key: JBBH:19
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Kandan ashesh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:20
+  :cite-key: JBBH:20
   :END:
 
 #+BEGIN_VERSE
@@ -397,10 +397,10 @@ Endless are my heart’s pangs.
 * Tomar Ashish Tomar Sneha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:21
+  :cite-key: JBBH:21
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Tomar sathe sathe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:22
+  :cite-key: JBBH:22
   :END:
 
 #+BEGIN_VERSE
@@ -435,10 +435,10 @@ I shall sing with You.
 * Hiya Pure Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:23
+  :cite-key: JBBH:23
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ Pete tomar khama kripa pete hasi pete
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:24
+  :cite-key: JBBH:24
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Your Satisfaction-Smile.
 * Paran Bhariya Sabare Dakite Sabare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:25
+  :cite-key: JBBH:25
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Manas hayite niye jao mor agyan ghor kalo
 * Phuler Sathe Phutbo Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:26
+  :cite-key: JBBH:26
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ Tomar hasi dekhte pabo atmahutir bale
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:27
+  :cite-key: JBBH:27
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ I shall receive Your Satisfaction-Smile.
 * Hiya Pure Jete Habe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:28
+  :cite-key: JBBH:28
   :END:
 
 #+BEGIN_VERSE
@@ -537,10 +537,10 @@ Gaite tomar bijoy giti atmatyager sure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-01-1994
-  :CITE-KEY: JBBH:29
+  :cite-key: JBBH:29
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ With my self-giving life.
 * Nahi Jani Ami Chahi Kahare Nahi Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:30
+  :cite-key: JBBH:30
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Nahi jena bandhi ami tahare
 * Amar Hriday Khulite Chahina Sabar Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:31
+  :cite-key: JBBH:31
   :END:
 
 #+BEGIN_VERSE
@@ -591,10 +591,10 @@ Bandhan giti gahi
 * Tomar Katha Balte Giye Kebal Bali Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:32
+  :cite-key: JBBH:32
   :END:
 
 #+BEGIN_VERSE
@@ -608,10 +608,10 @@ Tomar ankhi dekhe shudhu amar praner chapalata
 * Sanpi Chutte Chahi Ami Druta Gati Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:33
+  :cite-key: JBBH:33
   :END:
 
 #+BEGIN_VERSE
@@ -625,10 +625,10 @@ Dao amare param prabhu shubha mati
 * Shanti Deshe Nahi Raje Bhranti Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:34
+  :cite-key: JBBH:34
   :END:
 
 #+BEGIN_VERSE
@@ -642,10 +642,10 @@ Raje kebal param prabhur kanti
 * Maner Bane Heri Shudhu Kantar Akraman
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:35
+  :cite-key: JBBH:35
   :END:
 
 #+BEGIN_VERSE
@@ -659,10 +659,10 @@ Man nadite heri shudhu marur agaman
 * Urdha Loker Shunyata Urdha Loker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-01-1994
-  :CITE-KEY: JBBH:36
+  :cite-key: JBBH:36
   :END:
 
 #+BEGIN_VERSE
@@ -676,10 +676,10 @@ Nimna loker bandhan nimna loker krandan
 * He Param Prabhu Karuna Asim Tomar Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:37
+  :cite-key: JBBH:37
   :END:
 
 #+BEGIN_VERSE
@@ -693,10 +693,10 @@ Akatare dane ananda dheu samman aphuran
 * Kandi Ami Dibanishi Bahir Daner Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:38
+  :cite-key: JBBH:38
   :END:
 
 #+BEGIN_VERSE
@@ -710,10 +710,10 @@ Bhitar daner lagi keno nahi rahi jagi
 * Dure Dure Bahu Dure Prabhur Shanti Deepti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:39
+  :cite-key: JBBH:39
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ Labhi na je taito ami bindu matra tripti
 * Basana Jatana Abhinya Dehe Thake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:40
+  :cite-key: JBBH:40
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ Eshana tripti abhinya chitte rahe dibarate
 * Tomar Paye Phutle Jiban Danya Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:41
+  :cite-key: JBBH:41
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Ta na hale raibo ami banya manush banya
 * Phanki Diye Ami Chahina Haite Balo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:42
+  :cite-key: JBBH:42
   :END:
 
 #+BEGIN_VERSE
@@ -778,10 +778,10 @@ He param prabhu kripa kare more dalo
 * Hatash Habona Hatash Habona Hatash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:43
+  :cite-key: JBBH:43
   :END:
 
 #+BEGIN_VERSE
@@ -795,10 +795,10 @@ Dhara nire dibo amar pratiti nishwas
 * Basite Tomare Bhalo Danite Tomare Kalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-01-1994
-  :CITE-KEY: JBBH:44
+  :cite-key: JBBH:44
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ Labhite tomar alo akuti agun jwalo
 * Pranati Janabo.. Pranati He Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1994
-  :CITE-KEY: JBBH:45
+  :cite-key: JBBH:45
   :END:
 
 #+BEGIN_VERSE
@@ -831,10 +831,10 @@ Ei shudhu mor minati
 * Ogo Bidhata Bhakati Amar Phiraye Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1994
-  :CITE-KEY: JBBH:46
+  :cite-key: JBBH:46
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ Age karmata ami hanibar
 * Aghat Diye Tomai Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1994
-  :CITE-KEY: JBBH:47
+  :cite-key: JBBH:47
   :END:
 
 #+BEGIN_VERSE
@@ -867,10 +867,10 @@ Janina hai kabe habe agyanatar lupti
 * Bahu Dure Chalegechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1994
-  :CITE-KEY: JBBH:48
+  :cite-key: JBBH:48
   :END:
 
 #+BEGIN_VERSE
@@ -884,10 +884,10 @@ Tai toma nahi heri tabu ami hiya pure
 * Urdhe Nimne Gaibo Tomar Bijoyer Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-01-1994
-  :CITE-KEY: JBBH:49
+  :cite-key: JBBH:49
   :END:
 
 #+BEGIN_VERSE

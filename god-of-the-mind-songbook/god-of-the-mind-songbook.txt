@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 760
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1991
-  :PUBLISHER:
-  :CITE-KEY: GDMS
-  :GENRE: song
+  :book-number: 760
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1991
+  :publisher:
+  :cite-key: GDMS
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GDMS:1e1
+  :genre: note
+  :cite-key: GDMS:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GDMS:1e2
+  :genre: note
+  :cite-key: GDMS:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * My Ignorance-Bills
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 27-08-1989
-  :CITE-KEY: GDMS:1
+  :cite-key: GDMS:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Pays all my ignorance-bills.
 * A Real God-Lover
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:2
+  :cite-key: GDMS:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ From yesterday and tomorrow.
 * Each Breathing Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:3
+  :cite-key: GDMS:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Is a miracle.
 * Divine Feelings
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:4
+  :cite-key: GDMS:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Are supreme realities.
 * In Your Inner Life, Never Be Sparing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:5
+  :cite-key: GDMS:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Never be sparing in smiling.
 * I Am Determined
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:6
+  :cite-key: GDMS:6
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ Here on earth.
 * Each Aspiration-Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:7
+  :cite-key: GDMS:7
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ A God-representative.
 * Forgiveness Means Transformation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:8
+  :cite-key: GDMS:8
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ Of a human heart into a divine life.
 * A New Flower-Fragrance-Prayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:9
+  :cite-key: GDMS:9
   :END:
 
 #+BEGIN_VERSE
@@ -200,10 +200,10 @@ Flower-fragrance-prayer.
 * Doubt Openly Blows Out
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:10
+  :cite-key: GDMS:10
   :END:
 
 #+BEGIN_VERSE
@@ -219,10 +219,10 @@ The lamp of the heart.
 * God’s Inner Message to Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:11
+  :cite-key: GDMS:11
   :END:
 
 #+BEGIN_VERSE
@@ -238,10 +238,10 @@ Heart-vigilance.
 * Do Not Blame the World (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:12
+  :cite-key: GDMS:12
   :END:
 
 #+BEGIN_VERSE
@@ -255,10 +255,10 @@ Find a solution.
 * Make Healthy Choices
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:13
+  :cite-key: GDMS:13
   :END:
 
 #+BEGIN_VERSE
@@ -272,10 +272,10 @@ Perfection will be yours.
 * God’s Protection Appears Unseen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:14
+  :cite-key: GDMS:14
   :END:
 
 #+BEGIN_VERSE
@@ -289,10 +289,10 @@ We see it only when it disappears.
 * The Landlord of My Heart-House
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:15
+  :cite-key: GDMS:15
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ The Landlord of my heart-house.
 * How Long?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:16
+  :cite-key: GDMS:16
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ Out of print?
 * A True Peace-Lover
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:17
+  :cite-key: GDMS:17
   :END:
 
 #+BEGIN_VERSE
@@ -343,10 +343,10 @@ He can never be overworked.
 * A Purity-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:18
+  :cite-key: GDMS:18
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Of universal oneness-delight.
 * Humanity’s Real and Only Poverty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:19
+  :cite-key: GDMS:19
   :END:
 
 #+BEGIN_VERSE
@@ -378,10 +378,10 @@ Humanity’s real and only poverty:
 * Every Morning and Every Evening God Gives Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:20
+  :cite-key: GDMS:20
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Never leave your heart unguarded.
 * Is There Any Human Being?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:21
+  :cite-key: GDMS:21
   :END:
 
 #+BEGIN_VERSE
@@ -414,10 +414,10 @@ Of opposing realities?
 * If You Allow Your Mind to Be Paralysed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:22
+  :cite-key: GDMS:22
   :END:
 
 #+BEGIN_VERSE
@@ -433,10 +433,10 @@ Paralysed by unwillingness.
 * Oneness-Bravery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:23
+  :cite-key: GDMS:23
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Means freedom from self-slavery.
 * My Eyes Weep Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:24
+  :cite-key: GDMS:24
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ My heart enjoys ecstasy’s flood.
 * God Is Desperately Looking for You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:25
+  :cite-key: GDMS:25
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ To get from you a copy of your
 * It Is Impossible to Believe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:26
+  :cite-key: GDMS:26
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ On your aspiration-line.
 * The Flickering of Optimism-Lamp
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:27
+  :cite-key: GDMS:27
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ The flickering of optimism-lamp?
 * A Gratitude-Heart Can Smilingly Illumine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:28
+  :cite-key: GDMS:28
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ A doubting mind.
 * God’s Compassion-Eye Cries and Cries
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:29
+  :cite-key: GDMS:29
   :END:
 
 #+BEGIN_VERSE
@@ -558,10 +558,10 @@ On the battlefield of life.
 * A God-Seeker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:30
+  :cite-key: GDMS:30
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Can never retire.
 * The Heart-Fitness Test
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:31
+  :cite-key: GDMS:31
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ To pass the heart-fitness test.
 * First, Be an Illumined Individual
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:32
+  :cite-key: GDMS:32
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ The creator of a fulfilled world.
 * Love God Sleeplessly
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:33
+  :cite-key: GDMS:33
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Your heart’s rainbow-choices.
 * God Is Supremely Proud of You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:34
+  :cite-key: GDMS:34
   :END:
 
 #+BEGIN_VERSE
@@ -646,10 +646,10 @@ Your earthquake-emotion-life.
 * The Number of Our Beloved Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:35
+  :cite-key: GDMS:35
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ In your heart-directory.
 * On Principle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:36
+  :cite-key: GDMS:36
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ My soul’s throne.
 * The God of the Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:37
+  :cite-key: GDMS:37
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Has a very short life.
 * The Love of the Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:38
+  :cite-key: GDMS:38
   :END:
 
 #+BEGIN_VERSE
@@ -719,10 +719,10 @@ The supreme Destination.
 * Patience Is
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:39
+  :cite-key: GDMS:39
   :END:
 
 #+BEGIN_VERSE
@@ -737,10 +737,10 @@ Sacred victory-secret.
 * Today I Am Not Alone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:40
+  :cite-key: GDMS:40
   :END:
 
 #+BEGIN_VERSE
@@ -756,10 +756,10 @@ Will stay with me.
 * Uniqueness I See in Others
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:41
+  :cite-key: GDMS:41
   :END:
 
 #+BEGIN_VERSE
@@ -775,10 +775,10 @@ With His Fulness.
 * The Unloved Ones
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:42
+  :cite-key: GDMS:42
   :END:
 
 #+BEGIN_VERSE
@@ -792,10 +792,10 @@ To give space to the unloved ones.
 * Surprise God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:43
+  :cite-key: GDMS:43
   :END:
 
 #+BEGIN_VERSE
@@ -811,10 +811,10 @@ Only, only, only.
 * Receptivity-Inability
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:44
+  :cite-key: GDMS:44
   :END:
 
 #+BEGIN_VERSE
@@ -828,10 +828,10 @@ Is a universal experience-disease.
 * Perfect Happiness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:45
+  :cite-key: GDMS:45
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ Enthusiasm minus expectation.
 * I Have Two Teachers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:46
+  :cite-key: GDMS:46
   :END:
 
 #+BEGIN_VERSE
@@ -864,10 +864,10 @@ My mind-teacher teaches me defiance.
 * Now, this Very Moment
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:47
+  :cite-key: GDMS:47
   :END:
 
 #+BEGIN_VERSE
@@ -883,10 +883,10 @@ From ignorance-army.
 * My Lord, My Lord, I Beg of You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:48
+  :cite-key: GDMS:48
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ To lead me astray.
 * Self-Giving Means
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:49
+  :cite-key: GDMS:49
   :END:
 
 #+BEGIN_VERSE
@@ -920,10 +920,10 @@ Of the golden face of the future.
 * Who Is the Real Loser?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:50
+  :cite-key: GDMS:50
   :END:
 
 #+BEGIN_VERSE
@@ -938,10 +938,10 @@ The superiority-inferiority-game.
 * There Are Only Three Roads
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:51
+  :cite-key: GDMS:51
   :END:
 
 #+BEGIN_VERSE
@@ -959,10 +959,10 @@ God’s Satisfaction-Road.
 * Who Serves the Server?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:52
+  :cite-key: GDMS:52
   :END:
 
 #+BEGIN_VERSE
@@ -976,10 +976,10 @@ God the Satisfaction Infinite.
 * Unconditionally You Love God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:53
+  :cite-key: GDMS:53
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Your aspiration to take a break.
 * Your Sterling Faith in God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:54
+  :cite-key: GDMS:54
   :END:
 
 #+BEGIN_VERSE
@@ -1012,10 +1012,10 @@ Numberless buffets.
 * The Mind Cannot Speak to God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:55
+  :cite-key: GDMS:55
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ When God and the heart talk.
 * My Morning Aspiration
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:56
+  :cite-key: GDMS:56
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Is my best heart-satisfaction-song.
 * What I Call a Pure Thought
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:57
+  :cite-key: GDMS:57
   :END:
 
 #+BEGIN_VERSE
@@ -1065,10 +1065,10 @@ Flower-Smile-Song.
 * A Pain-Flooded Future
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GDMS:58
+  :cite-key: GDMS:58
   :END:
 
 #+BEGIN_VERSE

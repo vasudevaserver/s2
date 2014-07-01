@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0485
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1982
-  :PUBLISHER: Agni Press
-  :CITE-KEY: TBMC-3
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0485
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1982
+  :publisher: Agni Press
+  :cite-key: TBMC-3
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Author’s Dedication
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: TBMC:101e1
+  :genre: note
+  :keywords:
+  :cite-key: TBMC:101e1
   :END:
 
 
@@ -35,9 +35,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 101 Inadvertently
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:101
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:101
   :END:
 
 
@@ -50,9 +50,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 102 Inane
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:102
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:102
   :END:
 
 
@@ -65,9 +65,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 103 Incarcerate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:103
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:103
   :END:
 
 
@@ -80,9 +80,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 104 Incongruous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:104
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:104
   :END:
 
 
@@ -95,9 +95,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 105 Indigent
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:105
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:105
   :END:
 
 
@@ -110,9 +110,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 106 Injunction
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:106
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:106
   :END:
 
 
@@ -125,9 +125,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 107 Insipid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:107
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:107
   :END:
 
 
@@ -140,9 +140,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 108 Intransigent
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:108
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:108
   :END:
 
 
@@ -155,9 +155,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 109 Intrepid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:109
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:109
   :END:
 
 
@@ -170,9 +170,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 110 Jocose
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:110
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:110
   :END:
 
 
@@ -185,9 +185,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 111 Judicious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:111
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:111
   :END:
 
 
@@ -200,9 +200,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 112 Juncture
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:112
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:112
   :END:
 
 
@@ -215,9 +215,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 113 Ken
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:113
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:113
   :END:
 
 
@@ -230,9 +230,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 114 Laconic
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:114
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:114
   :END:
 
 
@@ -245,9 +245,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 115 Lugubrious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:115
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:115
   :END:
 
 
@@ -260,9 +260,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 116 Magnanimity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:116
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:116
   :END:
 
 
@@ -275,9 +275,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 117 Maudlin
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:117
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:117
   :END:
 
 
@@ -290,9 +290,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 118 Mellifluous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:118
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:118
   :END:
 
 
@@ -305,9 +305,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 119 Miscreant
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:119
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:119
   :END:
 
 
@@ -320,9 +320,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 120 Moribund
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:120
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:120
   :END:
 
 
@@ -335,9 +335,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 121 Mulct
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:121
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:121
   :END:
 
 
@@ -350,9 +350,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 122 Niggardly
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:122
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:122
   :END:
 
 
@@ -365,9 +365,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 123 Nomad
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:123
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:123
   :END:
 
 
@@ -380,9 +380,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 124 Nugatory
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:124
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:124
   :END:
 
 
@@ -395,9 +395,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 125 Obdurate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:125
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:125
   :END:
 
 
@@ -410,9 +410,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 126 Objurgatory
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:126
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:126
   :END:
 
 
@@ -425,9 +425,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 127 Obstreperous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:127
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:127
   :END:
 
 
@@ -440,9 +440,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 128 Onerous
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:128
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:128
   :END:
 
 
@@ -455,9 +455,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 129 Ostentatious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:129
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:129
   :END:
 
 
@@ -470,9 +470,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 130 Paragon
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:130
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:130
   :END:
 
 
@@ -485,9 +485,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 131 Parsimonious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:131
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:131
   :END:
 
 
@@ -500,9 +500,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 132 Peccadillo
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:132
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:132
   :END:
 
 
@@ -515,9 +515,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 133 Peremptory
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:133
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:133
   :END:
 
 
@@ -530,9 +530,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 134 Perfidious
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:134
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:134
   :END:
 
 
@@ -545,9 +545,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 135 Perfunctory
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:135
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:135
   :END:
 
 
@@ -560,9 +560,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 136 Periphery
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:136
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:136
   :END:
 
 
@@ -575,9 +575,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 137 Perspicacity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:137
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:137
   :END:
 
 
@@ -590,9 +590,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 138 Pithy
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:138
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:138
   :END:
 
 
@@ -605,9 +605,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 139 Placid
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:139
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:139
   :END:
 
 
@@ -620,9 +620,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 140 Plethora
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:140
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:140
   :END:
 
 
@@ -635,9 +635,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 141 Polemic
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:141
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:141
   :END:
 
 
@@ -650,9 +650,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 142 Poltroon
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:142
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:142
   :END:
 
 
@@ -665,9 +665,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 143 Potpourri
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:143
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:143
   :END:
 
 
@@ -680,9 +680,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 144 Pragmatic
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:144
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:144
   :END:
 
 
@@ -695,9 +695,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 145 Preponderate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:145
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:145
   :END:
 
 
@@ -710,9 +710,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 146 Pristine
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:146
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:146
   :END:
 
 
@@ -725,9 +725,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 147 Procrastinate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:147
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:147
   :END:
 
 
@@ -740,9 +740,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 148 Prognosticate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:148
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:148
   :END:
 
 
@@ -755,9 +755,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 149 Propinquity
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:149
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:149
   :END:
 
 
@@ -770,9 +770,9 @@ I dedicate this book to my Savyasachi, Chetana, Ranjana and Sumedha. They have g
 * 150 Protean
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: TBMC:150
+  :genre: discourse
+  :keywords:
+  :cite-key: TBMC:150
   :END:
 
 

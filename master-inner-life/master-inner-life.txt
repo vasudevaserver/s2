@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0343
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MIL
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0343
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: MIL
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Obedience and discipleship
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:1
+  :genre: discourse
+  :keywords:
+  :cite-key: MIL:1
   :END:
 
 
@@ -75,9 +75,9 @@ So let us be obedient to each other. When I ask someone to do something or to sa
 * The Master's inner life: The Master's miracle-power
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:2
+  :genre: discourse
+  :keywords:
+  :cite-key: MIL:2
   :END:
 
 
@@ -94,9 +94,9 @@ We have to know what kind of miracles we need. The kind of miracles that some Ma
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:3e1
+  :genre: section
+  :keywords:
+  :cite-key: MIL:3e1
   :END:
 
 
@@ -104,9 +104,9 @@ We have to know what kind of miracles we need. The kind of miracles that some Ma
 * Question: Guru, could you tell us about some of the inner experiences you get while meditating during your regular meetings at the United Nations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:3
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:3
   :END:
 
 
@@ -125,9 +125,9 @@ If the children always give their human father a gloomy face, the human father m
 * Question: How can I resolve the fact that I feel my Master is an Avatar, but others do not?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:4
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:4
   :END:
 
 
@@ -138,9 +138,9 @@ If the children always give their human father a gloomy face, the human father m
 * Question: When an Avatar or a realised Master is in a human body, what's the limitation of the knowledge available to him. I'm not asking about occult power, but normally, in day-to-day life with his disciples, how much does he know?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:5
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:5
   :END:
 
 
@@ -152,9 +152,9 @@ If the children always give their human father a gloomy face, the human father m
 
   :PROPERTIES:
   :SUBTITLE
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:6
+  :genre: discourse
+  :keywords:
+  :cite-key: MIL:6
   :END:
 
 
@@ -183,9 +183,9 @@ Now, what I am about to say applies mostly to the disciples who have been with m
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:7e1
+  :genre: section
+  :keywords:
+  :cite-key: MIL:7e1
   :END:
 
 
@@ -193,9 +193,9 @@ Now, what I am about to say applies mostly to the disciples who have been with m
 * Question: You once said that in your last life your disciples were ninety-nine percent devoted to you. Why didn't they come to you this time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:7
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:7
   :END:
 
 
@@ -208,9 +208,9 @@ You have come here, but temptation is pulling against you; so you easily fall do
 * Question: How may a disciple consciously identify with you as often as possible?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:8
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:8
   :END:
 
 
@@ -227,9 +227,9 @@ So if the Supreme comes first in your life, then automatically you will be able 
 * Meditation with the Master
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:9
+  :genre: discourse
+  :keywords:
+  :cite-key: MIL:9
   :END:
 
 
@@ -244,9 +244,9 @@ Sometimes when I am blessing a person, my back, my human back feels like it has 
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:10e1
+  :genre: section
+  :keywords:
+  :cite-key: MIL:10e1
   :END:
 
 
@@ -254,9 +254,9 @@ Sometimes when I am blessing a person, my back, my human back feels like it has 
 * Question: Can you describe our inner aspiration and how we can share it with others?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:10
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:10
   :END:
 
 
@@ -271,9 +271,9 @@ When we get something from above, that very thing is pulling us up. And while it
 * Question: Can you give me some advice as to how to best continue meditating if I can't come back frequently to this Centre?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:11
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:11
   :END:
 
 
@@ -288,9 +288,9 @@ I am telling you all this, assuming that you want to follow our path. If you wan
 * Question: When we receive Light and Peace from our meditation, is it assimilated and stored for our gradual use, or do we constantly use it as we use food?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:12
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:12
   :END:
 
 
@@ -303,9 +303,9 @@ If Peace, Light and Bliss are not assimilated, then it is just as if a friend ca
 * Inner and outer contact with the Master: anniversary talk
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: MIL:13
+  :genre: discourse
+  :keywords:
+  :cite-key: MIL:13
   :END:
 
 
@@ -334,9 +334,9 @@ All of you, please come to the Centre regularly. I am very proud of you. You do 
 * Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MIL:14e1
+  :genre: section
+  :keywords:
+  :cite-key: MIL:14e1
   :END:
 
 
@@ -344,9 +344,9 @@ All of you, please come to the Centre regularly. I am very proud of you. You do 
 * Question: What is the relationship between the Guru's soul and the disciple's soul? Are they one?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:14
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:14
   :END:
 
 
@@ -361,9 +361,9 @@ But right now it is not like that. Sometimes you try to enter into me with fear,
 * Question: Guru, were all your disciples destined to come to you in this incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:15
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:15
   :END:
 
 
@@ -378,9 +378,9 @@ Not all souls are meant for me. But most of the souls that have come to me are m
 * Question: But when disciples come to you, do you already see that they will go up very high or fall down, or is it all open?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:16
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:16
   :END:
 
 
@@ -395,9 +395,9 @@ When we started here, we gave the same chance to everyone. When I accept someone
 * Question: Is it spiritually good for us just to be near you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:17
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:17
   :END:
 
 
@@ -418,9 +418,9 @@ If those disciples who live here in the vicinity feel that they can rest, then t
 * Question: How can we tell whether an idea we have came from you or not?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:18
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:18
   :END:
 
 
@@ -433,9 +433,9 @@ When I leave the body, I will see how many people really want to stay in the spi
 * Question: Do you mind getting gifts from disciples?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:19
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:19
   :END:
 
 
@@ -446,9 +446,9 @@ When I leave the body, I will see how many people really want to stay in the spi
 * Question: What should I do if I see you on the street?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:20
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:20
   :END:
 
 
@@ -463,9 +463,9 @@ When you see me in the street, sometimes I am deeply absorbed, and very, very se
 * Question: When I think of you, are you aware of my thought?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MIL:21
+  :genre: qa
+  :keywords:
+  :cite-key: MIL:21
   :END:
 
 

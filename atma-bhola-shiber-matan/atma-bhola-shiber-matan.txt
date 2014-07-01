@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1130
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: ABSM
-  :GENRE: song
+  :book-number: 1130
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: ABSM
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ABSM:1e1
+  :genre: note
+  :cite-key: ABSM:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ABSM:1e2
+  :genre: note
+  :cite-key: ABSM:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jakhan Habe Ahankarer Purna Biloy Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:1
+  :cite-key: ABSM:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Prabhur dhyane jiban amar habe tanmoy
 * Lakya Kebal Atma Bijoy Mukti Paritran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:2
+  :cite-key: ABSM:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Kripamoyer kripai karbo ami tar sandhan
 * Premamoyer Aghat Pratyakhyan Dibe Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:3
+  :cite-key: ABSM:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Dibe amai parashanti gyan
 * Adar Peye Jage Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:4
+  :cite-key: ABSM:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Tahar cheye hita kari aghat apaman
 * Ore Boka Atmar Kothai Man Apaman Bhoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:5
+  :cite-key: ABSM:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Nityanande dube thake atma parichoy
 * Bahir Mukhi Indriya Chhute Chale Shunena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:6
+  :cite-key: ABSM:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Antara mukhi hale shudhu habe tara shantir karan
 * Nije Kichu Nahi Kari Shudhu Make Sharan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:7
+  :cite-key: ABSM:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Chalan tini jiban tari ami kebal charan dhari
 * Na Chahiya Pratidan Jadi Kari Seba Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:8
+  :cite-key: ABSM:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Sebabrata dibe kale shantir sandhan
 * Ahang Jabe Jabe Mare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:9
+  :cite-key: ABSM:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Tomai pabo dibya ratan
 * Mangalamoy Chira Sundar Kripar Sagare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:10
+  :cite-key: ABSM:10
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Kripar sagare kari shantar
 * Dukha Ar Shokhe Bhara Amader Ei Dhara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:11
+  :cite-key: ABSM:11
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ Dur karo dukher karan
 * Ele Dibya Prithi Neme Prane Shata Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:12
+  :cite-key: ABSM:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Shata byatha jabe premer tane
 * Agragatir Akulata Kare Klanti Dur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:13
+  :cite-key: ABSM:13
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Dhrira ichchha sathe ane bishwa jayer sur
 * Jaha Balo Taha Tomar Mater Prakash Purna
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:14
+  :cite-key: ABSM:14
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Purna satya bale taha karo bishwas
 * Sat Swabhaber Ashroy Halo Sreshtha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:15
+  :cite-key: ABSM:15
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ Tahar adhikare pabe shanti hriday
 * Ke Ki Kare Taha Niye Britha Jalpana Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:16
+  :cite-key: ABSM:16
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Karo jadi anbe niche tomar chetana
 * Pratishthita Hale Maha Samatai Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:17
+  :cite-key: ABSM:17
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Tomare heribe dibya chetanai
 * Grahan Karo Grahan Karo Karunar Dan Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:18
+  :cite-key: ABSM:18
   :END:
 
 #+BEGIN_VERSE
@@ -351,10 +351,10 @@ Shanti tripti sethai pabe maha sandhan
 * Shaktishali Nitya Dhir Sthir Durbal Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:19
+  :cite-key: ABSM:19
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ Durbal kebal chanchal asthir
 * Sakkhi Haye Nije Nije Bhul Truti Je Kahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:20
+  :cite-key: ABSM:20
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ Thake bali bir subishal beber matan
 * Je Peyeche Nityananda Sadh Se Suneche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:21
+  :cite-key: ABSM:21
   :END:
 
 #+BEGIN_VERSE
@@ -402,10 +402,10 @@ Se suneche maha mukti nad
 * Je Jan Jane Saral Hasi Haste Sakal Abasthai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:22
+  :cite-key: ABSM:22
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Se jan thake dibya nitya atma jyotir samatai
 * Byathir Byethai Mukta Haye Parer Dukhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:23
+  :cite-key: ABSM:23
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ Lokhe bhabe pagol udasi
 * Thake Jadi Satyata Ar Saralya Nishkam Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:24
+  :cite-key: ABSM:24
   :END:
 
 #+BEGIN_VERSE
@@ -455,10 +455,10 @@ Pabe jeno prane mane madhur bisram
 * Mane Prane Jethai Ache Ajoy Achetan Dekhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:25
+  :cite-key: ABSM:25
   :END:
 
 #+BEGIN_VERSE
@@ -472,10 +472,10 @@ Dekhai sabab karbe sethai alo anayan
 * Purna Nirbak Haowar Cheye Bakya Sangjam
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:26
+  :cite-key: ABSM:26
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Jatha jato satya saral mantrer mato dheya
 * Abhijoge Praner Roge Diyona Prasroy (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:27
+  :cite-key: ABSM:27
   :END:
 
 #+BEGIN_VERSE
@@ -506,10 +506,10 @@ Nijer pane cheye dekho kato baki karte ajo joy
 * Badha Ase Badha Ase Shakti Dite Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:28
+  :cite-key: ABSM:28
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ Amar bijoy habe jani dharanite
 * Chinta Hate Mukta Haye Jena Kari Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:29
+  :cite-key: ABSM:29
   :END:
 
 #+BEGIN_VERSE
@@ -540,10 +540,10 @@ Age theke keno chinta keno daki alik maran
 * Age Jara Jete Chahe Naba Srishti (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:30
+  :cite-key: ABSM:30
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ Naba jyoti naba jagaran
 * Ja Karechi Bhul Kare Bhul Ekbar Se Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:31
+  :cite-key: ABSM:31
   :END:
 
 #+BEGIN_VERSE
@@ -576,10 +576,10 @@ Se bhul jena nahi kari barbar
 * Shanti Jyoti Kari Jadi Abahan Tar Birodhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:32
+  :cite-key: ABSM:32
   :END:
 
 #+BEGIN_VERSE
@@ -593,10 +593,10 @@ Tar Birodhi shakti karbe palayan
 * Durbalata Ajo Jaha Ache Gopan Parbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:33
+  :cite-key: ABSM:33
   :END:
 
 #+BEGIN_VERSE
@@ -610,10 +610,10 @@ Parbe dhara prabhur kripa nambe jakhan
 * Lobhe Tripti Karle Sadhan Dhrira Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:34
+  :cite-key: ABSM:34
   :END:
 
 #+BEGIN_VERSE
@@ -627,10 +627,10 @@ Dhrira habe badar badhan
 * Parikhya Ar Aghat Jadi Kari Sajhya Nata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:35
+  :cite-key: ABSM:35
   :END:
 
 #+BEGIN_VERSE
@@ -644,10 +644,10 @@ Jete ami parbo jeno shanti nadi tire
 * Jaha Ghate Ghate Shudhu Shikha Dite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-09-1987
-  :CITE-KEY: ABSM:36
+  :cite-key: ABSM:36
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Ta na hale ghatitana eman aghatan
 * Shanta Theke Praman Karo Bhalobaso
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:37
+  :cite-key: ABSM:37
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Shanta bhabe karle grahan habe druta unnati sadhan
 * Badha Tomai Badhya Kare Dakte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:38
+  :cite-key: ABSM:38
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Tahar pada dhuli rakho tomar namra mathe
 * Bhule Jete Chahi Jata Bhalo Mando Purba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:39
+  :cite-key: ABSM:39
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Bhabina ar prabhu bhabe amar lagi amar bhabona
 * Jabe Pabe Dibya Karme Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:40
+  :cite-key: ABSM:40
   :END:
 
 #+BEGIN_VERSE
@@ -730,10 +730,10 @@ Sadharaner pabe ghrina nahi pabe samarthan
 * Moder Dhara Barai Dukhamoy Kripamoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:41
+  :cite-key: ABSM:41
   :END:
 
 #+BEGIN_VERSE
@@ -747,10 +747,10 @@ Kripamoyi jachi barabhoi
 * Ke Ki Balbe Tate Jadi Bhita Haye Kartabyo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:42
+  :cite-key: ABSM:42
   :END:
 
 #+BEGIN_VERSE
@@ -766,10 +766,10 @@ Karbo ami bokar mato samarpan
 * Sabar Majhe Ache Narayan Taito Sabai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:43
+  :cite-key: ABSM:43
   :END:
 
 #+BEGIN_VERSE
@@ -783,10 +783,10 @@ Taito sabai tomar apan jan
 * Amar Nijer Apurnata Pari Jadi Karte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:44
+  :cite-key: ABSM:44
   :END:
 
 #+BEGIN_VERSE
@@ -800,10 +800,10 @@ Parer truti dekhbona ar shunbo tader krandan
 * Agya Loker Shudhu Durmati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:45
+  :cite-key: ABSM:45
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +817,10 @@ Purna hale habe nijer khati
 * Karbo Ami Atma Samarpan Dibo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:46
+  :cite-key: ABSM:46
   :END:
 
 #+BEGIN_VERSE
@@ -834,10 +834,10 @@ Dibo tomai amar hiyar dhan
 * Arpan Kare Jadi Balo Karecho Ta Dan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:47
+  :cite-key: ABSM:47
   :END:
 
 #+BEGIN_VERSE
@@ -851,10 +851,10 @@ Ahamika tomar sathi nahe bhagaban
 * Bakyatite Chintatite Akuti Mor Jwale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:48
+  :cite-key: ABSM:48
   :END:
 
 #+BEGIN_VERSE
@@ -868,10 +868,10 @@ Habo ami samahita chitta padma dale
 * Byartha Manoratha Haye Jiban Sangrame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:49
+  :cite-key: ABSM:49
   :END:
 
 #+BEGIN_VERSE
@@ -885,10 +885,10 @@ Kemane labhibo ami mahananda dhame
 * Rakha Karte Anyai Abdar Ke Diyeche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:50
+  :cite-key: ABSM:50
   :END:
 
 #+BEGIN_VERSE
@@ -902,10 +902,10 @@ Ke diyeche tomai adhikar
 * Sadharaner Anyai Dabi Kare Puran Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:51
+  :cite-key: ABSM:51
   :END:
 
 #+BEGIN_VERSE
@@ -919,10 +919,10 @@ Keno karo ore boka sunam arjan
 * Lakya Amar Seba Kara Prane Bhagaban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:52
+  :cite-key: ABSM:52
   :END:
 
 #+BEGIN_VERSE
@@ -936,10 +936,10 @@ Sarba prane dibarati jini biraj man
 * Ami Atma Nahi Kabhu Man Pran Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:53
+  :cite-key: ABSM:53
   :END:
 
 #+BEGIN_VERSE
@@ -953,10 +953,10 @@ Nitya gupta nitya mukta nahi jane keha
 * Nitya Byasta Manuser Prane Mane Sthir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:54
+  :cite-key: ABSM:54
   :END:
 
 #+BEGIN_VERSE
@@ -974,10 +974,10 @@ Tumi je amar rupantarer mahagyan
 * Kari Matha Nata Dulai Rahibo Niyata Pujai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:55
+  :cite-key: ABSM:55
   :END:
 
 #+BEGIN_VERSE
@@ -991,10 +991,10 @@ Rahibo niyata pujai
 * Man Pran Deha Amar Jato Karo Adhikar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:56
+  :cite-key: ABSM:56
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ Mukta karo maha hate e jiban amar
 * Ami Je Janina Janite Chahina Bagye Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:57
+  :cite-key: ABSM:57
   :END:
 
 #+BEGIN_VERSE
@@ -1027,10 +1027,10 @@ Hriday amar nache
 * Chinta Haran Nami Narayan Keno Eto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:58
+  :cite-key: ABSM:58
   :END:
 
 #+BEGIN_VERSE
@@ -1044,10 +1044,10 @@ Keno eto taba asima shayan
 * Dukher Mule Apurnata Akkhamata Bhitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:59
+  :cite-key: ABSM:59
   :END:
 
 #+BEGIN_VERSE
@@ -1061,10 +1061,10 @@ Bhitar bahir bishrinkala malinata
 * Dukha Tomai Nahi Kari Smaran Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:60
+  :cite-key: ABSM:60
   :END:
 
 #+BEGIN_VERSE
@@ -1078,10 +1078,10 @@ Chahina ami sukher bandhan
 * Khudra Ami Virat Ami Sab Amije Ek Prakhari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:61
+  :cite-key: ABSM:61
   :END:
 
 #+BEGIN_VERSE
@@ -1095,10 +1095,10 @@ Ek prakhari sukh dukh bhog kothai nai je anek
 * Jadi Na Pai Apan Antar Utsher Sandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:62
+  :cite-key: ABSM:62
   :END:
 
 #+BEGIN_VERSE
@@ -1112,10 +1112,10 @@ Keman kare pabo tomai amar bhagaban
 * Atma Bhola Shiber Matan Karle Atma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:63
+  :cite-key: ABSM:63
   :END:
 
 #+BEGIN_VERSE
@@ -1129,10 +1129,10 @@ Uthbe phute dibya jiban atma gyanir kothai maran
 * Ami Jena Kare Chali Prabhur Jaya Gan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:64
+  :cite-key: ABSM:64
   :END:
 
 #+BEGIN_VERSE
@@ -1146,10 +1146,10 @@ Jiban sheshe sharir chere jabar age pran
 * Jatai Tumi Karbe Abhijog Barbe Tatai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:65
+  :cite-key: ABSM:65
   :END:
 
 #+BEGIN_VERSE
@@ -1163,10 +1163,10 @@ Barbe tatai dukha jatan bhog
 * Bishwa Pitar Tripti Lagi Kari Shudhu Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:66
+  :cite-key: ABSM:66
   :END:
 
 #+BEGIN_VERSE
@@ -1180,10 +1180,10 @@ Ta na hale sara jiban pashur jiban ki prayojan
 * Kari Jadi Nitya Karma Tripti Lagima Karibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-09-1987
-  :CITE-KEY: ABSM:67
+  :cite-key: ABSM:67
   :END:
 
 #+BEGIN_VERSE
@@ -1197,10 +1197,10 @@ Karibe ma sebak tar nitya byabahar
 * Dhalo Prabhu Kripa Dhalo Prane Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:68
+  :cite-key: ABSM:68
   :END:
 
 #+BEGIN_VERSE
@@ -1214,10 +1214,10 @@ Antare mor agun jwalo dur kare dao mandha kalo
 * Hate Chahi Prabhu Tomar Banir Bahak Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:69
+  :cite-key: ABSM:69
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ Hate chahi ami anugata taba sebak
 * Chinta Haran Nami Narayan Nilam Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:70
+  :cite-key: ABSM:70
   :END:
 
 #+BEGIN_VERSE
@@ -1250,10 +1250,10 @@ Ar kichu nahi prayojan
 * Aro Bhalo Kare Puji Jena Prabhu Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:71
+  :cite-key: ABSM:71
   :END:
 
 #+BEGIN_VERSE
@@ -1267,10 +1267,10 @@ Aro bhalo kare bajai jeno go taba bijoyer bin
 * Ami Chahi Shudhu Tomar Joy Ar Kichu Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:72
+  :cite-key: ABSM:72
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ Ar kichu je kamya amar noy
 * He Madhumoy Rajadhiraj Katoi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:73
+  :cite-key: ABSM:73
   :END:
 
 #+BEGIN_VERSE
@@ -1303,10 +1303,10 @@ Tomar puja ogo hriday raj
 * Shudhu Katha Bachalata Kothai Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:74
+  :cite-key: ABSM:74
   :END:
 
 #+BEGIN_VERSE
@@ -1320,10 +1320,10 @@ Kothai mukhe madhurata shudhu byatha biphalata
 * Premer Shashan Kothin Bhishan Premto
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:75
+  :cite-key: ABSM:75
   :END:
 
 #+BEGIN_VERSE
@@ -1338,10 +1338,10 @@ Atma tyage bishwa srijan
 * Sakkhi Purush Sthir Udasin Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:76
+  :cite-key: ABSM:76
   :END:
 
 #+BEGIN_VERSE
@@ -1357,10 +1357,10 @@ Charidhare baje ananda bin
 * He Madhumoy Adhishwar Eka Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:77
+  :cite-key: ABSM:77
   :END:
 
 #+BEGIN_VERSE
@@ -1376,10 +1376,10 @@ Laho pranam amar ishwar
 * Kolahol Je Badhir Kare Sruti Amar Shunte
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:78
+  :cite-key: ABSM:78
   :END:
 
 #+BEGIN_VERSE
@@ -1393,10 +1393,10 @@ Shunte chahi swarga giti nirabatar
 * Jakhan Tomar Thakbena Ar Kono Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:79
+  :cite-key: ABSM:79
   :END:
 
 #+BEGIN_VERSE
@@ -1410,10 +1410,10 @@ Dhara deber thakan shudhu praner narayan
 * Narer Mato Durbal Jadi Nahi Thake Keha Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:80
+  :cite-key: ABSM:80
   :END:
 
 #+BEGIN_VERSE
@@ -1427,10 +1427,10 @@ Tahar mato swargyer jib ke ache abar
 * Lalito Ar Palito Hoy Mahima Mohan Parityakta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:81
+  :cite-key: ABSM:81
   :END:
 
 #+BEGIN_VERSE
@@ -1445,10 +1445,10 @@ Bishwa pita bishwa trata sarba shakti man
 * Ek Bhumika Ekti Kaj Ekti Shunya Sthan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:82
+  :cite-key: ABSM:82
   :END:
 
 #+BEGIN_VERSE
@@ -1462,10 +1462,10 @@ Ami chara purna rupe karbe ke anusthan
 * Gabhir Bhalobasa Diye Seba Gyane Jiba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:83
+  :cite-key: ABSM:83
   :END:
 
 #+BEGIN_VERSE
@@ -1481,10 +1481,10 @@ Elam ei jagate sadhite kon brato
 * Dhani Mani Guni Hate Anukul Kaj Je Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:84
+  :cite-key: ABSM:84
   :END:
 
 #+BEGIN_VERSE
@@ -1498,10 +1498,10 @@ Bara lok se hate pare pabena se atmar aobhan
 * Lakya Jarer Je Rupantar Taito Deha Dharan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:85
+  :cite-key: ABSM:85
   :END:
 
 #+BEGIN_VERSE
@@ -1517,10 +1517,10 @@ Atma nibedan
 * Dukha Byatha Dei Dekhiye Kothai Durbalata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:86
+  :cite-key: ABSM:86
   :END:
 
 #+BEGIN_VERSE
@@ -1534,10 +1534,10 @@ Ta na hale dukha byathar kisher sarthakotha
 * Dibya Jiban Karte Japan Barjan Kare Ghor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:87
+  :cite-key: ABSM:87
   :END:
 
 #+BEGIN_VERSE
@@ -1553,10 +1553,10 @@ Darkar shudhu smaran
 * Simar Kole Dule Dule Jege Uthe Je Sangit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-10-1987
-  :CITE-KEY: ABSM:88
+  :cite-key: ABSM:88
   :END:
 
 #+BEGIN_VERSE

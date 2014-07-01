@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0120
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: FFB-2
-  :GENRE: discourse, qa
-  :KEYWORDS:
+  :book-number: 0120
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: FFB-2
+  :genre: discourse, qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: Preface
-  :KEYWORDS:
-  :CITE-KEY: FFB:30e1
+  :genre: Preface
+  :keywords:
+  :cite-key: FFB:30e1
   :END:
 
 The ten lectures in this book are part of a fifty-state tour Sri Chinmoy was invited to give in 1974. The talks in this second series were delivered in January and February of 1974. The questions in this book were put to Sri Chinmoy by students at the universities where he spoke.
@@ -36,9 +36,9 @@ The ten lectures in this book are part of a fifty-state tour Sri Chinmoy was inv
 * Power
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:30
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:30
   :END:
 
 
@@ -107,9 +107,9 @@ January 25, 1974/
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:31
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:31
   :END:
 
 
@@ -155,9 +155,9 @@ We are God's children, His chosen instruments. God abides within us as a constan
 * Freedom
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:32
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:32
   :END:
 
 
@@ -199,9 +199,9 @@ When we elevate our consciousness to the highest level of awareness, illuminatio
 * Peace
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:33
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:33
   :END:
 
 
@@ -244,9 +244,9 @@ Every day the Almighty Father, the ever-Compassionate Father, gives us ample opp
 * Success and progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:34
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:34
   :END:
 
 
@@ -309,9 +309,9 @@ Faith is the only thing that makes us feel that we are part and parcel of Eterni
 * Wisdom-Light
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:35
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:35
   :END:
 
 
@@ -378,9 +378,9 @@ To me, each religion is a soulful, powerful, meaningful and fruitful house. Each
 * Forward!
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:36
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:36
   :END:
 
 
@@ -434,9 +434,9 @@ We have to move on, move on far, farther, farthest; deep, deeper, deepest; high,
 * Wisdom, justice and moderation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:37
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:37
   :END:
 
 
@@ -478,9 +478,9 @@ When we come face to face with God, He asks us to offer Him what we have. If we 
 * Hope and Life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:38
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:38
   :END:
 
 
@@ -527,9 +527,9 @@ Life is the car. Hope is the engine. Aspiration is the fuel. God is the Destinat
 * Success, failure and progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: FFB:39
+  :genre: discourse
+  :keywords:
+  :cite-key: FFB:39
   :END:
 
 
@@ -571,18 +571,18 @@ February 20, 1974 -- Evening/
 * Part II -- Questions and answers:  University Of Maine
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:40e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:40e1
   :END:
 
 
 * /Question: Is there a possibility of complete fulfilment in this world?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:40
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:40
   :END:
 
 
@@ -597,9 +597,9 @@ If we accept the life of aspiration, sooner or later fulfilment is bound to come
 * /Question: Sometimes I feel that I am competing with others and trying to realise God ahead of them. Could you say something about this?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:41
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:41
   :END:
 
 
@@ -612,9 +612,9 @@ So if you must enter into the field of competition, then compete with yourself, 
 * /Question: How can we stop thoughts from bothering as during meditation?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:42
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:42
   :END:
 
 
@@ -625,9 +625,9 @@ So if you must enter into the field of competition, then compete with yourself, 
 * /Question: If we killed off all our desires and lived all the time in the inner world, it seems to me there would be no progress in the world and everything would stagnate./
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:43
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:43
   :END:
 
 
@@ -645,18 +645,18 @@ If we can bring the wealth of the inner world into the outer world, which is now
 * Part III-- Questions and answers:  Virginia Commonwealth University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:44e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:44e1
   :END:
 
 
 * /Question: Which sound or chakra would be best for me to meditate upon?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:44
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:44
   :END:
 
 
@@ -669,9 +669,9 @@ If you meditate on the heart chakra, gradually you will come to feel that your o
 * /Question: I'm not sure I understand what you mean when you say the inner life is like a journey, which eventually takes you to the ever-transcending shore./
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:45
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:45
   :END:
 
 
@@ -684,9 +684,9 @@ When we start practising spirituality, we feel that if we get an iota of Peace, 
 * /Question: According to reincarnation, our next life is supposed to be a reflection and extension of this life. Could you please elaborate on this?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:46
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:46
   :END:
 
 
@@ -697,9 +697,9 @@ When we start practising spirituality, we feel that if we get an iota of Peace, 
 * /Question: You say that one should have a love for life. Does this encompass all living things, all forms of life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:47
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:47
   :END:
 
 
@@ -710,9 +710,9 @@ When we start practising spirituality, we feel that if we get an iota of Peace, 
 * /Question: You spoke about the mind during your talk. How does one go about transforming the mind?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:48
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:48
   :END:
 
 
@@ -723,9 +723,9 @@ When we start practising spirituality, we feel that if we get an iota of Peace, 
 * /Question: How can a human being function on earth without using the mind?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:49
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:49
   :END:
 
 
@@ -738,9 +738,9 @@ When you do not have any thought in your mind, please do not feel that you are t
 * /Question: How often should we fast in order to help our spiritual life?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:50
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:50
   :END:
 
 
@@ -751,9 +751,9 @@ When you do not have any thought in your mind, please do not feel that you are t
 * Part IV -- Questions and answers: University of Michigan
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:51e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:51e1
   :END:
 
 
@@ -761,9 +761,9 @@ When you do not have any thought in your mind, please do not feel that you are t
 * /Question: Do you feel that mankind is making spiritual progress?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:51
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:51
   :END:
 
 
@@ -774,9 +774,9 @@ Sri Chinmoy: Humanity is progressing towards its destined goal. Sometimes we not
 * Part V: Questions and answers from the University Of Toledo
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:52e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:52e1
   :END:
 
 
@@ -784,9 +784,9 @@ Sri Chinmoy: Humanity is progressing towards its destined goal. Sometimes we not
 * /Question: Is it easy to realise God while living in the world, instead of renouncing the world?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:52
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:52
   :END:
 
 
@@ -801,9 +801,9 @@ Here in the ordinary world we have to live amongst our friends. But we can easil
 * /Question: What is the art of surrender?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:53
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:53
   :END:
 
 
@@ -816,9 +816,9 @@ In the ordinary world, the servant is one individual and the master is another. 
 * /Question: In other words, to become one with God is to surrender one's identity?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:54
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:54
   :END:
 
 
@@ -829,9 +829,9 @@ In the ordinary world, the servant is one individual and the master is another. 
 * /Question: Is it necessary to meditate in the lotus position?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:55
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:55
   :END:
 
 
@@ -844,9 +844,9 @@ Now, it is not only the physical posture that counts, but how pure we are in our
 * /Question: How can we use meditation to get rid of pain?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:56
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:56
   :END:
 
 
@@ -857,9 +857,9 @@ Now, it is not only the physical posture that counts, but how pure we are in our
 * /Question: When we silence the mind, do we get any kind of messages?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:57
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:57
   :END:
 
 
@@ -870,9 +870,9 @@ Now, it is not only the physical posture that counts, but how pure we are in our
 * /Question: How do we go about silencing the mind?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:58
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:58
   :END:
 
 
@@ -887,9 +887,9 @@ The other way to silence the mind is to invoke Peace from above. No matter how m
 * Part VI-- Questions and answers: St. Joseph's College
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:59e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:59e1
   :END:
 
 
@@ -897,9 +897,9 @@ The other way to silence the mind is to invoke Peace from above. No matter how m
 * /Question: In one of your poems you wrote, "Above the toil of life, my soul is a bird of fire winging the infinite." I wish you would explain that to me./
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:59
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:59
   :END:
 
 
@@ -914,9 +914,9 @@ Right now we are all encaged. Right now, when we think of ourselves, we think of
 * /Question: To what extent does your emphasis on the soul flying "above the toil of life" lead to our ignoring the needs of our fellow man?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:60
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:60
   :END:
 
 
@@ -929,9 +929,9 @@ God has granted me this capacity, and it is my duty to utilise it. The world is 
 * /Question: What is your path?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:61
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:61
   :END:
 
 
@@ -946,9 +946,9 @@ As an individual, I know how weak, how ignorant, how imperfect I am. I am like a
 * Part VII-- Questions and answers: Roosevelt University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:62e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:62e1
   :END:
 
 
@@ -956,9 +956,9 @@ As an individual, I know how weak, how ignorant, how imperfect I am. I am like a
 * /Question: You said it is good to serve God. But is the only way to serve God to serve the God in other people?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:62
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:62
   :END:
 
 
@@ -973,9 +973,9 @@ If you don't pray, if you don't meditate, then your work may not be dedicated se
 * /Question: You said that time is short. Were you referring to the spiritual life or to the life on earth?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:63
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:63
   :END:
 
 
@@ -990,9 +990,9 @@ If we are alert, we can avail ourselves of each moment as an opportunity. Otherw
 * /Question: How can we eliminate fear?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:64
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:64
   :END:
 
 
@@ -1003,9 +1003,9 @@ If we are alert, we can avail ourselves of each moment as an opportunity. Otherw
 * /Question: I'd like to know if there is any way that we can still meditate and practise yoga without giving up our own religion?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:65
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:65
   :END:
 
 
@@ -1016,9 +1016,9 @@ If we are alert, we can avail ourselves of each moment as an opportunity. Otherw
 * /Question: What is the experience of God like?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:66
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:66
   :END:
 
 
@@ -1033,9 +1033,9 @@ In my conception, God is not somebody other than ourselves, not a separate perso
 * /Question: How can I improve my morning meditation?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:67
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:67
   :END:
 
 
@@ -1046,9 +1046,9 @@ In my conception, God is not somebody other than ourselves, not a separate perso
 * /Question: Can you suggest a method of meditation?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:68
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:68
   :END:
 
 
@@ -1061,9 +1061,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * Part VIII - Questions and answers: University Of Wisconsin
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:69e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:69e1
   :END:
 
 
@@ -1071,9 +1071,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * /Question: My aspiration seems very feeble, and I'm worried it won't get any stronger in the future./
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:69
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:69
   :END:
 
 
@@ -1084,9 +1084,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * /Question: I have a Master in India who told me to meditate on my navel chakra. But I'm not exactly sure how to do this. Could you comment on his advice?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:70
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:70
   :END:
 
 
@@ -1097,9 +1097,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * /Question: How can a seeker come to terms with the consequences of his past mistakes?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:71
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:71
   :END:
 
 
@@ -1110,9 +1110,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * Part IX -- Questions and answers: Georgia Institute Of Technology
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:72e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:72e1
   :END:
 
 
@@ -1120,9 +1120,9 @@ There is no common rule that everybody will meditate in a certain way. There are
 * /Question: What is the difference between the transcendental Self and the ordinary self?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:72
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:72
   :END:
 
 
@@ -1135,9 +1135,9 @@ When we speak of the higher Self, the transcendental Self, we are referring to s
 * /Question: It seems like it will take such a long time to realise this transcendental Self./
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:73
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:73
   :END:
 
 
@@ -1150,9 +1150,9 @@ We are all God's children. We are trying to get Peace, Light and Bliss in infini
 * Part X -- Questions And Answers: Clemson University
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:74e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:74e1
   :END:
 
 
@@ -1160,9 +1160,9 @@ We are all God's children. We are trying to get Peace, Light and Bliss in infini
 * /Question: You seem to feel that the mind is not that important. What about students, who go to school?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:74
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:74
   :END:
 
 
@@ -1175,9 +1175,9 @@ The physical mind will bring us information or world-knowledge. Inside this worl
 * Part XI -- Questions and answers: University Of North Carolina
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: FFB:75e1
+  :genre: section
+  :keywords:
+  :cite-key: FFB:75e1
   :END:
 
 
@@ -1185,9 +1185,9 @@ The physical mind will bring us information or world-knowledge. Inside this worl
 * /Question: You talk about God, but we do not have any concept at all of who God is. Who is God?/
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: FFB:75
+  :genre: qa
+  :keywords:
+  :cite-key: FFB:75
   :END:
 
 

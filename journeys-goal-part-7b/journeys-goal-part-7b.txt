@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 426
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: JGS-7B
-  :GENRE: song
+  :book-number: 426
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: JGS-7B
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1107e1
+  :genre: note
+  :cite-key: JGS:1107e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -32,8 +32,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: JGS:1107e2
+  :genre: note
+  :cite-key: JGS:1107e2
   :END:
 
 
@@ -43,10 +43,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * The Story of My Doleful Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1107
+  :cite-key: JGS:1107
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ Even God does not care.
 * My Tears Are Serving God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1108
+  :cite-key: JGS:1108
   :END:
 
 #+BEGIN_VERSE
@@ -81,10 +81,10 @@ This is my life history.
 * Into the World I Came
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1109
+  :cite-key: JGS:1109
   :END:
 
 #+BEGIN_VERSE
@@ -100,10 +100,10 @@ But to be the love-fountain.
 * I Invoke the Flaming Dawn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1110
+  :cite-key: JGS:1110
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ I shall own bliss-sky.
 * Beloved Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1111
+  :cite-key: JGS:1111
   :END:
 
 #+BEGIN_VERSE
@@ -141,10 +141,10 @@ My earth-bound face.
 * Lock Me, O Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1112
+  :cite-key: JGS:1112
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Only to please Thee.
 * Father, You Love Not Only Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1113
+  :cite-key: JGS:1113
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Who can not only go so far
 * Father, You Want Me to Equal You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1114
+  :cite-key: JGS:1114
   :END:
 
 #+BEGIN_VERSE
@@ -207,10 +207,10 @@ And become Your future hope.
 * I Was Fired in Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1115
+  :cite-key: JGS:1115
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ And cancelled, my return passage.
 * They Strive for Right
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1116
+  :cite-key: JGS:1116
   :END:
 
 #+BEGIN_VERSE
@@ -248,10 +248,10 @@ I strive for Godward journey.
 * This Is the Hardest Miracle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1117
+  :cite-key: JGS:1117
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ Without loving Him.
 * I Aspire to Illumine My Desire-Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1118
+  :cite-key: JGS:1118
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ I aspire to claim my long-lost
 * Those Who Begin Today
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1119
+  :cite-key: JGS:1119
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Or with their aspiration-sun.
 * Can You Tell Me, Friends?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1120
+  :cite-key: JGS:1120
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Who wants to live in realisation-light?
 * Your Love Has Crowned My Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1121
+  :cite-key: JGS:1121
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ I shall fulfil Your gnostic Play.
 * Time Is Fleeting
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1122
+  :cite-key: JGS:1122
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ And my heart shall proceed.
 * Let Us Taste
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1123
+  :cite-key: JGS:1123
   :END:
 
 #+BEGIN_VERSE
@@ -394,10 +394,10 @@ Eyeless cosmic fun.
 * True, Art Is Long
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1124
+  :cite-key: JGS:1124
   :END:
 
 #+BEGIN_VERSE
@@ -412,10 +412,10 @@ With a streak of Heavenly flame.
 * Once More Let Me Sail
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1125
+  :cite-key: JGS:1125
   :END:
 
 #+BEGIN_VERSE
@@ -431,10 +431,10 @@ Through progress-light I shall shine.
 * Strive Hard, Seek Quick
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1126
+  :cite-key: JGS:1126
   :END:
 
 #+BEGIN_VERSE
@@ -450,10 +450,10 @@ Cleave not to weakness-night.
 * O Lord of Golden Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1127
+  :cite-key: JGS:1127
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ And Divinity’s translucent Light.
 * Man’s Ingratitude
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1128
+  :cite-key: JGS:1128
   :END:
 
 #+BEGIN_VERSE
@@ -489,10 +489,10 @@ Man’s gratitude-light is man’s
 * O Lord of Love, O Lord of Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1129
+  :cite-key: JGS:1129
   :END:
 
 #+BEGIN_VERSE
@@ -508,10 +508,10 @@ For Thy tired Body’s supreme release.
 * Awake, O My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1130
+  :cite-key: JGS:1130
   :END:
 
 #+BEGIN_VERSE
@@ -526,10 +526,10 @@ In which I embody my ecstasy-sea.
 * A Shattered Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1131
+  :cite-key: JGS:1131
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ I face all alone Eternity’s Infinity-Shore.
 * With His Eagle-Eyes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1132
+  :cite-key: JGS:1132
   :END:
 
 #+BEGIN_VERSE
@@ -565,10 +565,10 @@ He sees duty’s sea-roar.
 * I Love the Words of Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1133
+  :cite-key: JGS:1133
   :END:
 
 #+BEGIN_VERSE
@@ -584,10 +584,10 @@ In them, I long always to be caught.
 * Just Stand and Wait
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1134
+  :cite-key: JGS:1134
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ Just stand and wait.
 * When Your Face Shines and Smiles
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1135
+  :cite-key: JGS:1135
   :END:
 
 #+BEGIN_VERSE
@@ -620,10 +620,10 @@ I lose in no time all my dingy wiles.
 * To the Zenith-Height
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1136
+  :cite-key: JGS:1136
   :END:
 
 #+BEGIN_VERSE
@@ -639,10 +639,10 @@ I shall offer my gratitude-length.
 * I Am Ready, O Ambition-Bird
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1137
+  :cite-key: JGS:1137
   :END:
 
 #+BEGIN_VERSE
@@ -659,10 +659,10 @@ Will reign supreme, sure.
 * Flowers Fade Away
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1138
+  :cite-key: JGS:1138
   :END:
 
 #+BEGIN_VERSE
@@ -680,10 +680,10 @@ Under life’s protection-shade.
 * The Small Hours
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1139
+  :cite-key: JGS:1139
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ For everything:
 * I Was Born on a Spotless Morn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1140
+  :cite-key: JGS:1140
   :END:
 
 #+BEGIN_VERSE
@@ -722,10 +722,10 @@ Of earth’s bondage-clay.
 * Rest, My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1141
+  :cite-key: JGS:1141
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Rest, my heart, rest.
 * If You Have No God-Zeal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1142
+  :cite-key: JGS:1142
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ From God’s cosmic meal.
 * Slowly I Sow the Seed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1143
+  :cite-key: JGS:1143
   :END:
 
 #+BEGIN_VERSE
@@ -779,10 +779,10 @@ The boat of God’s Compassion-Game.
 * O, Take My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1144
+  :cite-key: JGS:1144
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ To God’s Golden Shore.
 * I Love the Heart of All
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1145
+  :cite-key: JGS:1145
   :END:
 
 #+BEGIN_VERSE
@@ -817,10 +817,10 @@ I shall never brook a fall.
 * Because I Rowed My Boat
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1146
+  :cite-key: JGS:1146
   :END:
 
 #+BEGIN_VERSE
@@ -836,10 +836,10 @@ Plus God-Divinity’s God-Lore.
 * Roar, Roar, My Lion-Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1147
+  :cite-key: JGS:1147
   :END:
 
 #+BEGIN_VERSE
@@ -857,10 +857,10 @@ Life is but a prosperity-store.
 * Just Because You Are a Sage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1148
+  :cite-key: JGS:1148
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ You can easily empty my mind
 * O Unknown Morrow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1149
+  :cite-key: JGS:1149
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ To scale my topless height.
 * O Follower of Earth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1150
+  :cite-key: JGS:1150
   :END:
 
 #+BEGIN_VERSE
@@ -917,10 +917,10 @@ On the Golden Shore.
 * To Serve My Lord Supreme Best
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1151
+  :cite-key: JGS:1151
   :END:
 
 #+BEGIN_VERSE
@@ -935,10 +935,10 @@ A silence-nest.
 * O, Quote Me Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1152
+  :cite-key: JGS:1152
   :END:
 
 #+BEGIN_VERSE
@@ -956,10 +956,10 @@ Vast blue sky.
 * Be Not a Fool!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1153
+  :cite-key: JGS:1153
   :END:
 
 #+BEGIN_VERSE
@@ -978,10 +978,10 @@ Sun-vision’s unhorizoned length.
 * A Baby Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1154
+  :cite-key: JGS:1154
   :END:
 
 #+BEGIN_VERSE
@@ -997,10 +997,10 @@ Is man in his ecstasy-flooded room.
 * My Lord, If You Want to Fire Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: JGS:1155
+  :cite-key: JGS:1155
   :END:
 
 #+BEGIN_VERSE

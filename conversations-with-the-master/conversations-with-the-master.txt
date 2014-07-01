@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0301
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: CWM
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0301
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: CWM
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: The Fairy world
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CWM:1e1
+  :genre: section
+  :keywords:
+  :cite-key: CWM:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The Fairy world: conversation on a birthday
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: CWM:1
+  :genre: discourse
+  :keywords:
+  :cite-key: CWM:1
   :END:
 
 
@@ -49,9 +49,9 @@ I see right now in front of me three fairies who are playing, jumping near your 
 * Disciple: How do you know that you are actually seeing a fairy and that it isn’t your imagination?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:2
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:2
   :END:
 
 
@@ -62,9 +62,9 @@ I see right now in front of me three fairies who are playing, jumping near your 
 * Disciple: Will the younger disciples find it easier to see the fairies?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:3
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:3
   :END:
 
 
@@ -77,9 +77,9 @@ This is all lack of receptivity. There is one disciple I was blessing on his bir
 * Disciple: If we see a fairy, then will we be convinced that the fairy world exists?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:4
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:4
   :END:
 
 
@@ -90,9 +90,9 @@ This is all lack of receptivity. There is one disciple I was blessing on his bir
 * Disciple: What is fairy language like? Do they speak like us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:5
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:5
   :END:
 
 
@@ -103,9 +103,9 @@ This is all lack of receptivity. There is one disciple I was blessing on his bir
 * Disciple: Y saw a fairy once.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:6
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:6
   :END:
 
 
@@ -124,9 +124,9 @@ Today I am giving you a flower to see how much devotion you have for me. If you 
 * Disciple: What do fairies do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:7
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:7
   :END:
 
 
@@ -137,9 +137,9 @@ Today I am giving you a flower to see how much devotion you have for me. If you 
 * Disciple: Are fairies very tiny?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:8
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:8
   :END:
 
 
@@ -150,9 +150,9 @@ Today I am giving you a flower to see how much devotion you have for me. If you 
 * Disciple: Are fairies cute?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:9
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:9
   :END:
 
 
@@ -165,9 +165,9 @@ If we see an angel, our whole being will be swimming in a sea of delight. But if
 * Disciple: What do they wear?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:10
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:10
   :END:
 
 
@@ -178,9 +178,9 @@ If we see an angel, our whole being will be swimming in a sea of delight. But if
 * Disciple: Do you often see fairies?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:11
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:11
   :END:
 
 
@@ -191,9 +191,9 @@ If we see an angel, our whole being will be swimming in a sea of delight. But if
 * Disciple: Do fairies have different incarnations or do they just exist?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:12
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:12
   :END:
 
 
@@ -204,9 +204,9 @@ If we see an angel, our whole being will be swimming in a sea of delight. But if
 * Disciple: Would a human soul go into a fairy world or become an angel?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:13
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:13
   :END:
 
 
@@ -219,9 +219,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Are fairies conscious of the existence of God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:14
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:14
   :END:
 
 
@@ -232,9 +232,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Where do fairies live?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:15
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:15
   :END:
 
 
@@ -245,9 +245,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: If fairies have their own world, why do they come here?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:16
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:16
   :END:
 
 
@@ -258,9 +258,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: On other occasions why do they come to this world, Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:17
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:17
   :END:
 
 
@@ -271,9 +271,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: How far away is their world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:18
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:18
   :END:
 
 
@@ -284,9 +284,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Must angels also be given special purity to function on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:19
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:19
   :END:
 
 
@@ -297,9 +297,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Sometimes children have imaginary friends. Are they fairies?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:20
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:20
   :END:
 
 
@@ -310,9 +310,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Why do they come?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:21
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:21
   :END:
 
 
@@ -323,9 +323,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: When they visit you, what do they do? Do they talk to you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:22
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:22
   :END:
 
 
@@ -336,9 +336,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: How can you invoke an angel?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:23
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:23
   :END:
 
 
@@ -349,9 +349,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Do you have any disciples who are angels?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:24
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:24
   :END:
 
 
@@ -362,9 +362,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Can we see guardian angels?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:25
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:25
   :END:
 
 
@@ -375,9 +375,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Once we become your disciples, do we need a guardian angel? Do they still stay with us then?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:26
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:26
   :END:
 
 
@@ -388,9 +388,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Are angels large?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:27
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:27
   :END:
 
 
@@ -401,9 +401,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: Are all angels masculine?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:28
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:28
   :END:
 
 
@@ -414,9 +414,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: I don’t know how much of this I can believe, Guru.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:29
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:29
   :END:
 
 
@@ -427,9 +427,9 @@ In Puerto Rico, one of our disciple’s granddaughters was a beautiful fairy. Af
 * Disciple: When we imagine something, is that a mental process?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:30
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:30
   :END:
 
 
@@ -444,9 +444,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Disciple: What is the relationship between God’s imagination and God-realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:31
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:31
   :END:
 
 
@@ -457,9 +457,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Disciple: What is the difference between the Indian gods and the Western gods, like Zeus?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:32
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:32
   :END:
 
 
@@ -470,9 +470,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Part II: Witchcraft, the planets, dreams
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: CWM:33e1
+  :genre: section
+  :keywords:
+  :cite-key: CWM:33e1
   :END:
 
 
@@ -483,9 +483,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Disciple: Do demons manifest on the physical plane?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:33
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:33
   :END:
 
 
@@ -496,9 +496,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Disciple: Do demons have a form?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:34
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:34
   :END:
 
 
@@ -509,9 +509,9 @@ Imagination and creation cannot be separated, but you have to know the differenc
 * Disciple: Are these the same things that Christians would call devils?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:35
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:35
   :END:
 
 
@@ -524,9 +524,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: What is the difference between a ghost and a transcendental spirit?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:36
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:36
   :END:
 
 
@@ -537,9 +537,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: How do you fight with hostile vital beings?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:37
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:37
   :END:
 
 
@@ -550,9 +550,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: What is the difference in the actual fighting between spiritual power and occult power? How do they manifest?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:38
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:38
   :END:
 
 
@@ -563,9 +563,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: Do the hostile forces have a commander?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:39
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:39
   :END:
 
 
@@ -576,9 +576,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: To fight hostile forces, does one have to be a very, very great spiritual Master? Or can an ordinary occultist do something?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:40
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:40
   :END:
 
 
@@ -589,9 +589,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: What are witches?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:41
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:41
   :END:
 
 
@@ -602,9 +602,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: Were the so-called witches in Salem really witches?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:42
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:42
   :END:
 
 
@@ -615,9 +615,9 @@ But my name is Compassion. When I see them, I don’t curse them; I curse myself
 * Disciple: Do they actually use spells?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:43
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:43
   :END:
 
 
@@ -630,9 +630,9 @@ The story never ends. The mother had a lady friend who used to go to the same bl
 * Disciple: Would a person who is spiritually developed do it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:44
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:44
   :END:
 
 
@@ -643,9 +643,9 @@ The story never ends. The mother had a lady friend who used to go to the same bl
 * Disciple: Do witches actually use concoctions or voodoo dolls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:45
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:45
   :END:
 
 
@@ -656,9 +656,9 @@ The story never ends. The mother had a lady friend who used to go to the same bl
 * Disciple: Do the forces leave immediately when these people accept your path?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:46
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:46
   :END:
 
 
@@ -669,9 +669,9 @@ The story never ends. The mother had a lady friend who used to go to the same bl
 * Disciple: Was the Medusa a freak of nature?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:47
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:47
   :END:
 
 
@@ -682,9 +682,9 @@ The story never ends. The mother had a lady friend who used to go to the same bl
 * Disciple: I just finished reading a book about the Bermuda triangle. It is a place where planes and ships disappear into thin air, or ships with full crews are found abandoned with no people on board and no signs of any chaos. Can you explain what happened here?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:48
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:48
   :END:
 
 
@@ -697,9 +697,9 @@ Also, some Indian spiritual Masters have consciously and deliberately taken away
 * Disciple: When the beings take people off the ships, what kind of experience do the people’s souls have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:49
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:49
   :END:
 
 
@@ -710,9 +710,9 @@ Also, some Indian spiritual Masters have consciously and deliberately taken away
 * Disciple: Guru, I read somewhere that scientists have found that the pyramid shape has very strange effects on certain things. For example, when a person sleeps in a pyramid-shaped room, they say he needs very little sleep.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:50
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:50
   :END:
 
 
@@ -725,9 +725,9 @@ In this world we do believe and we do have faith. Recently, I read in a book abo
 * Disciple: When the astronauts landed on the moon, did they bring a different consciousness to the moon?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:51
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:51
   :END:
 
 
@@ -738,9 +738,9 @@ In this world we do believe and we do have faith. Recently, I read in a book abo
 * Disciple: Are there canals on Mars?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:52
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:52
   :END:
 
 
@@ -751,9 +751,9 @@ In this world we do believe and we do have faith. Recently, I read in a book abo
 * Disciple: Is there life on other planets?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:53
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:53
   :END:
 
 
@@ -772,9 +772,9 @@ So, life is in all the galaxies. But life that takes physical form is found only
 * Disciple: So is earth the only place in the entire universe that has physical manifestation? What about Heaven?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:54
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:54
   :END:
 
 
@@ -787,9 +787,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: Is it possible to travel on the astral plane to the other planets?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:55
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:55
   :END:
 
 
@@ -800,9 +800,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: Do human beings ever establish some inner connection with certain planets?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:56
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:56
   :END:
 
 
@@ -813,9 +813,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: When you speak of bringing down Light and Peace from the planets, are you speaking of the physical planets like Mars or Jupiter, or are you speaking of the higher worlds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:57
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:57
   :END:
 
 
@@ -826,9 +826,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: Do the planets put together their good qualities and create harmony?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:58
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:58
   :END:
 
 
@@ -839,9 +839,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: Do the planets ever fight?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:59
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:59
   :END:
 
 
@@ -852,9 +852,9 @@ Life is everywhere, and the existence of the soul is everywhere in all the galax
 * Disciple: When planets fight, is the earth affected?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:60
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:60
   :END:
 
 
@@ -869,9 +869,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Can we see the fighting if we go to these planets?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:61
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:61
   :END:
 
 
@@ -882,9 +882,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Was there ever an Atlantis?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:62
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:62
   :END:
 
 
@@ -895,9 +895,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Were Indians the first human souls on earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:63
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:63
   :END:
 
 
@@ -908,9 +908,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Did the people of ancient days ever fly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:64
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:64
   :END:
 
 
@@ -921,9 +921,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Can it still be done now?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:65
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:65
   :END:
 
 
@@ -934,9 +934,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: What will you do with us in the inner world? Will we have dinner and things like that?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:66
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:66
   :END:
 
 
@@ -947,9 +947,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Do you ever get together with your inner beings and have parties and talk about us, or are you always serious?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:67
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:67
   :END:
 
 
@@ -960,9 +960,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Are there good days and bad days in the inner world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:68
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:68
   :END:
 
 
@@ -973,9 +973,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: If we get a little capacity in the inner world, what should we do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:69
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:69
   :END:
 
 
@@ -986,9 +986,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: Last night you moved your hand down when blessing X.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:70
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:70
   :END:
 
 
@@ -999,9 +999,9 @@ Some good planets want the seekers to make fast progress in the new year which i
 * Disciple: I don’t think I receive prasad soulfully.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:71
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:71
   :END:
 
 
@@ -1014,9 +1014,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: When I first hurt my foot, immediately after that, within thirty seconds, it was all better. How did I lose the force that you put on it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:72
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:72
   :END:
 
 
@@ -1027,9 +1027,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: When I hurt my foot, after you knew about it, was I wrong to bring it to your attention again when it wasn’t getting better?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:73
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:73
   :END:
 
 
@@ -1040,9 +1040,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: If you didn’t know about my foot on the physical plane, would you still know about it inwardly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:74
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:74
   :END:
 
 
@@ -1053,9 +1053,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: When you put a force on someone, do you throw out light? Like when M got accepted into the mountain climbing team against all odds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:75
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:75
   :END:
 
 
@@ -1066,9 +1066,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: Sometimes I dream that I fly through the air. Is that good or bad?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:76
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:76
   :END:
 
 
@@ -1079,9 +1079,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: How can we have good dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:77
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:77
   :END:
 
 
@@ -1092,9 +1092,9 @@ One question you people have not asked. It has happened that, on my birthday, fo
 * Disciple: How do you concentrate on the navel, and why?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: CWM:78
+  :genre: qa
+  :keywords:
+  :cite-key: CWM:78
   :END:
 
 

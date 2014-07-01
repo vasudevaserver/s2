@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1087
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: APJA
-  :GENRE: song
+  :book-number: 1087
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: APJA
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: APJA:1e1
+  :genre: note
+  :cite-key: APJA:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: APJA:1e2
+  :genre: note
+  :cite-key: APJA:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Jiban Pathe Ekla Jete Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:1
+  :cite-key: APJA:1
   :END:
 
 #+BEGIN_VERSE
@@ -57,10 +57,10 @@ Jiban pathe ekla jete chahina
 * Akash Pathe Urte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:2
+  :cite-key: APJA:2
   :END:
 
 #+BEGIN_VERSE
@@ -73,10 +73,10 @@ Akash pathe urte habe pakhir mato
 * Kanna Amar Saphal Habe Ei Asha Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:3
+  :cite-key: APJA:3
   :END:
 
 #+BEGIN_VERSE
@@ -89,10 +89,10 @@ Kanna amar saphal habe ei asha mor ache
 * Asha Nade Karte Santar Barai Bhalo Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:4
+  :cite-key: APJA:4
   :END:
 
 #+BEGIN_VERSE
@@ -105,10 +105,10 @@ Asha nade karte santar barai bhalo lage
 * Khudra Amire Tejiya Brihat Amire Barechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:5
+  :cite-key: APJA:5
   :END:
 
 #+BEGIN_VERSE
@@ -121,10 +121,10 @@ Khudra amire tejiya brihat amire barechi
 * Samarpaner Jayer Mala Tomai Aji Dibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:6
+  :cite-key: APJA:6
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Samarpaner jayer mala tomai aji dibo
 * Khudra Amire Rupantarite Dharanite Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:7
+  :cite-key: APJA:7
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ Khudra amire rupantarite dharanite ami esechi
 * Tripti Lagi Ghure Berai Hethai Hothai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:8
+  :cite-key: APJA:8
   :END:
 
 #+BEGIN_VERSE
@@ -169,10 +169,10 @@ Tripti lagi ghure berai hethai hothai britha
 * Jiban Amar Prashphutibe Amar Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:9
+  :cite-key: APJA:9
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ Jiban amar prashphutibe amar hiya bagane
 * Paramanande Hridaya Duar Sabar Lagiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:10
+  :cite-key: APJA:10
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Paramanande hridaya duar sabar lagiya khuliya rekhechi
 * Amar Nithur Dosh Truti Amai Kare Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:11
+  :cite-key: APJA:11
   :END:
 
 #+BEGIN_VERSE
@@ -217,10 +217,10 @@ Amar nithur dosh truti amai kare nitya shasan
 * Bedanar Giti Gahibona Kabhu Chetana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:12
+  :cite-key: APJA:12
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Bedanar giti gahibo kabhu chetana sagare
 * Phuler Mato Phutbo Ami Prati Kathai Prati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:13
+  :cite-key: APJA:13
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Phuler mato phutbo ami prati kathai prati chintai
 * Nijere Danite Nijere Sampite Esechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:14
+  :cite-key: APJA:14
   :END:
 
 #+BEGIN_VERSE
@@ -265,10 +265,10 @@ Nijere danite nijere sampite esechi dharani buke
 * Bidhatar Jaya Gan Gahe Jena Nirabadhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:15
+  :cite-key: APJA:15
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Mor deha mor pran mor man hiya
 * Shanti Jethai Sethai Pabo Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:16
+  :cite-key: APJA:16
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Shanti jethai sethai pabo prabhur darashan
 * Maha Shanti Pabar Lagi Kandbo Animeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:17
+  :cite-key: APJA:17
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ Maha shanti pabar lagi kandbo animeshe
 * Nayaner Jale Pujibona Toma Pujibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:18
+  :cite-key: APJA:18
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Pujibo tomare hiyar ashru jale
 * Asha Pradip Jabena Kabhu Nibe Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:19
+  :cite-key: APJA:19
   :END:
 
 #+BEGIN_VERSE
@@ -347,10 +347,10 @@ Asha pradip jabena kabhu nibe asha pradip
 * Balte Habe Chalte Habe Sabar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:20
+  :cite-key: APJA:20
   :END:
 
 #+BEGIN_VERSE
@@ -363,10 +363,10 @@ Balte habe chalte habe sabar sathe prabhur tripti lagi
 * Murkha Ami Taito Ami Hiya Pure Jete Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:21
+  :cite-key: APJA:21
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Murkha ami taito ami hiya pure jete nahi chai
 * Khulte Habe Hiyar Duar Ta Na Hale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:22
+  :cite-key: APJA:22
   :END:
 
 #+BEGIN_VERSE
@@ -395,10 +395,10 @@ Khulte habe hiyar duar tana hale thakbe jiban britha
 * Ar Katokal Raibo Ami Jiban Maru Bhume
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:23
+  :cite-key: APJA:23
   :END:
 
 #+BEGIN_VERSE
@@ -411,10 +411,10 @@ Ar katokal raibo ami jiban maru bhume
 * Kande Mor Hiya Prati Pale Pale Chira
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:24
+  :cite-key: APJA:24
   :END:
 
 #+BEGIN_VERSE
@@ -427,10 +427,10 @@ Kande mor hiya prati pale pale chira nabiner lagi
 * Kanna Bedan Rakhbo Dure Ebar Ami Bahu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:25
+  :cite-key: APJA:25
   :END:
 
 #+BEGIN_VERSE
@@ -443,10 +443,10 @@ Kanna bedan rakhbo dure ebar ami bahu dure
 * Kanna Plaban Bhitare bahire Toma Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:26
+  :cite-key: APJA:26
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Kanna plaban bhitare bahire toma jena nahi heri
 * Asimer Khudha Asimer Sudha Hao Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:27
+  :cite-key: APJA:27
   :END:
 
 #+BEGIN_VERSE
@@ -475,10 +475,10 @@ Asimer khudha asimer sudha hao mor chira sathi
 * Nirabatar Kanna Amar Barai Bhalo Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:28
+  :cite-key: APJA:28
   :END:
 
 #+BEGIN_VERSE
@@ -491,10 +491,10 @@ Nirabatar kanna amar barai bhalo lage
 * Hiya Pure Nahi Gele Keman Kare Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:29
+  :cite-key: APJA:29
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Hiya pure nahi gele keman kare pabo hiya sudha
 * Ashar Sathe Karbo Ami Aji Mitali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:30
+  :cite-key: APJA:30
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ Ashar sathe karbo ami aji mitali
 * Nil Akashe Nil Sagare Bishal Amir Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:31
+  :cite-key: APJA:31
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ Nil akashe nil sagare bishal amir pabo dekha
 * Kandte Habe Haste Habe Kebal Prabhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:32
+  :cite-key: APJA:32
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ Kandte habe haste habe kebal prabhur tripti lagi
 * Ebar Ami Karbo Suru Atma Jayer Jatra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:33
+  :cite-key: APJA:33
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Ebar ami karbo suru atma jayer jatra
 * Ati Sugopane Puratan Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:34
+  :cite-key: APJA:34
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Jabo ami aji chariya
 * Dibe Na Dekha Prabhu Amar Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:35
+  :cite-key: APJA:35
   :END:
 
 #+BEGIN_VERSE
@@ -605,10 +605,10 @@ Ekatha kari bishwas
 * Ghume Jagarane Ati Sugopane Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:36
+  :cite-key: APJA:36
   :END:
 
 #+BEGIN_VERSE
@@ -621,10 +621,10 @@ Ghume jagarane ati sugopane tomare pujite chahi
 * Sukher Dine Dukher Rate Tomar Bijoy Gahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:37
+  :cite-key: APJA:37
   :END:
 
 #+BEGIN_VERSE
@@ -637,10 +637,10 @@ Sukher dine dukher rate tomar bijoy gahe jena amar hiya
 * Kothai Kothai Karuna Dayini Bishwa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:38
+  :cite-key: APJA:38
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Kothai kothai karuna dayini bishwa janani mor
 * Ar Katokal Raibo Dharai Bhoye Bhoye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:39
+  :cite-key: APJA:39
   :END:
 
 #+BEGIN_VERSE
@@ -669,10 +669,10 @@ Ar katokal raibo dharai bhoye ghoye mriyaman
 * Basana Diye Bandi Je hai Amar Puta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:40
+  :cite-key: APJA:40
   :END:
 
 #+BEGIN_VERSE
@@ -685,10 +685,10 @@ Basana diye bandije hai amar puto chitta
 * Chahi Kebal Nabin Asha Nabin Pratigya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:41
+  :cite-key: APJA:41
   :END:
 
 #+BEGIN_VERSE
@@ -701,10 +701,10 @@ Chahi kebal nabin asha nabin pratigya
 * Hai Hai Hai Keno Kari Deri Eshana Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:42
+  :cite-key: APJA:42
   :END:
 
 #+BEGIN_VERSE
@@ -717,10 +717,10 @@ Hai hai hai keno deri eshana duar khulite
 * Amar Hiyar Nil Pakhi Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:43
+  :cite-key: APJA:43
   :END:
 
 #+BEGIN_VERSE
@@ -734,10 +734,10 @@ Bhitare hasibo bahire kandibo
 * Nirabatar Deshe Kebal Jiban Amar habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:44
+  :cite-key: APJA:44
   :END:
 
 #+BEGIN_VERSE
@@ -750,10 +750,10 @@ Nirabatar deshe kebal jiban amar habe saphal
 * Chitta Mama Pushpa Sama Phutbe Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:45
+  :cite-key: APJA:45
   :END:
 
 #+BEGIN_VERSE
@@ -766,10 +766,10 @@ Chitta mama pushpa sama phutbe aji prabhur charan tale
 * Jyotir Deshe Jete Hale Maner Andhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:46
+  :cite-key: APJA:46
   :END:
 
 #+BEGIN_VERSE
@@ -782,10 +782,10 @@ Jyotir deshe jete hale maner andhar rakhte habe dure
 * Shanti Sagare Santar Katite Parama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:47
+  :cite-key: APJA:47
   :END:
 
 #+BEGIN_VERSE
@@ -799,10 +799,10 @@ Bidhata dakiche ajike sabare
 * Nirabe Pranati Janabo Amar Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:48
+  :cite-key: APJA:48
   :END:
 
 #+BEGIN_VERSE
@@ -815,10 +815,10 @@ Nirabe pranati janabo amar param prabhure tushite
 * Asim Pathar Jatri Ami Asimatar Jatra Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-01-1993
-  :CITE-KEY: APJA:49
+  :cite-key: APJA:49
   :END:
 
 #+BEGIN_VERSE

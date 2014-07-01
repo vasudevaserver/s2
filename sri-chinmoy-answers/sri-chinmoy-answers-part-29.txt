@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1372
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2001
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-29
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1372
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2001
+  :publisher: Agni Press
+  :cite-key: SCA-29
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:945e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:945e1
   :END:
 
   [fn:part-1]
@@ -34,9 +34,9 @@
 * /Sri Chinmoy:/ Congratulations on your marathon! You did so well! Was it your best time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:945
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:945
   :END:
 
 
@@ -49,9 +49,9 @@ Sri Chinmoy: It is always best to think that way. Then you can have hope and det
 * /Nils Lodin:/ I always try. Do I understand correctly that activity and meditation form the essence of your teaching?
 
   :PROPERTIES:
-  :GENRE: qa 
-  :KEYWORDS:
-  :CITE-KEY: SCA:946
+  :genre: qa 
+  :keywords:
+  :cite-key: SCA:946
   :END:
   
 
@@ -64,9 +64,9 @@ We do not believe in living either a life of solitude or an ordinary human life,
 * /Nils Lodin:/ I have read that you write hundreds of poems every day. Is that true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:947
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:947
   :END:
 
 
@@ -77,9 +77,9 @@ We do not believe in living either a life of solitude or an ordinary human life,
 * /Nils Lodin:/ You seem to try to accomplish as much as possible every day. Are your outer achievements related to your inner beliefs?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:948
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:948
   :END:
 
 
@@ -90,9 +90,9 @@ We do not believe in living either a life of solitude or an ordinary human life,
 * /Nils Lodin:/ How does running relate to your philosophy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:949
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:949
   :END:
 
 
@@ -107,9 +107,9 @@ We can say that our prayer and meditation is our inner running. If we pray and m
 * /Nils Lodin:/ Running has no value in itself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:950
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:950
   :END:
 
 
@@ -122,9 +122,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ I understand that you sleep very little. Why do you not sleep more?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:951
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:951
   :END:
 
 
@@ -135,9 +135,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ Then, may I ask you, why do you not need it? Other people need to sleep seven or eight hours.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:952
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:952
   :END:
 
 
@@ -148,9 +148,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ Do you think that meditation is a kind of sleep?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:953
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:953
   :END:
 
 
@@ -161,9 +161,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ You are a Guru, but what is a Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:954
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:954
   :END:
 
 
@@ -174,9 +174,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ Are you quite sure that your advice is always right?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:955
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:955
   :END:
 
 
@@ -187,9 +187,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ When you tell your students that they should act like this or like that, have you got the message from the other shore?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:956
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:956
   :END:
 
 
@@ -200,9 +200,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ When you are running a marathon, are you suffering?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:957
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:957
   :END:
 
 
@@ -221,9 +221,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ But I think that you benefit, not only as a Guru, but as a person. I always say to my friends that you do not know anything about life until you have run a full marathon. It gives a dimension to life that I have never encountered before. The pain in those last six or eight miles is a pain that you cannot meet in other situations.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:958
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:958
   :END:
 
 
@@ -234,9 +234,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ When you say that you get messages from the other shore or the other side, what do you in fact mean? Do you get them from God? What is on the other side?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:959
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:959
   :END:
 
 
@@ -247,9 +247,9 @@ Running offers us the message of transcendence. In our running, every day we are
 * /Nils Lodin:/ But can I not reach that experience without any God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:960
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:960
   :END:
 
 
@@ -262,9 +262,9 @@ It depends on you. You can be satisfied with what you get. Then again, you can s
 * /Nils Lodin:/ I agree with you, but in another way, because I think that we are part of the world. I can reach the highest point only by fulfilling myself, and that is not to be an egomaniac, but to do things that I feel are right, that are real. But all the same, I feel that in a way we are just lumps of clay.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:961
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:961
   :END:
 
 
@@ -277,9 +277,9 @@ God created us. God gave us the motivation to run. It is an inner urge. It is no
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:962e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:962e1
   :END:
 
   [fn:part-2]
@@ -289,9 +289,9 @@ God created us. God gave us the motivation to run. It is an inner urge. It is no
 * /John Hanc:/ How does running fit in with your teaching?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:962
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:962
   :END:
 
 
@@ -312,9 +312,9 @@ The inner runner is always trying to inspire the outer runner. First the inner r
 * /John Hanc:/ While running, is it also a time to meditate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:963
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:963
   :END:
 
 
@@ -325,9 +325,9 @@ The inner runner is always trying to inspire the outer runner. First the inner r
 * /John Hanc:/ You mentioned that when you first came up with the idea of 1,300 miles, people said, "What kind of an idea is that?" What are you thinking about now? Have you got any other ideas?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:964
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:964
   :END:
 
 
@@ -338,9 +338,9 @@ The inner runner is always trying to inspire the outer runner. First the inner r
 * /John Hanc:/ Does it give you joy to see the increasing number of runners who come to your races here?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:965
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:965
   :END:
 
 
@@ -351,9 +351,9 @@ The inner runner is always trying to inspire the outer runner. First the inner r
 * /John Hanc:/ As a long-time athlete and observer of the sport of running, do you have any feelings about where the sport itself is going?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:966
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:966
   :END:
 
 
@@ -366,9 +366,9 @@ Somebody may say, "No, it is /my/ body, and I can do whatever I like with it. It
 * /John Hanc:/ I have seen you sitting and watching many of the Sri Chinmoy races -- both "Runners Are Smilers" and the ultras. Many of the people running are not followers of yours, but they all seem to be having a good time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:967
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:967
   :END:
 
 
@@ -379,9 +379,9 @@ Somebody may say, "No, it is /my/ body, and I can do whatever I like with it. It
 * /John Hanc:/ On the ultra-distance side, you and the Sri Chinmoy Marathon Team have been leaders in expanding the limits of what people can run. Do you think there will be any limit to the distance people can run? Ten years from now will we be talking about a 2,000-mile or a 5,000-mile run?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:968
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:968
   :END:
 
 
@@ -396,9 +396,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * /John Hanc:/ You lifted me, so I know it is true. Did you ever run ultra-distance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:969
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:969
   :END:
 
 
@@ -409,9 +409,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * /John Hanc:/ One last question -- when talking to some of the runners at your Thanksgiving Day Half-Marathon, I found that many of them have been coming to your races for a long time and enjoy running here although they are not your spiritual students. Some of them have never even met you, but they were saying how well organised your races are and how nice the people are. The thing that some of them find surprising is that nobody tries to recruit them to become a follower of yours.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:970
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:970
   :END:
 
 
@@ -422,9 +422,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:971e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:971e1
   :END:
 
   [fn:part-3]
@@ -434,9 +434,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * Question: Can the old scriptures still help us?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:971
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:971
   :END:
 
 
@@ -447,9 +447,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * Question: What makes a perfect worker?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:972
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:972
   :END:
 
 
@@ -460,9 +460,9 @@ In my case, I have lifted heavy weights. In a year's time I have also lifted 1,3
 * Question: What is God's relaxation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:973
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:973
   :END:
 
 
@@ -475,9 +475,9 @@ God already knows everything, but if He hears that we are sincerely appreciating
 * Question: How can I please the United Nations soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:974
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:974
   :END:
 
 
@@ -488,9 +488,9 @@ God already knows everything, but if He hears that we are sincerely appreciating
 * Question: How can disciples make correct decisions?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:975
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:975
   :END:
 
 
@@ -501,9 +501,9 @@ God already knows everything, but if He hears that we are sincerely appreciating
 * Question: For a disciple of yours, is two hours of meditation per day too much?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:976
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:976
   :END:
 
 
@@ -516,9 +516,9 @@ Again, there are two ways of approaching meditation. One way is to feel that if 
 * Question: When is laughter spiritual?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:977
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:977
   :END:
 
 
@@ -533,9 +533,9 @@ If you wish to take laughter as spiritual, then apply it to yourself and your ow
 * Question: What makes one truly beautiful outwardly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:978
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:978
   :END:
 
 
@@ -548,9 +548,9 @@ A few days ago, I went into a music shop. The man was looking at me and looking 
 * Question: Will ignorance ever leave me?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:979
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:979
   :END:
 
 
@@ -563,9 +563,9 @@ Ignorance is bound to leave you, to leave me, to leave everybody because God is 
 * Question: Do a soul's qualities remain throughout Eternity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:980
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:980
   :END:
 
 
@@ -582,9 +582,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Question: Will you continue lifting people?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:981
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:981
   :END:
 
 
@@ -595,9 +595,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Question: Has Hawaii become inwardly American?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:982
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:982
   :END:
 
 
@@ -608,9 +608,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:983e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:983e1
   :END:
 
   [fn:part-4]
@@ -620,9 +620,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Question: Are you a Hindu?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:983
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:983
   :END:
 
 
@@ -633,9 +633,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Question: Could you say something about the New Year?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:984
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:984
   :END:
 
 
@@ -646,9 +646,9 @@ Any good quality that the soul has acquired over the years through patience, per
 * Question: What should be our prayer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:985
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:985
   :END:
 
 
@@ -678,9 +678,9 @@ This is the prayer that I am offering to the Lord Supreme on behalf of all truth
 * Part V
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:986e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:986e1
   :END:
 
   [fn:part-5]
@@ -690,9 +690,9 @@ This is the prayer that I am offering to the Lord Supreme on behalf of all truth
 * Question: Is there a question we can ask ourselves to see if we are keeping our motives pure, so that when we are doing something, we are doing it for the right purpose and not for the ego?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:986
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:986
   :END:
 
 
@@ -705,9 +705,9 @@ You have to feel that God gave you the capacity to start, God gave you the capac
 * Question: What is the difference between God's Grace and God's Compassion?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:987
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:987
   :END:
 
 
@@ -718,9 +718,9 @@ You have to feel that God gave you the capacity to start, God gave you the capac
 * Question: I feel lost about how to offer love to God. It seems that unless God enters into you, you do not have love to give.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:988
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:988
   :END:
 
 
@@ -731,9 +731,9 @@ You have to feel that God gave you the capacity to start, God gave you the capac
 * Question: What is the best way to create very powerful dynamism to inspire more seekers to accept the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:989
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:989
   :END:
 
 
@@ -750,9 +750,9 @@ If we take a humble approach, we will say, "The Supreme has given me the golden 
 * Question: When you say that a person's soul has a special connection with the soul of a country, what does it mean?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:990
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:990
   :END:
 
 
@@ -763,9 +763,9 @@ If we take a humble approach, we will say, "The Supreme has given me the golden 
 * Question: Sometimes when we are working on manifestation, I have an idea which feels inwardly totally right to me and somebody else says it is not so good. Then I feel insecure and I do not want to hurt the other person.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:991
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:991
   :END:
 
 
@@ -780,9 +780,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Question: How important is it spiritually to express what we feel? Should different emotions only be expressed inwardly to you or to the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:992
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:992
   :END:
 
 
@@ -793,9 +793,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Question: Do you always receive everything that we offer you inwardly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:993
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:993
   :END:
 
 
@@ -806,9 +806,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Question: This year we are supposed to offer our bad qualities. How can we know if we have offered them completely so that they will not come back?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:994
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:994
   :END:
 
 
@@ -819,9 +819,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Part VI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:995e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:995e1
   :END:
 
   [fn:part-6]
@@ -831,9 +831,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Question: How can we work more harmoniously in enterprises or in manifestation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:995
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:995
   :END:
 
 
@@ -844,9 +844,9 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 * Notes
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:996e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:996e1
   :END:
   
 

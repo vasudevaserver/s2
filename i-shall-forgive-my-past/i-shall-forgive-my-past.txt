@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 260
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1976
-  :PUBLISHER:
-  :CITE-KEY: FMP
-  :GENRE: song
+  :book-number: 260
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1976
+  :publisher:
+  :cite-key: FMP
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FMP:1e1
+  :genre: note
+  :cite-key: FMP:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: FMP:1e2
+  :genre: note
+  :cite-key: FMP:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * At Last, at Last
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:1
+  :cite-key: FMP:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ For earth he left.
 * O Glowing Smile of Beauty’s Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:2
+  :cite-key: FMP:2
   :END:
 
 #+BEGIN_VERSE
@@ -82,10 +82,10 @@ Behold the death
 * Three Wishful Thoughts Have I
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:3
+  :cite-key: FMP:3
   :END:
 
 #+BEGIN_VERSE
@@ -101,10 +101,10 @@ My smile ever shall last.
 * O World of Peace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:4
+  :cite-key: FMP:4
   :END:
 
 #+BEGIN_VERSE
@@ -124,10 +124,10 @@ Has nothing but pain.
 * O Lightless Eyes of Mine
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:5
+  :cite-key: FMP:5
   :END:
 
 #+BEGIN_VERSE
@@ -147,10 +147,10 @@ To the cosmic Spirit’s Vision-range.
 * O Wings of Eternal Flame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:6
+  :cite-key: FMP:6
   :END:
 
 #+BEGIN_VERSE
@@ -166,10 +166,10 @@ You are too high, too high.
 * Drunk Deep with Black Despair
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:7
+  :cite-key: FMP:7
   :END:
 
 #+BEGIN_VERSE
@@ -185,10 +185,10 @@ His grace, his highest best.
 * A Sweet and Soulful Voice
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:8
+  :cite-key: FMP:8
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Alas, I have no choice.
 * My Human Life Shall Die
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:9
+  :cite-key: FMP:9
   :END:
 
 #+BEGIN_VERSE
@@ -227,10 +227,10 @@ Wild doubt and feeble fear
 * O Shore of Silence-Light
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:10
+  :cite-key: FMP:10
   :END:
 
 #+BEGIN_VERSE
@@ -246,10 +246,10 @@ I love your service-flow.
 * I Test You Not, Never
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:11
+  :cite-key: FMP:11
   :END:
 
 #+BEGIN_VERSE
@@ -269,10 +269,10 @@ I just tell you to claim
 * Each Man Is a Challenge Vast
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:12
+  :cite-key: FMP:12
   :END:
 
 #+BEGIN_VERSE
@@ -288,10 +288,10 @@ In God’s Perfection-Dream.
 * O Lord! I Have the Pass-Key
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:13
+  :cite-key: FMP:13
   :END:
 
 #+BEGIN_VERSE
@@ -307,10 +307,10 @@ In God my life has won its eternal right.
 * I Love the Glow of Beauty’s Dream
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:14
+  :cite-key: FMP:14
   :END:
 
 #+BEGIN_VERSE
@@ -326,10 +326,10 @@ His is the love my pride to destroy.
 * God Says: My Life Is Endless Breath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:15
+  :cite-key: FMP:15
   :END:
 
 #+BEGIN_VERSE
@@ -345,10 +345,10 @@ Heaven says, I am my vision's goal.
 * Your Gold and Silver Wealth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:16
+  :cite-key: FMP:16
   :END:
 
 #+BEGIN_VERSE
@@ -368,10 +368,10 @@ And Eternity’s
 * No Soul in Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:17
+  :cite-key: FMP:17
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ Of each and every soul and their worth.
 * He Once Was a Useless Thing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:18
+  :cite-key: FMP:18
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Joy and gratitude-flower.
 * Aspire, Your Life Shall Become
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:19
+  :cite-key: FMP:19
   :END:
 
 #+BEGIN_VERSE
@@ -427,10 +427,10 @@ Never delay, make your own choice.
 * I Live to Please My Lord Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:20
+  :cite-key: FMP:20
   :END:
 
 #+BEGIN_VERSE
@@ -446,10 +446,10 @@ No ignorance-night for me to fight.
 * I and My Glowing Hope Ascend
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:21
+  :cite-key: FMP:21
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ To touch the feet of my Silence-ruth.
 * My Inner Sun
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:22
+  :cite-key: FMP:22
   :END:
 
 #+BEGIN_VERSE
@@ -484,10 +484,10 @@ To God-Beauty’s Ecstasy-Shore.
 * His Name Expired Before His Body
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:23
+  :cite-key: FMP:23
   :END:
 
 #+BEGIN_VERSE
@@ -503,10 +503,10 @@ Eternity’s peace he has hired.
 * The Future Years Have Finally Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:24
+  :cite-key: FMP:24
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ Lo, still enjoy ignorance deep.
 * I Braved Despair’s Destruction-Night
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: FMP:25
+  :cite-key: FMP:25
   :END:
 
 #+BEGIN_VERSE

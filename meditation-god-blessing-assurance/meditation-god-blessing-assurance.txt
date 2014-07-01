@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0194
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1974
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MGBA
-  :GENRE: qa, discourse
-  :KEYWORDS:
+  :book-number: 0194
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1974
+  :publisher: Agni Press
+  :cite-key: MGBA
+  :genre: qa, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGBA:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MGBA:1e1
   :END:
 
 
@@ -35,9 +35,9 @@ It is the duty of the individual soul to cry for God in the heart of his meditat
 * Meditation And Self-Discovery
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MGBA:1e2
+  :genre: section
+  :keywords:
+  :cite-key: MGBA:1e2
   :END:
 
 
@@ -56,9 +56,9 @@ Everything is reciprocal. God gives us, in infinite measure, what we give Him in
 * Question: Please tell me if I am right. Meditation is the easiest thing in the world when we think of the Supreme with devotion, surrender and pure love.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:1
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:1
   :END:
 
 
@@ -69,9 +69,9 @@ Everything is reciprocal. God gives us, in infinite measure, what we give Him in
 * Question: How can I purify my mind so that I can have a good meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:2
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:2
   :END:
 
 
@@ -88,9 +88,9 @@ But again, the heart is not totally pure because the vital is around the heart. 
 * Question: Could you explain what inner hunger is?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:3
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:3
   :END:
 
 
@@ -115,9 +115,9 @@ How can you receive this Light from above? For that you need constant practice. 
 * Question: I am looking for more joy in my life, but I don’t feel confident about jumping into meditation to get it.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:4
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:4
   :END:
 
 
@@ -128,9 +128,9 @@ How can you receive this Light from above? For that you need constant practice. 
 * Question: Is it wrong to expect some result from our meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:5
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:5
   :END:
 
 
@@ -145,9 +145,9 @@ A real aspirant, when he starts meditating, will not cry for the result: he will
 * Question: Why doesn’t God make all our meditations equally good?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:6
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:6
   :END:
 
 
@@ -160,9 +160,9 @@ In your wife’s case, her whole existence is inside you. If she cannot give you
 * Question: Is there anything specific I can do to have a good meditation every day?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:7
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:7
   :END:
 
 
@@ -181,9 +181,9 @@ This advice is bound to bring you the message of spiritual progress and inner su
 * Question: I’m not as receptive as I would like to be. Why is this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:8
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:8
   :END:
 
 
@@ -200,9 +200,9 @@ The second reason for these attacks in your case is uncertainty. Whether you are
 * Question: How can I increase my receptivity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:9
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:9
   :END:
 
 
@@ -213,9 +213,9 @@ The second reason for these attacks in your case is uncertainty. Whether you are
 * Question: If one has all faith in his Master, then what obstructs his receptivity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:10
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:10
   :END:
 
 
@@ -226,9 +226,9 @@ The second reason for these attacks in your case is uncertainty. Whether you are
 * Question: How can you stop yourself from worrying about whether you are having a good meditation or not?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:11
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:11
   :END:
 
 
@@ -243,9 +243,9 @@ As soon as I want to show something to others -- for instance, that I can put th
 * Question: Could you speak on intensity in prayer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:12
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:12
   :END:
 
 
@@ -256,9 +256,9 @@ As soon as I want to show something to others -- for instance, that I can put th
 * Question: How can I meditate with more intensity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:13
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:13
   :END:
 
 
@@ -269,9 +269,9 @@ As soon as I want to show something to others -- for instance, that I can put th
 * Question: If you really don’t know exactly what you are doing when you meditate, how can you try to improve your meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:14
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:14
   :END:
 
 
@@ -286,9 +286,9 @@ Some people don’t have ideas like this. Creative thoughts and ideas don’t co
 * Question: Sometimes I don’t have the inspiration to meditate. How can I create it again?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:15
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:15
   :END:
 
 
@@ -301,9 +301,9 @@ Another way is to feel that your Guru is hungry. Feel, “I have not fed my Guru
 * Question: When I first began meditating at three o’clock in the morning, I used to have very good meditations and I was very inspired. But after a few days, I didn’t have the same inspiration and it became very difficult.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:16
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:16
   :END:
 
 
@@ -316,9 +316,9 @@ It is like that in the spiritual life also. When you start your journey at three
 * Question: I was really inspired to meditate for five or six days, and then I woke up one morning and did not have the feeling that I wanted to practice my meditation. What can I do to spark myself without having to force things?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:17
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:17
   :END:
 
 
@@ -339,9 +339,9 @@ If you meditate regularly for five months, six months, or a year or two, then au
 * Question: If I meditate too little I don’t have energy throughout the day and if I meditate too long, I can’t maintain my aspiration. How can I stabilise my energy level?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:18
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:18
   :END:
 
 
@@ -352,9 +352,9 @@ If you meditate regularly for five months, six months, or a year or two, then au
 * Question: When we miss a meditation, would it be a good idea to meditate for a longer time at the next meditation to make up for it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:19
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:19
   :END:
 
 
@@ -383,9 +383,9 @@ From this story we come to realise that it is not how many hours you meditate bu
 * Question: Are there any exercises your disciples can practise to develop their will power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:20
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:20
   :END:
 
 
@@ -404,9 +404,9 @@ Complete satisfaction will come when you look at only the dot inside the circle 
 * Question: How can we meditate on the soul?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:21
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:21
   :END:
 
 
@@ -417,9 +417,9 @@ Complete satisfaction will come when you look at only the dot inside the circle 
 * Question: Is it helpful to concentrate upon the golden aura, or should one hold a thought of God or some of His aspects in mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:22
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:22
   :END:
 
 
@@ -434,9 +434,9 @@ In your case, the best thing will be for you to concentrate on the golden aura, 
 * Question: Concentration and meditation give us certain power, even if we are not looking for it. Should we pray to God to keep us from misusing that power?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:23
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:23
   :END:
 
 
@@ -453,9 +453,9 @@ So if you have power, hold it to the last. This power is bound to help humanity 
 * Question: I seek strength when I meditate; am I seeking the wrong thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:24
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:24
   :END:
 
 
@@ -470,9 +470,9 @@ If there is no strength, then God-realisation can never be achieved. The Upanish
 * Question: When I meditate, sometimes I am so focused on trying to have a strong meditation, that I lose all sense of why I am meditating. How can I avoid trying to have a strong meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:25
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:25
   :END:
 
 
@@ -487,9 +487,9 @@ It is not the intensity, it is not the eagerness to possess the truth or be poss
 * Question: Do we not sometimes mistake the strong concentration of the vital for a good or strong meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:26
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:26
   :END:
 
 
@@ -502,9 +502,9 @@ Intensity of the vital during meditation is not bad if it is the purified vital 
 * Question: Sometimes after meditation I lose the joy that I have received from my meditation. Is there a method that would be helpful in holding onto that joy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:27
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:27
   :END:
 
 
@@ -517,9 +517,9 @@ Another reason you might lose your joy is because your vessel is small and you h
 * Question: The spiritual life and meditation should be the simplest of things; yet I always seem to complicate it. How can I keep my meditation simple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:28
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:28
   :END:
 
 
@@ -540,9 +540,9 @@ When you meditate, please try to feel the river or meditation flowing through yo
 * Question: If I don’t have a good meditation when I am meditating with you, I feel miserable because I feel it is my fault.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:29
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:29
   :END:
 
 
@@ -553,9 +553,9 @@ When you meditate, please try to feel the river or meditation flowing through yo
 * Question: How should we concentrate on your transcendental picture?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:30
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:30
   :END:
 
 
@@ -570,9 +570,9 @@ To start with you have to have imagination, and then it becomes reality. Scienti
 * Question: I have tried to meditate on your picture in the morning for about three months, but I don’t think that I am even approaching meditation.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:31
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:31
   :END:
 
 
@@ -597,9 +597,9 @@ I am telling all of you, please, please never to be afraid of me. You can be afr
 * Question: When you call us up in front of the room to meditate facing the other disciples, what is the best approach for us to take?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:32
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:32
   :END:
 
 
@@ -612,9 +612,9 @@ But do not meditate on the disciples. You know that I am behind you. And what do
 * Question: Many disciples become self-conscious and nervous when called up to meditate in front of you or the other disciples. How can this be controlled?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:33
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:33
   :END:
 
 
@@ -635,9 +635,9 @@ If you identify with me, you will never feel nervous. In my case there is no ner
 * Question: Guru, sometimes you say that certain people do very good meditation. Can you tell us how the people who meditated best today did it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:34
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:34
   :END:
 
 
@@ -648,9 +648,9 @@ If you identify with me, you will never feel nervous. In my case there is no ner
 * Question: Guru, there is a thought that inspires me and I would like to know if I could meditate on it. Sometimes I think of you as a child who is playing with me, and that I am a child too. Is that O.K.?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:35
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:35
   :END:
 
 
@@ -661,9 +661,9 @@ If you identify with me, you will never feel nervous. In my case there is no ner
 * Question: Is it possible to bring our meditative consciousness into the work that we do in the outside world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:36
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:36
   :END:
 
 
@@ -680,9 +680,9 @@ We have to go to work, we have to go to the office or to school. Your classes ma
 * Question: What happens if we are meditating next to someone who is thinking worldly thoughts?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:37
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:37
   :END:
 
 
@@ -693,9 +693,9 @@ We have to go to work, we have to go to the office or to school. Your classes ma
 * Question: How can we meditate twenty-four hours a day?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: MGBA:38
+  :genre: qa
+  :keywords:
+  :cite-key: MGBA:38
   :END:
 
 

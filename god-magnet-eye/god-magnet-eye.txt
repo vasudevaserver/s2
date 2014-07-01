@@ -9,14 +9,14 @@
 
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1525
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 2005
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GME
-  :GENRE: aphorism
-  :KEYWORDS:
+  :book-number: 1525
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 2005
+  :publisher: Agni Press
+  :cite-key: GME
+  :genre: aphorism
+  :keywords:
   :END:
 
 
@@ -24,8 +24,8 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:1
+  :genre: aphorism
+  :cite-key: GME:1
   :END:
 
 
@@ -38,8 +38,8 @@ Aspiration
 * 2.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:2
+  :genre: aphorism
+  :cite-key: GME:2
   :END:
 
 
@@ -52,8 +52,8 @@ Attachment
 * 3.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:3
+  :genre: aphorism
+  :cite-key: GME:3
   :END:
 
 
@@ -66,8 +66,8 @@ Beauty
 * 4.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:4
+  :genre: aphorism
+  :cite-key: GME:4
   :END:
 
 
@@ -80,8 +80,8 @@ Bliss
 * 5.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:5
+  :genre: aphorism
+  :cite-key: GME:5
   :END:
 
 
@@ -95,8 +95,8 @@ Concentration
 * 6.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:6
+  :genre: aphorism
+  :cite-key: GME:6
   :END:
 
 
@@ -109,8 +109,8 @@ Consciousness
 * 7.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:7
+  :genre: aphorism
+  :cite-key: GME:7
   :END:
 
 
@@ -124,8 +124,8 @@ Contemplation
 * 8.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:8
+  :genre: aphorism
+  :cite-key: GME:8
   :END:
 
 
@@ -138,8 +138,8 @@ Death
 * 9.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:9
+  :genre: aphorism
+  :cite-key: GME:9
   :END:
 
 
@@ -153,8 +153,8 @@ Dedication
 * 10.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:10
+  :genre: aphorism
+  :cite-key: GME:10
   :END:
 
 
@@ -168,8 +168,8 @@ Destination
 * 11.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:11
+  :genre: aphorism
+  :cite-key: GME:11
   :END:
 
 
@@ -182,8 +182,8 @@ Detachment
 * 12.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:12
+  :genre: aphorism
+  :cite-key: GME:12
   :END:
 
 
@@ -197,8 +197,8 @@ Devotion
 * 13.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:13
+  :genre: aphorism
+  :cite-key: GME:13
   :END:
 
 
@@ -212,8 +212,8 @@ Dream
 * 14.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:14
+  :genre: aphorism
+  :cite-key: GME:14
   :END:
 
 
@@ -226,8 +226,8 @@ Freedom
 * 15.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:15
+  :genre: aphorism
+  :cite-key: GME:15
   :END:
 
 
@@ -240,8 +240,8 @@ Friendship
 * 16.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:16
+  :genre: aphorism
+  :cite-key: GME:16
   :END:
 
 
@@ -254,8 +254,8 @@ Goal
 * 17.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:17
+  :genre: aphorism
+  :cite-key: GME:17
   :END:
 
 
@@ -269,8 +269,8 @@ God
 * 18.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:18
+  :genre: aphorism
+  :cite-key: GME:18
   :END:
 
 
@@ -284,8 +284,8 @@ Gratitude
 * 19.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:19
+  :genre: aphorism
+  :cite-key: GME:19
   :END:
 
 
@@ -299,8 +299,8 @@ Harmony
 * 20.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:20
+  :genre: aphorism
+  :cite-key: GME:20
   :END:
 
 
@@ -313,8 +313,8 @@ Heart
 * 21.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:21
+  :genre: aphorism
+  :cite-key: GME:21
   :END:
 
 
@@ -327,8 +327,8 @@ Ignorance
 * 22.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:22
+  :genre: aphorism
+  :cite-key: GME:22
   :END:
 
 
@@ -342,8 +342,8 @@ Imagination
 * 23.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:23
+  :genre: aphorism
+  :cite-key: GME:23
   :END:
 
 
@@ -356,8 +356,8 @@ Immortality
 * 24.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:24
+  :genre: aphorism
+  :cite-key: GME:24
   :END:
 
 
@@ -370,8 +370,8 @@ Impurity
 * 25.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:25
+  :genre: aphorism
+  :cite-key: GME:25
   :END:
 
 
@@ -385,8 +385,8 @@ Ingratitude
 * 26.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:26
+  :genre: aphorism
+  :cite-key: GME:26
   :END:
 
 
@@ -400,8 +400,8 @@ Insecurity
 * 27.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:27
+  :genre: aphorism
+  :cite-key: GME:27
   :END:
 
 
@@ -415,8 +415,8 @@ Intuition
 * 28.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:28
+  :genre: aphorism
+  :cite-key: GME:28
   :END:
 
 
@@ -430,8 +430,8 @@ Knowledge
 * 29.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:29
+  :genre: aphorism
+  :cite-key: GME:29
   :END:
 
 
@@ -445,8 +445,8 @@ Life
 * 30.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:30
+  :genre: aphorism
+  :cite-key: GME:30
   :END:
 
 
@@ -459,8 +459,8 @@ Love
 * 31.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:31
+  :genre: aphorism
+  :cite-key: GME:31
   :END:
 
 
@@ -474,8 +474,8 @@ Man
 * 32.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:32
+  :genre: aphorism
+  :cite-key: GME:32
   :END:
 
 
@@ -490,8 +490,8 @@ Manifestation
 * 33.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:33
+  :genre: aphorism
+  :cite-key: GME:33
   :END:
 
 
@@ -504,8 +504,8 @@ Mind
 * 34.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:34
+  :genre: aphorism
+  :cite-key: GME:34
   :END:
 
 
@@ -520,8 +520,8 @@ Obedience
 * 35.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:35
+  :genre: aphorism
+  :cite-key: GME:35
   :END:
 
 
@@ -534,8 +534,8 @@ Oneness
 * 36.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:36
+  :genre: aphorism
+  :cite-key: GME:36
   :END:
 
 
@@ -548,8 +548,8 @@ Patience
 * 37.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:37
+  :genre: aphorism
+  :cite-key: GME:37
   :END:
 
 
@@ -562,8 +562,8 @@ Peace
 * 38.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:38
+  :genre: aphorism
+  :cite-key: GME:38
   :END:
 
 
@@ -579,8 +579,8 @@ Perfection
 * 39.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:39
+  :genre: aphorism
+  :cite-key: GME:39
   :END:
 
 
@@ -593,8 +593,8 @@ Purity
 * 40.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:40
+  :genre: aphorism
+  :cite-key: GME:40
   :END:
 
 
@@ -608,8 +608,8 @@ Realisation
 * 41.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:41
+  :genre: aphorism
+  :cite-key: GME:41
   :END:
 
 
@@ -623,8 +623,8 @@ Satisfaction
 * 42.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:42
+  :genre: aphorism
+  :cite-key: GME:42
   :END:
 
 
@@ -637,8 +637,8 @@ Simplicity
 * 43.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:43
+  :genre: aphorism
+  :cite-key: GME:43
   :END:
 
 
@@ -652,8 +652,8 @@ Sincerity
 * 44.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:44
+  :genre: aphorism
+  :cite-key: GME:44
   :END:
 
 
@@ -666,8 +666,8 @@ Soul
 * 45.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:45
+  :genre: aphorism
+  :cite-key: GME:45
   :END:
 
 
@@ -683,8 +683,8 @@ Spirituality
 * 46.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:46
+  :genre: aphorism
+  :cite-key: GME:46
   :END:
 
 
@@ -697,8 +697,8 @@ Summit
 * 47.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:47
+  :genre: aphorism
+  :cite-key: GME:47
   :END:
 
 
@@ -712,8 +712,8 @@ Surrender
 * 48.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:48
+  :genre: aphorism
+  :cite-key: GME:48
   :END:
 
 
@@ -729,8 +729,8 @@ Temptation
 * 49.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:49
+  :genre: aphorism
+  :cite-key: GME:49
   :END:
 
 
@@ -743,8 +743,8 @@ Vision
 * 50.
 
   :PROPERTIES:
-  :GENRE: aphorism
-  :CITE-KEY: GME:50
+  :genre: aphorism
+  :cite-key: GME:50
   :END:
 
 
@@ -759,8 +759,8 @@ Wisdom
 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GME:51e1
+  :genre: note
+  :cite-key: GME:51e1
   :END:
 
 

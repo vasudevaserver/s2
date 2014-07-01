@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0500
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1982
-  :PUBLISHER: Agni Press
-  :CITE-KEY: IAR
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0500
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1982
+  :publisher: Agni Press
+  :cite-key: IAR
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Dedication
 
   :PROPERTIES:
-  :GENRE: introduction
-  :KEYWORDS:
-  :CITE-KEY: IAR:1
+  :genre: introduction
+  :keywords:
+  :cite-key: IAR:1
   :END:
 
 
@@ -45,9 +45,9 @@ Madal
 * 1
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:2
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:2
   :END:
 
 
@@ -72,9 +72,9 @@ I am fully ready.
 * 2
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:3
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:3
   :END:
 
 
@@ -94,9 +94,9 @@ My surrender-breath.
 * 3
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:4
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:4
   :END:
 
 
@@ -117,9 +117,9 @@ Satisfies me completely.
 * 4
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:5
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:5
   :END:
 
 
@@ -138,9 +138,9 @@ God-manifestation.
 * 5
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:6
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:6
   :END:
 
 
@@ -159,9 +159,9 @@ My dedication-life knows it.
 * 6
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:7
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:7
   :END:
 
 
@@ -179,9 +179,9 @@ God-Oneness.
 * 7
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:8
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:8
   :END:
 
 
@@ -201,9 +201,9 @@ His Infinity's All.
 * 8
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:9
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:9
   :END:
 
 
@@ -223,9 +223,9 @@ Learns ignorance from his disciples.
 * 9
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:10
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:10
   :END:
 
 
@@ -250,9 +250,9 @@ I can dive inward.
 * 10
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:11
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:11
   :END:
 
 
@@ -275,9 +275,9 @@ In me.
 * 11
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:12
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:12
   :END:
 
 
@@ -300,9 +300,9 @@ You have lost.
 * 12
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:13
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:13
   :END:
 
 
@@ -323,9 +323,9 @@ With my powerful soul.
 * 13
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:14
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:14
   :END:
 
 
@@ -345,9 +345,9 @@ Was born to flow perpetually.
 * 14
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:15
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:15
   :END:
 
 
@@ -369,9 +369,9 @@ Satisfaction-Smile.
 * 15
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:16
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:16
   :END:
 
 
@@ -395,9 +395,9 @@ To run towards you.
 * 16
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:17
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:17
   :END:
 
 
@@ -421,9 +421,9 @@ Lives for God.
 * 17
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:18
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:18
   :END:
 
 
@@ -442,9 +442,9 @@ Too late to manifest God.
 * 18
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:19
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:19
   :END:
 
 
@@ -462,9 +462,9 @@ I love the diamond fulness of the Seer.
 * 19
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:20
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:20
   :END:
 
 
@@ -482,9 +482,9 @@ From my soul's feast with God.
 * 20
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:21
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:21
   :END:
 
 
@@ -504,9 +504,9 @@ From God's Sacrifice-Horse.
 * 21
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:22
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:22
   :END:
 
 
@@ -526,9 +526,9 @@ Sculptures its own God.
 * 22
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:23
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:23
   :END:
 
 
@@ -547,9 +547,9 @@ To what you feel inwardly.
 * 23
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:24
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:24
   :END:
 
 
@@ -568,9 +568,9 @@ Is your all-inclusive universality.
 * 24
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:25
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:25
   :END:
 
 
@@ -591,9 +591,9 @@ Other than You?
 * 25
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:26
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:26
   :END:
 
 
@@ -613,9 +613,9 @@ His unaspiring animal life.
 * 26
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:27
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:27
   :END:
 
 
@@ -635,9 +635,9 @@ The who can console me?
 * 27
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:28
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:28
   :END:
 
 
@@ -656,9 +656,9 @@ But also the God-Moment.
 * 28
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:29
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:29
   :END:
 
 
@@ -678,9 +678,9 @@ God is His Immortality's own Satisfaction-Smile.
 * 29
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:30
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:30
   :END:
 
 
@@ -701,9 +701,9 @@ You can steer my life-boat.
 * 30
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:31
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:31
   :END:
 
 
@@ -723,9 +723,9 @@ Prosperity-Smile.
 * 31
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:32
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:32
   :END:
 
 
@@ -744,9 +744,9 @@ And God-manifesting inevitabilites.
 * 32
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:33
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:33
   :END:
 
 
@@ -767,9 +767,9 @@ As my own, very own!
 * 33
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:34
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:34
   :END:
 
 
@@ -788,9 +788,9 @@ Of your desire-night.
 * 34
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:35
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:35
   :END:
 
 
@@ -807,9 +807,9 @@ To my soul's wisdom-height.
 * 35
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:36
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:36
   :END:
 
 
@@ -832,9 +832,9 @@ Has done for me.
 * 36
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:37
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:37
   :END:
 
 
@@ -855,9 +855,9 @@ Rejection-seed.
 * 37
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:38
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:38
   :END:
 
 
@@ -876,9 +876,9 @@ God-ordained role.
 * 38
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:39
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:39
   :END:
 
 
@@ -896,9 +896,9 @@ Eternal cry.
 * 39
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:40
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:40
   :END:
 
 
@@ -919,9 +919,9 @@ Than the strongest.
 * 40
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: IAR:41
+  :genre: poem
+  :keywords:
+  :cite-key: IAR:41
   :END:
 
 

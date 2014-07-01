@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 767
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1990
-  :PUBLISHER:
-  :CITE-KEY: SF-5
-  :GENRE: song
+  :book-number: 767
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1990
+  :publisher:
+  :cite-key: SF-5
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:288e1
+  :genre: note
+  :cite-key: SF:288e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: SF:288e2
+  :genre: note
+  :cite-key: SF:288e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Adhirata Bidhatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-09-1985
-  :CITE-KEY: SF:288
+  :cite-key: SF:288
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ U.N.er pratam amulya dhan
 * Adhirata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-11-1984
-  :CITE-KEY: SF:289
+  :cite-key: SF:289
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ Basudeb sakha pathe
 * Aloha Alo Devi Mother
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:290
+  :cite-key: SF:290
   :END:
 
 #+BEGIN_VERSE
@@ -95,10 +95,10 @@ Karunar srotadhar
 * Aloha Alo Devi Madre
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:291
+  :cite-key: SF:291
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Gauri shankara bhadre
 * Aloha Alo Devi Mutter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:292
+  :cite-key: SF:292
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Mitthya dhangsa yuger
 * Aloha Alo Devi Mere
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:293
+  :cite-key: SF:293
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ Maha tripti paramer
 * Aloha Alo Devi Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:294
+  :cite-key: SF:294
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Bijoya prathama
 * Aloha Alo Devi Janita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-04-1980
-  :CITE-KEY: SF:295
+  :cite-key: SF:295
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Anadi amiya mita
 * Alo Puri Alo Puri Madhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-05-1984
-  :CITE-KEY: SF:296
+  :cite-key: SF:296
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ Antara tale pabo prashanti sandhan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-05-1984
-  :CITE-KEY: SF:297
+  :cite-key: SF:297
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ My heart shall get peace.
 * Ambika Ambika Ambika Jwalao Dharai Turiyer Aspriha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-07-1985
-  :CITE-KEY: SF:298
+  :cite-key: SF:298
   :END:
 
 #+BEGIN_VERSE
@@ -239,10 +239,10 @@ Puta preranar puta eshanar sugayika
 * Anahata.. Paramer Dhwani Bani Shaswata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-03-1985
-  :CITE-KEY: SF:299
+  :cite-key: SF:299
   :END:
 
 #+BEGIN_VERSE
@@ -258,10 +258,10 @@ Dyuloker tumi amiya swapan
 * Anjali Diye Puji Taba Pada Dhuli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-02-1984
-  :CITE-KEY: SF:300
+  :cite-key: SF:300
   :END:
 
 #+BEGIN_VERSE
@@ -275,10 +275,10 @@ Taba pada dhuli
 * Anukampa.. Laho Amar Puta Hiyar Kusum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:301
+  :cite-key: SF:301
   :END:
 
 #+BEGIN_VERSE
@@ -292,10 +292,10 @@ Laho amar puta hiyar kusum champa
 * Anukampa Narada Rishi Anukampa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:302
+  :cite-key: SF:302
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Mile mishe dashadishi
 * Aparajita Aparajita He Nandita He Nandita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-05-1984
-  :CITE-KEY: SF:303
+  :cite-key: SF:303
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ Habe ananta abhyudoy
 * Banshidhar Banshidhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 26-01-1986
-  :CITE-KEY: SF:304
+  :cite-key: SF:304
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Samyer oikkyer abhinna bandhan
 * Bhavatarini.. Kripa Dayini Prema Dayini
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:305
+  :cite-key: SF:305
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Bhavatarini abhinna ek dharamohini
 * Bhitare Bhupati Bahire Bhupati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-12-1985
-  :CITE-KEY: SF:306
+  :cite-key: SF:306
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ Hasiya achire maha unnati
 * Brihat..... Amar Atmar Nam Swarge Martye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-11-1985
-  :CITE-KEY: SF:307
+  :cite-key: SF:307
   :END:
 
 #+BEGIN_VERSE
@@ -410,10 +410,10 @@ Pitar bakkhe chira tanmoy
 * Chidananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-02-1983
-  :CITE-KEY: SF:308
+  :cite-key: SF:308
   :END:
 
 #+BEGIN_VERSE
@@ -429,10 +429,10 @@ Unnati atma deha santare
 * Ami Paramer Satata Dulal Ami Paramer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:309
+  :cite-key: SF:309
   :END:
 
 #+BEGIN_VERSE
@@ -448,10 +448,10 @@ Ami dyuloker bijoy mahan
 * France Vacher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 15-05-1987
-  :CITE-KEY: SF:310
+  :cite-key: SF:310
   :END:
 
 #+BEGIN_VERSE
@@ -467,10 +467,10 @@ Sleeplessly you dream with its world-harmony-plan.
 * Gayika....... Bahu Jug Dhare Bahu Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1989
-  :CITE-KEY: SF:311
+  :cite-key: SF:311
   :END:
 
 #+BEGIN_VERSE
@@ -486,10 +486,10 @@ Jyotir sadhika
 * Gandhar.. Subishal E Dharai Durbar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-08-1985
-  :CITE-KEY: SF:312
+  :cite-key: SF:312
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Paramer bijoyer patakar
 * Utthare Gangai Dakhine Godavari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-05-1985
-  :CITE-KEY: SF:313
+  :cite-key: SF:313
   :END:
 
 #+BEGIN_VERSE
@@ -524,10 +524,10 @@ He janani laho amai pabitra kari
 * Dayamayi.. Bhitar Bahir Urdhe Nimne
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-12-1985
-  :CITE-KEY: SF:314
+  :cite-key: SF:314
   :END:
 
 #+BEGIN_VERSE
@@ -541,10 +541,10 @@ Bhitar bahir urdhe nimne hiranmoyi
 * Ogo Hiyaguha.. Mor Tomar Majhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-05-1986
-  :CITE-KEY: SF:315
+  :cite-key: SF:315
   :END:
 
 #+BEGIN_VERSE
@@ -560,10 +560,10 @@ Naba swapaner bhor
 * Janaka Janani.. Shantir Deshe Ghuriya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1989
-  :CITE-KEY: SF:316
+  :cite-key: SF:316
   :END:
 
 #+BEGIN_VERSE
@@ -579,10 +579,10 @@ Sathe anahata bani
 * Jaya...... Jayanti Joy Toma Sathe Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:317
+  :cite-key: SF:317
   :END:
 
 #+BEGIN_VERSE
@@ -598,10 +598,10 @@ Maha anandamoy
 * Urdhe Nimne Akashe Batase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1987
-  :CITE-KEY: SF:318
+  :cite-key: SF:318
   :END:
 
 #+BEGIN_VERSE
@@ -617,10 +617,10 @@ Amare karibo dan
 * Kailash.. Paramer Sneha Sudha Abinash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 14-05-1985
-  :CITE-KEY: SF:319
+  :cite-key: SF:319
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ Ei taba jibaner anubhuti
 * Oishi Kirit Ama Desh Hate Kariyacho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-09-1983
-  :CITE-KEY: SF:320
+  :cite-key: SF:320
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ Swarger premahar
 * Kripan... Ananda Dite Chira Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 04-09-1988
-  :CITE-KEY: SF:321
+  :cite-key: SF:321
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Sangini priya varayuvati
 * Kusumita Hiya Prabhur Bagane Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-02-1984
-  :CITE-KEY: SF:322
+  :cite-key: SF:322
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Prabhur bagane heri
 * Kusumita Kusumita Ogo Kusumita Bhitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:323
+  :cite-key: SF:323
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Bhitar bahir anadi gabhir chitta
 * Samahita Shashwata Samadhir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 03-11-1987
-  :CITE-KEY: SF:324
+  :cite-key: SF:324
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ Mahakal dhup
 * Tumi Mahiyan Bhedabhed Gyan Nahi Raje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-06-1985
-  :CITE-KEY: SF:325
+  :cite-key: SF:325
   :END:
 
 #+BEGIN_VERSE
@@ -746,10 +746,10 @@ Sudha samudra prabhu
 * Anandamoy Anandamoy Bhitare Maral
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-04-1987
-  :CITE-KEY: SF:326
+  :cite-key: SF:326
   :END:
 
 #+BEGIN_VERSE
@@ -765,10 +765,10 @@ Apar dayal
 * Mridul Jiban Mridul Hriday Pratul Atul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: SF:327
+  :cite-key: SF:327
   :END:
 
 #+BEGIN_VERSE
@@ -784,10 +784,10 @@ Mahanander dodul
 * Mridula Ogo Mridula Naha Chapala Abala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-1984
-  :CITE-KEY: SF:328
+  :cite-key: SF:328
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ Dhara tumi abanir
 * Nayana.. Nayan Nayana Dhrubhatara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:329
+  :cite-key: SF:329
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Dhrubatara sama urdha jatri eshana
 * Nirabata... Tumi Amar Urdha Loker
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:330
+  :cite-key: SF:330
   :END:
 
 #+BEGIN_VERSE
@@ -840,10 +840,10 @@ Madhumoyi saphalata
 * Nirupama.. Gurudev Rabe Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1988
-  :CITE-KEY: SF:331
+  :cite-key: SF:331
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Juge juge paramer kripapathi
 * Nivedita.. Tomai Bhalobase Bishwa Pita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 05-11-1986
-  :CITE-KEY: SF:332
+  :cite-key: SF:332
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ Sabare dao tumi puta prema priti
 * Nivedita Phute Uto Arbar Ullashita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn-en
   :DATE: 05-11-1986
-  :CITE-KEY: SF:333
+  :cite-key: SF:333
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Nivedita, Nivedita.
 * Padmasini.. Bhitar Bahir Niyata Gabhir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:334
+  :cite-key: SF:334
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ Bhitar bahir niyata gabhir manomohini
 * Emily Pingala Hrid Vayu Ramala Emily
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-05-1989
-  :CITE-KEY: SF:335
+  :cite-key: SF:335
   :END:
 
 #+BEGIN_VERSE
@@ -942,10 +942,10 @@ Paramer ramdhanu sonali
 * Ashar Jibane Ashar Marane Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-09-1984
-  :CITE-KEY: SF:336
+  :cite-key: SF:336
   :END:
 
 #+BEGIN_VERSE
@@ -961,10 +961,10 @@ Tomare karibo prachar
 * Joy Ma Bijoya Joy Ma Abhoya Joy Ma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-01-1982
-  :CITE-KEY: SF:337
+  :cite-key: SF:337
   :END:
 
 #+BEGIN_VERSE
@@ -980,10 +980,10 @@ Nutan sadhak sadhika
 * Radha Rani Radha Rani Ogo Radha Rani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-03-1987
-  :CITE-KEY: SF:338
+  :cite-key: SF:338
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ Maha jyoti bani
 * Radha... Bhitar Bahir Shadha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:339
+  :cite-key: SF:339
   :END:
 
 #+BEGIN_VERSE
@@ -1016,10 +1016,10 @@ Bhitar bahir shadha
 * Ramamoorthy.. Ram Saha Karmi Bandhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-03-1988
-  :CITE-KEY: SF:340
+  :cite-key: SF:340
   :END:
 
 #+BEGIN_VERSE
@@ -1039,10 +1039,10 @@ Hiya sangit priti jyoti karo bitaran
 * Ranjana Dur Karo Dharanir Jantrana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 02-11-1987
-  :CITE-KEY: SF:341
+  :cite-key: SF:341
   :END:
 
 #+BEGIN_VERSE
@@ -1058,10 +1058,10 @@ Karunar plaban dibarat
 * Turiyer Nandana Ranjana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-12-1988
-  :CITE-KEY: SF:342
+  :cite-key: SF:342
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ Paramere buke rakho
 * Ranjit.. Rupaser Preyaser Sambit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-01-1989
-  :CITE-KEY: SF:343
+  :cite-key: SF:343
   :END:
 
 #+BEGIN_VERSE
@@ -1096,10 +1096,10 @@ Pabe tumi bidhatar hiya rabi
 * Samragyi.. Hiya Taba Pita Jyoti Anuragi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-11-1985
-  :CITE-KEY: SF:344
+  :cite-key: SF:344
   :END:
 
 #+BEGIN_VERSE
@@ -1115,10 +1115,10 @@ Asimer gandhar parimal
 * Saroja Sarobare Manasha Sarobare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-11-1987
-  :CITE-KEY: SF:345
+  :cite-key: SF:345
   :END:
 
 #+BEGIN_VERSE
@@ -1134,10 +1134,10 @@ Pavitar manolobha
 * Savita.. Karogo Amare Pabita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-01-1988
-  :CITE-KEY: SF:346
+  :cite-key: SF:346
   :END:
 
 #+BEGIN_VERSE
@@ -1151,10 +1151,10 @@ Karogo amare pabita
 * Savitri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 20-11-1986
-  :CITE-KEY: SF:347
+  :cite-key: SF:347
   :END:
 
 #+BEGIN_VERSE
@@ -1172,10 +1172,10 @@ Taba nil pakhi dhan
 * Shambhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 31-05-1986
-  :CITE-KEY: SF:348
+  :cite-key: SF:348
   :END:
 
 #+BEGIN_VERSE
@@ -1192,10 +1192,10 @@ Asha pan tyag dhan joy aphuran
 * Sudha......... Prati Manaber Prati Debatar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 19-04-1988
-  :CITE-KEY: SF:349
+  :cite-key: SF:349
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Tomar gabhire shanti joti nidra bihin bhumi
 * Sulochana... Paramer Kripa Nir Kripa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-05-1986
-  :CITE-KEY: SF:350
+  :cite-key: SF:350
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Paramer kripa nir kripa pakhi tumi subarna
 * Sundari Thake Sabare Chhariya Sundari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1988
-  :CITE-KEY: SF:351
+  :cite-key: SF:351
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ Ghume jagarane dake
 * Suprabha Nache Jyotir Duar Khuli
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-02-1984
-  :CITE-KEY: SF:352
+  :cite-key: SF:352
   :END:
 
 #+BEGIN_VERSE
@@ -1265,10 +1265,10 @@ Jyotir duar khuli
 * Suprabha Is a World-Class Runner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-11-1987
-  :CITE-KEY: SF:353
+  :cite-key: SF:353
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ In God’s Way, God smiles in her role.
 * Swarupa... Tomar Kripai Rupantaribe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 08-01-1988
-  :CITE-KEY: SF:354
+  :cite-key: SF:354
   :END:
 
 #+BEGIN_VERSE
@@ -1304,10 +1304,10 @@ Madhumoyi saphalata
 * Tejiyan.. Bahubal Hiya Bal Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-07-1985
-  :CITE-KEY: SF:355
+  :cite-key: SF:355
   :END:
 
 #+BEGIN_VERSE
@@ -1323,10 +1323,10 @@ Tai tumi swaruper bishalata
 * Three Divine Musketeers
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en-bn
   :DATE: 03-01-1983
-  :CITE-KEY: SF:356
+  :cite-key: SF:356
   :END:
 
 #+BEGIN_VERSE
@@ -1343,10 +1343,10 @@ Durbar hiya dwar nahi hoy kabhu bandhan
 * Trishul.. Sukhyati Gaurab Unnati Saurabh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 09-05-1986
-  :CITE-KEY: SF:357
+  :cite-key: SF:357
   :END:
 
 #+BEGIN_VERSE
@@ -1362,10 +1362,10 @@ Trishul champion maha durlabh
 * Unmilan Preranar Eshanar Sammilan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-01-1986
-  :CITE-KEY: SF:358
+  :cite-key: SF:358
   :END:
 
 #+BEGIN_VERSE
@@ -1381,10 +1381,10 @@ Mahananda dhara adharar dhan
 * Vasanti Paramer Maha Tushti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 11-09-1985
-  :CITE-KEY: SF:359
+  :cite-key: SF:359
   :END:
 
 #+BEGIN_VERSE

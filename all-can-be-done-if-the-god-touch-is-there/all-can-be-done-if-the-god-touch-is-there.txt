@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1162
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1997
-  :PUBLISHER:
-  :CITE-KEY: ACBD
-  :GENRE: song
+  :book-number: 1162
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1997
+  :publisher:
+  :cite-key: ACBD
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ACBD:1e1
+  :genre: note
+  :cite-key: ACBD:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ACBD:1e2
+  :genre: note
+  :cite-key: ACBD:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * A Blind God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:1
+  :cite-key: ACBD:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ A blind god is not destiny’s architect.
 * A Cave of Darkness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:2
+  :cite-key: ACBD:2
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ A cave of darkness guards the eternal Light.
 * A Death-Bound Littleness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:3
+  :cite-key: ACBD:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ A death-bound littleness is not all we are.
 * A Few Can Climb
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:4
+  :cite-key: ACBD:4
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ A few can climb to an unperishing sun.
 * A Future Knowledge
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:5
+  :cite-key: ACBD:5
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ A future knowledge is an added pain.
 * A Giant Dance of Shiva
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-09-1994
-  :CITE-KEY: ACBD:6
+  :cite-key: ACBD:6
   :END:
 
 #+BEGIN_VERSE
@@ -150,10 +150,10 @@ A giant dance of Shiva tore the past.
 * A Huge Extinction
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:7
+  :cite-key: ACBD:7
   :END:
 
 #+BEGIN_VERSE
@@ -168,10 +168,10 @@ A huge extinction is not God’s last word.
 * A Light There Is That Leads
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:8
+  :cite-key: ACBD:8
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ A Light there is that leads, a Power that aids.
 * A Moment Sees
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:9
+  :cite-key: ACBD:9
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ A moment sees, the ages toil to express.
 * A Thinking Puppet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:10
+  :cite-key: ACBD:10
   :END:
 
 #+BEGIN_VERSE
@@ -222,10 +222,10 @@ A thinking puppet is the mind of life.
 * A Touch Can Alter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:11
+  :cite-key: ACBD:11
   :END:
 
 #+BEGIN_VERSE
@@ -240,10 +240,10 @@ A touch can alter the fixed front of Fate.
 * A Traveller between Summit and Abyss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:12
+  :cite-key: ACBD:12
   :END:
 
 #+BEGIN_VERSE
@@ -258,10 +258,10 @@ A traveller between summit and abyss.
 * All Can Be Done
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:13
+  :cite-key: ACBD:13
   :END:
 
 #+BEGIN_VERSE
@@ -276,10 +276,10 @@ All can be done if the God-touch is there.
 * All’s Miracle Here
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:14
+  :cite-key: ACBD:14
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ All’s miracle here and can by miracle change.
 * All Is Too Little
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:15
+  :cite-key: ACBD:15
   :END:
 
 #+BEGIN_VERSE
@@ -312,10 +312,10 @@ All is too little that the world can give.
 * All Our Earth Starts from Mud
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:16
+  :cite-key: ACBD:16
   :END:
 
 #+BEGIN_VERSE
@@ -330,10 +330,10 @@ All our earth starts from mud and ends in sky.
 * All Rose from the Silence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:17
+  :cite-key: ACBD:17
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ All rose from the silence; all goes back to its hush.
 * All Things Are Real
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:18
+  :cite-key: ACBD:18
   :END:
 
 #+BEGIN_VERSE
@@ -366,10 +366,10 @@ All things are real that here are only dreams.
 * All Things Hang Here
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:19
+  :cite-key: ACBD:19
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ All things hang here between God’s yes and no.
 * Although Defeated
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:20
+  :cite-key: ACBD:20
   :END:
 
 #+BEGIN_VERSE
@@ -402,10 +402,10 @@ Although defeated, life must struggle on.
 * An Idiot Hour
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:21
+  :cite-key: ACBD:21
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ An idiot hour destroys what centuries made.
 * Beyond Earth’s Longitudes and Latitudes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:22
+  :cite-key: ACBD:22
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ Beyond earth’s longitudes and latitudes.
 * Blow Your Conch-Shells
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:23
+  :cite-key: ACBD:23
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Beyond earth’s longitudes and latitudes.
 * But Few Are They
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:24
+  :cite-key: ACBD:24
   :END:
 
 #+BEGIN_VERSE
@@ -474,10 +474,10 @@ But few are they who tread the sunlit path.
 * By Light We Live
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:25
+  :cite-key: ACBD:25
   :END:
 
 #+BEGIN_VERSE
@@ -492,10 +492,10 @@ By Light we live and to the Light we go.
 * Death Helps Us Not
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:26
+  :cite-key: ACBD:26
   :END:
 
 #+BEGIN_VERSE
@@ -510,10 +510,10 @@ Death helps us not, vain is the hope to cease.
 * Death Is a Passage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:27
+  :cite-key: ACBD:27
   :END:
 
 #+BEGIN_VERSE
@@ -528,10 +528,10 @@ Death is a passage, not the goal of our walk.
 * Doom Is Not a Close, a Mystic Seal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:28
+  :cite-key: ACBD:28
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Doom is not a close, a mystic seal.
 * Earth Is the Chosen Place
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:29
+  :cite-key: ACBD:29
   :END:
 
 #+BEGIN_VERSE
@@ -564,10 +564,10 @@ Earth is the chosen place of mightiest souls.
 * Earth Must Transform Herself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:30
+  :cite-key: ACBD:30
   :END:
 
 #+BEGIN_VERSE
@@ -582,10 +582,10 @@ Earth must transform herself and equal Heaven.
 * Escape Brings Not the Victory
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-09-1994
-  :CITE-KEY: ACBD:31
+  :cite-key: ACBD:31
   :END:
 
 #+BEGIN_VERSE
@@ -600,10 +600,10 @@ Escape brings not the victory and the crown!
 * Eternity Speaks
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:32
+  :cite-key: ACBD:32
   :END:
 
 #+BEGIN_VERSE
@@ -618,10 +618,10 @@ Eternity speaks, none understands its word.
 * Even the Body Shall Remember God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:33
+  :cite-key: ACBD:33
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ Even the body shall remember God.
 * Fate Shall Be Changed
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:34
+  :cite-key: ACBD:34
   :END:
 
 #+BEGIN_VERSE
@@ -654,10 +654,10 @@ Fate shall be changed by an unchanging will.
 * For Joy and Not for Sorrow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:35
+  :cite-key: ACBD:35
   :END:
 
 #+BEGIN_VERSE
@@ -672,10 +672,10 @@ For joy and not for sorrow earth was made.
 * God Found in Nature
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:36
+  :cite-key: ACBD:36
   :END:
 
 #+BEGIN_VERSE
@@ -690,10 +690,10 @@ God found in Nature, Nature fulfilled in God.
 * God Shall Grow Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:37
+  :cite-key: ACBD:37
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ God shall grow up while the wise men talk and sleep.
 * He Who Would Save the World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:38
+  :cite-key: ACBD:38
   :END:
 
 #+BEGIN_VERSE
@@ -726,10 +726,10 @@ He who would save the world must share its pain.
 * Heaven in its Rapture
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:39
+  :cite-key: ACBD:39
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ Heaven in its rapture dreams of perfect earth.
 * Heaven’s Call Is Rare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:40
+  :cite-key: ACBD:40
   :END:
 
 #+BEGIN_VERSE
@@ -762,10 +762,10 @@ Heaven's call is rare, rarer the heart that heeds.
 * His Failure Is Not Failure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:41
+  :cite-key: ACBD:41
   :END:
 
 #+BEGIN_VERSE
@@ -780,10 +780,10 @@ His failure is not failure whom God leads.
 * I Shall Save Earth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:42
+  :cite-key: ACBD:42
   :END:
 
 #+BEGIN_VERSE
@@ -798,10 +798,10 @@ I shall save earth, if earth consents to be saved.
 * I Wear the Face of Kali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:43
+  :cite-key: ACBD:43
   :END:
 
 #+BEGIN_VERSE
@@ -816,10 +816,10 @@ I wear the face of Kali when I kill.
 * If Mind Is All, Renounce the Hope of Bliss
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:44
+  :cite-key: ACBD:44
   :END:
 
 #+BEGIN_VERSE
@@ -834,10 +834,10 @@ If Mind is all, renounce the hope of bliss.
 * If Mind Is All, Renounce the Hope of Truth
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-02-1995
-  :CITE-KEY: ACBD:45
+  :cite-key: ACBD:45
   :END:
 
 #+BEGIN_VERSE
@@ -852,10 +852,10 @@ If Mind is all, renounce the hope of Truth.
 * In Absolute Silence
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-09-1994
-  :CITE-KEY: ACBD:46
+  :cite-key: ACBD:46
   :END:
 
 #+BEGIN_VERSE
@@ -870,10 +870,10 @@ In absolute silence sleeps an absolute Power.
 * In the Beginning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:47
+  :cite-key: ACBD:47
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ In the beginning is prepared the close.
 * Love Is a Yearning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:48
+  :cite-key: ACBD:48
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Love is a yearning of the One for the One.
 * Man Can Accept His Fate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:49
+  :cite-key: ACBD:49
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Man can accept his fate, he can refuse.
 * Matter Shall Reveal the Spirit’s Face
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:50
+  :cite-key: ACBD:50
   :END:
 
 #+BEGIN_VERSE
@@ -942,10 +942,10 @@ Matter shall reveal the Spirit’s face.
 * Men Die That Man May Live
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:51
+  :cite-key: ACBD:51
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ Men die that man may live and God be born.
 * Mind Can Never See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:52
+  :cite-key: ACBD:52
   :END:
 
 #+BEGIN_VERSE
@@ -978,10 +978,10 @@ Mind can never see the soul of God.
 * Mind Can Never Touch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:53
+  :cite-key: ACBD:53
   :END:
 
 #+BEGIN_VERSE
@@ -996,10 +996,10 @@ Mind can never touch the body of Truth.
 * Mortality Bears Ill the Eternal’s Touch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:54
+  :cite-key: ACBD:54
   :END:
 
 #+BEGIN_VERSE
@@ -1014,10 +1014,10 @@ Mortality bears ill the eternal’s touch.
 * My God Is Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:55
+  :cite-key: ACBD:55
   :END:
 
 #+BEGIN_VERSE
@@ -1032,10 +1032,10 @@ My God is love and sweetly suffers all.
 * Night Is Not Our Beginning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:56
+  :cite-key: ACBD:56
   :END:
 
 #+BEGIN_VERSE
@@ -1050,10 +1050,10 @@ Night is not our beginning nor our end.
 * None Can Reach Heaven
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:57
+  :cite-key: ACBD:57
   :END:
 
 #+BEGIN_VERSE
@@ -1068,10 +1068,10 @@ None can reach heaven who has not passed through hell.
 * Nothing Is All Our Own
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:58
+  :cite-key: ACBD:58
   :END:
 
 #+BEGIN_VERSE
@@ -1086,10 +1086,10 @@ Nothing is all our own that we create.
 * Oh, Surely One Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:59
+  :cite-key: ACBD:59
   :END:
 
 #+BEGIN_VERSE
@@ -1104,10 +1104,10 @@ Oh, surely one day he shall come to our cry.
 * One Man’s Perfection (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:60
+  :cite-key: ACBD:60
   :END:
 
 #+BEGIN_VERSE
@@ -1122,10 +1122,10 @@ One man’s perfection still can save the world.
 * One Man’s Perfection (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:61
+  :cite-key: ACBD:61
   :END:
 
 #+BEGIN_VERSE
@@ -1140,10 +1140,10 @@ One man’s perfection still can save the world.
 * Only a Little
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:62
+  :cite-key: ACBD:62
   :END:
 
 #+BEGIN_VERSE
@@ -1158,10 +1158,10 @@ Only a little the god-light can stay.
 * Only the Pure in Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:63
+  :cite-key: ACBD:63
   :END:
 
 #+BEGIN_VERSE
@@ -1176,10 +1176,10 @@ Only the pure in soul can walk in light.
 * Our Dead Selves
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:64
+  :cite-key: ACBD:64
   :END:
 
 #+BEGIN_VERSE
@@ -1194,10 +1194,10 @@ Our dead selves come to slay our living soul.
 * Our Fate the Child
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:65
+  :cite-key: ACBD:65
   :END:
 
 #+BEGIN_VERSE
@@ -1212,10 +1212,10 @@ Our fate the child of our own acts.
 * Our Human State
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-09-1994
-  :CITE-KEY: ACBD:66
+  :cite-key: ACBD:66
   :END:
 
 #+BEGIN_VERSE
@@ -1230,10 +1230,10 @@ Our human state cradles the future god.
 * Our Life Is a Holocaust
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:67
+  :cite-key: ACBD:67
   :END:
 
 #+BEGIN_VERSE
@@ -1248,10 +1248,10 @@ Our life is a holocaust of the Supreme.
 * Our Life Is a March
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:68
+  :cite-key: ACBD:68
   :END:
 
 #+BEGIN_VERSE
@@ -1266,10 +1266,10 @@ Our life is a march to a victory never won.
 * Out of the Unknown
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:69
+  :cite-key: ACBD:69
   :END:
 
 #+BEGIN_VERSE
@@ -1284,10 +1284,10 @@ Out of the unknown we move to the unknown.
 * Slowly the Light Grows Greater
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:70
+  :cite-key: ACBD:70
   :END:
 
 #+BEGIN_VERSE
@@ -1302,10 +1302,10 @@ Slowly the light grows greater in the East.
 * Space Is Himself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:71
+  :cite-key: ACBD:71
   :END:
 
 #+BEGIN_VERSE
@@ -1320,10 +1320,10 @@ Space is himself and Time is only he.
 * The Day-Bringer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:72
+  :cite-key: ACBD:72
   :END:
 
 #+BEGIN_VERSE
@@ -1338,10 +1338,10 @@ The day-bringer must walk in darkest night.
 * The Gods Are Still Too Few
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:73
+  :cite-key: ACBD:73
   :END:
 
 #+BEGIN_VERSE
@@ -1356,10 +1356,10 @@ The gods are still too few in mortal forms.
 * The Great Are Strongest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:74
+  :cite-key: ACBD:74
   :END:
 
 #+BEGIN_VERSE
@@ -1374,10 +1374,10 @@ The great are strongest when they stand alone.
 * The Human in Him
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:75
+  :cite-key: ACBD:75
   :END:
 
 #+BEGIN_VERSE
@@ -1392,10 +1392,10 @@ The human in him paced with the divine.
 * The Life That Fails and Dies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:76
+  :cite-key: ACBD:76
   :END:
 
 #+BEGIN_VERSE
@@ -1410,10 +1410,10 @@ The life that fails and dies must live again.
 * The Life You Lead
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:77
+  :cite-key: ACBD:77
   :END:
 
 #+BEGIN_VERSE
@@ -1428,10 +1428,10 @@ The life you lead conceals the light you are.
 * The One By Whom All Live
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-09-1994
-  :CITE-KEY: ACBD:78
+  :cite-key: ACBD:78
   :END:
 
 #+BEGIN_VERSE
@@ -1446,10 +1446,10 @@ The One by whom all live, who lives by none.
 * The Soul in Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:79
+  :cite-key: ACBD:79
   :END:
 
 #+BEGIN_VERSE
@@ -1464,10 +1464,10 @@ The soul in man is greater than his fate.
 * The Soul That Can Live Alone
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:80
+  :cite-key: ACBD:80
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ The soul that can live alone with itself meets God.
 * The Spirit Rises Mightier
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:81
+  :cite-key: ACBD:81
   :END:
 
 #+BEGIN_VERSE
@@ -1500,10 +1500,10 @@ The spirit rises mightier by defeat.
 * The World Is Real
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:82
+  :cite-key: ACBD:82
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ The world is real but ourselves too small.
 * There Is a Purpose
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:83
+  :cite-key: ACBD:83
   :END:
 
 #+BEGIN_VERSE
@@ -1536,10 +1536,10 @@ There is a purpose in each stumble and fall.
 * There Is No Perfect Answer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 24-08-1997
-  :CITE-KEY: ACBD:84
+  :cite-key: ACBD:84
   :END:
 
 #+BEGIN_VERSE
@@ -1554,10 +1554,10 @@ There is no perfect answer to our hopes.
 * There Is No Rest
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:85
+  :cite-key: ACBD:85
   :END:
 
 #+BEGIN_VERSE
@@ -1572,10 +1572,10 @@ There is no rest for the embodied soul.
 * To Know Is Best
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-11-1994
-  :CITE-KEY: ACBD:86
+  :cite-key: ACBD:86
   :END:
 
 #+BEGIN_VERSE
@@ -1590,10 +1590,10 @@ To know is best, however hard to bear.
 * Truth Born Too Soon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 03-11-1994
-  :CITE-KEY: ACBD:87
+  :cite-key: ACBD:87
   :END:
 
 #+BEGIN_VERSE
@@ -1608,10 +1608,10 @@ Truth born too soon might break the imperfect earth.
 * We Are Greater Than Our Thoughts
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1994
-  :CITE-KEY: ACBD:88
+  :cite-key: ACBD:88
   :END:
 
 #+BEGIN_VERSE
@@ -1626,10 +1626,10 @@ We are greater than our thoughts.
 * We Are Sons of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:89
+  :cite-key: ACBD:89
   :END:
 
 #+BEGIN_VERSE
@@ -1644,10 +1644,10 @@ We are sons of God and must be even as he.
 * While There
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-09-1994
-  :CITE-KEY: ACBD:90
+  :cite-key: ACBD:90
   :END:
 
 #+BEGIN_VERSE
@@ -1662,10 +1662,10 @@ While there, one is one’s own infinity.
 * Whoever Is Too Great
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 13-10-1994
-  :CITE-KEY: ACBD:91
+  :cite-key: ACBD:91
   :END:
 
 #+BEGIN_VERSE
@@ -1680,10 +1680,10 @@ Whoever is too great must lonely live.
 * Devi Savitri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 22-08-1997
-  :CITE-KEY: ACBD:92
+  :cite-key: ACBD:92
   :END:
 
 #+BEGIN_VERSE
@@ -1700,10 +1700,10 @@ Ati manaser mukti banshari dharar eshana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 22-08-1997
-  :CITE-KEY: ACBD:93
+  :cite-key: ACBD:93
   :END:
 
 #+BEGIN_VERSE

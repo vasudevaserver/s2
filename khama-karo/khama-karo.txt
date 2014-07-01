@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0715
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: KK
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0715
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: KK
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * A talk to disciples
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: KK:1
+  :genre: discourse
+  :keywords:
+  :cite-key: KK:1
   :END:
 
 
@@ -119,9 +119,9 @@ Vina del Mar, Chile
 * Forgiveness and gratitude
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: KK:2
+  :genre: discourse
+  :keywords:
+  :cite-key: KK:2
   :END:
 
 

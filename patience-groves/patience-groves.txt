@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 361
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1978
-  :PUBLISHER:
-  :CITE-KEY: PTGR
-  :GENRE: song
+  :book-number: 361
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1978
+  :publisher:
+  :cite-key: PTGR
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PTGR:1e1
+  :genre: note
+  :cite-key: PTGR:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: PTGR:1e2
+  :genre: note
+  :cite-key: PTGR:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Antare Eso Neme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:1
+  :cite-key: PTGR:1
   :END:
 
 #+BEGIN_VERSE
@@ -68,10 +68,10 @@ Amar maran nashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:2
+  :cite-key: PTGR:2
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ In the heart of mankind today, destroying
 * Swalpe Tushta Brihate Shanka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:3
+  :cite-key: PTGR:3
   :END:
 
 #+BEGIN_VERSE
@@ -125,10 +125,10 @@ Dibya jagye labuk tripti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:4
+  :cite-key: PTGR:4
   :END:
 
 #+BEGIN_VERSE
@@ -155,10 +155,10 @@ Get total satisfaction in the sacrifice divine.
 * Chale Sei Drutatama Chalena Je Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:5
+  :cite-key: PTGR:5
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Kemane chalibe tara alo sandhane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:6
+  :cite-key: PTGR:6
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ How can they run in search of the Light Supreme?
 * Mugdha Ami Tomar Gane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:7
+  :cite-key: PTGR:7
   :END:
 
 #+BEGIN_VERSE
@@ -212,10 +212,10 @@ Ami tomar alor dulal ananta akkhoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:8
+  :cite-key: PTGR:8
   :END:
 
 #+BEGIN_VERSE
@@ -234,10 +234,10 @@ I am the child of Your Light Supreme,
 * Andhakarer Bakka Chiri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:9
+  :cite-key: PTGR:9
   :END:
 
 #+BEGIN_VERSE
@@ -256,10 +256,10 @@ Ajana ei deshe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:10
+  :cite-key: PTGR:10
   :END:
 
 #+BEGIN_VERSE
@@ -279,10 +279,10 @@ She has dragged me down
 * Sima Jadi Hai Asimer Prane (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:11
+  :cite-key: PTGR:11
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Jiban je tar habe bilupta mithya dainya pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:12
+  :cite-key: PTGR:12
   :END:
 
 #+BEGIN_VERSE
@@ -319,10 +319,10 @@ In the city of falsehood and destitution.
 * Hriday Kande Praner Dukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:13
+  :cite-key: PTGR:13
   :END:
 
 #+BEGIN_VERSE
@@ -337,10 +337,10 @@ Sukhir hiyai purnata je raibe nirabadhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:14
+  :cite-key: PTGR:14
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Will reside constantly the Life of the Infinite.
 * Amar Prane Mago Tumi Eso Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:15
+  :cite-key: PTGR:15
   :END:
 
 #+BEGIN_VERSE
@@ -379,10 +379,10 @@ Sei aghate nritya kare amar sakal paowa
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:16
+  :cite-key: PTGR:16
   :END:
 
 #+BEGIN_VERSE
@@ -399,10 +399,10 @@ All my achievements dance in Your torture.
 * Kandbona Ar Kandbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:17
+  :cite-key: PTGR:17
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Ghuchabo sab khati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:18
+  :cite-key: PTGR:18
   :END:
 
 #+BEGIN_VERSE
@@ -438,10 +438,10 @@ With my heart’s blood I shall compensate all.
 * Tomai Ami Apan Bhebe Dekechhi Bahubar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:19
+  :cite-key: PTGR:19
   :END:
 
 #+BEGIN_VERSE
@@ -456,10 +456,10 @@ Alo kusum phutbena je hriday anginai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:20
+  :cite-key: PTGR:20
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ In the garden of my heart.
 * Hridaye Amar Muktir Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:21
+  :cite-key: PTGR:21
   :END:
 
 #+BEGIN_VERSE
@@ -500,10 +500,10 @@ Labhibo lupti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:22
+  :cite-key: PTGR:22
   :END:
 
 #+BEGIN_VERSE
@@ -523,10 +523,10 @@ How can I lose myself in the waters of peace?
 * Shok Tap Jetha Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:23
+  :cite-key: PTGR:23
   :END:
 
 #+BEGIN_VERSE
@@ -545,10 +545,10 @@ Prema sudha rakhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:24
+  :cite-key: PTGR:24
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ Grant me the cord of love-nectar.
 * Tomar Kachhe Chahi Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:25
+  :cite-key: PTGR:25
   :END:
 
 #+BEGIN_VERSE
@@ -585,10 +585,10 @@ Shaman hale bhakti sudha raibena je prabhu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:26
+  :cite-key: PTGR:26
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ O Lord, if I equal You, then in me the nectar of devotion
 * Nikhil Parane Sakal Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:27
+  :cite-key: PTGR:27
   :END:
 
 #+BEGIN_VERSE
@@ -630,10 +630,10 @@ Madhumoy nirabata
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:28
+  :cite-key: PTGR:28
   :END:
 
 #+BEGIN_VERSE
@@ -655,10 +655,10 @@ Pour into my heart Your golden Silence.
 * Kende Kende Pagal Habo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:29
+  :cite-key: PTGR:29
   :END:
 
 #+BEGIN_VERSE
@@ -673,10 +673,10 @@ Tui je amar chaowa paowa amar parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:30
+  :cite-key: PTGR:30
   :END:
 
 #+BEGIN_VERSE
@@ -695,10 +695,10 @@ And You are my only identification.
 * Prashphutila Taba Hasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:31
+  :cite-key: PTGR:31
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Muktir plabane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:32
+  :cite-key: PTGR:32
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ You, only You, in the flood of liberation.
 * Ekti Katha Balbo Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:33
+  :cite-key: PTGR:33
   :END:
 
 #+BEGIN_VERSE
@@ -754,10 +754,10 @@ Bhango sakal mohakara
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:34
+  :cite-key: PTGR:34
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ The prison cell of all my attachments.
 * Maran Banshi Oi Baje Oi Baje
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:35
+  :cite-key: PTGR:35
   :END:
 
 #+BEGIN_VERSE
@@ -797,10 +797,10 @@ Dakchhe bhalobese
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:36
+  :cite-key: PTGR:36
   :END:
 
 #+BEGIN_VERSE
@@ -818,10 +818,10 @@ And they are beckoning me with love.
 * Hasi Diye Shudhu Parane Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:37
+  :cite-key: PTGR:37
   :END:
 
 #+BEGIN_VERSE
@@ -840,10 +840,10 @@ Rupantarer banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:38
+  :cite-key: PTGR:38
   :END:
 
 #+BEGIN_VERSE
@@ -862,10 +862,10 @@ Can give me the flute of transformation.
 * Chokh Diyechho Daoni Dithi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:39
+  :cite-key: PTGR:39
   :END:
 
 #+BEGIN_VERSE
@@ -882,10 +882,10 @@ Joddha ami ami amar juddha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:40
+  :cite-key: PTGR:40
   :END:
 
 #+BEGIN_VERSE
@@ -905,10 +905,10 @@ I am the eternal warrior; I am the eternal war.
 * Milbena Bhai Milbena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:41
+  :cite-key: PTGR:41
   :END:
 
 #+BEGIN_VERSE
@@ -928,10 +928,10 @@ Nahoi amai dake tara dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:42
+  :cite-key: PTGR:42
   :END:
 
 #+BEGIN_VERSE
@@ -950,10 +950,10 @@ No matter who calls me?
 * Hasbo Shudhu Hriday Bane Hasbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:43
+  :cite-key: PTGR:43
   :END:
 
 #+BEGIN_VERSE
@@ -972,10 +972,10 @@ Hasbo shudhu hriday bane hasbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:44
+  :cite-key: PTGR:44
   :END:
 
 #+BEGIN_VERSE
@@ -1000,10 +1000,10 @@ We shall only smile and smile.
 * Mitthya Jakhan Satya Seje Ase
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:45
+  :cite-key: PTGR:45
   :END:
 
 #+BEGIN_VERSE
@@ -1018,10 +1018,10 @@ Asbo phire dakle bhalobasi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:46
+  :cite-key: PTGR:46
   :END:
 
 #+BEGIN_VERSE
@@ -1037,10 +1037,10 @@ I shall come back when I am lovingly invoked.”
 * Tamisrar Bakkhe Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:47
+  :cite-key: PTGR:47
   :END:
 
 #+BEGIN_VERSE
@@ -1055,10 +1055,10 @@ Alor prabhat
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:48
+  :cite-key: PTGR:48
   :END:
 
 #+BEGIN_VERSE
@@ -1074,10 +1074,10 @@ The dawn of Light Supreme.
 * Tumi Je Amar Ami Je Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:49
+  :cite-key: PTGR:49
   :END:
 
 #+BEGIN_VERSE
@@ -1092,10 +1092,10 @@ Atmahutir gane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:50
+  :cite-key: PTGR:50
   :END:
 
 #+BEGIN_VERSE
@@ -1111,10 +1111,10 @@ Through the songs of self-sacrifice.
 * Shudhu Sundar Chira Sundar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:51
+  :cite-key: PTGR:51
   :END:
 
 #+BEGIN_VERSE
@@ -1133,10 +1133,10 @@ Basiya shraban mule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:52
+  :cite-key: PTGR:52
   :END:
 
 #+BEGIN_VERSE
@@ -1156,10 +1156,10 @@ By using my ears?
 * Nemechhe Aj Asim Desher Alo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:53
+  :cite-key: PTGR:53
   :END:
 
 #+BEGIN_VERSE
@@ -1178,10 +1178,10 @@ Madhur hese rat dupure bhore
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:54
+  :cite-key: PTGR:54
   :END:
 
 #+BEGIN_VERSE
@@ -1201,10 +1201,10 @@ At dawn, at noon, and at night.”
 * Amar Trutir Nai Je Sima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:55
+  :cite-key: PTGR:55
   :END:
 
 #+BEGIN_VERSE
@@ -1223,10 +1223,10 @@ Gabhir timir dainya nashi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:56
+  :cite-key: PTGR:56
   :END:
 
 #+BEGIN_VERSE
@@ -1246,10 +1246,10 @@ Chasing away the dense veil of darkness.
 * Ebar Ami Dakbo Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:57
+  :cite-key: PTGR:57
   :END:
 
 #+BEGIN_VERSE
@@ -1264,10 +1264,10 @@ Mukta hiyay suru habe alor abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:58
+  :cite-key: PTGR:58
   :END:
 
 #+BEGIN_VERSE
@@ -1287,10 +1287,10 @@ In the heart of freedom.
 * Bahubar Ami Dekhechhi Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:59
+  :cite-key: PTGR:59
   :END:
 
 #+BEGIN_VERSE
@@ -1305,10 +1305,10 @@ Tabu kena hai parane amar kuruper andhiyar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:60
+  :cite-key: PTGR:60
   :END:
 
 #+BEGIN_VERSE
@@ -1328,10 +1328,10 @@ Resides in my heart.
 * Aro Byatha Keman Kare (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:61
+  :cite-key: PTGR:61
   :END:
 
 #+BEGIN_VERSE
@@ -1346,10 +1346,10 @@ Twara eso mago tomai dake chapal pran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 18-02-1973
-  :CITE-KEY: PTGR:62
+  :cite-key: PTGR:62
   :END:
 
 #+BEGIN_VERSE
@@ -1369,10 +1369,10 @@ My impatient heart calls you.
 * Ami Chali Ami Chali Kabhu Katha Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:63
+  :cite-key: PTGR:63
   :END:
 
 #+BEGIN_VERSE
@@ -1386,10 +1386,10 @@ Ami bali ami bali andhare charan dali
 * Tomar Lagi Tomar Kache Jaowa Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:64
+  :cite-key: PTGR:64
   :END:
 
 #+BEGIN_VERSE
@@ -1405,10 +1405,10 @@ Tomar paye thakbo nirantara
 * Jiban Amar Halo Alokito Paran Amar Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:65
+  :cite-key: PTGR:65
   :END:
 
 #+BEGIN_VERSE
@@ -1424,10 +1424,10 @@ Akuti kamal halo prashphutito
 * Amar Kamal Antare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:66
+  :cite-key: PTGR:66
   :END:
 
 #+BEGIN_VERSE
@@ -1445,10 +1445,10 @@ Pratikkhane santare
 * Kahar Lagi Kahar Lagi Rahi Ami Ratri Jagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:67
+  :cite-key: PTGR:67
   :END:
 
 #+BEGIN_VERSE
@@ -1463,10 +1463,10 @@ Kahar lagi kahar lagi kripa bhikkha ami lagi
 * Nai Je Kichui Manda Hriday Duar Bandha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:68
+  :cite-key: PTGR:68
   :END:
 
 #+BEGIN_VERSE
@@ -1482,10 +1482,10 @@ Tai je sabai khudra
 * Man Nirmal Pran Ujjal Deha Shatadal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:69
+  :cite-key: PTGR:69
   :END:
 
 #+BEGIN_VERSE
@@ -1501,10 +1501,10 @@ Rakhi jena sudha charane
 * Ushar Srishti Tushar Brishti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:70
+  :cite-key: PTGR:70
   :END:
 
 #+BEGIN_VERSE
@@ -1520,10 +1520,10 @@ Shuni shuni bijoy bheri
 * Hao Aguan Hao Aguan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:71
+  :cite-key: PTGR:71
   :END:
 
 #+BEGIN_VERSE
@@ -1538,10 +1538,10 @@ Chira sathi ananta abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: PTGR:72
+  :cite-key: PTGR:72
   :END:
 
 #+BEGIN_VERSE
@@ -1559,10 +1559,10 @@ In His birthless and deathless Expedition.
 * Swarupananda Nayananda Asimananda
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: PTGR:73
+  :cite-key: PTGR:73
   :END:
 
 #+BEGIN_VERSE

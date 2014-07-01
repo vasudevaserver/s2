@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0392
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1979
-  :PUBLISHER: Agni Press
-  :CITE-KEY: WWNY-1
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0392
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1979
+  :publisher: Agni Press
+  :cite-key: WWNY-1
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -24,9 +24,9 @@
 * I pray
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:1
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:1
   :END:
 
 
@@ -55,9 +55,9 @@ New York, N. Y. \\
 * We pray and we meditate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:2
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:2
   :END:
 
 
@@ -87,9 +87,9 @@ Albany, N. Y. \\
 * The desiring man, the aspiring man and the self-giving man
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:3
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:3
   :END:
 
 
@@ -124,9 +124,9 @@ Union College and University Schenectady, N Y. \\
 * Liberation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:4
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:4
   :END:
 
 
@@ -147,9 +147,9 @@ Oneonta, N Y. \\
 * We concentrate, we meditate
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:5
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:5
   :END:
 
 
@@ -178,9 +178,9 @@ White Plains, N. Y. \\
 * We shall wait
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:6
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:6
   :END:
 
 
@@ -212,9 +212,9 @@ Buffalo, N. Y. \\
 * We shall not wait
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:7
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:7
   :END:
 
 
@@ -242,9 +242,9 @@ Buffalo, N. Y. \\
 * Progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:8
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:8
   :END:
 
 
@@ -269,9 +269,9 @@ New York, N. Y. \\
 * Gratitude-Heart
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:9
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:9
   :END:
 
 
@@ -295,9 +295,9 @@ Plattsburgh, N. Y. \\
 * Choice
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:10
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:10
   :END:
 
 
@@ -320,9 +320,9 @@ Potsdam, N. Y. \\
 * The seeker's duty
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:11
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:11
   :END:
 
 
@@ -349,9 +349,9 @@ Canton, N.Y. \\
 * Let us try to empty the mind
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:12
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:12
   :END:
 
 
@@ -374,9 +374,9 @@ Stony Brook, N. Y. \\
 * Lord, my Lord
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:13
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:13
   :END:
 
 
@@ -409,9 +409,9 @@ Farmingdale, N. Y. \\
 * Silence
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:14
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:14
   :END:
 
 
@@ -434,9 +434,9 @@ Bronx, N. Y. \\
 * I watch, I pray
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:15
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:15
   :END:
 
 
@@ -468,9 +468,9 @@ Greenvale, N.Y. \\
 * Faith, love, devotion and surrender
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:16
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:16
   :END:
 
 
@@ -494,9 +494,9 @@ Oswego, N. Y. \\
 * Appreciation, admiration, adoration and love
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:17
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:17
   :END:
 
 
@@ -520,9 +520,9 @@ Ithaca, N. Y. \\
 * Success and progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:18
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:18
   :END:
 
 
@@ -550,9 +550,9 @@ Cortland, N. Y. \\
 * Our human life and our divine life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:19
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:19
   :END:
 
 
@@ -580,9 +580,9 @@ Syracuse, N. Y. \\
 * What shall I make of myself?
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: WWNY:20
+  :genre: discourse
+  :keywords:
+  :cite-key: WWNY:20
   :END:
 
 
@@ -605,9 +605,9 @@ Binghamton, N. Y. \\
 * Editor's preface to the first edition
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: WWNY:21e1
+  :genre: note
+  :keywords:
+  :cite-key: WWNY:21e1
   :END:
 
 

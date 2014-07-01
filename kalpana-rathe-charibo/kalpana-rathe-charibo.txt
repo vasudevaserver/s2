@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 877
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1992
-  :PUBLISHER:
-  :CITE-KEY: KRC
-  :GENRE: song
+  :book-number: 877
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1992
+  :publisher:
+  :cite-key: KRC
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KRC:1e1
+  :genre: note
+  :cite-key: KRC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: KRC:1e2
+  :genre: note
+  :cite-key: KRC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Anek Kichu Diyecho More Taito Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:1
+  :cite-key: KRC:1
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Chutina pichu pichu
 * Ajike Amai Dakiche Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:2
+  :cite-key: KRC:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ Baran karibo prem aratir dhupe dhupe
 * Asha Niye Thakbo Benche Madhur Asha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:3
+  :cite-key: KRC:3
   :END:
 
 #+BEGIN_VERSE
@@ -96,10 +96,10 @@ Mukti deshe
 * Ami Amar Shunte Lage
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:4
+  :cite-key: KRC:4
   :END:
 
 #+BEGIN_VERSE
@@ -115,10 +115,10 @@ Agyan bharapur
 * Kalpana Rathe Charibo Urdha Gagane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:5
+  :cite-key: KRC:5
   :END:
 
 #+BEGIN_VERSE
@@ -133,10 +133,10 @@ Prayatama bhalobsibo
 * Nutan Jiban Karibo Srijan Nutan Prabhure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:6
+  :cite-key: KRC:6
   :END:
 
 #+BEGIN_VERSE
@@ -151,10 +151,10 @@ Nutane sanpibo puran o maran
 * Jiban Maran Kareche Pagol Sab Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:7
+  :cite-key: KRC:7
   :END:
 
 #+BEGIN_VERSE
@@ -168,10 +168,10 @@ Sab kichu britha moher agol
 * Naba Jibaner Lagi Habo Aji Anuragi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:8
+  :cite-key: KRC:8
   :END:
 
 #+BEGIN_VERSE
@@ -186,10 +186,10 @@ Khudra amire tyagi
 * Ati Sugopane Kandibo Kemane Dibanishi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:9
+  :cite-key: KRC:9
   :END:
 
 #+BEGIN_VERSE
@@ -204,10 +204,10 @@ Kerite tomai ghume jagarane
 * Bela Jai.. Hiya Mor Priyatame Nahi Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:10
+  :cite-key: KRC:10
   :END:
 
 #+BEGIN_VERSE
@@ -223,10 +223,10 @@ Akutir shikha hai
 * Jabo Ebar Hiya Pure Jabo Paran Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:11
+  :cite-key: KRC:11
   :END:
 
 #+BEGIN_VERSE
@@ -241,10 +241,10 @@ Mor swaruper dekha aji pabo
 * Ashru Amar Jharar Age Tomar Hasire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:12
+  :cite-key: KRC:12
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ Tomar bijoy bheri
 * Tomare Pujiya Amare Jagabo Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:13
+  :cite-key: KRC:13
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ Tomare janiya sabare rangabo
 * Kandi Ami Amai Janar Lagi Dekhte Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:14
+  :cite-key: KRC:14
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Rahi jena nitya anuragi
 * Balar Mato Nai Je Kichui Ar Nahi Dekhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:15
+  :cite-key: KRC:15
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Sathi kebal bhayal srota dhar
 * Bedanai Bhara Pran Hatha Asha Abhijan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:16
+  :cite-key: KRC:16
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Ami aj mriyaman
 * Swarupe Herite Khudra Amire Nashibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:17
+  :cite-key: KRC:17
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Ekatar giti ananda chite gahibo
 * Jibaner Bhore Karechi Pranam Maraner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:18
+  :cite-key: KRC:18
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ Labhite tomar prashanti dham
 * Balar Mato Ekti Shudhu Ache Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:19
+  :cite-key: KRC:19
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ Kothai gele pabo ami sudha nirabata
 * Swapan Amar Sarthak Habe Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:20
+  :cite-key: KRC:20
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ Taito ami rakhbo khule supta nayan
 * Chalar Pathe Na Shunile Param Pitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:21
+  :cite-key: KRC:21
   :END:
 
 #+BEGIN_VERSE
@@ -423,10 +423,10 @@ Balo amai nayan mani
 * Jiban Amar Britha Jabe Kemane Ta Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:22
+  :cite-key: KRC:22
   :END:
 
 #+BEGIN_VERSE
@@ -442,10 +442,10 @@ Amar param prabhur nishwas
 * Gopane Rakhibo Swapaner Bani Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:23
+  :cite-key: KRC:23
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ Gopane hasibo swapaner hasi gopane hasibo
 * Nirmala Karo Manas Amar Malin Manas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:24
+  :cite-key: KRC:24
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ Khulechi hiyar dor
 * Sabiy Madhur Sabiy Madhur Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:25
+  :cite-key: KRC:25
   :END:
 
 #+BEGIN_VERSE
@@ -497,10 +497,10 @@ Asimatar mukti bharapur
 * Anyai Abichar Charidike Anyai Abichar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:26
+  :cite-key: KRC:26
   :END:
 
 #+BEGIN_VERSE
@@ -514,10 +514,10 @@ Keha nahi chahe hai prashanti sagarer srotadhar
 * Kandte Habe Kandte Habe Tomai Pete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:27
+  :cite-key: KRC:27
   :END:
 
 #+BEGIN_VERSE
@@ -533,10 +533,10 @@ Jante tomai bishal bhabe
 * Ati Sugopane Asha Devi Aji Chale Geha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:28
+  :cite-key: KRC:28
   :END:
 
 #+BEGIN_VERSE
@@ -552,10 +552,10 @@ Karun bedan sure
 * Kanna Amar Diner Sathi Kanna Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:29
+  :cite-key: KRC:29
   :END:
 
 #+BEGIN_VERSE
@@ -571,10 +571,10 @@ Param pitar kripar bhati
 * Niye Jabo Swarga Dhame Amar Hiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:30
+  :cite-key: KRC:30
   :END:
 
 #+BEGIN_VERSE
@@ -588,10 +588,10 @@ Bhalo amai basbe jani madhumayi nirabata
 * Klanto Ami Dibanishi Klanto Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:31
+  :cite-key: KRC:31
   :END:
 
 #+BEGIN_VERSE
@@ -607,10 +607,10 @@ Patha hara bhranta
 * Diner Sheshe Sanjher Deshe Dake Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:32
+  :cite-key: KRC:32
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ labhi ami saphalata
 * Chaowa Jadi Paowar Mato Barai Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:33
+  :cite-key: KRC:33
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ Sabai abirato
 * Amarar Gan Gahibo Amara Hethai Marar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:34
+  :cite-key: KRC:34
   :END:
 
 #+BEGIN_VERSE
@@ -664,10 +664,10 @@ Bhalo bese animeshe
 * Asha Niye Benche Achi Asha Niye Benche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:35
+  :cite-key: KRC:35
   :END:
 
 #+BEGIN_VERSE
@@ -683,10 +683,10 @@ Priyatame mor heribo
 * Andhakar Ami Mor Nahi Taba Adhikar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:36
+  :cite-key: KRC:36
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +702,10 @@ Dure dure bahu dure rabe bhranti
 * Ami Kandi Ami Kandi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:37
+  :cite-key: KRC:37
   :END:
 
 #+BEGIN_VERSE
@@ -721,10 +721,10 @@ Shanti pabo kar bare
 * Antaratama Chira Manorama Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:38
+  :cite-key: KRC:38
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ Taba pada tale rakhibo amare karo more nirbhoy
 * Andhar Deshe Esechi Aj Alor Giti Gahite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:39
+  :cite-key: KRC:39
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ paran bhara pritite
 * Ar Katokal.. Bhitar Bahir Rabe Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:40
+  :cite-key: KRC:40
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ manda kapal
 * Amar Jibane Amar Marane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:41
+  :cite-key: KRC:41
   :END:
 
 #+BEGIN_VERSE
@@ -795,10 +795,10 @@ Phutiya uthibe maha bhati
 * Amar Chaowar Nahi Go Shesh Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:42
+  :cite-key: KRC:42
   :END:
 
 #+BEGIN_VERSE
@@ -814,10 +814,10 @@ Sukher dine dukher bhasha
 * Ami Je Amar Malin Paran Haina Khakona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:43
+  :cite-key: KRC:43
   :END:
 
 #+BEGIN_VERSE
@@ -833,10 +833,10 @@ Amara dujane lipta
 * Amije Amar Swarga Dhamer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:44
+  :cite-key: KRC:44
   :END:
 
 #+BEGIN_VERSE
@@ -852,10 +852,10 @@ Bastabe bhul
 * Amarati Aji Bhitare Bahire Nashibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:45
+  :cite-key: KRC:45
   :END:
 
 #+BEGIN_VERSE
@@ -869,10 +869,10 @@ Dyuloker dyuti charidhare mor heribo
 * Amar Basana Amar Jatana Amare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:46
+  :cite-key: KRC:46
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Agyan chhaya kallol
 * Amar Bishal Amare Janiya Param
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:47
+  :cite-key: KRC:47
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Sada jagrata rakhibo
 * Sukher Dine Dukher Rate Tomai Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:48
+  :cite-key: KRC:48
   :END:
 
 #+BEGIN_VERSE
@@ -926,10 +926,10 @@ Nahi kabhu puji
 * Pujbo Ami Pujbo Tomai Tomar Ratul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:49
+  :cite-key: KRC:49
   :END:
 
 #+BEGIN_VERSE
@@ -945,10 +945,10 @@ Tomar sudha kripa bale
 * Phuler Mato Phutbe Jiban Phuler Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 10-01-1985
-  :CITE-KEY: KRC:50
+  :cite-key: KRC:50
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0066
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1972
-  :PUBLISHER: Agni Press
-  :CITE-KEY: DR
-  :GENRE: QA
-  :KEYWORDS:
+  :book-number: 0066
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1972
+  :publisher: Agni Press
+  :cite-key: DR
+  :genre: QA
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I: The realm of death
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:1e1
+  :genre: section
+  :keywords:
+  :cite-key: DR:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Question: Why is death necessary? Why can’t the soul keep on progressing and evolving in the same body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:1
+  :genre: qa
+  :keywords:
+  :cite-key: DR:1
   :END:
 
 
@@ -49,9 +49,9 @@ An ordinary man who has shouldered the burden of a whole family for twenty, thir
 * Question: Is it possible for a man to learn what death is while still living, by actually entering into death?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:2
+  :genre: qa
+  :keywords:
+  :cite-key: DR:2
   :END:
 
 
@@ -64,9 +64,9 @@ Sometimes we can actually follow a soul when the soul leaves the body, and then 
 * Question: Guru, would you explain the spiritual significance of this practice or the need for it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:3
+  :genre: qa
+  :keywords:
+  :cite-key: DR:3
   :END:
 
 
@@ -77,9 +77,9 @@ Sometimes we can actually follow a soul when the soul leaves the body, and then 
 * Question: Is death painful?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:4
+  :genre: qa
+  :keywords:
+  :cite-key: DR:4
   :END:
 
 
@@ -96,9 +96,9 @@ When we are caught by the fetters of ignorance there will be pain both within us
 * Question: Why is it that so many linger in pain for a long time before dying?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:5
+  :genre: qa
+  :keywords:
+  :cite-key: DR:5
   :END:
 
 
@@ -113,9 +113,9 @@ Nevertheless, if someone dies of sudden heart failure, that does not necessarily
 * Question: Is it possible for a spiritual person who is dying a painful death to transform his pain into joy through meditation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:6
+  :genre: qa
+  :keywords:
+  :cite-key: DR:6
   :END:
 
 
@@ -128,9 +128,9 @@ One can consciously enter into pain even while undergoing a serious operation. W
 * Question: In one of your meditations from your diary you mentioned that death was an obstruction. I always thought you considered death to be a transition that just enables us to be reborn and make continuous progress.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:7
+  :genre: qa
+  :keywords:
+  :cite-key: DR:7
   :END:
 
 
@@ -151,9 +151,9 @@ Nothing is lost except time, in most cases, during those few years of childhood.
 * Question: When we die, what is the best thing to do?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:8
+  :genre: qa
+  :keywords:
+  :cite-key: DR:8
   :END:
 
 
@@ -168,9 +168,9 @@ But if you are speaking of other people, then in order to know what is best to d
 * Question: Is there any special way we should meditate on a person who is dying?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:9
+  :genre: qa
+  :keywords:
+  :cite-key: DR:9
   :END:
 
 
@@ -183,9 +183,9 @@ First try to imagine a circle at his heart, and try to feel that this circle is 
 * Question: What should be the attitude of the dear ones when somebody close is dying?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:10
+  :genre: qa
+  :keywords:
+  :cite-key: DR:10
   :END:
 
 
@@ -202,9 +202,9 @@ We do not know what death actually is; that is why we want to stay here on earth
 * Question: Guru, I had a young friend who died just six weeks ago, and the day before he died he told his father that he would die the next day, and he did. How could he know?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:11
+  :genre: qa
+  :keywords:
+  :cite-key: DR:11
   :END:
 
 
@@ -215,9 +215,9 @@ We do not know what death actually is; that is why we want to stay here on earth
 * Question: When a person is sick and, medically speaking, there is no hope of recovery, is it good to tell the person he is going to die and to start helping him get ready for departure?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:12
+  :genre: qa
+  :keywords:
+  :cite-key: DR:12
   :END:
 
 
@@ -230,9 +230,9 @@ But if the person is very spiritual and a sincere seeker, then he himself will s
 * Question: Can you postpone with your willpower the time of death?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:13
+  :genre: qa
+  :keywords:
+  :cite-key: DR:13
   :END:
 
 
@@ -243,9 +243,9 @@ But if the person is very spiritual and a sincere seeker, then he himself will s
 * Question: Can you postpone it indefinitely?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:14
+  :genre: qa
+  :keywords:
+  :cite-key: DR:14
   :END:
 
 
@@ -258,9 +258,9 @@ Having this power is of no use if you just want to stay on earth for two or thre
 * Question: Have you ever had to actually fight the death forces to save somebody’s life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:15
+  :genre: qa
+  :keywords:
+  :cite-key: DR:15
   :END:
 
 
@@ -271,9 +271,9 @@ Having this power is of no use if you just want to stay on earth for two or thre
 * Question: I work in a cancer hospital where people frequently die. Sometimes when people are dying I see a quality or a look on their face which is very similar to something that I see in your face. Can you tell me why?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:16
+  :genre: qa
+  :keywords:
+  :cite-key: DR:16
   :END:
 
 
@@ -288,9 +288,9 @@ There are times when my disciples meditate most soulfully on me, and identify th
 * Question: Sometimes people burn themselves to death as a protest against war. From the spiritual point of view, what does this accomplish?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:17
+  :genre: qa
+  :keywords:
+  :cite-key: DR:17
   :END:
 
 
@@ -305,9 +305,9 @@ The world will remain ignorant unless and until the Supreme illumines the world-
 * Question: Can someone who has committed suicide realise God in a future incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:18
+  :genre: qa
+  :keywords:
+  :cite-key: DR:18
   :END:
 
 
@@ -318,9 +318,9 @@ The world will remain ignorant unless and until the Supreme illumines the world-
 * Question: Your philosophy states that the soul is always making progress, but how do you reconcile that with the fact that when someone commits suicide his soul falls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:19
+  :genre: qa
+  :keywords:
+  :cite-key: DR:19
   :END:
 
 
@@ -333,9 +333,9 @@ But if the Supreme wants to operate in a particular human being who has committe
 * Question: What is the difference between cremation and a regular burial?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:20
+  :genre: qa
+  :keywords:
+  :cite-key: DR:20
   :END:
 
 
@@ -350,9 +350,9 @@ Again, those in the West who prefer burial also have their own spiritual interpr
 * Question: You have spoken about physical death. Could you say something about the kind of death and rebirth that occurs in the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:21
+  :genre: qa
+  :keywords:
+  :cite-key: DR:21
   :END:
 
 
@@ -365,9 +365,9 @@ One of the mysteries in the spiritual life is that at every moment we are dying 
 * Question: I was actually thinking more in terms of rebirth. How can I become like a child again and accomplish this spiritual rebirth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:22
+  :genre: qa
+  :keywords:
+  :cite-key: DR:22
   :END:
 
 
@@ -380,9 +380,9 @@ It is inevitable for each being who has entered into the spiritual life to have 
 * Question: Can you say something about eternity and the eternal life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:23
+  :genre: qa
+  :keywords:
+  :cite-key: DR:23
   :END:
 
 
@@ -397,9 +397,9 @@ Now while we are living on earth, we can place ourselves in the realm of Eternal
 * Part II: A Tale of the beyond
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:24e1
+  :genre: section
+  :keywords:
+  :cite-key: DR:24e1
   :END:
 
 
@@ -407,9 +407,9 @@ Now while we are living on earth, we can place ourselves in the realm of Eternal
 * A tale of the beyond
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DR:24
+  :genre: discourse
+  :keywords:
+  :cite-key: DR:24
   :END:
 
 
@@ -444,9 +444,9 @@ Right now Buddy’s soul is in the world of the moon, considered to be one of th
 * Part III: Life after death: the higher and lower worlds
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:25e1
+  :genre: section
+  :keywords:
+  :cite-key: DR:25e1
   :END:
 
 
@@ -454,9 +454,9 @@ Right now Buddy’s soul is in the world of the moon, considered to be one of th
 * Question: Do the circumstances under which a person dies determine where he goes after he leaves the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:25
+  :genre: qa
+  :keywords:
+  :cite-key: DR:25
   :END:
 
 
@@ -467,9 +467,9 @@ Right now Buddy’s soul is in the world of the moon, considered to be one of th
 * Question: I have heard that seeing the relatives' and friends' tears gives great joy to the soul when parting from this life. Is this true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:26
+  :genre: qa
+  :keywords:
+  :cite-key: DR:26
   :END:
 
 
@@ -486,9 +486,9 @@ Yes, for a while the disciples can feel sad that they have lost their Master, th
 * Question: Why do people keep the body for a few hours or even for a few days after the soul has departed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:27
+  :genre: qa
+  :keywords:
+  :cite-key: DR:27
   :END:
 
 
@@ -499,9 +499,9 @@ Yes, for a while the disciples can feel sad that they have lost their Master, th
 * Question: Even if a seeker hasn’t realised God while on earth, will his soul see God or realise God after it leaves the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:28
+  :genre: qa
+  :keywords:
+  :cite-key: DR:28
   :END:
 
 
@@ -514,9 +514,9 @@ The soul that sees God and has a conversation with Him is like a stranger to us,
 * Question: Guru, will we see you at the time when we leave the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:29
+  :genre: qa
+  :keywords:
+  :cite-key: DR:29
   :END:
 
 
@@ -527,9 +527,9 @@ The soul that sees God and has a conversation with Him is like a stranger to us,
 * Question: Will we see you after you leave the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:30
+  :genre: qa
+  :keywords:
+  :cite-key: DR:30
   :END:
 
 
@@ -540,9 +540,9 @@ The soul that sees God and has a conversation with Him is like a stranger to us,
 * Question: Will everyone see you in the inner world after death?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:31
+  :genre: qa
+  :keywords:
+  :cite-key: DR:31
   :END:
 
 
@@ -553,9 +553,9 @@ The soul that sees God and has a conversation with Him is like a stranger to us,
 * Question: A friend of mine, a lady who was very spiritual, passed away recently. Will her friends come to meet her in a beautiful Heaven?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:32
+  :genre: qa
+  :keywords:
+  :cite-key: DR:32
   :END:
 
 
@@ -572,9 +572,9 @@ When another disciple’s father died he went to a very high place, but he was n
 * Question: Will the soul be able to have some kinds of experiences in the worlds it goes to after it leaves the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:33
+  :genre: qa
+  :keywords:
+  :cite-key: DR:33
   :END:
 
 
@@ -587,9 +587,9 @@ The soul gets various kinds of subtle experiences in these other sheaths, but th
 * Question: When the soul leaves the body after death, you said it enters into the vital sphere. What is the vital sphere?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:34
+  :genre: qa
+  :keywords:
+  :cite-key: DR:34
   :END:
 
 
@@ -602,9 +602,9 @@ The vital that we have embodied here in this physical is something solid. With o
 * Question: What is it like in the vital world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:35
+  :genre: qa
+  :keywords:
+  :cite-key: DR:35
   :END:
 
 
@@ -615,9 +615,9 @@ The vital that we have embodied here in this physical is something solid. With o
 * Question: Is hell really a place in the vital worlds, or is it just a state of consciousness?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:36
+  :genre: qa
+  :keywords:
+  :cite-key: DR:36
   :END:
 
 
@@ -630,9 +630,9 @@ So when we live in the gross physical consciousness or in the body consciousness
 * Part IV: Reincarnation: the great pilgrimage
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DR:37e1
+  :genre: section
+  :keywords:
+  :cite-key: DR:37e1
   :END:
 
 
@@ -640,9 +640,9 @@ So when we live in the gross physical consciousness or in the body consciousness
 * Question: What is the purpose of reincarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:37
+  :genre: qa
+  :keywords:
+  :cite-key: DR:37
   :END:
 
 
@@ -665,9 +665,9 @@ It very often happens that realisation can take place in one incarnation, but fo
 * Question: Will the whole world eventually become a better place as a result of the evolution that takes place through reincarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:38
+  :genre: qa
+  :keywords:
+  :cite-key: DR:38
   :END:
 
 
@@ -678,9 +678,9 @@ It very often happens that realisation can take place in one incarnation, but fo
 * Question: How can a spiritual Master like yourself convince others who do not believe in reincarnation that it is really true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:39
+  :genre: qa
+  :keywords:
+  :cite-key: DR:39
   :END:
 
 
@@ -695,9 +695,9 @@ A young boy, who was not a disciple of mine, once asked me about his past incarn
 * Question: If somebody lives a good life and reaches Nirvana, does this mean he will not reincarnate again?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:40
+  :genre: qa
+  :keywords:
+  :cite-key: DR:40
   :END:
 
 
@@ -712,9 +712,9 @@ But there are some souls that want to take a conscious part in God’s /Lila/ or
 * Question: Can the soul reincarnate in other worlds after death?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:41
+  :genre: qa
+  :keywords:
+  :cite-key: DR:41
   :END:
 
 
@@ -727,9 +727,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: Does the soul always need physical parents to reincarnate?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:42
+  :genre: qa
+  :keywords:
+  :cite-key: DR:42
   :END:
 
 
@@ -740,9 +740,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: I have read that when the soul takes incarnation in the world it is like entering a battlefield. Is this true?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:43
+  :genre: qa
+  :keywords:
+  :cite-key: DR:43
   :END:
 
 
@@ -753,9 +753,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: When the soul reincarnates in a new body, what happens to the spiritual heart? Does it also go from one lifetime to another like the soul does?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:44
+  :genre: qa
+  :keywords:
+  :cite-key: DR:44
   :END:
 
 
@@ -766,9 +766,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: When a child incarnates into a family, is it possible that the child’s soul is less highly evolved than the parents' souls?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:45
+  :genre: qa
+  :keywords:
+  :cite-key: DR:45
   :END:
 
 
@@ -779,9 +779,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: Does the soul have any choice as to the environment that it will come back to when it reincarnates, and the body that it will take?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:46
+  :genre: qa
+  :keywords:
+  :cite-key: DR:46
   :END:
 
 
@@ -792,9 +792,9 @@ There are seven higher worlds and seven lower worlds, and during sleep or medita
 * Question: Can you help me to leave the body as soon as possible, and help me to reincarnate in a place that is high and very cold, with plenty of fog and snow?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:47
+  :genre: qa
+  :keywords:
+  :cite-key: DR:47
   :END:
 
 
@@ -811,9 +811,9 @@ If your past actions of this incarnation are bothering you, I wish to tell you t
 * Question: Is all suffering the result of bad karma, either from this life or from a past life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:48
+  :genre: qa
+  :keywords:
+  :cite-key: DR:48
   :END:
 
 
@@ -828,9 +828,9 @@ If we follow the spiritual life all the time, then we stay in the field of divin
 * Question: Could you please explain how the law of karma affects us in this life and our next life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:49
+  :genre: qa
+  :keywords:
+  :cite-key: DR:49
   :END:
 
 
@@ -845,9 +845,9 @@ When we come back in our next incarnation, naturally we have to start our journe
 * Question: If a disciple does not realise God while his Guru is in the body, how would the Guru be able to help the disciple in that person’s next incarnation if there were no other living Guru through whom he could work?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:50
+  :genre: qa
+  :keywords:
+  :cite-key: DR:50
   :END:
 
 
@@ -868,9 +868,9 @@ When great Masters come to earth they greatly expedite the progress of their dis
 * Question: How will you keep contact with us after you leave the body?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:51
+  :genre: qa
+  :keywords:
+  :cite-key: DR:51
   :END:
 
 
@@ -893,9 +893,9 @@ When one disciple of mine died, I told his small nephews that we could talk to t
 * Question: If one is a spiritual person, will his next incarnation be different from that of an ordinary person?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:52
+  :genre: qa
+  :keywords:
+  :cite-key: DR:52
   :END:
 
 
@@ -908,9 +908,9 @@ But if the person was a very great aspirant who was about to realise God, then h
 * Question: You said before that each incarnation is a steppingstone towards our God-realisation. Does that mean that we can’t reach God in this life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:53
+  :genre: qa
+  :keywords:
+  :cite-key: DR:53
   :END:
 
 
@@ -921,9 +921,9 @@ But if the person was a very great aspirant who was about to realise God, then h
 * Question: If a seeker dies, do all his responsibilities and work cease in the period between his death and his rebirth? Or is he able to work consciously, or in some way continue the work that he started, before he comes back to earth?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:54
+  :genre: qa
+  :keywords:
+  :cite-key: DR:54
   :END:
 
 
@@ -936,9 +936,9 @@ Say, for example, someone wants his children to get their master’s degree. The
 * Question: Is the length of time the soul remains in the soul’s world between incarnations determined by the aspiration of the previous incarnation? If it is an elevated soul, will it incarnate sooner?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:55
+  :genre: qa
+  :keywords:
+  :cite-key: DR:55
   :END:
 
 
@@ -953,9 +953,9 @@ Most ordinary souls come back again after staying in the soul’s world for six 
 * Question: If someone is gifted in one area, does this mean that his soul was originally given this potentiality, or did he try to achieve this for many lives and then finally achieve it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:56
+  :genre: qa
+  :keywords:
+  :cite-key: DR:56
   :END:
 
 
@@ -968,9 +968,9 @@ So it is not that right from the beginning a particular potentiality was given. 
 * Question: Sometimes my cousin and I meditate by looking into each other’s eyes, and when we do sometimes we see one another’s faces change and even the hair turns a different colour. I was wondering what this means.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:57
+  :genre: qa
+  :keywords:
+  :cite-key: DR:57
   :END:
 
 
@@ -983,9 +983,9 @@ For two disciples to look at each other and consciously concentrate on the eyes 
 * Question: Does it help you to know what kind of animal you were in your past incarnations, or what kind of person you were?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:58
+  :genre: qa
+  :keywords:
+  :cite-key: DR:58
   :END:
 
 
@@ -1012,9 +1012,9 @@ I wish to say one more thing to my disciples. Now let me brag a little, and you 
 * Question: If a person is a very advanced seeker and develops the ability to see his past incarnations, will this actually hinder his progress? In other words, is it always harmful if you discover you were a thief or something in the past?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:59
+  :genre: qa
+  :keywords:
+  :cite-key: DR:59
   :END:
 
 
@@ -1025,9 +1025,9 @@ I wish to say one more thing to my disciples. Now let me brag a little, and you 
 * Question: If a man dies and he is very fond of a dog or other animal, and if he has compassion for that animal, will this cause him to reincarnate as an animal? I understand that in India while a great sage was meditating in the woods something happened to a small lamb. He took care of it and became very fond of it and, as a result, in his next incarnation he was a lamb.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:60
+  :genre: qa
+  :keywords:
+  :cite-key: DR:60
   :END:
 
 
@@ -1040,9 +1040,9 @@ So if you show compassion to someone, that does not mean that you are going to b
 * Question: Can the soul of a person take an animal form in its next incarnation after it has been a human being in this incarnation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DR:61
+  :genre: qa
+  :keywords:
+  :cite-key: DR:61
   :END:
 
 

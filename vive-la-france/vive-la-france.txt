@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 757
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1989
-  :PUBLISHER:
-  :CITE-KEY: VLF
-  :GENRE: song
+  :book-number: 757
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1989
+  :publisher:
+  :cite-key: VLF
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: VLF:1e1
+  :genre: note
+  :cite-key: VLF:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: VLF:1e2
+  :genre: note
+  :cite-key: VLF:1e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Je Vis Pour Toi Seul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 11-08-1981
-  :CITE-KEY: VLF:1
+  :cite-key: VLF:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Mon Seigneur de Satisfaction Supreme.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 11-08-1981
-  :CITE-KEY: VLF:2
+  :cite-key: VLF:2
   :END:
 
 #+BEGIN_VERSE
@@ -77,10 +77,10 @@ My Lord of Satisfaction Supreme.
 * Ecoutez-Moi, Ecoutez-Moi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 21-09-1984
-  :CITE-KEY: VLF:3
+  :cite-key: VLF:3
   :END:
 
 #+BEGIN_VERSE
@@ -97,10 +97,10 @@ Dharani jagiche ese khele
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 21-09-1984
-  :CITE-KEY: VLF:4
+  :cite-key: VLF:4
   :END:
 
 #+BEGIN_VERSE
@@ -119,10 +119,10 @@ Smiling and sporting, the world is awakening.
 * Je Connais
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:5
+  :cite-key: VLF:5
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ Hetha shudhu bibishika chechamichi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:6
+  :cite-key: VLF:6
   :END:
 
 #+BEGIN_VERSE
@@ -157,10 +157,10 @@ Frightening and strangling clamour.
 * Je Ne Sais Rien
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:7
+  :cite-key: VLF:7
   :END:
 
 #+BEGIN_VERSE
@@ -173,10 +173,10 @@ Tai mama priyatama chale more sathe niye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:8
+  :cite-key: VLF:8
   :END:
 
 #+BEGIN_VERSE
@@ -191,10 +191,10 @@ Takes me with Him wherever He goes.
 * Je Ne Parle Pas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:9
+  :cite-key: VLF:9
   :END:
 
 #+BEGIN_VERSE
@@ -207,10 +207,10 @@ Tai tanu prana mane dibanishi shanti prabha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:10
+  :cite-key: VLF:10
   :END:
 
 #+BEGIN_VERSE
@@ -225,10 +225,10 @@ Are flooded with peace and light.
 * Pas Ici.. La-bas.. Hetha Shudhu Dhula
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:11
+  :cite-key: VLF:11
   :END:
 
 #+BEGIN_VERSE
@@ -243,10 +243,10 @@ Hotha paramer abha
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:12
+  :cite-key: VLF:12
   :END:
 
 #+BEGIN_VERSE
@@ -262,10 +262,10 @@ There is the Light of the Absolute Supreme.
 * Bidai, Bidai, Au Revoir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:13
+  :cite-key: VLF:13
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ Ghume jagarane mukta duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 02-10-1984
-  :CITE-KEY: VLF:14
+  :cite-key: VLF:14
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Wide open is our heart-door.
 * Dak Eseche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:15
+  :cite-key: VLF:15
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ L'Appel du Seigneur.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:16
+  :cite-key: VLF:16
   :END:
 
 #+BEGIN_VERSE
@@ -334,10 +334,10 @@ Lord’s Supreme Call.
 * Bonjour, Bon Apres-Midi, Bonsoir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:17
+  :cite-key: VLF:17
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Bonne nuit, bonne nuit, bonne nuit.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:18
+  :cite-key: VLF:18
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ Good night, good night, good night.
 * La Verite Est En Tout (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:19
+  :cite-key: VLF:19
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ Mais l’amour est tout.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:20
+  :cite-key: VLF:20
   :END:
 
 #+BEGIN_VERSE
@@ -404,10 +404,10 @@ But love is all.
 * Aujourd’hui
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:21
+  :cite-key: VLF:21
   :END:
 
 #+BEGIN_VERSE
@@ -422,10 +422,10 @@ Dans l’eclat de Sa Compassion.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:22
+  :cite-key: VLF:22
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ With His Compassion-Ray.
 * Lorsque le Pouvoir de L’Amour
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:23
+  :cite-key: VLF:23
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ L’homme aura un nom nouveau:
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:24
+  :cite-key: VLF:24
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ God.
 * Le Temps Est Mouvement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:25
+  :cite-key: VLF:25
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ L’amour est perfection.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:26
+  :cite-key: VLF:26
   :END:
 
 #+BEGIN_VERSE
@@ -513,10 +513,10 @@ Love is perfection.
 * Ma Capacite Est L’Absence de Desir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:27
+  :cite-key: VLF:27
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ La capacite de Dieu est l’amour.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:28
+  :cite-key: VLF:28
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ God’s qualification is Love.
 * La Foi Du Coeur Propose
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:29
+  :cite-key: VLF:29
   :END:
 
 #+BEGIN_VERSE
@@ -562,10 +562,10 @@ Le doute du mental oppose.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:30
+  :cite-key: VLF:30
   :END:
 
 #+BEGIN_VERSE
@@ -579,10 +579,10 @@ The doubt of the mind opposes.
 * Le Doute Humain Voyage Vite, Mais La
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:31
+  :cite-key: VLF:31
   :END:
 
 #+BEGIN_VERSE
@@ -595,10 +595,10 @@ Mais la grace divine le rattrape toujours.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:32
+  :cite-key: VLF:32
   :END:
 
 #+BEGIN_VERSE
@@ -612,10 +612,10 @@ Yet the divine Grace overtakes it.
 * L'Aspiration Apparait Rapidement
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:33
+  :cite-key: VLF:33
   :END:
 
 #+BEGIN_VERSE
@@ -628,10 +628,10 @@ Le desir disparait lentement.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:34
+  :cite-key: VLF:34
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ When desire's existence slowly expires.
 * La Sincerite Protege Notre Vie. La Purete
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:35
+  :cite-key: VLF:35
   :END:
 
 #+BEGIN_VERSE
@@ -661,10 +661,10 @@ La purete la perfectionne.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:36
+  :cite-key: VLF:36
   :END:
 
 #+BEGIN_VERSE
@@ -678,10 +678,10 @@ Purity is our life's perfector.
 * Aimer Dieu Est Une Opportunite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:37
+  :cite-key: VLF:37
   :END:
 
 #+BEGIN_VERSE
@@ -694,10 +694,10 @@ Etre aime par Lui est une necessite.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:38
+  :cite-key: VLF:38
   :END:
 
 #+BEGIN_VERSE
@@ -711,10 +711,10 @@ And necessity means to be loved by God.
 * Celui Qui Aime Ne Vieillit Jamais
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:39
+  :cite-key: VLF:39
   :END:
 
 #+BEGIN_VERSE
@@ -727,10 +727,10 @@ Dieu en est la preuve eclatante.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:40
+  :cite-key: VLF:40
   :END:
 
 #+BEGIN_VERSE
@@ -744,10 +744,10 @@ God is a shining example.
 * L'Effort Humain Est Necessaire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:41
+  :cite-key: VLF:41
   :END:
 
 #+BEGIN_VERSE
@@ -760,10 +760,10 @@ La grace divine est indispensable.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:42
+  :cite-key: VLF:42
   :END:
 
 #+BEGIN_VERSE
@@ -777,10 +777,10 @@ God’s Grace is indispensable.
 * L'Ame Est Preparation
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:43
+  :cite-key: VLF:43
   :END:
 
 #+BEGIN_VERSE
@@ -794,10 +794,10 @@ Le temps est perfection.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:44
+  :cite-key: VLF:44
   :END:
 
 #+BEGIN_VERSE
@@ -812,10 +812,10 @@ Time is perfection.
 * La Vie Est L'Ecole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:45
+  :cite-key: VLF:45
   :END:
 
 #+BEGIN_VERSE
@@ -829,10 +829,10 @@ La compassion divine est le professeur.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:46
+  :cite-key: VLF:46
   :END:
 
 #+BEGIN_VERSE
@@ -847,10 +847,10 @@ God’s Compassion is the Teacher.
 * L'Experience Humaine Inclut Et Exclut
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:47
+  :cite-key: VLF:47
   :END:
 
 #+BEGIN_VERSE
@@ -863,10 +863,10 @@ L'experience divine inclut et conclut.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:48
+  :cite-key: VLF:48
   :END:
 
 #+BEGIN_VERSE
@@ -880,10 +880,10 @@ Divine experience includes and concludes.
 * La Conscience Nourrit La Confiance
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:49
+  :cite-key: VLF:49
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ L’action nourrit Dieu.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:50
+  :cite-key: VLF:50
   :END:
 
 #+BEGIN_VERSE
@@ -915,10 +915,10 @@ Action feeds God.
 * Le Grand Homme Desire Apparaitre
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:51
+  :cite-key: VLF:51
   :END:
 
 #+BEGIN_VERSE
@@ -931,10 +931,10 @@ L’homme de Dieu aspire a devenir.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:52
+  :cite-key: VLF:52
   :END:
 
 #+BEGIN_VERSE
@@ -948,10 +948,10 @@ A God-man aspires to become.
 * La Verite Est En Tout (1)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:53
+  :cite-key: VLF:53
   :END:
 
 #+BEGIN_VERSE
@@ -964,10 +964,10 @@ Mais l’amour est tout.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:54
+  :cite-key: VLF:54
   :END:
 
 #+BEGIN_VERSE
@@ -981,10 +981,10 @@ But love is all.
 * Mon Coeur Aime Celui Qui Aime Dieu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:55
+  :cite-key: VLF:55
   :END:
 
 #+BEGIN_VERSE
@@ -999,10 +999,10 @@ Qui aime Dieu sans en rien attendre.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:56
+  :cite-key: VLF:56
   :END:
 
 #+BEGIN_VERSE
@@ -1018,10 +1018,10 @@ Without expecting anything from Him.
 * La Lumiere Detruit L'Obscurite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:57
+  :cite-key: VLF:57
   :END:
 
 #+BEGIN_VERSE
@@ -1035,10 +1035,10 @@ La realisation detruit l'ignorance.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:58
+  :cite-key: VLF:58
   :END:
 
 #+BEGIN_VERSE
@@ -1053,10 +1053,10 @@ Realisation destroys ignorance.
 * Ma Confiance Exterieure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:59
+  :cite-key: VLF:59
   :END:
 
 #+BEGIN_VERSE
@@ -1069,10 +1069,10 @@ Est ma soumission interieure.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:60
+  :cite-key: VLF:60
   :END:
 
 #+BEGIN_VERSE
@@ -1086,10 +1086,10 @@ Is my inner surrender.
 * Je Parle a Dieu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:61
+  :cite-key: VLF:61
   :END:
 
 #+BEGIN_VERSE
@@ -1105,10 +1105,10 @@ Est devenue synonyme de liberte parfaite.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:62
+  :cite-key: VLF:62
   :END:
 
 #+BEGIN_VERSE
@@ -1125,10 +1125,10 @@ Is perfect freedom.
 * Dormez
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:63
+  :cite-key: VLF:63
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Dieu est a vous.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:64
+  :cite-key: VLF:64
   :END:
 
 #+BEGIN_VERSE
@@ -1170,10 +1170,10 @@ God is of you.
 * Bonne Nuit
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:65
+  :cite-key: VLF:65
   :END:
 
 #+BEGIN_VERSE
@@ -1188,10 +1188,10 @@ Moder lagiya dyuloke bhuloke samatar ekatar bhui
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:66
+  :cite-key: VLF:66
   :END:
 
 #+BEGIN_VERSE
@@ -1209,10 +1209,10 @@ The land of equality and oneness.
 * Vive La France!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:67
+  :cite-key: VLF:67
   :END:
 
 #+BEGIN_VERSE
@@ -1231,10 +1231,10 @@ Your “Marseillaise” has won the cosmos-soul.
 * Une Simple Verite: Dieu Existe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:68
+  :cite-key: VLF:68
   :END:
 
 #+BEGIN_VERSE
@@ -1252,10 +1252,10 @@ Et pour Dieu seul.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:69
+  :cite-key: VLF:69
   :END:
 
 #+BEGIN_VERSE
@@ -1274,10 +1274,10 @@ And I am for God alone.
 * O Comment Pourrais-Je Vivre Seul Avec
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:70
+  :cite-key: VLF:70
   :END:
 
 #+BEGIN_VERSE
@@ -1292,10 +1292,10 @@ Ma vie ne serait qu'une plainte amere.
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:71
+  :cite-key: VLF:71
   :END:
 
 #+BEGIN_VERSE
@@ -1311,10 +1311,10 @@ My life a barren sigh.
 * O Seigneur, Ou Est La Verite?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:72
+  :cite-key: VLF:72
   :END:
 
 #+BEGIN_VERSE
@@ -1329,10 +1329,10 @@ Qui est mon Bien-Aime, qui?
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:73
+  :cite-key: VLF:73
   :END:
 
 #+BEGIN_VERSE
@@ -1348,10 +1348,10 @@ Who is my Beloved, who?
 * Truth Is in All (5)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:74
+  :cite-key: VLF:74
   :END:
 
 #+BEGIN_VERSE
@@ -1365,10 +1365,10 @@ En tout est la Verite, mais l'amour est Universel.
 * My Own Gratitude-Heart (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:75
+  :cite-key: VLF:75
   :END:
 
 #+BEGIN_VERSE
@@ -1382,10 +1382,10 @@ Seul, mon coeur de gratitude est ce qui compte.
 * My Heart Is My Obedience-Promise (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:76
+  :cite-key: VLF:76
   :END:
 
 #+BEGIN_VERSE
@@ -1400,10 +1400,10 @@ D'obeissance envers Vous.
 * Be Always a Candidate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: fr
   :DATE: None
-  :CITE-KEY: VLF:77
+  :cite-key: VLF:77
   :END:
 
 #+BEGIN_VERSE
@@ -1419,10 +1419,10 @@ Au Sourire de Satisfaction de Dieu.
 * France: Revolution and Evolution
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: VLF:78
+  :cite-key: VLF:78
   :END:
 
 #+BEGIN_VERSE

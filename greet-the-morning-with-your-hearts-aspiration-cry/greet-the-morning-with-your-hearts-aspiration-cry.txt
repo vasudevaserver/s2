@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1063
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: GMAC
-  :GENRE: song
+  :book-number: 1063
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: GMAC
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GMAC:1e1
+  :genre: note
+  :cite-key: GMAC:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GMAC:1e2
+  :genre: note
+  :cite-key: GMAC:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Greet the Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:1
+  :cite-key: GMAC:1
   :END:
 
 #+BEGIN_VERSE
@@ -62,10 +62,10 @@ At night, God will grant you His Eternity’s Love
 * The Inner Battle
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:2
+  :cite-key: GMAC:2
   :END:
 
 #+BEGIN_VERSE
@@ -80,10 +80,10 @@ Into a God-surrendered song.
 * God Will Choose Your Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:3
+  :cite-key: GMAC:3
   :END:
 
 #+BEGIN_VERSE
@@ -99,10 +99,10 @@ If you just choose your soul
 * The Outer Success-Road
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:4
+  :cite-key: GMAC:4
   :END:
 
 #+BEGIN_VERSE
@@ -118,10 +118,10 @@ Is long and full of illumination.
 * Only One Song to Sing
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:5
+  :cite-key: GMAC:5
   :END:
 
 #+BEGIN_VERSE
@@ -137,10 +137,10 @@ My mind’s surrender-dance.
 * Success Is Measured
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:6
+  :cite-key: GMAC:6
   :END:
 
 #+BEGIN_VERSE
@@ -156,10 +156,10 @@ By the inner peace.
 * Each Time I Pray, I See Inside My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:7
+  :cite-key: GMAC:7
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ I see inside my heart
 * My Lord Supreme Asks Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:8
+  :cite-key: GMAC:8
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ To prove to Him that I love Him and need Him.
 * God the Powerful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:9
+  :cite-key: GMAC:9
   :END:
 
 #+BEGIN_VERSE
@@ -218,10 +218,10 @@ God the Peaceful.
 * The Heart That Loves God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:10
+  :cite-key: GMAC:10
   :END:
 
 #+BEGIN_VERSE
@@ -236,10 +236,10 @@ Both in Heaven and on earth.
 * God’s Pride Knows No Bounds
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:11
+  :cite-key: GMAC:11
   :END:
 
 #+BEGIN_VERSE
@@ -254,10 +254,10 @@ A fountain-sweetness-song.
 * The Beauty of the Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:12
+  :cite-key: GMAC:12
   :END:
 
 #+BEGIN_VERSE
@@ -271,10 +271,10 @@ The beauty of the evening purifies us.
 * What I Need Is Indomitable Strength
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:13
+  :cite-key: GMAC:13
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ What I need is inimitable surrender-joy
 * There Are Many Boats That Sail Fast
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 05-10-1994
-  :CITE-KEY: GMAC:14
+  :cite-key: GMAC:14
   :END:
 
 #+BEGIN_VERSE
@@ -309,10 +309,10 @@ Always sails the fastest.
 * God Wants From Us
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:15
+  :cite-key: GMAC:15
   :END:
 
 #+BEGIN_VERSE
@@ -328,10 +328,10 @@ Gratitude-gift-offerings.
 * Where Is My Mind’s Freedom?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:16
+  :cite-key: GMAC:16
   :END:
 
 #+BEGIN_VERSE
@@ -346,10 +346,10 @@ It is inside my life’s surrender.
 * I Have Come to Learn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:17
+  :cite-key: GMAC:17
   :END:
 
 #+BEGIN_VERSE
@@ -364,10 +364,10 @@ Has no final note.
 * A Surrender-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:18
+  :cite-key: GMAC:18
   :END:
 
 #+BEGIN_VERSE
@@ -381,10 +381,10 @@ A gratitude-heart expands.
 * My Mind Wants Success-Procession
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:19
+  :cite-key: GMAC:19
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ My heart wants progress-acceleration.
 * No Mind-Power, No Success
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:20
+  :cite-key: GMAC:20
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ No heart-power, no progress.
 * The Aspiration-Heart Began
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:21
+  :cite-key: GMAC:21
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ The dedication-life has to complete.
 * In the Morning I Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:22
+  :cite-key: GMAC:22
   :END:
 
 #+BEGIN_VERSE
@@ -451,10 +451,10 @@ I meditate on God’s Forgiveness-Heart.
 * You May Not Be Thinking of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 06-10-1994
-  :CITE-KEY: GMAC:23
+  :cite-key: GMAC:23
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ For your perfection-life.
 * Prayer Is My Heart-Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-10-1994
-  :CITE-KEY: GMAC:24
+  :cite-key: GMAC:24
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Meditation is my soul-dance.
 * No Love-Devotion-Surrender-Stride
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-10-1994
-  :CITE-KEY: GMAC:25
+  :cite-key: GMAC:25
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Can ever be too short.
 * A Dance of Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-10-1994
-  :CITE-KEY: GMAC:26
+  :cite-key: GMAC:26
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ How can your life be a song of peace?
 * Each Prayer Goes Up
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-10-1994
-  :CITE-KEY: GMAC:27
+  :cite-key: GMAC:27
   :END:
 
 #+BEGIN_VERSE
@@ -541,10 +541,10 @@ Each meditation brings down
 * As Every Day My LIfe Grows Shorter
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 08-10-1994
-  :CITE-KEY: GMAC:28
+  :cite-key: GMAC:28
   :END:
 
 #+BEGIN_VERSE
@@ -559,10 +559,10 @@ My gratitude-heart becomes longer.
 * My Soul Every Day Teaches My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:29
+  :cite-key: GMAC:29
   :END:
 
 #+BEGIN_VERSE
@@ -576,10 +576,10 @@ A new and soulful tolerance-song.
 * Once God Becomes Real to You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:30
+  :cite-key: GMAC:30
   :END:
 
 #+BEGIN_VERSE
@@ -594,10 +594,10 @@ A God-preoccupied heart.
 * The Success-Trumpet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:31
+  :cite-key: GMAC:31
   :END:
 
 #+BEGIN_VERSE
@@ -612,10 +612,10 @@ But to play the progress-flute.
 * Do You Want To Be Happy?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:32
+  :cite-key: GMAC:32
   :END:
 
 #+BEGIN_VERSE
@@ -630,10 +630,10 @@ Permanent invitation.
 * Do You Want To Make God Really Happy?
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:33
+  :cite-key: GMAC:33
   :END:
 
 #+BEGIN_VERSE
@@ -649,10 +649,10 @@ Of becoming absolutely perfect.
 * Two Instruments I Practise Every Morning
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 09-10-1994
-  :CITE-KEY: GMAC:34
+  :cite-key: GMAC:34
   :END:
 
 #+BEGIN_VERSE
@@ -666,10 +666,10 @@ Mind-inspiration-piano and heart-aspiration-flute.
 * My Lord, May My Life Begin Every Day
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:35
+  :cite-key: GMAC:35
   :END:
 
 #+BEGIN_VERSE
@@ -684,10 +684,10 @@ And a dedication-dance.
 * God Smiles at My Readiness
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:36
+  :cite-key: GMAC:36
   :END:
 
 #+BEGIN_VERSE
@@ -702,10 +702,10 @@ God dances in my eagerness.
 * No Speed Limits
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:37
+  :cite-key: GMAC:37
   :END:
 
 #+BEGIN_VERSE
@@ -720,10 +720,10 @@ On my self-transcendence-road.
 * God Sings for Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:38
+  :cite-key: GMAC:38
   :END:
 
 #+BEGIN_VERSE
@@ -737,10 +737,10 @@ But He enjoys His Compassion-Songs the most.
 * Eventually
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:39
+  :cite-key: GMAC:39
   :END:
 
 #+BEGIN_VERSE
@@ -756,10 +756,10 @@ Of unconditional surrender.
 * My Lord, Do Show Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-10-1994
-  :CITE-KEY: GMAC:40
+  :cite-key: GMAC:40
   :END:
 
 #+BEGIN_VERSE
@@ -773,10 +773,10 @@ My sincerity’s gratitude-heart-sunrise.
 * The Mind’s Obedience-Smile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:41
+  :cite-key: GMAC:41
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ The heart’s oneness-dance is perfect.
 * May My Soul’s Dance Be Heaven’s Gift (2)
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:42
+  :cite-key: GMAC:42
   :END:
 
 #+BEGIN_VERSE
@@ -809,10 +809,10 @@ Earth’s gift to Heaven.
 * May My Heart Never Stop Dreaming
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:43
+  :cite-key: GMAC:43
   :END:
 
 #+BEGIN_VERSE
@@ -827,10 +827,10 @@ My life-transformation-dream.
 * My Prayer-Hands
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:44
+  :cite-key: GMAC:44
   :END:
 
 #+BEGIN_VERSE
@@ -846,10 +846,10 @@ Feel God’s Heart.
 * Today I Have Danced
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:45
+  :cite-key: GMAC:45
   :END:
 
 #+BEGIN_VERSE
@@ -867,10 +867,10 @@ My final unwillingness-life-dance.
 * My Life’s Transformation-Deadline
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:46
+  :cite-key: GMAC:46
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ My life’s transformation-deadline.
 * When I Pray
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:47
+  :cite-key: GMAC:47
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ God gives me the Love of His Heart.
 * In the Morning, God and I Meet Together
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:48
+  :cite-key: GMAC:48
   :END:
 
 #+BEGIN_VERSE
@@ -927,10 +927,10 @@ To exchange our forgiveness and gratitude.
 * A Success-Story of God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:49
+  :cite-key: GMAC:49
   :END:
 
 #+BEGIN_VERSE
@@ -946,10 +946,10 @@ A progress-song of God.
 * You Are Beautiful
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 11-10-1994
-  :CITE-KEY: GMAC:50
+  :cite-key: GMAC:50
   :END:
 
 #+BEGIN_VERSE

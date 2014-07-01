@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0234
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1975
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCFR
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0234
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1975
+  :publisher: Agni Press
+  :cite-key: SCFR
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Sacred Fire
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:1
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The Sacred Fire (cast)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:2
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:2
   :END:
 
 
@@ -111,9 +111,9 @@ John F. Kennedy
 * The Sacred Fire (act I, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:3
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:3
   :END:
 
 
@@ -164,9 +164,9 @@ John F. Kennedy
 * The Sacred Fire (act I, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:4
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:4
   :END:
 
 
@@ -265,9 +265,9 @@ John F. Kennedy
 * The Sacred Fire (act Ii, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:5
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:5
   :END:
 
 
@@ -314,9 +314,9 @@ John F. Kennedy
 * The Sacred Fire (act Ii, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:6
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:6
   :END:
 
 
@@ -355,9 +355,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Ii, Scene 3)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:7
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:7
   :END:
 
 
@@ -456,9 +456,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Ii, Scene 4)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:8
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:8
   :END:
 
 
@@ -499,9 +499,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Ii, Scene 5)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:9
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:9
   :END:
 
 
@@ -604,9 +604,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iii, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:10
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:10
   :END:
 
 
@@ -627,9 +627,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iii, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:11
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:11
   :END:
 
 
@@ -642,9 +642,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iii, Scene 3)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:12
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:12
   :END:
 
 
@@ -665,9 +665,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iv, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:13
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:13
   :END:
 
 
@@ -698,9 +698,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iv, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:14
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:14
   :END:
 
 
@@ -727,9 +727,9 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 * The Sacred Fire (act Iv, Scene 3)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:15
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:15
   :END:
 
 
@@ -848,9 +848,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act V, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:16
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:16
   :END:
 
 
@@ -863,9 +863,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act V, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:17
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:17
   :END:
 
 
@@ -890,9 +890,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act V, Scene 3)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:18
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:18
   :END:
 
 
@@ -925,9 +925,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act V, Scene 4)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:19
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:19
   :END:
 
 
@@ -940,9 +940,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act V, Scene 5)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:20
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:20
   :END:
 
 
@@ -963,9 +963,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act Vi, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:21
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:21
   :END:
 
 
@@ -980,9 +980,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act Vi, Scene 2)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:22
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:22
   :END:
 
 
@@ -995,9 +995,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act Vi, Scene 3)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:23
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:23
   :END:
 
 
@@ -1010,9 +1010,9 @@ I am what you divinely and supremely have made me to be.
 * The Sacred Fire (act Vii, Scene 1)
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SCFR:24
+  :genre: play
+  :keywords:
+  :cite-key: SCFR:24
   :END:
 
 

@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 59
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1974
-  :PUBLISHER:
-  :CITE-KEY: GLL-1
-  :GENRE: song
+  :book-number: 59
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1974
+  :publisher:
+  :cite-key: GLL-1
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:1e1
+  :genre: note
+  :cite-key: GLL:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: GLL:1e2
+  :genre: note
+  :cite-key: GLL:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Ami Gahi Gan Tumi Gaha Bale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:1
+  :cite-key: GLL:1
   :END:
 
 #+BEGIN_VERSE
@@ -64,10 +64,10 @@ Chinmoyi chinmoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:2
+  :cite-key: GLL:2
   :END:
 
 #+BEGIN_VERSE
@@ -90,10 +90,10 @@ And Consciousness-Moon,
 * Alo Alo Alo Mukti Shikha Jwalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:3
+  :cite-key: GLL:3
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Laho amar kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:4
+  :cite-key: GLL:4
   :END:
 
 #+BEGIN_VERSE
@@ -135,10 +135,10 @@ Accept my darkness, bondage, ignorance
 * Asha Nadi Asha Nadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:5
+  :cite-key: GLL:5
   :END:
 
 #+BEGIN_VERSE
@@ -153,10 +153,10 @@ Niye chalo more
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:6
+  :cite-key: GLL:6
   :END:
 
 #+BEGIN_VERSE
@@ -171,10 +171,10 @@ Of Infinity Unknown.
 * Premaloker Kanane Nirabatar Swapane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:7
+  :cite-key: GLL:7
   :END:
 
 #+BEGIN_VERSE
@@ -189,10 +189,10 @@ E hiya alingane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:8
+  :cite-key: GLL:8
   :END:
 
 #+BEGIN_VERSE
@@ -208,10 +208,10 @@ This heart of mine is in Your embrace.
 * Chup Chup Chup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:9
+  :cite-key: GLL:9
   :END:
 
 #+BEGIN_VERSE
@@ -226,10 +226,10 @@ Dyulok bhulok asim sasim mage amar rup
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:10
+  :cite-key: GLL:10
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Are begging for my Transcendental Form.
 * Tomar Adesh Shunbo Ami Shunbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:11
+  :cite-key: GLL:11
   :END:
 
 #+BEGIN_VERSE
@@ -268,10 +268,10 @@ Tomar lagi kandbo ami hasbo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:12
+  :cite-key: GLL:12
   :END:
 
 #+BEGIN_VERSE
@@ -290,10 +290,10 @@ For You, for You, Beloved, only for You.
 * He Karuna Sindhu Ami Taba Bindu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:13
+  :cite-key: GLL:13
   :END:
 
 #+BEGIN_VERSE
@@ -311,10 +311,10 @@ Ananda indu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:14
+  :cite-key: GLL:14
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ O my Moon of Light-Delight.
 * Bedanare Bhule Jabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:15
+  :cite-key: GLL:15
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ Tomar charane pabo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:16
+  :cite-key: GLL:16
   :END:
 
 #+BEGIN_VERSE
@@ -374,10 +374,10 @@ At Your Feet will, before long, be quenched.
 * Ore Amar Deha Ashru Nadir Geha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:17
+  :cite-key: GLL:17
   :END:
 
 #+BEGIN_VERSE
@@ -396,10 +396,10 @@ Bishwa prabhur priya
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:18
+  :cite-key: GLL:18
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ You are the love of the World-Lord.
 * Sure Sure Madhur Sure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:19
+  :cite-key: GLL:19
   :END:
 
 #+BEGIN_VERSE
@@ -441,10 +441,10 @@ Niye jabe amai jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:20
+  :cite-key: GLL:20
   :END:
 
 #+BEGIN_VERSE
@@ -465,10 +465,10 @@ To the shores of the Golden Beyond.
 * Bedanai Bhara Chetana Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:21
+  :cite-key: GLL:21
   :END:
 
 #+BEGIN_VERSE
@@ -485,10 +485,10 @@ Peyechhe ajike trishita paran
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:22
+  :cite-key: GLL:22
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ Has discovered today Nectar-Delight.
 * Nayane Nayane Gopane Gopane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:23
+  :cite-key: GLL:23
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Taba prema lila amar bhubane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:24
+  :cite-key: GLL:24
   :END:
 
 #+BEGIN_VERSE
@@ -547,10 +547,10 @@ Your Love-Play is my world.
 * Saphal Habe Swapan Amar Saphal Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:25
+  :cite-key: GLL:25
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ Jani amar bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:26
+  :cite-key: GLL:26
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ I know, I know.
 * Bandhana Bandhana Bandhana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:27
+  :cite-key: GLL:27
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Mohana mohana mohana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:28
+  :cite-key: GLL:28
   :END:
 
 #+BEGIN_VERSE
@@ -631,10 +631,10 @@ Eternity’s charm, Infinity’s Lustre.
 * Gahana Hiyar Andha Andhar Rati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:29
+  :cite-key: GLL:29
   :END:
 
 #+BEGIN_VERSE
@@ -653,10 +653,10 @@ Mahakaler rupantarer bhati
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:30
+  :cite-key: GLL:30
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ And Eternity’s Transformation-Light.
 * Jago Amar Swapan Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:31
+  :cite-key: GLL:31
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Jago jago jago
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:32
+  :cite-key: GLL:32
   :END:
 
 #+BEGIN_VERSE
@@ -737,10 +737,10 @@ And free mankind from its ignorance-sleep.
 * Sundara Hate Sundara Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:33
+  :cite-key: GLL:33
   :END:
 
 #+BEGIN_VERSE
@@ -761,10 +761,10 @@ Ei jibaner majhe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:34
+  :cite-key: GLL:34
   :END:
 
 #+BEGIN_VERSE
@@ -790,10 +790,10 @@ May I be blessed with the boon to see Thy Face.
 * Tumi Amai Diyechho Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:35
+  :cite-key: GLL:35
   :END:
 
 #+BEGIN_VERSE
@@ -810,10 +810,10 @@ Tumi amar jenechhi ma chirantaner rani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:36
+  :cite-key: GLL:36
   :END:
 
 #+BEGIN_VERSE
@@ -835,10 +835,10 @@ O Queen of the Eternal.
 * Prabhu Tomar Hasi Bhalobasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:37
+  :cite-key: GLL:37
   :END:
 
 #+BEGIN_VERSE
@@ -860,10 +860,10 @@ Tumi amar parichoyer banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:38
+  :cite-key: GLL:38
   :END:
 
 #+BEGIN_VERSE
@@ -887,10 +887,10 @@ You are the Flute of my existence.
 * Tamasa Rate Nayan Pate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:39
+  :cite-key: GLL:39
   :END:
 
 #+BEGIN_VERSE
@@ -909,10 +909,10 @@ Bhasiye jena na jai srote
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:40
+  :cite-key: GLL:40
   :END:
 
 #+BEGIN_VERSE
@@ -933,10 +933,10 @@ By the turbulent currents of life.
 * Ore Mor Kheya Ore Mor Neye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:41
+  :cite-key: GLL:41
   :END:
 
 #+BEGIN_VERSE
@@ -957,10 +957,10 @@ Jani aji ami jani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:42
+  :cite-key: GLL:42
   :END:
 
 #+BEGIN_VERSE
@@ -983,10 +983,10 @@ My all in You I lose.
 * Amar Bhabana Amar Kamana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:43
+  :cite-key: GLL:43
   :END:
 
 #+BEGIN_VERSE
@@ -1004,10 +1004,10 @@ Nai nai ar nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:44
+  :cite-key: GLL:44
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ No more I see, no more I feel.
 * Jara Jabe Chale Chhale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:45
+  :cite-key: GLL:45
   :END:
 
 #+BEGIN_VERSE
@@ -1049,10 +1049,10 @@ Rupantarer banshi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:46
+  :cite-key: GLL:46
   :END:
 
 #+BEGIN_VERSE
@@ -1072,10 +1072,10 @@ And the Flute of fire-pure Transformation.
 * Jao Chale Jao Chale Jao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:47
+  :cite-key: GLL:47
   :END:
 
 #+BEGIN_VERSE
@@ -1092,10 +1092,10 @@ Mor lagi asimer bhor
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:48
+  :cite-key: GLL:48
   :END:
 
 #+BEGIN_VERSE
@@ -1114,10 +1114,10 @@ For me the dawn of Infinity.
 * Rakhal Raja Rakhal Raja
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:49
+  :cite-key: GLL:49
   :END:
 
 #+BEGIN_VERSE
@@ -1133,10 +1133,10 @@ Tomar dhenu nirabatar asim kole raje
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:50
+  :cite-key: GLL:50
   :END:
 
 #+BEGIN_VERSE
@@ -1161,10 +1161,10 @@ I see Your divine cow grazing in the lap of Infinity’s Silence.
 * Sundaratama Antare Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:51
+  :cite-key: GLL:51
   :END:
 
 #+BEGIN_VERSE
@@ -1185,10 +1185,10 @@ Ogo sundara hiranmayer alo alo alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:52
+  :cite-key: GLL:52
   :END:
 
 #+BEGIN_VERSE
@@ -1217,10 +1217,10 @@ O Light of the Supreme!
 * Tumi Shudhu Bandhu Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:53
+  :cite-key: GLL:53
   :END:
 
 #+BEGIN_VERSE
@@ -1236,10 +1236,10 @@ Jiban bhare tomar joya gan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:54
+  :cite-key: GLL:54
   :END:
 
 #+BEGIN_VERSE
@@ -1259,10 +1259,10 @@ May I sing the Song of Your Victory
 * Jibana Nadi Tire Dhire Dhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:55
+  :cite-key: GLL:55
   :END:
 
 #+BEGIN_VERSE
@@ -1279,10 +1279,10 @@ Tomai nami
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:56
+  :cite-key: GLL:56
   :END:
 
 #+BEGIN_VERSE
@@ -1302,10 +1302,10 @@ And to You I bow and bow.
 * Shudhu Seidin Tomai Dekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:57
+  :cite-key: GLL:57
   :END:
 
 #+BEGIN_VERSE
@@ -1326,10 +1326,10 @@ Barai bedan sure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:58
+  :cite-key: GLL:58
   :END:
 
 #+BEGIN_VERSE
@@ -1349,10 +1349,10 @@ The bird of my heart is crying and trembling
 * Kalo Baran Nai Je Kanu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:59
+  :cite-key: GLL:59
   :END:
 
 #+BEGIN_VERSE
@@ -1369,10 +1369,10 @@ Sabar sathe habe amar naba parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:60
+  :cite-key: GLL:60
   :END:
 
 #+BEGIN_VERSE
@@ -1396,10 +1396,10 @@ With the world at large.
 * Dake Amai Dake Dake Akash Dake Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:61
+  :cite-key: GLL:61
   :END:
 
 #+BEGIN_VERSE
@@ -1417,10 +1417,10 @@ Charidike ekiy dhwani bela baye jai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:62
+  :cite-key: GLL:62
   :END:
 
 #+BEGIN_VERSE
@@ -1444,10 +1444,10 @@ Alas, the Boat of Time sails on.
 * Shanti Shanti Hridaye Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:63
+  :cite-key: GLL:63
   :END:
 
 #+BEGIN_VERSE
@@ -1464,10 +1464,10 @@ Akuti amar taba kripa nire nirabadhi santare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:64
+  :cite-key: GLL:64
   :END:
 
 #+BEGIN_VERSE
@@ -1490,10 +1490,10 @@ My aspiration-flames ever swim across
 * Kalpana Go Kalpana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:65
+  :cite-key: GLL:65
   :END:
 
 #+BEGIN_VERSE
@@ -1516,10 +1516,10 @@ Kalpana go kalpana
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:66
+  :cite-key: GLL:66
   :END:
 
 #+BEGIN_VERSE
@@ -1546,10 +1546,10 @@ Imagination, O Imagination!
 * Na Pari Tomai Bahite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:67
+  :cite-key: GLL:67
   :END:
 
 #+BEGIN_VERSE
@@ -1564,10 +1564,10 @@ Pari shudhu hai bandhite
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:68
+  :cite-key: GLL:68
   :END:
 
 #+BEGIN_VERSE
@@ -1583,10 +1583,10 @@ Alas, only bind You I can.
 * Sukh Chahina Man Chahina
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:69
+  :cite-key: GLL:69
   :END:
 
 #+BEGIN_VERSE
@@ -1601,10 +1601,10 @@ Mugdha ami hoy jena ma tomar joya gane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:70
+  :cite-key: GLL:70
   :END:
 
 #+BEGIN_VERSE
@@ -1624,10 +1624,10 @@ But I wish only to be enamoured of Your Victory.
 * Shesh Kathati Shunbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:71
+  :cite-key: GLL:71
   :END:
 
 #+BEGIN_VERSE
@@ -1642,10 +1642,10 @@ Sukher dine tomai bhule tomar prane hani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:72
+  :cite-key: GLL:72
   :END:
 
 #+BEGIN_VERSE
@@ -1666,10 +1666,10 @@ I hurt Your Heart.
 * Je Besechhe Bhalo Ei Dharanire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:73
+  :cite-key: GLL:73
   :END:
 
 #+BEGIN_VERSE
@@ -1688,10 +1688,10 @@ Prabhur charane giye
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:74
+  :cite-key: GLL:74
   :END:
 
 #+BEGIN_VERSE
@@ -1712,10 +1712,10 @@ He will go and stand at the Feet
 * Ar Katokal Kandbo Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:75
+  :cite-key: GLL:75
   :END:
 
 #+BEGIN_VERSE
@@ -1734,10 +1734,10 @@ Tumi amar bishwa mata Jishur jeman Meri
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:76
+  :cite-key: GLL:76
   :END:
 
 #+BEGIN_VERSE
@@ -1759,10 +1759,10 @@ So are You my World-Mother.
 * Tumi Sundara Purushottama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:77
+  :cite-key: GLL:77
   :END:
 
 #+BEGIN_VERSE
@@ -1785,10 +1785,10 @@ Amiya karuna das
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:78
+  :cite-key: GLL:78
   :END:
 
 #+BEGIN_VERSE
@@ -1812,10 +1812,10 @@ I am the slave of Your Nectar-Compassion.
 * Swadhin Ami Amar Prane Sabar Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:79
+  :cite-key: GLL:79
   :END:
 
 #+BEGIN_VERSE
@@ -1830,10 +1830,10 @@ Agyanatar andhar nishai sabai shajyashayi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:80
+  :cite-key: GLL:80
   :END:
 
 #+BEGIN_VERSE
@@ -1852,10 +1852,10 @@ In the night of ignorance.
 * Nai Je Kichui Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:81
+  :cite-key: GLL:81
   :END:
 
 #+BEGIN_VERSE
@@ -1875,10 +1875,10 @@ Nai je kichhui nai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:82
+  :cite-key: GLL:82
   :END:
 
 #+BEGIN_VERSE
@@ -1903,10 +1903,10 @@ I have nothing.
 * Ekti Katha Ekti Sur Eki Jhankar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:83
+  :cite-key: GLL:83
   :END:
 
 #+BEGIN_VERSE
@@ -1929,10 +1929,10 @@ Prane amar rekhona ar ektu andhar kalo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:84
+  :cite-key: GLL:84
   :END:
 
 #+BEGIN_VERSE
@@ -1965,10 +1965,10 @@ In me, I pray, keep not an iota of gloom.
 * Bharat Dulal Bharat Dulali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:85
+  :cite-key: GLL:85
   :END:
 
 #+BEGIN_VERSE
@@ -1991,10 +1991,10 @@ Bharat hridaye phutibe kanti
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:86
+  :cite-key: GLL:86
   :END:
 
 #+BEGIN_VERSE
@@ -2022,10 +2022,10 @@ In the love of India’s heart.
 * Aghat Hani Bare Bare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:87
+  :cite-key: GLL:87
   :END:
 
 #+BEGIN_VERSE
@@ -2040,10 +2040,10 @@ He bidhata amar majhe tader hauk joy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:88
+  :cite-key: GLL:88
   :END:
 
 #+BEGIN_VERSE
@@ -2066,10 +2066,10 @@ May their victory alone be proclaimed
 * Amar Sakal Asha Churna Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:89
+  :cite-key: GLL:89
   :END:
 
 #+BEGIN_VERSE
@@ -2088,10 +2088,10 @@ Alor mahotsabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:90
+  :cite-key: GLL:90
   :END:
 
 #+BEGIN_VERSE
@@ -2112,10 +2112,10 @@ The bird of my heart is dancing today
 * Tomar Hasi Dekhte Giye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:91
+  :cite-key: GLL:91
   :END:
 
 #+BEGIN_VERSE
@@ -2130,10 +2130,10 @@ Tumi bina sabi timir amar manas pure
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:92
+  :cite-key: GLL:92
   :END:
 
 #+BEGIN_VERSE
@@ -2154,10 +2154,10 @@ It is all darkness.
 * Hari Jadi Ma Tor Kache Seito Amar Joy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:93
+  :cite-key: GLL:93
   :END:
 
 #+BEGIN_VERSE
@@ -2174,10 +2174,10 @@ Hale jani pabo ami shreshtha puraskar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:94
+  :cite-key: GLL:94
   :END:
 
 #+BEGIN_VERSE
@@ -2200,10 +2200,10 @@ I know, my greatest reward I shall receive.
 * Jatri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:95
+  :cite-key: GLL:95
   :END:
 
 #+BEGIN_VERSE
@@ -2225,10 +2225,10 @@ Phiribo amara rupantarer bindu
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:96
+  :cite-key: GLL:96
   :END:
 
 #+BEGIN_VERSE
@@ -2259,10 +2259,10 @@ We shall return: we, the drops and flames
 * Bidai Bela Hiyar Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: None
-  :CITE-KEY: GLL:97
+  :cite-key: GLL:97
   :END:
 
 #+BEGIN_VERSE
@@ -2283,10 +2283,10 @@ Jukta moder bhabe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: None
-  :CITE-KEY: GLL:98
+  :cite-key: GLL:98
   :END:
 
 #+BEGIN_VERSE

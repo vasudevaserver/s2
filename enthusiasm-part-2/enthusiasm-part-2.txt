@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1383
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: ES-2
-  :GENRE: song
+  :book-number: 1383
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: ES-2
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:311e1
+  :genre: note
+  :cite-key: ES:311e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ES:311e2
+  :genre: note
+  :cite-key: ES:311e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * God’s Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:311
+  :cite-key: ES:311
   :END:
 
 #+BEGIN_VERSE
@@ -61,10 +61,10 @@ God’s Life is my life’s
 * The Base Vital World
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:312
+  :cite-key: ES:312
   :END:
 
 #+BEGIN_VERSE
@@ -78,10 +78,10 @@ The infernal world invades.
 * The Human in Me Prays to God
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:313
+  :cite-key: ES:313
   :END:
 
 #+BEGIN_VERSE
@@ -97,10 +97,10 @@ The divine in me prays to God,
 * Without My Soul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:314
+  :cite-key: ES:314
   :END:
 
 #+BEGIN_VERSE
@@ -114,10 +114,10 @@ Without my heart, my life is naughty.
 * Behold
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:315
+  :cite-key: ES:315
   :END:
 
 #+BEGIN_VERSE
@@ -131,10 +131,10 @@ Behold, my God-crying heart sails.
 * Oh, When I Tease My Lord Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:316
+  :cite-key: ES:316
   :END:
 
 #+BEGIN_VERSE
@@ -148,10 +148,10 @@ He shares with me His funniest Dream.
 * The Human in Me Is a Desire-Knife
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:317
+  :cite-key: ES:317
   :END:
 
 #+BEGIN_VERSE
@@ -165,10 +165,10 @@ The divine in me is a nectar-life.
 * God’s Compassion-Eye Cares
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 29-11-2000
-  :CITE-KEY: ES:318
+  :cite-key: ES:318
   :END:
 
 #+BEGIN_VERSE
@@ -182,10 +182,10 @@ God’s Oneness-Heart shares.
 * Man Gives Then Takes
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:319
+  :cite-key: ES:319
   :END:
 
 #+BEGIN_VERSE
@@ -199,10 +199,10 @@ God smiles, then slakes.
 * Never Be a Zero
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:320
+  :cite-key: ES:320
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Be a service-hero.
 * Worries Churn
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:321
+  :cite-key: ES:321
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Suspicions burn.
 * My Doubt Is My Mind-Slavery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:322
+  :cite-key: ES:322
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ My faith is my heart-bravery.
 * My Talking Mind Is a Hopeless Hope
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:323
+  :cite-key: ES:323
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ My crying heart is my telescope.
 * My Lord Quickly Appears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:324
+  :cite-key: ES:324
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ To watch my golden tears.
 * I Know Below, Above
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:325
+  :cite-key: ES:325
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ My Lord is all I love.
 * God Asks Me to Show Him
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:326
+  :cite-key: ES:326
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ Before He carries my life to my Goal.
 * God Asks Me to Steal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:327
+  :cite-key: ES:327
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ His Heart’s Oneness-Thrill.
 * May I Have a God-Beauty in My Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 12-12-2000
-  :CITE-KEY: ES:328
+  :cite-key: ES:328
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ May I have a God-Fragrance in my heart.
 * No Dream: My Supreme Himself
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:329
+  :cite-key: ES:329
   :END:
 
 #+BEGIN_VERSE
@@ -371,10 +371,10 @@ My Supreme Himself wants me to be
 * No Dream: I Am Chosen
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:330
+  :cite-key: ES:330
   :END:
 
 #+BEGIN_VERSE
@@ -390,10 +390,10 @@ By my Lord Supreme.
 * I Proudly Dare to Believe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:331
+  :cite-key: ES:331
   :END:
 
 #+BEGIN_VERSE
@@ -407,10 +407,10 @@ Therefore, I am under God’s Care.
 * Be Pure in Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:332
+  :cite-key: ES:332
   :END:
 
 #+BEGIN_VERSE
@@ -424,10 +424,10 @@ Final victory shall be yours, no lasting failure.
 * God Wants Me to Keep Open
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:333
+  :cite-key: ES:333
   :END:
 
 #+BEGIN_VERSE
@@ -442,10 +442,10 @@ So that He can give me sleeplessly
 * I Am My Master’s Sweetest Toy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:334
+  :cite-key: ES:334
   :END:
 
 #+BEGIN_VERSE
@@ -459,10 +459,10 @@ My smile is his infinity’s joy.
 * My God-Realisation Is My Last Act
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:335
+  :cite-key: ES:335
   :END:
 
 #+BEGIN_VERSE
@@ -478,10 +478,10 @@ Is God-Infinity’s deathless Day.
 * I Am a God-Inspirer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:336
+  :cite-key: ES:336
   :END:
 
 #+BEGIN_VERSE
@@ -495,10 +495,10 @@ I am a man-uplifter.
 * Be, My Heart
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:337
+  :cite-key: ES:337
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ A world-invitation-tree.
 * Mine Is a Heart of Desire-Free Love
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 01-01-2001
-  :CITE-KEY: ES:338
+  :cite-key: ES:338
   :END:
 
 #+BEGIN_VERSE
@@ -529,10 +529,10 @@ To feed the worlds below, Above.
 * Mine Is a God-Touch-Life
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:339
+  :cite-key: ES:339
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Nowhere ignorance-knife.
 * My Hope Knows No Sunset
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:340
+  :cite-key: ES:340
   :END:
 
 #+BEGIN_VERSE
@@ -563,10 +563,10 @@ My heart is my God-climbing rope.
 * My Lord and My Lord’s Embrace
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:341
+  :cite-key: ES:341
   :END:
 
 #+BEGIN_VERSE
@@ -580,10 +580,10 @@ Are thrilled with my purity-face.
 * I Am My God-Attention
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:342
+  :cite-key: ES:342
   :END:
 
 #+BEGIN_VERSE
@@ -597,10 +597,10 @@ My heart is God-affection.
 * I Am My God-Duty
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:343
+  :cite-key: ES:343
   :END:
 
 #+BEGIN_VERSE
@@ -614,10 +614,10 @@ My life is God-Beauty.
 * I Am My Mind-Mastery
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:344
+  :cite-key: ES:344
   :END:
 
 #+BEGIN_VERSE
@@ -631,10 +631,10 @@ My world is God-Victory.
 * Oh, Run I Must
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:345
+  :cite-key: ES:345
   :END:
 
 #+BEGIN_VERSE
@@ -648,10 +648,10 @@ My Supreme’s Heart-Hunger to feed.
 * A Burning Desire-Breath
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:346
+  :cite-key: ES:346
   :END:
 
 #+BEGIN_VERSE
@@ -665,10 +665,10 @@ Is its own helpless death.
 * Follow the Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:347
+  :cite-key: ES:347
   :END:
 
 #+BEGIN_VERSE
@@ -682,10 +682,10 @@ Look at His Feet soulfully and self-givingly.
 * Each Time I Think of My Lord Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 10-01-2001
-  :CITE-KEY: ES:348
+  :cite-key: ES:348
   :END:
 
 #+BEGIN_VERSE
@@ -699,10 +699,10 @@ He feeds my tears with a new dream.
 * Get Up, Master, Get Up!
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 14-01-2001
-  :CITE-KEY: ES:349
+  :cite-key: ES:349
   :END:
 
 #+BEGIN_VERSE
@@ -718,10 +718,10 @@ Grow with our heart-smiles, grow.
 * Never Commit Suicide
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 16-01-2001
-  :CITE-KEY: ES:350
+  :cite-key: ES:350
   :END:
 
 #+BEGIN_VERSE
@@ -735,10 +735,10 @@ No place in hell to hide, no place in hell to hide.
 * My Heart Cries and Dies
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2001
-  :CITE-KEY: ES:351
+  :cite-key: ES:351
   :END:
 
 #+BEGIN_VERSE
@@ -752,10 +752,10 @@ The next ambrosial God-Touch.
 * My Heart’s Helpless Tears
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2001
-  :CITE-KEY: ES:352
+  :cite-key: ES:352
   :END:
 
 #+BEGIN_VERSE
@@ -770,10 +770,10 @@ Long before they fall.
 * My God-Service-Chariot
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2001
-  :CITE-KEY: ES:353
+  :cite-key: ES:353
   :END:
 
 #+BEGIN_VERSE
@@ -788,10 +788,10 @@ At top speed all the time.
 * I Quickly Devour and Divinely Enjoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2001
-  :CITE-KEY: ES:354
+  :cite-key: ES:354
   :END:
 
 #+BEGIN_VERSE
@@ -805,10 +805,10 @@ The dust of my Lord’s Feet.
 * Each Smile of My Lord Supreme
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 18-01-2001
-  :CITE-KEY: ES:355
+  :cite-key: ES:355
   :END:
 
 #+BEGIN_VERSE
@@ -822,10 +822,10 @@ Is the Smile of the Millennium.
 * My Soul and I Can Easily See
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-01-2001
-  :CITE-KEY: ES:356
+  :cite-key: ES:356
   :END:
 
 #+BEGIN_VERSE
@@ -840,10 +840,10 @@ His own Compassion and Forgiveness-records.
 * My Lord, I Do Not Mind
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 19-01-2001
-  :CITE-KEY: ES:357
+  :cite-key: ES:357
   :END:
 
 #+BEGIN_VERSE

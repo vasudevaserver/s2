@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0024
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1973
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SPSC
-  :GENRE: play
-  :KEYWORDS:
+  :book-number: 0024
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1973
+  :publisher: Agni Press
+  :cite-key: SPSC
+  :genre: play
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Supreme Sacrifice Of King Shibi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:1
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:1
   :END:
 
 
@@ -32,9 +32,9 @@
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:2e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:2e1
   :END:
 
 
@@ -67,9 +67,9 @@ SERVANT OF THE KING
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:2
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:2
   :END:
 
 
@@ -77,9 +77,9 @@ SERVANT OF THE KING
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:3
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:3
   :END:
 
 
@@ -128,9 +128,9 @@ KING /(blessing the Prince)/: Son, my outer wealth shall satisfy you. /(Blessing
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:4
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:4
   :END:
 
 
@@ -187,9 +187,9 @@ INDRA /(to the minor gods, smiling)/: You three wait here and see. We two are en
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:5
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:5
   :END:
 
 
@@ -268,9 +268,9 @@ INDRA: I was the dove. Your heart is the infinite Compassion of the Supreme. You
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:6
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:6
   :END:
 
 
@@ -283,9 +283,9 @@ THIRD GOD: I knew it! I knew that Shibi has no equal either on earth or in Heave
 * Surya And Sanjna
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:7
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:7
   :END:
 
 
@@ -293,9 +293,9 @@ THIRD GOD: I knew it! I knew that Shibi has no equal either on earth or in Heave
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:8e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:8e1
   :END:
 
 
@@ -342,9 +342,9 @@ KUMARA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:8
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:8
   :END:
 
 
@@ -352,9 +352,9 @@ KUMARA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:9
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:9
   :END:
 
 
@@ -373,9 +373,9 @@ MORTALS /(chanting together)/:
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:10
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:10
   :END:
 
 
@@ -396,9 +396,9 @@ SURYA: I am in love with a most beautiful girl whom I saw yesterday when I was r
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:11
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:11
   :END:
 
 
@@ -427,9 +427,9 @@ COSMIC GODS /(together)/: All our joy, all our love, all our gratitude to you, d
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:12
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:12
   :END:
 
 
@@ -454,9 +454,9 @@ SANJNA /(smiling)/: Come with me.
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:13
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:13
   :END:
 
 
@@ -481,9 +481,9 @@ VAYU: In the highest regions of Heaven. Tomorrow you bring your daughter, and al
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:14
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:14
   :END:
 
 
@@ -494,9 +494,9 @@ NARRATOR: All the cosmic gods are present. Surya and Sanjna’s wedding takes pl
 * Scene Vii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:15
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:15
   :END:
 
 
@@ -515,9 +515,9 @@ YAMUNA: I am the happiest woman in God’s Creation. My father is the most power
 * Scene Viii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:16
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:16
   :END:
 
 
@@ -538,9 +538,9 @@ SANJNA /(blessing Chhaya)/: You take my place. I am going to take shelter in a c
 * Scene Ix
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:17
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:17
   :END:
 
 
@@ -559,9 +559,9 @@ CHHAYA: Stop, Yama! Don’t you dare kick me! I curse you! You will suffer treme
 * Scene X
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:18
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:18
   :END:
 
 
@@ -606,9 +606,9 @@ YAMA: Yes, Father. I shall tell him.
 * Scene Xi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:19
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:19
   :END:
 
 
@@ -627,9 +627,9 @@ SIURYA: You have saved me, dearest Father. You have given me another chance to l
 * Scene Xii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:20
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:20
   :END:
 
 
@@ -650,9 +650,9 @@ SURYA AND SANJNA /(together)/: Father, we are all gratitude to you.
 * Harish Chandra
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:21
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:21
   :END:
 
 
@@ -660,9 +660,9 @@ SURYA AND SANJNA /(together)/: Father, we are all gratitude to you.
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:22e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:22e1
   :END:
 
 
@@ -707,9 +707,9 @@ THE KING OF DEATH
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:22
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:22
   :END:
 
 
@@ -717,9 +717,9 @@ THE KING OF DEATH
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:23
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:23
   :END:
 
 
@@ -755,9 +755,9 @@ VISHWAMITRA: All right. Remember your promise. If you fail to fulfil your promis
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:24
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:24
   :END:
 
 
@@ -807,9 +807,9 @@ VISHWAMITRA: Enough, enough, enough! Shut up! Shut up! Shut up! You feeble heart
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:25
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:25
   :END:
 
 
@@ -830,9 +830,9 @@ VISHWAMITRA: All right.
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:26
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:26
   :END:
 
 
@@ -869,9 +869,9 @@ HARISH CHANDRA: I shall. Anyway I deeply thank you for the food Our son’s prec
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:27
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:27
   :END:
 
 
@@ -966,9 +966,9 @@ HARISH CHANDRA: Indeed, I shall do that.
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:28
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:28
   :END:
 
 
@@ -1006,9 +1006,9 @@ SHAIVYA: My son, without fail I shall come and play with you,
 * Scene Vii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:29
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:29
   :END:
 
 
@@ -1021,9 +1021,9 @@ HARISH CHANDRA: Ah, last night I dreamt of my beloved Queen and my beloved son. 
 * Scene Viii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:30
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:30
   :END:
 
 
@@ -1038,9 +1038,9 @@ SHAIVYA: Rohitashwa, Rohitashwa! Rohit, my son, my darling, where are you? /(She
 * Scene Ix
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:31
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:31
   :END:
 
 
@@ -1104,9 +1104,9 @@ God now is Light.
 * Upamanyu
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:32
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:32
   :END:
 
 
@@ -1114,9 +1114,9 @@ God now is Light.
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:33e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:33e1
   :END:
 
 
@@ -1131,9 +1131,9 @@ ASHWINIKUMAR, THE CELESTIALPHYSICIANS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:33
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:33
   :END:
 
 
@@ -1150,9 +1150,9 @@ UPAMANYU: Master, Father, I shall fulfil your wish. I shall fulfil your command.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:34
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:34
   :END:
 
 
@@ -1175,9 +1175,9 @@ UPAMANYU /(with folded hands)/: Yes, Master. Forgive me, I shall not do it anymo
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:35
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:35
   :END:
 
 
@@ -1205,9 +1205,9 @@ No more I see, no more I feel.]
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:36
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:36
   :END:
 
 
@@ -1230,9 +1230,9 @@ AYODADHOMMYA: That is unfair, unfair! That milk is not meant for you, even if it
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:37
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:37
   :END:
 
 
@@ -1296,9 +1296,9 @@ UPAMANYU: I do not know what I am going to eat today. Yesterday I drank so littl
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:38
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:38
   :END:
 
 
@@ -1327,9 +1327,9 @@ UPAMANYU: Yes, Master. I shall not do it.
 * Scene Vii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:39
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:39
   :END:
 
 
@@ -1344,9 +1344,9 @@ UPAMANYU: Today I am very hungry and very thirsty. For the last two days I have 
 * Scene Viii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:40
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:40
   :END:
 
 
@@ -1391,9 +1391,9 @@ AYODADHOMMYA: But you are of no use to me now. You have failed me. You are blind
 * Scene Ix
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:41
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:41
   :END:
 
 
@@ -1448,9 +1448,9 @@ UPAMANYIU: I am most grateful to you. I am most grateful to you. /(He bows to th
 * Scene X
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:42
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:42
   :END:
 
 
@@ -1467,9 +1467,9 @@ AYODADHOMMYA: Upamanyu, I have tested your patience, your self-control. Today yo
 * One Must Follow One’s Own Nature
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:43
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:43
   :END:
 
 
@@ -1477,9 +1477,9 @@ AYODADHOMMYA: Upamanyu, I have tested your patience, your self-control. Today yo
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:44e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:44e1
   :END:
 
 
@@ -1492,9 +1492,9 @@ ONLOOKER
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:44
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:44
   :END:
 
 
@@ -1502,9 +1502,9 @@ ONLOOKER
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:45
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:45
   :END:
 
 
@@ -1569,9 +1569,9 @@ MASTER: I give and take, and take and give. I take their poison every day, and I
 * Who Is The Greatest?
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:46
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:46
   :END:
 
 
@@ -1579,9 +1579,9 @@ MASTER: I give and take, and take and give. I take their poison every day, and I
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:47e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:47e1
   :END:
 
 
@@ -1606,9 +1606,9 @@ A terrible dispute arose among the Eye, the Ear, the Organ of Speech, the Mind a
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:47
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:47
   :END:
 
 
@@ -1616,9 +1616,9 @@ A terrible dispute arose among the Eye, the Ear, the Organ of Speech, the Mind a
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:48
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:48
   :END:
 
 
@@ -1653,9 +1653,9 @@ THE MIND: Ah, that is very easy. We shall easily find out who is really the grea
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:49
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:49
   :END:
 
 
@@ -1670,9 +1670,9 @@ THE ORGAN OF SPEECH: Let me go out of the Body first. Let me get the first chanc
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:50
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:50
   :END:
 
 
@@ -1697,9 +1697,9 @@ THE EYE: Oh, be quiet! I am leaving now. Just watch what happens to you all, you
 * Sscene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:51
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:51
   :END:
 
 
@@ -1724,9 +1724,9 @@ THE EAR: O Eye, I told you before you left that you could never be the greatest,
 * Scene V
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:52
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:52
   :END:
 
 
@@ -1751,9 +1751,9 @@ THE MIND /(angrily)/: The time will soon arrive when you will see how badly you 
 * Scene Vi
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:53
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:53
   :END:
 
 
@@ -1802,9 +1802,9 @@ PRAJAPATI: I have come to you with divine advice. Listen to me. This advice will
 * Not So Easy To Change One’s Fate
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:54
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:54
   :END:
 
 
@@ -1812,9 +1812,9 @@ PRAJAPATI: I have come to you with divine advice. Listen to me. This advice will
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:55e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:55e1
   :END:
 
 
@@ -1831,9 +1831,9 @@ OLD MAN, A GREAT DEVOTEE OF SHIVA
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:55
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:55
   :END:
 
 
@@ -1841,9 +1841,9 @@ OLD MAN, A GREAT DEVOTEE OF SHIVA
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:56
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:56
   :END:
 
 
@@ -1902,9 +1902,9 @@ SHIVA: All right, I shall listen to your mother and to you two.
 * Scene Ii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:57
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:57
   :END:
 
 
@@ -1938,9 +1938,9 @@ Victory all my life.]
 * Scene Iii
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:58
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:58
   :END:
 
 
@@ -1953,9 +1953,9 @@ OLD MAN: Oh, I have found a trick. From now on I will definitely go out with my 
 * Scene Iv
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:59
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:59
   :END:
 
 
@@ -1988,9 +1988,9 @@ DURGA: Nothing. Now I know why you say that your heart is all the time in your d
 * Three Miracles By A Brahmin’s Hands
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:60
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:60
   :END:
 
 
@@ -1998,9 +1998,9 @@ DURGA: Nothing. Now I know why you say that your heart is all the time in your d
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:61e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:61e1
   :END:
 
 
@@ -2015,9 +2015,9 @@ INDRA, LORD OF THE GODS
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:61
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:61
   :END:
 
 
@@ -2025,9 +2025,9 @@ INDRA, LORD OF THE GODS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:62
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:62
   :END:
 
 
@@ -2106,9 +2106,9 @@ INDRA /(smiling)/: You have spoken the Truth, realised the Truth. I forgive both
 * The Winner
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:63
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:63
   :END:
 
 
@@ -2116,9 +2116,9 @@ INDRA /(smiling)/: You have spoken the Truth, realised the Truth. I forgive both
 * Cast
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SPSC:64e1
+  :genre: note
+  :keywords:
+  :cite-key: SPSC:64e1
   :END:
 
 
@@ -2133,9 +2133,9 @@ KUMARA, GANESHA, THEIR SONS
 * Act I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:64
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:64
   :END:
 
 
@@ -2143,9 +2143,9 @@ KUMARA, GANESHA, THEIR SONS
 * Scene I
 
   :PROPERTIES:
-  :GENRE: play
-  :KEYWORDS:
-  :CITE-KEY: SPSC:65
+  :genre: play
+  :keywords:
+  :cite-key: SPSC:65
   :END:
 
 

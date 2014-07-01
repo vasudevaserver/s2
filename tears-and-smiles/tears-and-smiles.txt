@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1408
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2001
-  :PUBLISHER:
-  :CITE-KEY: TSGF
-  :GENRE: song
+  :book-number: 1408
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2001
+  :publisher:
+  :cite-key: TSGF
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: TSGF:1e1
+  :genre: note
+  :cite-key: TSGF:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: TSGF:1e2
+  :genre: note
+  :cite-key: TSGF:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Akashe Phutilo Chand Bhenge Gelo Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:1
+  :cite-key: TSGF:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Bhenge gelo hiya bandh
 * Akashe Phutilo Chand Shuni Prabhu Jaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:2
+  :cite-key: TSGF:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Shuni prabhu jaya nad
 * Akashe Phutilo Chand Labhi Muktir Swadh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:3
+  :cite-key: TSGF:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Labhi muktir swadh
 * Kena Ami Chahina Taba Priti Kena Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:4
+  :cite-key: TSGF:4
   :END:
 
 #+BEGIN_VERSE
@@ -112,10 +112,10 @@ Jibaner pita maraner mita
 * Maner Mata Shatru Keha Nai Mayer Paye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:5
+  :cite-key: TSGF:5
   :END:
 
 #+BEGIN_VERSE
@@ -129,10 +129,10 @@ Mayer paye taito jachi thai
 * Hasi Ami Sabar Sathe Hasi Ghor Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:6
+  :cite-key: TSGF:6
   :END:
 
 #+BEGIN_VERSE
@@ -146,10 +146,10 @@ Ghor andhiyar sabar sathe nashi
 * Parer Jatana Sahite Chahigo Sahite Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:7
+  :cite-key: TSGF:7
   :END:
 
 #+BEGIN_VERSE
@@ -163,10 +163,10 @@ Hriday khuliya kahite chahigo kahite
 * Dure Chale Jao Dure Chale Jao Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:8
+  :cite-key: TSGF:8
   :END:
 
 #+BEGIN_VERSE
@@ -180,10 +180,10 @@ Ami hate chahi bhitare bahire amal dhabal
 * Khulte Habe Hiyar Duar Khulte Habe Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:9
+  :cite-key: TSGF:9
   :END:
 
 #+BEGIN_VERSE
@@ -197,10 +197,10 @@ Shanti jadi pete chaha bishal bhave
 * Nimeshe Nimeshe Shanti Chahigo Nimeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:10
+  :cite-key: TSGF:10
   :END:
 
 #+BEGIN_VERSE
@@ -216,10 +216,10 @@ Swadeshe bideshe
 * Jante Chahi Pete Chahi Ami Tomai Taito Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:11
+  :cite-key: TSGF:11
   :END:
 
 #+BEGIN_VERSE
@@ -233,10 +233,10 @@ Taito ami benche achi hethai dharai
 * Ghure Berai Moher Deshe Ghure Berai Sethai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:12
+  :cite-key: TSGF:12
   :END:
 
 #+BEGIN_VERSE
@@ -250,10 +250,10 @@ Sethai je hai swarupe mor ami harai
 * Eso Eso Ogo Oishi Dhamer Subarata Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:13
+  :cite-key: TSGF:13
   :END:
 
 #+BEGIN_VERSE
@@ -267,10 +267,10 @@ Tumi karo dan ei dharanire madhurata
 * Ke Amare Dak Dilo Aj Ke Amare Dak Dilo Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:14
+  :cite-key: TSGF:14
   :END:
 
 #+BEGIN_VERSE
@@ -284,10 +284,10 @@ Ke amare phulla chite apan kare aj nilo
 * Hiya Pure Dekhte Pabo Param Pitar Darashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:15
+  :cite-key: TSGF:15
   :END:
 
 #+BEGIN_VERSE
@@ -301,10 +301,10 @@ Ei bharasai dibarati kari ami bicharan
 * Shanti Labhite Dharanir Buke Nijere Danite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:16
+  :cite-key: TSGF:16
   :END:
 
 #+BEGIN_VERSE
@@ -318,10 +318,10 @@ Dyulok nachibe moder hiyar param mahotsabe
 * Supta Chitta Jar Ananda Nai Tar Baddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:17
+  :cite-key: TSGF:17
   :END:
 
 #+BEGIN_VERSE
@@ -335,10 +335,10 @@ Baddha manas jar nahi pabe premahar
 * Amar Katha Na Bhabile Prabhur Dekha Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:18
+  :cite-key: TSGF:18
   :END:
 
 #+BEGIN_VERSE
@@ -352,10 +352,10 @@ Sabar sathe pran chalile prabhur paye thai
 * Aj Galagali Kal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:19
+  :cite-key: TSGF:19
   :END:
 
 #+BEGIN_VERSE
@@ -369,10 +369,10 @@ Aj galagali kal daladali taito manab patan
 * Chaha Jadi Dite Pari Hiyar Rakta Dhara Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:20
+  :cite-key: TSGF:20
   :END:
 
 #+BEGIN_VERSE
@@ -386,10 +386,10 @@ Hate chahi tomar paye prabhu atmahara
 * Mago Ami Tomar Srijan Tomar Chhele Takao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:21
+  :cite-key: TSGF:21
   :END:
 
 #+BEGIN_VERSE
@@ -403,10 +403,10 @@ Takao na hai tomar kachhe ami gele
 * Mago Tomar Madhu Pada Dhuli Ami Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:22
+  :cite-key: TSGF:22
   :END:
 
 #+BEGIN_VERSE
@@ -420,10 +420,10 @@ Ami jena nahi kabhu bhuli
 * Mago Tomar Ashish Pada Dhuli Diba Rati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:23
+  :cite-key: TSGF:23
   :END:
 
 #+BEGIN_VERSE
@@ -437,10 +437,10 @@ Diba rati mathai ami tuli
 * Mukti Lagi Kande Jara Oishi Mukti Lagi Hate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:24
+  :cite-key: TSGF:24
   :END:
 
 #+BEGIN_VERSE
@@ -454,10 +454,10 @@ Hate habe tader prabhur barai anuragi
 * Bhitare Bahire Ghume Jagarane Basanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:25
+  :cite-key: TSGF:25
   :END:
 
 #+BEGIN_VERSE
@@ -471,10 +471,10 @@ Taito janigo nithur dharani kare mor upahas
 * Bhakti Ami Chahi Kebal Bhakti Ami Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:26
+  :cite-key: TSGF:26
   :END:
 
 #+BEGIN_VERSE
@@ -488,10 +488,10 @@ Pale pale param pitar bijoy giti gahi
 * Bhalo Manda Nahi Jani Kebal Tomai Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:27
+  :cite-key: TSGF:27
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Namra shire bhakti bhare tomai bakke tani
 * Alor Pather Jatri Ami Alor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:28
+  :cite-key: TSGF:28
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ Bahu dure phele rakhi agyanatar ratri
 * Tumi Je Tomar Karuna Nayan Tumi Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:29
+  :cite-key: TSGF:29
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ Tumi je amar nitui smaran
 * Tumi Je Tomar Amiya Charan Tumi Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:30
+  :cite-key: TSGF:30
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ Tumi je amar abhoy sharan
 * Dibarati Chali Ami Dibarati Chali Tibra Bege
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:31
+  :cite-key: TSGF:31
   :END:
 
 #+BEGIN_VERSE
@@ -573,10 +573,10 @@ Tibra bege pather jato badhar bandhan dali
 * Tumi Je Tomar Khamar Pathar Tumi Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:32
+  :cite-key: TSGF:32
   :END:
 
 #+BEGIN_VERSE
@@ -590,10 +590,10 @@ Tumi je amar ashar jowar
 * Amar Prabhu Param Pitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:33
+  :cite-key: TSGF:33
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Nitya nutan bijoy giti gahi
 * Jiban Amar Habe Sanjiban Pele Tomar Barek
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:34
+  :cite-key: TSGF:34
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Pele tomar barek darashan
 * Maran Amar Habe Madhumoy Gahi Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:35
+  :cite-key: TSGF:35
   :END:
 
 #+BEGIN_VERSE
@@ -643,10 +643,10 @@ Gahi jadi shudhu tomar joy
 * Mahanande Rabo Ami Yihakale Parakale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:36
+  :cite-key: TSGF:36
   :END:
 
 #+BEGIN_VERSE
@@ -660,10 +660,10 @@ Nahi jadi bandhi more basan moha jale
 * Maner Bedan Praner Bedan Deher Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:37
+  :cite-key: TSGF:37
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Dur asimer amaratar sur
 * Ashanta Mane Karite Haibe Prashanta Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:38
+  :cite-key: TSGF:38
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Jadi ami chahi jibane rahite abhranta
 * Dheyane Nehari Janani Tomar Dibya Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:39
+  :cite-key: TSGF:39
   :END:
 
 #+BEGIN_VERSE
@@ -715,10 +715,10 @@ Karije tomar arati
 * Tomar Dipta Tomar Mukta Madhuri Mugdha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:40
+  :cite-key: TSGF:40
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ Mugdha halem antare mor nehari
 * Dipti Kothai Shanti Kothai Kothai Tripti Bhitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:41
+  :cite-key: TSGF:41
   :END:
 
 #+BEGIN_VERSE
@@ -749,10 +749,10 @@ Bhitar jibane bahir jibane kebal supti
 * Maner Bane Phul Phutate Chaha Jadi Biphal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:42
+  :cite-key: TSGF:42
   :END:
 
 #+BEGIN_VERSE
@@ -766,10 +766,10 @@ Shanti tripti nahi pabe kabhu tumi tomar bhave
 * Balo Balo Amai Balo Sadhan Bina Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:43
+  :cite-key: TSGF:43
   :END:
 
 #+BEGIN_VERSE
@@ -785,10 +785,10 @@ Spriha bina ke peyeche kabhu oishi dhan
 * Shakti Pujari Hate Chahe Pran Shakti Pujari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:44
+  :cite-key: TSGF:44
   :END:
 
 #+BEGIN_VERSE
@@ -802,10 +802,10 @@ Hiya hate chai asim pather alor dishari
 * Chira Jagrata Paramer Ankhi Jani Jani Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:45
+  :cite-key: TSGF:45
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Amar jiban khani
 * Ami Amar Nitya Nutan Chaowar Jhankar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:46
+  :cite-key: TSGF:46
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ Tumi tomar darun bhishan krodher hungkar
 * Ma Ma Bale Dakbona Ar Ma Ma Bale Dakbona
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:47
+  :cite-key: TSGF:47
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ Baba bale dakbo kebal kabhu je ar kandbona
 * Ma Ma Bale Puji Tomai Ma Ma Bale Puji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:48
+  :cite-key: TSGF:48
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Tomar dekha paina kothao bhitar kebal khunji
 * Ma Ma Bale Nayan Dhara Jharbe Amar Jharbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:49
+  :cite-key: TSGF:49
   :END:
 
 #+BEGIN_VERSE
@@ -889,10 +889,10 @@ Ma ma bale hriday amar make apan karbe
 * Ma Ma Bale Kandbo Ami Ma Ma Bale Hasbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:50
+  :cite-key: TSGF:50
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Make jara nahi dake tader ami nashbo
 * Hriday Duar Banda Rekhechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:51
+  :cite-key: TSGF:51
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Kemane janani dharibe
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:52
+  :cite-key: TSGF:52
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ How will You be able to enter into my heart?
 * Rakhbo Dhare Bhakti Bhare Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:53
+  :cite-key: TSGF:53
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Bhaber hate karbona ar ami chhutochhuti
 * Bhakti Nahi Dile Puja Nahi Nile Raibo Benche
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:54
+  :cite-key: TSGF:54
   :END:
 
 #+BEGIN_VERSE
@@ -977,10 +977,10 @@ Tomar ratul charan dhare
 * Kanna Amar Shesh Habena Tomar Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:55
+  :cite-key: TSGF:55
   :END:
 
 #+BEGIN_VERSE
@@ -994,10 +994,10 @@ Kena prabhu thako balo amai tumi abahele
 * Mago Tomar Lukochuri Bhalo Nahi Lage Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:56
+  :cite-key: TSGF:56
   :END:
 
 #+BEGIN_VERSE
@@ -1011,10 +1011,10 @@ Daogo dekha barek aji laho amar ashrudhar
 * Jiban Sheshe Dibe Dekha Jiban Sheshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:57
+  :cite-key: TSGF:57
   :END:
 
 #+BEGIN_VERSE
@@ -1030,10 +1030,10 @@ Tomar charan rekha
 * Sabar Sathe Jog Diyechhi Taito Tumi Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:58
+  :cite-key: TSGF:58
   :END:
 
 #+BEGIN_VERSE
@@ -1047,10 +1047,10 @@ Dure phele sakal truti amai tumi kole nile
 * Nahi Kari Jog Ei Mor Khobh Nahi Kari Jog Tai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:59
+  :cite-key: TSGF:59
   :END:
 
 #+BEGIN_VERSE
@@ -1065,10 +1065,10 @@ Nahi kari jog tai ama bhog
 * Samarpite Jiban Amar Ei Shudhu Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:60
+  :cite-key: TSGF:60
   :END:
 
 #+BEGIN_VERSE
@@ -1082,10 +1082,10 @@ Tahar majhe raibe jani amar sakal paowa
 * Dibarati Kende Mari Ami Dibarati Dure Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:61
+  :cite-key: TSGF:61
   :END:
 
 #+BEGIN_VERSE
@@ -1099,10 +1099,10 @@ Dure dure bahu dure tomar kripar bhati
 * Langhiya Chali Ajasra Badha Langhiya Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:62
+  :cite-key: TSGF:62
   :END:
 
 #+BEGIN_VERSE
@@ -1118,10 +1118,10 @@ Toma sathe katha bali
 * Mayer Lila Keha Nahi Bujhte Pare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:63
+  :cite-key: TSGF:63
   :END:
 
 #+BEGIN_VERSE
@@ -1134,10 +1134,10 @@ Dharar buke ase tabu bare bare
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:64
+  :cite-key: TSGF:64
   :END:
 
 #+BEGIN_VERSE
@@ -1152,10 +1152,10 @@ And enters into the heart of this world.
 * Jani Ami Jani Keha Nahe Mor Apanar Jan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:65
+  :cite-key: TSGF:65
   :END:
 
 #+BEGIN_VERSE
@@ -1169,10 +1169,10 @@ Jiban amar ati asahai shudhu krandan
 * Jani Ogo Jani Urdhe Karile Arohan Herite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:66
+  :cite-key: TSGF:66
   :END:
 
 #+BEGIN_VERSE
@@ -1186,10 +1186,10 @@ Herite paibo tomar amiya sri charan
 * Pujite Tomare Dibe Ki Janani E Adhame
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:67
+  :cite-key: TSGF:67
   :END:
 
 #+BEGIN_VERSE
@@ -1205,10 +1205,10 @@ Japite chahigo anibar
 * Tomar Paye Rekhe Amar Hiya Phuler Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:68
+  :cite-key: TSGF:68
   :END:
 
 #+BEGIN_VERSE
@@ -1222,10 +1222,10 @@ Chali ami asimatar pantha kare ala
 * Ei Duniyar Bajai Mayer Bijoy Dundubhi Sabar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:69
+  :cite-key: TSGF:69
   :END:
 
 #+BEGIN_VERSE
@@ -1239,10 +1239,10 @@ Sabar prane rakhi ami oishi surabhi
 * Bhalo Nahi Lage Amar Maner Desher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:70
+  :cite-key: TSGF:70
   :END:
 
 #+BEGIN_VERSE
@@ -1256,10 +1256,10 @@ Bhalo lage kebal amar hiya purir madhur swar
 * Chiratare Rakhbo Amar Jiban Tejal Jibane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:71
+  :cite-key: TSGF:71
   :END:
 
 #+BEGIN_VERSE
@@ -1273,10 +1273,10 @@ Jibane mor raibena ar kichhui bhejal
 * Hate Chaha Jadi Chinmoy Hao Tabe Dhyana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-08-2001
-  :CITE-KEY: TSGF:72
+  :cite-key: TSGF:72
   :END:
 
 #+BEGIN_VERSE

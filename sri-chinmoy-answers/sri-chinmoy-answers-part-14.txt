@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1291
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1999
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCA-14
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 1291
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1999
+  :publisher: Agni Press
+  :cite-key: SCA-14
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:517e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:517e1
   :END:
 
   [fn:part-1]
@@ -33,9 +33,9 @@
 * Question: What kind of shape does God have?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:517
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:517
   :END:
 
 
@@ -46,9 +46,9 @@
 * Question: What does God do with His spare time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:518
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:518
   :END:
 
 
@@ -59,9 +59,9 @@
 * Question: Can people see fairies?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:519
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:519
   :END:
 
 
@@ -72,9 +72,9 @@
 * Question: What is God’s favourite sound?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:520
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:520
   :END:
 
 
@@ -85,9 +85,9 @@
 * Question: How can I have the most joy?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:521
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:521
   :END:
 
 
@@ -98,9 +98,9 @@
 * Question:  Which of God’s children makes Him laugh the most?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:522
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:522
   :END:
 
 
@@ -111,9 +111,9 @@
 * Question: Guru, did you have any pets when you were a kid?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:523
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:523
   :END:
 
 
@@ -124,9 +124,9 @@
 * Question: What is God’s favourite kind of humour?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:524
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:524
   :END:
 
 
@@ -141,9 +141,9 @@ In the case of human beings, quite often we receive the limited power that God g
 * Question: Why did I have so many bad dreams when I was small?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:525
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:525
   :END:
 
 
@@ -154,9 +154,9 @@ In the case of human beings, quite often we receive the limited power that God g
 * Question: Can someone be spiritually fat or thin?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:526
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:526
   :END:
 
 
@@ -167,9 +167,9 @@ In the case of human beings, quite often we receive the limited power that God g
 * Question: Does God have a favourite season?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:527
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:527
   :END:
 
 
@@ -180,9 +180,9 @@ In the case of human beings, quite often we receive the limited power that God g
 * Question: What can I do to make God happiest?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:528
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:528
   :END:
 
 
@@ -193,9 +193,9 @@ In the case of human beings, quite often we receive the limited power that God g
 * Question: How can I remain always smiling?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:529
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:529
   :END:
 
 
@@ -208,9 +208,9 @@ I have asked you to always smile, and most of the time you do smile at me. But e
 * Question: What kind of toys does God play with?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:530
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:530
   :END:
 
 
@@ -221,9 +221,9 @@ I have asked you to always smile, and most of the time you do smile at me. But e
 * Question: Should we try to remember our dreams?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:531
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:531
   :END:
 
 
@@ -240,9 +240,9 @@ I always say today’s dream is tomorrow’s reality. If you have a good dream, 
 * Question: Does God live in the sky?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:532
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:532
   :END:
 
 
@@ -253,9 +253,9 @@ I always say today’s dream is tomorrow’s reality. If you have a good dream, 
 * Question: Who is God’s best friend?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:533
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:533
   :END:
 
 
@@ -266,9 +266,9 @@ I always say today’s dream is tomorrow’s reality. If you have a good dream, 
 * Question: Who is Mother Kali’s best friend?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:534
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:534
   :END:
 
 
@@ -279,9 +279,9 @@ I always say today’s dream is tomorrow’s reality. If you have a good dream, 
 * On Grandfather's Day
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:535
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:535
   :END:
 
 
@@ -304,9 +304,9 @@ I never saw my mother’s father -- not even his picture. But a picture was take
 * Part II
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:536e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:536e1
   :END:
 
   [fn:part-2]
@@ -316,9 +316,9 @@ I never saw my mother’s father -- not even his picture. But a picture was take
 * On shyness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:536
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:536
   :END:
 
 When we see a little child who is extremely shy, we feel that this child is very cute. Unfortunately, from the spiritual point of view, shyness is not a good quality at all. When you express shyness, you outwardly pretend to be what you are not, and you inwardly try to draw all the world’s admiration and attention. Shyness is only a clever way of achieving something. Instead of giving something natural and normal to the world, you try to attract attention by becoming abnormal.
@@ -330,9 +330,9 @@ Some things die in themselves; they do not create other feelings. But shyness is
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:537e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:537e1
   :END:
 
   [fn:part-3] 
@@ -344,9 +344,9 @@ Some things die in themselves; they do not create other feelings. But shyness is
 * Question: How can we as disciples trust you more so that we can surrender our ignorance to you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:537
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:537
   :END:
 
 
@@ -369,9 +369,9 @@ But why start with conditions? The other way is just to go to the root. We can s
 * Question: I am not sure about the purpose of prayer. If our aim is to surrender -- as the Christ said, “Let Thy Will be done” -- why should we be asking God to do something?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:538
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:538
   :END:
 
 
@@ -392,9 +392,9 @@ We may pray for two days or two months or two years for something, but then if o
 * Question: If we are praying for something we know we should be praying for, what is the most effective way of praying?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:539
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:539
   :END:
 
 
@@ -413,9 +413,9 @@ To come back to your question, to get results from your prayer, you have to be v
 * Question: If you have a God-ordained duty and your mind resists it, how can you overcome the resistance of your mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:540
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:540
   :END:
 
 
@@ -428,9 +428,9 @@ If your heart can get help from the vital and body, then you are bound to succee
 * Question: What does it take to become a perfect disciple?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:541
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:541
   :END:
 
 
@@ -451,9 +451,9 @@ Unless we become unconditionally surrendered at every moment, we cannot please G
 * Question: How is it that when you feel you are making spiritual progress, the hostile forces can come?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:542
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:542
   :END:
 
 
@@ -466,9 +466,9 @@ Again, God watches to see whether you sincerely want to get out of the mind-pris
 * Question: Several times after running a race or completing a hard running practice, I have had certain special feelings about the planets and stars. I said to myself that it was just my imagination, but then in 1980 you wrote the song “I Am Running around the Clock” for the 24-hour race. In that song you mentioned the sun, moon, stars and planets. So I was wondering, when we do something good physically, when we give our best, do our souls get blessings from the planets, or is that just my imagination?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:543
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:543
   :END:
 
 
@@ -481,9 +481,9 @@ Stars and planets belong to the entire world, but some countries are favoured by
 * Part IV
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:544e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:544e1
   :END:
 
   [fn:part-4]
@@ -493,9 +493,9 @@ Stars and planets belong to the entire world, but some countries are favoured by
 * Question: What is your message for Guatemala?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:544
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:544
   :END:
 
 
@@ -508,9 +508,9 @@ My prayerful message to the heart, to the soul and to the life of Guatemala is v
 * Part V
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:545e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:545e1
   :END:
 
   [fn:part-5]
@@ -520,9 +520,9 @@ My prayerful message to the heart, to the soul and to the life of Guatemala is v
 * On obedience
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: SCA:545
+  :genre: discourse
+  :keywords:
+  :cite-key: SCA:545
   :END:
 
 
@@ -543,9 +543,9 @@ When I took my driving test the first time, the examiner asked me to make a left
 * Question: The past is dust, but sometimes when I try to do the right thing, my friends keep reminding me of past mistakes. They say they are doing it out of concern.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:546
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:546
   :END:
 
 
@@ -570,9 +570,9 @@ Many people get malicious pleasure when their so-called dear ones jump out of th
 * Question: What are the main reasons why new disciples leave after a short while?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:547
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:547
   :END:
 
 
@@ -591,9 +591,9 @@ So there are two groups of disciples who leave. One group feels you are too good
 * Part VI
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:548e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:548e1
   :END:
 
   [fn:part-6]
@@ -603,9 +603,9 @@ So there are two groups of disciples who leave. One group feels you are too good
 * Question: Is there any significance in that Mother Teresa and Princess Diana died at nearly the same time?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCA:548
+  :genre: qa
+  :keywords:
+  :cite-key: SCA:548
   :END:
 
 
@@ -618,9 +618,9 @@ Mother Teresa rightly deserves rest. She has worked so hard, so hard, so hard fo
 * Part VII
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: SCA:549e1
+  :genre: section
+  :keywords:
+  :cite-key: SCA:549e1
   :END:
 
   [fn:part-7]
@@ -630,9 +630,9 @@ Mother Teresa rightly deserves rest. She has worked so hard, so hard, so hard fo
 * /Reporter:/ You lifted heavy things like planes and elephants many years ago. What made you resume it again now?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:549
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:549
   :END:
 
 
@@ -647,9 +647,9 @@ The human mind is full of division at each and every level. Our mind appreciates
 * /Reporter:/ Is lifting a plane different from lifting anything else?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:550
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:550
   :END:
 
 
@@ -670,9 +670,9 @@ When I lift planes, I get a feeling of lightness from the plane itself. Plus I g
 * /Reporter:/ What are you trying to prove when you do these things publicly?
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: SCA:551
+  :genre: interview
+  :keywords:
+  :cite-key: SCA:551
   :END:
 
 
@@ -686,9 +686,9 @@ When we, as human beings, are inspired, we do many good things for ourselves and
 * Notes 
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:552e1
+  :genre: note
+  :keywords:
+  :cite-key: SCA:552e1
   :END:
   
 

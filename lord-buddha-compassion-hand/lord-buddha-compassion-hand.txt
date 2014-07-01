@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0918
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: LBCH
-  :GENRE: qa, interview, discourse
-  :KEYWORDS:
+  :book-number: 0918
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: LBCH
+  :genre: qa, interview, discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Introduction
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: LBCH:1e1
+  :genre: note
+  :keywords:
+  :cite-key: LBCH:1e1
   :END:
 
 
@@ -51,9 +51,9 @@ oneness-band.
 * Part I: Questions and answers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: LBCH:1e2
+  :genre: section
+  :keywords:
+  :cite-key: LBCH:1e2
   :END:
 
 
@@ -64,9 +64,9 @@ oneness-band.
 * Question: Thailand is a Buddhist country. Whereas we emphasise God and the soul on our path, the Buddhist philosophy on these matters is one of silence. Usually this silence is interpreted as meaning that God may or may not exist and that the soul may or may not exist. It would be very helpful for us to have your word on what the Buddha meant or intended.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:1
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:1
   :END:
 
 
@@ -83,9 +83,9 @@ So the Buddhists speak of light and we speak of the soul. They speak of silence 
 * Question: I have been told that we should meditate by using our heart. But when you talk about silence, it means to make the mind still. At that moment, how do we use the heart?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:2
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:2
   :END:
 
 
@@ -96,9 +96,9 @@ So the Buddhists speak of light and we speak of the soul. They speak of silence 
 * Question: If we have already decided that we will choose this boat, then my question is how to bring our mind to the heart.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:3
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:3
   :END:
 
 
@@ -115,9 +115,9 @@ If your mind-child is disobedient and will not listen to you when you tell it wh
 * Question: If we stay in the same room all the time, then it is quite easy to keep our mind still. But when we have to work every day and deal with problems and people, it is quite hard to keep the mind still.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:4
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:4
   :END:
 
 
@@ -132,9 +132,9 @@ You are a science teacher. If one of your students is misbehaving or if you have
 * Question: But it doesn't work all the time.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:5
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:5
   :END:
 
 
@@ -149,9 +149,9 @@ This kind of progress is so important. You have to know what you were two years 
 * Question: We would like to organise a seminar on meditation, but I have been very slow in learning to speak Thai.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:6
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:6
   :END:
 
 
@@ -170,9 +170,9 @@ You have been living in Thailand for three years. But if you can make yourself f
 * Question: Many people want to meditate and come to a centre, but they don't wish to follow a path.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:7
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:7
   :END:
 
 
@@ -195,9 +195,9 @@ I will never feel sad -- not even for a fleeting second -- if someone goes to so
 * Question: I would like to come to see you in New York, but it is quite expensive.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: LBCH:8
+  :genre: qa
+  :keywords:
+  :cite-key: LBCH:8
   :END:
 
 
@@ -210,9 +210,9 @@ If we don't sow the seed, how will there ever be a plant or a tree? So inside yo
 * Part II: Conversation with Mr. Vanasin Vongbhun -- Owner of the Pinnacle Quality Hotel, Bangkok, Thailand, 13 December 1992
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: LBCH:9e1
+  :genre: section
+  :keywords:
+  :cite-key: LBCH:9e1
   :END:
 
 
@@ -220,9 +220,9 @@ If we don't sow the seed, how will there ever be a plant or a tree? So inside yo
 * Helping the orphans
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: LBCH:9
+  :genre: interview
+  :keywords:
+  :cite-key: LBCH:9
   :END:
 
 
@@ -251,9 +251,9 @@ The programme is growing. Last year we took in around twenty orphans at this hot
 * Real wisdom comes from the heart
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: LBCH:10
+  :genre: interview
+  :keywords:
+  :cite-key: LBCH:10
   :END:
 
 
@@ -280,9 +280,9 @@ You are involved in many activities and projects. These projects are like branch
 * Honoring Mr. Vongbhun
 
   :PROPERTIES:
-  :GENRE: interview
-  :KEYWORDS:
-  :CITE-KEY: LBCH:11
+  :genre: interview
+  :keywords:
+  :cite-key: LBCH:11
   :END:
 
 
@@ -308,9 +308,9 @@ A hotel brings all the bees for the honey. It serves a very, very special purpos
 
   :PROPERTIES:
   :SUBTITLE: 14 December 1992
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: LBCH:12
+  :genre: discourse
+  :keywords:
+  :cite-key: LBCH:12
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1151
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1996
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MCY
-  :GENRE: anecdote-biographical, poem
-  :KEYWORDS:
+  :book-number: 1151
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1996
+  :publisher: Agni Press
+  :cite-key: MCY
+  :genre: anecdote-biographical, poem
+  :keywords:
   :END:
 
 
@@ -23,9 +23,9 @@
 * Part I -- My Consulate years
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:1e1
+  :genre: section
+  :keywords:
+  :cite-key: MCY:1e1
   :END:
 
 
@@ -33,9 +33,9 @@
 * Applying for a position at the Indian Consulate
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:1
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:1
   :END:
 
 
@@ -70,9 +70,9 @@ They told me when I started at the Consulate that in a few months they would ask
 * Becoming permanent
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:2
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:2
   :END:
 
 
@@ -93,9 +93,9 @@ Why did Dhawan have to give me the news in front of so many people? Perhaps he w
 * The Passport and Visa Section
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:3
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:3
   :END:
 
 
@@ -110,9 +110,9 @@ From the very first day, I had to check the passports to see whether my colleagu
 * My mental arithmetic
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:4
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:4
   :END:
 
 
@@ -125,9 +125,9 @@ Dhawan was joking because all the other workers were using adding machines and I
 * Mr. Mehrotra's concern
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:5
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:5
   :END:
 
 
@@ -144,9 +144,9 @@ All kinds of things Mr. Mehrotra asked. He was extremely kind to me from the ver
 * My first talk on Hinduism
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:6
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:6
   :END:
 
 
@@ -168,9 +168,9 @@ Ananda Mohan was my very good friend. Perhaps he was happy that I went and gave 
 * An amusing anecdote
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:7
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:7
   :END:
 
 
@@ -195,9 +195,9 @@ Bholanath was so good to me in millions of ways. He used to take me everywhere. 
 * Bholanath's father
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:8
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:8
   :END:
 
 
@@ -214,9 +214,9 @@ Then Bholanath and his father became reconciled.
 * The elevator encounter
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:9
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:9
   :END:
 
 
@@ -231,9 +231,9 @@ I came back and entered the elevator. Then he said, “Tell me, am I a tiger, am
 * Mr. Mehrotra's nobility
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:10
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:10
   :END:
 
 
@@ -248,9 +248,9 @@ So noble people will always be noble.
 * Our reunion in San Francisco
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:11
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:11
   :END:
 
 
@@ -265,9 +265,9 @@ They have a daughter, Aparna. Now she has a beautiful, little son, but when I wo
 * Singing the French national anthem
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:12
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:12
   :END:
 
 
@@ -278,9 +278,9 @@ In 1966 Mr. Mehrotra invited the workers in our section to eat at his apartment 
 * Consulate colleagues
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:13
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:13
   :END:
 
 
@@ -319,9 +319,9 @@ Krishan Dhanda has been paralysed for the last four or five years and I have bee
 * Manifestation beginnings
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:14
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:14
   :END:
 
 
@@ -334,9 +334,9 @@ This experience is so precious to me. At that time, Mr. Ramamoorthy recognised s
 * Ghose never cuts jokes
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:15
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:15
   :END:
 
 
@@ -349,9 +349,9 @@ When I started going to the United Nations, Carol Coutinhoe’s husband was ther
 * Two brothers
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:16
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:16
   :END:
 
 
@@ -368,9 +368,9 @@ In 1990, Shivaram brought his mother and his brother to our tennis court and I l
 * Among friends
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:17
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:17
   :END:
 
 
@@ -387,9 +387,9 @@ At the Consulate, we never used first names. We always called each other by our 
 * Giving my first spiritual name in the West
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:18
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:18
   :END:
 
 
@@ -416,9 +416,9 @@ Then I asked our singers to sing my song “Bela chale jai,” and he was very h
 * Bringing refreshments for everyone
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:19
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:19
   :END:
 
 
@@ -429,9 +429,9 @@ In the beginning, I received a salary of $230 every month. Then it went a little
 * My Christian friend
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:20
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:20
   :END:
 
 
@@ -444,9 +444,9 @@ Wherever I went in those days, people tried to convert me.
 * A pronunciation problem
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:21
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:21
   :END:
 
 
@@ -459,9 +459,9 @@ One day the black man at Bloomingdale’s post office was asking me to take a vi
 * Applying for extra work at Bloomingdale's
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:22
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:22
   :END:
 
 
@@ -474,9 +474,9 @@ Poor me! If you work at the Indian Consulate, you do not get a social security n
 * Our pay day tradition
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:23
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:23
   :END:
 
 
@@ -489,9 +489,9 @@ Mr. Ramamoorthy did not join us. But Mr. Ramamoorthy used to invite us to his pl
 * A quiet place to eat lunch
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:24
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:24
   :END:
 
 
@@ -512,9 +512,9 @@ The other workers used to go to the cafeteria in Central Park, which was across 
 * The ice cream man
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:25
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:25
   :END:
 
 
@@ -527,9 +527,9 @@ On the days when I had very little money, that ice cream bar became my lunch.
 * A letter to the Consul General
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:26
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:26
   :END:
 
 
@@ -560,9 +560,9 @@ Then, in front of me, he tore the letter into pieces and threw it away. He did n
 * I come from Chittagong
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:27
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:27
   :END:
 
 
@@ -595,9 +595,9 @@ Then he told me one of his personal experiences. One day he was walking by Pandi
 * My first harmonium
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:28
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:28
   :END:
 
 
@@ -631,9 +631,9 @@ So he took my seven dollars and gave me back one dollar. I do not know why. Then
 * My first musical performance
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:29
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:29
   :END:
 
 
@@ -650,9 +650,9 @@ I was there an hour ahead of time. I was looking at the street light by the gate
 * The accomplice
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:30
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:30
   :END:
 
 
@@ -667,9 +667,9 @@ I told the story to Mr. Mehrotra in 1989 when I went to eat at his residence in 
 * The big shot from India
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:31
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:31
   :END:
 
 
@@ -754,9 +754,9 @@ Afterwards, Surendra Mohan Ghosh asked me to come to his place and he was so nic
 * India day picnic
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:32
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:32
   :END:
 
 
@@ -771,9 +771,9 @@ I told Alo my sad story. She used to preserve everything, so she preserved that 
 * How could my husband die?
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:33
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:33
   :END:
 
 
@@ -794,9 +794,9 @@ The following day, the Consulate workers collected money to help her go back to 
 * The frightened secretary
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:34
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:34
   :END:
 
 
@@ -807,9 +807,9 @@ The Consul General had three secretaries. The main one, an elderly man named Gan
 * I cannot recognise you
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:35
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:35
   :END:
 
 
@@ -834,9 +834,9 @@ O God, as soon as he said the name, I knew who he was. “From your name I can r
 * The Consul General's loss
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:36
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:36
   :END:
 
 
@@ -853,9 +853,9 @@ The following day, when I arrived at work, whom did I see? The Consul General. F
 * Farewell to the Consul General
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:37
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:37
   :END:
 
 
@@ -870,9 +870,9 @@ S. K. Roy’s wife was a Muslim, although he was a Roman Catholic. She was thinn
 * My first camera
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:38
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:38
   :END:
 
 
@@ -889,9 +889,9 @@ That was my first and last experience in those days with a camera. Some years la
 * Diplomatic privileges
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:39
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:39
   :END:
 
 
@@ -915,9 +915,9 @@ But to my home address once on New Utrecht Avenue a telegram did come. That was 
 * A performance at the Indian Cultural Centre
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:40
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:40
   :END:
 
 
@@ -932,9 +932,9 @@ I sang ten devotional songs in Sanskrit and Bengali, and I gave a short commenta
 * Everything changes
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:41
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:41
   :END:
 
 
@@ -949,9 +949,9 @@ His greeting was very nice! But everything changes. Three or four times he came 
 * A Far-East reunion
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:42
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:42
   :END:
 
 
@@ -962,9 +962,9 @@ Dr. S. Gupta succeeded S. K. Roy as Consul General. After I left the Indian Cons
 * Our paths continue to cross
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:43
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:43
   :END:
 
 
@@ -979,9 +979,9 @@ He and his wife came to our programme at the United Nations in 1987. Two years l
 * All excellent smokers
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:44
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:44
   :END:
 
 
@@ -996,9 +996,9 @@ Smoking is such a horrible thing! If three persons are smoking, what can you do?
 * The first and last time!
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:45
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:45
   :END:
 
 
@@ -1009,9 +1009,9 @@ One day one of my friends at the Consulate invited me to go with him to watch ho
 * My religion is the best
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:46
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:46
   :END:
 
 
@@ -1022,9 +1022,9 @@ The Consul for Information was my esteemed friend Nirmaljit Singh. He was a Sikh
 * Inner blessings
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:47
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:47
   :END:
 
 
@@ -1041,9 +1041,9 @@ Even in those days, when I was a junior clerk and she was a junior clerk, she sa
 * A little bit of advice
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:48
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:48
   :END:
 
 
@@ -1054,9 +1054,9 @@ I had another friend at the Consulate whose name was Kapoor. He was a friend and
 * Uncle, uncle!
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:49
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:49
   :END:
 
 
@@ -1071,9 +1071,9 @@ He sent his little boy to call me, “Uncle, uncle!”
 * She saw India inside me
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:50
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:50
   :END:
 
 
@@ -1090,9 +1090,9 @@ That was my first private talk.
 * No money, no money!
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:51
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:51
   :END:
 
 
@@ -1105,9 +1105,9 @@ I went there to see her once. The restaurant was supposed to open at five-thirty
 * You do not belong here
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:52
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:52
   :END:
 
 
@@ -1122,9 +1122,9 @@ Then he was so happy when I finally left the Indian Consulate.
 * I failed to see Jacqueline Kennedy
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:53
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:53
   :END:
 
 
@@ -1137,9 +1137,9 @@ Now I laugh. How easily I could have seen her at that gallery the way my colleag
 * A special friend
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:54
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:54
   :END:
 
 
@@ -1162,9 +1162,9 @@ This friend is very fond of me. He really values me. If he had not recognised me
 * You carry two worlds
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:55
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:55
   :END:
 
 
@@ -1187,9 +1187,9 @@ How people can be so nice to me! At the Indian Consulate, the people who worked 
 * Is that the same Chinmoy?
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:56
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:56
   :END:
 
 
@@ -1202,9 +1202,9 @@ In August 1996 a lady happened to see a poster about me in Manhattan. She came t
 * My letter of resignation
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:57
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:57
   :END:
 
 
@@ -1257,9 +1257,9 @@ Chinmoy Kumar Ghose
 * Part II -- From apartment to apartment
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:58e1
+  :genre: section
+  :keywords:
+  :cite-key: MCY:58e1
   :END:
 
 
@@ -1267,9 +1267,9 @@ Chinmoy Kumar Ghose
 * Dire poverty
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:58
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:58
   :END:
 
 
@@ -1288,9 +1288,9 @@ It was in this park that I wrote my famous poems “I am a Thief,” “I am a F
 * A short walk to the consulate
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:59
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:59
   :END:
 
 
@@ -1307,9 +1307,9 @@ One day I was about to go to the Museum of Natural History to look at the exhibi
 * An apartment next to the train line
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:60
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:60
   :END:
 
 
@@ -1322,9 +1322,9 @@ The train used to pass only two or three metres away from this apartment. Not ac
 * Saved by my Mother Kali
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:61
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:61
   :END:
 
 
@@ -1347,9 +1347,9 @@ Many years later, Mahavishnu made the throne in my meditation room and he put th
 * The fat sentry
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:62
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:62
   :END:
 
 
@@ -1360,9 +1360,9 @@ The funniest thing was that a young girl, fatter than the fattest, used to sit o
 * Upstairs, soul repair!
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:63
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:63
   :END:
 
 
@@ -1373,9 +1373,9 @@ Our first Centre in New York started in Brooklyn on Hamilton Parkway. Our second
 * Part III -- My subway experiences
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:64e1
+  :genre: section
+  :keywords:
+  :cite-key: MCY:64e1
   :END:
 
 
@@ -1386,9 +1386,9 @@ Our first Centre in New York started in Brooklyn on Hamilton Parkway. Our second
 * Absent-minded hero
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:64
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:64
   :END:
 
 
@@ -1403,9 +1403,9 @@ On another occasion almost the very same thing happened. Again I put my token in
 * Mad train versus God's Will
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:65
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:65
   :END:
 
 
@@ -1426,9 +1426,9 @@ On this trip, our invitation to death was compelled by a single individual, but 
 * Indians cannot tell a lie
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:66
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:66
   :END:
 
 
@@ -1451,9 +1451,9 @@ On entering the train, I shed tears and thanked the Divine in him, for he had se
 * Two revolvers
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:67
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:67
   :END:
 
 
@@ -1476,9 +1476,9 @@ While I did not entirely agree with his philosophy, I was deeply moved by his si
 * Surrender not accepted
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:68
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:68
   :END:
 
 
@@ -1497,9 +1497,9 @@ Many painful injuries had to pay the price for saving one life. My Kali refused 
 * A nightmare journey
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:69
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:69
   :END:
 
 
@@ -1518,9 +1518,9 @@ Fortunately, buses had been provided to take us to another subway line, the IRT,
 * My Scottish father, my Indian son
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:70
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:70
   :END:
 
 
@@ -1533,9 +1533,9 @@ As he sat down, another aged man, looking at me, inquired of him, “Who is he?�
 * Getting lost
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:71
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:71
   :END:
 
 
@@ -1552,9 +1552,9 @@ Every time I would take the wrong train.
 * Commuting from Brooklyn
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:72
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:72
   :END:
 
 
@@ -1573,9 +1573,9 @@ In January 1966 there was a general transit strike for two weeks and I had to wa
 Part IV -- Early friends and admirers
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:73e1
+  :genre: section
+  :keywords:
+  :cite-key: MCY:73e1
   :END:
 
 
@@ -1583,9 +1583,9 @@ Part IV -- Early friends and admirers
 * My talk to the walls
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:73
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:73
   :END:
 
 
@@ -1602,9 +1602,9 @@ In my case also, I gave my talk. Ida sat by the door the entire time with the ho
 * Attacked by hostile forces
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:74
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:74
   :END:
 
 
@@ -1619,9 +1619,9 @@ In the morning, I said to my hostess, “What happened to your husband, Ida?” 
 * He believed in Light, not God
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:75
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:75
   :END:
 
 
@@ -1634,9 +1634,9 @@ That is how our argument ended. His philosophy was like that of the Buddhists. T
 * The lawyer's promise
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:76
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:76
   :END:
 
 
@@ -1651,9 +1651,9 @@ So that is the story of the lawyer who became so devoted that he wanted to give 
 * My way of chanting Aum
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:77
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:77
   :END:
 
 
@@ -1668,9 +1668,9 @@ Such funny, funny incidents happened in Minneapolis, right from the very first n
 * Sight-seeing in Minneapolis
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:78
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:78
   :END:
 
 
@@ -1683,9 +1683,9 @@ They lived in Saudi Arabia. On the same day, at the same hour, we had to catch a
 * Something in my eyes
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:79
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:79
   :END:
 
 
@@ -1700,9 +1700,9 @@ Then I became friends with her. So thirty-four years ago she saw something insid
 * A reunion with Ida Patterson
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:80
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:80
   :END:
 
 
@@ -1717,9 +1717,9 @@ She replied, “You were just a young man. You said you came into the lion’s m
 * My beloved Woodstock
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:81
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:81
   :END:
 
 
@@ -1738,9 +1738,9 @@ Then one of my sponsors, Mrs. Ann Harrison, would come and ask me a volley of qu
 * My first driving experience
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:82
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:82
   :END:
 
 
@@ -1763,9 +1763,9 @@ The policeman admired my stupid innocence and he did not fine me.
 * Writing on a napkin
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:83
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:83
   :END:
 
 
@@ -1780,9 +1780,9 @@ Rudy had an antique shop in New York that contained many beautiful statues of th
 * The time difference
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:84
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:84
   :END:
 
 
@@ -1801,9 +1801,9 @@ Many years later, this friend came to our meditation. She was from the Self-Real
 * Learning to drive in Woodstock
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:85
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:85
   :END:
 
 
@@ -1818,9 +1818,9 @@ Then we would come to a green light and the little doll would tell her to stop. 
 * The Golden Purusha
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:86
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:86
   :END:
 
 
@@ -1831,9 +1831,9 @@ Here in America I saw the Supreme once as a Golden Purusha. Do you know where? I
 * The heart and soul of Woodstock
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:87
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:87
   :END:
 
 
@@ -1855,9 +1855,9 @@ I cannot express adequately my inner feelings. I can only say this much: O heart
 * Riding the escalator at the United Nations
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:88
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:88
   :END:
 
 
@@ -1872,9 +1872,9 @@ Even now it happens that I get confused and take the wrong escalator. Quite ofte
 * The never-ending grace
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:89
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:89
   :END:
 
 
@@ -1889,9 +1889,9 @@ The second time I visited Eric’s parents, I was there for three or four days. 
 * I cannot eat meat
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:90
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:90
   :END:
 
 
@@ -1912,9 +1912,9 @@ Now I have the same kind of remote control.
 * My bus experience
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:91
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:91
   :END:
 
 
@@ -1925,9 +1925,9 @@ Once I went alone to visit Eric’s parents in Pittsburgh. While coming back at 
 * I do not need any earthly degree
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:92
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:92
   :END:
 
 
@@ -1942,9 +1942,9 @@ My friend John Kelly felt sincerely sorry for me. I said, “I am not going to g
 * The ten-cent store
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:93
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:93
   :END:
 
 
@@ -1961,9 +1961,9 @@ Last month, I went to Greenwich Village to see a doctor for my leg and I looked 
 * Second-hand clothes
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:94
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:94
   :END:
 
 
@@ -1974,9 +1974,9 @@ Many times at the Indian Consulate I wore suits and jackets that did not fit me 
 * Arthur's spiritual mother
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:95
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:95
   :END:
 
 
@@ -2003,9 +2003,9 @@ Arthur Gregor was very closely connected with the Indian Ambassador to the UN, R
 * Reading out my poems in a fancy restaurant
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:96
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:96
   :END:
 
 
@@ -2022,9 +2022,9 @@ That was my first and last experience reading out in a restaurant. It was so noi
 * A second invitation
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:97
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:97
   :END:
 
 
@@ -2041,9 +2041,9 @@ Then she requested me to read out some of my poems. But on this occasion, I deli
 * At the ice rink
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:98
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:98
   :END:
 
 
@@ -2056,9 +2056,9 @@ Poor me! I was only watching and watching from the side.
 * Hitler took care of his father
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:99
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:99
   :END:
 
 
@@ -2073,9 +2073,9 @@ In this way I came to learn that his father had been killed in the war.
 * The tooth-maker-disciple
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:100
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:100
   :END:
 
 
@@ -2086,9 +2086,9 @@ In this way I came to learn that his father had been killed in the war.
 * My first printer
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:101
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:101
   :END:
 
 
@@ -2109,9 +2109,9 @@ Then he started saying that he knew one day I would be great.
 * I still remember Mr. Custer
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:102
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:102
   :END:
 
 
@@ -2132,9 +2132,9 @@ So he printed one book.
 * My adopted grandmother
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:103
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:103
   :END:
 
 
@@ -2147,9 +2147,9 @@ Afterwards, what happened to her? Where did she go? She went out of my life.
 * Going to Viet Nam
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:104
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:104
   :END:
 
 
@@ -2178,9 +2178,9 @@ Unfortunately, these experiences never change anybody’s nature. Nature changes
 * My fleeting smile
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:105
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:105
   :END:
 
 
@@ -2199,9 +2199,9 @@ My smile took away all his suffering.
 * A meeting with Paul Richard
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:106
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:106
   :END:
 
 
@@ -2226,9 +2226,9 @@ He was an excellent writer. He wrote many books on India, and quite a few articl
 * A divine warrior
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:107
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:107
   :END:
 
 
@@ -2243,9 +2243,9 @@ Nolini-da was my immediate boss at the Ashram.
 * Getting a green card
 
   :PROPERTIES:
-  :GENRE: anecdote-biographical
-  :KEYWORDS:
-  :CITE-KEY: MCY:108
+  :genre: anecdote-biographical
+  :keywords:
+  :cite-key: MCY:108
   :END:
 
 
@@ -2270,9 +2270,9 @@ I am so grateful to Rose. She was the one who saved me, the main instrument in g
 * Part V -- The first messages
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:109e1
+  :genre: section
+  :keywords:
+  :cite-key: MCY:109e1
   :END:
 
 
@@ -2280,9 +2280,9 @@ I am so grateful to Rose. She was the one who saved me, the main instrument in g
 * New Year's Message for the year 1966
 
   :PROPERTIES:
-  :GENRE: message
-  :KEYWORDS:
-  :CITE-KEY: MCY:109
+  :genre: message
+  :keywords:
+  :cite-key: MCY:109
   :END:
 
 
@@ -2306,9 +2306,9 @@ May the universal embrace of the New Year flower into a permanent smile of Victo
 * Motto of the Aum Centres
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MCY:110
+  :genre: poem
+  :keywords:
+  :cite-key: MCY:110
   :END:
 
 
@@ -2327,9 +2327,9 @@ Man is Immortality’s Life.
 * New Year's Message for the year 1967
 
   :PROPERTIES:
-  :GENRE: message
-  :KEYWORDS:
-  :CITE-KEY: MCY:111
+  :genre: message
+  :keywords:
+  :cite-key: MCY:111
   :END:
 
 
@@ -2359,9 +2359,9 @@ Fly! Yours is the Goal of the ever-transcending Beyond.
 * Anniversary Message of 13 April 1967
 
   :PROPERTIES:
-  :GENRE: message
-  :KEYWORDS:
-  :CITE-KEY: MCY:112
+  :genre: message
+  :keywords:
+  :cite-key: MCY:112
   :END:
 
 
@@ -2385,9 +2385,9 @@ It is with you, for you and in you that I exist
 Part VI -- A brief chronology
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MCY:113e1
+  :genre: note
+  :keywords:
+  :cite-key: MCY:113e1
   :END:
 
 
@@ -2452,9 +2452,9 @@ Part VI -- A brief chronology
 * PART VII -- Appendix
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: MCY:113e2
+  :genre: section
+  :keywords:
+  :cite-key: MCY:113e2
   :END:
 
 
@@ -2465,9 +2465,9 @@ Part VI -- A brief chronology
 * Some members of the Indian Consulate 1964-1967
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MCY:113e3
+  :genre: note
+  :keywords:
+  :cite-key: MCY:113e3
   :END:
 
 
@@ -2559,9 +2559,9 @@ Part VI -- A brief chronology
 * Some staff members in the Permanent Mission of India to the United Nations during the period 1966-67
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: MCY:113e4
+  :genre: note
+  :keywords:
+  :cite-key: MCY:113e4
   :END:
 
 
@@ -2576,9 +2576,9 @@ Part VI -- A brief chronology
 * Editor's preface to the first edition
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: MCY:113e5
+  :genre: preface
+  :keywords:
+  :cite-key: MCY:113e5
   :END:
 
 

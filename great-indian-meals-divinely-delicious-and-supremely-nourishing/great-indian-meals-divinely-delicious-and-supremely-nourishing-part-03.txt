@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0377
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1979
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GIM-3
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 0377
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1979
+  :publisher: Agni Press
+  :cite-key: GIM-3
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: GIM:41e1
+  :genre: preface
+  :keywords:
+  :cite-key: GIM:41e1
   :END:
   
   
@@ -37,9 +37,9 @@ These tales are not only delicious and nourishing, but also encouraging and illu
 * Silence is the answer
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:41
+  :genre: story
+  :keywords:
+  :cite-key: GIM:41
   :END:
 
 
@@ -102,9 +102,9 @@ Ramachandra touched Vashishtha’s feet and said, “Your name is silence, my Lo
 * When argument ceases, illumination dawns
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:42
+  :genre: story
+  :keywords:
+  :cite-key: GIM:42
   :END:
 
 
@@ -147,9 +147,9 @@ Kavir said, “Enough of your insolence. In this world, when God creates somethi
 * Conquer your enemies
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:43
+  :genre: story
+  :keywords:
+  :cite-key: GIM:43
   :END:
 
 
@@ -188,9 +188,9 @@ The disciple touched his Master’s feet. “I know, Master, your Compassion is 
 * Have faith in Vishnu!
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:44
+  :genre: story
+  :keywords:
+  :cite-key: GIM:44
   :END:
 
 
@@ -217,9 +217,9 @@ Vishnu said, “Either one has to have faith in me or faith in oneself. If one h
 * Spirituality is for those who are careful
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:45
+  :genre: story
+  :keywords:
+  :cite-key: GIM:45
   :END:
 
 
@@ -250,9 +250,9 @@ The Master said, “I will forgive you for what you have done. Even your husband
 * Chandra Gupta and the lion
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:46
+  :genre: story
+  :keywords:
+  :cite-key: GIM:46
   :END:
 
 
@@ -319,9 +319,9 @@ Rama Gupta became frightened and returned to the palace. Because his older broth
 * Rama Gupta’s capture
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:47
+  :genre: story
+  :keywords:
+  :cite-key: GIM:47
   :END:
 
 
@@ -358,9 +358,9 @@ So with a small army, the King and Queen set out for a short vacation, wandering
 * The Queens plight
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:48
+  :genre: story
+  :keywords:
+  :cite-key: GIM:48
   :END:
 
 
@@ -405,9 +405,9 @@ So, with his very limited army he fought King Shaka’s soldiers and won. Then h
 * The death of the King
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:49
+  :genre: story
+  :keywords:
+  :cite-key: GIM:49
   :END:
 
 
@@ -454,9 +454,9 @@ Chandra Gupta could do nothing to save his brother, who died in his arms. “Wha
 * A father’s dream becomes reality
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:50
+  :genre: story
+  :keywords:
+  :cite-key: GIM:50
   :END:
 
 
@@ -499,9 +499,9 @@ Dhruva Devi said, “And your father is finally getting his wish. His dream has 
 * Bhudep Mukherjee’s examination
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:51
+  :genre: story
+  :keywords:
+  :cite-key: GIM:51
   :END:
 
 
@@ -526,9 +526,9 @@ Bhudep Mukherjee eventually became a very, very great scholar. He was a great so
 * Tagore sings
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:52
+  :genre: story
+  :keywords:
+  :cite-key: GIM:52
   :END:
 
 
@@ -553,9 +553,9 @@ Indeed, this heroic soul became the poet of poets. He became India’s greatest 
 * The train journey
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:53
+  :genre: story
+  :keywords:
+  :cite-key: GIM:53
   :END:
 
 
@@ -590,9 +590,9 @@ Because of the commotion, many people came running to see what had happened. Wha
 * Ishwar Chandra Vidyasagar
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:54
+  :genre: story
+  :keywords:
+  :cite-key: GIM:54
   :END:
 
 
@@ -621,9 +621,9 @@ The Englishman was shocked and, at the same time, illumined by the learned man�
 * The gardener
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:55
+  :genre: story
+  :keywords:
+  :cite-key: GIM:55
   :END:
 
 
@@ -652,9 +652,9 @@ He was the second Prime Minister of India, after Nehru. Lal Bahadur Shastri: sim
 * The blessings of Acharya Prafulla Chandra Ray
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:56
+  :genre: story
+  :keywords:
+  :cite-key: GIM:56
   :END:
 
 
@@ -691,9 +691,9 @@ This man was India’s most famous scientist-pioneer, P.C. Ray. He received his 
 * The Brahmin and the old woman
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:57
+  :genre: story
+  :keywords:
+  :cite-key: GIM:57
   :END:
 
 
@@ -726,9 +726,9 @@ The Brahmin happened to be the judge of the Calcutta High Court. He was a great 
 * Chitta Ranjan Das
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:58
+  :genre: story
+  :keywords:
+  :cite-key: GIM:58
   :END:
 
 
@@ -757,9 +757,9 @@ This great man was Chitta Ranjan Das. He was known as the most beloved friend of
 * Sankaracharya becomes a sannyasi
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:59
+  :genre: story
+  :keywords:
+  :cite-key: GIM:59
   :END:
 
 
@@ -796,9 +796,9 @@ This young man was none other than India’s Sankaracharya, the peerless philoso
 * Netaji Subhas Chandra Bose and the hooligan chief
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: GIM:60
+  :genre: story
+  :keywords:
+  :cite-key: GIM:60
   :END:
 
 

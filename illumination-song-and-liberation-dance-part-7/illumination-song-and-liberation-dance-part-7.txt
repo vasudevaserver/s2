@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 444
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1981
-  :PUBLISHER:
-  :CITE-KEY: ISLD-7
-  :GENRE: song
+  :book-number: 444
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1981
+  :publisher:
+  :cite-key: ISLD-7
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:561e1
+  :genre: note
+  :cite-key: ISLD:561e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -29,8 +29,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: ISLD:561e2
+  :genre: note
+  :cite-key: ISLD:561e2
   :END:
 
 
@@ -40,10 +40,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Kena Kandao Kena Haso Ami Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:561
+  :cite-key: ISLD:561
   :END:
 
 #+BEGIN_VERSE
@@ -60,10 +60,10 @@ Ashish karo prachar kari mago tomar bani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:562
+  :cite-key: ISLD:562
   :END:
 
 #+BEGIN_VERSE
@@ -83,10 +83,10 @@ The opportunity to manifest You.
 * Arame Jar Jiban Kate Chinlana Se Jibanke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:563
+  :cite-key: ISLD:563
   :END:
 
 #+BEGIN_VERSE
@@ -103,10 +103,10 @@ Hasi mukhe dhare thake ma tomar charanke
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:564
+  :cite-key: ISLD:564
   :END:
 
 #+BEGIN_VERSE
@@ -132,10 +132,10 @@ And fulfilled forever.
 * Nishidin Alo Shikha Jwaluk Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:565
+  :cite-key: ISLD:565
   :END:
 
 #+BEGIN_VERSE
@@ -154,10 +154,10 @@ E shishu thakbe cheye ma taba pane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:566
+  :cite-key: ISLD:566
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ Mother, within and without.
 * Ore Akash Amar Bhai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:567
+  :cite-key: ISLD:567
   :END:
 
 #+BEGIN_VERSE
@@ -201,10 +201,10 @@ Ami tomar bijoy gai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:568
+  :cite-key: ISLD:568
   :END:
 
 #+BEGIN_VERSE
@@ -224,10 +224,10 @@ I sing your victory-song.
 * Ore Batas Ore Amar Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:569
+  :cite-key: ISLD:569
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Akash prane chalo kari naba abhijan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:570
+  :cite-key: ISLD:570
   :END:
 
 #+BEGIN_VERSE
@@ -274,10 +274,10 @@ Towards the highest sky.
 * Jetha Tumi Nai Jetha Ami Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:571
+  :cite-key: ISLD:571
   :END:
 
 #+BEGIN_VERSE
@@ -294,10 +294,10 @@ Keha kare nahi dake
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:572
+  :cite-key: ISLD:572
   :END:
 
 #+BEGIN_VERSE
@@ -320,10 +320,10 @@ And no exchange of human thought.
 * Nai Kona Rup Adan Pradan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:573
+  :cite-key: ISLD:573
   :END:
 
 #+BEGIN_VERSE
@@ -340,10 +340,10 @@ Shudhu ekakar jena nirakar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:574
+  :cite-key: ISLD:574
   :END:
 
 #+BEGIN_VERSE
@@ -361,10 +361,10 @@ Captures my life’s feeble birth.
 * Shunya Hate Abar Asi Phire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:575
+  :cite-key: ISLD:575
   :END:
 
 #+BEGIN_VERSE
@@ -385,10 +385,10 @@ Naba bhabe bhalobasi abar dharitrire
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:576
+  :cite-key: ISLD:576
   :END:
 
 #+BEGIN_VERSE
@@ -410,10 +410,10 @@ To earth’s stark reality-life.
 * Era Kara Ghiriche Mor Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:577
+  :cite-key: ISLD:577
   :END:
 
 #+BEGIN_VERSE
@@ -430,10 +430,10 @@ Keba jane kothai amar sharan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:578
+  :cite-key: ISLD:578
   :END:
 
 #+BEGIN_VERSE
@@ -453,10 +453,10 @@ Anywhere in God’s entire creation.
 * Karo Sathe Nai Amar Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:579
+  :cite-key: ISLD:579
   :END:
 
 #+BEGIN_VERSE
@@ -477,10 +477,10 @@ Akash patal kalpana shudhu karije bayan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:580
+  :cite-key: ISLD:580
   :END:
 
 #+BEGIN_VERSE
@@ -507,10 +507,10 @@ And that reality is my Eternity’s Beloved Supreme.
 * Charan Tale Asan Pele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:581
+  :cite-key: ISLD:581
   :END:
 
 #+BEGIN_VERSE
@@ -525,10 +525,10 @@ Ar kabhu ma kandibona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:582
+  :cite-key: ISLD:582
   :END:
 
 #+BEGIN_VERSE
@@ -546,10 +546,10 @@ Will cease once and for all.
 * Asha Diye Kena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:583
+  :cite-key: ISLD:583
   :END:
 
 #+BEGIN_VERSE
@@ -568,10 +568,10 @@ Karbe tumi alo
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:584
+  :cite-key: ISLD:584
   :END:
 
 #+BEGIN_VERSE
@@ -595,10 +595,10 @@ To abide by Your Will divine.
 * Jano Tumi Sakal Katha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:585
+  :cite-key: ISLD:585
   :END:
 
 #+BEGIN_VERSE
@@ -613,10 +613,10 @@ Karo katha shunibona
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:586
+  :cite-key: ISLD:586
   :END:
 
 #+BEGIN_VERSE
@@ -636,10 +636,10 @@ I shall ceaselessly speak
 * Ogo Ashutosh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:587
+  :cite-key: ISLD:587
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Ogo ashutosh ekti patai tomar santosh
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:588
+  :cite-key: ISLD:588
   :END:
 
 #+BEGIN_VERSE
@@ -688,10 +688,10 @@ Compassion-Wealth.
 * Nitya Naba Pragya Tabo Puto Jyotirmoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:589
+  :cite-key: ISLD:589
   :END:
 
 #+BEGIN_VERSE
@@ -712,10 +712,10 @@ Haye jabo purna satyamoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:590
+  :cite-key: ISLD:590
   :END:
 
 #+BEGIN_VERSE
@@ -738,10 +738,10 @@ And Truth without.
 * Kemane Ta Bali Ki Dekhechi Ki Shunechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:591
+  :cite-key: ISLD:591
   :END:
 
 #+BEGIN_VERSE
@@ -757,10 +757,10 @@ Sab chale jai chhali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:592
+  :cite-key: ISLD:592
   :END:
 
 #+BEGIN_VERSE
@@ -779,10 +779,10 @@ Here, there, everywhere.
 * Aparuper Rup Rekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:593
+  :cite-key: ISLD:593
   :END:
 
 #+BEGIN_VERSE
@@ -800,10 +800,10 @@ Kemane ta bali
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:594
+  :cite-key: ISLD:594
   :END:
 
 #+BEGIN_VERSE
@@ -826,10 +826,10 @@ That escapes humanity’s capacity.
 * Ma Nirabe Mane Tomai Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:595
+  :cite-key: ISLD:595
   :END:
 
 #+BEGIN_VERSE
@@ -850,10 +850,10 @@ Makha makhi dhaka daki
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:596
+  :cite-key: ISLD:596
   :END:
 
 #+BEGIN_VERSE
@@ -873,10 +873,10 @@ My true reality-form.
 * Jiban Nadi Kon Pathe Jai Ke Jane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:597
+  :cite-key: ISLD:597
   :END:
 
 #+BEGIN_VERSE
@@ -895,10 +895,10 @@ Ke jane go ke jane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:598
+  :cite-key: ISLD:598
   :END:
 
 #+BEGIN_VERSE
@@ -914,10 +914,10 @@ Nobody knows if He has any hope in my inner progress.
 * Jadi Dao Bandhan Khule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:599
+  :cite-key: ISLD:599
   :END:
 
 #+BEGIN_VERSE
@@ -936,10 +936,10 @@ Jadi nao prabhu kole tule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:600
+  :cite-key: ISLD:600
   :END:
 
 #+BEGIN_VERSE
@@ -960,10 +960,10 @@ To stand beside You.
 * Jadi Ekti Bindhu Bhakti Dite Prane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:601
+  :cite-key: ISLD:601
   :END:
 
 #+BEGIN_VERSE
@@ -982,10 +982,10 @@ Bishwa bhubana purna karo tomar dane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:602
+  :cite-key: ISLD:602
   :END:
 
 #+BEGIN_VERSE
@@ -1014,10 +1014,10 @@ The magnanimity of Your divine Heart.
 * Bhakti Halo Mukti Duar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:603
+  :cite-key: ISLD:603
   :END:
 
 #+BEGIN_VERSE
@@ -1036,10 +1036,10 @@ Khule rakhe hriday duar
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:604
+  :cite-key: ISLD:604
   :END:
 
 #+BEGIN_VERSE
@@ -1057,10 +1057,10 @@ A seat reserved for its Beloved Supreme.
 * Ami Jare Peye Basi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:605
+  :cite-key: ISLD:605
   :END:
 
 #+BEGIN_VERSE
@@ -1080,10 +1080,10 @@ Amar rakta habe tahar lekhar masi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:606
+  :cite-key: ISLD:606
   :END:
 
 #+BEGIN_VERSE
@@ -1105,10 +1105,10 @@ With his heart’s ever-growing and ever-glowing
 * Jibane Amar Jatoi Bedan Peyechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:607
+  :cite-key: ISLD:607
   :END:
 
 #+BEGIN_VERSE
@@ -1124,10 +1124,10 @@ Acho tumi mor sath
 * Jedin Tomar Srishti Nehari Garbito Pran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:608
+  :cite-key: ISLD:608
   :END:
 
 #+BEGIN_VERSE
@@ -1143,10 +1143,10 @@ Nutan alok pat
 * Ke Habe Mor Pather Sathi Prabhat Halo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:609
+  :cite-key: ISLD:609
   :END:
 
 #+BEGIN_VERSE
@@ -1162,10 +1162,10 @@ Ke chahe tar sathi hate
 * Mayer Kache Cheler Abar Rin Sabai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:610
+  :cite-key: ISLD:610
   :END:
 
 #+BEGIN_VERSE
@@ -1185,10 +1185,10 @@ Thakbo sada tomar kole lin
 * Chandra Utha Saphal Halo Kar Kar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:611
+  :cite-key: ISLD:611
   :END:
 
 #+BEGIN_VERSE
@@ -1206,10 +1206,10 @@ Batas jena deke bale ami shudhu mar
 * Anek Diyecho Ma Katoi Tomar Mahima
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:612
+  :cite-key: ISLD:612
   :END:
 
 #+BEGIN_VERSE
@@ -1229,10 +1229,10 @@ Ebar tomare chahima
 * Eki Saje Ele Hriday Majhe Bishwa Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:613
+  :cite-key: ISLD:613
   :END:
 
 #+BEGIN_VERSE
@@ -1254,10 +1254,10 @@ Ajo nahi baje
 * Ache Bedan Ache Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:614
+  :cite-key: ISLD:614
   :END:
 
 #+BEGIN_VERSE
@@ -1275,10 +1275,10 @@ Tabu name nitya jyoti dhara
 * Shato Kusum Jhare Pare Lakka Kusum
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:615
+  :cite-key: ISLD:615
   :END:
 
 #+BEGIN_VERSE
@@ -1298,10 +1298,10 @@ Amar khudra man
 * Lut Kora Dhan Kare Jaro Je Hate Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:616
+  :cite-key: ISLD:616
   :END:
 
 #+BEGIN_VERSE
@@ -1318,10 +1318,10 @@ Dhular pare debaloy tor garte habe
 * Ami Thaki Epare Tumi Thako Opare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:617
+  :cite-key: ISLD:617
   :END:
 
 #+BEGIN_VERSE
@@ -1340,10 +1340,10 @@ Alo niye asbo phire e dhare
 * Amar Je Sab Baki Andhare Alote Ache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:618
+  :cite-key: ISLD:618
   :END:
 
 #+BEGIN_VERSE
@@ -1364,10 +1364,10 @@ Prabhu ebar amare nao daki
 * Akash Amai Dake Batas
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:619
+  :cite-key: ISLD:619
   :END:
 
 #+BEGIN_VERSE
@@ -1386,10 +1386,10 @@ Dhare achi shushu prabhuke
 * Dine Rate Sukhe Dukhe Rakho Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:620
+  :cite-key: ISLD:620
   :END:
 
 #+BEGIN_VERSE
@@ -1411,10 +1411,10 @@ Dine rate rakho amai kole
 * Ami Ki Dekhechi Ki Shunechi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:621
+  :cite-key: ISLD:621
   :END:
 
 #+BEGIN_VERSE
@@ -1435,10 +1435,10 @@ Hriday asane niyata tomai pujechi ki
 * Amake Amar Jana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:622
+  :cite-key: ISLD:622
   :END:
 
 #+BEGIN_VERSE
@@ -1460,10 +1460,10 @@ Tumi habe chiro apan amar chena
 * Amar Apan Paran Jage Prabhu Jatoi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:623
+  :cite-key: ISLD:623
   :END:
 
 #+BEGIN_VERSE
@@ -1481,10 +1481,10 @@ Amar apan paran jage
 * Dakiche More Pather Sathi Ar Jenai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:624
+  :cite-key: ISLD:624
   :END:
 
 #+BEGIN_VERSE
@@ -1503,10 +1503,10 @@ Rekhechi tar asan pati
 * Charte Habe Malin Ahankar Samoi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:625
+  :cite-key: ISLD:625
   :END:
 
 #+BEGIN_VERSE
@@ -1522,10 +1522,10 @@ Mukh dekhano bhar
 * Ami Ami Ami Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:626
+  :cite-key: ISLD:626
   :END:
 
 #+BEGIN_VERSE
@@ -1541,10 +1541,10 @@ Anya kehai noy
 * Manda Malir Tare Ebar Ghatye Habe Har
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:627
+  :cite-key: ISLD:627
   :END:
 
 #+BEGIN_VERSE
@@ -1560,10 +1560,10 @@ Sakal munda sakal ahankar
 * Katobar Ma Dak Diyecho Shunte Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:628
+  :cite-key: ISLD:628
   :END:
 
 #+BEGIN_VERSE
@@ -1585,10 +1585,10 @@ Tomar kache jaini
 * Kena Hetha Ami Esechi Kena Deha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:629
+  :cite-key: ISLD:629
   :END:
 
 #+BEGIN_VERSE
@@ -1608,10 +1608,10 @@ Sarba jiber joy
 * Pathe Chale Jete Jete Kakhan Ke Jane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:630
+  :cite-key: ISLD:630
   :END:
 
 #+BEGIN_VERSE
@@ -1630,10 +1630,10 @@ Tomare karuna ashe kakhan ke jane
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:631
+  :cite-key: ISLD:631
   :END:
 
 #+BEGIN_VERSE
@@ -1651,10 +1651,10 @@ And fulfil my hope.
 * Tomar Bani Hrid Kamale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:632
+  :cite-key: ISLD:632
   :END:
 
 #+BEGIN_VERSE
@@ -1671,10 +1671,10 @@ Asha jena na dake mor man
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:633
+  :cite-key: ISLD:633
   :END:
 
 #+BEGIN_VERSE
@@ -1694,10 +1694,10 @@ To transform my present possessions.
 * Tomare Ami Cheyechi Tomare Seba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:634
+  :cite-key: ISLD:634
   :END:
 
 #+BEGIN_VERSE
@@ -1717,10 +1717,10 @@ Kichui karini jante shudhu perechi
 * Bahir Haite Antara Mukhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:635
+  :cite-key: ISLD:635
   :END:
 
 #+BEGIN_VERSE
@@ -1735,10 +1735,10 @@ Diyecho kripar dan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:636
+  :cite-key: ISLD:636
   :END:
 
 #+BEGIN_VERSE
@@ -1756,10 +1756,10 @@ Your Compassion-Boons.
 * Sathi Jadi Nahi Mile Kena Pathe Tene
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:637
+  :cite-key: ISLD:637
   :END:
 
 #+BEGIN_VERSE
@@ -1779,10 +1779,10 @@ Jalbe shato bati
 * Pathe Pathe Shunya Hate Phiri Dware
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:638
+  :cite-key: ISLD:638
   :END:
 
 #+BEGIN_VERSE
@@ -1803,10 +1803,10 @@ Ebar mago niye chalo opare
 * Prabhur Tare Shunya Hathe Larte Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:639
+  :cite-key: ISLD:639
   :END:
 
 #+BEGIN_VERSE
@@ -1822,10 +1822,10 @@ Prabhur shakti tor hridaye habe jaro
 * Prabhu Dilam Amai Tomar Hathe Phulti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:640
+  :cite-key: ISLD:640
   :END:
 
 #+BEGIN_VERSE
@@ -1844,10 +1844,10 @@ Bhakti bhare janai pranam nutan prabhate
 * Path Dekhabar Lagi Kena Bhikkha Magi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:641
+  :cite-key: ISLD:641
   :END:
 
 #+BEGIN_VERSE
@@ -1865,10 +1865,10 @@ Tomai anurage
 * Premer Hoina Har Ja Ache Sab Dhele
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:642
+  :cite-key: ISLD:642
   :END:
 
 #+BEGIN_VERSE
@@ -1888,10 +1888,10 @@ Prema mayi ami je tomar
 * Pather Parichoy Sthayi Kichui Noy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:643
+  :cite-key: ISLD:643
   :END:
 
 #+BEGIN_VERSE
@@ -1910,10 +1910,10 @@ Andhakarer khoy
 * Praner Pran Je Shunchi Gan Theke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:644
+  :cite-key: ISLD:644
   :END:
 
 #+BEGIN_VERSE
@@ -1931,10 +1931,10 @@ Bishwa pita asbe chhute ganer tane
 * Sabai Jakhan Nichche Lute Ami O Ebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 12-05-1976
-  :CITE-KEY: ISLD:645
+  :cite-key: ISLD:645
   :END:
 
 #+BEGIN_VERSE

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0403
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1980
-  :PUBLISHER: Agni Press
-  :CITE-KEY: DSFR
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0403
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1980
+  :publisher: Agni Press
+  :cite-key: DSFR
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Part I
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DSFR:1e1
+  :genre: section
+  :keywords:
+  :cite-key: DSFR:1e1
   :END:
 
 
@@ -32,9 +32,9 @@
 * The disciples’ freedom
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DSFR:1
+  :genre: discourse
+  :keywords:
+  :cite-key: DSFR:1
   :END:
 
 
@@ -69,9 +69,9 @@ So from now on, dear ones, feel that you are pleasing yourself, not me. If you c
 * Part II: Questions answered during an informal gathering
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DSFR:2e1
+  :genre: section
+  :keywords:
+  :cite-key: DSFR:2e1
   :END:
 
 
@@ -79,9 +79,9 @@ So from now on, dear ones, feel that you are pleasing yourself, not me. If you c
 * Question:  Do people meditate in Heaven and does their consciousness go up and down?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:2
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:2
   :END:
 
 
@@ -92,9 +92,9 @@ So from now on, dear ones, feel that you are pleasing yourself, not me. If you c
 * Question: How long does it take a great Yogi or an Avatar to realise God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:3
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:3
   :END:
 
 
@@ -115,9 +115,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: Will those realised souls ever manifest God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:4
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:4
   :END:
 
 
@@ -128,9 +128,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: Will Christ ever come back and try again? So many people expect his second coming.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:5
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:5
   :END:
 
 
@@ -141,9 +141,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: Since you embody their consciousness, doesn’t your existence on earth represent a form of their coming back?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:6
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:6
   :END:
 
 
@@ -154,9 +154,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: Guru, wasn’t that whole idea of the second coming meant to be looked at symbolically and not really as an actual event? In other words, the second coming was the transformation that was to take place within the individual.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:7
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:7
   :END:
 
 
@@ -167,9 +167,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: Have any other great spiritual Masters come back in a different form?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:8
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:8
   :END:
 
 
@@ -180,9 +180,9 @@ So many spiritual Masters have come, but how many have left behind lasting manif
 * Question: In future incarnations, will we have other spiritual Masters, or will you directly guide us from above?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:9
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:9
   :END:
 
 
@@ -201,9 +201,9 @@ So, very good disciples will not have to go through forty or fifty incarnations.
 * Question: How do you make the difference between first class and second class disciples?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:10
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:10
   :END:
 
 
@@ -228,9 +228,9 @@ Again, I am saying that everybody has the opportunity to be my first class disci
 * Question: Usually I doubt that the thing I am doing in the outer world is the right thing. What should I do about this?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:11
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:11
   :END:
 
 
@@ -257,9 +257,9 @@ It is from love that you have to go to devotion and surrender. If you have divin
 * Question: Several times I've heard the boy disciples say it is easier for the girls because they can kind of fall in love with you, Guru. Is there any truth in this way of thinking?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:12
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:12
   :END:
 
 
@@ -280,9 +280,9 @@ You are being inwardly appreciated the moment I ask you. X waters the garden and
 * Question: Sometimes when I see my parents, they try to get me to leave your path, and other times they seem very sympathetic. I was just thinking maybe it would be better for me to break every connection I have with my parents. What do you think?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:13
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:13
   :END:
 
 
@@ -299,9 +299,9 @@ So if they are not hostile to your spiritual life, and if you are of some servic
 * Question: Is it possible for a Master to give someone a new mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:14
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:14
   :END:
 
 
@@ -316,9 +316,9 @@ When spiritual Masters do something, if they prove it outwardly, many times it b
 * Question: When you said that you take dark forces from the disciples and throw them into the universe, who gets them?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:15
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:15
   :END:
 
 
@@ -329,9 +329,9 @@ When spiritual Masters do something, if they prove it outwardly, many times it b
 * Question: In the Universal Consciousness do these forces go into another form of life, or will they be transformed?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:16
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:16
   :END:
 
 
@@ -342,9 +342,9 @@ When spiritual Masters do something, if they prove it outwardly, many times it b
 * Question: Can those forces come back from the Universal Consciousness and affect somebody again?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:17
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:17
   :END:
 
 
@@ -357,9 +357,9 @@ What can I do? Only I can take it from the disciples and put it in the other pla
 * Question: If you remove the undivine forces from us, and they just come back because we desire them or are attached to them, how can you remove the desire or attachment?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:18
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:18
   :END:
 
 
@@ -374,9 +374,9 @@ Our difficulty is that we think more of others than of ourselves -- not of their
 * Question: If you are consciously aware that you are actually being tortured by the vital or mind, does that mean you're still aspiring or does that mean you've surrendered?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:19
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:19
   :END:
 
 
@@ -387,9 +387,9 @@ Our difficulty is that we think more of others than of ourselves -- not of their
 * Question: Does that mean if you forget something you surrender to it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: DSFR:20
+  :genre: qa
+  :keywords:
+  :cite-key: DSFR:20
   :END:
 
 
@@ -400,9 +400,9 @@ Our difficulty is that we think more of others than of ourselves -- not of their
 * Part III
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: DSFR:21e1
+  :genre: section
+  :keywords:
+  :cite-key: DSFR:21e1
   :END:
 
 
@@ -410,9 +410,9 @@ Our difficulty is that we think more of others than of ourselves -- not of their
 * Attacking the Master
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DSFR:21
+  :genre: discourse
+  :keywords:
+  :cite-key: DSFR:21
   :END:
 
 
@@ -435,9 +435,9 @@ So please, please! You people attack me like anything. In the morning you attack
 * Disciple performances
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: DSFR:22
+  :genre: discourse
+  :keywords:
+  :cite-key: DSFR:22
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0297
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1976
-  :PUBLISHER: Agni Press
-  :CITE-KEY: RD
-  :GENRE: discourse
-  :KEYWORDS:
+  :book-number: 0297
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1976
+  :publisher: Agni Press
+  :cite-key: RD
+  :genre: discourse
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Spirituality
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:1
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:1
   :END:
 
 
@@ -67,9 +67,9 @@ Conference Room 14
 * Punishment
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:2
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:2
   :END:
 
 
@@ -86,9 +86,9 @@ When I do something wrong, no matter how trivial and insignificant it is, my Lor
 * The Role Of Humility In The Spiritual Life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:3
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:3
   :END:
 
 
@@ -111,9 +111,9 @@ Chapel of the Church Center for the United Nations
 * Self-Giving And Happiness
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:4
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:4
   :END:
 
 
@@ -150,9 +150,9 @@ United Nations Development Programme -- Alcoa Building
 * 25th Anniversary Of Unicef's "trick-Or-Treat"
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:5
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:5
   :END:
 
 
@@ -179,9 +179,9 @@ Dag Hammarskjold Library Auditorium
 * Prayer-Life, Meditation-Life, Contemplation-Life
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:6
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:6
   :END:
 
 
@@ -226,9 +226,9 @@ Chapel of the Church Center for the United Nations
 * Success And Progress
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:7
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:7
   :END:
 
 
@@ -259,9 +259,9 @@ Dag Hammarskjold Library Auditorium
 * Series On Great Men And Women
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: RD:8e1
+  :genre: section
+  :keywords:
+  :cite-key: RD:8e1
   :END:
 
 
@@ -269,9 +269,9 @@ Dag Hammarskjold Library Auditorium
 * INTRODUCTION
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:8
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:8
   :END:
 
 
@@ -288,9 +288,9 @@ Many souls came and presently are coming and eventually will come into the world
 * William Blake
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:9
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:9
   :END:
 
 
@@ -326,9 +326,9 @@ Room 550
 * Thomas Carlyle
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:10
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:10
   :END:
 
 
@@ -355,9 +355,9 @@ Room 550
 * Emily Dickinson
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:11
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:11
   :END:
 
 
@@ -394,9 +394,9 @@ Room 550
 * Margaret Wilson
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:12
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:12
   :END:
 
 
@@ -431,9 +431,9 @@ Church Center for the United Nations
 * 1976: The New Year, New Opportunities, New Challenges
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:13
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:13
   :END:
 
 
@@ -458,9 +458,9 @@ Dag Hammarskjold Library Auditorium
 * Concentration, Meditation, Contemplation
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:14
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:14
   :END:
 
 
@@ -493,9 +493,9 @@ Dag Hammarskjold Library Auditorium
 * Payments
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:15
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:15
   :END:
 
 
@@ -506,9 +506,9 @@ What must I pay? I must pay my earth-body's regular earthly rent. What should I 
 * Three Soulful Prayers
 
   :PROPERTIES:
-  :GENRE: prayer
-  :KEYWORDS:
-  :CITE-KEY: RD:16
+  :genre: prayer
+  :keywords:
+  :cite-key: RD:16
   :END:
 
 
@@ -531,9 +531,9 @@ Church Center for the United Nations
 * Humanity's Promise
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:17
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:17
   :END:
 
 
@@ -582,9 +582,9 @@ Dag Hammarskjold Library Auditorium
 * A New Teacher: Heart
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:18
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:18
   :END:
 
 
@@ -607,9 +607,9 @@ Room 550
 * My Captain Commands, "go On!"
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:19
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:19
   :END:
 
 
@@ -676,9 +676,9 @@ Dag Hammarskjold Library Auditorium
 * The Inner Call
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:20
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:20
   :END:
 
 
@@ -733,9 +733,9 @@ Dag Hammarskjold Library Auditorium
 * On A Birthday
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:21
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:21
   :END:
 
 
@@ -765,9 +765,9 @@ It is our Devadip's Birthday. As I have spoken about the soul in connection with
 * Tribute To Dag Hammarskjold[fn:1]
 
   :PROPERTIES:
-  :GENRE: discourse
-  :KEYWORDS:
-  :CITE-KEY: RD:22
+  :genre: discourse
+  :keywords:
+  :cite-key: RD:22
   :END:
 
 
@@ -833,9 +833,9 @@ A flying earth-plane killed his body, only to help his soul fly to reach the hig
 * Emotion: Is It Our Enemy Or Our Friend?
 
   :PROPERTIES:
-  :GENRE:  talk
-  :KEYWORDS:
-  :CITE-KEY: RD:23
+  :genre:  talk
+  :keywords:
+  :cite-key: RD:23
   :END:
 
 

@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0953
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1993
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SCAP
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0953
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1993
+  :publisher: Agni Press
+  :cite-key: SCAP
+  :genre: qa
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * Editor's note
 
   :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCAP:1e1
+  :genre: note
+  :keywords:
+  :cite-key: SCAP:1e1
   :END:
 
 
@@ -35,9 +35,9 @@
 * Question: Why can’t we straighten a dog’s tail?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:1
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:1
   :END:
 
 
@@ -50,9 +50,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Which came first, the chicken or the egg?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:2
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:2
   :END:
 
 
@@ -63,9 +63,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: There is a saying that I have heard many times: "God made the fly but forgot to tell us why." Why did God make the fly?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:3
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:3
   :END:
 
 
@@ -76,9 +76,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Can we eat caviar?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:4
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:4
   :END:
 
 
@@ -89,9 +89,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: I don't like it anyway.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:5
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:5
   :END:
 
 
@@ -102,9 +102,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Why do some people sleep with their eyes open?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:6
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:6
   :END:
 
 
@@ -115,9 +115,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Why did God create boyfriends and girlfriends?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:7
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:7
   :END:
 
 
@@ -128,9 +128,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: What is the difference between a guru who owns many birds and a guru without birds?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:8
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:8
   :END:
 
 
@@ -141,9 +141,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: What is the Supreme's favourite pet?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:9
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:9
   :END:
 
 
@@ -154,9 +154,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Which way is better to lose weight" to starve yourself by dieting or to kill yourself running?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:10
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:10
   :END:
 
 
@@ -167,9 +167,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Why do I like eating sweet things so much?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:11
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:11
   :END:
 
 
@@ -180,9 +180,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Why do we eat so much junk food during the celebrations?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:12
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:12
   :END:
 
 
@@ -193,9 +193,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: How can we make progress through eating?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:13
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:13
   :END:
 
 
@@ -206,9 +206,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: Will there be an old age home for disciples?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:14
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:14
   :END:
 
 
@@ -219,9 +219,9 @@ But as soon as we realise God, God gives us some wisdom. He says, "What do you w
 * Question: If the Supreme came to earth, where would He spend His vacation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:15
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:15
   :END:
 
 
@@ -234,9 +234,9 @@ But on the way, if the immigration authorities will not allow the Supreme to tak
 * Question: What does my soul do when it sees the finish line in a race?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:16
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:16
   :END:
 
 
@@ -261,9 +261,9 @@ The soul says, "Certainly, I will keep it top secret. I do not want to make any 
 * Question: Is a thick skin an asset in the spiritual life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:17
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:17
   :END:
 
 
@@ -276,9 +276,9 @@ Your name means Mother-Earth, Mother of Compassion. With your compassion-skin yo
 * Question: Does God ever get nervous?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:18
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:18
   :END:
 
 
@@ -293,9 +293,9 @@ So God never gets nervous, but He demonstrates nervousness, for that is the only
 * Question: How can I learn to talk to the flowers in my garden?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:19
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:19
   :END:
 
 
@@ -306,9 +306,9 @@ So God never gets nervous, but He demonstrates nervousness, for that is the only
 * Question: Why are elephants afraid of mice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:20
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:20
   :END:
 
 
@@ -321,9 +321,9 @@ However, let me try to answer this question from a spiritual point of view. The 
 * Question: What does God think of the soybean and soymeat?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:21
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:21
   :END:
 
 
@@ -338,9 +338,9 @@ Now, soymeat. God says that since He is a strict vegetarian, if He really wants 
 * Question: Why did God create the gossip world?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:22
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:22
   :END:
 
 
@@ -351,9 +351,9 @@ Now, soymeat. God says that since He is a strict vegetarian, if He really wants 
 * Question: Has there ever been a spiritual Master as cute as you?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: SCAP:23
+  :genre: qa
+  :keywords:
+  :cite-key: SCAP:23
   :END:
 
 

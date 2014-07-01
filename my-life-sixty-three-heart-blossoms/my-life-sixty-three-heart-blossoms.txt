@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1032
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1994
-  :PUBLISHER: Agni Press
-  :CITE-KEY: MLHB
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 1032
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1994
+  :publisher: Agni Press
+  :cite-key: MLHB
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:1
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:1
   :END:
 
 
@@ -41,9 +41,9 @@ Of Your inner Circle.
 * Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:2
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:2
   :END:
 
 
@@ -61,9 +61,9 @@ And not my soul-heart-life-dictator.
 * Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:3
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:3
   :END:
 
 
@@ -81,9 +81,9 @@ That You are my life's only Reality.
 * Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:4
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:4
   :END:
 
 
@@ -101,9 +101,9 @@ Open only to you.
 * Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:5
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:5
   :END:
 
 
@@ -122,9 +122,9 @@ Continuous journey.
 * Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:6
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:6
   :END:
 
 
@@ -143,9 +143,9 @@ Once and for all.
 * Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:7
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:7
   :END:
 
 
@@ -163,9 +163,9 @@ To my embracing heart.
 * Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:8
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:8
   :END:
 
 
@@ -183,9 +183,9 @@ Of my disobedience-repentance-tears.
 * Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:9
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:9
   :END:
 
 
@@ -203,9 +203,9 @@ My God-manifestation-capacity.
 * Ten
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:10
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:10
   :END:
 
 
@@ -226,9 +226,9 @@ And my life-smile-Dreamer.
 * Eleven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:11
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:11
   :END:
 
 
@@ -255,9 +255,9 @@ Your life's victory-dances?"
 * Twelve
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:12
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:12
   :END:
 
 
@@ -274,9 +274,9 @@ For my satisfaction-heart.
 * Thirteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:13
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:13
   :END:
 
 
@@ -293,9 +293,9 @@ My indomitable will.
 * Fourteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:14
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:14
   :END:
 
 
@@ -312,9 +312,9 @@ My heart's sunlit smile.
 * Fifteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:15
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:15
   :END:
 
 
@@ -331,9 +331,9 @@ And my soul's mountain-promise.
 * Sixteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:16
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:16
   :END:
 
 
@@ -350,9 +350,9 @@ Only on my aspiration-goodness-candour.
 * Seventeen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:17
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:17
   :END:
 
 
@@ -370,9 +370,9 @@ And the simplicity of my life.
 * Eighteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:18
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:18
   :END:
 
 
@@ -388,9 +388,9 @@ God dances in my eagerness.
 * Nineteen
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:19
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:19
   :END:
 
 
@@ -407,9 +407,9 @@ Loves union-refrain.
 * Twenty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:20
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:20
   :END:
 
 
@@ -425,9 +425,9 @@ The man-impurity-mind.
 * Twenty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:21
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:21
   :END:
 
 
@@ -444,9 +444,9 @@ In jealousy-current.
 * Twenty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:22
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:22
   :END:
 
 
@@ -464,9 +464,9 @@ Infinity-Heart-Smiles.
 * Twenty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:23
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:23
   :END:
 
 
@@ -482,9 +482,9 @@ Inseparably live.
 * Twenty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:24
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:24
   :END:
 
 
@@ -501,9 +501,9 @@ My mind-doubt-intruder.
 * Twenty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:25
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:25
   :END:
 
 
@@ -521,9 +521,9 @@ Enthusiasm-energy.
 * Twenty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:26
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:26
   :END:
 
 
@@ -540,9 +540,9 @@ Is an everlasting life.
 * Twenty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:27
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:27
   :END:
 
 
@@ -558,9 +558,9 @@ Can never be together.
 * Twenty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:28
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:28
   :END:
 
 
@@ -576,9 +576,9 @@ My Lord says to me:
 * Twenty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:29
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:29
   :END:
 
 
@@ -594,9 +594,9 @@ My mind's desire-jungle.
 * Thirty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:30
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:30
   :END:
 
 
@@ -612,9 +612,9 @@ Of an unconditional surrender-heart.
 * Thirty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:31
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:31
   :END:
 
 
@@ -631,9 +631,9 @@ In God's Eye.
 * Thirty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:32
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:32
   :END:
 
 
@@ -651,9 +651,9 @@ Earth-life.
 * Thirty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:33
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:33
   :END:
 
 
@@ -670,9 +670,9 @@ Who are ready to welcome God.
 * Thirty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:34
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:34
   :END:
 
 
@@ -688,9 +688,9 @@ And hesitation-heart.
 * Thirty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:35
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:35
   :END:
 
 
@@ -706,9 +706,9 @@ And grateful answer.
 * Thirty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:36
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:36
   :END:
 
 
@@ -726,9 +726,9 @@ My dream-fulfilment-tomorrows.
 * Thirty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:37
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:37
   :END:
 
 
@@ -747,9 +747,9 @@ God-lover.
 * Thirty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:38
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:38
   :END:
 
 
@@ -766,9 +766,9 @@ Has no enemies.
 * Thirty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:39
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:39
   :END:
 
 
@@ -786,9 +786,9 @@ Ignorance.
 * Forty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:40
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:40
   :END:
 
 
@@ -804,9 +804,9 @@ Mother-Earth's ears.
 * Forty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:41
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:41
   :END:
 
 
@@ -823,9 +823,9 @@ Silence-joy.
 * Forty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:42
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:42
   :END:
 
 
@@ -842,9 +842,9 @@ The seeker's heart-sun.
 * Forty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:43
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:43
   :END:
 
 
@@ -862,9 +862,9 @@ When I am a closed mouth!
 * Forty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:44
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:44
   :END:
 
 
@@ -885,9 +885,9 @@ When it becomes a gratitude-heart.
 * Forty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:45
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:45
   :END:
 
 
@@ -904,9 +904,9 @@ Our performance?
 * Forty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:46
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:46
   :END:
 
 
@@ -924,9 +924,9 @@ Of the outer life.
 * Forty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:47
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:47
   :END:
 
 
@@ -947,9 +947,9 @@ To perfection-recordings.
 * Forty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:48
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:48
   :END:
 
 
@@ -966,9 +966,9 @@ For a long time.
 * Forty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:49
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:49
   :END:
 
 
@@ -985,9 +985,9 @@ Of the Transcendental God.
 * Fifty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:50
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:50
   :END:
 
 
@@ -1003,9 +1003,9 @@ If you really need God.
 * Fifty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:51
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:51
   :END:
 
 
@@ -1022,9 +1022,9 @@ Is my soul-dance.
 * Fifty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:52
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:52
   :END:
 
 
@@ -1040,9 +1040,9 @@ When I secretly love Him.
 * Fifty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:53
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:53
   :END:
 
 
@@ -1060,9 +1060,9 @@ Flower-beauty.
 * Fifty-Four
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:54
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:54
   :END:
 
 
@@ -1079,9 +1079,9 @@ God's opinion of him drastically.
 * Fifty-Five
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:55
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:55
   :END:
 
 
@@ -1097,9 +1097,9 @@ All my God-disobedience-thoughts!
 * Fifty-Six
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:56
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:56
   :END:
 
 
@@ -1116,9 +1116,9 @@ On the way.
 * Fifty-Seven
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:57
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:57
   :END:
 
 
@@ -1136,9 +1136,9 @@ Of the soul.
 * Fifty-Eight
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:58
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:58
   :END:
 
 
@@ -1155,9 +1155,9 @@ Ignorance-dream.
 * Fifty-Nine
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:59
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:59
   :END:
 
 
@@ -1174,9 +1174,9 @@ Is perfect.
 * Sixty
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:60
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:60
   :END:
 
 
@@ -1193,9 +1193,9 @@ In God's own Way.
 * Sixty-One
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:61
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:61
   :END:
 
 
@@ -1212,9 +1212,9 @@ Of its own nothingness.
 * Sixty-Two
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:62
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:62
   :END:
 
 
@@ -1232,9 +1232,9 @@ To burn it.
 * Sixty-Three
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: MLHB:63
+  :genre: poem
+  :keywords:
+  :cite-key: MLHB:63
   :END:
 
 

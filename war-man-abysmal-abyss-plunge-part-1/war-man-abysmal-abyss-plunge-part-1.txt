@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0824
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1991
-  :PUBLISHER: Agni Press
-  :CITE-KEY: WMAA-1
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0824
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1991
+  :publisher: Agni Press
+  :cite-key: WMAA-1
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1 War Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:1
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:1
   :END:
 
 
@@ -42,9 +42,9 @@ For the senile.
 * 2 War Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:2
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:2
   :END:
 
 
@@ -62,9 +62,9 @@ Stupidity.
 * 3 War Is ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:3
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:3
   :END:
 
 
@@ -82,9 +82,9 @@ Futility.
 * 4 War-Story: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:4
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:4
   :END:
 
 
@@ -102,9 +102,9 @@ Futility wins.
 * 5 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:5
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:5
   :END:
 
 
@@ -122,9 +122,9 @@ Backward march.
 * 6 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:6
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:6
   :END:
 
 
@@ -140,9 +140,9 @@ Is ignorance-slavery.
 * 7 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:7
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:7
   :END:
 
 
@@ -160,9 +160,9 @@ By ignorance-princes.
 * 8 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:8
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:8
   :END:
 
 
@@ -180,9 +180,9 @@ Crown and throne.
 * 9 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:9
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:9
   :END:
 
 
@@ -200,9 +200,9 @@ Surrender to ignorance-forces.
 * 10 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:10
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:10
   :END:
 
 
@@ -220,9 +220,9 @@ Of destruction-invitation.
 * 11 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:11
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:11
   :END:
 
 
@@ -240,9 +240,9 @@ Of the stupidity-mind.
 * 12 Now ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:12
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:12
   :END:
 
 
@@ -260,9 +260,9 @@ To end any war.
 * 13 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:13
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:13
   :END:
 
 
@@ -280,9 +280,9 @@ Stark impurity-dance.
 * 14 War Broadcasts ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:14
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:14
   :END:
 
 
@@ -300,9 +300,9 @@ Of Satan.
 * 15 War Compels ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:15
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:15
   :END:
 
 
@@ -322,9 +322,9 @@ The mind's stupidity-night.
 * 16 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:16
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:16
   :END:
 
 
@@ -346,9 +346,9 @@ Without.
 * 17 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:17
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:17
   :END:
 
 
@@ -366,9 +366,9 @@ Of the hostile forces in man.
 * 18 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:18
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:18
   :END:
 
 
@@ -386,9 +386,9 @@ And not God's Inspiration-Song.
 * 19 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:19
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:19
   :END:
 
 
@@ -406,9 +406,9 @@ To God's Compassion-Eye.
 * 20 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:20
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:20
   :END:
 
 
@@ -426,9 +426,9 @@ Of inconscience-night.
 * 21 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:21
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:21
   :END:
 
 
@@ -446,9 +446,9 @@ Greed-satisfaction.
 * 22 War Wants To Prove ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:22
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:22
   :END:
 
 
@@ -470,9 +470,9 @@ Has no goodness.
 * 23 War Invites ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:23
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:23
   :END:
 
 
@@ -492,9 +492,9 @@ In a destruction-dance.
 * 24 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:24
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:24
   :END:
 
 
@@ -514,9 +514,9 @@ Of supremacy-hungry nations.
 * 25 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:25
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:25
   :END:
 
 
@@ -534,9 +534,9 @@ Of the universal heart.
 * 26 War ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:26
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:26
   :END:
 
 
@@ -554,9 +554,9 @@ Of the hostile minds.
 * 27 War Says: ...
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: WMAA:27
+  :genre: poem
+  :keywords:
+  :cite-key: WMAA:27
   :END:
 
 

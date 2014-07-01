@@ -7,22 +7,22 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0304
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1977
-  :PUBLISHER: Agni Press
-  :CITE-KEY: GCG
-  :GENRE: qa
-  :KEYWORDS:
+  :book-number: 0304
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1977
+  :publisher: Agni Press
+  :cite-key: GCG
+  :genre: qa
+  :keywords:
   :END:
 
 * Preface
 
   :PROPERTIES:
-  :GENRE: preface
-  :KEYWORDS:
-  :CITE-KEY: GCG:1e1
+  :genre: preface
+  :keywords:
+  :cite-key: GCG:1e1
   :END:
 
   In this book, a God-realised spiritual Master answers questions about God and the way God operates in human life.
@@ -31,9 +31,9 @@
 * God and the cosmic game
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GCG:1e2
+  :genre: section
+  :keywords:
+  :cite-key: GCG:1e2
   :END:
 
 
@@ -41,9 +41,9 @@
 * Question: How do you define God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:1
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:1
   :END:
 
 
@@ -58,9 +58,9 @@ Some people don't even like to use the term "God." The Buddha did not use the te
 * Question: Is there only one God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:2
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:2
   :END:
 
 
@@ -73,9 +73,9 @@ According to our Indian philosophy, there are as many gods as there are human be
 * Question: What has God learned from His Self-transcendence?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:3
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:3
   :END:
 
 
@@ -86,9 +86,9 @@ According to our Indian philosophy, there are as many gods as there are human be
 * Question: How can God transcend Absolute Truth? I mean truth is truth, isn't it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:4
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:4
   :END:
 
 
@@ -101,9 +101,9 @@ If your truth is the birthless and deathless soul, you are constantly transcendi
 * Question: How can Infinity transcend itself?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:5
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:5
   :END:
 
 
@@ -116,9 +116,9 @@ God is transcending Himself all the time because He feels that this is the only 
 * Question: Are dream and reality the same for God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:6
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:6
   :END:
 
 
@@ -129,9 +129,9 @@ God is transcending Himself all the time because He feels that this is the only 
 * Question: Since the Supreme can count from one to forty-five immediately, does He create time in order to have a game?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:7
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:7
   :END:
 
 
@@ -142,9 +142,9 @@ God is transcending Himself all the time because He feels that this is the only 
 * Question: Does God ever change His mind?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:8
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:8
   :END:
 
 
@@ -157,9 +157,9 @@ He has every right. It is His world, His Game, and He is the Player. An ordinary
 * Question: Did the Supreme manifest just part of Himself as the Supreme, and is the other part -- the evil forces -- just lack of the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:9
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:9
   :END:
 
 
@@ -172,9 +172,9 @@ When the Supreme started the creation, it was from an iota of His entire Being. 
 * Question: Is there any spiritual significance to an apparently healthy infant's death?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:10
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:10
   :END:
 
 
@@ -185,9 +185,9 @@ When the Supreme started the creation, it was from an iota of His entire Being. 
 * Question: How does God let catastrophes take place?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:11
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:11
   :END:
 
 
@@ -204,9 +204,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: Guru, why did the Supreme decide to go through suffering to realisation?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:12
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:12
   :END:
 
 
@@ -217,9 +217,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: When God knows everything, does He take into account the hostile forces?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:13
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:13
   :END:
 
 
@@ -230,9 +230,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: How does the Supreme illumine the past?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:14
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:14
   :END:
 
 
@@ -243,9 +243,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: Why does God constantly smile at man?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:15
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:15
   :END:
 
 
@@ -256,9 +256,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * God and everyday life
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GCG:16e1
+  :genre: section
+  :keywords:
+  :cite-key: GCG:16e1
   :END:
 
 
@@ -266,9 +266,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: Should we pay more respect to the divinity inside a man than the divinity inside an animal, or is it all the same?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:16
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:16
   :END:
 
 
@@ -279,9 +279,9 @@ So, in our spiritual life, we try to live in the soul. In the soul there is Ligh
 * Question: Guru, if the Supreme is in everything, then He must also be in the mind. So why is the mind bad?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:17
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:17
   :END:
 
 
@@ -302,9 +302,9 @@ The heart and the soul love God much more than the mind. That is why we say that
 * Question: Has God a special Will for our outer life?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:18
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:18
   :END:
 
 
@@ -315,9 +315,9 @@ The heart and the soul love God much more than the mind. That is why we say that
 * Question: Are the undivine forces kept out by will? Is that the only way?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:19
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:19
   :END:
 
 
@@ -328,9 +328,9 @@ The heart and the soul love God much more than the mind. That is why we say that
 * Question: Today I was on the George Washington Bridge and a man was threatening to commit suicide. At first I wanted to pray for his life, and then I remembered your saying once that we shouldn't ask the Supreme to do anything, but only pray for the Supreme's own Victory.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:20
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:20
   :END:
 
 
@@ -347,9 +347,9 @@ In the /Mahabharata,/ Krishna asked Arjuna to kill all his relatives. In the beg
 * Question: For a long, long time whenever someone says 'God' to me, I hear the word 'God' and then I hear the word 'dog,' and 'dog' stays in my mind. Could you please tell me why this happens?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:21
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:21
   :END:
 
 
@@ -366,9 +366,9 @@ So, from your experience, I wish to tell you that it is very clear that you have
 * How to know God
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GCG:22e1
+  :genre: section
+  :keywords:
+  :cite-key: GCG:22e1
   :END:
 
 
@@ -376,9 +376,9 @@ So, from your experience, I wish to tell you that it is very clear that you have
 * Question: Can one know the achievements of God through the intellect alone?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:22
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:22
   :END:
 
 
@@ -389,9 +389,9 @@ So, from your experience, I wish to tell you that it is very clear that you have
 * Question: Is it possible to have a philosophical proof of God, or do you have to depend on faith?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:23
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:23
   :END:
 
 
@@ -404,9 +404,9 @@ Philosophy is in the mind; spirituality is in the heart. If you want philosophy,
 * Question: Does knowledge of our dreams help us to know God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:24
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:24
   :END:
 
 
@@ -417,9 +417,9 @@ Philosophy is in the mind; spirituality is in the heart. If you want philosophy,
 * Question: How can we cultivate the inner silence so that we can know God's Will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:25
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:25
   :END:
 
 
@@ -430,9 +430,9 @@ Philosophy is in the mind; spirituality is in the heart. If you want philosophy,
 * Question: In one of your books you said, "If you want to see God, you have to meditate twelve hours a day. If you want to come face to face with God, you have to meditate twenty-four hours a day." Is that possible?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:26
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:26
   :END:
 
 
@@ -443,9 +443,9 @@ Philosophy is in the mind; spirituality is in the heart. If you want philosophy,
 * Question: Are seeing God and feeling God the same thing?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:27
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:27
   :END:
 
 
@@ -460,9 +460,9 @@ When a spiritual Master looks at a disciple, what happens? First he sees the fac
 * Question: Guru, you have spoken of realisation as a tree. What determines how high a soul climbs on that tree?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:28
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:28
   :END:
 
 
@@ -475,9 +475,9 @@ Either you have to reach the Highest and then come down, or you go up a little, 
 * Becoming intimate with God
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GCG:29e1
+  :genre: section
+  :keywords:
+  :cite-key: GCG:29e1
   :END:
 
 
@@ -485,9 +485,9 @@ Either you have to reach the Highest and then come down, or you go up a little, 
 * Question: When I want to think of the Supreme as my friend, what is the most effective way of doing it?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:29
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:29
   :END:
 
 
@@ -502,9 +502,9 @@ You have come to the church and knocked at the door and you are sure that I am h
 * Question: Does the Supreme make us depressed and do other things like that for a reason?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:30
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:30
   :END:
 
 
@@ -515,9 +515,9 @@ You have come to the church and knocked at the door and you are sure that I am h
 * Question: Can one just drop the mind and trust to God's guidance?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:31
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:31
   :END:
 
 
@@ -528,9 +528,9 @@ You have come to the church and knocked at the door and you are sure that I am h
 * Question: Is it better to enter into the divine Will or let the divine Will enter into us, if we have to make a choice?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:32
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:32
   :END:
 
 
@@ -541,9 +541,9 @@ You have come to the church and knocked at the door and you are sure that I am h
 * Question: How can I best serve the Supreme in my Guru?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:33
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:33
   :END:
 
 
@@ -554,9 +554,9 @@ You have come to the church and knocked at the door and you are sure that I am h
 * Question: What does it truly mean to serve the Supreme in others?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:34
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:34
   :END:
 
 
@@ -573,9 +573,9 @@ The mind is not allowing us to feel that we are the self-same reality. But if we
 * Question: How are we going to be one with the Supreme if we're still tied up in the physical world, trying to manifest? We're using up all that we have.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:35
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:35
   :END:
 
 
@@ -592,9 +592,9 @@ You may feel, "How can I think of God and, at the same time, mix with silly peop
 * Question: How can I love God since I don't know Him?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:36
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:36
   :END:
 
 
@@ -605,9 +605,9 @@ You may feel, "How can I think of God and, at the same time, mix with silly peop
 * Question: I feel as though we don't love God enough and want to love Him more. How can we learn to love God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:37
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:37
   :END:
 
 
@@ -620,9 +620,9 @@ If we don't meditate, no matter how much people appreciate us, we feel that some
 * Question: How can we love the Supreme with utmost intensity?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:38
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:38
   :END:
 
 
@@ -635,9 +635,9 @@ This Light has something most significant to offer to your existence. And who is
 * Question: How can we surrender to the Supreme?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:39
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:39
   :END:
 
 
@@ -648,9 +648,9 @@ This Light has something most significant to offer to your existence. And who is
 * Question: I find that doubt, shame, fear and guilt stand between myself and true surrender to the Supreme.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:40
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:40
   :END:
 
 
@@ -661,9 +661,9 @@ This Light has something most significant to offer to your existence. And who is
 * Question: Do you kill hope and expectation by surrendering to God's Will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:41
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:41
   :END:
 
 
@@ -676,9 +676,9 @@ Then comes expectation. Expectation is also a power, a stronger power. We expect
 * Question: What can a disciple do to make his body surrender to the divine Will?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:42
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:42
   :END:
 
 
@@ -689,9 +689,9 @@ Then comes expectation. Expectation is also a power, a stronger power. We expect
 * Question: I feel that the Supreme is displeased with me and that He is going to desert me.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:43
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:43
   :END:
 
 
@@ -706,9 +706,9 @@ So if we have faith in the individual, then we will be disappointed. But inside 
 * God and the human Guru
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: GCG:44e1
+  :genre: section
+  :keywords:
+  :cite-key: GCG:44e1
   :END:
 
 
@@ -716,9 +716,9 @@ So if we have faith in the individual, then we will be disappointed. But inside 
 * Question: Do you see God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:44
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:44
   :END:
 
 
@@ -729,9 +729,9 @@ So if we have faith in the individual, then we will be disappointed. But inside 
 * Question: How do you see your relationship to God?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:45
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:45
   :END:
 
 
@@ -746,9 +746,9 @@ This familiarity is a good opportunity for us to establish our heart's capacity 
 * Question: Guru, why does the Supreme allow you to suffer?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:46
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:46
   :END:
 
 
@@ -759,9 +759,9 @@ This familiarity is a good opportunity for us to establish our heart's capacity 
 * Question: But He wants you to talk big, doesn't He? He wants you to tell us all those things.
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:47
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:47
   :END:
 
 
@@ -772,9 +772,9 @@ This familiarity is a good opportunity for us to establish our heart's capacity 
 * Question: If He makes you talk, then why should He make you suffer for talking?
 
   :PROPERTIES:
-  :GENRE: qa
-  :KEYWORDS:
-  :CITE-KEY: GCG:48
+  :genre: qa
+  :keywords:
+  :cite-key: GCG:48
   :END:
 
 

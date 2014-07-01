@@ -6,21 +6,21 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1118
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1995
-  :PUBLISHER:
-  :CITE-KEY: MBAK
-  :GENRE: song
+  :book-number: 1118
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1995
+  :publisher:
+  :cite-key: MBAK
+  :genre: song
   :END:
 
 
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MBAK:1e1
+  :genre: note
+  :cite-key: MBAK:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: MBAK:1e2
+  :genre: note
+  :cite-key: MBAK:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Chaowa Paowar Gan Taje Kanna Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:1
+  :cite-key: MBAK:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Taje kanna aphuran
 * Chaowa Paowar Gan Mithya Abhijan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:2
+  :cite-key: MBAK:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Mithya abhijan
 * Chaowa Paowar Gan Garal Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:3
+  :cite-key: MBAK:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Garal aphuran
 * Chaowa Paowar Gan Kena Aphuran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:4
+  :cite-key: MBAK:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Keno aphuran
 * Chaowa Paowar Gan Karbo Abasan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:5
+  :cite-key: MBAK:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Karbo abasan
 * Nirabe Khunjibo Tomar Karune Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:6
+  :cite-key: MBAK:6
   :END:
 
 #+BEGIN_VERSE
@@ -145,10 +145,10 @@ Jyotir charan
 * Durbalatar Bal Tumi Timir Chhal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:7
+  :cite-key: MBAK:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Tumi timir chhal
 * Durbalatar Bal Kare Je Pagal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:8
+  :cite-key: MBAK:8
   :END:
 
 #+BEGIN_VERSE
@@ -179,10 +179,10 @@ Kare je pagal
 * Durbalatar Bal Narak Kolahal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:9
+  :cite-key: MBAK:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ Narak kolahal
 * Astagami Mihir Tumi Shanti Gabhir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:10
+  :cite-key: MBAK:10
   :END:
 
 #+BEGIN_VERSE
@@ -213,10 +213,10 @@ Tumi shanti gabhir
 * Maner Garal Jabena Hai Jabena Man Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:11
+  :cite-key: MBAK:11
   :END:
 
 #+BEGIN_VERSE
@@ -230,10 +230,10 @@ Man je kabhu shanti sudha pabena
 * Nayan Mude Nayan Khule Tomai Jena Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:12
+  :cite-key: MBAK:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Dibona ar phanki
 * Sadhan Bhajan Kare Anayan Deepti Deepti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:13
+  :cite-key: MBAK:13
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Dipti majhare biraje param tripti
 * Pranam Nite Karona Ma Deri Bajate Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:14
+  :cite-key: MBAK:14
   :END:
 
 #+BEGIN_VERSE
@@ -283,10 +283,10 @@ Bajate chai tomar jaya bheri
 * Phutate Chai Hiyar Rabire Jagate Chai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:15
+  :cite-key: MBAK:15
   :END:
 
 #+BEGIN_VERSE
@@ -300,10 +300,10 @@ Jagate chai jiban kabire
 * Chinta Sagare Santar Katite Chahina Kena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:16
+  :cite-key: MBAK:16
   :END:
 
 #+BEGIN_VERSE
@@ -317,10 +317,10 @@ Kena kabhu hai prabhu jaya giti gahina
 * Jara Amai Base Bhalo Tader Habo Bhritya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:17
+  :cite-key: MBAK:17
   :END:
 
 #+BEGIN_VERSE
@@ -336,10 +336,10 @@ Tader bijoy nritya
 * Khudra Ami Niye Chale Maran Deshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:18
+  :cite-key: MBAK:18
   :END:
 
 #+BEGIN_VERSE
@@ -353,10 +353,10 @@ Bhritha kandi mukti lagi animeshe
 * Nayan Chahe Supti Ami Chahi Lupti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:19
+  :cite-key: MBAK:19
   :END:
 
 #+BEGIN_VERSE
@@ -370,10 +370,10 @@ Ami chahi lupti
 * Asha Ache Taito Achi Benche Tomar Kache
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:20
+  :cite-key: MBAK:20
   :END:
 
 #+BEGIN_VERSE
@@ -387,10 +387,10 @@ Tomar kache jabo neche neche
 * Man Je Tomai Dakena Hai Taito Sabi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:21
+  :cite-key: MBAK:21
   :END:
 
 #+BEGIN_VERSE
@@ -406,10 +406,10 @@ Taito hiya bandha
 * Dake Amai Bishalatar Akash Dake Amai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:22
+  :cite-key: MBAK:22
   :END:
 
 #+BEGIN_VERSE
@@ -423,10 +423,10 @@ Dake amai amaratar subas
 * Tomar Charan Khama Diye Gara Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:23
+  :cite-key: MBAK:23
   :END:
 
 #+BEGIN_VERSE
@@ -440,10 +440,10 @@ Tomar hriday sarba dukhahara
 * Pratikhane Dake Amai Ghum Nahi Heri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:24
+  :cite-key: MBAK:24
   :END:
 
 #+BEGIN_VERSE
@@ -457,10 +457,10 @@ Nahi heri mayer bijoy dhum
 * Khama Jadi Nahi Karo Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:25
+  :cite-key: MBAK:25
   :END:
 
 #+BEGIN_VERSE
@@ -476,10 +476,10 @@ Keman kare nachbo
 * Habe Habe Jiban Madhur Habe Parer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:26
+  :cite-key: MBAK:26
   :END:
 
 #+BEGIN_VERSE
@@ -493,10 +493,10 @@ Parer janya bhabi jadi bhabe
 * Karo... Mayer Puja Sabiy Dibe Tomai Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:27
+  :cite-key: MBAK:27
   :END:
 
 #+BEGIN_VERSE
@@ -512,10 +512,10 @@ Dashabhuja
 * Pabe.. Ananda Sandhan Prati Pale Pale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:28
+  :cite-key: MBAK:28
   :END:
 
 #+BEGIN_VERSE
@@ -531,10 +531,10 @@ Nijere karile dan
 * Durbalata Shatru Sathe Karte Habe Juddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:29
+  :cite-key: MBAK:29
   :END:
 
 #+BEGIN_VERSE
@@ -550,10 +550,10 @@ Habo ami buddha
 * Jachi Khama.. Tomar Paye Bishwamata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:30
+  :cite-key: MBAK:30
   :END:
 
 #+BEGIN_VERSE
@@ -567,10 +567,10 @@ Tomar paye bishwamata manorama
 * Hiyar Jale Pujte Habe Chokher Jale Nahe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:31
+  :cite-key: MBAK:31
   :END:
 
 #+BEGIN_VERSE
@@ -586,10 +586,10 @@ Ei kathati kahe
 * Animeshe Basle Tomai Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:32
+  :cite-key: MBAK:32
   :END:
 
 #+BEGIN_VERSE
@@ -603,10 +603,10 @@ Raibe na je bindu matra kato
 * Bishwamatar Kripabina Raibe Dhara Andha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:33
+  :cite-key: MBAK:33
   :END:
 
 #+BEGIN_VERSE
@@ -622,10 +622,10 @@ Raibe duar bandha
 * Urdha Jagat Nimna Jagat Dake Amai Dake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:34
+  :cite-key: MBAK:34
   :END:
 
 #+BEGIN_VERSE
@@ -641,10 +641,10 @@ Shudhai ami make
 * Na Gahile Tomar Bijoy Giti Keman Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:35
+  :cite-key: MBAK:35
   :END:
 
 #+BEGIN_VERSE
@@ -658,10 +658,10 @@ Keman kare pabo tomar priti
 * Chaowar Khudha Karo Go Dur Karo Mukti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:36
+  :cite-key: MBAK:36
   :END:
 
 #+BEGIN_VERSE
@@ -675,10 +675,10 @@ Mukti dite hath dharo go hath dharo
 * Jahar Ache Deepti Khudha Se Pabe Je Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:37
+  :cite-key: MBAK:37
   :END:
 
 #+BEGIN_VERSE
@@ -692,10 +692,10 @@ Se pabe je tripti sudha
 * Jani Jani Chaowa Paowar Urdhe Jete Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:38
+  :cite-key: MBAK:38
   :END:
 
 #+BEGIN_VERSE
@@ -711,10 +711,10 @@ Amar spriha bhabe
 * Sara Jiban Benche Achi Khudra Chao Niye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:39
+  :cite-key: MBAK:39
   :END:
 
 #+BEGIN_VERSE
@@ -730,10 +730,10 @@ Mor amire diye
 * Kothai Shanti Kothai Shanti Kebal Kolahal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:40
+  :cite-key: MBAK:40
   :END:
 
 #+BEGIN_VERSE
@@ -749,10 +749,10 @@ Ashesh halahal
 * Tomar Paye Na Rakhile Samarpaner Mala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:41
+  :cite-key: MBAK:41
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ Karbe tumi ala
 * Jante Chahi Mor Swarupe Jante Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:42
+  :cite-key: MBAK:42
   :END:
 
 #+BEGIN_VERSE
@@ -787,10 +787,10 @@ Taito gahi
 * Maner Bane Asha Kusum Phutbena Kon
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:43
+  :cite-key: MBAK:43
   :END:
 
 #+BEGIN_VERSE
@@ -804,10 +804,10 @@ Kono chaowa sethai kabhu mitena
 * Amar Sathe Nahi Thake
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:44
+  :cite-key: MBAK:44
   :END:
 
 #+BEGIN_VERSE
@@ -823,10 +823,10 @@ Kripa hasi hai
 * Malin Maner Nahi Hale Khoy Pabona Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:45
+  :cite-key: MBAK:45
   :END:
 
 #+BEGIN_VERSE
@@ -840,10 +840,10 @@ Pabona mor dhruba parichoy
 * Amar Purir Dak Eseche Amar Purir Dak
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:46
+  :cite-key: MBAK:46
   :END:
 
 #+BEGIN_VERSE
@@ -859,10 +859,10 @@ Amar mukti shank
 * Kandi Aji Jasher Lagi Kal Kandibo Sudhar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:47
+  :cite-key: MBAK:47
   :END:
 
 #+BEGIN_VERSE
@@ -878,10 +878,10 @@ Nidrajagi nidrajagi
 * Hiyai Mane Prane Dehe Kebal Kari Bhul
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:48
+  :cite-key: MBAK:48
   :END:
 
 #+BEGIN_VERSE
@@ -897,10 +897,10 @@ Nahi heri kul
 * Aro Dure Aro Dure Jete Habe Swarga Pure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-05-1995
-  :CITE-KEY: MBAK:49
+  :cite-key: MBAK:49
   :END:
 
 #+BEGIN_VERSE

@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 943
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 1993
-  :PUBLISHER:
-  :CITE-KEY: DNIB
-  :GENRE: song
+  :book-number: 943
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 1993
+  :publisher:
+  :cite-key: DNIB
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: DNIB:1e1
+  :genre: note
+  :cite-key: DNIB:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: DNIB:1e2
+  :genre: note
+  :cite-key: DNIB:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * I Shall Remain at Your Lotus-Feet
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:1
+  :cite-key: DNIB:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ I shall remain at Your Lotus Feet sleeplessly, my Lord.
 * Amare Karogo Tomar Asim Kripar Kangal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:2
+  :cite-key: DNIB:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Asim kripar kangal
 * Make Me the Beggar-Slave
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:3
+  :cite-key: DNIB:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Of Your Compassion.
 * For You I Shall Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:4
+  :cite-key: DNIB:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ In my mind, in my vital, in my body.
 * Jadio Tomare Nahi Basi Bhalo Tabu Jena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:5
+  :cite-key: DNIB:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Tabu jena prabhu chhariya jeyona
 * Although I Do Not Love You, My Lord
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:6
+  :cite-key: DNIB:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ My Lord, do not leave me.
 * Day and Night I Shall Bow
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:7
+  :cite-key: DNIB:7
   :END:
 
 #+BEGIN_VERSE
@@ -161,10 +161,10 @@ To my Lord Supreme.
 * I Shall Roam No More with Desire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:8
+  :cite-key: DNIB:8
   :END:
 
 #+BEGIN_VERSE
@@ -178,10 +178,10 @@ With aspiration, I shall worship.
 * In the Heart of the Finite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:9
+  :cite-key: DNIB:9
   :END:
 
 #+BEGIN_VERSE
@@ -196,10 +196,10 @@ We come.
 * Into the World I Come
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:10
+  :cite-key: DNIB:10
   :END:
 
 #+BEGIN_VERSE
@@ -214,10 +214,10 @@ Only to please You.
 * Pranati Janabo Dibase Nishite Pranati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:11
+  :cite-key: DNIB:11
   :END:
 
 #+BEGIN_VERSE
@@ -231,10 +231,10 @@ Pranati janabo amar param prabhure
 * Bela Chale Gelo Asha Tabu Ache Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:12
+  :cite-key: DNIB:12
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Bela chale gelo asha tabu ache sathe
 * Time Has Gone By
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:13
+  :cite-key: DNIB:13
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Hope still lives with me.
 * Basanar Sathe Ghuribona Ar Eshanar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:14
+  :cite-key: DNIB:14
   :END:
 
 #+BEGIN_VERSE
@@ -280,10 +280,10 @@ Basanar sathe ghuribona ar eshanar sathe pujibo
 * Tomara Charana Kamale Mor Jibaner
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:15
+  :cite-key: DNIB:15
   :END:
 
 #+BEGIN_VERSE
@@ -297,10 +297,10 @@ Mor jibaner samapti giti gahibo
 * My Life’s Final Song
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:16
+  :cite-key: DNIB:16
   :END:
 
 #+BEGIN_VERSE
@@ -314,10 +314,10 @@ I shall sing at Your Lotus-Feet.
 * A Solid Punch
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:17
+  :cite-key: DNIB:17
   :END:
 
 #+BEGIN_VERSE
@@ -331,10 +331,10 @@ To smash the pride of my wild ambition.
 * A Pure Heart-Cry
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:18
+  :cite-key: DNIB:18
   :END:
 
 #+BEGIN_VERSE
@@ -348,10 +348,10 @@ To be a fond child of my Beloved Supreme.
 * Sasimer Buke Asimer Giti Gahite Amara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:19
+  :cite-key: DNIB:19
   :END:
 
 #+BEGIN_VERSE
@@ -365,10 +365,10 @@ Gahite amara asi
 * Tomare Tushite Asi Dharanite Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:20
+  :cite-key: DNIB:20
   :END:
 
 #+BEGIN_VERSE
@@ -382,10 +382,10 @@ Kebal tomare tushite
 * Sundaro More Rakho Taba Hiya Nire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:21
+  :cite-key: DNIB:21
   :END:
 
 #+BEGIN_VERSE
@@ -398,10 +398,10 @@ Sundaro more rakho taba hiya nire
 * O Beautiful One, Do Keep Me
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:22
+  :cite-key: DNIB:22
   :END:
 
 #+BEGIN_VERSE
@@ -415,10 +415,10 @@ Do keep me in Your Heart-Nest.
 * Tomar Katha Balte Giye Amar Katha Bali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:23
+  :cite-key: DNIB:23
   :END:
 
 #+BEGIN_VERSE
@@ -432,10 +432,10 @@ Amar katha bali shudhu
 * When I Want to Speak of You
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: en
   :DATE: 21-12-1988
-  :CITE-KEY: DNIB:24
+  :cite-key: DNIB:24
   :END:
 
 #+BEGIN_VERSE
@@ -449,10 +449,10 @@ I talk only about myself.
 * Rahibo Tomar Charan Kamale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:25
+  :cite-key: DNIB:25
   :END:
 
 #+BEGIN_VERSE
@@ -466,10 +466,10 @@ Animeshe mor nath
 * Tomar Lagi Kandbo Hiyai Kandbo Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 07-11-1988
-  :CITE-KEY: DNIB:26
+  :cite-key: DNIB:26
   :END:
 
 #+BEGIN_VERSE

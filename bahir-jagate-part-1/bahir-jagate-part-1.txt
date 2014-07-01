@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1429
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2002
-  :PUBLISHER:
-  :CITE-KEY: BJBP-1
-  :GENRE: song
+  :book-number: 1429
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2002
+  :publisher:
+  :cite-key: BJBP-1
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BJBP:1e1
+  :genre: note
+  :cite-key: BJBP:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -31,8 +31,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BJBP:1e2
+  :genre: note
+  :cite-key: BJBP:1e2
   :END:
 
 
@@ -42,10 +42,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Bhitir Piran Karlo Amai Baroi Asohai Keu Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:1
+  :cite-key: BJBP:1
   :END:
 
 #+BEGIN_VERSE
@@ -59,10 +59,10 @@ Keu je amar dhare na hat ei duniyai
 * Hiyar Jale Puji Tomai Tabu Raho Bahu Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:2
+  :cite-key: BJBP:2
   :END:
 
 #+BEGIN_VERSE
@@ -76,10 +76,10 @@ Jiban amar phutbena hai tomar khamar madhur sure
 * Bhitare Bahire Heri Andhiyar Ami Je Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:3
+  :cite-key: BJBP:3
   :END:
 
 #+BEGIN_VERSE
@@ -93,10 +93,10 @@ Ami je amar ashru pathar
 * Kothai Balo Kothai Balo Timir Bhitir Shesh
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:4
+  :cite-key: BJBP:4
   :END:
 
 #+BEGIN_VERSE
@@ -110,10 +110,10 @@ Bhitar bahir daki puji tomai animesh
 * Shatru Bhitare Shatru Bahire Shatru Sarbatra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:5
+  :cite-key: BJBP:5
   :END:
 
 #+BEGIN_VERSE
@@ -127,10 +127,10 @@ Kotha tumi mor hiyar akashe dipti nakkhatra
 * Mor Bedanar Nahi Habe Shesh Tabu Je
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:6
+  :cite-key: BJBP:6
   :END:
 
 #+BEGIN_VERSE
@@ -144,10 +144,10 @@ Tabu je tomai nimeshe nimeshe hriday gahane puji
 * Bhalo Manda Nahi Jani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:7
+  :cite-key: BJBP:7
   :END:
 
 #+BEGIN_VERSE
@@ -162,10 +162,10 @@ Nitya tomai buke tani
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:8
+  :cite-key: BJBP:8
   :END:
 
 #+BEGIN_VERSE
@@ -181,10 +181,10 @@ By drawing You every day towards my heart
 * Bhayer Maran Kabe Habe Bhayer Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:9
+  :cite-key: BJBP:9
   :END:
 
 #+BEGIN_VERSE
@@ -198,10 +198,10 @@ Phutbe kabe jibane mor nutan chetan
 * Pranati Janai Hriday Gabhire Pranati Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:10
+  :cite-key: BJBP:10
   :END:
 
 #+BEGIN_VERSE
@@ -215,10 +215,10 @@ Tushite tomare tomar lagiya amar amire harai
 * Shanti Pabo Shanti Pabo Shanti Pathar Moher
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:11
+  :cite-key: BJBP:11
   :END:
 
 #+BEGIN_VERSE
@@ -232,10 +232,10 @@ Moher bandhan bhangbe jabe ei duniyar
 * Shatru Mitra Bedabed Nahi Raje Rahi Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:12
+  :cite-key: BJBP:12
   :END:
 
 #+BEGIN_VERSE
@@ -249,10 +249,10 @@ Rahi jadi pratikhane hiya majhe
 * Ke Amare Apan Kare Niyeche Aj Janina Keno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:13
+  :cite-key: BJBP:13
   :END:
 
 #+BEGIN_VERSE
@@ -266,10 +266,10 @@ Keno ami tahar lagi puta chite kandina
 * Aratir Shesh Ache Aratir Shesh Nai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:14
+  :cite-key: BJBP:14
   :END:
 
 #+BEGIN_VERSE
@@ -282,10 +282,10 @@ Jachi ami animeshe taba khama pade thai
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:15
+  :cite-key: BJBP:15
   :END:
 
 #+BEGIN_VERSE
@@ -299,10 +299,10 @@ But there is no end to our God-worship.
 * Bajaite Chahi Sasime Asime Tomar Bijoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:16
+  :cite-key: BJBP:16
   :END:
 
 #+BEGIN_VERSE
@@ -316,10 +316,10 @@ Kripa khama bale dao go shakati nahi karo ar deri
 * Asim Shanti Pete Chahi Ami Asim Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:17
+  :cite-key: BJBP:17
   :END:
 
 #+BEGIN_VERSE
@@ -333,10 +333,10 @@ Dure rakho param pita amar hajar bhranti
 * Namer Jasher Kangal Bale Taito Na Pai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:18
+  :cite-key: BJBP:18
   :END:
 
 #+BEGIN_VERSE
@@ -350,10 +350,10 @@ Nahi chali anuswari tomar sudha charan rekha
 * Chalte Chahi Tomar Sathe Balte Chahi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:19
+  :cite-key: BJBP:19
   :END:
 
 #+BEGIN_VERSE
@@ -367,10 +367,10 @@ Kothai tumi kothai amar hiyar tibra byakulata
 * Asimatar Dak Shunechi Asimatar Dak Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:20
+  :cite-key: BJBP:20
   :END:
 
 #+BEGIN_VERSE
@@ -384,10 +384,10 @@ Taito aji bahu dure moher durbipak
 * Param Pita Amai Bhule Keman Kare Raho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:21
+  :cite-key: BJBP:21
   :END:
 
 #+BEGIN_VERSE
@@ -401,10 +401,10 @@ Balo balo nithur pita kaho barek kaho
 * Ke Amare Kripa Kare Shikhabe Aj Sadhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-11-2001
-  :CITE-KEY: BJBP:22
+  :cite-key: BJBP:22
   :END:
 
 #+BEGIN_VERSE
@@ -418,10 +418,10 @@ Ke amare phulla chite dekhabe aj prabhur charan
 * Chayan Karibo Hriday Gabhire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:23
+  :cite-key: BJBP:23
   :END:
 
 #+BEGIN_VERSE
@@ -434,10 +434,10 @@ Amare danibe nutan jiban khagol tapan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:24
+  :cite-key: BJBP:24
   :END:
 
 #+BEGIN_VERSE
@@ -452,10 +452,10 @@ I shall collect golden dreams.
 * Sukh Ar Dukh Man Apaman Nahi Chahi Ar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:25
+  :cite-key: BJBP:25
   :END:
 
 #+BEGIN_VERSE
@@ -469,10 +469,10 @@ Nahi chahi ar chahi shudhu dhyan
 * Bahir Jagate Bhranti Prabal Bhitar Jagate Shanti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:26
+  :cite-key: BJBP:26
   :END:
 
 #+BEGIN_VERSE
@@ -488,10 +488,10 @@ Bhitar jagate swarga sopan
 * Hiyakashe Phutbe Aji Dhrubhatara Jiban Pathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:27
+  :cite-key: BJBP:27
   :END:
 
 #+BEGIN_VERSE
@@ -505,10 +505,10 @@ Jiban pathe habona ar patha-hara
 * Kothai Tumi Kothai Prabhu Bishwa Tarir Neye
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:28
+  :cite-key: BJBP:28
   :END:
 
 #+BEGIN_VERSE
@@ -522,10 +522,10 @@ Tomar pane jabo ami hiya-tari beye
 * Bhaye Bhaye Habona Ar Ami Kabhu Kampita
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:29
+  :cite-key: BJBP:29
   :END:
 
 #+BEGIN_VERSE
@@ -539,10 +539,10 @@ Pran gabhire saraswatir amar bina jhankrita
 * Urdhagami Hiya Shikha Bishesh Prabal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:30
+  :cite-key: BJBP:30
   :END:
 
 #+BEGIN_VERSE
@@ -556,10 +556,10 @@ Nimnagami praner agun bhisan garal
 * Hari Bol... Dol....... Mane Prane Dehe Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:31
+  :cite-key: BJBP:31
   :END:
 
 #+BEGIN_VERSE
@@ -575,10 +575,10 @@ Antara pure mama hillol
 * Bishwa Pitar Dhyane Aji Ami Bibhor Mane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:32
+  :cite-key: BJBP:32
   :END:
 
 #+BEGIN_VERSE
@@ -592,10 +592,10 @@ Mane prane eituku nai andhiyar ghor
 * Akuti Anal Bhakati Dhabal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-11-2001
-  :CITE-KEY: BJBP:33
+  :cite-key: BJBP:33
   :END:
 
 #+BEGIN_VERSE
@@ -609,10 +609,10 @@ Sammukhe mor nartane rata dur asimer bhor
 * Benche Achi Tomar Kripai Thakte Chahi Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:34
+  :cite-key: BJBP:34
   :END:
 
 #+BEGIN_VERSE
@@ -626,10 +626,10 @@ Tomar sebai katabo din tomar jayer bajabo bin
 * Bahir Jagate Tomar Ushasi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:35
+  :cite-key: BJBP:35
   :END:
 
 #+BEGIN_VERSE
@@ -645,10 +645,10 @@ Bhitar jagate tumi mor mita
 * Chander Paree.. Tomar Sathe Nil Jamunai Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:36
+  :cite-key: BJBP:36
   :END:
 
 #+BEGIN_VERSE
@@ -662,10 +662,10 @@ Tomar sathe nil jamunai aj santari
 * Ghume Jagarane Madhura Swapane Nehari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:37
+  :cite-key: BJBP:37
   :END:
 
 #+BEGIN_VERSE
@@ -679,10 +679,10 @@ Ami haye jabo hiyar akashe pradipta ek rabi
 * Jedike Takai Sedike Nehari Mama Priyatama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:38
+  :cite-key: BJBP:38
   :END:
 
 #+BEGIN_VERSE
@@ -696,10 +696,10 @@ Tomar bikashe sabare dakibo niyata dibase rate
 * Hiyar Gahane Rayecho Gopane Heri Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:39
+  :cite-key: BJBP:39
   :END:
 
 #+BEGIN_VERSE
@@ -713,10 +713,10 @@ Dibanishi ami dakibo tomai tushite jibane marane
 * Tomar Nayan Karibo Smaran Tomar Charane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:40
+  :cite-key: BJBP:40
   :END:
 
 #+BEGIN_VERSE
@@ -732,10 +732,10 @@ Tomar parashe habo ranjita
 * Shanto Karo Pran Gaite Tomar Gan Puta Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:41
+  :cite-key: BJBP:41
   :END:
 
 #+BEGIN_VERSE
@@ -751,10 +751,10 @@ Pujte anukhan
 * Chinta Bihin Hate Habe Chinta Bihin Tabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:42
+  :cite-key: BJBP:42
   :END:
 
 #+BEGIN_VERSE
@@ -768,10 +768,10 @@ Tabe tumi pabe jani mukti swadhin
 * Tomai Jara Kabhu Nahi Jane Tara Tomari Nitya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-11-2001
-  :CITE-KEY: BJBP:43
+  :cite-key: BJBP:43
   :END:
 
 #+BEGIN_VERSE
@@ -787,10 +787,10 @@ Tara tomar jyotir chhatri chhatra
 * Phuteche Aj Mor Kanane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:44
+  :cite-key: BJBP:44
   :END:
 
 #+BEGIN_VERSE
@@ -804,10 +804,10 @@ Raibena ar bahu dure jiban nadir kul
 * Peyechi Aj Bishwa Mayer
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:45
+  :cite-key: BJBP:45
   :END:
 
 #+BEGIN_VERSE
@@ -821,10 +821,10 @@ Bhengechi aj mor jibaner sakal srinkhal
 * Laho Nati Mor Laho Nati Mor Laho Nati Prabhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:46
+  :cite-key: BJBP:46
   :END:
 
 #+BEGIN_VERSE
@@ -838,10 +838,10 @@ Neharite chai hriday gabhire tomar oishi jyoti
 * Phute Utho Phute Utho Hiya Shashi Nahi Jeno
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:47
+  :cite-key: BJBP:47
   :END:
 
 #+BEGIN_VERSE
@@ -855,10 +855,10 @@ Nahi jeno heri kabhu maner masi
 * Bhore Sanjhe Tomar Jayer Mala Gati Nahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:48
+  :cite-key: BJBP:48
   :END:
 
 #+BEGIN_VERSE
@@ -872,10 +872,10 @@ Nahi heri baddha maner andha rati
 * Hridaya Gabhire Nehari Ajike Param Pitar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:49
+  :cite-key: BJBP:49
   :END:
 
 #+BEGIN_VERSE
@@ -889,10 +889,10 @@ Samukhe amar biraje ajike param pitar benuka
 * Desh Bideshe Ghure Berai Kanur Dekha Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:50
+  :cite-key: BJBP:50
   :END:
 
 #+BEGIN_VERSE
@@ -906,10 +906,10 @@ Ashru hiyai dibas rati kebal kripa magi
 * Swapane Ami Je Amar Amire Kariyachi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:51
+  :cite-key: BJBP:51
   :END:
 
 #+BEGIN_VERSE
@@ -923,10 +923,10 @@ Bastabe keno dhare rakhi tare balo ogo sumahan
 * Bhitare Anal Hayeche Prabal Tai Uri Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:52
+  :cite-key: BJBP:52
   :END:
 
 #+BEGIN_VERSE
@@ -940,10 +940,10 @@ Heribona ar jiban amar ghor andhiyar hatashe
 * Agyanatar Bhengechi Ebar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 27-11-2001
-  :CITE-KEY: BJBP:53
+  :cite-key: BJBP:53
   :END:
 
 #+BEGIN_VERSE
@@ -957,10 +957,10 @@ Alo charidhar nahi habo ar kabhu disha hara
 * Kari Ami Animeshe Tomar Anneshan Dekha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:54
+  :cite-key: BJBP:54
   :END:
 
 #+BEGIN_VERSE
@@ -974,10 +974,10 @@ Dekha pele dhanya habe jiban maran
 * Dhara Bandhan Karo Khandan Dhara Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:55
+  :cite-key: BJBP:55
   :END:
 
 #+BEGIN_VERSE
@@ -991,10 +991,10 @@ Ami hate chahi tomar hiyar debanandan
 * Phutbe Aji Swapan Amar Nutan Prabhate Jog
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:56
+  :cite-key: BJBP:56
   :END:
 
 #+BEGIN_VERSE
@@ -1008,10 +1008,10 @@ Jog dibe mor jiban khani bishwa sabate
 * Ke Amare Shikhabe Aj Nirabatar Gan Ke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:57
+  :cite-key: BJBP:57
   :END:
 
 #+BEGIN_VERSE
@@ -1025,10 +1025,10 @@ Ke amare danibe aj asimatar pran
 * Chaho Jadi Tumi Jiban Samare Nijere Karite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:58
+  :cite-key: BJBP:58
   :END:
 
 #+BEGIN_VERSE
@@ -1042,10 +1042,10 @@ Sugabhir dhyane pratiti nimeshe hate habe tanmoy
 * Balo.. He Param Pita Herite Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:59
+  :cite-key: BJBP:59
   :END:
 
 #+BEGIN_VERSE
@@ -1059,10 +1059,10 @@ Kena ami labhi dibase nishite ashesh hiyar bedan
 * Atmahara Hate Habe Atmahara Dekhte Pabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:60
+  :cite-key: BJBP:60
   :END:
 
 #+BEGIN_VERSE
@@ -1076,10 +1076,10 @@ Dekhte pabe prabhur kripar srota dhara
 * Nehari Ajike Hiyar Gahane Bishwa Matar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:61
+  :cite-key: BJBP:61
   :END:
 
 #+BEGIN_VERSE
@@ -1093,10 +1093,10 @@ Jiban amar maran amar mahima garima
 * Krandan Bina Krandan Kemane Nashibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:62
+  :cite-key: BJBP:62
   :END:
 
 #+BEGIN_VERSE
@@ -1114,10 +1114,10 @@ Kemane labhibo darashan
 * Hiya Kunje Habo Ami Latika Bithika Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 29-11-2001
-  :CITE-KEY: BJBP:63
+  :cite-key: BJBP:63
   :END:
 
 #+BEGIN_VERSE
@@ -1131,10 +1131,10 @@ Amar majhe uthbe jege amaratar shikha
 * Jani Jani Mago Tomar Madhur Bachan Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:64
+  :cite-key: BJBP:64
   :END:
 
 #+BEGIN_VERSE
@@ -1148,10 +1148,10 @@ Hiya pure karechhe mor ashru mochan
 * Na Shunile Ami Taba Madhu Bani Habe Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:65
+  :cite-key: BJBP:65
   :END:
 
 #+BEGIN_VERSE
@@ -1165,10 +1165,10 @@ Jiban samare maraner bhiti karibe amare khoy
 * Nahi Habo Kampita Nahi Habo Shankita Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:66
+  :cite-key: BJBP:66
   :END:
 
 #+BEGIN_VERSE
@@ -1184,10 +1184,10 @@ Kothai taba pada rekha
 * Ghumer Ghore Chahi Ami Taba Parashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:67
+  :cite-key: BJBP:67
   :END:
 
 #+BEGIN_VERSE
@@ -1201,10 +1201,10 @@ Jagarane chahi ami taba darashan
 * He Amar Man Kena Achetan He Amar Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:68
+  :cite-key: BJBP:68
   :END:
 
 #+BEGIN_VERSE
@@ -1220,10 +1220,10 @@ Kena tare nahi dako
 * Chinta Dahan Maner Gahane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:69
+  :cite-key: BJBP:69
   :END:
 
 #+BEGIN_VERSE
@@ -1236,10 +1236,10 @@ Janani tomar bhulegechi aj amiya charan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:70
+  :cite-key: BJBP:70
   :END:
 
 #+BEGIN_VERSE
@@ -1253,10 +1253,10 @@ Your Nectar-flooded Feet.
 * Bhule Bhule Katlo Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:71
+  :cite-key: BJBP:71
   :END:
 
 #+BEGIN_VERSE
@@ -1269,10 +1269,10 @@ Bhiti kebal amar sakal bhuler mule
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:72
+  :cite-key: BJBP:72
   :END:
 
 #+BEGIN_VERSE
@@ -1285,10 +1285,10 @@ Fear is the source of all my blunders.
 * Hiya Pakhi Khule Dao Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:73
+  :cite-key: BJBP:73
   :END:
 
 #+BEGIN_VERSE
@@ -1302,10 +1302,10 @@ Khule dao aji mor jibaner rabi ankhi
 * Sanga Halo Aji Amar Hiyar Bedan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:74
+  :cite-key: BJBP:74
   :END:
 
 #+BEGIN_VERSE
@@ -1318,10 +1318,10 @@ Prabhur sathe halo amar amar milan
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 30-11-2001
-  :CITE-KEY: BJBP:75
+  :cite-key: BJBP:75
   :END:
 
 #+BEGIN_VERSE
@@ -1337,10 +1337,10 @@ My Lord and I today begin
 * He Ishwari Pale Pale Tomai Smari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-11-2001
-  :CITE-KEY: BJBP:76
+  :cite-key: BJBP:76
   :END:
 
 #+BEGIN_VERSE
@@ -1357,10 +1357,10 @@ Ratul tomar charan dhari
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 26-11-2001
-  :CITE-KEY: BJBP:77
+  :cite-key: BJBP:77
   :END:
 
 #+BEGIN_VERSE
@@ -1378,10 +1378,10 @@ I have placed my life at Your
 * Jatri Chal.. Dhara Ar Adharar Ashish Bal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-12-2001
-  :CITE-KEY: BJBP:78
+  :cite-key: BJBP:78
   :END:
 
 #+BEGIN_VERSE
@@ -1395,10 +1395,10 @@ Dhara ar adharar ashish bal
 * Shanta Halo Tripta Halo Jiban Amar Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-12-2001
-  :CITE-KEY: BJBP:79
+  :cite-key: BJBP:79
   :END:
 
 #+BEGIN_VERSE
@@ -1412,10 +1412,10 @@ Tumi tomar kripar ankhi asim pathar
 * Maner Jatana Hiyar Bedana Jabena Chhariya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-12-2001
-  :CITE-KEY: BJBP:80
+  :cite-key: BJBP:80
   :END:
 
 #+BEGIN_VERSE
@@ -1429,10 +1429,10 @@ Jadi nahi tushi nimeshe nimeshe amar hridaye sabare
 * Bhorer Bhanu Dake More Dake Sanjher Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-12-2001
-  :CITE-KEY: BJBP:81
+  :cite-key: BJBP:81
   :END:
 
 #+BEGIN_VERSE
@@ -1446,10 +1446,10 @@ Jiban amar tader sneher tader kripar dhara
 * Supti Magan Jiban Amar Supti Magan Phutbe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 01-12-2001
-  :CITE-KEY: BJBP:82
+  :cite-key: BJBP:82
   :END:
 
 #+BEGIN_VERSE
@@ -1463,10 +1463,10 @@ Phutbe ki hai ei jibane hiyar tapan
 * Toto Kare Ghurbona Ar Maner Bane Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:83
+  :cite-key: BJBP:83
   :END:
 
 #+BEGIN_VERSE
@@ -1480,10 +1480,10 @@ Hiya pure khelbo shudhu tomar sane
 * Dhakka Maro Lathi Maro
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:84
+  :cite-key: BJBP:84
   :END:
 
 #+BEGIN_VERSE
@@ -1498,10 +1498,10 @@ Tomai ami marbona na na na
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:85
+  :cite-key: BJBP:85
   :END:
 
 #+BEGIN_VERSE
@@ -1518,10 +1518,10 @@ I shall never hurt You in ignorance-night.
 * Bhitare Bahire Hate Habe More Suddha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:86
+  :cite-key: BJBP:86
   :END:
 
 #+BEGIN_VERSE
@@ -1535,10 +1535,10 @@ Dekha dibe tabe gyaner tapan buddha
 * Narayan.. Ami Taba Karunar Nandan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:87
+  :cite-key: BJBP:87
   :END:
 
 #+BEGIN_VERSE
@@ -1552,10 +1552,10 @@ Ami taba karunar nandan
 * Dharanir Buke Ami Durbar Ganthi Taba Jaya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:88
+  :cite-key: BJBP:88
   :END:
 
 #+BEGIN_VERSE
@@ -1569,10 +1569,10 @@ Ganthi taba jaya mala anibar
 * Jiban Pathe Nitya Nutan Tomar Bijoy Giti Gahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:89
+  :cite-key: BJBP:89
   :END:
 
 #+BEGIN_VERSE
@@ -1586,10 +1586,10 @@ Tomar gati tomar mati jante ami mago chahi
 * Rakta Lochan Dekhe Tomar Rakta Lochan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:90
+  :cite-key: BJBP:90
   :END:
 
 #+BEGIN_VERSE
@@ -1603,10 +1603,10 @@ Jiban amar haye gelo bhitir maran
 * Tomar Katha Shuni Ami Sabar Mukhe Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 06-12-2001
-  :CITE-KEY: BJBP:91
+  :cite-key: BJBP:91
   :END:
 
 #+BEGIN_VERSE
@@ -1620,10 +1620,10 @@ Jiban katai ami amar param sukhe
 * Kambu Ninade Eso Eso Priyatama Karogo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:92
+  :cite-key: BJBP:92
   :END:
 
 #+BEGIN_VERSE
@@ -1637,10 +1637,10 @@ Karogo amar antara manorama
 * Baddha Ami Maner Karagare Ghor Andhiyar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:93
+  :cite-key: BJBP:93
   :END:
 
 #+BEGIN_VERSE
@@ -1654,10 +1654,10 @@ Ghor andhiyar amar charidhare
 * Abhrabhedi Hok Aj Abhipsa Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:94
+  :cite-key: BJBP:94
   :END:
 
 #+BEGIN_VERSE
@@ -1671,10 +1671,10 @@ Bidhatar maha bani karite prachar
 * Chinta Bihin Hate Habe Amar Manas Tabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:95
+  :cite-key: BJBP:95
   :END:
 
 #+BEGIN_VERSE
@@ -1688,10 +1688,10 @@ Tabe ami parbo hate maha tapas
 * Agyanatar Timir Guhai Ami Thaki Supta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:96
+  :cite-key: BJBP:96
   :END:
 
 #+BEGIN_VERSE
@@ -1704,10 +1704,10 @@ Bangshidhari dao go dekha karo amai mukta
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:97
+  :cite-key: BJBP:97
   :END:
 
 #+BEGIN_VERSE
@@ -1723,10 +1723,10 @@ O Lord Krishna, do appear before me
 * Ugrata Jani Nimnata Aspriha Jani Uchchhata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:98
+  :cite-key: BJBP:98
   :END:
 
 #+BEGIN_VERSE
@@ -1742,10 +1742,10 @@ Prabhu pade shudhu saphalata
 * Maner Jagate Kriran Hiyar Gabhire Kirtan Man
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:99
+  :cite-key: BJBP:99
   :END:
 
 #+BEGIN_VERSE
@@ -1759,10 +1759,10 @@ Man jangale sandeha hiya pure nahi par keha
 * Achapal Pran Chahi Shudhu Aj
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:100
+  :cite-key: BJBP:100
   :END:
 
 #+BEGIN_VERSE
@@ -1776,10 +1776,10 @@ Tahar majhare uthibe phutiya prabhu kripa aphuran
 * Badhar Bandhan Langhiya Chali Ati Manaser
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:101
+  :cite-key: BJBP:101
   :END:
 
 #+BEGIN_VERSE
@@ -1793,10 +1793,10 @@ Dure bahu dure rekhechi pheliya agyanatar amaratri
 * Nutan Jiban Nutan Swapan Kare More Abahan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:102
+  :cite-key: BJBP:102
   :END:
 
 #+BEGIN_VERSE
@@ -1810,10 +1810,10 @@ Dhara bedanar dhara jatanar habe aji samapan
 * Jiban Moder Nahe Jani Alik Abhinoy Jiban
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:103
+  :cite-key: BJBP:103
   :END:
 
 #+BEGIN_VERSE
@@ -1827,10 +1827,10 @@ Jiban moder bishwa prabhur jyotir abhyudoy
 * Bandhan Khandan Halo Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:104
+  :cite-key: BJBP:104
   :END:
 
 #+BEGIN_VERSE
@@ -1843,10 +1843,10 @@ Tai bujhi dekha dilo hiya majhi
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:105
+  :cite-key: BJBP:105
   :END:
 
 #+BEGIN_VERSE
@@ -1862,10 +1862,10 @@ Therefore, my heart’s Boatman
 * Nitya Nutan Namer Jasher Kangal Jara Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:106
+  :cite-key: BJBP:106
   :END:
 
 #+BEGIN_VERSE
@@ -1879,10 +1879,10 @@ Tara habe disha hara sarba hara
 * Karal Badana Janani Amar Binash Karogo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:107
+  :cite-key: BJBP:107
   :END:
 
 #+BEGIN_VERSE
@@ -1898,10 +1898,10 @@ Pratiti karme ei je amar pan
 * Kruddha Manas Ruddha Jiban Rakhi Aji Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:108
+  :cite-key: BJBP:108
   :END:
 
 #+BEGIN_VERSE
@@ -1915,10 +1915,10 @@ Bandhiya rakhibo jiban amar taba khama kripa dore
 * Asam Bhaber Sima Ache Jani Ami Jani Jadi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 13-12-2001
-  :CITE-KEY: BJBP:109
+  :cite-key: BJBP:109
   :END:
 
 #+BEGIN_VERSE
@@ -1932,10 +1932,10 @@ Jadi ami mayer charan bhakke amar tani
 * Rekhechi Tomare Hriday Gabhire Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 15-12-2001
-  :CITE-KEY: BJBP:110
+  :cite-key: BJBP:110
   :END:
 
 #+BEGIN_VERSE
@@ -1949,10 +1949,10 @@ Nutan swapan diyechho amare ogo hiya tari majhi
 * Chidakashe Raje Amar Dipali Taito Amar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:111
+  :cite-key: BJBP:111
   :END:
 
 #+BEGIN_VERSE
@@ -1966,10 +1966,10 @@ Taito amar bahir jiban rupali
 * Urdha Jagate Rakhi Amar Chetana Taito Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:112
+  :cite-key: BJBP:112
   :END:
 
 #+BEGIN_VERSE
@@ -1983,10 +1983,10 @@ Taito dure bahu dure bedana
 * Bhitar Jibane Bahir Jibane Ami Habo Sudipan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:113
+  :cite-key: BJBP:113
   :END:
 
 #+BEGIN_VERSE
@@ -2000,10 +2000,10 @@ Dharare danibo akatare ami sudha bani ajiban
 * Jiban Swapan Maran Swapan Sabiy Swapan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:114
+  :cite-key: BJBP:114
   :END:
 
 #+BEGIN_VERSE
@@ -2017,10 +2017,10 @@ Charidike agyanatar alik bandhan
 * Jani Jani Khulbe Jakhan Mor Tritiya Netra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:115
+  :cite-key: BJBP:115
   :END:
 
 #+BEGIN_VERSE
@@ -2034,10 +2034,10 @@ Charidhare dekhbo shudhu bishwa prabhur chhatra
 * Antare Jar Prabhur Asan Nai Jiban Je Tar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:116
+  :cite-key: BJBP:116
   :END:
 
 #+BEGIN_VERSE
@@ -2051,10 +2051,10 @@ Jiban je tar mulya bihin chhai
 * Bajai Jara Bishwa Prabhur Bijoy Danka Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:117
+  :cite-key: BJBP:117
   :END:
 
 #+BEGIN_VERSE
@@ -2068,10 +2068,10 @@ Tara jagai timir pure bhishan shanka
 * Dak... Paran Khule Dak Moher Bandhan Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:118
+  :cite-key: BJBP:118
   :END:
 
 #+BEGIN_VERSE
@@ -2085,10 +2085,10 @@ Moher bandhan dure phele rakh
 * Dak... Dekhbi Alor Path Purna Habe Tader
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:119
+  :cite-key: BJBP:119
   :END:
 
 #+BEGIN_VERSE
@@ -2102,10 +2102,10 @@ Purna habe tader manorath
 * Dak... Swarga Hasi Phutbe Ek Nimeshe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:120
+  :cite-key: BJBP:120
   :END:
 
 #+BEGIN_VERSE
@@ -2119,10 +2119,10 @@ Ek nimeshe dharar bandhan tutbe
 * Dak... Kebal Mayer Nam Dhara Habe Nikhut
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:121
+  :cite-key: BJBP:121
   :END:
 
 #+BEGIN_VERSE
@@ -2136,10 +2136,10 @@ Dhara habe nikhut swarga dham
 * Amar Mane Heri Aji
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:122
+  :cite-key: BJBP:122
   :END:
 
 #+BEGIN_VERSE
@@ -2153,10 +2153,10 @@ Amar hiyai heri aji mukta rabir udayan
 * Chapal Deha Chapal Paran Chapal Manas Jar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:123
+  :cite-key: BJBP:123
   :END:
 
 #+BEGIN_VERSE
@@ -2170,10 +2170,10 @@ Ei jibane pabe na je kabhu mukti har
 * Chapal Deha Chapal Paran Chapal Manas Jar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:124
+  :cite-key: BJBP:124
   :END:
 
 #+BEGIN_VERSE
@@ -2187,10 +2187,10 @@ Baite habe bhari bojha agyanatar bhar
 * Hiya Pure Shuni Aji Kanur Nupur Dhwani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:125
+  :cite-key: BJBP:125
   :END:
 
 #+BEGIN_VERSE
@@ -2204,10 +2204,10 @@ Phute uthe nabin juger nabin dinamani
 * Jiban Amar Haibe Tomar Kripar Bindu Maran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:126
+  :cite-key: BJBP:126
   :END:
 
 #+BEGIN_VERSE
@@ -2221,10 +2221,10 @@ Maran amar haibe tomar ashish indu
 * Amar Sarir Amar Paran
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:127
+  :cite-key: BJBP:127
   :END:
 
 #+BEGIN_VERSE
@@ -2238,10 +2238,10 @@ Kemane labhibo taba kripa rashi pracharite taba dharanir buke garima
 * Dhare Achhi Pran Gabhire Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:128
+  :cite-key: BJBP:128
   :END:
 
 #+BEGIN_VERSE
@@ -2255,10 +2255,10 @@ Tomar paye pabo ami shanti jyoti pratul
 * Nayan Tara nahi Chahi Chahi Hiyakasher Tara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:129
+  :cite-key: BJBP:129
   :END:
 
 #+BEGIN_VERSE
@@ -2272,10 +2272,10 @@ Jiban amar maran amar habe jani bandhan hara
 * Dibarati Gaibo Ami Param Pitar Bijoy Giti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 17-12-2001
-  :CITE-KEY: BJBP:130
+  :cite-key: BJBP:130
   :END:
 
 #+BEGIN_VERSE
@@ -2289,10 +2289,10 @@ Dharar prane dhalbo ami amaratar priti
 * Hethai Hothai Sthale Jale Raibo Tomar Charan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:131
+  :cite-key: BJBP:131
   :END:
 
 #+BEGIN_VERSE
@@ -2308,10 +2308,10 @@ Amire mor chahi dite
 * Sarbakhane Tomar Paye Ami Phute Thakbo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:132
+  :cite-key: BJBP:132
   :END:
 
 #+BEGIN_VERSE
@@ -2325,10 +2325,10 @@ Sakal chaowa sakal paowa dure ami rakhbo
 * Phuriye Jai Diner Alo Tai Dekhi Hai Andhar Kalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:133
+  :cite-key: BJBP:133
   :END:
 
 #+BEGIN_VERSE
@@ -2342,10 +2342,10 @@ Nahi chahi alo andhar chahi kebal khama pathar
 * He Shankari.. Laho Amai Ei Minati Ami Kari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:134
+  :cite-key: BJBP:134
   :END:
 
 #+BEGIN_VERSE
@@ -2359,10 +2359,10 @@ Laho amai ei minati ami kari
 * Tomai Khunje Ghure Berai Ghure Berai Ghure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:135
+  :cite-key: BJBP:135
   :END:
 
 #+BEGIN_VERSE
@@ -2376,10 +2376,10 @@ Nithur tumi taito raho dure bahu dure
 * Jiban Amar Saphal Habe Tomar Katha Smari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:136
+  :cite-key: BJBP:136
   :END:
 
 #+BEGIN_VERSE
@@ -2393,10 +2393,10 @@ Maran amar saphal habe tomar paye Hari
 * Chokher Jale Khunji Tomai Khunji Hiyar Jale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:137
+  :cite-key: BJBP:137
   :END:
 
 #+BEGIN_VERSE
@@ -2410,10 +2410,10 @@ Hiyar jale puji tomai puji
 * Ashru Bina Tomar Beena
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:138
+  :cite-key: BJBP:138
   :END:
 
 #+BEGIN_VERSE
@@ -2427,10 +2427,10 @@ Ashru sathe tomar kache jabo ami jabo
 * Nibir Timir Manas Amar Nibir Timir Taito Dure
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:139
+  :cite-key: BJBP:139
   :END:
 
 #+BEGIN_VERSE
@@ -2444,10 +2444,10 @@ Taito dure bahu dure shanti gabhir
 * Bhalo Lage Diba Rati Birat Bhranti Mela Taito
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:140
+  :cite-key: BJBP:140
   :END:
 
 #+BEGIN_VERSE
@@ -2461,10 +2461,10 @@ Taito tomai param pita kari abahela
 * Bhalo Lage Bel Patha Dharar Pitar Bhalo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:141
+  :cite-key: BJBP:141
   :END:
 
 #+BEGIN_VERSE
@@ -2478,10 +2478,10 @@ Bhalo lage jaba phul dharar matar
 * Bel Patha Jaba Phul Diye Puja Kari Ati Druta
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:142
+  :cite-key: BJBP:142
   :END:
 
 #+BEGIN_VERSE
@@ -2495,10 +2495,10 @@ Ati druta bege chale mor hiya tari
 * Paran Bhare Pujbo Tomai paran Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:143
+  :cite-key: BJBP:143
   :END:
 
 #+BEGIN_VERSE
@@ -2512,10 +2512,10 @@ Charan dhare raibo tomar charan dhare
 * Maya Moher Melai Kanna Hasir Khelai Britha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:144
+  :cite-key: BJBP:144
   :END:
 
 #+BEGIN_VERSE
@@ -2531,10 +2531,10 @@ Hriday amar tibra jatan
 * Asi Nai Bhabe Bhramite Asi Nai Bhabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:145
+  :cite-key: BJBP:145
   :END:
 
 #+BEGIN_VERSE
@@ -2550,10 +2550,10 @@ Esechi dharai pujite
 * Ar Katokal Karbo Ami Chhutochhuti Kabe Pabo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:146
+  :cite-key: BJBP:146
   :END:
 
 #+BEGIN_VERSE
@@ -2567,10 +2567,10 @@ Kabe pabo dekhte tomar charan duti
 * Dayamoyi Rupti Niye Aso Mago Amar Kachhe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:147
+  :cite-key: BJBP:147
   :END:
 
 #+BEGIN_VERSE
@@ -2584,10 +2584,10 @@ Tomar dekha pelam bale chitta amar hase nache
 * Nitya Nutan Tomar Range Ranga Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:148
+  :cite-key: BJBP:148
   :END:
 
 #+BEGIN_VERSE
@@ -2601,10 +2601,10 @@ Amar chaowa amar paowa kebal tomar charan
 * Bishwa Mayer Charan Tale Jege Uthi Phule
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:149
+  :cite-key: BJBP:149
   :END:
 
 #+BEGIN_VERSE
@@ -2618,10 +2618,10 @@ Bishwa mayer charan tale mukti pabo hiyar jale
 * Balo... Dako Keno Kisher Tare Dibe Ki Hai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 23-12-2001
-  :CITE-KEY: BJBP:150
+  :cite-key: BJBP:150
   :END:
 
 #+BEGIN_VERSE
@@ -2635,10 +2635,10 @@ Dibe ki hai thakte amai tomar ratul charan dhare
 * Kothai Thaki Kothai Chali Nahi Jani Jani Shudhu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-2001
-  :CITE-KEY: BJBP:151
+  :cite-key: BJBP:151
   :END:
 
 #+BEGIN_VERSE
@@ -2652,10 +2652,10 @@ Jani shudhu mago tomar charan khani
 * Eso Eso Mor Jiban Majhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 24-12-2001
-  :CITE-KEY: BJBP:152
+  :cite-key: BJBP:152
   :END:
 
 #+BEGIN_VERSE
@@ -2668,10 +2668,10 @@ Tomare tushite esechi dharai ei mama parichoy
 ** Translation
 
   :PROPERTIES:
-  :GENRE: song-translation
+  :genre: song-translation
   :LANGUAGE: en
   :DATE: 24-12-2001
-  :CITE-KEY: BJBP:153
+  :cite-key: BJBP:153
   :END:
 
 #+BEGIN_VERSE
@@ -2687,10 +2687,10 @@ Only to please You.
 * Shikhte Ami Nahi Chahi Achar Bichar Niti Kebal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 25-12-2001
-  :CITE-KEY: BJBP:154
+  :cite-key: BJBP:154
   :END:
 
 #+BEGIN_VERSE
@@ -2704,10 +2704,10 @@ Kebal jachi tomar hiyar madhur priti
 * Asha Amar Purna Nahi Habe Britha Katai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:155
+  :cite-key: BJBP:155
   :END:
 
 #+BEGIN_VERSE
@@ -2721,10 +2721,10 @@ Britha katai jiban amar bhabe
 * Chapal Paran Sangi Amar Taito Tomare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:156
+  :cite-key: BJBP:156
   :END:
 
 #+BEGIN_VERSE
@@ -2738,10 +2738,10 @@ Kutil manas sangi amar taito tomare tyejechi
 * Ami Amar Ghor Andhiyar Maner Chhal
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:157
+  :cite-key: BJBP:157
   :END:
 
 #+BEGIN_VERSE
@@ -2755,10 +2755,10 @@ Tumi tomar nitya nutan khamar bal
 * Dharanite Dibya Prem
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:158
+  :cite-key: BJBP:158
   :END:
 
 #+BEGIN_VERSE
@@ -2772,10 +2772,10 @@ Hetha shudhu mithyamoy maha kalarab
 * Jananire Na Herile Mor Buk Phete Bhenge Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:159
+  :cite-key: BJBP:159
   :END:
 
 #+BEGIN_VERSE
@@ -2789,10 +2789,10 @@ Jananire neharile jege uthi phute uthi maha chetanai
 * Putul Khela Khelte Ami Asi Nai Je Dharate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:160
+  :cite-key: BJBP:160
   :END:
 
 #+BEGIN_VERSE
@@ -2806,10 +2806,10 @@ Asiyachi mayer hasi sthale jale chharate
 * Param Pitar Charan Dhuti Barai Madhumoy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-12-2001
-  :CITE-KEY: BJBP:161
+  :cite-key: BJBP:161
   :END:
 
 #+BEGIN_VERSE

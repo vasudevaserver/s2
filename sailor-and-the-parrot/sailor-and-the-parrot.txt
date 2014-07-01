@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0454
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1981
-  :PUBLISHER: Agni Press
-  :CITE-KEY: SLPR
-  :GENRE: story
-  :KEYWORDS:
+  :book-number: 0454
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1981
+  :publisher: Agni Press
+  :cite-key: SLPR
+  :genre: story
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * The Free Haircut
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:1
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:1
   :END:
 
 
@@ -57,9 +57,9 @@ The boy said, "He told me that you give free haircuts. I said I wanted a free ha
 * The Restaurant-Barber Shop
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:2
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:2
   :END:
 
 
@@ -86,9 +86,9 @@ The man stood up and said, "I came to the wrong place. I do not need a shave. I 
 * The Old Lady And The Doctor
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:3
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:3
   :END:
 
 
@@ -113,9 +113,9 @@ The doctor said, "For each piece of good news that you would get, you would hear
 * The Generous Husband
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:4
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:4
   :END:
 
 
@@ -144,9 +144,9 @@ The husband said, "In those days you didn't know how to cook at all. Your food w
 * The Supermarket Fortune
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:5
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:5
   :END:
 
 
@@ -179,9 +179,9 @@ The husband said, "All right, since you are very proud of me and I am proud of y
 * The Sailor And The Parrot
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:6
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:6
   :END:
 
 
@@ -236,9 +236,9 @@ Both the girl and the sailor looked at each other and cried. They weren't crying
 * The Swimming Professor
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:7
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:7
   :END:
 
 
@@ -271,9 +271,9 @@ The girl continued, "You said that swimming the pool five times was compulsory. 
 * The Expensive Sweater
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:8
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:8
   :END:
 
 
@@ -302,9 +302,9 @@ The husband said, "I am so happy for this brilliant idea. Every day you can be a
 * The Serious Problem
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:9
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:9
   :END:
 
 
@@ -329,9 +329,9 @@ The man said, "Thank you," and started getting up to leave. "A serious problem h
 * The Drum And The Knife
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:10
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:10
   :END:
 
 
@@ -356,9 +356,9 @@ As soon as his aunt saw the knife and the ten dollar bill, and her nephew's tear
 * The Artist And The Farmer
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:11
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:11
   :END:
 
 
@@ -383,9 +383,9 @@ Finally, when the artist was leaving, the farmer said to him, "I have not accept
 * Small And Big Decisions
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:12
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:12
   :END:
 
 
@@ -414,9 +414,9 @@ The man said, "My wife says she is always proud of me and she will always be pro
 * A Gentleman's Wife
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:13
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:13
   :END:
 
 
@@ -449,9 +449,9 @@ The wife said, "You wrote me a note asking me to wake you at five o'clock. I wro
 * The Christmas Cards
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:14
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:14
   :END:
 
 
@@ -498,9 +498,9 @@ The wife scolded him mercilessly. Then she said, "Now go into the kitchen and ea
 * The Daughter's Glasses And Make-Up
 
   :PROPERTIES:
-  :GENRE: story
-  :KEYWORDS:
-  :CITE-KEY: SLPR:15
+  :genre: story
+  :keywords:
+  :cite-key: SLPR:15
   :END:
 
 

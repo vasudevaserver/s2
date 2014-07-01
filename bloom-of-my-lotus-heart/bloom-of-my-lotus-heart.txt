@@ -6,13 +6,13 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 1532
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION:
-  :YEAR: 2005
-  :PUBLISHER:
-  :CITE-KEY: BMLH
-  :GENRE: song
+  :book-number: 1532
+  :author: Sri Chinmoy
+  :original-edition:
+  :year: 2005
+  :publisher:
+  :cite-key: BMLH
+  :genre: song
   :END:
 
 
@@ -20,8 +20,8 @@
 * Editor's note   
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BMLH:1e1
+  :genre: note
+  :cite-key: BMLH:1e1
   :END:
 
 This book is being proofed for mistypes. If you find any, please use link at the bottom of the page.
@@ -30,8 +30,8 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Editor's note   :noexport: 
 
   :PROPERTIES:
-  :GENRE: note
-  :CITE-KEY: BMLH:1e2
+  :genre: note
+  :cite-key: BMLH:1e2
   :END:
 
 
@@ -41,10 +41,10 @@ This book is being proofed for mistypes. If you find any, please use link at the
 * Abachetaner Guhar Andhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:1
+  :cite-key: BMLH:1
   :END:
 
 #+BEGIN_VERSE
@@ -58,10 +58,10 @@ Antare jachi antaratama naba chetanar udayan
 * Ache Asha Bhalobasa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:2
+  :cite-key: BMLH:2
   :END:
 
 #+BEGIN_VERSE
@@ -75,10 +75,10 @@ Jara ane ei jibane ashanka jatana
 * Achetane Aj Namuk Chetana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:3
+  :cite-key: BMLH:3
   :END:
 
 #+BEGIN_VERSE
@@ -92,10 +92,10 @@ Chitta amar nitya jyotite hok atmahara
 * Aganita Bhab Aganita Rup
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:4
+  :cite-key: BMLH:4
   :END:
 
 #+BEGIN_VERSE
@@ -109,10 +109,10 @@ Purna prakash haibe je din dehe prane mane
 * Agya Bale Chaile Khama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:5
+  :cite-key: BMLH:5
   :END:
 
 #+BEGIN_VERSE
@@ -126,10 +126,10 @@ Mrityu jara danda rupe hanile shire bidita ache
 * Aj Ma Ami Rajar Mato
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:6
+  :cite-key: BMLH:6
   :END:
 
 #+BEGIN_VERSE
@@ -143,10 +143,10 @@ Hiyar bedan srishti kare jao ma kotha chali
 * Aji Simahin Amarar Jyoti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:7
+  :cite-key: BMLH:7
   :END:
 
 #+BEGIN_VERSE
@@ -160,10 +160,10 @@ Urdhaloker charan kamale kari shudhu nirbhar
 * Akuti Bhakati Charan Kamale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:8
+  :cite-key: BMLH:8
   :END:
 
 #+BEGIN_VERSE
@@ -177,10 +177,10 @@ Abiram hok ogo priyatama na jachi anya dan
 * Ami Asimer Ananda Ghana
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:9
+  :cite-key: BMLH:9
   :END:
 
 #+BEGIN_VERSE
@@ -194,10 +194,10 @@ Dibya jiban ananda lila amar kapale likha
 * Ami Asimer Kalpana Gara
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:10
+  :cite-key: BMLH:10
   :END:
 
 #+BEGIN_VERSE
@@ -211,10 +211,10 @@ Nitya amar ekiy swarup anante samasin
 * Ami Durbal Ami Asohai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:11
+  :cite-key: BMLH:11
   :END:
 
 #+BEGIN_VERSE
@@ -228,10 +228,10 @@ Taito parina puran karite oishi swapan
 * Ami Tomar Lilar Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:12
+  :cite-key: BMLH:12
   :END:
 
 #+BEGIN_VERSE
@@ -247,10 +247,10 @@ Amai tumi karo dan
 * Anandamoyi He Mor Janani
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:13
+  :cite-key: BMLH:13
   :END:
 
 #+BEGIN_VERSE
@@ -264,10 +264,10 @@ Dharar jibane tomar bijoy jachi ami shudhu mago
 * Andhakarer Pralay Danka
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:14
+  :cite-key: BMLH:14
   :END:
 
 #+BEGIN_VERSE
@@ -281,10 +281,10 @@ Kamala tomar kamal charan nayane rekhechi nirnimish
 * Anibo Amar Apan Swarupe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:15
+  :cite-key: BMLH:15
   :END:
 
 #+BEGIN_VERSE
@@ -298,10 +298,10 @@ Ananta jyoti jagate jibane rajibe pratiti ghare
 * Ashish Tomar Labhibo Baliya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:16
+  :cite-key: BMLH:16
   :END:
 
 #+BEGIN_VERSE
@@ -315,10 +315,10 @@ Tomar lagiya hriday khuliya base achi nirajane
 * Ashru Jader Nitya Sathi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:17
+  :cite-key: BMLH:17
   :END:
 
 #+BEGIN_VERSE
@@ -332,10 +332,10 @@ Khanti sona garbe bujhi dukha tape dahe
 * Asundarer Bankim Gati
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:18
+  :cite-key: BMLH:18
   :END:
 
 #+BEGIN_VERSE
@@ -349,10 +349,10 @@ Rakhibona taha sonar barani bidhatar name kari swapan
 * Asur Ajike Bhitare Bahire
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:19
+  :cite-key: BMLH:19
   :END:
 
 #+BEGIN_VERSE
@@ -366,10 +366,10 @@ Snehadaya kripa niteche hariya manab hriday hate
 * Atali Patali Amar Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:20
+  :cite-key: BMLH:20
   :END:
 
 #+BEGIN_VERSE
@@ -383,10 +383,10 @@ Dharabasi jeno prabhu jaya giti gahe
 * Ati Chupi Chupi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:21
+  :cite-key: BMLH:21
   :END:
 
 #+BEGIN_VERSE
@@ -400,10 +400,10 @@ Barek takale nayan mudiya lukao katana laje
 * Bahire Mor Agyanata
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:22
+  :cite-key: BMLH:22
   :END:
 
 #+BEGIN_VERSE
@@ -419,10 +419,10 @@ Ami madhumoy
 * Balar Ache Kato Kichu
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:23
+  :cite-key: BMLH:23
   :END:
 
 #+BEGIN_VERSE
@@ -436,10 +436,10 @@ Britha keno ghure mari maya moher pichu pichu
 * Bandhu Ke Mor Shatru Ke Mor
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:24
+  :cite-key: BMLH:24
   :END:
 
 #+BEGIN_VERSE
@@ -453,10 +453,10 @@ E minati karo prane jeno hanina
 * Baran Kare Kantakeri
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:25
+  :cite-key: BMLH:25
   :END:
 
 #+BEGIN_VERSE
@@ -470,10 +470,10 @@ Krusher biddha kristo tumi jukta kare nayan nire
 * Bare Bare Khuli Hiya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:26
+  :cite-key: BMLH:26
   :END:
 
 #+BEGIN_VERSE
@@ -487,10 +487,10 @@ Antare mor phute uthi taba kripa dane
 * Bhabi Jakhan Sthayi Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:27
+  :cite-key: BMLH:27
   :END:
 
 #+BEGIN_VERSE
@@ -504,10 +504,10 @@ Hathat tumi jao je chale hai hahakar
 * Bhalo Lage Mor Nitya Nutan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:28
+  :cite-key: BMLH:28
   :END:
 
 #+BEGIN_VERSE
@@ -521,10 +521,10 @@ Bhalo lage mor nijere karite sada dan
 * Bishwapati Bholanather Rudra
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:29
+  :cite-key: BMLH:29
   :END:
 
 #+BEGIN_VERSE
@@ -538,10 +538,10 @@ Rupantarer phutbe bani bishwa koshe
 * Chharile Na Chhare More
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:30
+  :cite-key: BMLH:30
   :END:
 
 #+BEGIN_VERSE
@@ -555,10 +555,10 @@ Bendhe rakhe añdhiyare amare satata
 * Chinta Srote Bhese Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:31
+  :cite-key: BMLH:31
   :END:
 
 #+BEGIN_VERSE
@@ -572,10 +572,10 @@ Ei jibane phutbe ki hai amaratar bhati
 * Dake Amai Nirabadhi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:32
+  :cite-key: BMLH:32
   :END:
 
 #+BEGIN_VERSE
@@ -589,10 +589,10 @@ Dake amai agyanatar timir kara
 * Desh Bideshe Gan Geye Jai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:33
+  :cite-key: BMLH:33
   :END:
 
 #+BEGIN_VERSE
@@ -606,10 +606,10 @@ Chahi ami amar maner añdhar nashite
 * Dhangsa Karo Hingsa Ashuwa
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:34
+  :cite-key: BMLH:34
   :END:
 
 #+BEGIN_VERSE
@@ -623,10 +623,10 @@ Sanchar karo manab hridaye udar atma bodh
 * Dharar Lila Sanga Habe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:35
+  :cite-key: BMLH:35
   :END:
 
 #+BEGIN_VERSE
@@ -640,10 +640,10 @@ Pabo ki hai dekha tomar tabe
 * Dhuli Malin Dharar Buke
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:36
+  :cite-key: BMLH:36
   :END:
 
 #+BEGIN_VERSE
@@ -657,10 +657,10 @@ Shoke shanti danile je anya jane drishti dile
 * Dibanishi Mago Ami Tomai Daki
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:37
+  :cite-key: BMLH:37
   :END:
 
 #+BEGIN_VERSE
@@ -674,10 +674,10 @@ Tripti bujhi pao ma amai diye phañki
 * E Shubha Dine Janma Nile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:38
+  :cite-key: BMLH:38
   :END:
 
 #+BEGIN_VERSE
@@ -691,10 +691,10 @@ Kon jyotite purna chhilo lagne oi nilambar
 * Ebar Mago Rajar Khela
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:39
+  :cite-key: BMLH:39
   :END:
 
 #+BEGIN_VERSE
@@ -708,10 +708,10 @@ Sagar tire ma ar chele khelbo aji dujane
 * Ek Abhilash Nitya Tomai
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:40
+  :cite-key: BMLH:40
   :END:
 
 #+BEGIN_VERSE
@@ -725,10 +725,10 @@ Khandan karo sakal bandhan tomar kripar dane
 * Eka Jini Simahin Ekak Ishwar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:41
+  :cite-key: BMLH:41
   :END:
 
 #+BEGIN_VERSE
@@ -742,10 +742,10 @@ Ami sei swarba byapi nitya nirantar
 * Eso Eso Mor Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:42
+  :cite-key: BMLH:42
   :END:
 
 #+BEGIN_VERSE
@@ -759,10 +759,10 @@ Baro bedanai kañde hiya taba tare
 * Gandalikar Srote Bhese Chali
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:43
+  :cite-key: BMLH:43
   :END:
 
 #+BEGIN_VERSE
@@ -776,10 +776,10 @@ Eso ma lakki oishi madhuri jalaye premer bahni shikha
 * Ganga Jamuna Kalakala Rabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:44
+  :cite-key: BMLH:44
   :END:
 
 #+BEGIN_VERSE
@@ -803,10 +803,10 @@ Gahibo sakale ek sathe mile bharatir agamani
 * Godhuli Lagane Tomare Heriya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:45
+  :cite-key: BMLH:45
   :END:
 
 #+BEGIN_VERSE
@@ -820,10 +820,10 @@ Janani tomar madhur parashe khulecho hridaya dor
 * Gupta Chhilo Mantra Taba
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:46
+  :cite-key: BMLH:46
   :END:
 
 #+BEGIN_VERSE
@@ -837,10 +837,10 @@ Dadash jane byapta kare maran nile sarba nasha
 * He Param Pita Jani Mora
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:47
+  :cite-key: BMLH:47
   :END:
 
 #+BEGIN_VERSE
@@ -854,10 +854,10 @@ Saurabh niye uthuk urdhe moder akuti arati dhup
 * Hiya Mandire Pujite Toma
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:48
+  :cite-key: BMLH:48
   :END:
 
 #+BEGIN_VERSE
@@ -871,10 +871,10 @@ Hiyar jagate hiyar srijan hiyar abhyudoy
 * Janani Kamala Asim Amala
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:49
+  :cite-key: BMLH:49
   :END:
 
 #+BEGIN_VERSE
@@ -888,10 +888,10 @@ Tomar charane dibanishi mago shanti labhite chai
 * Jani Ami Jani Tomar Nayan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:50
+  :cite-key: BMLH:50
   :END:
 
 #+BEGIN_VERSE
@@ -907,10 +907,10 @@ Jani ami jani
 * Jyotir Dhara Bhitar Bahir
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:51
+  :cite-key: BMLH:51
   :END:
 
 #+BEGIN_VERSE
@@ -924,10 +924,10 @@ Habona ar ei jibane patha hara
 * Kande Hiya Tomar Lagi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:52
+  :cite-key: BMLH:52
   :END:
 
 #+BEGIN_VERSE
@@ -941,10 +941,10 @@ Khane khane dekha peye ghuche jai je dukh
 * Kato Katha Kato Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:53
+  :cite-key: BMLH:53
   :END:
 
 #+BEGIN_VERSE
@@ -958,10 +958,10 @@ Dur hate dure chala e kaman kaj
 * Kothai Shanti Kothai Tripti
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:54
+  :cite-key: BMLH:54
   :END:
 
 #+BEGIN_VERSE
@@ -975,10 +975,10 @@ Mrittyu nitya kariche srishti manaber charidhar
 * Laharir Pare Lahari Tuliya
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:55
+  :cite-key: BMLH:55
   :END:
 
 #+BEGIN_VERSE
@@ -992,10 +992,10 @@ Khirod basini susamar bani ashroy dao anka tale
 * Mago -- Hese Hese Tomar Kole
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:56
+  :cite-key: BMLH:56
   :END:
 
 #+BEGIN_VERSE
@@ -1009,10 +1009,10 @@ Mago -- Hese hese tomar kole jabona ar kabhu
 * Mago -- Jakhan Tumi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:57
+  :cite-key: BMLH:57
   :END:
 
 #+BEGIN_VERSE
@@ -1026,10 +1026,10 @@ Mago -- Jakhan tumi dakbe amai eso kole khokon
 * Man Buddhir Atite Jyotite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:58
+  :cite-key: BMLH:58
   :END:
 
 #+BEGIN_VERSE
@@ -1043,10 +1043,10 @@ Bidhatar dak eseche ajike nahe mor anuman
 * Maner Atite Jyotir Jyotite
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:59
+  :cite-key: BMLH:59
   :END:
 
 #+BEGIN_VERSE
@@ -1060,10 +1060,10 @@ Bitarite chahi adharar sudha amar jiban diya
 * Milan Madhur Biraha Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:60
+  :cite-key: BMLH:60
   :END:
 
 #+BEGIN_VERSE
@@ -1077,10 +1077,10 @@ Dibya premer shato shato dhara niyata madhur priti
 * Mithya Daman Bhigna Nashan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:61
+  :cite-key: BMLH:61
   :END:
 
 #+BEGIN_VERSE
@@ -1094,10 +1094,10 @@ Urabo prabhur bijoy nishan madhur prabhat kale
 * Mukta Karo Dharar Bandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:62
+  :cite-key: BMLH:62
   :END:
 
 #+BEGIN_VERSE
@@ -1111,10 +1111,10 @@ Lupta karo jyotir sathe ananta khoy
 * Mukta Karo Mukta Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:63
+  :cite-key: BMLH:63
   :END:
 
 #+BEGIN_VERSE
@@ -1128,10 +1128,10 @@ Tomar paye ei minati kari bhagaban
 * Nitya Jena Chitta Bhare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:64
+  :cite-key: BMLH:64
   :END:
 
 #+BEGIN_VERSE
@@ -1147,10 +1147,10 @@ Dao go dekha praner adhip
 * Nutan Bhabe Nitya Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:65
+  :cite-key: BMLH:65
   :END:
 
 #+BEGIN_VERSE
@@ -1164,10 +1164,10 @@ Nitya nutan peye thaki tomar ashish purashkar
 * Ogo Madhumoya Antare Mama
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:66
+  :cite-key: BMLH:66
   :END:
 
 #+BEGIN_VERSE
@@ -1181,10 +1181,10 @@ Sanchar karo oishi eshana nashiya nibir kalo
 * Ogo Priyatama Adhikar Karo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:67
+  :cite-key: BMLH:67
   :END:
 
 #+BEGIN_VERSE
@@ -1198,10 +1198,10 @@ Shudhu sambal e jibane hok tomar charan
 * Ogo Puratan Barsha Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:68
+  :cite-key: BMLH:68
   :END:
 
 #+BEGIN_VERSE
@@ -1220,10 +1220,10 @@ Bidai bandhu bidai
 * Pabitra Man Hridi Shatadale
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:69
+  :cite-key: BMLH:69
   :END:
 
 #+BEGIN_VERSE
@@ -1239,10 +1239,10 @@ Bandana gane maner rajani achire karibo bhor
 * Palayan Nahe Pratishta Chahi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:70
+  :cite-key: BMLH:70
   :END:
 
 #+BEGIN_VERSE
@@ -1256,10 +1256,10 @@ Sarthak hok chira jibaner satyanu sandhan
 * Paran Amar Srimar Bandhane
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:71
+  :cite-key: BMLH:71
   :END:
 
 #+BEGIN_VERSE
@@ -1273,10 +1273,10 @@ Praner akashe paran nichiche bahu dure añdhiyar
 * Peyeche Manab Gyan Bigyan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:72
+  :cite-key: BMLH:72
   :END:
 
 #+BEGIN_VERSE
@@ -1290,10 +1290,10 @@ Paini ekhano deba banchito amrita sandhan
 * Peyechi Mukti Amrita Sandhan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:73
+  :cite-key: BMLH:73
   :END:
 
 #+BEGIN_VERSE
@@ -1307,10 +1307,10 @@ Deba banchita purna atma gyan
 * Prabhu Bhoirab Chira Gaurab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:74
+  :cite-key: BMLH:74
   :END:
 
 #+BEGIN_VERSE
@@ -1324,10 +1324,10 @@ Rakkha karo go amar jiban ami je artha jib
 * Pralaye Amije Haina Biloy
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:75
+  :cite-key: BMLH:75
   :END:
 
 #+BEGIN_VERSE
@@ -1341,10 +1341,10 @@ Ami ananda chiro akkhoy
 * Prane Ache Shudhu Byatha
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:76
+  :cite-key: BMLH:76
   :END:
 
 #+BEGIN_VERSE
@@ -1358,10 +1358,10 @@ Nai adhikar nai jogyata karuna tomar chai
 * Praner Thakur Phute Utho
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:77
+  :cite-key: BMLH:77
   :END:
 
 #+BEGIN_VERSE
@@ -1375,10 +1375,10 @@ Chetana  amar deba chetanai mile hok aji ekakar
 * Rajar Asan Naiba Dile
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:78
+  :cite-key: BMLH:78
   :END:
 
 #+BEGIN_VERSE
@@ -1392,10 +1392,10 @@ Keha jadi dharalona dore
 * Rupantarer Amar Parash
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:79
+  :cite-key: BMLH:79
   :END:
 
 #+BEGIN_VERSE
@@ -1409,10 +1409,10 @@ Tanmoy hok bishwa bhuban bidhatar jaya gane
 * Sakal Saje Tomai Mago
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:80
+  :cite-key: BMLH:80
   :END:
 
 #+BEGIN_VERSE
@@ -1426,10 +1426,10 @@ Tara kabhu nahi habe patha hara
 * Samar Anale Shantir Bari
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:81
+  :cite-key: BMLH:81
   :END:
 
 #+BEGIN_VERSE
@@ -1443,10 +1443,10 @@ Debashishu mora dao go moder debatar premahar
 * Sandhya Rate Tarar Sathe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:82
+  :cite-key: BMLH:82
   :END:
 
 #+BEGIN_VERSE
@@ -1460,10 +1460,10 @@ Diner bela dekhe berai katoi desher mela
 * Santar Katite Chahi Ami
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:83
+  :cite-key: BMLH:83
   :END:
 
 #+BEGIN_VERSE
@@ -1477,10 +1477,10 @@ Ar katokal thakite haibe maya moha karagare
 * Santare Dibanishi Santare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:84
+  :cite-key: BMLH:84
   :END:
 
 #+BEGIN_VERSE
@@ -1494,10 +1494,10 @@ Bidhatar jaya gan antare
 * Saral Parane Daki Jabe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:85
+  :cite-key: BMLH:85
   :END:
 
 #+BEGIN_VERSE
@@ -1511,10 +1511,10 @@ Katobar ese sangite mor charan sparsha dile
 * Shato Aparadh Khama Kare
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:86
+  :cite-key: BMLH:86
   :END:
 
 #+BEGIN_VERSE
@@ -1528,10 +1528,10 @@ Jethai birajo param debata madhur mohan beshe
 * Stab Stuti Chhari Manab
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:87
+  :cite-key: BMLH:87
   :END:
 
 #+BEGIN_VERSE
@@ -1545,10 +1545,10 @@ Bhajan pujane mukharito hok agyanatar puri
 * Sukher Dine Dukher Rate
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:88
+  :cite-key: BMLH:88
   :END:
 
 #+BEGIN_VERSE
@@ -1562,10 +1562,10 @@ Chahi tomar ratul charan bhakti bhare dharite
 * Sundara Taba Nayaner Dithi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:89
+  :cite-key: BMLH:89
   :END:
 
 #+BEGIN_VERSE
@@ -1579,10 +1579,10 @@ Akasher pane dekhi ami jabe atiba nikate base
 * Swapan Amar Saphal Haibe
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 26-08-2005
-  :CITE-KEY: BMLH:90
+  :cite-key: BMLH:90
   :END:
 
 #+BEGIN_VERSE
@@ -1596,10 +1596,10 @@ Manase amar jagibe je din pabitra bhalobasa
 * Swapan Madhur Baroi Madhur
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:91
+  :cite-key: BMLH:91
   :END:
 
 #+BEGIN_VERSE
@@ -1613,10 +1613,10 @@ Taito amar jiban khani swapan buke tani
 * Taraka Tapan Katoi Apan
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:92
+  :cite-key: BMLH:92
   :END:
 
 #+BEGIN_VERSE
@@ -1630,10 +1630,10 @@ Simar bandhane nahi jeno kheli asime dubite chai
 * Tibra Gatite Chaleche Amar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:93
+  :cite-key: BMLH:93
   :END:
 
 #+BEGIN_VERSE
@@ -1647,10 +1647,10 @@ Na jani kothai birati haibe kahar sucharu pure
 * Tomar Hriday Amar Hriday
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:94
+  :cite-key: BMLH:94
   :END:
 
 #+BEGIN_VERSE
@@ -1664,10 +1664,10 @@ Balo ogo prabhu e bujhi amar anyai abdar
 * Tomar Katha Shune Shune
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:95
+  :cite-key: BMLH:95
   :END:
 
 #+BEGIN_VERSE
@@ -1681,10 +1681,10 @@ Tomar lagi kende kende hriday halo tripta
 * Tomar Range Rangiye Dao
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:96
+  :cite-key: BMLH:96
   :END:
 
 #+BEGIN_VERSE
@@ -1698,10 +1698,10 @@ Tomar charan chere ami jabona  ar kabhu
 * Tomare Pujibo Tomare Tushibo
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:97
+  :cite-key: BMLH:97
   :END:
 
 #+BEGIN_VERSE
@@ -1715,10 +1715,10 @@ Nitya nutan tomar sange karite chahigo khela
 * Tumi Acho Ami Achi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:98
+  :cite-key: BMLH:98
   :END:
 
 #+BEGIN_VERSE
@@ -1732,10 +1732,10 @@ Abhinna ek pran shudhu dui deha
 * Tumi Acho Kripamoyi
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:99
+  :cite-key: BMLH:99
   :END:
 
 #+BEGIN_VERSE
@@ -1749,10 +1749,10 @@ Sato asha bhalobasa sato dike tane
 * Tumi Je Amar Ami Je Tomar
 
   :PROPERTIES:
-  :GENRE: song
+  :genre: song
   :LANGUAGE: bn
   :DATE: 16-08-2005
-  :CITE-KEY: BMLH:100
+  :cite-key: BMLH:100
   :END:
 
 #+BEGIN_VERSE

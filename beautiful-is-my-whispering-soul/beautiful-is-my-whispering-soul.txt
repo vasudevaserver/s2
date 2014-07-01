@@ -7,14 +7,14 @@
 * Index
 
   :PROPERTIES:
-  :BOOK-NUMBER: 0869
-  :AUTHOR: Sri Chinmoy
-  :ORIGINAL-EDITION: True
-  :YEAR: 1992
-  :PUBLISHER: Agni Press
-  :CITE-KEY: BMWS
-  :GENRE: poem
-  :KEYWORDS:
+  :book-number: 0869
+  :author: Sri Chinmoy
+  :original-edition: True
+  :year: 1992
+  :publisher: Agni Press
+  :cite-key: BMWS
+  :genre: poem
+  :keywords:
   :END:
 
 
@@ -22,9 +22,9 @@
 * 1.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:1
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:1
   :END:
 
 
@@ -42,9 +42,9 @@ Beautiful is my serving body.
 * 2.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:2
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:2
   :END:
 
 
@@ -60,9 +60,9 @@ Impossibility-challenges.
 * 3.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:3
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:3
   :END:
 
 
@@ -78,9 +78,9 @@ My silence-mind.
 * 4.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:4
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:4
   :END:
 
 
@@ -97,9 +97,9 @@ And doubt.
 * 5.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:5
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:5
   :END:
 
 
@@ -116,9 +116,9 @@ Of transformation.
 * 6.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:6
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:6
   :END:
 
 
@@ -134,9 +134,9 @@ Grows into angelic perfection.
 * 7.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:7
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:7
   :END:
 
 
@@ -152,9 +152,9 @@ The nothingness of my own life.
 * 8.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:8
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:8
   :END:
 
 
@@ -170,9 +170,9 @@ The fulness of my soul.
 * 9.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BMWS:9e1
+  :genre: section
+  :keywords:
+  :cite-key: BMWS:9e1
   :END:
 
 
@@ -180,9 +180,9 @@ The fulness of my soul.
 * 10.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:9
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:9
   :END:
 
 
@@ -198,9 +198,9 @@ Of untruth.
 * 11.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:10
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:10
   :END:
 
 
@@ -216,9 +216,9 @@ Of impurity.
 * 12.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:11
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:11
   :END:
 
 
@@ -234,9 +234,9 @@ Confusion-jungle-thoughts.
 * 13.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:12
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:12
   :END:
 
 
@@ -251,9 +251,9 @@ My ingratitude-mind.
 * 14.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:13
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:13
   :END:
 
 
@@ -270,9 +270,9 @@ And fruitlessness-life.
 * 15.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:14
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:14
   :END:
 
 
@@ -288,9 +288,9 @@ And pathos-sighs.
 * 16.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:15
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:15
   :END:
 
 
@@ -306,9 +306,9 @@ Self-indulgence.
 * 17.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:16
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:16
   :END:
 
 
@@ -325,9 +325,9 @@ My ignorance-night.
 * 18.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:17
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:17
   :END:
 
 
@@ -343,9 +343,9 @@ Of my God-manifestation-dream.
 * 19.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:18
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:18
   :END:
 
 
@@ -361,9 +361,9 @@ Anxiety-chains.
 * 20.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:19
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:19
   :END:
 
 
@@ -379,9 +379,9 @@ Of my mind.
 * 21.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:20
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:20
   :END:
 
 
@@ -397,9 +397,9 @@ Of my loneliness-vital.
 * 22.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:21
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:21
   :END:
 
 
@@ -414,9 +414,9 @@ My desire-snakes.
 * 23.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:22
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:22
   :END:
 
 
@@ -432,9 +432,9 @@ Unwillingness-supremacy.
 * 24.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:23
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:23
   :END:
 
 
@@ -449,9 +449,9 @@ My satisfaction-punctured heart.
 * 25.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:24
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:24
   :END:
 
 
@@ -467,9 +467,9 @@ On earth.
 * 26.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:25
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:25
   :END:
 
 
@@ -484,9 +484,9 @@ My expectation-frustration-graveyard.
 * 27.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:26
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:26
   :END:
 
 
@@ -502,9 +502,9 @@ Of human life.
 * 28.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:27
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:27
   :END:
 
 
@@ -520,9 +520,9 @@ Of my failure-life.
 * 29.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:28
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:28
   :END:
 
 
@@ -541,9 +541,9 @@ Can it really dare to doubt God?
 * 30.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BMWS:29e1
+  :genre: section
+  :keywords:
+  :cite-key: BMWS:29e1
   :END:
 
 
@@ -551,9 +551,9 @@ Can it really dare to doubt God?
 * 31.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:29
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:29
   :END:
 
 
@@ -569,9 +569,9 @@ From binding and blinding anxieties.
 * 32.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:30
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:30
   :END:
 
 
@@ -587,9 +587,9 @@ Aspiration-vacation.
 * 33.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:31
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:31
   :END:
 
 
@@ -605,9 +605,9 @@ In dedication-retirement.
 * 34.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:32
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:32
   :END:
 
 
@@ -623,9 +623,9 @@ From an incomplete heart.
 * 35.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:33
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:33
   :END:
 
 
@@ -641,9 +641,9 @@ My mind's surrender-bankruptcy.
 * 36.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:34
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:34
   :END:
 
 
@@ -659,9 +659,9 @@ Of my heavy responsibilities.
 * 37.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:35
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:35
   :END:
 
 
@@ -678,9 +678,9 @@ God's choice instrument.
 * 38.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:36
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:36
   :END:
 
 
@@ -696,9 +696,9 @@ My heart's peace-hunger.
 * 39.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:37
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:37
   :END:
 
 
@@ -714,9 +714,9 @@ To take the expectation-frustration-course.
 * 40.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:38
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:38
   :END:
 
 
@@ -733,9 +733,9 @@ As a dangerous stranger.
 * 41.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:39
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:39
   :END:
 
 
@@ -751,9 +751,9 @@ To love suspicion-wrestling.
 * 42.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:40
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:40
   :END:
 
 
@@ -769,9 +769,9 @@ To feed on doubt-boxing.
 * 43.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:41
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:41
   :END:
 
 
@@ -788,9 +788,9 @@ And my heart's oneness-starvation.
 * 44.
 
   :PROPERTIES:
-  :GENRE: section
-  :KEYWORDS:
-  :CITE-KEY: BMWS:42e1
+  :genre: section
+  :keywords:
+  :cite-key: BMWS:42e1
   :END:
 
 
@@ -798,9 +798,9 @@ And my heart's oneness-starvation.
 * 45.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:42
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:42
   :END:
 
 
@@ -816,9 +816,9 @@ Than my mind's sincerity.
 * 46.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:43
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:43
   :END:
 
 
@@ -834,9 +834,9 @@ Than my heart's purity.
 * 47.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:44
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:44
   :END:
 
 
@@ -852,9 +852,9 @@ Than my life's spontaneity.
 * 48.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:45
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:45
   :END:
 
 
@@ -870,9 +870,9 @@ Than my outer appearances.
 * 49.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:46
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:46
   :END:
 
 
@@ -888,9 +888,9 @@ Than my inner experiences.
 * 50.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:47
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:47
   :END:
 
 
@@ -906,9 +906,9 @@ Than my readiness.
 * 51.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:48
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:48
   :END:
 
 
@@ -924,9 +924,9 @@ Than my willingness.
 * 52.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:49
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:49
   :END:
 
 
@@ -942,9 +942,9 @@ Than my fulness.
 * 53.
 
   :PROPERTIES:
-  :GENRE: poem
-  :KEYWORDS:
-  :CITE-KEY: BMWS:50
+  :genre: poem
+  :keywords:
+  :cite-key: BMWS:50
   :END:
 
 
