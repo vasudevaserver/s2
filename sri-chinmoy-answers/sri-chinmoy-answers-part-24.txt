@@ -20,7 +20,7 @@
 
 
 
-* Part I -- Questions and answers
+* Part I 
 
   :PROPERTIES:
   :GENRE: section
@@ -28,18 +28,7 @@
   :CITE-KEY: SCA:802e1
   :END:
   
-  
-
-* Editor's note
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:802e2
-  :END:
-
-
-/Sri Chinmoy answered the following questions on 24 January 1996 in Durban, South Africa./
+  [FN:part-1]
 
 
 
@@ -96,16 +85,15 @@ In the spiritual life, we are always dealing with self-transcendence. Self-trans
 
 
 
-* Editor's note
+* Part II
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
   :CITE-KEY: SCA:805e1
   :END:
 
-
-/Sri Chinmoy answered the following questions in New York on 21 February 1996./
+  [FN:part-2]
 
 
 
@@ -198,7 +186,7 @@ If I had used the mind for these three questions, I could not have spoken for mo
 
 
 
-* Part II -- Meeting with Robert Zmelick
+* Part III -- Meeting with Robert Zmelick
 
   :PROPERTIES:
   :GENRE: section
@@ -206,18 +194,7 @@ If I had used the mind for these three questions, I could not have spoken for mo
   :CITE-KEY: SCA:808e1
   :END:
 
-
-
-* Editor's note
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:808e2
-  :END:
-
-
-/Following are excerpts from a conversation between Sri Chinmoy and Robert Zmelick, Czech Olympic gold medallist in the decathlon, that took place at Annam Brahma Restaurant on 19 June 1996./
+  [FN:part-3]
 
 
 
@@ -331,7 +308,7 @@ I wish you good, better, best of luck in every event!
 
 
 
-* Part III - Questions and answers
+* Part IV
 
   :PROPERTIES:
   :GENRE: section
@@ -339,26 +316,14 @@ I wish you good, better, best of luck in every event!
   :CITE-KEY: SCA:812e1
   :END:
 
-
-* Editor's note
-
-  :PROPERTIES:
-  :GENRE: note
-  :KEYWORDS:
-  :CITE-KEY: SCA:812e2
-  :END:
-  
-  
-  /Sri Chinmoy answered the following questions in San Francisco on 21 October 1996./
-  
   
 
 * Question: What would you consider the ideal Centre meditation?
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:812e3
+  :CITE-KEY: SCA:812
   :END:
 
 
@@ -387,7 +352,7 @@ I would really like all the disciples to participate in Joy Days. If you can, tr
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:812
+  :CITE-KEY: SCA:813
   :END:
 
 
@@ -413,16 +378,15 @@ So those who are not paying attention to Joy Days should start paying attention.
 
 
 
-* Editor's note
+* Part V
 
   :PROPERTIES:
-  :GENRE: note
+  :GENRE: section
   :KEYWORDS:
-  :CITE-KEY: SCA:813e1
+  :CITE-KEY: SCA:814e1
   :END:
 
-
-/Sri Chinmoy answered the following question in New York on 25 February 1999./
+  [FN:part-5]
 
 
 
@@ -431,7 +395,7 @@ So those who are not paying attention to Joy Days should start paying attention.
   :PROPERTIES:
   :GENRE: qa
   :KEYWORDS:
-  :CITE-KEY: SCA:813
+  :CITE-KEY: SCA:814
   :END:
 
 
@@ -463,9 +427,24 @@ If my disciples take me seriously, they will say, "If my Guru has said it, then 
 
 
 
+* Notes
 
+  :PROPERTIES:
+  :GENRE: note
+  :KEYWORDS:
+  :CITE-KEY: SCA:815e1
+  :END:
+  
 
+[FN:part-1] SCA 802-804. Sri Chinmoy answered these questions on 24 January 1996 in Durban, South Africa.
 
+[FN:part-2] SCA 805-807. Sri Chinmoy answered these questions in New York on 21 February 1996.
+
+[FN:part-3] SCA 808-811. Excerpts from a conversation between Sri Chinmoy and Robert Zmelick, Czech Olympic gold medallist in the decathlon, that took place at Annam Brahma Restaurant on 19 June 1996.
+
+[FN:part-4] SCA 812-813. Sri Chinmoy answered these questions in San Francisco on 21 October 1996.
+
+[FN:part-5] SCA 814. Sri Chinmoy answered this question in New York on 25 February 1999.
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
