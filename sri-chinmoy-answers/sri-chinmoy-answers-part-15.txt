@@ -27,7 +27,7 @@
   :CITE-KEY: SCA:552e1
   :END:
 
-  [FN:part-1]
+  [fn:part-1]
   
 
 
@@ -247,7 +247,7 @@ On the Christmas trip we have the opportunity to get joy, and also the soul of e
   :CITE-KEY: SCA:560e1
   :END:
 
-  [FN:part-2]
+  [fn:part-2]
   
 
 
@@ -394,9 +394,9 @@ When it is a matter of accepting an Avatar, most human beings are making a serio
   :END:
   
 
-[FN:part-1] SCA 552-559. Sri Chinmoy answered these questions in December 1997 at the Nassau Beach Hotel in the Bahamas.
+[fn:part-1] SCA 552-559. Sri Chinmoy answered these questions in December 1997 at the Nassau Beach Hotel in the Bahamas.
 
-[FN:part-2] SCA 560-564. Sri Chinmoy answered these questions in December 1997 at Lake Atitlán, Guatemala.
+[fn:part-2] SCA 560-564. Sri Chinmoy answered these questions in December 1997 at Lake Atitlán, Guatemala.
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org

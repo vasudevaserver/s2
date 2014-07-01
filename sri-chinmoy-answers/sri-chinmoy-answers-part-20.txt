@@ -27,7 +27,7 @@
   :CITE-KEY: SCA:690e1
   :END:
 
-  [FN:part-1]
+  [fn:part-1]
 
 
 
@@ -112,7 +112,7 @@ Your President is a man of sincerity, a man of integrity, a man of determination
   :CITE-KEY: SCA:695e1
   :END:
 
-  [FN:part-2]
+  [fn:part-2]
 
 
 
@@ -163,7 +163,7 @@ Also, please establish friendships with the disciples from Centres in other coun
   :CITE-KEY: SCA:696e1
   :END:
 
-  [FN:part-3]
+  [fn:part-3]
 
 
 
@@ -325,7 +325,7 @@ Doubt is nothing but darkness in ourselves that enjoys seeing darkness in others
   :CITE-KEY: SCA:706e1
   :END:
 
-  [FN:part-4]
+  [fn:part-4]
 
 
 
@@ -491,7 +491,7 @@ We are all God’s creation. God the Creator is responsible for God the creation
   :CITE-KEY: SCA:716e1
   :END:
 
-  [FN:part-5]
+  [fn:part-5]
 
 
 
@@ -730,7 +730,7 @@ Here, also, you know that you have to make prasad for 400, but if you think of 4
   :CITE-KEY: SCA:733e1
   :END:
 
-  [FN:part-6]
+  [fn:part-6]
 
 
 
@@ -840,7 +840,7 @@ What the world has been passing through for the last fifty or one hundred years 
   :CITE-KEY: SCA:739e1
   :END:
 
-  [FN:part-7]
+  [fn:part-7]
 
 
 
@@ -949,19 +949,19 @@ Of course, the supreme philosophy is to be detached. Detachment is very good, bu
   :END:
   
 
-[FN:part-1] SCA 690-694. Excerpts from an interview with the newspaper "Novy Cas", which took place in Bratislava, Slovakia, on 11 November 1993.
+[fn:part-1] SCA 690-694. Excerpts from an interview with the newspaper "Novy Cas", which took place in Bratislava, Slovakia, on 11 November 1993.
 
-[FN:part-2] SCA 695. Sri Chinmoy gave this talk to the disciples who were gathered in Bratislava, Slovakia, on 23 November 1993.
+[fn:part-2] SCA 695. Sri Chinmoy gave this talk to the disciples who were gathered in Bratislava, Slovakia, on 23 November 1993.
 
-[FN:part-3] SCA 696-705. Sri Chinmoy answered these questions on 4 April 1994 at PS 86 in Jamaica, New York.
+[fn:part-3] SCA 696-705. Sri Chinmoy answered these questions on 4 April 1994 at PS 86 in Jamaica, New York.
 
-[FN:part-4] SCA 706-715. Sri Chinmoy answered these questions on 2 September 1994 at Aspiration-Ground in Jamaica, New York.
+[fn:part-4] SCA 706-715. Sri Chinmoy answered these questions on 2 September 1994 at Aspiration-Ground in Jamaica, New York.
 
-[FN:part-5] SCA 716-732. Sri Chinmoy answered questions asked by the staff of Annam Brahma Restaurant on the occasion of their 21st anniversary, 16 March 1995.
+[fn:part-5] SCA 716-732. Sri Chinmoy answered questions asked by the staff of Annam Brahma Restaurant on the occasion of their 21st anniversary, 16 March 1995.
 
-[FN:part-6] SCA 733-738. Excerpts from an interview with Mr. John Cairns and Ms. Nix Picasso, the two researchers who had collaborated with Mother Teresa on her book, "A Simple Path". The interview took place at the United Nations on 14 July 1995.
+[fn:part-6] SCA 733-738. Excerpts from an interview with Mr. John Cairns and Ms. Nix Picasso, the two researchers who had collaborated with Mother Teresa on her book, "A Simple Path". The interview took place at the United Nations on 14 July 1995.
 
-[FN:part-7] SCA 739-744. Sri Chinmoy answered questions asked by members of the children singers at Aspiration-Ground, in Jamaica, New York, on 11 August 1995.
+[fn:part-7] SCA 739-744. Sri Chinmoy answered questions asked by members of the children singers at Aspiration-Ground, in Jamaica, New York, on 11 August 1995.
 
 
 #+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
