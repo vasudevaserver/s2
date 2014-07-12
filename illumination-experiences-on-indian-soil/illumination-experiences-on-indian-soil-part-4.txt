@@ -34,7 +34,7 @@ The stories in this book, many based on historical incidents or traditional tale
 * Timur and the mendicant
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:41
   :END:
@@ -75,7 +75,7 @@ The Emperor was deeply humiliated. He stopped disturbing the poor spiritual mend
 * Washing the teacher's feet
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:42
   :END:
@@ -92,7 +92,7 @@ When the Emperor saw the prince hesitating, he began to scold the prince. "I cle
 * Jahan Ara's last wish
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:43
   :END:
@@ -109,7 +109,7 @@ Jahan Ara's last wish was not to have a canopy over her grave. Instead, she want
 * Aurangzeb visits the mosque
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:44
   :END:
@@ -128,7 +128,7 @@ Aurangzeb said, "You fool, that is not why I am angry! Why should you beg my for
 * Aurangzeb's glass of water
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:45
   :END:
@@ -143,7 +143,7 @@ The Emperor said, "Forgive you? Why do I need to forgive you? This is only a sil
 * The king's humility
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:46
   :END:
@@ -205,7 +205,7 @@ He said, "My Guru was so kind and compassionate to me. He used to strike me merc
 * The return of Gorakshanath
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: anecdote-autobiography
   :keywords: on himself
   :cite-key: IE:48
   :END:
@@ -246,7 +246,7 @@ After having this experience, the Master told his disciples some stories about h
 * The beggar gives his all
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:49
   :END:
@@ -267,7 +267,7 @@ Immediately all the members of the revolutionary group started shedding tears of
 * Vidyasagar's sacrifice for his teacher
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:50
   :END:
@@ -304,7 +304,7 @@ So Vidyasagar continued to receive fifty rupees a month, while his teacher recei
 * The horse that wanted more beauty
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:51
   :END:
@@ -331,7 +331,7 @@ The cosmic god said, "Never try to achieve or receive more than I have given you
 * The great heavenly sage Narada
 
   :PROPERTIES:
-  :genre: discourse
+  :genre: story
   :keywords:
   :cite-key: IE:52
   :END:
@@ -374,5 +374,4 @@ Narada continues to live in the inner world. Even now, in the inner world, he si
 
 # Local Variables:
 # mode: org
-# coding: unix
 # End:
