@@ -1150,7 +1150,7 @@ After running thirty-four miles in the 47-mile run, my oath descended to 13 mile
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

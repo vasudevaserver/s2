@@ -912,7 +912,7 @@ Our goal is not to look behind, not to enter into the past. Our goal is in the f
   
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

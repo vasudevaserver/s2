@@ -614,7 +614,7 @@ When you are dealing with new seekers, always make them feel you are one with th
 [fn:SCA-609-610] SCA 609-610. Sri Chinmoy answered these questions on 14 February 1990 at his home in New York.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

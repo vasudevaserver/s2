@@ -576,7 +576,7 @@ How can we make God smile? We can make God smile by pleasing Him in His own way.
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

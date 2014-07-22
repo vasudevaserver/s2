@@ -715,7 +715,7 @@ But when we suffer, along with suffering comes doubt. Human life is so precariou
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

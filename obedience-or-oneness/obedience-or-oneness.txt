@@ -512,7 +512,7 @@ If you want to have separation, then you have to separate yourself from ignoranc
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -952,7 +952,7 @@ Never be afraid of me. Who is afraid? He who has deliberately done something wro
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

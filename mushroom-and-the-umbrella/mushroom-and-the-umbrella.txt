@@ -542,7 +542,7 @@ The doctor said, “You see, your problem is not actually a heart problem. It is
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

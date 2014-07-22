@@ -644,7 +644,7 @@ The interview with two Boston journalists on 22 March 1975 was unpublished.
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

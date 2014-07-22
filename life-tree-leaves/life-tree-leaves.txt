@@ -702,7 +702,7 @@ What do we mean by the word 'wisdom'? Usually we mean something superior to know
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

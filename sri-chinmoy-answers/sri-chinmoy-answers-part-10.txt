@@ -730,7 +730,7 @@ The Silence of the Absolute Supreme and ever-unknowable Reality blessed you and 
 
 [fn:SCA-402] SCA 402. On 9 January 1995, Sri Chinmoy was guest of honour at a luncheon and cultural programme sponsored by the Ministry of Religious Affairs and the Tipitaka Nykarya Upahsaka Sasana Organisation, a Buddhist cultural group, at the Kaba Aye Pagoda compound in Yangon, Myanmar. During the programme, Sri Chinmoy offered a prayer to Lord Buddha.
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -822,7 +822,7 @@ If we want to see God in His vast creation, as the creation itself, we can do it
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

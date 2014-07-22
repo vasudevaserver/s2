@@ -956,7 +956,7 @@ So God wanted me to have this experience. After seeing that bad lady in the cand
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

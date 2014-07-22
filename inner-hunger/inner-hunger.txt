@@ -361,7 +361,7 @@ The realised Master can see the ocean inside the drop and the drop inside the oc
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

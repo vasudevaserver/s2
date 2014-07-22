@@ -642,7 +642,7 @@ Here we are living in ignorance. That is why somebody can come and strike us. Bu
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

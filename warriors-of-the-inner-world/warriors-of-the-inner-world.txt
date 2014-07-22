@@ -499,7 +499,7 @@ If a child sees his father personally, he will be more happy than if he just kno
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

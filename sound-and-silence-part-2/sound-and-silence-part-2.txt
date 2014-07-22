@@ -449,7 +449,7 @@ You want to buy something, so you have entered into a shop. But if what you see 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

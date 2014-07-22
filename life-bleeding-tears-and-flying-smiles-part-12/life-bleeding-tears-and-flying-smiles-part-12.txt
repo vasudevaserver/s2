@@ -999,7 +999,7 @@ The king gave up his throne and came to join his son. He started praying and med
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

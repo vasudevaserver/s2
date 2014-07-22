@@ -484,7 +484,7 @@ At every moment keep happiness in your mind, in your heart, in your breath, in a
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

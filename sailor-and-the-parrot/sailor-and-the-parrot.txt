@@ -521,7 +521,7 @@ The daughter explained, "Mother, if I wear glasses and make-up and I look ugly, 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

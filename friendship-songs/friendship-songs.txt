@@ -300,7 +300,7 @@ Wherever you are, it is your own friends who make your world.
 #+END_VERSE
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -848,7 +848,7 @@ Always say, "Today is the only chance I have, absolutely the last chance." Then 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

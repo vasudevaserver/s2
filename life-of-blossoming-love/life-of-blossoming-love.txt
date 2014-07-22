@@ -593,7 +593,7 @@ So attachment is very bad if you think of your Master only on the physical plane
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

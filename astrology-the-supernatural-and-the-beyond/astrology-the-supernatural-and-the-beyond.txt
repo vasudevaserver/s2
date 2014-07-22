@@ -1420,7 +1420,7 @@ I am so happy that in the month of September[fn:1] we have not lost anybody. Thi
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

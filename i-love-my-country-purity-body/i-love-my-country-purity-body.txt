@@ -520,7 +520,7 @@ It is not the outer location but the inner feeling that is important. Where real
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

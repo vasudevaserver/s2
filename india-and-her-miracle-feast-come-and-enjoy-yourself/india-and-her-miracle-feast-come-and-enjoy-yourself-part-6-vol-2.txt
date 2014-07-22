@@ -240,7 +240,7 @@ The disciples of Ramdas cried; the cows cried; humanity as such cried, for they 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

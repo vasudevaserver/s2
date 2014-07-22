@@ -360,7 +360,7 @@ Wherever I am, my good will, my love and my blessings will always be there for t
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

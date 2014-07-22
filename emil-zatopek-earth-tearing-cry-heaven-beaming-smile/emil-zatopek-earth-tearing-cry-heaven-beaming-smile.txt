@@ -860,7 +860,7 @@ Zatopek's greatness has surprised mankind. His goodness has illumined mankind. H
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

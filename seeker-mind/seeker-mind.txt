@@ -1012,7 +1012,7 @@ During his visit to the United Nations for the special session on disarmament, I
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

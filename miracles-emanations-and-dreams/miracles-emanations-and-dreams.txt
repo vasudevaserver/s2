@@ -795,7 +795,7 @@ He has gone. Where has he gone? If it is true that he has gone, that he has left
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

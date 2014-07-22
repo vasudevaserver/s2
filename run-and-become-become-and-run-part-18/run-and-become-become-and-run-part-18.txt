@@ -1059,7 +1059,7 @@ John has my heart's deepest appreciation for two reasons. First, he did extremel
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

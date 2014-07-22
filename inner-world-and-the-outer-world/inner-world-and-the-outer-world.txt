@@ -951,7 +951,7 @@ So, good boy, you do not need three qualities to survive: you need only one qual
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

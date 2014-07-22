@@ -792,7 +792,7 @@ Questions like these have fascinated philosophers and poets from the beginning o
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

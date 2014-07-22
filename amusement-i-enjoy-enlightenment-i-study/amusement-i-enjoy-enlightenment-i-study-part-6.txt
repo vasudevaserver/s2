@@ -433,7 +433,7 @@ Instead of getting angry, the clever poet laughed and laughed. He said, "You hav
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

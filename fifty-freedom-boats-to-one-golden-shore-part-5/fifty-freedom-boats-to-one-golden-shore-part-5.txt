@@ -624,7 +624,7 @@ Is anybody going to come? If you mean a human figure, then the answer is 'no'. M
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

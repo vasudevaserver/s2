@@ -578,7 +578,7 @@ Several days ago a disciple’s wife had a serious accident. She does not care f
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

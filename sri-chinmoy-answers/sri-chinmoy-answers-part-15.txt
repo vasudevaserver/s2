@@ -395,7 +395,7 @@ When it is a matter of accepting an Avatar, most human beings are making a serio
 [fn:SCA-575-579] SCA 575-579. Sri Chinmoy answered these questions in December 1997 at Lake Atitlán, Guatemala.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

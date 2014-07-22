@@ -950,7 +950,7 @@ Of course, the supreme philosophy is to be detached. Detachment is very good, bu
 [fn:SCA-755-760] SCA 755-760. Sri Chinmoy answered questions asked by members of the children singers at Aspiration-Ground, in Jamaica, New York, on 11 August 1995.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

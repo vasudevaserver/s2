@@ -531,7 +531,7 @@ The Emperor had quite a few swords. His most treasured sword he gave to the Swis
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

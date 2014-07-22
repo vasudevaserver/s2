@@ -865,7 +865,7 @@ Tomar Chitta Bina Diye Karle E Pran madhu Tomar majhe sabai amar gai je shudhu
 #+END_VERSE
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

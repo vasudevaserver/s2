@@ -317,7 +317,7 @@ A God-representative is he who embodies Eternity's Compassion-Heart, Infinity's 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

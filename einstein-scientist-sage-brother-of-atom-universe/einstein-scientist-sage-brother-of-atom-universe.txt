@@ -998,7 +998,7 @@ What the supreme playwright George Bernard Shaw said about the supreme scientist
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -37,7 +37,7 @@ This book is being proofed for mistypes. If you find any, please use link at the
 158 Songs for many many countries
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

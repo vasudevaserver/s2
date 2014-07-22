@@ -558,7 +558,7 @@ The more you can create or develop inner concern for humanity and for my mission
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

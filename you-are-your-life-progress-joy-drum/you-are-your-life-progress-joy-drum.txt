@@ -425,7 +425,7 @@ Viet Nam, we love you and adore you because you are a true believer, lover and p
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

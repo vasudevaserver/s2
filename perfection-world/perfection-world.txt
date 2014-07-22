@@ -965,7 +965,7 @@ So, do not pay any attention to the physical mind. Think that only the heart exi
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

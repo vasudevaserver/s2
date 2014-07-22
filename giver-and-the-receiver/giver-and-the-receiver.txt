@@ -822,7 +822,7 @@ I am like a big bird that flies very, very high but whose leg is tied at your le
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

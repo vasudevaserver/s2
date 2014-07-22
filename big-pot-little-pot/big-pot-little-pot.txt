@@ -618,7 +618,7 @@ Most of the stories that I have told have rogues and stupid people in them. So I
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

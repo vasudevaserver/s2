@@ -441,7 +441,7 @@ The king said, "No, you have to go! Everybody respects you and thinks that you b
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

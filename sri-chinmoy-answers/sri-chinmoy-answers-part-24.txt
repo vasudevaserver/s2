@@ -439,7 +439,7 @@ If my disciples take me seriously, they will say, "If my Guru has said it, then 
 [fn:SCA-830] SCA 830. Sri Chinmoy answered this question in New York on 25 February 1999.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

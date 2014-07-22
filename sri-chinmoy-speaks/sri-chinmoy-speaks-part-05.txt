@@ -523,7 +523,7 @@ When you chant 'Aum', please feel that life-energy, divine energy, is entering i
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

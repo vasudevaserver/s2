@@ -425,7 +425,7 @@ Sri Chinmoy: Now we will end with a short song I have composed in honour of Afri
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

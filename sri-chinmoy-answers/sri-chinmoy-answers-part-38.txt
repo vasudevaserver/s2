@@ -727,7 +727,7 @@ When you come here to Aspiration-Ground, first try to concentrate for a few minu
 [fn:SCA-1280] SCA 1280. Sri Chinmoy made these remarks on 17 June 2001, at Aspiration-Ground, during a special programme to celebrate Father's Day.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

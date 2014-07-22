@@ -542,7 +542,7 @@ Similarly, you have to pray and meditate before you will feel your own divinity.
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

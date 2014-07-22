@@ -935,7 +935,7 @@ When they are leaving, the Master says, “I am sorry that you could not please 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

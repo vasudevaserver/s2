@@ -605,7 +605,7 @@ So, if the message comes directly from the deep inmost reaches of our heart, fro
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

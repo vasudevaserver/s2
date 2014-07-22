@@ -1009,7 +1009,7 @@ The announcer at the finish line was one of the officials of the New York Road R
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -607,7 +607,7 @@ Let me add at the conclusion of this beautiful ceremony, that we all need to be 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

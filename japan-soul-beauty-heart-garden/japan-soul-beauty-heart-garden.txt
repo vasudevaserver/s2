@@ -673,7 +673,7 @@ During this trip I feel that I received more than I offered. I tried to give a l
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

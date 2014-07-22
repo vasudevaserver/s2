@@ -392,7 +392,7 @@ Sri Ramakrishna has taken full possession of my heart and bound it with his love
 #+END_QUOTE
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

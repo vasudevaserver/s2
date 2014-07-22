@@ -1022,7 +1022,7 @@ She left the Master, but by God’s Grace and the Master’s concern, she became
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

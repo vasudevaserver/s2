@@ -919,7 +919,7 @@ We know that everybody wants satisfaction, but it depends on how the individual 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

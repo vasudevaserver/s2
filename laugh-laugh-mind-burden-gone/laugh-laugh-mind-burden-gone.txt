@@ -433,7 +433,7 @@ How is it, Pulak, that you are wearing one sock? Have you lost the other one?
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

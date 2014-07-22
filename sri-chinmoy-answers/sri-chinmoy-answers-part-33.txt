@@ -547,7 +547,7 @@ When millions of people cannot do something, we are apt to say that it is not hu
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

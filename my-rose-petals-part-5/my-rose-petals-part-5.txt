@@ -594,7 +594,7 @@ I happen to be an Indian. Therefore, I wish to say a few words about the Indian 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

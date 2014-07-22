@@ -557,7 +557,7 @@ Thank you for the opportunity to share a most pleasant afternoon with my daughte
 /Mrs. A. K./
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

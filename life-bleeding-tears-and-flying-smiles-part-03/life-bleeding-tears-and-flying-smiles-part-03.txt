@@ -687,7 +687,7 @@ The disciples could not fathom why their Master was making a special point of sa
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

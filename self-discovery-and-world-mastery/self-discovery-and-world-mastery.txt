@@ -768,7 +768,7 @@ We also have a wrong conception of God-realised people. When we think of a God-r
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

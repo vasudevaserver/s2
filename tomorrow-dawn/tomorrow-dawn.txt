@@ -2505,7 +2505,7 @@ I am happy because I have a mind of trust. I am happy because I have a heart of 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

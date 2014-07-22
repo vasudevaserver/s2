@@ -1082,7 +1082,7 @@ The disciples' aspiration and devotion give me the deepest joy. Sri Chaitanya, i
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

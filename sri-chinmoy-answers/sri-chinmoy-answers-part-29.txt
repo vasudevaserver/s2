@@ -853,7 +853,7 @@ This applies to anyone, not only to the Centre leaders. If you have the inner co
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

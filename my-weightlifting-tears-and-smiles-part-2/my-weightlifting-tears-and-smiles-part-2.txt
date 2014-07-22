@@ -1374,7 +1374,7 @@ Sweetest Guru, only thy love outshines thy strength. The supreme manifestation t
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

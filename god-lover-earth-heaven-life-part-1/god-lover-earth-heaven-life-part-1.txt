@@ -507,7 +507,7 @@ The 100 questions in this series, /A God-Lover's Earth-Heaven-Life/, were asked 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

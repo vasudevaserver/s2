@@ -781,7 +781,7 @@ America runs because America wants to do something more than mere walking. Ameri
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

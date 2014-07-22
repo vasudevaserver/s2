@@ -960,7 +960,7 @@ The Master replied: “Look, the disciples who are the most jealous are helping 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

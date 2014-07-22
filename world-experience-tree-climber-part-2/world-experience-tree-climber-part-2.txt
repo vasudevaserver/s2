@@ -1170,7 +1170,7 @@ When they start to harass you right and left, you have to challenge them. But in
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

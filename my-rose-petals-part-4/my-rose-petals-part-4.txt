@@ -557,7 +557,7 @@ Usually at the end of my talks, I answer questions from the seekers. With your k
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

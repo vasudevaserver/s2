@@ -2000,7 +2000,7 @@ My Guru’s work is my life’s tallest edifice-height.
 #+END_VERSE
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

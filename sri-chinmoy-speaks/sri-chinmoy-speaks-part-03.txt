@@ -622,7 +622,7 @@ So after we have prayed and meditated, people see something in us. It is like a 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

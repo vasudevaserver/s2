@@ -902,7 +902,7 @@ Sri Chinmoy was born in Chittagong, East Bengal. He grew up in a spiritual commu
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

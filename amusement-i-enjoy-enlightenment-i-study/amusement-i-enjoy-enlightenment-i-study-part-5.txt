@@ -463,7 +463,7 @@ So the businessman had to give a very large sum of money to the young man. From 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

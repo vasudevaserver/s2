@@ -595,7 +595,7 @@ Now let me tell you, my seeker-friends, what actually happens when I examine God
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

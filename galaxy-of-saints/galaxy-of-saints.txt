@@ -441,7 +441,7 @@ The Master does not want one dollar from them. The Master does not want help of 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

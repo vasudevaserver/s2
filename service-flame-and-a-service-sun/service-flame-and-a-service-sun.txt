@@ -3367,7 +3367,7 @@ Amrita-da's birthday. I paid my most respectful pranam to him and said: "Amrita-
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

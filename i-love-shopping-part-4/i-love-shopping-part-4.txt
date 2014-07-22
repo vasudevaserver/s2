@@ -806,7 +806,7 @@ Finally, I said that I wouldn't pay more than 5,000, and Dhanu asked for his mon
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

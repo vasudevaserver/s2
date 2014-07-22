@@ -692,7 +692,7 @@ What you can do if you feel that even eight hours of sleep is not enough for you
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

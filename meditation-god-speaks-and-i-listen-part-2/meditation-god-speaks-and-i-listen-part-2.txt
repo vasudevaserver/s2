@@ -532,7 +532,7 @@ When you see someone's soul in a dream or vision, you very often see his present
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

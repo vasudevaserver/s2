@@ -583,7 +583,7 @@ My Father-God, heaving a smilingly tearful sigh, says, “Oh, I see! I helplessl
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

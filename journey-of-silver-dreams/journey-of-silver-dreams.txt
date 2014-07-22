@@ -716,7 +716,7 @@ She has or had the opportunity to be dynamic, to be very fresh and full of enthu
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

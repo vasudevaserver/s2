@@ -398,7 +398,7 @@ The pole star is the star that guides, the star with vision. The third eye is vi
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

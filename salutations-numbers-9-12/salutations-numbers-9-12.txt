@@ -1286,7 +1286,7 @@ Another time I went to Bermuda for three days alone. The hotel was beautiful. It
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

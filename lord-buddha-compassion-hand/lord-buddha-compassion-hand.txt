@@ -345,7 +345,7 @@ Once more, I wish to personally thank this supreme teacher from the very depths 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -551,7 +551,7 @@ In prayer you go to God and ask Him to please do this or that; and in meditation
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

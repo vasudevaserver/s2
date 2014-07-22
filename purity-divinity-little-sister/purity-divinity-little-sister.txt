@@ -285,7 +285,7 @@ An aspirant has to know his goal. If his goal is God-realisation, he can start w
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

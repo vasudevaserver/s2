@@ -755,7 +755,7 @@ My New York is not a challenge. She is not a competition. She is not a running r
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

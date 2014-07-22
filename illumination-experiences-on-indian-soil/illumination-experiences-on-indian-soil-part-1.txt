@@ -390,7 +390,7 @@ The first king said, "Whether I am a kind-hearted man or not, at least for today
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

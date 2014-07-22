@@ -3706,7 +3706,7 @@ TO THEE WHO HAST BEEN THE MATERIAL ENVELOPE OF OUR MASTER, TO THEE OUR INFINITE 
 [fn:14] Scene based on Nirodbaran's booklet /I am Here! I am Here!/
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

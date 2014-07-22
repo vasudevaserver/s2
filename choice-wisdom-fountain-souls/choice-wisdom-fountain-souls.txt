@@ -1028,7 +1028,7 @@ God has to be seen face to face. God has to be spoken with person to person. We 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -343,7 +343,7 @@ Again the king remained silent. Then he said, "Come with me. I want you to work 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

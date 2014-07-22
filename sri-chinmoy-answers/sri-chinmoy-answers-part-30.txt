@@ -568,7 +568,7 @@ Life is a constant tug-of-war. One side is the side of darkness; the other side 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

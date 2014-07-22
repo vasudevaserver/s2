@@ -556,7 +556,7 @@ When there is a feeling of oneness, there can be no competition. There should be
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

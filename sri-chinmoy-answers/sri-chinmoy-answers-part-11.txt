@@ -724,7 +724,7 @@ Again, he who is offering his service is also praying in a special way. An unasp
 [fn:SCA-433] SCA 433,1. At the time of this answer, the present Pope was Pope John Paul II.
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

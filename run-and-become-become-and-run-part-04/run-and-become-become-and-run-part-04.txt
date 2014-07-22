@@ -881,7 +881,7 @@ As soon as you come in sight, three or four dogs come from their houses. You hav
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

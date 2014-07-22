@@ -2759,7 +2759,7 @@ Now is the time for me to give You my outer life's all: ignorance. Now is the ti
 #+END_VERSE
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

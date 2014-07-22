@@ -287,7 +287,7 @@ The Buddha, the Christ and all the spiritual Masters realised God here on earth.
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

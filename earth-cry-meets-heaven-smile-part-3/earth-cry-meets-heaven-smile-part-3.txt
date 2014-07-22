@@ -4597,7 +4597,7 @@ But first you have to realise God. Philanthropy is a very good practice, but rea
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

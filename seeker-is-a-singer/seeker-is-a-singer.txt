@@ -737,7 +737,7 @@ Our greatest enemy is the ego. At the time we want to surrender, ego gets up and
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

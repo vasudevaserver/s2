@@ -1301,7 +1301,7 @@ My Lord Supreme, what do You do when I make mistakes?
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

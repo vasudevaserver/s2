@@ -513,7 +513,7 @@ The Master said, "It is impossible. You will never be able to bring Gokul back a
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

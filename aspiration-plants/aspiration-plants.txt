@@ -309,7 +309,7 @@ Divine satisfaction will come only when we are faithful to the inner cause, whic
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

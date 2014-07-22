@@ -402,7 +402,7 @@ Softness includes affection, love, sympathy and the feeling of oneness. It is no
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

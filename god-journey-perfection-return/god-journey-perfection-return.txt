@@ -501,7 +501,7 @@ Each new year is like a rung on the ladder of consciousness that we have to clim
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -3475,7 +3475,7 @@ Hence the necessity of more and more revealing books-books that can reveal the y
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

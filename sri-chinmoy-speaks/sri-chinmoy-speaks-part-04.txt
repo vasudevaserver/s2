@@ -720,7 +720,7 @@ Also, we have to feel that we are God's children. Now we can't feel it. We have 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

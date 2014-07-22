@@ -402,7 +402,7 @@ Now the fourth officer, who had been silent all along, suddenly opened his mouth
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

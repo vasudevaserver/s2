@@ -545,7 +545,7 @@ When you climb up with me to the Highest and realise me, your realisation of wha
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

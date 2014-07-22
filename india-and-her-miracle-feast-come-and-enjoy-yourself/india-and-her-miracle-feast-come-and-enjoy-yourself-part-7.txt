@@ -259,7 +259,7 @@ It is the Love-Oneness aspect of God, not His Sovereignty-Height aspect, that ma
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

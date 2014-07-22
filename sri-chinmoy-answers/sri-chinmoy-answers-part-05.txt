@@ -858,7 +858,7 @@ But there is no direct link between grief and the hostile or negative forces. Th
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

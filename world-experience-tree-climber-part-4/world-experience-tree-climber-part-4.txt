@@ -827,7 +827,7 @@ So if you want to see my divinity more revealed and manifested, then Vajra is th
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

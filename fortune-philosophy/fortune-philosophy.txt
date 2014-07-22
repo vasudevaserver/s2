@@ -2554,7 +2554,7 @@ I am grateful to the world because it has given me the opportunity to serve the 
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -1106,7 +1106,7 @@ Besides prayer and meditation, there is another important method. We have to cry
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

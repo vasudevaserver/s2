@@ -743,7 +743,7 @@ You have left Puerto Rico and are in Florida in order to study. This is the time
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

@@ -372,7 +372,7 @@ I say, in my own justification, “I pray with them and meditate on them, and if
 
 
 
-#+SETUPFILE: ~/.emacs.d/org-templates/level-0.org
+#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org
