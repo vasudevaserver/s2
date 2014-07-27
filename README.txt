@@ -14,10 +14,10 @@
   It also includes the official bibliography of the works of Sri Chinmoy
   and related publications.
 
-  Each file contain the corresponding entry from the official
+  Each file contains the corresponding entry from the official
   bibliography.
 
-  The files use `org-mode' syntax.
+  The files follow the `org-mode' syntax.
 
 
 2 Official site
@@ -27,7 +27,7 @@
 
   [https://bitbucket.org/vasudevaserver/sri-chinmoy-library-site]
 
-  This repository is published at [Sri Chinmoy Library]
+  The repository is published at the [Sri Chinmoy Library]
 
 
   [Sri Chinmoy Library] http://www.srichinmoylibrary.com
@@ -36,7 +36,7 @@
 3 License
 ═════════
 
-  Sri Chinmoy wished to release all of his works under the follwoing
+  Sri Chinmoy wished to release all of his works under the following
   license:
 
   /Attribution-NonCommercial-NoDerivatives 4.0 International (CC
@@ -49,13 +49,10 @@
      the license, and indicate if changes were made. You may do so in
      any reasonable manner, but not in any way that suggests the
      licensor endorses you or your use.
-
   • *NonCommercial* — You may not use the material for commercial
      purposes.
-
   • *NoDerivatives* — If you remix, transform, or build upon the
      material, you may not distribute the modified material.
-
   • *No additional restrictions* — You may not apply legal terms or
      technological measures that legally restrict others from doing
      anything the license permits.
