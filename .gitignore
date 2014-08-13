@@ -9,3 +9,5 @@ Icon
 *.rtf
 *.doc
 *.sh
+.DS_Store
+.dropbox
