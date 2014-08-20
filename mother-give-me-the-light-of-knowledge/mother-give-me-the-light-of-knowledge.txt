@@ -1,4 +1,4 @@
-#+TITLE: Mother, Give Me The Light Of Knowledge
+#+TITLE: Mother, give me the light of knowledge
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: en
 
@@ -32,7 +32,7 @@
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:2e1
   :END:
@@ -97,6 +97,8 @@ VASHISTHA: Your Majesty, let me serve you. /(To the others.)/ You all serve your
 
 Aum
 
+#+BEGIN_VERSE
+
 Purnam adah purnam idam
 Purnat purnam udacyate
 Purnasya purnam adaya
@@ -107,6 +109,8 @@ Infinity is this.
 From Infinity, Infinity has come into existence.
 From Infinity, when Infinity is taken away,
 Infinity remains.]
+
+#+END_VERSE
 
 VISHWAMITRA: O sage, God made a mistake. He didn't give me an ear for music. But he has made me a really practical man. Please tell me the source of your milk and all the food that you have offered us just now.
 
@@ -218,6 +222,9 @@ MESSENGER: O peerless sage, the Supreme has sent me to you with a most special m
 /(Exit messenger)/
 
 /(Nandini sings.)/
+
+#+BEGIN_VERSE
+
 /Tumi amai diyechha aj/
 /Samarpaner bani/
 /Ami tomai sapechhi mor/
@@ -229,25 +236,22 @@ MESSENGER: O peerless sage, the Supreme has sent me to you with a most special m
 /Tumi amar jenechhi ma/
 /Chirantaner rani/
 
+#+END_VERSE
+
+#+BEGIN_VERSE
+
 [Today You have given me
-
 the message of surrender.
-
 I have offered to You my very flower-heart.
-
 In the dark night with tears,
-
 In the unknown prison-cell of illusion,
-
 In the house of the finite,
-
 No longer shall I abide.
-
 I know You are mine.
-
 I have known this, Mother,
-
 O Queen of the Eternal.]
+
+#+END_VERSE
 
 
 
@@ -264,7 +268,7 @@ O Queen of the Eternal.]
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:6e1
   :END:
@@ -335,7 +339,7 @@ SURUCHI: Dhruva, now get away from here. I don't want to see you anymore. You mu
 
 
 
-* Scene Ii
+* Scene II
 
   :PROPERTIES:
   :genre: play
@@ -366,7 +370,7 @@ DHRUVA: Mother, I am off. I shall come back only when I have brought for you Joy
 
 
 
-* Scene Iii
+* Scene III
 
   :PROPERTIES:
   :genre: play
@@ -376,6 +380,9 @@ DHRUVA: Mother, I am off. I shall come back only when I have brought for you Joy
 
 
 /(Dhruva is wandering in the forest all alone, looking for some spiritual people. He sings.)/
+
+#+BEGIN_VERSE
+
 /Dake amai dake/
 /Dake akash dake batash/
 /Dake shashi tara/
@@ -391,29 +398,24 @@ DHRUVA: Mother, I am off. I shall come back only when I have brought for you Joy
 /Bela baye jai/
 /Dake amai dake/
 
+#+END_VERSE
+
+#+BEGIN_VERSE
+
 [The sky calls me,
-
 The wind calls me,
-
 The moon and the stars call me.
-
 The green and the dense groves call me,
-
 The dance of the fountain calls me,
-
 Smiles call me, tears call me.
-
 A faint melody calls me.
-
 The morn, noon and eve call me.
-
 Everyone is searching for a playmate,
-
 Everyone is calling me, "Come, come!"
-
 One voice, one sound, all around.
-
 Alas, the Boat of Time sails on.]
+
+#+END_VERSE
 
 /(Finally Dhruva comes to a spot where he sees seven sages meditating together. Most humbly he bows down before them.)/
 
@@ -447,7 +449,7 @@ DHRUVA: O sages, O seekers of the highest magnitude, O greatest lovers of God, m
 
 
 
-* Scene Iv
+* Scene IV
 
   :PROPERTIES:
   :genre: play
@@ -461,12 +463,20 @@ DHRUVA: O sages, O seekers of the highest magnitude, O greatest lovers of God, m
 "SUNITI:" My son, I have found you at last. I am totally lost without you. It was your presence that gave me joy; it was your presence that made my life worth living on earth. In your absence I have no one to think of me, no one to protect me, no one to care for me. Feel your mother's heart, Dhruva. I need you. Come back with me, my son. Now that you know how to pray and meditate, come back to the palace with me. You can meditate there.
 
 /("Suniti" sings.)/
+
+#+BEGIN_VERSE
+
 /Madhuman me parayanam/
 /Madhumat punarayanam/
 
-[Sweet be my departure from home.
+#+END_VERSE
 
+#+BEGIN_VERSE
+
+[Sweet be my departure from home.
 Sweet be my return.]
+
+#+END_VERSE
 
 "SUNITI:" At home you can do everything you want to do. You will see the feet of Lord Vishnu. Dhruva, my darling, come. Come with me.
 
@@ -509,7 +519,7 @@ INDRA: O Lord Vishnu, as long as he does not surpass me, I will be most grateful
 
 
 
-* Scene Vi
+* Scene VI
 
   :PROPERTIES:
   :genre: play
@@ -555,7 +565,7 @@ ALL THE SAGES: Dhruva, long long before you were born we were praying to Lord Vi
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:14e1
   :END:
@@ -614,7 +624,7 @@ JAJATI: Oh, I am so grateful to you! I have so many devoted sons. I am sure one 
 
 
 
-* Scene Ii
+* Scene II
 
   :PROPERTIES:
   :genre: play
@@ -661,7 +671,7 @@ JAJATI /(to Puru):/ Just a few years, a few fleeting years I shall enjoy, and th
 
 
 
-* Scene Iii
+* Scene III
 
   :PROPERTIES:
   :genre: play
@@ -721,7 +731,7 @@ PURU /(gets up as a young man again):/ Father, I am glad and proud that I have p
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:19e1
   :END:
@@ -800,7 +810,7 @@ MASTER /(to the first disciple):/ By recognising your stupidity, your ignorance,
 
 
 
-* Akbar, Tansen And Haridas
+* Akbar, Tansen and Haridas
 
   :PROPERTIES:
   :genre: play
@@ -813,7 +823,7 @@ MASTER /(to the first disciple):/ By recognising your stupidity, your ignorance,
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:22e1
   :END:
@@ -853,6 +863,9 @@ HARIDAS, MASTER OF TANSEN
 /(Akbar's palace. A large audience has assembled before Akbar. His court musician, Tansen, is playing soul-stirring music.)/
 
 /(Tansen sings.)/
+
+#+BEGIN_VERSE
+
 /Kalpana go kalpana/
 /Tumiy amar bandana/
 /Dure tomai rakhbona/
@@ -866,35 +879,27 @@ HARIDAS, MASTER OF TANSEN
 /Bhul pathe ar chalbona/
 /Kalpana go kalpana/
 
+#+END_VERSE
+
+#+BEGIN_VERSE
+
 [Imagination, O imagination!
-
 You are my life's adoration.
-
 You I shall not keep afar.
-
 Imagination, O imagination!
-
 In false, binding lies I shall not cry.
-
 I shall not welcome the life
-
 of impurity's ugliness.
-
 With paltry victory
-
 I shall not smile and rejoice.
-
 Imagination, O imagination!
-
 To death's call I shall not respond.
-
 The soul am I, no death have I.
-
 No more, never, shall I walk
-
 along the wrong path.
-
 Imagination, O Imagination!]
+
+#+END_VERSE
 
 AKBAR: Tansen, your music carries me into the highest world, and there I enjoy such happiness, such delight. Tansen, I shall give you anything you want. You can have anything from me for the asking.
 
@@ -922,7 +927,7 @@ AKBAR: All right, Tansen, I will visit your teacher as your servant. I want to h
 
 
 
-* Scene Ii
+* Scene II
 
   :PROPERTIES:
   :genre: play
@@ -958,6 +963,9 @@ HARIDAS: Tansen, you liar! I have not taught you to play like this. It is all wr
 /(Haridas snatches away Tansen's vina and starts playing most soulfully and hauntingly. The music comes from another world. Akbar is in deep trance. Tansen is listening with deepest inner delight.)/
 
 /(Haridas sings.)/
+
+#+BEGIN_VERSE
+
 /Ekti katha ekti sur ekyi jhankar/
 /Nam dhare ke dakchhe jena amai barebar/
 /Kothai achi kothai jabo/
@@ -981,45 +989,32 @@ HARIDAS: Tansen, you liar! I have not taught you to play like this. It is all wr
 /Prane amar rekhona ar/
 /Ektu andhar kalo/
 
+#+END_VERSE
+
+#+BEGIN_VERSE
+
 [One thought, one tune, one resonance --
-
 Who calls me ever and anon?
-
 I know not where I am,
-
 I know not whither I shall go.
-
 In dark amnesia, myself I buy, myself I sell.
-
 All I break, again all I build.
-
 All I hope to be mine, mine alone.
-
 Alas, my heart is eclipsed by dark and wild
-
 destruction-night.
-
 O Bird of Light, O Bird of Light,
-
 With your glowing and flowing flames
-
 do enter into my heart once again.
-
 You are calling me to climb up
-
 and fly into the blue.
-
 But how can I?
-
 My heart is in prison
-
 in the strangled breath of a tiny room.
-
 O Bird of Light, O Bird of Light,
-
 O Bird of Light Supreme.
-
 In me, I pray, keep not an iota of gloom.]
+
+#+END_VERSE
 
 TANSEN /(at the end of the music):/ Master, forgive me. I know I have played all wrong today. After hearing you I realise how badly I have played. Forgive me, forgive me.
 
@@ -1035,7 +1030,7 @@ AKBAR: Lord, I am also proud of my master, Tansen.
 
 
 
-* Scene Iii
+* Scene III
 
   :PROPERTIES:
   :genre: play
@@ -1054,7 +1049,7 @@ AKBAR: Tansen, you are a great musician, but your sincerity is greater than your
 
 
 
-* Prajapati And His Three Students
+* Prajapati and his three students
 
   :PROPERTIES:
   :genre: play
@@ -1067,7 +1062,7 @@ AKBAR: Tansen, you are a great musician, but your sincerity is greater than your
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:27e1
   :END:
@@ -1124,7 +1119,7 @@ PRAJAPATI: Indeed, that is a marvelous desire! /(To all.)/ I have three rooms he
 
 
 
-* Scene Ii
+* Scene II
 
   :PROPERTIES:
   :genre: play
@@ -1143,7 +1138,7 @@ COSMIC GOD: I know I shall be able to illumine the whole world with my soul's Li
 
 
 
-* Scene Iii
+* Scene III
 
   :PROPERTIES:
   :genre: play
@@ -1249,7 +1244,7 @@ THE THREE STUDENTS: We offer you our deepest gratitude, deepest love, deepest ad
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: MGML:32e1
   :END:
@@ -1322,6 +1317,9 @@ MASTER: Go and initiate the King and then come back to me. Let me see what I can
 /(The King is ready for initiation. He has shaved his head and cut off his beard and is sitting in front of the spiritual teacher.)/
 
 /(The King sings.)/
+
+#+BEGIN_VERSE
+
 /He jogiraj dikkha amai dao go aji dikkha/
 /Rupantarer amar bani pabo aji shikkha/
 /Ghurbona ar dure dure/
@@ -1330,21 +1328,20 @@ MASTER: Go and initiate the King and then come back to me. Let me see what I can
 /Dekhbo amai pran mukure/
 /Nirabatar lagi ami magi aji bhikkha/
 
+#+END_VERSE
+
+#+BEGIN_VERSE
+
 [O Yogi of the highest magnitude, initiate me. Today offer me your initiation.
-
 Today I shall learn the immortal message of transformation from you.
-
 I shall not wander anymore in the farthest corners of the world.
-
 I shall only dance in the city of my heart.
-
 Inside the city of my heart I shall sing songs of Love Divine,
-
 And I shall see myself in the mirror of my sanctified heart.
-
 Today I beg of you to offer me only one thing: silence, silence.
-
 O Yogi of the highest magnitude, initiate me today.]
+
+#+END_VERSE
 
 /(The King touches his feet.)/
 
@@ -1355,18 +1352,26 @@ GURU: O King, from now on I expect you to lead a spiritual life, a divine life. 
 KING: Guru, I know, I know. I am most grateful to you for initiating me. I was not worthy of being initiated, but from now on, through my acts, I shall prove to you that I can be what you want me to be, and I shall not betray your trust.
 
 /(The King sings.)/
+
+#+BEGIN_VERSE
+
 /Jagiyachhe bishwanath asundar prane/
 /Chalilam shashwater ahana sandhane/
 
-[The Lord of the Universe is awakened inside the heart of ugliness itself.
+#+END_VERSE
 
+#+BEGIN_VERSE
+
+[The Lord of the Universe is awakened inside the heart of ugliness itself.
 Now towards the Eternal Dawn I march, I run towards the Eternal Dawn.]
+
+#+END_VERSE
 
 /(The Guru blesses the King with joy and pride, and then leaves.)/
 
 
 
-* Scene Iii
+* Scene III
 
   :PROPERTIES:
   :genre: play
@@ -1401,7 +1406,7 @@ DISCIPLE: What you say is true. I am going. I shall walk along the street with t
 
 
 
-* Scene Iv
+* Scene IV
 
   :PROPERTIES:
   :genre: play
@@ -1459,7 +1464,7 @@ DISCIPLE: How could you have kept silent? When your spiritual son does something
 
 
 
-* Scene Vi
+* Scene VI
 
   :PROPERTIES:
   :genre: play
@@ -1488,7 +1493,7 @@ KING /(to Minister):/ Bring me a large piece of paper. /(Minister brings the pap
 
 
 
-* Scene Vii
+* Scene VII
 
   :PROPERTIES:
   :genre: play
