@@ -1,0 +1,24 @@
+#+AUTHOR:
+#+DATE:
+
+#+OPTIONS: H:1 num:nil author:nil creator:nil timestamp:nil email:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:nil skip:nil d:t tags:not-in-toc
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/7611448/bootstrap.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/7611448/index.css" />
+#+INFOJS_OPT: view:showall toc:t ftoc:t mouse:LightSkyBlue  http://orgmode.org/org-keys.js
+
+#+MACRO: fleuron ⁂
+
+#+LATEX_CLASS: book
+#+LATEX_CLASS_OPTIONS: [a4paper,twoside,onecolumn]
+#+LATEX_HEADER: \usepackage[]{fontspec}
+#+LATEX_HEADER: \usepackage{microtype}
+#+LATEX_HEADER: \usepackage{addlines}
+#+LATEX_HEADER: \usepackage{needspace}
+#+LATEX_HEADER: \setmainfont[Mapping=tex-text,Ligatures={Common},Style=TitlingCaps
+,StylisticSet=1 % long Q
+,StylisticSet=6 % short descenders (for tighter linespacing)
+,StylisticSet=18 % dashes
+,Numbers=OldStyle]
+%{Baskerville Ten Pro}%
+{WilliamsCaslonText Regular}
