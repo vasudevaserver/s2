@@ -19,18 +19,10 @@
 
 
 
-* The Vedanta Philosophy
-
-  :PROPERTIES:
-  :SUBTITLE: Harvard University, Cambridge, Mass., March 25, 1969.
-  :genre: section
-  :keywords:
-  :cite-key: MILL:1e1
-  :END:
 
 
 
-* Seventy-Three Long Years Ago, Precisely On This...
+* The Vedanta Philosophy [fn:: MILL 1. Harvard University, Cambridge, Mass., 25 March 1969.]
 
   :PROPERTIES:
   :genre: discourse
@@ -39,7 +31,6 @@
   :END:
 
 
-Test:
 
 Seventy-three long years ago, precisely on this date, the great spiritual giant Swami Vivekananda dynamically blessed this university, the university unparalleled in the whole of the United States of America, with his august presence. He spoke on the Vedanta Philosophy. Today I am invited to speak on the same lofty subject. Seventy-three springs later, call it a mere stroke of fate, call it a destined, divine dispensation, on this fruitfully significant day, I am at once proud and blessed to associate my name with that of Swami Vivekananda, a spiritual hero of Himalayan stature.
 
@@ -67,7 +58,7 @@ Vedanta expresses itself through three particular systems: /Advaita/ or Non-Dual
 
 
 
-* Shankara's Advaita Or Monism
+* Shankara's Advaita or Monism
 
   :PROPERTIES:
   :genre: discourse
@@ -92,13 +83,17 @@ Shankara's philosophy has dealt considerably with maya. /Maya/ is now taken to m
 
 To quote Swami Bodhananda:
 
+#+BEGIN_QUOTE
+
 Shankara confesses his ignorance about this power, but he assumes it as a fact. Just as we assume electricity as power, although we don't know what electricity is, he accepted maya as a power, as a fact. Centrifugally it is the becoming of the One, this Absolute Spirit, into the many, and centripetally the re-becoming of the many into that One. So, in this way maya is an eternal power. By this power Brahman projects Himself in the forms of God, man and universe. These are inseparable from maya, as well as from Brahman.
+
+#+END_QUOTE
 
 Shankara and Vedanta will always go together down the sweep of centuries. They are like twin souls.
 
 
 
-* Ramanuja's Vishishtadvaita Or Qualified Non-Dualism
+* Ramanuja's Vishishtadvaita or Qualified Non-Dualism
 
   :PROPERTIES:
   :genre: discourse
@@ -107,11 +102,11 @@ Shankara and Vedanta will always go together down the sweep of centuries. They a
   :END:
 
 
-According to Ramanuja, the world is real, absolutely real, but it is wanting in perfection. At the same time, it does not care for perfection. It has no destined goal. The world was created by God's inspiration, is sustained by His Concern and will be dissolved by His Will. The world is God's playground. He performs His /lila,/ "drama," here. This eternal sport of His is His constant movement, His spontaneous expression in endless repetition. Man is real. But he has to depend on God. The world is real. But it has to depend on God. Without God, both man and the world are meaningless futility. Man can be released and will be released from the meshes of ignorance one day and he is bound to realise God. But some difference between man and God will always remain. Man will remain eternally below God, hence he will always have to worship God. Ramanuja's path is mainly the path of Devotion. He stands firm against the theory of Shankara's undifferentiated /Kevala Advaita/. To him, Brahman is and can only be personal. A true aspirant can realise the Highest Truth and achieve the Knowledge infinite while he is still on earth.
+According to Ramanuja, the world is real, absolutely real, but it is wanting in perfection. At the same time, it does not care for perfection. It has no destined goal. The world was created by God's inspiration, is sustained by His Concern and will be dissolved by His Will. The world is God's playground. He performs His /lila/, "drama", here. This eternal sport of His is His constant movement, His spontaneous expression in endless repetition. Man is real. But he has to depend on God. The world is real. But it has to depend on God. Without God, both man and the world are meaningless futility. Man can be released and will be released from the meshes of ignorance one day and he is bound to realise God. But some difference between man and God will always remain. Man will remain eternally below God, hence he will always have to worship God. Ramanuja's path is mainly the path of Devotion. He stands firm against the theory of Shankara's undifferentiated /Kevala Advaita/. To him, Brahman is and can only be personal. A true aspirant can realise the Highest Truth and achieve the Knowledge infinite while he is still on earth.
 
 
 
-* Madhava's Dvaita Or Dualism
+* Madhava's Dvaita or Dualism
 
   :PROPERTIES:
   :genre: discourse
@@ -134,7 +129,7 @@ I would like to conclude my talk with a word about your universally cherished st
 
 
 
-* God's Dream-Boat And Man's Life-Boat
+* God's Dream-Boat and man's life-boat
 
   :PROPERTIES:
   :genre: discourse
@@ -181,13 +176,14 @@ God is man's Eternal Friend. When man approaches God, not as a beggar, but as a 
 
 God's Dream-Boat is the heavenly individuality of man's Life-Boat. Man's Life-Boat is the earthly personality of God's Dream-Boat. Man's Life-Boat is sailing towards the Promised Land where Infinity plays, Eternity sings and Immortality dances. But where is this Promised Land? It is in the heart of Here and in the soul of Now. Human life is precious, priceless. The poet-soul in Emily Dickinson softly and unerringly tells the world:
 
+#+BEGIN_QUOTE
+
 I took one draught of life,
-
 I'll tell you what I paid,
-
-Precisely an existence-
-
+Precisely an existence --
 The market-price, they said.
+
+#+END_QUOTE
 
 What is existence? Existence is God's Body. What is God's Body? God's Body is Infinity's Life. What is Infinity's Life? Infinity's Life is God's Dream. What is God's Dream? God's Dream is His Transcendental Reality's embodied inspiration and revealed aspiration.
 
@@ -199,6 +195,8 @@ We know what our earthly activities are. It is high time for us to focus our sou
 
 Dear friends, you have many teachers. I have three, and no more. My teachers are Mind, Heart and Soul.
 
+#+BEGIN_VERSE
+
 My mind tells me that
 God is an Eternal Mystery.
 My Heart tells me that
@@ -206,7 +204,11 @@ God is an Eternal Experience.
 My Soul tells me that
 God is an Eternal Achievement.
 
+#+END_VERSE
+
 I end my talk with a fervent request to you:
+
+#+BEGIN_VERSE
 
 Think of God.
 You will see God standing behind you.
@@ -215,26 +217,31 @@ You will see God standing in front of you.
 Meditate on God.
 You will see God seated inside you.
 Devote yourself to God.
-You will see God within, without,
-here and beyond.
+You will see God within, without, here and beyond.
 Surrender yourself to God.
 You will see God's stupendous Pride in you.
 
+#+END_VERSE
 
 
-* The Beyond
+
+* The Beyond [fn:: MILL 6. Princeton University, Princeton, New Jersey, 31 January 1969.]
 
   :PROPERTIES:
-  :SUBTITLE: Princeton University, Princeton, New Jersey, January 13, 1969.
   :genre: discourse
   :keywords:
   :cite-key: MILL:6
   :END:
 
 
-/"Behold, I do not give lectures or a little charity. When I give, I give myself."/
 
-/ -- Walt Whitman/
+#+BEGIN_QUOTE
+
+Behold, I do not give lectures or a little charity. When I give, I give myself.
+
+-- Walt Whitman
+
+#+END_QUOTE
 
 My heart of dedication echoes and re-echoes with Whitman's throbbing utterance. At the same time, I wish to add something more to my own dedication. I give lectures. I give lectures not because I have something special to offer to humanity, but because I wish to expand my mind's horizon, my heart's love and my body's service so that I can become totally one with God's Divinity in humanity. Once I have done it, once I have become one with God's Divinity in humanity, I shall have to make no effort to offer myself to God's children, for I shall have become consciously one with them. Together we shall sing the song of God's unity in His multiplicity.
 
@@ -248,7 +255,7 @@ Our faith in God, more so in ourselves can alone lead us into the Life of the Be
 
 Men say that they do not know the Beyond. I say that they have forgotten the Beyond. They say that the Beyond has been stolen away. I say that they have unconsciously hidden the Beyond. They say that it is easier to realise the Beyond than to live in the Beyond. I say that God and the Beyond are One, indivisibly One. Once you have realised God, the Beyond itself will live in you, grow in you and be fulfilled in you.
 
-The Beyond is for him alone who aspires. A man without aspiration does not see in the nights of ignorance. A man with desires does not see either in the nights of ignorance or in the knowledge-dawn. But a man of aspiration sees through and beyond the adamantine wall of ignorance and the luminous windows of knowledge. He takes ignorance and knowledge as one. His is the heart that pines to imbibe the Nectar-Truth of the Upanishads with a view to entering into the fulfilment of the Beyond . . . /He takes ignorance and Knowledge as one. Through ignorance he crosses beyond death: through Knowledge he crosses the boundaries of Immortality./
+The Beyond is for him alone who aspires. A man without aspiration does not see in the nights of ignorance. A man with desires does not see either in the nights of ignorance or in the knowledge-dawn. But a man of aspiration sees through and beyond the adamantine wall of ignorance and the luminous windows of knowledge. He takes ignorance and knowledge as one. His is the heart that pines to imbibe the Nectar-Truth of the Upanishads with a view to entering into the fulfilment of the Beyond . . . "He takes ignorance and Knowledge as one. Through ignorance he crosses beyond death: through Knowledge he crosses the boundaries of Immortality."
 
 Do you want to see the face of the Beyond? Do you want to know what the Beyond looks like? If so, then launch, sooner than at once, into the sea of spirituality. Spirituality is self-development. Self-development eventually leads man to self-realisation. True spirituality is practical, extremely practical. It is not satisfied with the existence of God only in heaven. It wants to prove to the entire world that God's existence can also be seen and felt here on earth. God is the Life of the Beyond. Earth is the Heart of God. He who wants to live without air is a fool. He who wants to live without food is a greater fool. He who wants to live without the Truth, Light and Life of the Beyond is the greatest fool.
 
@@ -260,14 +267,14 @@ There is only one Time and that Time is the Eternal Now. There is only one Truth
 
 
 
-* Conscious Oneness With God
+* Conscious oneness with God [fn:: MILL 7. Columbia University, New York, N. Y., 16 April 1969.]
 
   :PROPERTIES:
-  :SUBTITLE: Columbia University, New York, N. Y., April 16, 1969.
   :genre: discourse
   :keywords:
   :cite-key: MILL:7
   :END:
+
 
 
 Hail, Columbia! Columbia, the country, Columbia, the university, Hail! The word Columbia immediately inspires my heart, awakens my mind and pulls my life straight into my soul's core.
@@ -312,10 +319,10 @@ Sisters and brothers, I offer to you my soul's assurance that you are bound to g
 
 
 
-* Ignorance
+* Ignorance  [fn:: MILL 8. Cornell University, Ithaca, N. Y., 30 September 1969.]
+
 
   :PROPERTIES:
-  :SUBTITLE: Cornell University, Ithaca, N. Y., September 30, 1969.
   :genre: discourse
   :keywords:
   :cite-key: MILL:8
@@ -346,9 +353,13 @@ When we are freed from the fetters of ignorance, our hearts grow into the divine
 
 Human ignorance wants to control the world. Human love wants to bind the world. Human truth wants to lead the world. Divine Knowledge wants to inspire the heart of the world. Divine Truth wants the world to be fulfilled in God and for God.
 
-"Better be unborn than untaught, for ignorance is the root of misfortune."
+#+BEGIN_QUOTE
 
- -- Plato
+Better be unborn than untaught, for ignorance is the root of misfortune.
+
+-- Plato
+
+#+END_QUOTE
 
 What Plato says is absolutely true in its own way. But if an individual cries for God-realisation and the perfect manifestation of his inner divinity on earth, then he has to come into the world, no matter how abysmal his ignorance is. Ignorance is and may be the malady of today's life, but tomorrow's life can and must be otherwise. Tomorrow's life can be flooded with the soul's glowing Light. The life's journey has to start from where it is. The healthful hunger for the divine Light, more Light, infinite Light is not only today's necessity, but also tomorrow's inevitability. The Goal Supreme is neither behind us nor with us. It is ahead of us. It is in the Heart of the Beyond. The Goal is beckoning us. Let us walk, march, and run toward the Goal, We need not hesitate to go to our Goal. The Goal is ready and eager to embrace us with our ignorance. Once we are embraced by the Goal, what remains is to bathe in the Sea of our Goal's eternally infinite Light.
 
@@ -366,10 +377,9 @@ The atom bomb destroyed Hiroshima. Our conscious fondness for the night of ignor
 
 
 
-* The Inner Light
+* The Inner Light [fn:: MILL 9. University Of Pennsylvania, Philadelphia, Pa., 18 March 1970.]
 
   :PROPERTIES:
-  :SUBTITLE: University Of Pennsylvania, Philadelphia, Pa., March 18, 1970.
   :genre: discourse
   :keywords:
   :cite-key: MILL:9
@@ -420,10 +430,9 @@ When we use the outer light, we see how far we are away from God. When we use th
 
 
 
-* Opportunity Divine And Necessity Supreme
+* Opportunity divine and necessity supreme [fn:: MILL 10. Brown University, Providence, Rhode Island, 4 October 1969.]
 
   :PROPERTIES:
-  :SUBTITLE: Brown University, Providence, Rhode Island, October 4, 1969.
   :genre: discourse
   :keywords:
   :cite-key: MILL:10
@@ -436,31 +445,48 @@ I take no advantage of earthly and heavenly opportunities. I know perfectly well
 
 Opportunity is the human aspiration to live by in the outer world. Again, opportunity is the divine realisation to live for in the inner world. When I have an opportunity to know more, shall I use it to know others more, or shall I try to know myself more? I wish to say that I shall do both. I shall use the opportunity to know myself more and also to know others more. By knowing myself more, I realise God the Creator. By knowing others more, I realise God the Creation. By knowing myself more, I realise God the Breath. By knowing others more, I realise God the Life. By knowing myself more, I realise God the Unity. By knowing others more, I realise God the Multiplicity.
 
-"No great man ever complains of want of opportunity."
+#+BEGIN_QUOTE
 
- -- Ralph Waldo Emerson
+No great man ever complains of want of opportunity.
+
+-- Ralph Waldo Emerson
+
+#+END_QUOTE
 
 This is true. A truly great man does not have to depend on outer opportunities. He has abundant faith in his inner capacity. To say that a great man never complains of want of opportunity, however, is an ideal affirmation of the state of consciousness for all great men. I hope that all great men will realise and live this truth.
 
-"A wise man will make more opportunities than he finds."
+#+BEGIN_QUOTE
 
- -- Francis Bacon
+A wise man will make more opportunities than he finds.
+
+-- Francis Bacon
+
+#+END_QUOTE
 
 A spiritual man not only finds opportunities but also creates more and more opportunities constantly. His opportunity is composed of his inspiration-light and his aspiration-height. With his opportunity he realises God, he serves God and he fulfils God.
 
 Opportunity in the spiritual life means to do and to be. What can I do? I can totally identify myself with each fleeting moment and offer myself at the Feet of God for His use in His eternal Time. What can I be? I can be God's Dream-Boat. He will be my life's eternal Pilot. Him to serve is my only awakened and illumined dream.
 
 Opportunity is necessity. In the spiritual life a spiritual Master is a necessity; a spiritual disciple is a necessity. Let us pray with the Vedic seers:
+
+#+BEGIN_VERSE
+
 /AUM./
 /Saha nav avatu,/
 /Saha nau bhunaktu/
 /Saha viryam karavavahai./
 
+#+END_VERSE
+
+[Translation]
+
+#+BEGIN_VERSE
+
 May He protect us (the disciple and the Master) both.
-
 May He nourish us both.
-
 May we both work together with energy, indomitable and endless.
+
+#+END_VERSE
 
 If a disciple can establish conscious and constant oneness with the Master, then he has done the right thing, absolutely the right thing. If the Master has established his conscious and constant oneness with the disciple, then the Master has also done the right thing. Only when the disciple's oneness with the Master is perfect can the disciple work with the Master. When the Master's constant oneness with the disciple is perfect, then only can the Master work for the disciple. When the disciple works /with/ the Master devotedly, the Mission of the Supreme for the Supreme begins. When the Master works /for/ the disciple, the realisation of the Ultimate Transcendental Truth begins to dawn on the disciple. When the disciple works /with/ the Master, he has to work with purest devotion. When the Master works /for/ the disciple, he has to work with soulful and unreserved concern. The disciple has to feel that the Master is the Light of his own heart. The Master has to feel that the disciple is the strength of his own arms.
 
@@ -468,10 +494,9 @@ When the disciple feels that his Master is the Light of his own heart, he is bou
 
 
 
-* The Inner Life
+* The inner life [fn:: MILL 11. Dartmouth College, Hanover, New Hampshire, 3 April 1970.]
 
   :PROPERTIES:
-  :SUBTITLE: Dartmouth College, Hanover, New Hampshire, April 3, 1970
   :genre: discourse
   :keywords:
   :cite-key: MILL:11
@@ -479,17 +504,19 @@ When the disciple feels that his Master is the Light of his own heart, he is bou
 
 
 It is with deep joy and satisfaction that I tell you that today I complete my Ivy League talks. This is my last talk, but not the least, far from it. Yours is the college which is a veritable pride of the United States. I am most happy and most proud to be here among you this evening.
+
 /Aum Aum Aum/
 
 Before I enter into my talk, I wish to invoke, in silence, the soul of the illustrious poet, Robert Frost, once a student of this august college.
 
+#+BEGIN_VERSE
+
 The woods are lovely, dark and deep,
-
 But I have promises to keep.
-
+And miles to go before I sleep.
 And miles to go before I sleep.
 
-And miles to go before I sleep.
+#+END_VERSE
 
 Indeed, these soulful lines come directly from the inmost recesses of the poet. Since I am going to speak on the inner life, that is to say, the spiritual life, I would like to say a few words on these immortal lines.
 
@@ -513,9 +540,13 @@ The inner life, which is the smile of the soul, is always in the making. There i
 
 There are two levels of life: the conscious level and the unconscious level. Since we are all aspirants, let us deal only with the conscious level of life. The conscious level of life has to realise the Highest and fulfil the Absolute on earth through its ever-glowing meditative selfless service to the Divinity in humanity, and through its ever-flowing contemplative unconditional surrender to the Sole Pilot Supreme.
 
-"Life seems to be divided into two periods: In the first we indulge, in the second we preach."
+#+BEGIN_QUOTE
 
--Will Durant
+Life seems to be divided into two periods: In the first we indulge, in the second we preach.
+
+-- Will Durant
+
+#+END_QUOTE
 
 This is what we are apt to observe in the outer life. Strangely enough, we can divide the inner life, too, into two periods: In the first we aspire, in the second we inspire.
 
