@@ -1,6 +1,8 @@
 #+AUTHOR:
 #+DATE:
 
+#+STARTUP: showeverything
+
 #+OPTIONS: H:1 num:nil author:nil creator:nil timestamp:nil email:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:nil skip:nil d:t tags:not-in-toc
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/7611448/bootstrap.min.css" />
