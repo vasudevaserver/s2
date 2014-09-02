@@ -5,7 +5,7 @@ import re
 import sys
 
 
-CITE_KEY_RE = re.compile(r"\s*:CITE-KEY:(?:\s*(\w+)(-\d+)?)?", re.IGNORECASE)
+CITE_KEY_RE = re.compile(r"\s*:cite-key:(?:\s*(\w+)(-\d+)?)?", re.IGNORECASE)
 PROPERTIES_RE = re.compile(r"(\s*):PROPERTIES:\s*", re.IGNORECASE)
 END_RE = re.compile(r"\s*:END:\s*", re.IGNORECASE)
 META_GENRE_RE = re.compile(r"\s*:genre:\s*(note|preface|section)\b", re.IGNORECASE)
@@ -29,11 +29,11 @@ def parse(lines, start):
     i = 0
     meta_count = 0
 
-    # Scan until we find the first CITE-KEY
+    # Scan until we find the first cite-key
     i = skip_until_re(CITE_KEY_RE, lines, i, output)
 
     if i >= num_lines:
-        print("ERROR: missing initial CITE-KEY")
+        print("ERROR: missing initial cite-key")
         return output
 
     cite_key = CITE_KEY_RE.match(lines[i]).group(1)
