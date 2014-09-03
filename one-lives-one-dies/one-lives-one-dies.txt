@@ -19,17 +19,7 @@
 
 
 
-*Preface
 
-:PROPERTIES:
-:genre: Preface
-:cite-key: OLOD:1e1
-:END:
-
-
-In this volume of stories, the Indian spiritual Master Sri Chinmoy lucidly reveals many aspects of the relationship between Master and disciple. He creates in each story a living world in which the reader can readily experience the Master's unconditional love and the disciple's evolving aspiration.
-
-Here Sri Chinmoy answers searching questions about the death of a devoted young disciple, the way to please one's Master and become close to him, the special concern of a Master for his black disciples.
 
 
 
@@ -161,7 +151,7 @@ But Niti's mother would not listen. Instead, she accused him and threatened him,
 
 
 
-* The death Of Goroksha's Master
+* The death of Goroksha's Master
 
   :PROPERTIES:
   :genre: story
@@ -244,14 +234,25 @@ The Master blessed the disciple with deepest joy and pride and said, "Son, you h
 /February 6, 1974/
 
 
-Editors note: Poem added
 
-/Life/
 
-/An ordinary life plays with ignorance./
-/A religious life plays with rites and ceremonies./
-/A spiritual life plays with the inner planes of conciousness./
-/A divinely transformed life will play with the conciousness of Immortality./
+* Life
+
+  :PROPERTIES:
+  :genre: aphorism
+  :keywords:
+  :cite-key:
+  :END:
+
+
+
+An ordinary life plays with ignorance. \\
+
+A religious life plays with rites and ceremonies.\\
+
+A spiritual life plays with the inner planes of consciousness.\\
+
+A divinely transformed life will play with the consciousness of Immortality.\\
 
 
 
@@ -285,14 +286,24 @@ But one day a white disciple came to the Master and said, "Master, I am extremel
 /February 6, 1974/
 
 
-Editors note: Poem added
 
-/Freedom/
-/Real freedom does not depend/
-/on the world around us./
-/Real freedom depends on our acceptance/
-/of God's Will as our very own./
+* Freedom
 
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key:
+  :END:
+
+
+#+BEGIN_VERSE
+
+Real freedom does not depend
+    on the world around us.
+Real freedom depends on our acceptance
+    of God's Will as our very own.
+
+#+END_VERSE
 
 
 * One lives, one dies
@@ -520,11 +531,19 @@ Everyone laughed and laughed when the whole story was explained. Then the Master
 /February 8, 1974/
 
 
-Editors note: poem added
 
-/Peace/
-/Peace is fulfilled Delight./
-/Where peace is,the light of Delight has replaced the right of ignorance night./
+* Peace
+
+  :PROPERTIES:
+  :genre: aphorism
+  :keywords:
+  :cite-key:
+  :END:
+
+
+Peace is fulfilled Delight. \\
+
+Where peace is, the light of Delight has replaced the right of ignorance night. 
 
 
 
@@ -876,7 +895,17 @@ Editors note: statement added
 
 
 
+* Editor’s preface
 
+:PROPERTIES:
+:genre: preface
+:cite-key: OLOD:1e1
+:END:
+
+
+In this volume of stories, the Indian spiritual Master Sri Chinmoy lucidly reveals many aspects of the relationship between Master and disciple. He creates in each story a living world in which the reader can readily experience the Master's unconditional love and the disciple's evolving aspiration.
+
+Here Sri Chinmoy answers searching questions about the death of a devoted young disciple, the way to please one's Master and become close to him, the special concern of a Master for his black disciples.
 
 
 #+SETUPFILE: ~/.org/org-templates/level-0.org
