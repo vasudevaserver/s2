@@ -1,4 +1,4 @@
-#+TITLE: Yesterday, Today, Tomorrow
+#+TITLE: Yesterday, today, tomorrow
 #+AUTHOR: Sri Chinmoy
 #+LANGUAGE: en
 
@@ -19,7 +19,7 @@
 
 
 
-* 1 Yesterday ...
+* 1.
 
   :PROPERTIES:
   :genre: poem
@@ -39,7 +39,7 @@ His Heart-Home.
 #+END_VERSE
 
 
-* 2 Today ...
+* 2.
 
   :PROPERTIES:
   :genre: poem
@@ -58,7 +58,7 @@ At His inner School.
 #+END_VERSE
 
 
-* 3 Tomorrow ...
+* 3.
 
   :PROPERTIES:
   :genre: poem
@@ -74,7 +74,21 @@ God will be asking me
 To take
 My first lesson
 From Him.
-4 .
+
+#+END_VERSE
+
+
+* 4.
+
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key:
+  :END:
+
+
+#+BEGIN_VERSE
+
 Yesterday
 God's Eye
 Frightened me.
@@ -82,12 +96,13 @@ Frightened me.
 #+END_VERSE
 
 
-* 5 Today ...
+
+* 5.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:4
+  :cite-key:
   :END:
 
 
@@ -100,12 +115,12 @@ Is feeding me.
 #+END_VERSE
 
 
-* 6 Tomorrow ...
+* 6.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:5
+  :cite-key:
   :END:
 
 
@@ -118,12 +133,12 @@ Sheltering me.
 #+END_VERSE
 
 
-* 7 Yesterday ...
+* 7.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:6
+  :cite-key:
   :END:
 
 
@@ -136,12 +151,12 @@ God's Beautiful Eye.
 #+END_VERSE
 
 
-* 8 Today ...
+* 8.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:7
+  :cite-key:
   :END:
 
 
@@ -154,12 +169,12 @@ God's Peaceful Heart.
 #+END_VERSE
 
 
-* 9 Tomorrow ...
+* 9.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:8
+  :cite-key:
   :END:
 
 
@@ -172,12 +187,12 @@ God's Powerful Feet.
 #+END_VERSE
 
 
-* 10 Yesterday ...
+* 10.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:9
+  :cite-key:
   :END:
 
 
@@ -190,12 +205,12 @@ God the Power.
 #+END_VERSE
 
 
-* 11 Today ...
+* 11.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:10
+  :cite-key:
   :END:
 
 
@@ -208,12 +223,12 @@ God the Love.
 #+END_VERSE
 
 
-* 12 Tomorrow ...
+* 12.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:11
+  :cite-key:
   :END:
 
 
@@ -226,12 +241,12 @@ God the Compassion.
 #+END_VERSE
 
 
-* 13 Yesterday ...
+* 13.
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: YTT:12
+  :cite-key:
   :END:
 
 
@@ -244,7 +259,7 @@ My aspiration-heart.
 #+END_VERSE
 
 
-* 14 Today ...
+* 14.
 
   :PROPERTIES:
   :genre: poem
@@ -262,7 +277,7 @@ My dedication-life.
 #+END_VERSE
 
 
-* 15 Tomorrow ...
+* 15.
 
   :PROPERTIES:
   :genre: poem
@@ -280,7 +295,7 @@ My surrender-breath.
 #+END_VERSE
 
 
-* 16 Yesterday ...
+* 16.
 
   :PROPERTIES:
   :genre: poem
@@ -299,7 +314,7 @@ Desire and aspiration.
 #+END_VERSE
 
 
-* 17 Today ...
+* 17.
 
   :PROPERTIES:
   :genre: poem
@@ -318,7 +333,7 @@ And Realisation.
 #+END_VERSE
 
 
-* 18 Tomorrow ...
+* 18.
 
   :PROPERTIES:
   :genre: poem
@@ -334,12 +349,12 @@ God will be
 Cradling me
 Between Realisation
 And
-Self -Transcendence.
+Self-Transcendence.
 
 #+END_VERSE
 
 
-* 19 Yesterday ...
+* 19.
 
   :PROPERTIES:
   :genre: poem
@@ -357,7 +372,7 @@ My aspiration-bird.
 #+END_VERSE
 
 
-* 20 Today ...
+* 20.
 
   :PROPERTIES:
   :genre: poem
@@ -375,7 +390,7 @@ My dedication-wings.
 #+END_VERSE
 
 
-* 21 Tomorrow ...
+* 21.
 
   :PROPERTIES:
   :genre: poem
@@ -395,7 +410,7 @@ Flight.
 #+END_VERSE
 
 
-* 22 Yesterday ...
+* 22.
 
   :PROPERTIES:
   :genre: poem
@@ -414,7 +429,7 @@ His Greatness.
 #+END_VERSE
 
 
-* 23 Today ...
+* 23.
 
   :PROPERTIES:
   :genre: poem
@@ -433,7 +448,7 @@ His Goodness.
 #+END_VERSE
 
 
-* 24 Tomorrow ...
+* 24.
 
   :PROPERTIES:
   :genre: poem
@@ -452,7 +467,7 @@ His Fulness.
 #+END_VERSE
 
 
-* 25 Yesterday ...
+* 25.
 
   :PROPERTIES:
   :genre: poem
@@ -474,7 +489,7 @@ Of stupidity."
 #+END_VERSE
 
 
-* 26 Today ...
+* 26.
 
   :PROPERTIES:
   :genre: poem
@@ -496,7 +511,7 @@ Of sincerity."
 #+END_VERSE
 
 
-* 27 Tomorrow ...
+* 27.
 
   :PROPERTIES:
   :genre: poem
@@ -518,7 +533,7 @@ Of humility."
 #+END_VERSE
 
 
-* 28 Yesterday ...
+* 28.
 
   :PROPERTIES:
   :genre: poem
@@ -539,7 +554,7 @@ My child."
 #+END_VERSE
 
 
-* 29 Today ...
+* 29.
 
   :PROPERTIES:
   :genre: poem
@@ -560,7 +575,7 @@ My child."
 #+END_VERSE
 
 
-* 30 Tomorrow ...
+* 30.
 
   :PROPERTIES:
   :genre: poem
@@ -581,7 +596,7 @@ My child."
 #+END_VERSE
 
 
-* 31 Yesterday ...
+* 31.
 
   :PROPERTIES:
   :genre: poem
@@ -599,7 +614,7 @@ A desire-beggar.
 #+END_VERSE
 
 
-* 32 Today ...
+* 32.
 
   :PROPERTIES:
   :genre: poem
@@ -617,7 +632,7 @@ An aspiration-lover.
 #+END_VERSE
 
 
-* 33 Tomorrow ...
+* 33.
 
   :PROPERTIES:
   :genre: poem
@@ -635,7 +650,7 @@ A Perfection-Dreamer.
 #+END_VERSE
 
 
-* 34 Yesterday ...
+* 34.
 
   :PROPERTIES:
   :genre: poem
@@ -654,7 +669,7 @@ For me.
 #+END_VERSE
 
 
-* 35 Today ...
+* 35.
 
   :PROPERTIES:
   :genre: poem
@@ -672,7 +687,7 @@ God does not love me.
 #+END_VERSE
 
 
-* 36 Tomorrow ...
+* 36.
 
   :PROPERTIES:
   :genre: poem
@@ -693,7 +708,7 @@ God even needs me.
 #+END_VERSE
 
 
-* 37 Yesterday ...
+* 37.
 
   :PROPERTIES:
   :genre: poem
@@ -712,7 +727,7 @@ Expectation-heart.
 #+END_VERSE
 
 
-* 38 Today ...
+* 38.
 
   :PROPERTIES:
   :genre: poem
@@ -731,7 +746,7 @@ Aspiration-heart.
 #+END_VERSE
 
 
-* 39 Tomorrow ...
+* 39.
 
   :PROPERTIES:
   :genre: poem
@@ -750,7 +765,7 @@ Emancipation-heart.
 #+END_VERSE
 
 
-* 40 Yesterday ...
+* 40.
 
   :PROPERTIES:
   :genre: poem
@@ -770,7 +785,7 @@ Human being.
 #+END_VERSE
 
 
-* 41 Today ...
+* 41.
 
   :PROPERTIES:
   :genre: poem
@@ -791,7 +806,7 @@ Human being.
 #+END_VERSE
 
 
-* 42 Tomorrow ...
+* 42.
 
   :PROPERTIES:
   :genre: poem
@@ -816,7 +831,7 @@ Human being.
 #+END_VERSE
 
 
-* 43 Yesterday ...
+* 43.
 
   :PROPERTIES:
   :genre: poem
@@ -836,7 +851,7 @@ In private.
 #+END_VERSE
 
 
-* 44 Today ...
+* 44.
 
   :PROPERTIES:
   :genre: poem
@@ -858,7 +873,7 @@ In public.
 #+END_VERSE
 
 
-* 45 Tomorrow ...
+* 45.
 
   :PROPERTIES:
   :genre: poem
@@ -879,7 +894,7 @@ Satisfaction-Smile.
 #+END_VERSE
 
 
-* 46 Yesterday ...
+* 46.
 
   :PROPERTIES:
   :genre: poem
@@ -898,7 +913,7 @@ Victory-roaring lion.
 #+END_VERSE
 
 
-* 47 Today ...
+* 47.
 
   :PROPERTIES:
   :genre: poem
@@ -917,7 +932,7 @@ Lightning-speed-deer.
 #+END_VERSE
 
 
-* 48 Tomorrow ...
+* 48.
 
   :PROPERTIES:
   :genre: poem
@@ -936,7 +951,7 @@ Fondness-lamb.
 #+END_VERSE
 
 
-* 49 Yesterday ...
+* 49.
 
   :PROPERTIES:
   :genre: poem
@@ -956,7 +971,7 @@ Soulfully.
 #+END_VERSE
 
 
-* 50 Today ...
+* 50.
 
   :PROPERTIES:
   :genre: poem
@@ -976,7 +991,7 @@ Self-givingly.
 #+END_VERSE
 
 
-* 51 Tomorrow ...
+* 51.
 
   :PROPERTIES:
   :genre: poem
@@ -995,7 +1010,7 @@ His own Heart-Song.
 #+END_VERSE
 
 
-* 52 Yesterday ...
+* 52.
 
   :PROPERTIES:
   :genre: poem
@@ -1014,7 +1029,7 @@ Obedience.
 #+END_VERSE
 
 
-* 53 Today ...
+* 53.
 
   :PROPERTIES:
   :genre: poem
@@ -1034,7 +1049,7 @@ Eagerness.
 #+END_VERSE
 
 
-* 54 Tomorrow ...
+* 54.
 
   :PROPERTIES:
   :genre: poem
@@ -1054,7 +1069,7 @@ And perfection.
 #+END_VERSE
 
 
-* 55 Yesterday ...
+* 55.
 
   :PROPERTIES:
   :genre: poem
@@ -1072,7 +1087,7 @@ To be His spokesman.
 #+END_VERSE
 
 
-* 56 Today Also, ...
+* 56.
 
   :PROPERTIES:
   :genre: poem
@@ -1090,7 +1105,7 @@ To play the same role.
 #+END_VERSE
 
 
-* 57 Tomorrow ...
+* 57.
 
   :PROPERTIES:
   :genre: poem
