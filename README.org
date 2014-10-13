@@ -1,7 +1,3 @@
-#+TITLE: Sri Chinmoy Library repository
-#+AUTHOR: 
-#+OPTIONS: toc:nil 
-
 * Sri Chinmoy Library repository
 
 This repository contains the collected works of Sri Chinmoy.
@@ -19,7 +15,6 @@ This repository is hosted at:
 https://bitbucket.org/vasudevaserver/sri-chinmoy-library-site
 
 The repository is published at the [[http://www.srichinmoylibrary.com][Sri Chinmoy Library]]
-
 
 * License
 
