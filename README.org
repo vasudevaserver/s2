@@ -1,24 +1,47 @@
-* Sri Chinmoy Library repository
+* The Archives of the works of Sri Chinmoy
 
-This repository contains the collected works of Sri Chinmoy.
+This repository contains the published and unplished works of Sri Chinmoy.
 
-It also includes the official bibliography of the works of Sri Chinmoy and related publications.
+Curently the works have been grouped according to bibliographic type:
 
-Each file contains the corresponding entry from the official bibliography.
+- book
+- periodical
+- songbook
+- transcript
+
+The Archives also includes the official bibliography of the works of Sri Chinmoy, and related publications.
+
+** Structure
+
+Each work, published or unpublished, is a file contained in a folder.
+
+Each file holds the corresponding entry from the official bibliography.
+
+Series belongs to a common folder
 
 The files follow the  =org-mode= syntax.
 
-* Official site
 
-This repository is hosted at:
+** Sites
 
-https://bitbucket.org/vasudevaserver/sri-chinmoy-library-site
+The /Sri Chinmoy Archives/ repository is hosted at https://github.com/vscore/archives
 
-The repository is published at the [[http://www.srichinmoylibrary.com][Sri Chinmoy Library]]
+The repository is published in different forms at different public sites.
 
-* License
+One such site is the [[http://www.srichinmoylibrary.com][Sri Chinmoy Library]]
 
-Sri Chinmoy wished to release all of his works under the following license:
+** Reporting issues
+
+Any issue, like mistype, formatting, etc, can be report it by filing a ticket here:
+
+https://github.com/vscore/file-issues/issues (free github account required)
+
+That is a public issue-only repository, collecting issues regarding the Sri Chinmoy Archives, where published online as sites, or printed in books.
+
+
+** License
+
+Sri Chinmoy wish was to release all of his works under the following license:
 
 /Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)/
 
