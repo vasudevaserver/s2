@@ -1,6 +1,6 @@
 * The Archives of the works of Sri Chinmoy
 
-This repository contains the published and unplished works of Sri Chinmoy.
+This repository contains the published and unpublished works of Sri Chinmoy.
 
 Currently the works have been grouped according to bibliographic type:
 
@@ -8,8 +8,6 @@ Currently the works have been grouped according to bibliographic type:
 - periodical
 - songbook
 - transcript
-
-The Archives also includes the official bibliography of the works of Sri Chinmoy, and related publications.
 
 ** Structure
 
@@ -20,6 +18,10 @@ Each file holds the corresponding entry from the official bibliography.
 Series belongs to a common folder.
 
 The files follow the  =org-mode= syntax.
+
+** Bibliography
+
+The Archives include the official bibliography of the works of Sri Chinmoy, and related publications.
 
 
 ** Sites
