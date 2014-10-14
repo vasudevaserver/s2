@@ -1,6 +1,6 @@
 * The Archives of the works of Sri Chinmoy
 
-This repository contains the published and unpublished works of Sri Chinmoy.
+This repository contains the published and unpublished works of [[http://www.srichinmoy.org][Sri Chinmoy]].
 
 Currently the works have been grouped according to bibliographic type:
 
@@ -17,7 +17,7 @@ Each file holds the corresponding entry from the official bibliography.
 
 Series belongs to a common folder.
 
-The files follow the  =org-mode= syntax.
+The files follow the [[http://orgmode.org/worg/dev/org-syntax.html][org]] syntax.
 
 ** Bibliography
 
@@ -45,7 +45,7 @@ Any issue regarding the /Sri Chinmoy Archives/, where published online as sites,
 
 ** License
 
-Sri Chinmoy wish was to release all of his works under the following license:
+Sri Chinmoy's express wish was to release all of his works under the following license:
 
 /Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)/
 
