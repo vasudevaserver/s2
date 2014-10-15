@@ -2,8 +2,7 @@
 *.pdf
 *.
 _data.csv
-Icon
-
+Icon*
 /Icon
 *.docx
 *.rtf
@@ -11,3 +10,4 @@ Icon
 *.sh
 .DS_Store
 .dropbox
+Icon
