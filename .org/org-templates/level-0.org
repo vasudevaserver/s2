@@ -9,7 +9,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/7611448/index.css" />
 #+INFOJS_OPT: view:showall toc:t ftoc:t mouse:LightSkyBlue  http://orgmode.org/org-keys.js
 
-#+MACRO: fleuron ⁂
+#+MACRO: fleuron @@latex:\fleuron@@ @@html:<center>* * *</center>@@
 
 #+LATEX_CLASS: book
 #+LATEX_CLASS_OPTIONS: [a4paper,twoside,onecolumn]
