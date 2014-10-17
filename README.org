@@ -15,7 +15,7 @@ Each work, published or unpublished, is a file contained in a folder.
 
 Each file holds the corresponding entry from the official bibliography.
 
-Series belongs to a common folder.
+A series belongs to a common folder.
 
 The files follow the [[http://orgmode.org/worg/dev/org-syntax.html][org]] syntax.
 
@@ -40,23 +40,23 @@ https://github.com/vscore/page-issues/issues (free github account required)
 
 That is a public issue-only repository.
 
-Any issue regarding the /Sri Chinmoy Archives/, where published online as sites, or printed in books, are collected there.
+Any issues regarding the /Sri Chinmoy Archives/, where published online as sites, or printed in books, are collected there.
 
 
-** License
+** Licence
 
-Sri Chinmoy's express wish was to release all of his works under conditions satisfactorily expressed by the following license:
+Sri Chinmoy's express wish was to release all of his works under conditions satisfactorily expressed by the following licence:
 
 /Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)/
 
 In short, you are free to share, copy and redistribute the material in any medium or format under the following terms:
 
-- *Attribution* — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- *Attribution* — You must give appropriate credit, provide a link to the licence, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licenser endorses you or your use of the material.
 - *NonCommercial* — You may not use the material for commercial purposes.
 - *NoDerivatives* — If you remix, transform, or build upon the material, you may not distribute the modified material.
-- *No additional restrictions* — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
+- *No additional restrictions* — You may not apply legal terms or technological measures that legally restrict others from doing anything the licence permits. 
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+The licenser cannot revoke these freedoms as long as you follow the licence terms.
 
-More information: [[https://creativecommons.org/licenses/by-nc-nd/4.0/][Creative Commons BY-NC-ND 4.0]]
+More information: [[https://creativecommons.org/licences/by-nc-nd/4.0/][Creative Commons BY-NC-ND 4.0]]
 
