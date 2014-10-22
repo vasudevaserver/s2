@@ -13,14 +13,5 @@
 
 #+LATEX_CLASS: book
 #+LATEX_CLASS_OPTIONS: [a4paper,twoside,onecolumn]
-#+LATEX_HEADER: \usepackage[]{fontspec}
-#+LATEX_HEADER: \usepackage{microtype}
-#+LATEX_HEADER: \usepackage{addlines}
-#+LATEX_HEADER: \usepackage{needspace}
-#+LATEX_HEADER: \setmainfont[Mapping=tex-text,Ligatures={Common},Style=TitlingCaps
-,StylisticSet=1 % long Q
-,StylisticSet=6 % short descenders (for tighter linespacing)
-,StylisticSet=18 % dashes
-,Numbers=OldStyle]
-%{Baskerville Ten Pro}%
-{WilliamsCaslonText Regular}
+#+LATEX_HEADER: \bibliographystyle{plain}
+#+LATEX_HEADER: \bibliography{bibliography}
