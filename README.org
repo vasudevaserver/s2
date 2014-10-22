@@ -26,7 +26,7 @@ The Archives include the official bibliography of the works of Sri Chinmoy, and 
 
 ** Sites
 
-The /Sri Chinmoy Archives/ are hosted at https://github.com/vscore/archives
+The /Sri Chinmoy Archives/ are hosted at https://github.com/vasudevaserver/archives
 
 The repository is published in different forms at different public sites.
 
@@ -36,7 +36,7 @@ One such site is the [[http://www.srichinmoylibrary.com][Sri Chinmoy Library]].
 
 Any issue, like mistype, formatting, etc, can be reported by filing a ticket here:
 
-https://github.com/vscore/page-issues/issues (free github account required)
+https://github.com/vasudevaserver/page-issues/issues (free github account required)
 
 That is a public issue-only repository.
 
