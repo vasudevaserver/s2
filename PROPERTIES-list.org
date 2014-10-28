@@ -1,0 +1,24 @@
+** List of properties
+
+***** genre
+Literary genre. See [[../Genre-list][genre list]]
+
+***** keywords
+keywords highlighting concepts, names, places. See [[../Keywords-list][keyword list]]
+
+***** language
+Language of the given Unit
+
+
+***** cite-key
+Unique indicator for a given Unit, pointing to the corresponding bibliographic record
+
+***** Example
+
+#+BEGIN_EXAMPLE
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: AK:1
+  :END:
+#+END_EXAMPLE

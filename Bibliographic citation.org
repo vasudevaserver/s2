@@ -1,0 +1,43 @@
+#+LATEX_HEADER: \bibliographystyle{plain}
+#+LATEX_HEADER: \bibliography{bibliography}
+
+** Proper bibliographic citation
+
+See [[https://github.com/vasudevaserver/archives/issues/4][issue 4]].
+
+Example:
+
+```
+* My name, my age, my home
+
+#+BEGIN_VERSE
+
+At last I know my name.
+My name is God's eternal Game.
+At last I know my name.
+
+At last I know my age.
+My age is Infinity's page.
+At last I know my age.
+
+At last I know my home.
+My home is where my flame-worlds roam.
+At last I know my home.\cite{MF}
+
+#+END_VERSE
+
+```
+
+Another citation: cite:MF
+
+The whole bibliography is added below, automatically.
+
+```
+#+BIBLIOGRAPHY: bibliography plain option:-d option:-nokeywords limit:t
+```
+
+#+SETUPFILE: ~/.org/org-templates/level-0.org
+
+# Local Variables:
+# mode: org
+# End:

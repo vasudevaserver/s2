@@ -1,0 +1,355 @@
+This page describes the syntax used to properly mark-up the book files.
+
+** INITIAL BLOCK
+
+Each book must have three lines, at the very beginning of the file. Example:
+
+
+#+BEGIN_EXAMPLE
+
+#+TITLE:  The Golden Boat,  Part 10
+#+AUTHOR: Sri Chinmoy
+#+LANGUAGE: en
+
+#+END_EXAMPLE
+
+
+** INITIAL UNIT
+
+After the initial block, there is an initial Unit, called Index, which includes the Global properties block. Example:
+
+
+#+BEGIN_EXAMPLE
+
+ * Index
+  :PROPERTIES:
+  :BOOK-NUMBER:   0106
+  :AUTHOR:  Sri Chinmoy
+  :ORIGINAL-EDITION:   True
+  :YEAR:   1974
+  :PUBLISHER:   Agni Press
+  :ORIGINAL-ID:   part10.sri-chinmoy-golden-boat
+  :UNIT:     00
+  :CITE-KEY: GB:449
+  :END:
+
+#+END_EXAMPLE
+
+
+*** Note: There should be two spaces from the beginning of the line to each :FIELD:
+
+
+
+** UNITS (aka Chapters, Headings, etc)
+
+Each unit must start with an asterisk: *
+
+Example:
+
+
+#+BEGIN_EXAMPLE
+
+ * 27. Title of Unit
+  :PROPERTIES:
+  :GENRE:    poem
+  :END:
+
+
+ [Text starts here]
+
+#+END_EXAMPLE
+
+
+** POEMS, APHORISMS and PRAYERS
+
+Each poem, or anything in verse (like verse aphorisms or prayers) must be included in the directive:
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_VERSE
+...
+
+#+END_VERSE
+
+
+#+END_EXAMPLE
+
+
+Example:
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_VERSE
+
+I love you
+Not because you have tremendous power,
+But because
+You are all peace.
+
+#+END_VERSE
+
+#+END_EXAMPLE
+
+Note: prose aphorisms, e.g. /Friendship/ must not have VERSE applied. Use QUOTE directive in that case.
+
+
+
+** QUOTES
+
+A quote can be inserted thus:
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_QUOTE
+...
+
+#+END_QUOTE
+
+
+#+END_EXAMPLE
+
+Example:
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_QUOTE
+
+Loneliness is another fantasy of the self-mind. Lose thy separate self, and thou shalt find thy Universal Self: In union with the One Life all that exists is included, and all that was thought to be lost is found again.
+
+#+END_QUOTE
+
+
+#+END_EXAMPLE
+
+
+
+** ITALICS
+
+Italics are indicated by the / sign, ie: /these words are in italics/
+
+
+
+** PROSE
+
+In prose, each paragraph must be ended with two (2) carriage returns:
+
+paragraph 1
+
+paragraph 2
+
+
+
+** EN-DASH
+
+En-dashes are indicated with a double minus sign: =--=
+
+Example:
+
+#+BEGIN_EXAMPLE
+
+This is an en-dash -- note the space before and after it.
+
+#+END_EXAMPLE
+
+Note: When dashes are used as punctuation, we need to be consistent about their size and surrounding spacing. In English typography, there are three kinds of dashes, technically called: hyphens, en-dashes and em-dashes. In Guru's books (and usually in general modern typesetting) only the first two are used.
+
+We use the following syntax:
+
+hyphen: one keyboard minus sign (i.e., by typing =-=)
+en-dash: sequence of two keyboard minus signs (i.e., by typing =--=)
+
+The single minus -- called /hyphen/ -- appears within words.
+
+We use the double minus -- called /en-dash/ -- in number ranges and in clauses. Please always put a space either side of each en-dash.
+
+
+Examples follow.
+
+
+*** USE OF EN-DASH (clause)
+
+
+#+BEGIN_EXAMPLE
+
+Each time I arrive at my Destination,
+My Lord immediately whispers:
+"My child,
+This is not the final Goal --
+Your Goal is ahead."
+
+#+END_EXAMPLE
+
+
+*** USE OF HYPHEN (within words)
+
+
+#+BEGIN_EXAMPLE
+
+God loves
+Even a poverty-stricken
+Human being.
+
+#+END_EXAMPLE
+
+
+** FOOTNOTES[fn:: CITE KEY. Text here]
+
+Footnotes can be specified as: CITE KEY with no colon or dash, but with a space between letters and number.
+
+Dates and venues as endnotes should always be next to the heading. Example:
+
+* The Master surrenders[fn:: MSSR 1. January 11, 1974.]
+
+
+** FOOTNOTES INSIDE TEXT
+
+The best place for footnotes is by the title header. The only exception to this rule is when a footnote appears inside the text of a unit.
+
+* Unit headings
+
+Text of unit[:: Text of note] here. To be more precise, the paragraph can be specified.
+
+… After him come Mother Teresa, the present Pope[fn:: SCA 433,1. At the time of this answer, the present Pope was Pope John Paul II.] and …. That means: Note related to SCA 433, first paragraph
+
+or several paragraphs[fn:: SCA 27,3-7. Text here] Which means Chapter (or unit) SCA 27, paragraphs from 3 to 7. 
+
+ 
+
+** FOOTNOTES for several PAGES
+
+Example: a footnote to Part I, relating to unit EA:1 to EA:7
+
+* Part I[fn:: EA 1-7. Text here.] 
+
+The syntax of the footnote must have no preceding space. 
+
+Footnote relating to several pages
+
+* Part II[fn:: MHOF 2-5. These questions asked by U. and her family were answered by Sri Chinmoy during a visit to their jewellery factory in Talisay, Cebu, on 10 January 1993.]
+
+ :PROPERTIES:
+ :genre: section
+ :keywords:
+ :cite-key: 
+ :END:
+
+* Next page
+
+
+* FOOTNOTE FOR MULTIPLE PARAGRAPH ENDNOTES
+
+
+* Rizal Memorial Library and Museum —- A Sri Chinmoy Peace Museum, Cebu City[fn:PBPL-2]
+  :PROPERTIES:
+  :END:
+
+[fn:PBPL-2] PBPL 2. For two weeks during January 1993, the Rizal Memorial Library and Museum hosted an exhibition of Sri Chinmoy's artwork. The exhibition featured several hundred small drawings of "soul-birds", as well as a number of acrylic paintings.
+
+At the opening reception, held on 8 January, the Museum was dedicated as a Sri Chinmoy Peace Museum and Sri Chinmoy presented two of his paintings as a donation to the Museum's permanent collection.
+
+
+
+
+
+Text of Unit here as usual, but there must be at least 3 blank lines in between, above.
+
+
+** OLD STYLE OF FOOTNOTES (deprecated)
+
+This is a footnote[fn:1].
+     ...
+
+[fn:1] Footnote text goes here.
+
+
+** NEWLINES FOR LOOSE LINES
+
+Example:
+
+
+#+BEGIN_EXAMPLE
+
+Sri Chinmoy \\
+United Nations Headquarters \\
+21 May 1976
+
+#+END_EXAMPLE
+
+
+\\ stands for "newline", so that those individual lines will stick together without having a space in between, without using the VERSE syntax, which would be inappropriate in that case.
+
+It is used only in those special cases, where some lines are not really a paragraph, and do not belong to a poem.
+
+
+
+** INDENTATION
+
+To indent verse, use only spaces. The tab character is never used.
+
+Usually one indent block is four spaces. In some exceptional cases, only two spaces.
+
+It is impossible to be able to align words like we see in printed books, since that depends on the font used, so we must concentrate on the "semantic" meaning added by indent quantities.
+
+
+Example:
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_VERSE
+
+If you want God,
+    open your heart and run.
+If God wants you,
+    open your eyes,
+        close your ears and run.
+
+#+END_VERSE
+
+
+#+END_EXAMPLE
+
+
+
+** Other Notes
+
+
+
+*** Author goes inside Quotes
+
+
+#+BEGIN_EXAMPLE
+
+#+BEGIN_QUOTE
+
+Delight is not satisfaction of the mind, the vital and the body. It is something deeper, higher and purer. Delight needs no outer help for its existence. It is self-existent, self-revealing and self-fulfilling.
+
+-- Sri Chinmoy
+
+#+END_QUOTE
+
+#+END_EXAMPLE
+
+
+*** Parts should be spelt out or Roman numbers used to differentiate from chapters..
+
+e.g.  "Part one", Part II
+
+
+*** Dates, Venues
+
+
+#+BEGIN_EXAMPLE
+
+Halifax, Nova Scotia \\
+/16 March 1974/
+
+#+END_EXAMPLE
+
+Note by editors goes in brackets.
+
+[Note by editors goes in]
