@@ -1,0 +1,24 @@
+
+1. Keywords should always be singular and always lower case. Multiple keywords must be separated by a comma.
+
+Example:
+
+#+BEGIN_EXAMPLE
+  :KEYWORDS: master-disciple relationship, spiritual practice
+#+END_EXAMPLE
+
+
+** Editorial keywords (not referring to the Author's work)
+
+- [to be added]
+
+
+** Important: keywords as index
+
+One should not mistake keywords for the "tags" label used on some websites.
+
+In the domain of the Sri Chinmoy Archive, keywords serve as a rudimentary index (hopefully in the future there shall be a real index).
+
+Also, because of that, the proper wording of the keyword is /very/ important.
+
+Keywords must be selected only from the list above. If a needed keyword is not there, a proposal should be discussed and agreed upon.

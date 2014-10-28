@@ -1,0 +1,45 @@
+** Main genres
+
+- anecdote-autobiography
+- anecdote-other
+- aphorism
+- colloquy
+- commentary
+- discourse
+- epistle
+- experience
+- interview
+- introduction
+- joke
+- lecture
+- meeting
+- play
+- poem
+- poem-rhyming
+- prayer
+- qa
+- remark
+- song
+- song-bengali
+- song-bengali-with-translations
+- song-english
+- story
+- technique
+- tribute
+- utterance
+
+
+*** Notes
+
+1. A genre is always singular. Imagine it as the answer to the question, "Which genre does this Unit belong to?"
+2. There should be only one genre per Unit. If you feel the need for more, add keywords instead.
+
+
+** Editorial genres (not referring to the Author's work)
+
+- preface
+- note
+- section
+
+
+(possibly more to be included)
