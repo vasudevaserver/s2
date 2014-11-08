@@ -6,11 +6,6 @@
 
 ** Index
 
-  :PROPERTIES:
-  :genre:
-  :cite-key:
-  :END:
-
 
   :PROPERTIES:
   :book-number:
@@ -21,7 +16,7 @@
   :publisher: Boro Park Printers -- Brooklyn, N. Y
   :genre: discourse
   :keywords: qa
-  :cite-key: None:1
+  :cite-key: AUM-9
   :END:
 
 
@@ -30,7 +25,7 @@
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: None:2
+  :cite-key: AUM:225
   :END:
 
 
@@ -47,7 +42,7 @@ Man is Infinity's Heart.
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: None:3
+  :cite-key: AUM:226
   :END:
 
 
@@ -67,7 +62,7 @@ At the long journey's close.
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: None:4
+  :cite-key: AUM:227
   :END:
 
 
@@ -88,7 +83,7 @@ God's strength is His Grace.
   :PROPERTIES:
   :genre: discourse
   :keywords: india
-  :cite-key: None:5
+  :cite-key: AUM:228
   :END:
 
 
@@ -123,7 +118,7 @@ There is just a hyphen between the Vision of the Vedic seers and the soul of Ind
   :PROPERTIES:
   :genre: discourse
   :keywords: truth
-  :cite-key: None:6
+  :cite-key: AUM:229
   :END:
 
 
@@ -182,7 +177,7 @@ Truth expressed, beauty and love fulfilled.
   :PROPERTIES:
   :genre: discourse
   :keywords: hinduism
-  :cite-key: None:7
+  :cite-key: AUM:230
   :END:
 
 
@@ -267,7 +262,7 @@ The present-day world is in the throes of unity. Hinduism teaches that India's u
 
   :PROPERTIES:
   :genre: note
-  :cite-key: None:8e1
+  :cite-key: AUM:231e1
   :END:
 
 
@@ -299,7 +294,7 @@ Admission is free and all seekers are welcome. Please phone 633-8720 for informa
 
   :PROPERTIES:
   :genre: note
-  :cite-key: None:8e2
+  :cite-key: AUM:231e2
   :END:
 
 
