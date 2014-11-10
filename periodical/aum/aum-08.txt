@@ -23,7 +23,7 @@
 
 
 
-** To my Mahapurush[fn:: "Mahapurush" means a "Great Soul." Jyotish Chandra Chaudhury of the Sri Aurobindo Ashram, Pondicherry, India, breathed his last on March 10, 1966, at 9:20 a.m.]
+** To my Mahapurush[fn:: AUM 71. Mahapurush" means a "Great Soul." Jyotish Chandra Chaudhury of the Sri Aurobindo Ashram, Pondicherry, India, breathed his last on March 10, 1966, at 9:20 a.m.]
 
 
   :PROPERTIES:
@@ -142,7 +142,7 @@ Ambition is an attempt at self-expression and self-extension. When it is based o
 
 
 
-** IV.Character
+** IV. Character
 
   :PROPERTIES:
   :genre: aphorism
@@ -258,14 +258,20 @@ Purity is the immediate gift from the universal Treasure-House to God's hopeful 
 
 
 
-** Recital of Indian devotional songs[fn:: On Sunday, March 20, 1966, Chinmoy Kumar Ghose gave a recital of spiritual and devotional songs at the Indian Cultural Centre, 50 Central Park West, New York, N. Y. 10023. The songs were sung in Sanskrit and Bengali and they ranged from the Vedic era to modern times. The excerpts from the Indian scriptures were put to music by the singer himself. Sri Ghose explained briefly to the audience the spiritual or philosophical significance of each song. We give the Indian titles of the songs, the translation of the verses sung and the commentary given by Sri Ghose.]
-
-
-
-** 1. Invocation:[fn:: From the Rig-Veda: I. 189-1]
+** Recital of Indian devotional songs[fn:: AUM 79e1. On Sunday, March 20, 1966, Chinmoy Kumar Ghose gave a recital of spiritual and devotional songs at the Indian Cultural Centre, 50 Central Park West, New York, N. Y. 10023. The songs were sung in Sanskrit and Bengali and they ranged from the Vedic era to modern times. The excerpts from the Indian scriptures were put to music by the singer himself. Sri Ghose explained briefly to the audience the spiritual or philosophical significance of each song. We give the Indian titles of the songs, the translation of the verses sung and the commentary given by Sri Ghose.]
 
   :PROPERTIES:
-  :genre: aphorism
+  :genre: section
+  :keywords:
+  :cite-key: AUM:79e1
+  :END:
+
+
+
+** 1. Invocation:[fn:: AUM 79. From the Rig-Veda: I. 189-1]
+
+  :PROPERTIES:
+  :genre: commentary
   :keywords:
   :cite-key: AUM:79
   :END:
@@ -274,7 +280,7 @@ Purity is the immediate gift from the universal Treasure-House to God's hopeful 
 
 /Agne naya supatha raye asman . . ./
 
-Agni! Lead us by the aspicious path to Prosperity;
+Agni! Lead us by the auspicious path to Prosperity;
 Thou God who knowest all our deeds . . .
 
 #+END_QUOTE
@@ -288,7 +294,7 @@ The Vedas are four in number, each book containing several thousand hymns. The f
 ** 2.
 
   :PROPERTIES:
-  :genre: aphorism
+  :genre: commentary
   :keywords:
   :cite-key: AUM:80
   :END:
@@ -297,7 +303,7 @@ Now to come to the second song on the programme. The Upanishads are intuitive re
 
 {{{fleuron}}}
 
-Asato ma sad gamaya . . .[fn:: From the Brihad-aranyaka Upanishad: I. 3. 28]
+/Asato ma sad gamaya . . ./[fn:: AUM 80,2. From the Brihad-aranyaka Upanishad: I. 3. 28]
 
 #+BEGIN_VERSE
 
@@ -311,16 +317,16 @@ Lead us from Death to Immortality.
 ** 3.
 
   :PROPERTIES:
-  :genre:
+  :genre: commentary
   :keywords:
   :cite-key: AUM:81
   :END:
 
-The Gita is the Song Celestial, sung by Lord Krishna himself. The Gita is the essence of all Indian scriptures. There are eighteen soul-illumining discourses in the Gita. In the eleventh one, Lord Krishna reveals to his beloved disciple, Arjuna, his Visva-Rupa, his Universal Form. On seeing this overpowering sight, this Divine Form, the surrended disciple in Arjuna cries out:
+The Gita is the Song Celestial, sung by Lord Krishna himself. The Gita is the essence of all Indian scriptures. There are eighteen soul-illumining discourses in the Gita. In the eleventh one, Lord Krishna reveals to his beloved disciple, Arjuna, his Visva-Rupa, his Universal Form. On seeing this overpowering sight, this Divine Form, the surrendered disciple in Arjuna cries out:
 
 {{{fleuron}}}
 
-Tvamadi Deva Purusha Purana.
+/Tvamadi Deva Purusha Purana./
 
 #+BEGIN_VERSE
 
@@ -345,7 +351,7 @@ Again and again. Hail unto Thee.[fn:: From the Bhagavad-Gita: 11. 38-39]
 ** 4.
 
   :PROPERTIES:
-  :genre:
+  :genre: commentary
   :keywords:
   :cite-key: AUM:82
   :END:
@@ -358,7 +364,7 @@ Chandidas wrote this poem in the 16th century. He was a great Vaishnava poet, ch
 
 {{{fleuron}}}
 
-E ghora rajani meghera ghata . . .
+/E ghora rajani meghera ghata . . ./
 
 #+BEGIN_VERSE
 
@@ -390,11 +396,17 @@ He made a prophetic utterance about his own songs: "With the march of time, ever
 
 ** 5.
 
+  :PROPERTIES:
+  :genre: commentary
+  :keywords:
+  :cite-key: AUM:83
+  :END:
+
 In the song I shall now sing, Tagore compares the Pole Star, fixed and steady in the dark night, with the light of the mind and heart which illumines the unlit existence of human life:
 
 {{{fleuron}}}
 
-Nivid ghana andhare jwalichhe Dhruvatara . . .
+/Nivid ghana andhare jwalichhe Dhruvatara . . ./
 
 #+BEGIN_VERSE
 
@@ -408,13 +420,21 @@ Fulfil your life . . .
 
 #+END_VERSE
 
+
+
 ** 6.
+
+  :PROPERTIES:
+  :genre: commentary
+  :keywords:
+  :cite-key: AUM:84
+  :END:
 
 This is another song by Tagore.
 
 {{{fleuron}}}
 
-Amar hiyar lukiye . . .
+/Amar hiyar lukiye . . ./
 
 #+BEGIN_VERSE
 
@@ -434,11 +454,18 @@ But I did not see You, I did not.
 
 ** 7.
 
+  :PROPERTIES:
+  :genre: commentary
+  :keywords:
+  :cite-key: AUM:85
+  :END:
+
+
 The next is an inspirational song written by Kaji Najrul Islam in the early decades of this century. It tells of the famous battle of Kurukshetra in the Mahabharata, addressing Lord Krishna, the Charioteer, and invoking Him to infuse man with courage and strength.
 
 {{{fleuron}}}
 
-He Partha Sarathi, bajao, bajao Panchajanya . . .
+/He Partha Sarathi, bajao, bajao Panchajanya . . ./
 
 #+BEGIN_VERSE
 
@@ -460,11 +487,18 @@ Through Eternity flows the eternal tide of life . . .
 
 ** 8.
 
+  :PROPERTIES:
+  :genre: commentary
+  :keywords:
+  :cite-key: AUM:86
+  :END:
+
+
 I wrote the following song in India about fifteen years ago. It calls upon the soul to awaken and lead the entire being towards God-Realisation.
 
 {{{fleuron}}}
 
-Jago amar swapan sathi, jago amar praner pran . . .
+/Jago amar swapan sathi, jago amar praner pran . . ./
 
 #+BEGIN_VERSE
 
@@ -481,6 +515,13 @@ Even crossing the Beyond.
 
 ** 9. Bande Mataram . . .
 
+  :PROPERTIES:
+  :genre: discourse
+  :keywords:
+  :cite-key: AUM:87
+  :END:
+
+
 Mother, I bow to Thee . . .
 
 This was the original national anthem of India, and the source of profound inspiration in the long struggle for India's independence.
@@ -493,6 +534,13 @@ Many different tunes were put to this song over the years. The present one was c
 
 ** 10.
 
+  :PROPERTIES:
+  :genre: discourse
+  :keywords:
+  :cite-key: AUM:88
+  :END:
+
+
 Now we come to the last song, Phire chalo.
 
 By singing this song, a great singer of India, K. C. Dey, became immortal overnight. God had denied him sight; he was stone blind. But God sang through him in such soul-stirring grandeur as he sang this song for the famous film "Chandidasa" that his name became immortal in India.
@@ -502,7 +550,7 @@ In this song, Home is beckoning us. According to the Vedas, Home represents Heav
 
 {{{fleuron}}}
 
-Phire chalo, apana ghare
+/Phire chalo, apana ghare/
 
 #+BEGIN_VERSE
 
@@ -525,6 +573,13 @@ Is descending here on earth.
 
 
 ** AUM -- A monthly journal of spiritual philosophy and yoga[fn:: Editor's introduction from the first edition.]
+
+  :PROPERTIES:
+  :genre: note
+  :keywords:
+  :cite-key: AUM:89e1
+  :END:
+
 
 "AUM" is a sacred Sanskrit mystic syllable which prefaces all Hindu prayers.
 

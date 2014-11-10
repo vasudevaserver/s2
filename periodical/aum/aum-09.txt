@@ -25,7 +25,7 @@
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: AUM:83
+  :cite-key: AUM:89
   :END:
 
 
@@ -42,9 +42,11 @@ Man is Infinity's Heart.
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: AUM:84
+  :cite-key: AUM:90
   :END:
 
+
+#+BEGIN_VERSE
 
     What men call life
 I call ambition's fight
@@ -56,15 +58,19 @@ I call the soul's repose
     In God's secret Breath
 At the long journey's close.
 
+#+END_VERSE
+
 
 
 ** Man and God
 
   :PROPERTIES:
   :genre: poem
-  :cite-key: AUM:85
+  :cite-key: AUM:91
   :END:
 
+
+#+BEGIN_VERSE
 
 Man's Dream is God;
 God's Fulfilment, man.
@@ -76,6 +82,8 @@ God is man struggling.
 Man's strength is his ignorance;
 God's strength is His Grace.
 
+#+END_VERSE
+
 
 
 ** India: Her Consciousness and Light
@@ -83,7 +91,7 @@ God's strength is His Grace.
   :PROPERTIES:
   :genre: discourse
   :keywords: india
-  :cite-key: AUM:86
+  :cite-key: AUM:92
   :END:
 
 
@@ -118,7 +126,7 @@ There is just a hyphen between the Vision of the Vedic seers and the soul of Ind
   :PROPERTIES:
   :genre: discourse
   :keywords: truth
-  :cite-key: AUM:87
+  :cite-key: AUM:93
   :END:
 
 
@@ -177,7 +185,7 @@ Truth expressed, beauty and love fulfilled.
   :PROPERTIES:
   :genre: discourse
   :keywords: hinduism
-  :cite-key: AUM:88
+  :cite-key: AUM:94
   :END:
 
 
@@ -262,7 +270,7 @@ The present-day world is in the throes of unity. Hinduism teaches that India's u
 
   :PROPERTIES:
   :genre: note
-  :cite-key: AUM:89e1
+  :cite-key: AUM:95e1
   :END:
 
 
@@ -290,11 +298,11 @@ Admission is free and all seekers are welcome. Please phone 633-8720 for informa
 
 
 
-* AUM -- A monthly journal of spiritual philosophy and yoga[fn:: Editor's introduction from the first edition.]
+** AUM -- A monthly journal of spiritual philosophy and yoga[fn:: Editor's introduction from the first edition.]
 
   :PROPERTIES:
   :genre: note
-  :cite-key: AUM:89e2
+  :cite-key: AUM:95e2
   :END:
 
 
@@ -304,9 +312,6 @@ The first issue of the journal AUM (Vol.1, No.1)
 deals with its full spiritual significance.
 
 ©    Chinmoy Kumar Ghose 1966
-
-
-
 
 
 AUM is a monthly journal devoted exclusively to the spiritual writings of Chinmoy Kumar Ghose. It will deal with the spiritual life and its problems from the point of view of Indian philosophy and yoga.
