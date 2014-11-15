@@ -786,6 +786,8 @@ And deathless frustration.
   :END:
 
 
+#+BEGIN_VERSE
+
 "My child,
 Are you not tired
 Of your marathon-complaints?"
@@ -807,8 +809,7 @@ I can drive my complaint-train
 And give You
 A longer than the longest ride!
 
-
-
+#+END_VERSE
 
 
 #+SETUPFILE: ~/.org-templates/level-0.org
