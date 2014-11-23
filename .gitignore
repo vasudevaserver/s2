@@ -1,12 +1,10 @@
 *.pdf
-*.
 _data.csv
 Icon*
 /Icon
 *.docx
 *.rtf
 *.doc
-*.sh
 .DS_Store
 .dropbox
 Icon
