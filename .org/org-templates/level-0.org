@@ -10,6 +10,7 @@
 #+INFOJS_OPT: view:showall toc:t ftoc:t mouse:LightSkyBlue  http://orgmode.org/org-keys.js
 
 #+MACRO: fleuron @@latex:\fleuron@@ @@html:<center>* * *</center>@@
+#+MACRO: newline @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
 
 #+LATEX_CLASS: book
 #+LATEX_CLASS_OPTIONS: [a4paper,twoside,onecolumn]
