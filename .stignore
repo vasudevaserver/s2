@@ -1,4 +1,6 @@
 .git
+.gitignore
 .dropbox
 Icon.
-.gitignore
+.sync
+
