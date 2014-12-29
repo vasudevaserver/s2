@@ -22,9 +22,9 @@
 * The Sacred Fire
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
-  :cite-key: SCFR:1
+  :cite-key: SCFR:1e1
   :END:
 
 
@@ -34,7 +34,7 @@
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:2
+  :cite-key: SCFR:1
   :END:
 
 
@@ -108,12 +108,12 @@ John F. Kennedy
 
 
 
-* The Sacred Fire (act I, Scene 1)
+* The Sacred Fire (act I, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:3
+  :cite-key: SCFR:2
   :END:
 
 
@@ -161,12 +161,12 @@ John F. Kennedy
 
 
 
-* The Sacred Fire (act I, Scene 2)
+* The Sacred Fire (act I, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:4
+  :cite-key: SCFR:3
   :END:
 
 
@@ -210,17 +210,14 @@ John F. Kennedy
 
 /(World-soul sings:/
 
-/"There is no rhyme/
+#+BEGIN_VERSE
 
-/for my Lord save Love./
+There is no rhyme for my Lord save Love.
+There is no rhyme for my life save Power.
+I know, I know, yet dare I not
+Smash asunder my ignorance-Tower.
 
-/There is no rhyme/
-
-/for my life save Power./
-
-/I know, I know, yet dare I not/
-
-/Smash asunder my Ignorance-Tower.")/
+#+END_VERSE
 
 /Absolute:/ Marvellous, marvellous, marvellous! I am so proud of you. Once upon a time, when you were a little child, I used to teach you singing. Needless to say, Daughter, you have far surpassed your Father. But I am happy to accept defeat at the hands of My own daughter.
 
@@ -234,13 +231,14 @@ John F. Kennedy
 
 /(Soul of England sings:/
 
-/"Into the world of beauty's flame,/
+#+BEGIN_VERSE
 
-/Into the world of offering's game,/
+Into the world of beauty's flame,
+Into the world of offering's game,
+Into the world of lustre-flood,
+I came, I came, my existence came.
 
-/Into the world of lustre-flood,/
-
-/I came, I came, my existence came.")/
+#+END_VERSE
 
 /Absolute:/ Beautiful, marvellous, wonderful! You liar, why did you underestimate your singing ability? You are an excellent singer.
 
@@ -262,12 +260,12 @@ John F. Kennedy
 
 
 
-* The Sacred Fire (act Ii, Scene 1)
+* The Sacred Fire (act II, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:5
+  :cite-key: SCFR:4
   :END:
 
 
@@ -311,12 +309,12 @@ John F. Kennedy
 
 
 
-* The Sacred Fire (act Ii, Scene 2)
+* The Sacred Fire (act II, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:6
+  :cite-key: SCFR:5
   :END:
 
 
@@ -352,12 +350,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Ii, Scene 3)
+* The Sacred Fire (act II, scene III)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:7
+  :cite-key: SCFR:6
   :END:
 
 
@@ -453,12 +451,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Ii, Scene 4)
+* The Sacred Fire (act II, scene IV)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:8
+  :cite-key: SCFR:7
   :END:
 
 
@@ -482,26 +480,26 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(The Absolute sings:/
 
-/"O green-blue Sacred Fire,/
+#+BEGIN_VERSE
 
-/O sun Freedom-Light,/
+O green-blue sacred fire,
+O sun-freedom-light,
+O Heaven’s gold Delight,
+America, O my child of speed,
+My supreme promise-seed.
 
-/O Heaven's Goal Delight, America,/
-
-/O My child of speed,/
-
-/My supreme Promise-Seed.")/
+#+END_VERSE
 
 /John Adams (overwhelmed with joy):/ Lord, Your Blessing is Your Name. My gratitude is my name.
 
 
 
-* The Sacred Fire (act Ii, Scene 5)
+* The Sacred Fire (act II, scene V)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:9
+  :cite-key: SCFR:8
   :END:
 
 
@@ -553,17 +551,14 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(Thomas Jefferson sings:/
 
-/"O Star-Spangled Banner/
+#+BEGIN_VERSE
 
-/of the Hour Supreme,/
+O star spangled banner of the hour Supreme,
+You are God’s Sound-Delight.
+In you is God’s Silence-Might.
+For you is the world-Pilot’s Transcendence-Dream.
 
-/You are God's Sound-Delight./
-
-/In you is God's Silence-Might./
-
-/For you is the World Pilot's/
-
-/Transcendence-Dream."/
+#+END_VERSE
 
 /The Absolute, George Washington and John Adams offer thunderous applause.)/
 
@@ -571,13 +566,14 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(John Adams sings:/
 
-/"O high I flew to see God's Home/
+#+BEGIN_VERSE
 
-/And far I ran to see God's Eye/
+O high I flew to see God's Home
+And far I ran to see God's Eye
+And deep I dived to feel God's Love.
+Behold the wings of my victory-sky!
 
-/And deep I dived to feel God's Love./
-
-/Behold the wings of my victory-sky!"/
+#+END_VERSE
 
 /The Absolute, George Washington and Thomas Jefferson offer thunderous applause.)/
 
@@ -587,13 +583,14 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(George Washington sings:/
 
-/"My life began with duty's pride,/
+#+BEGIN_VERSE
 
-/My life shall live with beauty's light./
+My life began with duty's pride,
+My life shall live with beauty's light.
+My life shall sport with reality's soul,
+My life shall end with Divinity's height.
 
-/My life shall sport with reality's soul,/
-
-/My life shall end with Divinity's Height."/
+#+END_VERSE
 
 /The Absolute, John Adams and Thomas Jefferson offer thunderous applause.)/
 
@@ -601,12 +598,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iii, Scene 1)
+* The Sacred Fire (act III, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:10
+  :cite-key: SCFR:9
   :END:
 
 
@@ -624,12 +621,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iii, Scene 2)
+* The Sacred Fire (act III, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:11
+  :cite-key: SCFR:10
   :END:
 
 
@@ -639,12 +636,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iii, Scene 3)
+* The Sacred Fire (act III, Scene III)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:12
+  :cite-key: SCFR:11
   :END:
 
 
@@ -662,12 +659,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iv, Scene 1)
+* The Sacred Fire (act IV, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:13
+  :cite-key: SCFR:12
   :END:
 
 
@@ -695,12 +692,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iv, Scene 2)
+* The Sacred Fire (act IV, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:14
+  :cite-key: SCFR:13
   :END:
 
 
@@ -724,12 +721,12 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 
 
-* The Sacred Fire (act Iv, Scene 3)
+* The Sacred Fire (act IV, scene III)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:15
+  :cite-key: SCFR:14
   :END:
 
 
@@ -743,25 +740,18 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(The Soul of America sings:)/
 
-/"Philadelphia, Philadelphia, Philadelphia, Philadelphia./
+#+BEGIN_VERSE
 
-/O sweet city of brotherly love,/
+Philadelphia, Philadelphia, Philadelphia, Philadelphia.
+O sweet city of brotherly love.
+O God-perfection below, above.
+Philadelphia, Philadelphia, Philadelphia, Philadelphia.
+Your world-attention Liberty Bell
+Proclaimed the death of our bondage-hell.
+O freedom-lovers' utopia!
+Philadelphia, Philadelphia, Philadelphia, Philadelphia.
 
-/O God-perfection below, above./
-
-/Philadelphia, Philadelphia, Philadelphia,/
-
-/Philadelphia./
-
-/Your world-attention Liberty Bell/
-
-/Proclaimed the death of our bondage-hell./
-
-/O freedom-lovers' utopia!/
-
-/Philadelphia, Philadelphia, Philadelphia,/
-
-/Philadelphia."/
+#+END_VERSE
 
 /(Everybody applauds with tremendous joy.)/
 
@@ -787,13 +777,14 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /(The soul of America recites:/
 
-/"By the rude bridge that arched the flood,/
+#+BEGIN_VERSE
 
-/Their flag to April's breeze unfurled,/
+By the rude bridge that arched the flood,
+Their flag to April’s breeze unfurled,
+Here once the embattled farmers stood,
+And fired the shot heard round the world.
 
-/Here once the embattled farmers stood,/
-
-/And fired the shot heard round the world...")/
+#+END_VERSE
 
 /(Everybody applauds)/
 
@@ -815,19 +806,17 @@ Lawrence: George, I am sorry to ruin your sleep. I am sure you went to bed at ni
 
 /Soul of Emily Dickinson:/
 
-/"If I can stop one heart from breaking,/
+#+BEGIN_VERSE
 
-/I shall not live in vain;/
+If I can stop one heart from breaking,
+I shall not live in vain;
+If I can ease one life the aching,
+Or cool one pain,
+Or help one fainting robin
+Unto his nest again,
+I shall not live in vain.
 
-/If I can ease one life the aching,/
-
-/Or cool one pain,/
-
-/Or help one fainting robin/
-
-/Unto his nest again,/
-
-/I shall not live in vain."/
+#+END_VERSE
 
 /Soul of America:/ Marvellous, marvellous! Mary, you were the founder-leader of Christian Science. In mental healing you supremely excelled. Your divine, self-giving service gave birth to the First Church of Christ, Mother Church in Boston. Infinity and Eternity sing their Immortality's soul-song in your church, God-Abode. Now it is your turn.
 
@@ -845,12 +834,12 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act V, Scene 1)
+* The Sacred Fire (act V, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:16
+  :cite-key: SCFR:15
   :END:
 
 
@@ -860,12 +849,12 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act V, Scene 2)
+* The Sacred Fire (act V, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:17
+  :cite-key: SCFR:16
   :END:
 
 
@@ -887,12 +876,12 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act V, Scene 3)
+* The Sacred Fire (act V, scene III)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:18
+  :cite-key: SCFR:17
   :END:
 
 
@@ -922,18 +911,18 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act V, Scene 4)
+* The Sacred Fire (act V, scene 4)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:19
+  :cite-key: SCFR:18
   :END:
 
 
 /(The White House. Harry Truman is working in his office.)/
 
-/Harry Truman:/ Japan, I warned you. You paid no heed to my warning. You are planning to bother us more and more. We simply can't tolerate you any more. Your cruelties and atrocities will remain unparalleled in world-history. But tomorrow-not even one day more shall pass-I shall end this war. Your Hiroshima and Nagasaki will be totally destroyed by our world-shattering and world-destroying atom bomb, and you will then be compelled to surrender. We want peace. Once victory is won, we shall again work for peace. Be with us and work for world peace if you want to save your face from the infamy of a world war caused and declared by you.
+/Harry Truman:/ Japan, I warned you. You paid no heed to my warning. You are planning to bother us more and more. We simply can't tolerate you any more. Your cruelties and atrocities will remain unparalleled in world-history. But tomorrow -- not even one day more shall pass -- I shall end this war. Your Hiroshima and Nagasaki will be totally destroyed by our world-shattering and world-destroying atom bomb, and you will then be compelled to surrender. We want peace. Once victory is won, we shall again work for peace. Be with us and work for world peace if you want to save your face from the infamy of a world war caused and declared by you.
 
 
 
@@ -942,7 +931,7 @@ I am what you divinely and supremely have made me to be.
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:20
+  :cite-key: SCFR:19
   :END:
 
 
@@ -960,29 +949,29 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act Vi, Scene 1)
+* The Sacred Fire (act VI, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:21
+  :cite-key: SCFR:20
   :END:
 
 
 /(New Delhi, India. Dwight D. Eisenhower is on a goodwill tour all around Asia. At night he has a dream in which the soul of India appears.)/
 
-/Soul of India:/ President Eisenhower, you are great. You were a five-star general. You are great. You have won the world war. You are great, you are greater and you are greatest because you want peace. I am the soul of India. I want peace too, peace all over the world. India has many faults, but India's true love for peace nullifies all her shortcomings. My son Krishna wanted peace between the Pandavas and the Kauravas. But when he saw that peace was not going to take birth in a divine way, he agreed to settle the issue through war. He advised the Pandavas to fight for the right cause. On being attacked, your country had to fight in World War I and World War II to defend herself and thus establish and maintain the Kingdom of Truth and World Peace. Your country's vision and my country's vision run parallel. Although at times your America and my India are at odds, they basically love each other, for both have the self-same goal: a peaceful life. My son Gandhi cried and cried for peace. Almost all of your predecessors also cried for peace. The whole world is so proud of Washington, the Father of your nation. He wanted nothing but peace. From him, all of you have imbibed the message of peace. Eisenhower, you and your country want peace. My children and I want peace. Therefore, we are one. In your first inaugural address, your prayer to God was pure and sublime. You said, "Give us, we pray, the power to discern clearly right from wrong, and allow all our words and actions to be governed thereby, and by the laws of this land. Especially we pray that our concern shall be for all the people regardless of station, race, or calling." In your second inaugural address, you said something divine and supreme. You said, "This is our home, yet this is not the whole of our world. For our world is where our full destiny lies-with men, of all peoples and all nations, who are or would be free. And so the prayer of our people carries far beyond our own frontiers, to the wide world of our duty and our destiny. May the light of freedom, coming to all darkened lands, flame brightly-until at last the darkness is no more."
+/Soul of India:/ President Eisenhower, you are great. You were a five-star general. You are great. You have won the world war. You are great, you are greater and you are greatest because you want peace. I am the soul of India. I want peace too, peace all over the world. India has many faults, but India's true love for peace nullifies all her shortcomings. My son Krishna wanted peace between the Pandavas and the Kauravas. But when he saw that peace was not going to take birth in a divine way, he agreed to settle the issue through war. He advised the Pandavas to fight for the right cause. On being attacked, your country had to fight in World War I and World War II to defend herself and thus establish and maintain the Kingdom of Truth and World Peace. Your country's vision and my country's vision run parallel. Although at times your America and my India are at odds, they basically love each other, for both have the self-same goal: a peaceful life. My son Gandhi cried and cried for peace. Almost all of your predecessors also cried for peace. The whole world is so proud of Washington, the Father of your nation. He wanted nothing but peace. From him, all of you have imbibed the message of peace. Eisenhower, you and your country want peace. My children and I want peace. Therefore, we are one. In your first inaugural address, your prayer to God was pure and sublime. You said, "Give us, we pray, the power to discern clearly right from wrong, and allow all our words and actions to be governed thereby, and by the laws of this land. Especially we pray that our concern shall be for all the people regardless of station, race, or calling." In your second inaugural address, you said something divine and supreme. You said, "This is our home, yet this is not the whole of our world. For our world is where our full destiny lies -- with men, of all peoples and all nations, who are or would be free. And so the prayer of our people carries far beyond our own frontiers, to the wide world of our duty and our destiny. May the light of freedom, coming to all darkened lands, flame brightly -- until at last the darkness is no more."
 
 /Dwight D. Eisenhower:/ O Soul of Mother India, you have an astonishing memory. I fully agree with you about India and America. I feel that India has the God ordained vision and America has the God-ordained mission. Both vision and mission must be united to give birth to humanity's perfection in life. You are so right. You are so right. /(Eisenhower sings "O Sweet Liberty".)/
 
 
 
-* The Sacred Fire (act Vi, Scene 2)
+* The Sacred Fire (act VI, scene II)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:22
+  :cite-key: SCFR:21
   :END:
 
 
@@ -992,12 +981,12 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act Vi, Scene 3)
+* The Sacred Fire (act VI, Scene III)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:23
+  :cite-key: SCFR:22
   :END:
 
 
@@ -1007,12 +996,12 @@ I am what you divinely and supremely have made me to be.
 
 
 
-* The Sacred Fire (act Vii, Scene 1)
+* The Sacred Fire (act VII, scene I)
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: SCFR:24
+  :cite-key: SCFR:23
   :END:
 
 
@@ -1030,35 +1019,27 @@ I am what you divinely and supremely have made me to be.
 
 /(The souls of England and America sing:/
 
-/"There was a time when I stumbled/
+#+BEGIN_VERSE
 
-/and stumbled./
+There was a time when I stumbled and stumbled,
+But now I only climb and climb beyond
+And far beyond my Goal's endless Beyond,
+And yet my Captain commands: "Go on, go on!"
 
-/But now I only climb and climb beyond/
-
-/And far beyond my Goal's endless Beyond./
-
-/And yet my Captain commands:/
-
-/'Go on, go on!'"/
+#+END_VERSE
 
 /And then they sing:/
 
-/"America, America, America,/
+#+BEGIN_VERSE
 
-/Great you are, good you are,/
+America, America, America!
+Great you are, good you are,
+Brave you are, kind you are.
+O my America, America.
+Your Heaven-freedom is earth’s aspiration-choice.
+With you, in you, is God-Hour’s Victory-Voice.
 
-/Brave you are, kind you are./
-
-/O my America, America,/
-
-/Your Heaven-freedom/
-
-/Is earth's aspiration-choice./
-
-/With you, in you/
-
-/Is God-Hour's Victory-voice.")/
+#+END_VERSE
 
 
 
