@@ -35,8 +35,3 @@ The whole bibliography is added below, automatically.
 ```
 #+BIBLIOGRAPHY: bibliography plain option:-d option:-nokeywords limit:t
 ```
-
-
-# Local Variables:
-# mode: org
-# End:
