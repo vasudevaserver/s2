@@ -1440,7 +1440,6 @@ This volume contains monthly messages as well as some other special messages tha
 
 
 
-#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

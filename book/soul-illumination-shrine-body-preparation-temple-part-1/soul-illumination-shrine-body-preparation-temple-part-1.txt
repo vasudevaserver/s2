@@ -968,7 +968,6 @@ Always it is good to start with a light weight. It gives tremendous joy and conf
 
 
 
-#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

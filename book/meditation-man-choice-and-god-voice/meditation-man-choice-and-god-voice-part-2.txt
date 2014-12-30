@@ -447,7 +447,6 @@ You do something and you get the fruit, either bitter or sweet. Now even when yo
 
 
 
-#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

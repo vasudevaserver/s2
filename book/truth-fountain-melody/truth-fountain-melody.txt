@@ -665,7 +665,6 @@ You should write these things down so that if they don’t come to your mind whe
 
 
 
-#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

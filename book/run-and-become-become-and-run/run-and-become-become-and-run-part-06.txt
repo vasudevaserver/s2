@@ -965,7 +965,6 @@ When we run, at that time we forget everything. I will say I don't need water. T
 
 
 
-#+SETUPFILE: ~/.org/org-templates/level-0.org
 
 # Local Variables:
 # mode: org

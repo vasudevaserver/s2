@@ -812,7 +812,6 @@ A longer than the longest ride!
 #+END_VERSE
 
 
-#+SETUPFILE: ~/.org-templates/level-0.org
 
 # Local Variables:
 # mode: org
