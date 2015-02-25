@@ -1,12 +1,10 @@
 # regular files
-.gitignore
 .DS_Store
 .dropbox
 .stfolder
 Icon
 
 # dirs
-.git/
 .sync/
 
 
