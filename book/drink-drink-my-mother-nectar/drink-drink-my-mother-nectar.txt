@@ -1,4 +1,4 @@
-* Drink, Drink My Mother's Nectar
+* Drink, drink my Mother's Nectar
 
   :PROPERTIES:
   :language: en
@@ -17,7 +17,7 @@
 * There is no God
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:1
   :END:
@@ -27,7 +27,7 @@
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:2e1
   :END:
@@ -38,16 +38,6 @@ NAREN
 BHAVANANDA
 
 BHUPEN, YOUNGER BROTHER OF NAREN
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:2
-  :END:
 
 
 
