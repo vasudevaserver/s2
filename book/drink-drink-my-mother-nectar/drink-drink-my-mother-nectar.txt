@@ -72,13 +72,13 @@ NAREN: Please, Bhupen, do not bother me. We are having a very serious conversati
 
 BHUPEN: I will go away, but first you have to promise to bring candy for me. You have to bring candy without fail.
 
-/(Exit Bhupen)/
+/(Exit Bhupen.)/
 
 NAREN: So, brother, you see? I am his elder brother, and I will not be able to fulfil his loving demand. I have no money at all, not even enough to buy a piece of candy for him. He who cannot fulfil such a simple desire of a younger brother is not worthy of being called an elder brother. His life is a real disgrace. So why should I care for God? No! We Hindus worship stone gods, so our God has become stone-hearted.
 
 BHAVANANDA: Don’t say so, Naren. God is all Compassion. I see that what I have been hearing from people is true: you have become an atheist.
 
-/(Exit Bhavananda)/
+/(Exit Bhavananda.)/
 
 NAREN: A real friend, indeed! He came here to test me. He came here not to show his concern, but to know what kind of life I am leading. He came not as a friend, but as a critic, as a rogue, as a detective. No, I shall not go to Thakur any more. /(Pauses.)/ But alas, what am I doing? What am I doing? Is not God-realisation the sole object of my life? To earn money, to feed a family, can never be the aim of my life. I must renounce the world. There is no other way. I must renounce the world and search for God. There can be no other way.
 
@@ -100,11 +100,11 @@ NAREN: A real friend, indeed! He came here to test me. He came here not to show 
 You cast Your benign Eyes upon me.
 Take me and make me Your very own,
 offering Your Compassion.
-I am Your innocent child. Alone do I walk
-on a thick, dense path.
+I am Your innocent child. 
+Alone do I walk on a thick, dense path.
 With Your two Arms, embrace me.
-Allow me not to be drowned and washed
-away by the turbulent currents of life.]
+Allow me not to be drowned and washed away
+by the turbulent currents of life.]
 
 #+END_VERSE
 
@@ -112,7 +112,7 @@ away by the turbulent currents of life.]
 * My Naren can never be an atheist
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:4
   :END:
@@ -122,7 +122,7 @@ away by the turbulent currents of life.]
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:5e1
   :END:
@@ -141,16 +141,6 @@ JOGIN
 OTHER DISCIPLES
 
 NAREN
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:5
-  :END:
 
 
 
@@ -200,7 +190,7 @@ SRI RAMAKRISHNA: My child, don’t say that. She is not stone-hearted. She is al
 * Mother, give me the Light of Knowledge, the Light of Discrimination and the Light of Renunciation
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:7
   :END:
@@ -210,7 +200,7 @@ SRI RAMAKRISHNA: My child, don’t say that. She is not stone-hearted. She is al
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:8e1
   :END:
@@ -221,16 +211,6 @@ NAREN /(VIVEKANANDA)/
 SRI RAMAKRISHNA
 
 DISCIPLES OF SRI RAMAKRISHNA
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:8
-  :END:
 
 
 
@@ -265,7 +245,7 @@ NAREN: No, I won’t take any more chances. I do not need material wealth. I wan
 
 SRI RAMAKRISHNA: Since you cannot ask the Mother for material wealth and prosperity, then I wish to say that you will never have a comfortable life. But from now on you will he able to manage. You and your family will not starve. You will be able to live at least from hand to mouth. Mother will do that much for you. /(He shouts)/ Come, all those who are here! No matter where you are! Come! All my disciples, come!
 
-/(Enter disciples)/
+/(Enter disciples.)/
 
 SRI RAMAKRISHNA: You people have told me that my Naren has become an atheist. Look! He could not ask for material wealth from my Mother. Do you know that he starves? His mother and his sisters and brothers have no food at home. Yet he could not ask Mother Kali for material wealth. Nowhere on earth will you find anyone who can equal my Naren. He is your leader. He will lead and guide you. He will preserve you. This body of mine is completing its role. Soon I will belong to the other world. /(To Vivekananda.)/ Naren, my child, sing a song. I shall meditate while you sing.
 
@@ -306,7 +286,7 @@ To see Thy Face.]
 * Ask him if he serves me or controls me
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:10
   :END:
@@ -316,7 +296,7 @@ To see Thy Face.]
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:11e1
   :END:
@@ -326,19 +306,9 @@ VIDYASAGAR, A SCHOLAR AND SAGE
 
 VAISHNAB CHARAN PUNDIT, A FRIEND OF VIDYASAGAR
 
-HRIDAY, NEPHEW AND ATTENDANT  OF SRI RAMAKRISHNA
+HRIDAY, NEPHEW AND ATTENDANT OF SRI RAMAKRISHNA
 
 SRI RAMAKRISHNA
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:11
-  :END:
 
 
 
@@ -367,7 +337,7 @@ VIDYASAGAR: Don’t curse me, brother, don’t curse me. Already things have sta
 
 PUNDIT: Ungratefulness is the order of the day. Bengalis have become an object of pity just because they have become totally ungrateful. The other day we had a special meeting of Pundits, and at that meeting the Pundit Panchanan said that you have ruined the Hindu religion. He said that with the help of a number of Hindu youths you are destroying the whole country. He said that there is nothing divine in your activities, no true feeling or self-sacrifice in your selfless service for Bengal. He feels it is all for name and fame. I am so sorry to tell you this. You have no idea how I suffered, and how I have been suffering for the past few days, since I heard Panchanan, of all people, speaking against you.
 
-VIDYASAGAR: There is nothing to feel sorry about. Everything is God’s game. I do nothing, my friend. It is God who works in and through me. I am just an instrument: /Nimmita matram/. But I feel that you have made a mistake. I feel that you have heard something wrong. /(Pauses.)/ I have never done any service for that Pundit. How is it that he speaks ill of me? I have come to the conclusion that only those whom I have helped in some way will criticize me. Those whom I have not helped in any way will never criticize me. And I clearly remember that I have not helped Panchanan in any way. I am sure he was speaking of somebody else.
+VIDYASAGAR: There is nothing to feel sorry about. Everything is God’s game. I do nothing, my friend. It is God who works in and through me. I am just an instrument: /Nimitta matram/. But I feel that you have made a mistake. I feel that you have heard something wrong. /(Pauses.)/ I have never done any service for that Pundit. How is it that he speaks ill of me? I have come to the conclusion that only those whom I have helped in some way will criticise me. Those whom I have not helped in any way will never criticise me. And I clearly remember that I have not helped Panchanan in any way. I am sure he was speaking of somebody else.
 
 /(Enter Hriday.)/
 
@@ -389,7 +359,7 @@ SRI RAMAKRISHNA: Vidyasagar, you are doing well. It is good to show love and com
 
 VIDYASAGAR: Today any home has been sanctified by your feet. Today my home becomes a place of pilgrimage.
 
-PUNDIT /(to Vidyasagar)/: He is all divine Love. His madness is the intoxication of divine Love. Like Sri Chaitanya, he enters into the great /Samadhi/, the transcendental trance.
+PUNDIT /(to Vidyasagar)/: He is all divine Love. His madness is the intoxication of divine Love. Like Sri Chaitanya, he enters into the great /samadhi/, the transcendental trance.
 
 VIDYASAGAR: Yes, I know it. I can see it. I can feel it. /(To Ramakrishna.)/ This boy, does he serve you? /(Indicating Hriday.)/
 
@@ -403,7 +373,7 @@ SRI RAMAKRISHNA: Oh, don’t go, don’t go, Hriday. Don’t leave me alone. /(T
 
 PUNDIT: He is really a great spiritual Master. I have heard much about him, and I inwardly feel what he is.
 
-VIDYASAGAR: I also feel what he is. He is really great. He is not only the pride of Bengal and India, but the pride of the entire world. /(Pauses.)/ Work, work, work! Alas, my days are numbered. Yet I have not been able to serve God devotedly and soulfully. I am unable to think of my Inner Pilot because I am constantly thinking of other people and helping others. And people don’t even speak well of me. They don’t even appreciate me. If I do not bring my inner Pilot into my life, my service to mankind will be of no use.
+VIDYASAGAR: I also feel what he is. He is really great. He is not only the pride of Bengal and India, but the pride of the entire world. /(Pauses.)/ Work, work, work! Alas, my days are numbered. Yet I have not been able to serve God devotedly and soulfully. I am unable to think of my Inner Pilot because I am constantly thinking of other people and helping others. And people don’t even speak well of me. They don’t even appreciate me. If I do not bring my Inner Pilot into my life, my service to mankind will be of no use.
 
 PUNDIT: Vidyasagar, you are really great. Your sincerity has touched the very depth of my heart. You are playing your role most devotedly, most soulfully. The creator in you is truly great, but unfortunately the critic in you is creating problems. Do not be the critic, but be the lover of humanity. You are the creator, creating love in mankind. Perfection you want, and perfection God will give you. It is the constant dedicated service you are doing for Him and for humanity that will give you perfection. You act. In your action self-perfection will dawn. Self-criticism will never give you perfection. Vidyasagar, I am advising you, but it is you who should advise me every second of my life.
 
@@ -416,7 +386,7 @@ PUNDIT: Vidyasagar, a man like you is very rare. Bengal is blessed because she c
 * The synthesis of all religions
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:13
   :END:
@@ -426,7 +396,7 @@ PUNDIT: Vidyasagar, a man like you is very rare. Bengal is blessed because she c
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:14e1
   :END:
@@ -434,21 +404,9 @@ PUNDIT: Vidyasagar, a man like you is very rare. Bengal is blessed because she c
 
 SRI RAMAKRISHNA /(THAKUR)/
 
-HRIDAY, NEPHEW AND PERSONAL
+HRIDAY, NEPHEW AND PERSONAL ATTENDANT OF THAKUR
 
-ATTENDANT OF THAKUR
-
-NAREN, RAKHAL, BABURAM, TARUP DISCIPLES OF THAKUR
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:14
-  :END:
+NAREN, RAKHAL, BABURAM, TARUP, DISCIPLES OF THAKUR
 
 
 
@@ -467,7 +425,7 @@ HRIDAY: Uncle, let us go home. It is cold, and the wind is blowing very hard. I 
 
 THAKUR: You go. I am coming.
 
-/(Exit Hriday)/
+/(Exit Hriday.)/
 
 /(Thakur meditates. Re-enter Hriday.)/
 
@@ -477,7 +435,7 @@ THAKUR: What can I do? My Mother has called me here. The moment she asks me to g
 
 HRIDAY: I am going, but don’t be late.
 
-/(Exit Hriday)/
+/(Exit Hriday.)/
 
 THAKUR /(to himself)/: The synthesis of all religions, the union of East and West, self-dedication, self-sacrifice: these are all big, big words, big theories, big ideas, big ideals. But where are they, Mother? Mother, you are talking to me about all these things. These are such high ideals. But where are your dedicated soldiers? Mother, you never tell me lies. Where are they? Where are your chosen children? O chosen children of my Mother Kali, my heart is crying for you. Come. Come. Do Mother’s work. You have to fulfil the Mother. You have to manifest the Mother on earth.
 
@@ -491,7 +449,7 @@ THAKUR: You are right. But what can I do? I can’t keep my mind away from you. 
 
 NAREN: If that is true, then why have you ignored me for such a long time? I have come to you and you have avoided me, ignored me mercilessly. You have shown me such contempt the past few times.
 
-THAKUR: Mother, Mother, listen to this fellow! /(To Naren.)/ Can I avoid you? Can I ignore you? Can I show contempt to you? Impossible! You do not know; you cannot fathom my inner workings Naren, tell me one thing. Granted, I have not been nice to you. I have been very unkind, very rude to you. So why do you keep coming to me?
+THAKUR: Mother, Mother, listen to this fellow! /(To Naren.)/ Can I avoid you? Can I ignore you? Can I show contempt to you? Impossible! You do not know; you cannot fathom my inner workings. Naren, tell me one thing. Granted, I have not been nice to you. I have been very unkind, very rude to you. So why do you keep coming to me?
 
 NAREN: I come here to listen to you. I adore you. I worship you. I want to see you, Thakur, even if you are unkind to me. I love your presence. I love your meditative mood. I love your trance. I love everything you do because I love you.
 
@@ -511,7 +469,7 @@ THAKUR: Excellent, excellent. Oh, my Naren, who else is like you? Who is free fr
 
 /(Enter Rakhal, Baburam and Tarup. They bow to Thakur.)/
 
-THAKUR: One has to be a hundred percent devoted to God like Naren. Only then can one realise God.
+THAKUR: One has to be a hundred per cent devoted to God like Naren. Only then can one realise God.
 
 RAKHAL: I know that. His sincerity has impressed me greatly. My brother is all love for you, all love for God. May I ask you a question today?
 
@@ -531,7 +489,7 @@ THAKUR: Love mankind and serve mankind as devotedly as possible. Then automatica
 
 NAREN: If ever God gives me the opportunity and capacity, I shall preach before the whole world. I shall speak to the whole world, the rich and the poor, the /Brahmins/ and the /Chandalas/ will hear your message from me. I wish to offer your message to the entire world. Please bless me so that my desire will be fulfilled.
 
-THAKUR: My blessing is already there. It is for you, for all of you. It has been raining down on you for the last few years. The Mother is playing her own game in and trough you all. You are all just instruments of the Mother.
+THAKUR: My blessing is already there. It is for you, for all of you. It has been raining down on you for the last few years. The Mother is playing her own game in and through you all. You are all just instruments of the Mother.
 
 /(Enter Hriday.)/
 
@@ -554,24 +512,24 @@ THAKUR: Oh, I had forgotten. Hriday, forgive me, forgive me. Come, come, all of 
 /Jago amar sei chetana/
 /Bishwatite shesh ja noy/
 /Jago, jago, jago/
-/Jago amar dhyani-swarup/
+/Jago amar dhyani swarup/
 /Jago amar baddhwa jib/
 /Sarba jiber tandra tuti/
 /Jago amar mukta shib/
 /Jago, jago, jago/
 
-[Arise, awake, O friend of my dream.
-Arise, awake, O breath of my life.
-Arise, awake, O light of my eyes.
-O seer-poet in me,
-Do manifest yourself in me and through me.
+[Arise, awake, O Friend of my dream.
+Arise, awake, O Breath of my life.
+Arise, awake, O Light of my eyes.
+O Seer-Poet in me,
+Do manifest Yourself in me and through me.
 
 Arise, awake, O vast heart within me.
 Arise, awake, O consciousness of mine,
 Which is always transcending the universe
 And its own life of the Beyond.
 
-Arise, awake, O form of my meditation transcendental.
+Arise, awake, O Form of my meditation transcendental.
 Arise, awake, O bound divinity in humanity.
 Arise, awake, O my heart's Liberator, Shiva,
 And free mankind from its ignorance-sleep.]
@@ -582,7 +540,7 @@ And free mankind from its ignorance-sleep.]
 * Drink, drink my Mother’s nectar
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:16
   :END:
@@ -592,7 +550,7 @@ And free mankind from its ignorance-sleep.]
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:17e1
   :END:
@@ -605,16 +563,6 @@ DISCIPLES
 CAPTAIN, A DISCIPLE
 
 A DEVOTEE
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:17
-  :END:
 
 
 
@@ -641,20 +589,20 @@ A DEVOTEE: Thakur, our greatest novelist, Bankim Chandra, recently wrote an exce
 
 RAMAKRISHNA: I see. Do you know that Bankim does not believe in Radha? He believes only in Krishna.
 
-CAPTAIN: That means he does not believe in Krishna’s divine /Lila./
+CAPTAIN: That means he does not believe in Krishna’s divine /lila./
 
 RAMAKRISHNA: But Bankim also says that sex life is necessary.
 
-CAPTAIN: It is very strange that on the one hand he thinks and feels that sex life is necessary, while on the other hand he does not believe in the divine /Lila/, the divine game. I see in him nothing but contradictions.
+CAPTAIN: It is very strange that on the one hand he thinks and feels that sex life is necessary, while on the other hand he does not believe in the divine /lila/, the divine game. I see in him nothing but contradictions.
 
-RAMAKRISHNA: You call it contradiction and I call it lack of realisation. Mere book learning and God-realisation are never, never the same thing. For God-realisation you have to pray, you have to meditate. You have to cry like a child. A child cries for his mother and he gets her. If you cry for the Divine Mother’s Nectar, you will get it without. Drink, drink my Mother Kali’s Nectar as much as you want to. Be immortal, my sweet children.
+RAMAKRISHNA: You call it contradiction and I call it lack of realisation. Mere book learning and God-realisation are never, never the same thing. For God-realisation you have to pray, you have to meditate. You have to cry like a child. A child cries for his mother and he gets her. If you cry for the Divine Mother’s Nectar, you will get it without fail. Drink, drink my Mother Kali’s Nectar as much as you want to. Be immortal, my sweet children.
 
 
 
 * This body will not last very long
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:19
   :END:
@@ -664,7 +612,7 @@ RAMAKRISHNA: You call it contradiction and I call it lack of realisation. Mere b
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:20e1
   :END:
@@ -677,16 +625,6 @@ RAKHAL
 NAREN
 
 OTHER SELECTED DISCIPLES
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:20
-  :END:
 
 
 
@@ -719,7 +657,7 @@ NAREN: When I talk of renunciation some people get terribly annoyed with me.
 
 RAMAKRISHNA: Naren, don’t be afraid of them. Say what you must say. It is through renunciation that you can and you will realise God. /(Caresses Naren.)/ Much.
 
-NAREN /(with a smile)/: What do you mean by “much"'?
+NAREN /(with a smile)/: What do you mean by “much"?
 
 RAMAKRISHNA: Much renunciation has been accomplished by you. Naren, I have told you many times that you have come into the world for me.
 
@@ -746,7 +684,7 @@ NAREN: Thakur, in your heart I am fulfilled. At your feet I am perfect. /(Prostr
 * Sri Ramakrishna’s passing
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:22
   :END:
@@ -756,7 +694,7 @@ NAREN: Thakur, in your heart I am fulfilled. At your feet I am perfect. /(Prostr
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:23e1
   :END:
@@ -775,16 +713,6 @@ THIRD DISCIPLE
 OTHER DISCIPLES
 
 NAREN
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:23
-  :END:
 
 
 
@@ -837,7 +765,7 @@ SARADA DEVI: Now that my Kali -- Ramakrishna -- is about to pass behind the curt
 
 RAMAKRISHNA: Why do you weep so bitterly? I leave your Naren with you.
 
-SARADA DEVI: Yes, my Divine Lord, it is true. You are the seed sown in the world-soil, and our Naren is the bumper crop which humanity shall reap. Thakur is the Inspiration, his Naren is its Expression. So humanity will have both inspiration and Expression as its peerless possessions. /(She bows down to Ramakrishna.)/ Glory to you, O Thakur. In you we find a triumphant living example of the truths that you preach. To you we offer our deepest homage. Our hearts feel that what you possess is the infinite, and that the infinite is your heart’s Eternal Home.
+SARADA DEVI: Yes, my Divine Lord, it is true. You are the seed sown in the world-soil, and our Naren is the bumper crop which humanity shall reap. Thakur is the Inspiration, his Naren is its Expression. So humanity will have both Inspiration and Expression as its peerless possessions. /(She bows down to Ramakrishna.)/ Glory to you, O Thakur. In you we find a triumphant living example of the truths that you preach. To you we offer our deepest homage. Our hearts feel that what you possess is the Infinite, and that the Infinite is your heart’s Eternal Home.
 
 /(Sri Ramakrishna leaves the body.)/
 
@@ -846,7 +774,7 @@ SARADA DEVI: Yes, my Divine Lord, it is true. You are the seed sown in the world
 * Vivekananda waits for the inner message
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:25
   :END:
@@ -856,7 +784,7 @@ SARADA DEVI: Yes, my Divine Lord, it is true. You are the seed sown in the world
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:26e1
   :END:
@@ -865,16 +793,6 @@ SARADA DEVI: Yes, my Divine Lord, it is true. You are the seed sown in the world
 VIVEKANANDA
 
 A PEON
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:26
-  :END:
 
 
 
@@ -928,16 +846,16 @@ VIVEKANANDA: For the past week I have waited and waited for some concrete sign f
 
 #+BEGIN_VERSE
 
-/Ore mar kheya ore mor neye/
+/Ore mor kheya ore mor neye/
 /Ore ananda bani/
-/Niye jao mar trishita kshudhita/
+/Niye jao mor trishita kshudhita/
 /Supta chitta khani/
 
-[O my boat, O my Boatman, O Message of
-Transcendental Delight,
+[O my boat, O my Boatman, 
+O Message of Transcendental Delight,
 Carry me. My heart is thirsty and hungry,
 And it is fast asleep at the same time.
-Carry my heart to the other shore. ]
+Carry my heart to the other shore.]
 
 #+END_VERSE
 
@@ -957,7 +875,7 @@ VIVEKANANDA: Ah! From my divine Mother! /(Reads the letter.)/ I have received wh
 * Naren, you are Thakur’s promise
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:30
   :END:
@@ -967,7 +885,7 @@ VIVEKANANDA: Ah! From my divine Mother! /(Reads the letter.)/ I have received wh
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:31e1
   :END:
@@ -978,16 +896,6 @@ NAREN
 RAKHAL
 
 A FEW BROTHER DISCIPLES
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:31
-  :END:
 
 
 
@@ -1014,12 +922,14 @@ A FEW BROTHER DISCIPLES
 /Hiya tarir majhi tomai bhalobese/
 
 [From country to country we roam,
-carrying the flame of Love Divine,
-smiling and smiling.
-The secret thought of each country and the
-yearning of each life here become one.
-On the road of infinity, in the embrace of
-the covenant of the Light Supreme,
+Carrying the flame of Love Divine,
+Smiling and smiling.
+The secret thought of each country 
+    and the yearning of each life 
+Here become one.
+On the road of Infinity, 
+In the embrace of the covenant
+    of the Light Supreme,
 O Boatman of our Heart-Boat,
 By loving You, we do all this.]
 
@@ -1045,7 +955,7 @@ RAKHAL: In you is Thakur’s pride and fulfilment. You are Thakur’s promise.
 * Naren, you are my joy; you are my pride
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:33
   :END:
@@ -1055,7 +965,7 @@ RAKHAL: In you is Thakur’s pride and fulfilment. You are Thakur’s promise.
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:34e1
   :END:
@@ -1068,16 +978,6 @@ FIRST DISCIPLE
 A FEW OTHER CLOSE DISCIPLES
 
 NAREN
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: DDMM:34
-  :END:
 
 
 
@@ -1134,7 +1034,7 @@ my Moon of Light-Delight.]
 * Two mothers and a son
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: DDMM:36
   :END:
@@ -1144,7 +1044,7 @@ my Moon of Light-Delight.]
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: DDMM:37e1
   :END:
@@ -1157,16 +1057,6 @@ VIVEKANANDA
 BHUVANESHWARI, PHYSICAL MOTHER OF VIVEKANANDA
 
 A FRIEND OF BHUVANESHWARI
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: section
-  :keywords:
-  :cite-key: DDMM:37e2
-  :END:
 
 
 
@@ -1189,7 +1079,7 @@ SARADA DEVI: Naren, sweeter than the sweetest is the smile of our physical mothe
 
 VIVEKANANDA: Mother, my dearest spiritual Mother, Mother of my soul and eternal Life, however great the earthly mother may be, her love is no match for the disinterested love of the spiritual Mother. It is absolutely necessary to feel that our spiritual Mother is our real Mother and that we are her real children and divine warriors.
 
-/(Enter Bhuvaneshwari and on of her friends. They stroll toward Vivekananda and Sarada Devi, but do not notice them.)/
+/(Enter Bhuvaneshwari and one of her friends. They stroll towards Vivekananda and Sarada Devi, but do not notice them.)/
 
 BHUVANESHWARI: I am glad you have come with me to Belur Math to see my son Naren’s work, his great accomplishments.
 
