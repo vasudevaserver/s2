@@ -16,7 +16,14 @@
 
 * Inherited
 
-INHERITED
+  :PROPERTIES:
+  :genre: poem
+  :keywords:
+  :cite-key: MBC:1
+  :END:
+
+
+#+BEGIN_VERSE
 
 My sister Lily's love and determination
 I have inherited.
@@ -42,19 +49,21 @@ I have inherited.
 My Father Shashi Kumar's inner confidence and outer triumph
 I have inherited.
 
- 
-  
-* Stories Of Chitta's Early Life In Chittagong
+#+END_VERSE
+
+
+
+* Part I -- Stories of Chitta's early life in Chittagong
 
   :PROPERTIES:
-  :genre: stories
+  :genre: section
   :keywords:
-  :cite-key: MBC:1
+  :cite-key: MBC:2e1
   :END:
 
 
 
-* My Brother's Birth
+* My brother's birth
 
   :PROPERTIES:
   :genre: story
@@ -69,7 +78,7 @@ My brother was not an ordinary human being. He was a really great soul. In his p
 
 
 
-* My Brother's Dreams
+* My brother's dreams
 
   :PROPERTIES:
   :genre: story
@@ -84,7 +93,7 @@ But Chitta felt that the child she was carrying would be not just a devotee of L
 
 
 
-* My Brother Mantu's Renunciation-Life
+* My brother Mantu's renunciation-life
 
   :PROPERTIES:
   :genre: story
@@ -101,7 +110,7 @@ So these /baouls/ appeared from nowhere to give the family that message. How did
 
 
 
-* Saved By Mother Kali
+* Saved by Mother Kali
 
   :PROPERTIES:
   :genre: story
@@ -128,7 +137,7 @@ The presiding deity of our family is Mother Kali. She saved me [fn:1] and she sa
 
 
 
-* Curing My Sister Lily
+* Curing my sister Lily
 
   :PROPERTIES:
   :genre: story
@@ -145,7 +154,7 @@ When this relative came to our house, what did he do? He only placed his hand on
 
 
 
-* My Brothers' Nicknames
+* My brothers' nicknames
 
   :PROPERTIES:
   :genre: story
@@ -162,7 +171,7 @@ Only my parents and those relatives who were older than Hriday and Chitta were a
 
 
 
-* My Sister's Special Quality
+* My sister's special quality
 
   :PROPERTIES:
   :genre: story
@@ -175,7 +184,7 @@ My sister Lily's nickname is Rani, which means "Queen." All her life, my sister 
 
 
 
-* My Mother's Prayer
+* My mother's prayer
 
   :PROPERTIES:
   :genre: story
@@ -192,7 +201,7 @@ Such was my mother's inner cry. She was crying for her children to be spiritual,
 
 
 
-* My Brother Becomes My Father's Closest Assistant
+* My brother becomes my father's closest assistant
 
   :PROPERTIES:
   :genre: story
@@ -221,7 +230,7 @@ I would always cry when I had to go back home. Why? I was very fond of my mother
 
 
 
-* My Dire Horoscope Prediction
+* My dire horoscope prediction
 
   :PROPERTIES:
   :genre: story
@@ -242,7 +251,7 @@ In spite of my cousin's sincere attempt to cancel my fate, my horoscope predicti
 
 
 
-* The Saviour Boat From The Depths Of The Unknown
+* The saviour boat from the depths of the unknown
 
   :PROPERTIES:
   :genre: story
@@ -267,7 +276,7 @@ When help was really sought after, it was not forthcoming from any human being. 
 
 
 
-* A Traumatic Experience In My Life
+* A traumatic experience in my life
 
   :PROPERTIES:
   :genre: story
@@ -286,7 +295,7 @@ That frightening experience lasted in me for hours and hours because of my love 
 
 
 
-* A Bicycle Of My Own
+* A bicycle of my own
 
   :PROPERTIES:
   :genre: story
@@ -309,7 +318,7 @@ So this is how my brother fooled me. I did not find out that he had fooled me un
 
 
 
-* My Adventures With The Bank Messenger
+* My adventures with the bank messenger
 
   :PROPERTIES:
   :genre: story
@@ -338,7 +347,7 @@ When the messenger and I returned that evening and my father heard the story, he
 
 
 
-* A Dispute Over Two Banks
+* A dispute over two banks
 
   :PROPERTIES:
   :genre: story
@@ -359,7 +368,7 @@ After that day, I believed my father and was so proud that our bank had more mon
 
 
 
-* A Slap From My Father
+* A slap from my father
 
   :PROPERTIES:
   :genre: story
@@ -378,7 +387,7 @@ Never, never did my father get angry with me. All kinds of complaints he used to
 
 
 
-* A Close Escape From Death
+* A close escape from death
 
   :PROPERTIES:
   :genre: story
@@ -405,7 +414,7 @@ The priest, still trembling from the experience, said to my father: "Reward! Wha
 
 
 
-* The Lion And The Goats 
+* The lion and the goats
 
   :PROPERTIES:
   :genre: story
@@ -422,7 +431,7 @@ When my brothers were in college, my father used to tell them mathematical equat
 
 
 
-* Mantu's Unfortunate Smoking Experience
+* Mantu's unfortunate smoking experience
 
   :PROPERTIES:
   :genre: story
@@ -443,7 +452,7 @@ Luckily, I never wanted to smoke. When I saw my brother's fate at the hands of m
 
 
 
-* My Bookworm-Brothers
+* My bookworm-brothers
 
   :PROPERTIES:
   :genre: story
@@ -458,7 +467,7 @@ I am totally different in nature from the rest of the family, totally different.
 
 
 
-* The Dhoti
+* The dhoti
 
   :PROPERTIES:
   :genre: story
@@ -475,7 +484,7 @@ When my father uttered the word "die," I felt miserable and tears came into my e
 
 
 
-* My Father Gives All Responsibility To Chitta
+* My father gives all responsibility to Chitta
 
   :PROPERTIES:
   :genre: story
@@ -488,7 +497,7 @@ In the evening of his life, my father taught everything to my brother Chitta. Th
 
 
 
-* My Father's Way Of Teaching
+* My father's way of teaching
 
   :PROPERTIES:
   :genre: story
@@ -503,7 +512,7 @@ Then he would play another trick. My brother would ask him a serious question an
 
 
 
-* My Father's Unique Occult Power
+* My father's unique occult power
 
   :PROPERTIES:
   :genre: story
@@ -534,7 +543,7 @@ Two or three days later, my father died.
 
 
 
-* The Day Of My Father's Death
+* The day of my father's death
 
   :PROPERTIES:
   :genre: story
@@ -547,7 +556,7 @@ The day my father died, he told my brother Chitta, "Give me anything you want me
 
 
 
-* My Uncle Saves My Brother
+* My uncle saves my brother
 
   :PROPERTIES:
   :genre: story
@@ -568,7 +577,7 @@ So for that entire day, my maternal uncle was in charge of the house. When peopl
 
 
 
-* The Extra Rice
+* The extra rice
 
   :PROPERTIES:
   :genre: story
@@ -591,7 +600,7 @@ This is how that bad fellow was exposed. In order to sell the rice to the unsusp
 
 
 
-* A Reluctant Confession
+* A reluctant confession
 
   :PROPERTIES:
   :genre: story
@@ -608,7 +617,7 @@ My brother Chitta simply smiled at him and remained silent.
 
 
 
-* One Brother Replaces Another At The Ashram
+* One brother replaces another at the Ashram
 
   :PROPERTIES:
   :genre: story
@@ -651,7 +660,7 @@ So my mother compelled my brother Chitta to go to the Sri Aurobindo Ashram. This
 
 
 
-* Hriday Becomes My Schoolteacher
+* Hriday becomes my schoolteacher
 
   :PROPERTIES:
   :genre: story
@@ -674,7 +683,7 @@ I studied under my brother for three months, up until we left for Pondicherry. M
 
 
 
-* All My Worries And Anxieties
+* All my worries and anxieties
 
   :PROPERTIES:
   :genre: story
@@ -695,7 +704,7 @@ Then, after we arrived in Pondicherry, in two weeks she made us permanent member
 
 
 
-* Chitta's Influence In My Life
+* Chitta's influence in my life
 
   :PROPERTIES:
   :genre: story
@@ -710,7 +719,7 @@ This brother of mine had the vision before others. When I was inside my mother, 
 
 
 
-* Unconditional Love
+* Unconditional love
 
   :PROPERTIES:
   :genre: story
@@ -723,7 +732,7 @@ I wish to say that no elder brother has been so indulgent to his younger brother
 
 
 
-* Chitta's Notebook
+* Chitta's notebook
 
   :PROPERTIES:
   :genre: stories
@@ -733,15 +742,21 @@ I wish to say that no elder brother has been so indulgent to his younger brother
 
 
 
-* 
-
-In 1980 my brother Chitta wrote a few anecdotes about my childhood at R's prayerful and fervent request. I translated them from Bengali into English in 1981 on her birthday -- February 3rd.
+In 1980 my brother Chitta wrote a few anecdotes about my childhood at R.'s prayerful and fervent request. I translated them from Bengali into English in 1981 on her birthday -- February 3rd.
 
 On December 3rd, 1996 I found those notebooks again and translated his stories in a different way. Here I have combined both translations.
 
 
 
-* Chitta's Notebooks
+* Chitta's notebooks
+
+  :PROPERTIES:
+  :genre: stories
+  :keywords:
+  :cite-key: MBC:36
+  :END:
+
+
 
 The Supreme gets tremendous joy in concealing Himself. Mother Nature gets tremendous joy in revealing the Supreme. Creation within and creation without is all delight. But in order to see, feel and drink in delight, one must needs have the vision-eye of a seer.
 
@@ -777,7 +792,7 @@ Unfortunately, I have forgotten quite a few stories of Madal's childhood life. O
 
 Right from his childhood, Madal had a tremendous desire to write books and print books. I am so grateful to God that He has fulfilled my youngest brother's desire. In 1955, when Madal's first book in English, /Flame-Waves/, was published, his Bengali teacher, Prabhakar Mukherjee, who was all affection and love for Chinmoy because he was by far the best student in his Bengali class, in his introduction wrote:
 
-"In 1946 the poet [Chinmoy] rendered Sri Aurobindo's Bengali story, /'Kshamar Adarsha'/, 'The Ideal of Forgiveness', into Bengali verse -- no less than 200 lines. The poet Nirodbaran took it to our Master, who remarked: 'It is a fine piece of poetry. He has capacity. Tell him to continue.' " [That was Sri Aurobindo's remark.]
+"In 1946 the poet [Chinmoy] rendered Sri Aurobindo's Bengali story, /Kshamar Adarsha/, 'The Ideal of Forgiveness', into Bengali verse -- no less than 200 lines. The poet Nirodbaran took it to our Master, who remarked: 'It is a fine piece of poetry. He has capacity. Tell him to continue.' " [That was Sri Aurobindo's remark.]
 
 The poem was published in a journal, /Partha Sarathi/, in March 1948 with an appreciative editorial note. He had written this poem when he was 14 years old. At such a tender age he showed his great talent. No wonder he has become a celebrated poet! We noticed all along in Chinmoy the influence of Tagore, Vivekananda and Sri Aurobindo. When Chinmoy was in his teens, we saw in Chinmoy Tagore, the manifold capacity; Vivekananda, the indomitable hero; and Sri Aurobindo, the founder of Integral Yoga.
 
@@ -833,35 +848,24 @@ Before, Chinmoy was in our hands. Now he is in the Hands of the Supreme. But tho
 
 
 
-* Chitta's Song
+* Chitta's song
 
   :PROPERTIES:
   :genre: song
   :keywords:
-  :cite-key: MBC:36
+  :cite-key: MBC:37
   :END:
 
 
-Man chale jai akashe
-
-Hiya ure dhai batashe
-
-Ki jani kahar parashe
-
-Dharani nachiche harashe
-
-Abanite aji esechi
-
-Naba abhijane nemechi
-
-Maya bandhan menechi
-
-Lila abhijane chalechi
-
-Hasiya esechi hasiya jaibo
-
-Hasabo sarba jibe
-
-Ananda rase dubaba dharani
-
-Jagabo supta shibe
+/Man chale jai akashe/ \\
+/Hiya ure dhai batashe/ \\
+/Ki jani kahar parashe/ \\
+/Dharani nachiche harashe/ \\
+/Abanite aji esechi/ \\
+/Naba abhijane nemechi/ \\
+/Maya bandhan menechi/ \\
+/Lila abhijane chalechi/ \\
+/Hasiya esechi hasiya jaibo/ \\
+/Hasabo sarba jibe/ \\
+/Ananda rase dubaba dharani/ \\
+/Jagabo supta shibe/
