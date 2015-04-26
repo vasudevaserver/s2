@@ -17,9 +17,9 @@
 * Why should I be responsible?
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
-  :cite-key: RAM:1
+  :cite-key: RAM:1e1
   :END:
 
 
@@ -27,9 +27,9 @@
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
-  :cite-key: RAM:2e1
+  :cite-key: RAM:1e2
   :END:
 
 
@@ -47,22 +47,12 @@ SON OF RATNAKAR
 
 
 
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:2
-  :END:
-
-
-
 * Scene I
 
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: RAM:3
+  :cite-key: RAM:1
   :END:
 
 
@@ -137,7 +127,7 @@ NARADA: Go and see.
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: RAM:4
+  :cite-key: RAM:2
   :END:
 
 
@@ -172,7 +162,7 @@ RATNAKAR /(giving a smart slap to his son):/ You ungrateful creature! /(He kicks
   :PROPERTIES:
   :genre: play
   :keywords:
-  :cite-key: RAM:5
+  :cite-key: RAM:3
   :END:
 
 
@@ -190,7 +180,7 @@ NARADA: Can't you say his name?
 
 RATNAKAR: I can't.
 
-NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name because you have done thousands of terrible things. Thousands of times you have acted like an animal. You are so impure, you are so mercilessly caught by the hostile forces that you have become like a real /Asura./ Now you cannot even repeat Rama's name. You can only say Mara, which is "Rama" said the other way around. All right, then, say Mara. Repeat Mara and in a few years' time you will be able to say Rama properly. Rama is the heart. Even if you cannot properly pronounce his name, he won't mind. With a soulful heart if you pray every day, repeating the name Mara, Rama will come to your rescue. He will forgive you, he will liberate you. It is to you that he will give the glory of immortalising him here on earth. You will write his biography, you will reveal him and manifest him. You will be the harbinger of his coming. When he comes down into the world and operates on the physical plane, you will see that the biography which you have written about him will immortalise you. He has chosen you to immortalise him, Ratnakar. And the day you start writing his biography, Lord Rama will enter into you and change your name. When you start writing his biography your new name will be Valmiki the Sage. Valmiki will be your real name. "When the power of love replaces the love of power, man will have a new name: God." With your love of power you wanted to destroy the world, but with your power of love you will liberate the world. You will be a messenger of truth, a messenger of fulfillment.
+NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name because you have done thousands of terrible things. Thousands of times you have acted like an animal. You are so impure, you are so mercilessly caught by the hostile forces that you have become like a real /asura./ Now you cannot even repeat Rama's name. You can only say Mara, which is "Rama" said the other way around. All right, then, say Mara. Repeat Mara and in a few years' time you will be able to say Rama properly. Rama is the heart. Even if you cannot properly pronounce his name, he won't mind. With a soulful heart if you pray every day, repeating the name Mara, Rama will come to your rescue. He will forgive you, he will liberate you. It is to you that he will give the glory of immortalising him here on earth. You will write his biography, you will reveal him and manifest him. You will be the harbinger of his coming. When he comes down into the world and operates on the physical plane, you will see that the biography which you have written about him will immortalise you. He has chosen you to immortalise him, Ratnakar. And the day you start writing his biography, Lord Rama will enter into you and change your name. When you start writing his biography your new name will be Valmiki the Sage. Valmiki will be your real name. "When the power of love replaces the love of power, man will have a new name: God." With your love of power you wanted to destroy the world, but with your power of love you will liberate the world. You will be a messenger of truth, a messenger of fulfillment.
 
 /(Narada blesses Ratnakar and departs.)/
 
@@ -199,7 +189,7 @@ NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name be
 * Dasharatha promises and Rama executes
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:6
   :END:
@@ -209,7 +199,7 @@ NARADA: Rama, Rama. See what you have done? You cannot repeat his sacred name be
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:7e1
   :END:
@@ -234,16 +224,6 @@ SAUTRUDHNA, SECOND SON OF SUMITRA AND DASHARATHA
 VASHISTHA, A SAGE
 
 OFFICERS IN BHARATA'S ARMY
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:7
-  :END:
 
 
 
@@ -435,7 +415,7 @@ LAKSHMANA /(laughing):/ Brother, you are not only the embodiment of truth but al
 
 /(Enter Bharata followed by officers. He prostrates himself before Rama and weeps bitterly.)/
 
-BHARATA: Brother, I am here at your feet. This army is yours. Come back! The Kingdom awaits your arrival. I have not accepted my mother's foul offering to me. I have not fulfilled her foul wish. We have lost our father. Your physical absence has sent him into the other world
+BHARATA: Brother, I am here at your feet. This army is yours. Come back! The Kingdom awaits your arrival. I have not accepted my mother's foul offering to me. I have not fulfilled her foul wish. We have lost our father. Your physical absence has sent him into the other world.
 
 /(Lakshmana, Sita and Rama burst into tears.)/
 
@@ -463,7 +443,7 @@ RAMA: Then you are disobeying me, your elder brother.
 
 BHARATA: I am not disobeying you. I cannot live without you, that's all. You are my Lord; you are my God. I can't live without my Lord and God.
 
-/(Enter Vashistha)/
+/(Enter Vashistha.)/
 
 VASHISTHA: With my occult vision I have come to know what is happening here. O Rama, O Bharata, I can solve your problem.
 
@@ -471,7 +451,7 @@ RAMA AND BHARATA: Please, please, O Sage Vashistha, solve our problem.
 
 VASHISTHA: Bharata, do not sit on Rama's throne. But go and be his agent. You rule on his behalf.
 
-BHARATA: O Sage, that will not satisfy me. If he will allow me to keep his wooden sandals to represent him on the throne, then I shall go back. But I shall not go back to Ayodhya. No, I shall live in the /Nandini/ [village] which is on the outskirts of Ayodhya. From there I shall carry out Rama's orders. Brother Rama, every day I shall place your sandals on my head and on my heart before I speak to anyone. It is your sandals that will represent you on the throne and give me my authority. You are the King. I am your deputy. I shall look after your Kingdom as your deputy. If you should fail to return to Ayodhya on the first day of the fifteenth year, the appointed day, you will not see your brother Bharata alive. I shall consign this body to flames, while uttering your sacred name.
+BHARATA: O Sage, that will not satisfy me. If he will allow me to keep his wooden sandals to represent him on the throne, then I shall go back. But I shall not go back to Ayodhya. No, I shall live in the /nandini/ [village] which is on the outskirts of Ayodhya. From there I shall carry out Rama's orders. Brother Rama, every day I shall place your sandals on my head and on my heart before I speak to anyone. It is your sandals that will represent you on the throne and give me my authority. You are the King. I am your deputy. I shall look after your Kingdom as your deputy. If you should fail to return to Ayodhya on the first day of the fifteenth year, the appointed day, you will not see your brother Bharata alive. I shall consign this body to flames, while uttering your sacred name.
 
 RAMA /(embraces his brother):/ Brother, I assure you of my return. I shall keep my promise. I make one last request to you. Do not torture our mother Kaikeyi. Ignorance has covered her life. Let us both forgive her. Through our forgiveness her inner illumination will take place.
 
@@ -484,7 +464,7 @@ BHARATA /(places the pair of wooden sandals on his heart):/ This is the symbol o
 * The golden deer
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:12
   :END:
@@ -494,7 +474,7 @@ BHARATA /(places the pair of wooden sandals on his heart):/ This is the symbol o
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:13e1
   :END:
@@ -509,16 +489,6 @@ LAKSHMANA, HALF-BROTHER OF RAMA
 MARICHA, THE DEER
 
 RAVANA, KING OF THE DEMONS
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:13
-  :END:
 
 
 
@@ -727,7 +697,7 @@ LAKSHMANA: Sita, Sita, no matter where you are, Mother Sita, this heart of adora
 * Dasharatha's dream is at last fulfilled
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:22
   :END:
@@ -737,7 +707,7 @@ LAKSHMANA: Sita, Sita, no matter where you are, Mother Sita, this heart of adora
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:23e1
   :END:
@@ -752,16 +722,6 @@ URMILA, WIFE OF LAKSHMANA
 SITA, WIFE OF RAMA
 
 A LARGE CROWD OF PEOPLE
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:23
-  :END:
 
 
 
@@ -808,7 +768,7 @@ Your love-play is my world.
 
 #+END_VERSE
 
-URMILA: If you had remained here at the palace you would have done your human duty to me. But your soul wanted you to do your divine duty, which was to serve your dearest brother, Rama. He is all Divinity. He is the incarnation of /Dharma./ You left me to be of service to him. You have come back again only to be of service to him. But your presence gives me enormous joy. I shall have you around me. I shall be with you. When it is a matter of serving, the Divine comes first and foremost. You did the right thing. You are doing the right thing. And in your sacrifice my glory looms large. In your feeling of oneness with the divine Rama, my oneness with the divine Rama shines.
+URMILA: If you had remained here at the palace you would have done your human duty to me. But your soul wanted you to do your divine duty, which was to serve your dearest brother, Rama. He is all Divinity. He is the incarnation of /dharma./ You left me to be of service to him. You have come back again only to be of service to him. But your presence gives me enormous joy. I shall have you around me. I shall be with you. When it is a matter of serving, the Divine comes first and foremost. You did the right thing. You are doing the right thing. And in your sacrifice my glory looms large. In your feeling of oneness with the divine Rama, my oneness with the divine Rama shines.
 
 RAMA: Urmila, your silence when we left for the forest was deeply appreciated and admired by me. You sacrificed your husband in silence. Your life of silent sacrifice has touched the very depths of my heart. Your sacrifice springs from your divine wisdom. Your soul-stirring philosophy is absolutely correct. The Divine comes first, and not the human. I see your life of oneness with your husband, your life of inner wisdom. You are all for the cause of my divine manifestation on earth. Urmila, feel my heart's enormous delight and my soul's transcendental pride.
 
@@ -817,7 +777,7 @@ RAMA: Urmila, your silence when we left for the forest was deeply appreciated an
 * My Rama is my all
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:25
   :END:
@@ -827,7 +787,7 @@ RAMA: Urmila, your silence when we left for the forest was deeply appreciated an
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:26e1
   :END:
@@ -836,16 +796,6 @@ RAMA: Urmila, your silence when we left for the forest was deeply appreciated an
 A KING
 
 HANUMAN, A GREAT DEVOTEE OF RAMA
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:26
-  :END:
 
 
 
@@ -919,7 +869,7 @@ Your Victory all my life.
 
 HANUMAN: King, since you do not care for Rama, I cannot waste one minute more of my precious time here. Good-bye.
 
-/(Exit Hanuman)/
+/(Exit Hanuman.)/
 
 KING: Hanuman's strength is unparalleled, but his blind and stupid faith in Rama is also unparalleled. In God's creation, it seems perfection will never dawn.
 
@@ -928,7 +878,7 @@ KING: Hanuman's strength is unparalleled, but his blind and stupid faith in Rama
 * Fire surrenders to Sita
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:28
   :END:
@@ -938,7 +888,7 @@ KING: Hanuman's strength is unparalleled, but his blind and stupid faith in Rama
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:29e1
   :END:
@@ -954,16 +904,6 @@ A LARGE AUDIENCE
 
 
 
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:29
-  :END:
-
-
-
 * Scene I
 
   :PROPERTIES:
@@ -975,11 +915,11 @@ A LARGE AUDIENCE
 
 /(Rama, Sita, Lakshmana and a vast audience. Sita is weeping with joy.)/
 
-RAMA: Sita, my heart is overflowing with joy to see you again. But, Sita, to me /Dharma,/ Divine Justice, is more important than my concern for you. You have stayed at the wicked Ravana's palace for several months. I am sure he has cast his lustful gaze on you. I am sure you are impure. My subjects will misunderstand me if I accept you now. Therefore, I am compelled to disown you. You must leave. You may go wherever you want to. Even if you want to have somebody else as the partner of your life, I will have no objection.
+RAMA: Sita, my heart is overflowing with joy to see you again. But, Sita, to me /dharma,/ Divine Justice, is more important than my concern for you. You have stayed at the wicked Ravana's palace for several months. I am sure he has cast his lustful gaze on you. I am sure you are impure. My subjects will misunderstand me if I accept you now. Therefore, I am compelled to disown you. You must leave. You may go wherever you want to. Even if you want to have somebody else as the partner of your life, I will have no objection.
 
 /(Sita's tears become tears of grief.)/
 
-SITA: You speak like an ordinary human being, Rama. I thought that you were great, really great, but now I think that you are worse than any human being on earth. Can't you see with your occult vision whether or not I have lived an impure life at Ravana's palace? He tempted me with his wealth. He tried to force me to be his, but my inner strength protected and saved me. I wanted only you, and I still want only you, but now you discard me like a filthy rag. I am prepared to leave you, but before I leave, I wish to prove to you that I am Purity itself. I shall consign my body to fire and you will see what happens to me. /(To Lakshmana.)/ Lakshmana, with all your heart's magnanimity you have helped me millions of times. You have listened to me millions of times. You have always considered me as your mother. Listen then to one final request. Please light a blazing fire for me. This is my last request, my last prayer to you.
+SITA: You speak like an ordinary human being, Rama. I thought that you were great, really great, but now I think that you are worse than any human being on earth. Can't you see with your occult vision whether or not I have lived an impure life at Ravana's palace? He tempted me with his wealth. He tried to force me to be his, but my inner strength protected and saved me. I wanted only you, and I still want only you, but now you discard me like a filthy rag. I am prepared to leave you, but before I leave, I wish to prove to you that I am Purity itself. I shall consign my body to fire and you will see what happens to me. /(To Lakshmana)/ Lakshmana, with all your heart's magnanimity you have helped me millions of times. You have listened to me millions of times. You have always considered me as your mother. Listen then to one final request. Please light a blazing fire for me. This is my last request, my last prayer to you.
 
 LAKSHMANA: Mother, not a prayer, not a request, but a fatal command. Rama, what am I going to do now?
 
@@ -1011,7 +951,7 @@ SITA: My Lord, you are right. You are always right. This existence of mine is on
 /(Sita sings.)/
 
 /Saphalhbabe swapan amar saphal habe/ \\
-/Samarpaner atma-hutir mahotsabe/ \\
+/Samarpaner atma hutir mahotsabe/ \\
 /Tomar hasi tomar banshi/ \\
 /Bijay ketan amar chetan/ \\
 /Amar bhabe nachbe jani/ \\
@@ -1034,7 +974,7 @@ I know, I know.
 * No faith, no safety
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:32
   :END:
@@ -1044,7 +984,7 @@ I know, I know.
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:33e1
   :END:
@@ -1053,16 +993,6 @@ I know, I know.
 HANUMAN, A GREAT DEVOTEE OF RAMA
 
 A MAN
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:33
-  :END:
 
 
 
@@ -1154,7 +1084,7 @@ HANUMAN: No. You sneer at my Rama, you ridicule my Rama. I won't save you. He wh
 * Rama fails
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:35
   :END:
@@ -1164,7 +1094,7 @@ HANUMAN: No. You sneer at my Rama, you ridicule my Rama. I won't save you. He wh
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:36e1
   :END:
@@ -1181,16 +1111,6 @@ VASHISHTHA, PRECEPTOR OF RAMA
 MOTHER OF HANUMAN
 
 HANUMAN, A GREAT DEVOTEE OF RAMA
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:36
-  :END:
 
 
 
@@ -1238,15 +1158,15 @@ RAMA: With your blessing let me leave.
   :END:
 
 
-/(Rama is looking for the man. Finally he sees him at a distance. He gives chase, and the man runs for his life )/
+/(Rama is looking for the man. Finally he sees him at a distance. He gives chase, and the man runs for his life.)/
 
 RAMA: Ah, I see he is entering into my Hanuman's house. The rogue is caught! He does not know that the house belongs to Hanuman, my dearest devotee. /(Shouts)/ Hanuman! Hanuman!
 
-/(Enter Hanuman's mother)/
+/(Enter Hanuman's mother.)/
 
 HANUMAN'S MOTHER: O Rama, you have come. I am so grateful to you. Your presence has sanctified my home. O Rama, please wait for a few minutes. Hanuman will be coming immediately, He is getting ready to see you.
 
-/(Exit Hanuman's mother)/
+/(Exit Hanuman's mother.)/
 
 /(Enter Hanuman with folded hands.)/
 
@@ -1262,7 +1182,7 @@ HANUMAN: That is true. I will give my life for you. But this is not my life. It 
 
 RAMA: That means you won't listen to me, to my request, my demand, my command?
 
-HANUMAN: I am sorry. Forgive me. My mother has given him shelter. /Janani janmabhumih cha swargacapi gariyasi./ "Mother and Mother Earth are superior to Heaven itself."
+HANUMAN: I am sorry. Forgive me. My mother has given him shelter. /Janani janmabhumishcha swargadapi gariyasi./ "Mother and Mother Earth are superior to Heaven itself."
 
 RAMA: But I am your Lord. Am I not superior to everything in your life?
 
@@ -1276,7 +1196,7 @@ RAMA: I am going to kill him with my arrows. Vashishtha has allowed me three att
 
 HANUMAN: Please wait here. I shall bring the culprit right to you.
 
-/(Exit Hanuman)/
+/(Exit Hanuman.)/
 
 RAMA /(to himself):/ I knew. The moment I saw the culprit entering into Hanuman's house, I knew it was his end. He could not escape me. The human emotions created some problem for my Hanuman; that is why he took his mother's side. But the divine in him is so strong, so powerful, that it has to come forward, and it did come forward. That is why he is bringing the culprit to me.
 
@@ -1321,7 +1241,7 @@ my ego-reality's existence.
 * Brother Lakshmana, I shall follow you
 
   :PROPERTIES:
-  :genre: play
+  :genre: section
   :keywords:
   :cite-key: RAM:39
   :END:
@@ -1331,7 +1251,7 @@ my ego-reality's existence.
 * Cast
 
   :PROPERTIES:
-  :genre: note
+  :genre: play
   :keywords:
   :cite-key: RAM:40e1
   :END:
@@ -1348,16 +1268,6 @@ DURVASHA, A SAGE
 PRIME MINISTER
 
 MINISTERS AND ELDERS
-
-
-
-* Act I
-
-  :PROPERTIES:
-  :genre: play
-  :keywords:
-  :cite-key: RAM:40
-  :END:
 
 
 
@@ -1409,9 +1319,9 @@ RAMA: Yes, I devotedly agree to your proposal. Lakshmana, my dearest brother, do
 
 LAKSHMANA /(with folded hands):/ Rama, I am at your supreme command.
 
-/(Exit Lakshmana)/
+/(Exit Lakshmana.)/
 
-YAMARAJ: Rama, I am Yamaraj, the King of Death. I have been sent to you by Brahma, the Eternal Creator. He has asked me to tell you that your play on earth is done. You have fought very hard to establish the Kingdom of /Dharma/ on earth, and you have succeeded. Now your time is up. You are needed in Heaven.
+YAMARAJ: Rama, I am Yamaraj, the King of Death. I have been sent to you by Brahma, the Eternal Creator. He has asked me to tell you that your play on earth is done. You have fought very hard to establish the Kingdom of /dharma/ on earth, and you have succeeded. Now your time is up. You are needed in Heaven.
 
 RAMA: I am happy to hear that my time has at last come. My Sita is no longer with me. Just to please the world I tortured her heart. I cared more for the world than for my dearest wife. Now she has left her body, cast off her mortal sheath, just to please me. I was such a rascal, such a wretched fellow. Now I shall meet her in the other world. I am so happy to go with you.
 
@@ -1423,7 +1333,7 @@ YAMARAJ: Rama, we have not finished our conversation, and your brother has enter
 
 RAMA: It is true. It is true. Lakshmana, go and bring Durvasha here. In the meantime we will finish our conversation.
 
-/(Exit Lakshmana)/
+/(Exit Lakshmana./
 
 YAMARAJ: So, are you ready? Soon you will be called away. Are you ready?
 
@@ -1474,11 +1384,11 @@ PRIME MINISTER: O Rama, since it was your promise that you would put to death an
 
 RAMA: For me to live without my brother Lakshmana is also my death. To be away from him, not to see him around me, is my worst death.
 
-LAKSHMANA /(bowing):/ Brother, Father, you are my All. I want the world to see that you are the Incarnation of Truth. You have established the Kingdom of /Dharma./ Your promise and your life can never be separated. They are one and inseparable. I am now leaving the palace. I will go and meditate on the bank of the Sarayu, and when the time comes I shall jump into the river and give up my life.
+LAKSHMANA /(bowing):/ Brother, Father, you are my All. I want the world to see that you are the Incarnation of Truth. You have established the Kingdom of /dharma./ Your promise and your life can never be separated. They are one and inseparable. I am now leaving the palace. I will go and meditate on the bank of the Sarayu, and when the time comes I shall jump into the river and give up my life.
 
 RAMA: O joy of my heart, O love of my heart, O power of my heart, you are leaving me. You are embracing death. Because of your constant sacrifice, this world knows me. And in the other world, I will also be known because of your sacrifice. I will be adored and worshipped. O brother of my heart and soul, O brother of eternity, you have followed me everywhere; wherever I have gone you have followed me like my own shadow. When Father sent me into exile, when I had to bring Sita back from Ravana, you followed me. But now, O Lakshmana, I shall follow you. I shall follow your life-breath. You go and reserve my place in the other world, in the world of the Beyond. I am coming.
 
-/(Lakshmana bows to his brother and begins to leave)/
+/(Lakshmana bows to his brother and begins to leave.)/
 
 /(Rama sings.)/
 
