@@ -14,7 +14,7 @@
 
 
 
-* O My Poem, ...
+* 1.
 
   :PROPERTIES:
   :genre: poem
@@ -40,11 +40,10 @@ Hide me in the waters of liberation-sea.
 #+END_VERSE
 
 
-
-* Society Of Writers Honours Sri Chinmoy At The United Nations
+* Part I -- Society of Writers honours Sri Chinmoy at the United Nations
 
   :PROPERTIES:
-  :genre: preface
+  :genre: section
   :keywords:
   :cite-key: PRHD:2e1
   :END:
@@ -56,12 +55,12 @@ Hide me in the waters of liberation-sea.
 
 
 
-* On 30 March 1993 The United Nations...
+* 2.
 
   :PROPERTIES:
-  :genre: note
+  :genre: remark
   :keywords:
-  :cite-key: PRHD:2e2
+  :cite-key: PRHD:2
   :END:
 
 
@@ -69,12 +68,12 @@ I do not know how I can possibly be worthy of this blessingful honour. I am know
 
 
 
-* The Golden Flute
+* The golden Flute
 
   :PROPERTIES:
   :genre: poem
   :keywords:
-  :cite-key: PRHD:2
+  :cite-key: PRHD:3
   :END:
 
 
@@ -125,12 +124,12 @@ Of my heart-garden.
 #+END_VERSE
 
 
-* American Freedom In My Poetry
+* American freedom in my poetry
 
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: PRHD:3
+  :cite-key: PRHD:4
   :END:
 
 
@@ -160,25 +159,22 @@ In India it is said that a real Brahmin does not have to show his sacred thread 
 
 
 
-* Poetry-Poem-Poet
+* Part II -- Poetry-poem-poet[fn:: PRHD 5. Sri Chinmoy gave this talk on poetry at the Musikaliska Akademien in Stockholm, Sweden, on 16 October 1990.]
 
   :PROPERTIES:
-  :genre: preface
+  :genre: section
   :keywords:
-  :cite-key: PRHD:4e1
+  :cite-key: PRHD:5e1
   :END:
 
 
-/Sri Chinmoy gave the following talk on poetry at the Musikaliska Akademien in Stockholm, Sweden, on 16 October 1990./
 
-
-
-* Poetry And Prose
+* Poetry and prose
 
   :PROPERTIES:
   :genre: discourse
   :keywords:
-  :cite-key: PRHD:4
+  :cite-key: PRHD:5
   :END:
 
 
@@ -232,3 +228,5 @@ I am the Heart-Fragrance
 Of My Infinity."
 
 #+END_VERSE
+
+
